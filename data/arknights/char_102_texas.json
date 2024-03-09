@@ -1,0 +1,1084 @@
+{
+  "name": "德克萨斯",
+  "charaKey": "char_102_texas",
+  "images": [
+    "https://prts.wiki/images/f/fc/立绘_德克萨斯_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/f/fc/立绘_德克萨斯_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/1/1f/立绘_德克萨斯_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/2/2b/立绘_德克萨斯_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_102_texas"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_102_texas"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_102_texas"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_102_texas"
+    },
+    {
+      "language": "意大利语",
+      "base": "voice_custom/char_102_texas_ita"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我接下来的任务是保护博士你的安全。"
+        },
+        {
+          "language": "日文",
+          "content": "次の任務はドクターの身辺警護か。"
+        },
+        {
+          "language": "英文",
+          "content": "My next mission is to protect you, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "다음 임무는 박사의 신변 경호인가."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我接下來的任務是保護博士你的安全。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Proteggerti e la mia prossima missione, Doc."
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的话不多？实际上，我对大多数事情都没什么感想。"
+        },
+        {
+          "language": "日文",
+          "content": "無口だと？それは私が大抵のことに感慨を抱かないからだ……。"
+        },
+        {
+          "language": "英文",
+          "content": "I don't say much? That's because I'd rather avoid thinking about most things."
+        },
+        {
+          "language": "韩文",
+          "content": "과묵하다고? 그건 내가... 웬만한 일에는 감흥이 없어서 그래."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我的話不多？實際上，我對大多數事情都沒什麼感想。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Non parlo molto? È perché preferisco evitare di pensare."
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们的工作是搬运生命和死亡。"
+        },
+        {
+          "language": "日文",
+          "content": "我々の仕事は、生と死を運ぶことだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Our job is to deliver life and death."
+        },
+        {
+          "language": "韩文",
+          "content": "우리 업무는 삶과 죽음을 나르는 것이다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我們的工作是搬運生命和死亡。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Far vivere o uccidere, questo è il nostro lavoro."
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "开车的时候我一般会听“空”她自己录的歌。"
+        },
+        {
+          "language": "日文",
+          "content": "運転中は大抵、ソラが録った曲を聴いている。"
+        },
+        {
+          "language": "英文",
+          "content": "I usually listen to Sora's songs when I'm driving."
+        },
+        {
+          "language": "韩文",
+          "content": "운전 중에는 보통 소라가 부른 곡들을 듣고 있다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "開車的時候我一般會聽“空”她自己錄的歌。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Di solito ascolto le canzoni di Sora quando guido."
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这不是烟，是巧克力，定期摄入能量是必要的。所以......你要来点咖啡么？"
+        },
+        {
+          "language": "日文",
+          "content": "タバコ？いや、これはチョコレートだ。エネルギーの定期摂取は必要だからな。そうだな……コーヒーでも飲むか？"
+        },
+        {
+          "language": "英文",
+          "content": "Cigarette? Oh, no, this is chocolate. You've gotta replenish your energy regularly. Which reminds me... do you want some coffee?"
+        },
+        {
+          "language": "韩文",
+          "content": "담배냐고? 아니, 이건 초콜릿이다. 정기적인 열량 섭취는 필수니까. 그렇지... 커피라도 한잔 어때?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這不是煙，是巧克力，定期攝入能量是必要的。所以......你要來點咖啡嗎？"
+        },
+        {
+          "language": "意大利文",
+          "content": "Sigaretta? No, è cioccolato. Bisogna ricaricare le energie regolarmente. Il che mi ricorda, ti va un caffè?"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "什么时候加入企鹅物流的？嗯......什么时候呢......"
+        },
+        {
+          "language": "日文",
+          "content": "いつからペンギン急便で働いているか？……いつから……そんなこと、とうに忘れた。"
+        },
+        {
+          "language": "英文",
+          "content": "How long have I worked for Penguin Logistics? When did I start...? I don't even know how long it's been."
+        },
+        {
+          "language": "韩文",
+          "content": "언제부터 펭귄 로지스틱스에서 일했냐고? 음…… 언제부터였더라……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "什麼時候加入企鵝物流的？嗯......什麼時候呢......"
+        },
+        {
+          "language": "意大利文",
+          "content": "Da quanto tempo lavoro per Penguin Logistics? Quando è iniziato..."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "红色的狼，务必要小心。她不坏，但.....她和我们不一样。"
+        },
+        {
+          "language": "日文",
+          "content": "赤いオオカミには気をつけた方がいい。悪いやつではないが……私たちとは違う。"
+        },
+        {
+          "language": "英文",
+          "content": "Watch out for the Red Wolf. She's not evil, but... she's not like us."
+        },
+        {
+          "language": "韩文",
+          "content": "붉은 늑대는 조심하는 편이 좋아. 나쁜 녀석은 아니지만… 우리와는 달라."
+        },
+        {
+          "language": "繁体中文",
+          "content": "紅色的狼，務必要小心。她不壞，但.....她和我們不一樣。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Fai attenzione al lupo rosso. Non è malvagia, ma non è come noi."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "无论怎么逃，我的过去总有一天会追上我。"
+        },
+        {
+          "language": "日文",
+          "content": "いくら逃げたところで、いつかは過去に追いつかれる。"
+        },
+        {
+          "language": "英文",
+          "content": "No matter how hard I run, my past will catch up to me one day."
+        },
+        {
+          "language": "韩文",
+          "content": "아무리 도망쳐도, 언젠간 과거에 따라잡히게 되지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "無論怎麼逃，我的過去總有一天會追上我。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Non importa quanto corro, prima o poi, il mio passato mi raggiungerà."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "自由的生活，吵闹的伙伴，虽然总给我带来麻烦，不过......我现在觉得这样也不坏。"
+        },
+        {
+          "language": "日文",
+          "content": "自由な生活、騒がしい仲間……いろいろ面倒だが……今はそれも悪くない気がする。"
+        },
+        {
+          "language": "英文",
+          "content": "My independent lifestyle and rowdy friends have brought me a lot of trouble... but I kind of like it this way."
+        },
+        {
+          "language": "韩文",
+          "content": "자유로운 삶, 시끌벅적한 동료들... 여러모로 귀찮지만... 지금은 그것도 나쁘지 않은 거 같아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "自由的生活，吵鬧的夥伴，雖然總給我帶來麻煩，不過......我現在覺得這樣也不壞。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Il mio stile di vita indipendente e i miei amici scalmanati mi hanno causato molti problemi, ma in un certo senso, mi piace così."
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "现在是休息时间吗？"
+        },
+        {
+          "language": "日文",
+          "content": "今は休憩時間なのか？"
+        },
+        {
+          "language": "英文",
+          "content": "Is it time for a break?"
+        },
+        {
+          "language": "韩文",
+          "content": "지금 휴식 시간인가?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "現在是休息時間嗎？"
+        },
+        {
+          "language": "意大利文",
+          "content": "Facciamo una pausa?"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "代号德克萨斯，职能包括载具驾驶、货物搬运以及人员安全保障。关于任务的说明，请尽量简单些。"
+        },
+        {
+          "language": "日文",
+          "content": "名前はテキサス。仕事は車両の運転と物資の輸送、そして要人の警護だ。任務に関する指示は、できるだけシンプルに頼む。"
+        },
+        {
+          "language": "英文",
+          "content": "Code name Texas. I'm responsible for driving, moving cargo, and keeping our people safe. Try to get the mission briefings as concise as possible, please."
+        },
+        {
+          "language": "韩文",
+          "content": "이름은 텍사스라고 한다. 차량 운전, 물자 수송, 그리고 요인 경호를 맡고 있다. 임무에 관한 지시는 되도록 간결하게 부탁한다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "代號德克薩斯，職能包括載具駕駛、貨物搬運以及人員安全保障。關於任務的說明，請儘量簡單些。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Nome in codice Texas, sono responsabile della guida dello spostamento dei carichi e della sicurezza della nostra gente. Cerca di essere breve durante i briefing delle missioni."
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "谢谢。"
+        },
+        {
+          "language": "日文",
+          "content": "どうも。"
+        },
+        {
+          "language": "英文",
+          "content": "Thanks."
+        },
+        {
+          "language": "韩文",
+          "content": "고마워."
+        },
+        {
+          "language": "繁体中文",
+          "content": "謝謝。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Grazie."
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "报酬的话，这些足够了。"
+        },
+        {
+          "language": "日文",
+          "content": "報酬なら、これで十分だ。"
+        },
+        {
+          "language": "英文",
+          "content": "This will work as payment."
+        },
+        {
+          "language": "韩文",
+          "content": "보수라면, 이걸로 충분해."
+        },
+        {
+          "language": "繁体中文",
+          "content": "報酬的話，這些足夠了。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Come pagamento, andra bene."
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "感谢你的信任，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターの信頼に感謝を。"
+        },
+        {
+          "language": "英文",
+          "content": "Thanks for trusting me, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "박사의 신뢰에, 감사를 표하지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "感謝你的信任，博士。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Grazie per la tua fiducia,Doc."
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "需要我做什么？"
+        },
+        {
+          "language": "日文",
+          "content": "何をすればいい？"
+        },
+        {
+          "language": "英文",
+          "content": "What do you need?"
+        },
+        {
+          "language": "韩文",
+          "content": "뭘 하면 되지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "需要我做什麼？"
+        },
+        {
+          "language": "意大利文",
+          "content": "Che ti serve?"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不太擅长指挥别人。"
+        },
+        {
+          "language": "日文",
+          "content": "誰かに指示を出すのは苦手だ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm not good at barking orders."
+        },
+        {
+          "language": "韩文",
+          "content": "남들한테 지시 내리는 건 잘 못하는데."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我不太擅長指揮別人。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Non sono brava impartire ordini."
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "出发。"
+        },
+        {
+          "language": "日文",
+          "content": "出発する。"
+        },
+        {
+          "language": "英文",
+          "content": "Let's go."
+        },
+        {
+          "language": "韩文",
+          "content": "출발한다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "出發。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Andiamo."
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "能天使，掩护我。"
+        },
+        {
+          "language": "日文",
+          "content": "エクシア、援護を。"
+        },
+        {
+          "language": "英文",
+          "content": "Exusiai, cover me."
+        },
+        {
+          "language": "韩文",
+          "content": "엑시아, 엄호해줘."
+        },
+        {
+          "language": "繁体中文",
+          "content": "能天使，掩護我。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Exusiai, coprimi."
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "给我命令。"
+        },
+        {
+          "language": "日文",
+          "content": "命令を。"
+        },
+        {
+          "language": "英文",
+          "content": "Awaiting orders."
+        },
+        {
+          "language": "韩文",
+          "content": "명령을 내려줘."
+        },
+        {
+          "language": "繁体中文",
+          "content": "給我命令。"
+        },
+        {
+          "language": "意大利文",
+          "content": "In attesa di ordini."
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "了解。"
+        },
+        {
+          "language": "日文",
+          "content": "了解した。"
+        },
+        {
+          "language": "英文",
+          "content": "Got it."
+        },
+        {
+          "language": "韩文",
+          "content": "알겠다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "瞭解。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Ricevuto."
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "拔刀。"
+        },
+        {
+          "language": "日文",
+          "content": "抜刀。"
+        },
+        {
+          "language": "英文",
+          "content": "Draw swords!"
+        },
+        {
+          "language": "韩文",
+          "content": "발도."
+        },
+        {
+          "language": "繁体中文",
+          "content": "拔刀。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Sguainate le spade. "
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "开始吧。"
+        },
+        {
+          "language": "日文",
+          "content": "始めよう。"
+        },
+        {
+          "language": "英文",
+          "content": "Let's begin."
+        },
+        {
+          "language": "韩文",
+          "content": "시작하지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "開始吧。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Cominciamo."
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哼。"
+        },
+        {
+          "language": "日文",
+          "content": "ふん。"
+        },
+        {
+          "language": "英文",
+          "content": "Hah!"
+        },
+        {
+          "language": "韩文",
+          "content": "흥."
+        },
+        {
+          "language": "繁体中文",
+          "content": "哼。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Henn."
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没人能束缚我。"
+        },
+        {
+          "language": "日文",
+          "content": "誰にも縛られるつもりはない。"
+        },
+        {
+          "language": "英文",
+          "content": "You can't stop me."
+        },
+        {
+          "language": "韩文",
+          "content": "누구도 날 묶어두진 못해."
+        },
+        {
+          "language": "繁体中文",
+          "content": "沒人能束縛我。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Non puoi fermarmi."
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "斩尽杀绝。"
+        },
+        {
+          "language": "日文",
+          "content": "斬り尽くす。"
+        },
+        {
+          "language": "英文",
+          "content": "Cut them to pieces!"
+        },
+        {
+          "language": "韩文",
+          "content": "철저하게 베어 주마."
+        },
+        {
+          "language": "繁体中文",
+          "content": "斬盡殺絕。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Falli a pezzi. "
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "闭嘴。"
+        },
+        {
+          "language": "日文",
+          "content": "黙っていろ。"
+        },
+        {
+          "language": "英文",
+          "content": "Shut up."
+        },
+        {
+          "language": "韩文",
+          "content": "닥쳐라."
+        },
+        {
+          "language": "繁体中文",
+          "content": "閉嘴。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Silenzio."
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哼，没问题。"
+        },
+        {
+          "language": "日文",
+          "content": "フッ…問題ない。"
+        },
+        {
+          "language": "英文",
+          "content": "Whew... No problem."
+        },
+        {
+          "language": "韩文",
+          "content": "훗… 문제 없다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "哼，沒問題。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Nessun problema."
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不堪一击。"
+        },
+        {
+          "language": "日文",
+          "content": "脆い。"
+        },
+        {
+          "language": "英文",
+          "content": "Weaklings."
+        },
+        {
+          "language": "韩文",
+          "content": "약하군."
+        },
+        {
+          "language": "繁体中文",
+          "content": "不堪一擊。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Smidollati."
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "溜走了几个。"
+        },
+        {
+          "language": "日文",
+          "content": "若干名の侵入を許した。"
+        },
+        {
+          "language": "英文",
+          "content": "A few of them got through."
+        },
+        {
+          "language": "韩文",
+          "content": "몇 명 놓쳤다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "溜走了幾個。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Qualcuno ci è scappato."
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我可能低估了这次行动的难度..."
+        },
+        {
+          "language": "日文",
+          "content": "今回の任務を甘く見ていたようだ……。"
+        },
+        {
+          "language": "英文",
+          "content": "I may have underestimated this operation."
+        },
+        {
+          "language": "韩文",
+          "content": "이번 임무를 너무 쉽게 본 모양이군…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我可能低估了這次行動的難度..."
+        },
+        {
+          "language": "意大利文",
+          "content": "Forse ho sottostimato l'operazione."
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里需要补充物资吗？我可以帮忙。"
+        },
+        {
+          "language": "日文",
+          "content": "必要な物資はあるか？助けになろう。"
+        },
+        {
+          "language": "英文",
+          "content": "Do&nbsp;you&nbsp;need&nbsp;any&nbsp;supplies?&nbsp;Just&nbsp;let&nbsp;me&nbsp;know."
+        },
+        {
+          "language": "韩文",
+          "content": "필요한 물자가 있나? 도와주도록 하지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這裡需要補充物資嗎？我可以幫忙。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Ti servono provviste? Fammi sapere."
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔......！"
+        },
+        {
+          "language": "日文",
+          "content": "ウッ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Oh...!"
+        },
+        {
+          "language": "韩文",
+          "content": "윽..."
+        },
+        {
+          "language": "繁体中文",
+          "content": "唔......！"
+        },
+        {
+          "language": "意大利文",
+          "content": "Eh..."
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "怎么了？博士。"
+        },
+        {
+          "language": "日文",
+          "content": "どうした、ドクター？"
+        },
+        {
+          "language": "英文",
+          "content": "What is it, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "무슨 일이지, 박사?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "怎麼了？博士。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Che c'è? Doc."
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Arknights."
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "早。"
+        },
+        {
+          "language": "日文",
+          "content": "おはよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Morning."
+        },
+        {
+          "language": "韩文",
+          "content": "어, 안녕?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "早。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Giorno."
+        }
+      ]
+    }
+  ]
+}

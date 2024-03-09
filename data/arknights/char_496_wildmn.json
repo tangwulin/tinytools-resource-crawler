@@ -1,0 +1,939 @@
+{
+  "name": "野鬃",
+  "charaKey": "char_496_wildmn",
+  "images": [
+    "https://prts.wiki/images/b/bc/立绘_野鬃_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/4/4d/立绘_野鬃_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/9/97/立绘_野鬃_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_496_wildmn"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_496_wildmn"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_496_wildmn"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_496_wildmn"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不行，把那些文书拿远一些......看到那么多字就头晕。可别想让我帮忙啊，博士，我就在这老老实实待着。"
+        },
+        {
+          "language": "日文",
+          "content": "無理無理、書類なんかはどっか遠くにやっといてくれ……ミミズの這ったような文字の羅列を見てると頭がくらくらすんだ。あたしに手伝ってもらおうなんて考えんなよドクター。あたしはここで大人しくしてるからよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Nah-ah, keep those documents away from me... I go all vertigo when I see too much text. Don't even think of making me help you on the paper work, Doctor, I'm just gonna stand here nice and good."
+        },
+        {
+          "language": "韩文",
+          "content": "아이 내가 이런 걸 어떻게 해, 서류 같은 건 어디 멀리 치워 버려 쫌…… 무슨 지렁이가 기어간 것마냥 글씨가 빼곡한 걸 보면, 아주 머리가 어질어질하다니까? 나한테 뭐 도움받을 생각하지 마 박사. 나는 여기 얌~전히 있을 테니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "不行，把那些文書拿遠一些......看到那麼多字就頭暈。可別想讓我幫忙啊，博士，我就在這老老實實待著。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "盔甲喷漆？当然要选金色。我喜欢金色，因为金色是闪电的颜色，闪电的速度很快！"
+        },
+        {
+          "language": "日文",
+          "content": "鎧の塗装？金色一択だろ。キンキラキンが好きなんだよ。だって金って稲妻の色だろ、んで稲妻ははえーからな！"
+        },
+        {
+          "language": "英文",
+          "content": "Armor paint? It's gotta be gold. I love gold. It's the color of lightning, and when they say things are fast as lightning, that's fast!"
+        },
+        {
+          "language": "韩文",
+          "content": "갑옷에 도색하는 거? 당연히 금색이지. 반짝거리는 게 좋거든. 왜냐면 번개 색깔이 또 금색이잖아, 근데 또 번개는 빠르니까!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "盔甲噴漆？當然要選金色。我喜歡金色，因為金色是閃電的顏色，閃電的速度很快！"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "说到战斗，我就按照自己的办法来。想让别人仰视你，那就把他揍趴下。想让对方老实听你的，就来打一场，让他知道自己毫无胜算。"
+        },
+        {
+          "language": "日文",
+          "content": "戦いなら、あたしは自分のやり方でやらせてもらうぜ。相手に見上げられたいなら、叩き伏せてやればいい。言うことを聞かせたいなら、とりあえず一発ケンカして、勝ち目がねぇってことを思い知らせてやりゃいいんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "For combat, I got my own way of doing things. If you want 'em to respect you, just beat 'em down. If you want 'em to listen to you, go for a round, and let 'em know they could never ever win."
+        },
+        {
+          "language": "韩文",
+          "content": "싸울 거면 나는 내 방식대로 할 거야. 상대방이 우러러보게 만들고 싶다면, 두들겨 패 주면 돼. 하는 말을 듣게 하고 싶다면, 일단 한바탕 붙어서, 승산이 없다는 걸 깨닫게 만들면 돼."
+        },
+        {
+          "language": "繁体中文",
+          "content": "說到戰鬥，我就按照自己的辦法來。想讓別人仰視你，那就把他揍趴下。想讓對方老實聽你的，就來打一場，讓他知道自己毫無勝算。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "无胄盟的杀手、临光家的骑士、红松骑士团......罗德岛怎么能够同时容纳这些人的？招人标准真是奇怪。"
+        },
+        {
+          "language": "日文",
+          "content": "無冑盟の殺し屋、ニアール家の騎士、レッドパイン騎士団……このメンツを一緒くたに受け入れるなんて、ロドスは何考えてんだ？採用基準がおかしいだろ。"
+        },
+        {
+          "language": "英文",
+          "content": "Armorless Union assassins, Nearl family knights, the Pinus Sylvestris Knightclub... how's Rhodes Island hold all of them together? Your recruiting standards are mad out of sight."
+        },
+        {
+          "language": "韩文",
+          "content": "아머레스 유니온의 킬러, 니어 가문의 기사, 피누스 실베스트리스 기사단…… 이런 사람들을 다 같이 받아주다니, 로도스 아일랜드는 대체 뭔 생각을 하고 있는 거야? 채용 기준이 이상하잖아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "無胄盟的殺手、臨光家的騎士、紅松騎士團......羅德島怎麼能夠同時容納這些人的？招人標準真是奇怪。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我这些战斗技巧都是从小学的，为了成为一名征战骑士而做的准备。但感染之后......啧，即使这样我也要成为“骑士”。只要能靠战斗的胜利证明自己的实力，我就会赢给所有人看。"
+        },
+        {
+          "language": "日文",
+          "content": "あたしの戦闘スキルは、小さい頃から征戦騎士になるために身につけてきたんだ。だけど鉱石病（オリパシー）になって……チッ、それでも「騎士」にはなってやったぜ。勝利すりゃ実力が証明できるだろ？だからあたしは勝って勝って勝ちまくって、全員を見返してやんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "I‘ve been honing myself into a campaign knight since childhood. That's how I've learnt all my combat skills. But after I got infected…pssh, I still wanna be a 'knight.' If winning fights is the way to prove myself, then I'll win every fight to show'em all."
+        },
+        {
+          "language": "韩文",
+          "content": "내 전투 스킬은 어렸을 때부터 출정 기사가 되기 위해 익혀 온 거야. 근데 하필 광석병에 걸려서…… 칫, 그래도 '기사'가 되긴 했어. 승리하면 실력을 증명할 수 있잖아? 그러니까 나는 보란 듯이 이기고 이기고 계속 이겨서, 모두한테 보여 줄 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我這些戰鬥技巧都是從小學的，為了成為一名征戰騎士而做的準備。但感染之後......嘖，即使這樣我也要成為“騎士”。只要能靠戰鬥的勝利證明自己的實力，我就會贏給所有人看。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有时候我不太明白索娜说的一些话，但我相信她会带领我们一直去做正确的事。她还在不断改变和进步，所以，我也会试着改改自己的毛病的。但也不完全听她的，哈哈。"
+        },
+        {
+          "language": "日文",
+          "content": "ソーナは何言ってるかわかんねぇこともあるけど、あいつならあたしたちを正しい方向に導いてくれるって信じてる。あいつだって自分を変えながら成長し続けてるからな。だからあたしも自分の悪いところを直してみようと思ってんだ。まぁだからってあいつの言うことを全部鵜呑みにするつもりもねぇけどな、ハハ。"
+        },
+        {
+          "language": "英文",
+          "content": "Sometimes I don't really get what Sona says, yet I still believe she'll lead us to do right and proper. She's changing and improving herself to adapt, so maybe I'll try working on my own faults too. But, that doesn't mean I'm gonna take up everything she says, haha."
+        },
+        {
+          "language": "韩文",
+          "content": "소나는 무슨 말을 하는 건지 모를 때도 있지만, 걔라면 우리를 올바른 방향으로 이끌어 줄 거라고 믿고 있어. 걔도 계속, 끊임없이 자신을 바꿔가며 성장하고 있으니까. 그러니까 나도 내 나쁜 점을 고쳐볼까 해. 뭐, 그렇다고 걔가 하는 말을 다 받아들일 생각은 없지만 말이야, 하하."
+        },
+        {
+          "language": "繁体中文",
+          "content": "有時候我不太明白索娜說的一些話，但我相信她會帶領我們一直去做正確的事。她還在不斷改變和進步，所以，我也會試著改改自己的毛病的。但也不完全聽她的，哈哈。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "查丝汀娜说话的时候，第一句是最重要的！可是不听后面的话又不知道她第一句说了什么。不过我已经习惯了，所以能听懂。"
+        },
+        {
+          "language": "日文",
+          "content": "ユスティナがしゃべる時は、一言目が一番の要点なんだ！だけどその後の話を聞かねぇと、一言目の意味がわかんねぇんだよなぁ。でももう慣れたから、今じゃちゃんと分かるけどさ。"
+        },
+        {
+          "language": "英文",
+          "content": "When Justyna says things, her first sentence is the most important part! But if you don't listen to what comes after, you don't get what the first sentence was about. Good thing I'm already used to that, so I can grasp her point nice and clear."
+        },
+        {
+          "language": "韩文",
+          "content": "저스티나가 말할 때는 첫마디가 가장 중요한 요점이야! 아 근데 그 뒤에 뭐라는지 안 들으면, 첫마디가 무슨 뜻인지 알 수가 없단 말이지. 그래도 이젠 익숙해져서, 무슨 뜻인지 제대로 알아듣게 됐지만."
+        },
+        {
+          "language": "繁体中文",
+          "content": "查絲汀娜說話的時候，第一句是最重要的！可是不聽後面的話又不知道她第一句說了什麼。不過我已經習慣了，所以能聽懂。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "正义号是我的宠物，以前托人东拼西凑了些功能，所以什么都会一点。嗯，很能干！"
+        },
+        {
+          "language": "日文",
+          "content": "「ジャスティスナイト」は、あたしのペットだ。前に人に頼み込んで色んな機能を足してもらったから、だいたいのことはそれなりにできる。ああ、あいつはできる奴なんだよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Justice Knight's my pet. I got people to give her a bunch of functions, so she's got the chops to do it all at least a little. Yeah, she's a real doer!"
+        },
+        {
+          "language": "韩文",
+          "content": "‘저스티스 나이트’는 내 펫이야. 전에 다른 사람에게 부탁해서 다양한 기능을 추가했으니까, 이제 웬만한 일은 다 할 줄 알아. 그래, 아주 똘똘한 녀석이란 말이지!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "正義號是我的寵物，以前托人東拼西湊了些功能，所以什麼都會一點。嗯，很能幹！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“野鬃”这个封号，是靠我自己的努力让别人记住的。它代表一名强大的骑士，而且，是感染者骑士。至于把我们的性命和荣耀当商品和消耗品的商业联合会，呿，我恨不得把他们的面具全部砸烂。"
+        },
+        {
+          "language": "日文",
+          "content": "「野鬃（やそう）」って称号はな、あたしが自分の努力で世間に認めさせたんだ。強い騎士、それも感染者騎士の象徴なんだよ。あたしたちの命と名誉を売り物や消耗品としか見てない商業連合会なんて……チッ、今すぐ奴らの仮面を粉々にしてやれねぇのが恨めしいぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "I made the title 'Wild Mane' renowned through my own hard work. It's the symbol of a Knight as strong as hell, and an Infected Knight even. However, the General Chamber of Commerce takes our lives and our glory no more than products and consumables. Tch. Sucks I can't pound their masks to pieces right damned now."
+        },
+        {
+          "language": "韩文",
+          "content": "‘거친 갈기의 기사’라는 칭호는 말이야, 내가 직접 노력해서 세상한테 인정 받은 거야. 강한 기사, 그것도 감염자 기사의 상징이지. 우리 목숨과 명예를 상품이나 소모품으로만 보는 상업연합회 따위는…… 칫, 지금 당장 녀석들이 쓴 가면을 산산조각 못 내주는 게 한이네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "“野鬃”這個封號，是靠我自己的努力讓別人記住的。它代表一名強大的騎士，而且，是感染者騎士。至於把我們的性命和榮耀當商品和消耗品的商業聯合會，呿，我恨不得把他們的面具全部砸爛。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好无聊啊......走，一起去喝一杯吧？总是只有小灰陪我喝，太没劲了。"
+        },
+        {
+          "language": "日文",
+          "content": "暇だなぁ……おい、一杯行こうぜ。いつも付き合ってくれるのはカイくらいだし、つまんねぇんだよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Man, I'm so bored... hey, let's go for a drink. It's always Ashley who drinks with me, and that's just dull."
+        },
+        {
+          "language": "韩文",
+          "content": "심심하다~~ 야, 한잔 콜? 늘 같이 가 주는 건 회색이 정도밖에 없어서 재미가 없거든~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "好無聊啊......走，一起去喝一杯吧？總是只有小灰陪我喝，太沒勁了。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“野鬃”艾沃娜，我是红松骑士团的骑士。索娜说这里对感染者很友好？那就行。"
+        },
+        {
+          "language": "日文",
+          "content": "「ワイルドメイン」イヴォナ、レッドパイン騎士団の「野鬃」騎士だ。ソーナが言ってたけど、ここは感染者にも優しいんだって？それならオッケーだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Wild Mane' Iwona, I'm a Knight from Pinus Sylvestris Knightclub. Sona says this place does good by the Infected? Sounds cool."
+        },
+        {
+          "language": "韩文",
+          "content": "‘와일드메인’ 이보나. 피누스 실베스트리스 기사단 소속, ‘거친 갈기의 기사’야. 소나한테 들었는데, 여기는 감염자한테도 잘해 준다며? 그럼 오케이지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "“野鬃”艾沃娜，我是紅松騎士團的騎士。索娜說這裡對感染者很友好？那就行。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哦哦......这招突袭很厉害！能倒回去重看一遍不？"
+        },
+        {
+          "language": "日文",
+          "content": "おおー……この突撃技はすごいな！巻き戻してもう一回見てもいいか？"
+        },
+        {
+          "language": "英文",
+          "content": "Ooh... that's a sick surprise attack to make! Can we rewind that and watch it again?"
+        },
+        {
+          "language": "韩文",
+          "content": "오오…… 이 돌격기, 굉장한데! 되감아서 다시 한 번 봐도 돼?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哦哦......這招突襲很厲害！能倒回去重看一遍嗎？"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "晋升，是承认我变得更强了的意思？哈哈，那好啊，再多来几次！"
+        },
+        {
+          "language": "日文",
+          "content": "昇進って、あたしが強くなったって認めるってことか？ハハ、いいねえ、こういうのもっとやってくれよ！"
+        },
+        {
+          "language": "英文",
+          "content": "A promotion? Then you can tell I've gotten stronger? Haha, fine by me, gimme a few more!"
+        },
+        {
+          "language": "韩文",
+          "content": "승진이라니, 내가 강해졌다는 걸 인정한다는 뜻이야? 하하, 좋네. 이런 건 더 해 달라고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "晉升，是承認我變得更強了的意思？哈哈，那好啊，再多來幾次！"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那些虚伪的面孔，欺压感染者的伪善者，都会被这把骑枪毫不留情地贯穿。"
+        },
+        {
+          "language": "日文",
+          "content": "あの嘘くさい顔して感染者を苦しめる偽善者たちを、このランスで容赦なくぶち抜いてやんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Those hypocrites, wearing hollow masks and treading on the Infected as they want. Screw them, my lance is gonna run them all through!"
+        },
+        {
+          "language": "韩文",
+          "content": "그 거짓 가득한 얼굴로, 감염자를 괴롭히는 위선자들을, 이 랜스로 가차 없이 꿰뚫어 주는 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "那些虛偽的面孔，欺壓感染者的偽善者，都會被這把騎槍毫不留情地貫穿。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "敢不敢和我比划比划？"
+        },
+        {
+          "language": "日文",
+          "content": "あたしと張り合ってみるか？"
+        },
+        {
+          "language": "英文",
+          "content": "Who's got the guts to spar with me?"
+        },
+        {
+          "language": "韩文",
+          "content": "나랑 한 판 붙어 볼래?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "敢不敢和我比劃比劃？"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "最适合我的就是方阵了。我做队长，那战术就按我喜欢的来！"
+        },
+        {
+          "language": "日文",
+          "content": "ファランクスが一番あたしに合う陣形さ。隊長を任せるってんなら、戦術もあたし好みのやつでいくぜ！"
+        },
+        {
+          "language": "英文",
+          "content": "Phalanx formation suits me most. If I'm the captain, then let's go with my kind of tactics!"
+        },
+        {
+          "language": "韩文",
+          "content": "팔랑크스가 나한테 가장 잘 맞는 진형이야. 팀장을 맡길 거면, 전술도 내 취향대로 가야지!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "最適合我的就是方陣了。我做隊長，那戰術就按我喜歡的來！"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "出——发——！"
+        },
+        {
+          "language": "日文",
+          "content": "しゅっぱーつ！"
+        },
+        {
+          "language": "英文",
+          "content": "Let's roooooll!"
+        },
+        {
+          "language": "韩文",
+          "content": "출발~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "出——發——！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哈哈，我看到你们了。"
+        },
+        {
+          "language": "日文",
+          "content": "ハハ、見つけたぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "Haha, I got you sighted."
+        },
+        {
+          "language": "韩文",
+          "content": "하하, 찾았다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "哈哈，我看到你們了。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "干架的事情就交给我。"
+        },
+        {
+          "language": "日文",
+          "content": "ケンカならあたしに任せとけ。"
+        },
+        {
+          "language": "英文",
+          "content": "Leave the brawling to me."
+        },
+        {
+          "language": "韩文",
+          "content": "싸움이라면, 나한테 맡기라고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "幹架的事情就交給我。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "等了好久了！"
+        },
+        {
+          "language": "日文",
+          "content": "待ちくたびれたぜ！"
+        },
+        {
+          "language": "英文",
+          "content": "I've been waiting forever!"
+        },
+        {
+          "language": "韩文",
+          "content": "기다리다 지쳤다고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "等了好久了！"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "就你们，值得我使出全力吗？"
+        },
+        {
+          "language": "日文",
+          "content": "お前らごときに、全力を出す価値なんてあんのか？"
+        },
+        {
+          "language": "英文",
+          "content": "You guys think you're worth my full strength?"
+        },
+        {
+          "language": "韩文",
+          "content": "너희들 따위한테 전력을 다할 가치가 있긴 한가?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "就你們，值得我使出全力嗎？"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "可别一击就倒啊！"
+        },
+        {
+          "language": "日文",
+          "content": "一発で倒れてくれんなよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Don't you dare go down in one!"
+        },
+        {
+          "language": "韩文",
+          "content": "한 방에 쓰러지지 말라고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "可別一擊就倒啊！"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "太慢了太慢了太慢了！"
+        },
+        {
+          "language": "日文",
+          "content": "遅ぇ遅ぇ、遅すぎる！"
+        },
+        {
+          "language": "英文",
+          "content": "Slow! Slow! Way too slow!"
+        },
+        {
+          "language": "韩文",
+          "content": "느려 느려, 너무 느리다고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "太慢了太慢了太慢了！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哈哈，你是躲不掉的！"
+        },
+        {
+          "language": "日文",
+          "content": "ハハ、避けられると思うなよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Haha, you're not dodging this!"
+        },
+        {
+          "language": "韩文",
+          "content": "하하, 피할 수 있을 거라 생각하지 말라고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哈哈，你是躲不掉的！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "夹枪冲锋！"
+        },
+        {
+          "language": "日文",
+          "content": "ランスチャージ！"
+        },
+        {
+          "language": "英文",
+          "content": "Lance charge!"
+        },
+        {
+          "language": "韩文",
+          "content": "랜스 차지!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "夾槍衝鋒！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "骑枪刺击！"
+        },
+        {
+          "language": "日文",
+          "content": "このランスで貫く！"
+        },
+        {
+          "language": "英文",
+          "content": "Piercing through!"
+        },
+        {
+          "language": "韩文",
+          "content": "이 랜스로 꿰뚫어버리겠어!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "騎槍刺擊！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不断地获胜，就不怕被人忘记。就是这么简单。"
+        },
+        {
+          "language": "日文",
+          "content": "勝ち続ければ、みんなに忘れられちまう心配もねぇ。簡単な話だろ。"
+        },
+        {
+          "language": "英文",
+          "content": "Keep on winning, and you'll never be forgotten. It's that simple."
+        },
+        {
+          "language": "韩文",
+          "content": "계속 이기면, 모두한테 잊혀질 걱정도 없지. 간단한 이야기잖아?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不斷地獲勝，就不怕被人忘記。就是這麼簡單。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "谢啦，博士。你的指挥确实有一套。"
+        },
+        {
+          "language": "日文",
+          "content": "あんがとな、ドクター。あんたの指揮は確かに悪くねぇな。"
+        },
+        {
+          "language": "英文",
+          "content": "Cheers, Doctor. You're a solid commander."
+        },
+        {
+          "language": "韩文",
+          "content": "고마워, 박사. 네 지휘는 확실히 나쁘지 않아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "謝啦，博士。你的指揮確實有一套。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的母枪......唉，又该拿去修了。"
+        },
+        {
+          "language": "日文",
+          "content": "長槍がオシャカだ……はぁー、また修理に出さねぇとな。"
+        },
+        {
+          "language": "英文",
+          "content": "My Major Lance... *sigh* Gotta get repairs again."
+        },
+        {
+          "language": "韩文",
+          "content": "장창이 망가졌잖아…… 하아~ 또 수리 맡겨야겠네……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我的母槍......唉，又該拿去修了。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有懊悔之后再说，我来殿后......快走！"
+        },
+        {
+          "language": "日文",
+          "content": "悔やむのは後だ、あたしが最後尾で敵を抑える……さっさと逃げろ！"
+        },
+        {
+          "language": "英文",
+          "content": "Leave any regrets for later! Go, I'll cover the rear!"
+        },
+        {
+          "language": "韩文",
+          "content": "후회는 나중에 해, 내가 맨 끝에서 적을 막을 테니까…… 얼른 도망쳐!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "有懊悔之後再說，我來殿後......快走！"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有没有全部是金色的房间？我就想想嘛。"
+        },
+        {
+          "language": "日文",
+          "content": "真っ金金の部屋はねぇのかよ？まぁ、言ってみただけだろ。"
+        },
+        {
+          "language": "英文",
+          "content": "Any rooms in all gold around here? Just a little dream of mine."
+        },
+        {
+          "language": "韩文",
+          "content": "전부 금으로 된 방은 없어? 뭐, 그냥 말해 본 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "有沒有全部是金色的房間？我就想想嘛。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嘿，想和我比速度？"
+        },
+        {
+          "language": "日文",
+          "content": "へぇ、あたしと速さを競うつもりか？"
+        },
+        {
+          "language": "英文",
+          "content": "What, you wanna have a race with me?"
+        },
+        {
+          "language": "韩文",
+          "content": "흐음~ 나랑 속도로 한 판 붙어보게?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嘿，想和我比速度？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "裙装？嗯......在特别的时候才会穿。"
+        },
+        {
+          "language": "日文",
+          "content": "スカート？ああ……特別な日にしか穿かねぇぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "Skirts? Nuh-uh. I don't wear 'em 'cept for special days."
+        },
+        {
+          "language": "韩文",
+          "content": "스커트? 아…… 특별한 날에만 입지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "裙裝？嗯......在特別的時候才會穿。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "吃过了吗，博士。想不想尝尝正义号做的早餐？"
+        },
+        {
+          "language": "日文",
+          "content": "調子はどうだ、ドクター。ジャスティスナイトの作った朝メシを食ってみるか？"
+        },
+        {
+          "language": "英文",
+          "content": "Ready for the day, Doctor? Wanna try some breakfast from the Justice Knight?"
+        },
+        {
+          "language": "韩文",
+          "content": "오늘 컨디션은 어때, 박사? 저스티스 나이트가 아침밥 만들었는데, 먹어 볼래?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "吃過了嗎，博士。想不想嘗嘗正義號做的早餐？"
+        }
+      ]
+    }
+  ]
+}

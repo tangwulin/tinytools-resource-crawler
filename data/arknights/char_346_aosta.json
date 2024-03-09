@@ -1,0 +1,931 @@
+{
+  "name": "奥斯塔",
+  "charaKey": "char_346_aosta",
+  "images": [
+    "https://prts.wiki/images/5/51/立绘_奥斯塔_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/d/df/立绘_奥斯塔_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/a/aa/立绘_奥斯塔_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_346_aosta"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_346_aosta"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "做助理的话，我可以在旁边做些手工吗？"
+        },
+        {
+          "language": "日文",
+          "content": "助手をやるなら、ここで手仕事をしていてもいいですか？"
+        },
+        {
+          "language": "英文",
+          "content": "If you want me to be your assistant, is it okay if I do some craftwork here?"
+        },
+        {
+          "language": "韩文",
+          "content": "조수를 하는 거면, 여기서 수공예 작업을 해도 괜찮겠습니까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "做助理的話，我可以在旁邊做些手工嗎？"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，如果你喜欢追求刺激，可以去叙拉古生活一段时间。然后你就会不喜欢了。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、刺激を求めるのが好きなら、しばらくシラクーザで暮らしてみるといいですよ。そしたらすぐに嫌気がさすはずです。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, if you like excitement, you should probably hang out in Siracusa for a while. You won't enjoy it so much after that."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 자극을 쫓는 걸 좋아한다면, 당분간 시라쿠사에서 지내보는 게 좋을 겁니다. 그러면 금방 싫증이 날 테니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，如果你喜歡追求刺激，可以去敘拉古生活一段時間。然後你就會不喜歡了。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "贾维的性格，有时候连我都怀疑，他究竟是怎么活到今天没有被人打死的。"
+        },
+        {
+          "language": "日文",
+          "content": "キアーベのあの性格、何故今日まで殺されずに生きてこられたのかって時々疑問に思います。"
+        },
+        {
+          "language": "英文",
+          "content": "Considering his personality, sometimes even I wonder why no one's beaten Chiave to death yet."
+        },
+        {
+          "language": "韩文",
+          "content": "키아베의 저 성격, 어떻게 오늘까지 죽지 않고 살아있는지 가끔 의문이 듭니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "賈維的性格，有的時候連我都懷疑，他究竟是怎麼活到今天沒有被人打死的。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，你对DIY感兴趣吗？其实，我们三个的武器和衣服，都是自己设计和制作的。如果你也喜欢的话，我们可以交流一下。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、ハンドメイドに興味ありますか？実は僕たち三人の武器や服は、全て自分たちでデザインして手作りしたものなんです。もしそういうのが好きなら、一緒にやってみませんか。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, are you interested in DIY? See, the three of us actually design and make our weapons and outfits ourselves. You could join us sometime, if you want."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 핸드메이드에 관심이 있으십니까? 실은 우리 셋의 무기나 옷 전부 직접 디자인해서 수작업한 것입니다. 혹시 관심이 있다면, 같이 해보지 않겠습니까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，你對DIY感興趣嗎？其實，我們三個的武器和衣服，都是自己設計和製作的。如果你也喜歡的話，我們可以交流一下。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在帮贾维擦屁股的过程中，我发现了一件事，那就是——想要真正变得强大，光靠暴力是不够的。"
+        },
+        {
+          "language": "日文",
+          "content": "キアーベの尻拭いをしてるうちに気づいたことがあります。それは、本当の意味で強くなるためには、暴力を振るうだけではダメだということです。"
+        },
+        {
+          "language": "英文",
+          "content": "I came to realize one thing while I was cleaning up after Chiave's messes: If you want to be really strong, you aren't going to get there with just violence."
+        },
+        {
+          "language": "韩文",
+          "content": "키아베의 뒤처리를 하면서 깨달은 것이 있습니다. 그건 진정한 의미로 강해지기 위해서는 폭력을 행사하기만 해서는 안 된다는 것입니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "在幫賈維擦屁股的過程中，我發現了一件事，那就是——想要真正變得強大，光靠暴力是不夠的。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在叙拉古，许多同龄人都想成为一个家族的一员，但也有许多脚踏实地生活的人。我有时候，觉得他们比我们更厉害。"
+        },
+        {
+          "language": "日文",
+          "content": "シラクーザでは、同年代の中にはファミリーの一員になりたいという人も多くいましたが、堅実に生活している人もたくさんいました。時々、そういう人たちは僕たちなんかよりもずっとすごいと感じるんです。"
+        },
+        {
+          "language": "英文",
+          "content": "In Siracusa, most people my age just want to join a family, but there are also a lot of people who want to live an honest life instead. Sometimes, I think those ones are the best of us all."
+        },
+        {
+          "language": "韩文",
+          "content": "시라쿠사에서는 또래 중에 패밀리의 일원이 되고 싶다는 사람도 많았지만, 착실하게 생활하는 사람도 많이 있었습니다. 가끔 그런 사람들은 우리보다 훨씬 대단하다고 생각합니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "在敘拉古，許多同齡人都想成為一個家族的一員，但也有許多腳踏實地生活的人。我有時候，覺得他們比我們更厲害。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "（哈欠声）......不好意思，博士，我昨晚没有睡好。罗德岛太安全了，我不是很习惯。"
+        },
+        {
+          "language": "日文",
+          "content": "ふわぁ……失礼、ドクター。昨夜よく眠れなかったもので……ロドスがあまりにも安全なので、なかなか慣れないんです。"
+        },
+        {
+          "language": "英文",
+          "content": "(Yawn) ...Sorry, Doctor, I didn't get much sleep last night. Rhodes Island is way too safe. It's taking some time to get used to."
+        },
+        {
+          "language": "韩文",
+          "content": "흐아암…… 실례, 박사님. 어젯밤에 잠을 설쳐서…… 로도스 아일랜드가 너무 안전해서 좀처럼 익숙해지지 않더라고요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "（哈欠聲）......不好意思，博士，我昨晚沒有睡好。羅德島太安全了，我不是很習慣。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "贾维、布洛卡、我，我们三个是伙伴，也在一起做了不少事。但我有时候也会想，这样的生活，真的就是适合我们的生活吗？"
+        },
+        {
+          "language": "日文",
+          "content": "キアーベ、ブローカ、そして僕の三人は、一緒に色んなことをやってきた仲間です。しかし時々思うんです。こんな生活は本当に僕たちに合っているのか、って。"
+        },
+        {
+          "language": "英文",
+          "content": "Chiave, Broca, and me. The three of us are like brothers, and we've done all kinds of things together. But, sometimes, I really wonder if this really is the life for us."
+        },
+        {
+          "language": "韩文",
+          "content": "키아베, 브로카, 그리고 저, 저희 셋은 함께 여러 일을 겪은 동료입니다. 하지만 가끔 이런 생각을 합니다. 이런 생활은 정말 우리에게 어울리는 것인가… 하고요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "賈維、布洛卡、我，我們三個是夥伴，也在一起做了不少事。但我有時候也會想，這樣的生活，真的就是適合我們的生活嗎？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "其实，我小时候的梦想是成为一名公务员，直到父亲第一次让我拿起武器。我并不讨厌和他们四处闯荡的生活，但始终感觉缺少了一些什么，现在我知道了，我想成为博士你这样内心强大的人。"
+        },
+        {
+          "language": "日文",
+          "content": "実は僕、小さい頃は公務員になるのが夢でした。初めて父親に武器を持たされるまでは、の話ですけど。二人との放浪生活は嫌いじゃありませんでしたが、いつも何かが足りないと感じていました。ですが今は理解できました。僕もドクターのように意志の強い人になりたかったんです。"
+        },
+        {
+          "language": "英文",
+          "content": "To tell you the truth, I wanted to be a public servant when I was a kid. Up until my dad made me pick up a weapon for the first time, that is. I don't hate drifting around with the two of them, but I always felt like there was something I was missing, and I know what it is now. I wanted to become someone as strong-willed as you, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "사실은 저, 어릴 적에는 공무원이 꿈이었습니다. 처음으로 아버지가 무기를 제 손에 쥐여주기 전의 얘기지만 말이죠. 둘과의 방랑 생활은 싫지는 않았지만, 항상 무언가가 부족하다 생각했습니다. 하지만 지금은 이해했습니다. 저도 박사님처럼 의지가 강한 사람이 되고 싶었던 겁니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "其實，我小時候的夢想是成為一名公務員，直到父親第一次讓我拿起武器。我並不討厭和他們四處闖蕩的生活，但始終感覺缺少了一些什麼，現在我知道了，我想成為博士你這樣內心強大的人。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士......睡着了吗，真是个幸福的家伙。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター……あっ、眠ってしまったのか。フッ、幸せそうな奴だな。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor... you're asleep? Taking it easy, aren't we?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님…… 잠든 건가. 훗, 행복해 보이는 녀석이군."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士......睡著了嗎，真是個幸福的傢伙。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，你好。我叫奥斯塔。之前承蒙照顾，我们三个人才没有被干掉。不嫌弃的话，请让我们在这里工作一段时间吧。"
+        },
+        {
+          "language": "日文",
+          "content": "こんにちは、ドクター。僕はアオスタです。先日は僕たち三人を助けていただきありがとうございました。もしよければ、しばらくここで働かせてください。"
+        },
+        {
+          "language": "英文",
+          "content": "Hello, Doctor. I'm Aosta. It's thanks to you that the three of us are still alive. If you don't mind, please let us work here for the time being."
+        },
+        {
+          "language": "韩文",
+          "content": "안녕하세요, 박사님. 저는 아오스타입니다. 일전엔 우리 셋을 구해주셔서 감사했습니다. 괜찮다면, 잠시 이곳에서 일하게 해주십시오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，你好。我叫奧斯塔。之前承蒙照顧，我們三個人才沒有被幹掉。不嫌棄的話，請讓我們在這裡工作一段時間吧。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......看来，我们三个能活到今天，真的只是运气比较好。"
+        },
+        {
+          "language": "日文",
+          "content": "……どうやら僕たち三人が今日まで生きてこられたのは、本当に運が良かっただけのようですね。"
+        },
+        {
+          "language": "英文",
+          "content": "...Looks like it's just luck that the three of us only managed to survive this long."
+        },
+        {
+          "language": "韩文",
+          "content": "……아무래도 우리 셋이 오늘까지 살아남았던 건, 정말 운이 좋았을 뿐인 것 같군요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "......看來，我們三個能活到今天，真的只是運氣比較好。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，罗德岛真的是一家医药公司吗？我感觉，这里的人一起出动的话，说不定可以拿下叙拉古一座城。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、ロドスは本当にただの製薬会社ですか？僕が思うに、ここの全員で一斉にかかれば、シラクーザの都市一つを手にするのも夢じゃありません。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, is Rhodes Island really a pharmaceutical company? I've got the feeling that we might just be able to take over a Siracusan city if everyone here put themselves to it."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 로도스 아일랜드는 정말 평범한 제약회사입니까? 제 생각에 여기 사람들이 전부 다 같이 덤비면, 시라쿠사의 도시 하나를 손에 넣는 것도 꿈은 아닐 것 같은데요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，羅德島真的是一家醫藥公司嗎？我感覺，這裡的人一起出動的話，說不定可以拿下敘拉古一座城。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在罗德岛，或许我能找到一直以来我在追求的生活方式......博士，我能在舰内开一家DIY店吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスでなら、もしかすると僕がずっと探し求めていた生き方が見つかるかもしれません……ドクター、僕が艦内でハンドメイドショップを開くとしたらどう思いますか？"
+        },
+        {
+          "language": "英文",
+          "content": "I think I might just be able to live the life I've always wanted at Rhodes Island... Doctor, do I have permission to open a DIY shop here?"
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드에서라면, 어쩌면 제가 줄곧 찾고 있었던 삶을 찾을 수 있을지도 모릅니다…… 박사님, 제가 함내에서 핸드메이드 샵을 연다면 어떨 것 같습니까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "在羅德島，或許我能找到一直以來我在追求的生活方式......博士，我能在艦內開一家DIY店嗎？"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "但愿不会是很麻烦的事情。"
+        },
+        {
+          "language": "日文",
+          "content": "面倒事でなければいいんですが。"
+        },
+        {
+          "language": "英文",
+          "content": "I hope this isn't going to be too much of a pain in the back."
+        },
+        {
+          "language": "韩文",
+          "content": "귀찮은 일이 아니라면 좋겠습니다만."
+        },
+        {
+          "language": "繁体中文",
+          "content": "但願不會是很麻煩的事情。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我尽力吧。"
+        },
+        {
+          "language": "日文",
+          "content": "なんとかします。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll give it my best shot."
+        },
+        {
+          "language": "韩文",
+          "content": "어떻게든 하겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我盡力吧。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "尽量避免没必要的战斗吧。"
+        },
+        {
+          "language": "日文",
+          "content": "必要のない戦闘はなるべく避けましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "Let's avoid any unnecessary fights."
+        },
+        {
+          "language": "韩文",
+          "content": "필요 없는 전투는 되도록 피하죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "儘量避免沒必要的戰鬥吧。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没办法，快点解决吧。"
+        },
+        {
+          "language": "日文",
+          "content": "仕方ありません、さっさと片付けましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "Guess we don't have a choice. Let's get this taken care of."
+        },
+        {
+          "language": "韩文",
+          "content": "어쩔 수 없네요, 빨리 정리해버리죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "沒辦法，快點解決吧。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我去吧。"
+        },
+        {
+          "language": "日文",
+          "content": "僕が行きましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll go."
+        },
+        {
+          "language": "韩文",
+          "content": "제가 가죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我去吧。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯？"
+        },
+        {
+          "language": "日文",
+          "content": "はい？"
+        },
+        {
+          "language": "英文",
+          "content": "Hmm?"
+        },
+        {
+          "language": "韩文",
+          "content": "네?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯？"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "全都要解决掉吗？"
+        },
+        {
+          "language": "日文",
+          "content": "全員倒さないといけないですか？"
+        },
+        {
+          "language": "英文",
+          "content": "Take all of them down?"
+        },
+        {
+          "language": "韩文",
+          "content": "모두 쓰러뜨려야 합니까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "全都要解決掉嗎？"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让我来试一试吧。"
+        },
+        {
+          "language": "日文",
+          "content": "やってみましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll give it a try."
+        },
+        {
+          "language": "韩文",
+          "content": "해보죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "讓我來試一試吧。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你好。"
+        },
+        {
+          "language": "日文",
+          "content": "こんにちは。"
+        },
+        {
+          "language": "英文",
+          "content": "Hello."
+        },
+        {
+          "language": "韩文",
+          "content": "안녕하세요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你好。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "再见。"
+        },
+        {
+          "language": "日文",
+          "content": "さようなら。"
+        },
+        {
+          "language": "英文",
+          "content": "Goodbye."
+        },
+        {
+          "language": "韩文",
+          "content": "잘 가십시오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "再見。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "该结束了。"
+        },
+        {
+          "language": "日文",
+          "content": "終わりにしましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "Time to put an end to this."
+        },
+        {
+          "language": "韩文",
+          "content": "끝내도록 하죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "該結束了。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啧。"
+        },
+        {
+          "language": "日文",
+          "content": "チッ。"
+        },
+        {
+          "language": "英文",
+          "content": "Tsk."
+        },
+        {
+          "language": "韩文",
+          "content": "칫."
+        },
+        {
+          "language": "繁体中文",
+          "content": "嘖。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呼、呼......博士，挑战极限是你的乐趣之一吗？"
+        },
+        {
+          "language": "日文",
+          "content": "はぁ、はぁ……ドクター、限界に挑戦するのもあなたの趣味なんですか？"
+        },
+        {
+          "language": "英文",
+          "content": "Phew... phew... Doctor, do you enjoy challenging yourself so much?"
+        },
+        {
+          "language": "韩文",
+          "content": "하아, 하아…… 박사님, 한계에 도전하는 것도 당신의 취미입니까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "呼、呼......博士，挑戰極限是你的樂趣之一嗎？"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "全吃下了，但愿这些人有让我们这么做的价值。"
+        },
+        {
+          "language": "日文",
+          "content": "全員喰らいつくしました。彼らにはそれだけする価値があったと思いたいです。"
+        },
+        {
+          "language": "英文",
+          "content": "I got all of them. I just hope they're worth it."
+        },
+        {
+          "language": "韩文",
+          "content": "전부 다 먹어 치웠습니다. 이들에겐 이렇게 할 가치가 있었다고 생각하고 싶군요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "全吃下了，但願這些人有讓我們這麼做的價值。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "跑了几个，不过问题应该不大。"
+        },
+        {
+          "language": "日文",
+          "content": "何人か逃してしまいましたが、まぁ問題ないでしょう。"
+        },
+        {
+          "language": "英文",
+          "content": "A few of them got through, but I think we'll be fine."
+        },
+        {
+          "language": "韩文",
+          "content": "몇 명은 도망갔지만… 뭐, 문제없겠죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "跑了幾個，不過問題應該不大。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，你先走，我来殿后，这种事我擅长。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、追手は僕に任せて先に行ってください。こういうのは得意ですから。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, you go on ahead. I'll clean up the mess here. It's what I'm good at."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 추격은 저에게 맡기고 먼저 가십시오. 이런 일은 특기니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，你先走，我來殿後，這種事我擅長。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那我随便走走吧。"
+        },
+        {
+          "language": "日文",
+          "content": "では適当に回ってきます。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll just sorta walk around, then."
+        },
+        {
+          "language": "韩文",
+          "content": "그럼 적당히 돌아보고 오겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "那我隨便走走吧。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我自己有脚，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "自分で歩けますが。"
+        },
+        {
+          "language": "英文",
+          "content": "I can walk, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "혼자서도 걸을 수 있습니다만."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我自己有腳，博士。"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，你好。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターですか。どうも。"
+        },
+        {
+          "language": "英文",
+          "content": "How do you do, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님입니까? 안녕하세요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，你好。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你好，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、こんにちは。"
+        },
+        {
+          "language": "英文",
+          "content": "Hello, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 안녕하세요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你好，博士。"
+        }
+      ]
+    }
+  ]
+}

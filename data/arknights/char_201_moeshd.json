@@ -1,0 +1,940 @@
+{
+  "name": "可颂",
+  "charaKey": "char_201_moeshd",
+  "images": [
+    "https://prts.wiki/images/6/62/立绘_可颂_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/8/8d/立绘_可颂_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/0/02/立绘_可颂_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/c/c7/立绘_可颂_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_201_moeshd"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_201_moeshd"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_201_moeshd"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_201_moeshd"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "放心吧老板，不论在哪儿我都是您生命安全的保障！对了对了，每次行动前要扫一下这里的码，别忘记哟~"
+        },
+        {
+          "language": "日文",
+          "content": "旦那さんがどこ行っても、安全はこのウチが保証するでー。それよりな、作戦前には内金をよろしく～、忘れたらアカンで。"
+        },
+        {
+          "language": "英文",
+          "content": "This here Croissant guarantees yer safety, no matter where yer headin', Baws! Oh, 'n payment's upfront! 'Member that!"
+        },
+        {
+          "language": "韩文",
+          "content": "사장님이 얼로 가도, 안전은 마 내가 확실히 보증해주께~ 그건 그렇고, 작전 전에는 선입금으로 부탁한데이~ 잊어버리면 안 돼~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "放心吧老闆，不論在哪兒我都是您生命安全的保障！對了對了，每次行動前要掃一下這裡的碼，別忘記喲~"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "努力工作，赚取报酬，都是为了提升自己的生活品质嘛。"
+        },
+        {
+          "language": "日文",
+          "content": "仕事頑張って、よーさん稼いで、ええ暮らしせなアカンな。"
+        },
+        {
+          "language": "英文",
+          "content": "Make a buncha money workin' yer butt off! We can't be livin' in no poverty, after all!"
+        },
+        {
+          "language": "韩文",
+          "content": "일 열심히 하고, 돈도 어마어마하이 벌고, 잘 묵고 잘 살아야지 않겠나?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "努力工作，賺取報酬，都是為了提升自己的生活品質嘛。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大家的装备都在闪闪发光！好想摸一下啊～"
+        },
+        {
+          "language": "日文",
+          "content": "なんや、どいつもこいつも装備がピカピカやないかい！ちょっとウチにも触らせてーな。"
+        },
+        {
+          "language": "英文",
+          "content": "Yer kiddin'! All yer people got such shiny gear on 'em! Lemme have a touch too!"
+        },
+        {
+          "language": "韩文",
+          "content": "뭐고, 이놈도 저놈도 장비가 삐까뻔쩍 하네! 내도 좀 만지게 해도!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "大家的裝備都在閃閃發光！好想摸一下啊～"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我最喜欢新装备了！无论是看到什么都好想买下来啊。就这样，我陷入了无止境的购物漩涡......"
+        },
+        {
+          "language": "日文",
+          "content": "新しい装備っちゅーもんは、ホンマええもんやわ。ウチなんかすぐ買うてしまうわ。これが沼っちゅーもんやな。"
+        },
+        {
+          "language": "英文",
+          "content": "Boy, I sure love orderin' new gear! Feels like I bought enough stuff to fill the whole depot! This what they call a 'shoppin' addiction'?"
+        },
+        {
+          "language": "韩文",
+          "content": "새 장비란 게 참 좋은 물건이제. 내같은 사람은 고마 눈 깜짝할 새에 사삔다니까. 이게 바로 '과소비의 늪'이란 거구만…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我最喜歡新裝備了！無論是看到什麼都好想買下來啊。就這樣，我陷入了無止境的購物漩渦......"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "为了补贴每个月的花销，我会经常搜集些货物，做点小生意！当然，可都是些物美价廉的好东西哦！"
+        },
+        {
+          "language": "日文",
+          "content": "毎月毎月、ホンマお金掛かるねん。せやからな、財布の足しにええもん集めて商売してるねん。安くてええもんばかりやで！"
+        },
+        {
+          "language": "英文",
+          "content": "Every month there's more 'n more bills to pay... 'n that's why I sell some stuff I find on the side! Everythin' I got is cheap 'n high quality!"
+        },
+        {
+          "language": "韩文",
+          "content": "매달 매달 돈이 억수로 많이 든다 아이가. 그래가 지갑에 보탬 좀 되라꼬 좋은 물건들을 모아다 팔고 있지. 다 싸고 좋은 물건들이데이!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "為了補貼每個月的開銷，我會經常搜集些貨物，做點小生意！當然，可都是些物美價廉的好東西哦！"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这也是运货，那也是运货，既然都是运货，我当然更愿意搬运些好用的东西，或者美味的食物！"
+        },
+        {
+          "language": "日文",
+          "content": "どうせ物運ぶんなら、使いやすいもんや美味いもん、そっちを運びたいわ！"
+        },
+        {
+          "language": "英文",
+          "content": "Move this, lift that. If we gotta be haulin' things, might as well pick some easy-to-use and yummy-yummy stuff!"
+        },
+        {
+          "language": "韩文",
+          "content": "어차피 물건 옮길 꺼면 쓰기 편한 거나 맛있는 거, 그런 걸 쫌 옮기고 싶데이!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這也是運貨，那也是運貨，既然都是運貨，我當然更願意搬運些好用的東西，或者美味的食物！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "老板老板，我找到了特别好吃的东西哦！来尝尝看吧？哼哼，除了装备之外，我可最喜欢美味的食物了！"
+        },
+        {
+          "language": "日文",
+          "content": "旦那さん旦那さん、ウチなんやエライ美味しそうなモン見つけてんけど食べてみーへん？ウチな、ええ装備の次に美味しいもんが大好きやねん。"
+        },
+        {
+          "language": "英文",
+          "content": "Baws, Baws! Found this here heckin' tasty thing lyin' around, ya want a bite? Ya ask me, the only thing second to gud gear is gud food!"
+        },
+        {
+          "language": "韩文",
+          "content": "사장님 사장님, 내가 그 뭐고, 겁나 맛있는 걸 찾았는데 한번 먹어볼래? 내가, 좋은 장비 다음으로 제일 좋아하는 게 또, 맛있는 거거든."
+        },
+        {
+          "language": "繁体中文",
+          "content": "老闆老闆，我找到了特別好吃的東西哦！來嘗嘗看吧？哼哼，除了裝備之外，我可最喜歡美味的食物了！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "老板！要不要来看看我刚进的一批货？潮款服装，日用工具，办公用品，武器装备，应有尽有哦！买的越多，折扣越大哦！"
+        },
+        {
+          "language": "日文",
+          "content": "旦那さん、ちょっと寄っていかへん？ウチが仕入れたもの見ていってな～。シャレオツな服に、日用品から事務用品、装備までなんでもあるで～。いっぱい買うてくれたら、まけたるで。"
+        },
+        {
+          "language": "英文",
+          "content": "Baws, c'mere a sec, wouldja? Take a gander at my wares! From fancy clothes 'n everyday items to office supplies and gear, ya name it, I got it! Buy in bulk 'n I'll give ya a discount!"
+        },
+        {
+          "language": "韩文",
+          "content": "사장님, 잠깐 들렀다 안 갈래? 내가 사온 거 좀 봐봐~ 때깔 나는 옷은 물론이고, 일용품부터 사무용품 그리고 장비까지~ 마 뭐든지 다 있다 안카나~ 마이 사주면 디씨해주께."
+        },
+        {
+          "language": "繁体中文",
+          "content": "老闆！要不要來看看我剛進的一批貨？潮款服裝，日用工具，辦公用品，武器裝備，應有盡有哦！買的越多，折扣越大哦！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "老板，谢谢您！为我介绍了这么多的工作！托您的福，以前买不起的东西，现在我都负担的起啦！您是最好的老板！最喜欢您了！"
+        },
+        {
+          "language": "日文",
+          "content": "旦那さんには、ホンマ感謝やわ。仕事をめっちゃ回してくれはったおかげで、ウチ、欲しいもんみーんな買えてん。ホンマ旦那さん最高やわ！ウチ、大好きやねん！"
+        },
+        {
+          "language": "英文",
+          "content": "Baws, I gotta thank ya! With all them referrals, I can buy everything I ever wanted! Yer the best, Baws! Love ya lots!"
+        },
+        {
+          "language": "韩文",
+          "content": "사장님한테는 진짜로 감사하고 있데이. 일 빡세게 돌려준 덕분에 내, 원하는 거 전부 살 수 있었다 아이가, 진짜 사장님 최고! 내, 사장님 진짜로 좋아한다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "老闆，謝謝您！為我介紹了這麼多的工作！托您的福，以前買不起的東西，現在我都負擔的起啦！您是最好的老闆！最喜歡您了！"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哎呀~这个月也完蛋了......"
+        },
+        {
+          "language": "日文",
+          "content": "あちゃ～。アカン、今月もピンチやねん……。"
+        },
+        {
+          "language": "英文",
+          "content": "Aw shucks, gotta tighten my belt again this month..."
+        },
+        {
+          "language": "韩文",
+          "content": "아이고야… 안 되겠는데, 이번 달도 개털 되삣네…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哎呀~這個月也完蛋了......"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我是可颂。老板您的运气可真好，能得到我这样安全可靠刀枪不入的优质干员！另外，现在雇佣我的话，还可以给您打八折哦！"
+        },
+        {
+          "language": "日文",
+          "content": "ウチはクロワッサン。旦那さんは運のええお人やな～。ウチみたいに優秀なんは、なかなかおらんでー。丈夫で長持ち、おまけに料金二割引にしたるわ！"
+        },
+        {
+          "language": "英文",
+          "content": "The name's Croissant, and by golly yer in luck, Baws! Won't find nobody as good at their trade as I am! I'm strong, don't break easy, 'n if ya hire me right now, I'll give ya a 20% discount!"
+        },
+        {
+          "language": "韩文",
+          "content": "내는 크루아상, 사장님은 운이 엄청 좋구마~ 내처럼 우수한 사람은 좀처럼 없다 아이가. 튼튼하지 끈기 있지… 덤으로 요금은 20% 깎아주께!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我是可頌。老闆您的運氣可真好，能得到我這樣安全可靠刀槍不入的優質幹員！另外，現在雇傭我的話，還可以給您打八折哦！"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "变强的话，就能接到更多工作了吧~"
+        },
+        {
+          "language": "日文",
+          "content": "なんや強なったら、もっとええ仕事できそうやな～。"
+        },
+        {
+          "language": "英文",
+          "content": "I reckon I'll get more work if I get stronger!"
+        },
+        {
+          "language": "韩文",
+          "content": "이래저래 쎄지면, 더 좋은 일을 할 수 있겠지~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "變強的話，就能接到更多工作了吧~"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "多亏了老板，我才能得到这么好的岗位，太感谢您了！"
+        },
+        {
+          "language": "日文",
+          "content": "旦那さんのおかげで、ええ仕事ができてるねん。ほんま感謝やわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank ya kindly, Baws, fer helpin' me find such a nice job."
+        },
+        {
+          "language": "韩文",
+          "content": "사장님 덕분에 일도 잘하고 안 있나, 정말로 고맙데이."
+        },
+        {
+          "language": "繁体中文",
+          "content": "多虧了老闆，我才能得到這麼好的崗位，太感謝您了！"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "老板老板，您发的奖金，我可没有乱花哦。快看快看，这些都是用来保护您的新装备！"
+        },
+        {
+          "language": "日文",
+          "content": "旦那さん旦那さん、もらったボーナス、めっちゃ有効活用してるねん。な、な、ほら見て見て、旦那さんを守るための装備更新に使ってん！"
+        },
+        {
+          "language": "英文",
+          "content": "Baws, Baws, I made good use of that there bonus ya gave me! Check it out, I don’t got myself some new gear. All the better to keep ya safe!"
+        },
+        {
+          "language": "韩文",
+          "content": "사장님 사장님, 보너스 준 거 진짜 유용하게 잘 쓰고 있데이. 자 자 봐봐라, 사장님 지켜줄라꼬 장비 업그레이드 하는데 썼다 아이가!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "老闆老闆，您發的獎金，我可沒有亂花哦。快看快看，這些都是用來保護您的新裝備！"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "防卫就交给我吧！"
+        },
+        {
+          "language": "日文",
+          "content": "警備ならまかしとき。"
+        },
+        {
+          "language": "英文",
+          "content": "Leave the defense to me!"
+        },
+        {
+          "language": "韩文",
+          "content": "경비라면 맡겨만 도!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "防衛就交給我吧！"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大家！让我们漂漂亮亮地完成这次工作吧！"
+        },
+        {
+          "language": "日文",
+          "content": "みんな、この任務、完璧に果たしてみせるで！"
+        },
+        {
+          "language": "英文",
+          "content": "Listen up, y'all! Let's do this here mission nice and cleanlike!"
+        },
+        {
+          "language": "韩文",
+          "content": "야들아, 이번 임무, 완벽하게 완수해 보제이!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "大家！讓我們漂漂亮亮地完成這次工作吧！"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一定给老板一个您满意的战果！"
+        },
+        {
+          "language": "日文",
+          "content": "完璧な戦果をあげてこな！"
+        },
+        {
+          "language": "英文",
+          "content": "We'll be back with the best results ya ever did see!"
+        },
+        {
+          "language": "韩文",
+          "content": "완벽한 성과를 가꼬 올 끼다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "一定給老闆一個您滿意的戰果！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "敌人给咱们送装备来了！"
+        },
+        {
+          "language": "日文",
+          "content": "なぁ、なぁ、敵が装備を届けに来てくれはったわ！"
+        },
+        {
+          "language": "英文",
+          "content": "Well lookee here. The bad guys're comin' to donate their gear!"
+        },
+        {
+          "language": "韩文",
+          "content": "저 봐봐라, 적이 장비를 가져다주러 왔구만!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "敵人給咱們送裝備來了！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "什么什么？"
+        },
+        {
+          "language": "日文",
+          "content": "なんやなんや？"
+        },
+        {
+          "language": "英文",
+          "content": "What can I do ya for?"
+        },
+        {
+          "language": "韩文",
+          "content": "뭐꼬 뭐꼬?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "什麼什麼？"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让我试试新装备吧！"
+        },
+        {
+          "language": "日文",
+          "content": "新しい装備試させてもらうわ！"
+        },
+        {
+          "language": "英文",
+          "content": "Time to try this here new gear!"
+        },
+        {
+          "language": "韩文",
+          "content": "새 장비를 시험해보까!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "讓我試試新裝備吧！"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嘿咻！"
+        },
+        {
+          "language": "日文",
+          "content": "よっこらしょっと！"
+        },
+        {
+          "language": "英文",
+          "content": "H'all righty!"
+        },
+        {
+          "language": "韩文",
+          "content": "자~ 허잇차~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嘿咻！"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "到了！"
+        },
+        {
+          "language": "日文",
+          "content": "着いたで～！"
+        },
+        {
+          "language": "英文",
+          "content": "Here we are!"
+        },
+        {
+          "language": "韩文",
+          "content": "도착했데이!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "到了！"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "停下！"
+        },
+        {
+          "language": "日文",
+          "content": "ストップ！"
+        },
+        {
+          "language": "英文",
+          "content": "End of the road!"
+        },
+        {
+          "language": "韩文",
+          "content": "스톱!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "停下！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "此路不通！"
+        },
+        {
+          "language": "日文",
+          "content": "ここは通さへんで！"
+        },
+        {
+          "language": "英文",
+          "content": "Ya ain't gettin' through me!"
+        },
+        {
+          "language": "韩文",
+          "content": "여 지나갈 생각은 꿈도 꾸지 마라!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "此路不通！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "雷霆一击！"
+        },
+        {
+          "language": "日文",
+          "content": "サンダークラップや！"
+        },
+        {
+          "language": "英文",
+          "content": "THUNDERCLAP!"
+        },
+        {
+          "language": "韩文",
+          "content": "썬더~클랩!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "雷霆一擊！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这招对我没用！"
+        },
+        {
+          "language": "日文",
+          "content": "そんなもん、ウチには効かへんし！"
+        },
+        {
+          "language": "英文",
+          "content": "That ain't gon' work on me!"
+        },
+        {
+          "language": "韩文",
+          "content": "그런 거, 내한테는 안 통하거든!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這招對我沒用！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "敌人有没有掉落宝箱什么的呢？"
+        },
+        {
+          "language": "日文",
+          "content": "敵の連中、なんか宝箱とかええもん持ってへんかな？"
+        },
+        {
+          "language": "英文",
+          "content": "Ya reckon the enemy dropped a treasure chest or somesuch?"
+        },
+        {
+          "language": "韩文",
+          "content": "쟈들, 머 보물상자 같이 좋은 것 좀 안 갖고 있을랑가?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "敵人有沒有掉落寶箱什麼的呢？"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "耶～任务完成！"
+        },
+        {
+          "language": "日文",
+          "content": "やったー、任務完了や！"
+        },
+        {
+          "language": "英文",
+          "content": "Yeehaw! Mission accomplished!"
+        },
+        {
+          "language": "韩文",
+          "content": "아싸~ 임무 완료!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "耶～任務完成！"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "欸，敌人逃跑了，我的业务信誉又要下跌啦......"
+        },
+        {
+          "language": "日文",
+          "content": "アカン、敵逃してもーた。ウチのクチコミが下がってまうわ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Dagnabbit... the enemy got away! That ain't good for my rep…"
+        },
+        {
+          "language": "韩文",
+          "content": "아이고야, 노치뿟네. 내 평판 떨어지겠구만…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "欸，敵人逃跑了，我的業務信譽又要下跌啦......"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "太糟了，不光输了战斗，还弄丢了钱包......"
+        },
+        {
+          "language": "日文",
+          "content": "しまったわ～。負けてしもたから、財布までなくしてしまったわ……うう……。"
+        },
+        {
+          "language": "英文",
+          "content": "Aw, shucks… First I lost the fight, and now my wallet…"
+        },
+        {
+          "language": "韩文",
+          "content": "당했다… 아이고~ 져삐리가, 지갑까지 이라뿟네… 우으으…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "太糟了，不光輸了戰鬥，還弄丟了錢包......"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里有没有宝箱？"
+        },
+        {
+          "language": "日文",
+          "content": "ここにも宝箱は眠ってるん？"
+        },
+        {
+          "language": "英文",
+          "content": "Ya got any treasure chests hidin' 'round here?"
+        },
+        {
+          "language": "韩文",
+          "content": "여기도 보물상자가 잠들어있을랑가?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這裡有沒有寶箱？"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯？"
+        },
+        {
+          "language": "日文",
+          "content": "なんや？"
+        },
+        {
+          "language": "英文",
+          "content": "Hmm?"
+        },
+        {
+          "language": "韩文",
+          "content": "와?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "老板老板，有什么好东西吗？也给我看一下！"
+        },
+        {
+          "language": "日文",
+          "content": "旦那さん旦那さん、何かめっちゃすごいもんとか持ってへんの？ウチにも見せてーや～！"
+        },
+        {
+          "language": "英文",
+          "content": "Baws, Baws, got any nifty stuff on hand? C'mon, I wanna see!"
+        },
+        {
+          "language": "韩文",
+          "content": "사장님 사장님, 요즘 장난 아니게 뭐 대단한 거, 그런 거 없나? 내도 좀 보이도!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "老闆老闆，有什麼好東西嗎？也給我看一下！"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "老板~欢迎光临！"
+        },
+        {
+          "language": "日文",
+          "content": "旦那さん、いらっしゃい！"
+        },
+        {
+          "language": "英文",
+          "content": "Howdy, Baws!"
+        },
+        {
+          "language": "韩文",
+          "content": "사장님, 어서 온나!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "老闆~歡迎光臨！"
+        }
+      ]
+    }
+  ]
+}

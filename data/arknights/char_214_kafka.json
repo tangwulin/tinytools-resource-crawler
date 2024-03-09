@@ -1,0 +1,935 @@
+{
+  "name": "卡夫卡",
+  "charaKey": "char_214_kafka",
+  "images": [
+    "https://prts.wiki/images/e/ef/立绘_卡夫卡_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/a/a1/立绘_卡夫卡_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/2/2e/立绘_卡夫卡_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_214_kafka"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_214_kafka"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_214_kafka"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士把要做的工作告诉卡夫卡，再由卡夫卡来转达......明白了。这不就是地下中介的标准工作流程吗！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターがそれぞれのやるべき仕事をカフカに伝えて、それからカフカがみんなに伝える……オッケー。こんなの、闇仲介の仕事と一緒じゃん！"
+        },
+        {
+          "language": "英文",
+          "content": "You give Kafka the work that needs doing, Doctor, and then I pass it all on... okay. This's just like how underground work goes!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사가 각자 해야 할 일을 카프카에게 전하고, 그걸 카프카가 모두에게 전한다…… 오케이~ 이런 거, 브로커 일이랑 똑같네 뭐~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士把要做的工作告訴卡夫卡，再由卡夫卡來轉達......明白了。這不就是地下仲介的標準工作流程嗎！"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "既然博士已经成为卡夫卡的朋友了，那么除了剪刀不能外借，其他的请求尽管提就可以了！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターはもうカフカの友達なんだから、やってほしいことは何でも言って！あっ、ハサミの貸し出し以外でね。"
+        },
+        {
+          "language": "英文",
+          "content": "Seeing as you're my friend now, Doctor, you can ask me for anything. Uh, apart from lending you my shears."
+        },
+        {
+          "language": "韩文",
+          "content": "박사는 이제 카프카랑 친구니까, 원하는 게 있으면 뭐든지 말해! 아, 가위 빌려달라는 것만 빼고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "既然博士已經成為卡夫卡的朋友了，那麼除了剪刀不能外借，其他的請求儘管提就可以了！"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛有好多陌生的人，到处都是卡夫卡想要的东西。嗯？博士问我想要什么？这可是秘密啊。秘、密。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスには知らない人ばっかり、カフカの欲しいものだらけだ！ん？何が欲しいって？それはー、秘密だよ。ひー、みー、つー。"
+        },
+        {
+          "language": "英文",
+          "content": "Rhodes Island's fulla people I never met before. Everywhere I go, I see what I wants. Hm? You're wonderin' WHAT it is I want? Thaaat's a secret, y'know. Seee-cret."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드는 모르는 사람이 잔뜩~ 카프카가 원하는 걸로 가득해! 응? 원하는 게 뭐냐고? 그건~ 비밀이야. 비. 밀."
+        },
+        {
+          "language": "繁体中文",
+          "content": "羅德島有好多陌生的人，到處都是卡夫卡想要的東西。嗯？博士問我想要什麼？這可是秘密啊。秘、密。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯......博士的眼神还是一如既往地平静如水。完全看不透啊......不过总有一天，卡夫卡会抓住博士的破绽的！"
+        },
+        {
+          "language": "日文",
+          "content": "むむ……ドクターの目からは相変わらず何も読み取れないなー。波一つ立たない湖みたい……でもいつか絶対、ドクターの尻尾を掴んでやるぞ！"
+        },
+        {
+          "language": "英文",
+          "content": "Hmm... still can't read your eyes. They're calm as a lake... but there'll come a day when I get your number, Doctor, just you wait!"
+        },
+        {
+          "language": "韩文",
+          "content": "으음…… 박사의 눈에서는 여전히 아무것도 읽을 수가 없네. 파도 한 점 없는 호수 같아…… 그래도 두고 봐! 언젠가 반드시! 박사의 꼬리를 잡고 말 테니까!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯......博士的眼神還是一如既往地平靜如水。完全看不透啊......不過總有一天，卡夫卡會抓住博士的破綻的！"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，赫默又把我赶出来了，我好难过哦，呜呜呜......诶？是我先把她的实验搞砸了？唔，居然被赫默抢先一步......咳咳，那我先走了！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、カフカまたサイレンスに追い出されちゃったよ。もう悲しくて涙が止まらないよしくしく……え？カフカが実験をダメにしたのが悪いって聞いてる？むむ、先を越されたか……コホン、じゃあカフカは退散するわ～。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctooor, Silence kicked me out againnn, I just can't take it, sob, sob... huh? I started it by messing up her experiment? Hmm, Silence got to you first... eh-hem, well, I'm just gonna go now!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 카프카 또 사일런스한테 쫓겨났어. 너무 슬퍼서 눈물이 멈추지 않아, 흐흑…… 응? 카프카가 실험을 망친 게 잘못이라 들었다고? 쳇…… 선수를 빼앗겼나…… 크흠, 그럼 카프카는 이만 철수할게~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，赫默又把我趕出來了，我好難過哦，嗚嗚嗚......誒？是我先把她的實驗搞砸了？唔，居然被赫默搶先一步......咳咳，那我先走了！"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好吧，那在我得到想要的东西之前，就暂且把我的力量先借给你吧。不过只是借哦。"
+        },
+        {
+          "language": "日文",
+          "content": "まぁ、カフカの欲しいものが手に入るまでの間、とりあえず力を貸してあげるよ。貸してるだけだからね。"
+        },
+        {
+          "language": "英文",
+          "content": "Well, until I can get what I want, I guess I'll lend you a hand. Just lending it, though, okay?"
+        },
+        {
+          "language": "韩文",
+          "content": "뭐, 카프카가 원하는 걸 손에 넣을 때까지, 일단은 힘을 빌려줄게. 빌려주기만 하는 거다?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "好吧，那在我得到想要的東西之前，就暫且把我的力量先借給你吧。不過只是借哦。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "卡夫卡以前住在很糟糕的地方，每天几乎都在和坏人打交道。来到这里以后，大家对卡夫卡都很友善，还给我很多好吃的零食。嗯，所以卡夫卡还是很喜欢罗德岛的！"
+        },
+        {
+          "language": "日文",
+          "content": "カフカは昔、とってもやばいところに住んでたの。毎日のように悪い人に付き合ってたよ。でもここに来てから、みんなカフカに親切だし、美味しいお菓子もたくさんくれるし。だからカフカはロドスが好きだよー！"
+        },
+        {
+          "language": "英文",
+          "content": "Story goes, I used to live in a real baaad place, dealing with bad people almost everyday. Then ever since I came here, everyone's been nice with me, givin' me snacks and all! Mm-hm, that's why I like it here at Rhodes Island!"
+        },
+        {
+          "language": "韩文",
+          "content": "카프카는 전에 엄~청 위험한 곳에서 살았었어. 매일같이 나쁜 사람들이랑 어울려 다녔지. 근데 여기 오고 나니까, 모두 카프카에게 친절하게 대해주고, 맛있는 과자도 많이 줘. 그래서, 카프카는 로도스 아일랜드가 좋아~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "卡夫卡以前住在很糟糕的地方，每天幾乎都在和壞人打交道。來到這裡以後，大家對卡夫卡都很友善，還給我很多好吃的零食。嗯，所以卡夫卡還是很喜歡羅德島的！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......大家竭力隐藏的秘密，就像静静潜伏在阴影里，伺机而动的怪物一样美丽而危险。所以我才要努力把它们变成我的收藏品啊。博士，你有什么能够让我收藏的东西吗？"
+        },
+        {
+          "language": "日文",
+          "content": "……みんな必死に隠してる秘密は、物陰に潜んで機を伺う怪物のように危険で美しい。だからカフカは、こうやって頑張ってコレクションにしてるの。ドクターにも何かカフカのコレクションに入るようなものはない？"
+        },
+        {
+          "language": "英文",
+          "content": "...Y'know the secrets everyone tries their best to hide? They're like monsters, hidden in the dead shadows, waitin' for their chance. Beautiful... and dangerous. That's exactly why I do my darndest to collect them! Doctor, don't you got anything for my hoard?"
+        },
+        {
+          "language": "韩文",
+          "content": "……다들 필사적으로 숨기는 비밀은 그늘에 숨어서 기회를 엿보는 괴물처럼 위험하고 아름다워. 그래서 카프카는, 이렇게 열심히 컬렉션으로 만들고 있어. 박사는 뭐, 카프카의 컬렉션에 넣을 만한 거 없어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "......大家竭力隱藏的秘密，就像在靜靜潛伏在陰影裡，伺機而動的怪物一樣美麗而危險。所以我才要努力把它們變成我的收藏品啊。博士，你有什麼能夠讓我收藏的東西嗎？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士如果遇到难处，就把我在哥伦比亚的“朋友们”叫来帮忙吧......不过没什么必要啦。卡夫卡一个人就能把任何困难统统解决掉的。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、もし何か困り事があれば、クルビアにいるカフカの「お友達」を呼べばいいよ……まぁそこまでする必要はないけどね。どんな難題でも、カフカ一人でぜーんぶ片付けちゃうから。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, if you've ever got a problem, we can always call my 'friends' from Columbia in to help... though you don't really gotta. One Kafka'll sort out all your troubles head to tail!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 혹시 곤란한 일이 있으면 컬럼비아에 있는 카프카의 '친구'를 부르면 돼~ 뭐, 사실 그렇게까지 할 필요는 없지만. 어떤 난관이라도 카프카 혼자서 다~ 정리할 수 있으니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士如果遇到難處，就把我在哥倫比亞的“朋友們”叫來幫忙吧......不過沒什麼必要啦。卡夫卡一個人就能把任何困難統統解決掉的。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士一定是觉得卡夫卡在偷懒吧。但是并没有哦~"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、きっとこの隙にカフカがサボってると思ってるでしょ。でも違うんだよな～。"
+        },
+        {
+          "language": "英文",
+          "content": "Bet you think I'm goofing off right now, Doctor. But I aiiin't~"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 분명히 이 틈에 카프카가 농땡이 부리고 있을 거라고 생각했지? 근데 틀렸지롱~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士一定是覺得卡夫卡在偷懶吧。但是並沒有哦~"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "找卡夫卡有什么事吗......喂，不要当着这么多人说出来啊。当我是个普通的园艺师就好啦。"
+        },
+        {
+          "language": "日文",
+          "content": "カフカに何の用……ちょっと、こんな大勢の前で言っちゃダメでしょ、普通の園芸師として扱ってよ。"
+        },
+        {
+          "language": "英文",
+          "content": "What did you need me for...? Wait, not in front of everybody! Just treat me like a normal gardener, okay?"
+        },
+        {
+          "language": "韩文",
+          "content": "카프카한테 무슨 일…… 잠깐, 사람들 이렇게 많을 땐 그렇게 말하지 말라니까?! 내가 전에 평범한 원예사 취급해달라 그랬잖아!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "找卡夫卡有什麼事嗎......喂，不要當著這麼多人說出來啊。當我是個普通的園藝師就好啦。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "只要猜出对方的目的，就能制定出来对策了吧。卡夫卡是不是很聪明？"
+        },
+        {
+          "language": "日文",
+          "content": "相手の目的さえ読み取れば、対策も立てられるでしょ。カフカってば超頭良いじゃん！"
+        },
+        {
+          "language": "英文",
+          "content": "Just gotta figure what they're aiming for, and I can draw up some counterplans. C'mon, ain't I a wiz?"
+        },
+        {
+          "language": "韩文",
+          "content": "상대방의 목적만 파악하면 대책도 세울 수 있겠지? 카프카는 정말 머리가 좋다니까!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "只要猜出對方的目的，就能制定出來對策了吧。卡夫卡是不是很聰明？"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "既然博士非常需要卡夫卡的力量的话，直说就可以了。像卡夫卡一样认真又坦率不是很好吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、どーしてもカフカの力が欲しいなら、はっきり言ってよ。カフカみたいに真面目で素直でいいんじゃない？"
+        },
+        {
+          "language": "英文",
+          "content": "Seeing as you really need my power, Doctor, just c'mon and say it. Be like Kafka here, all serious and open, yeah?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 그렇~게까지 카프카의 힘이 필요하면, 그냥 확실히 말해달라구~ 카프카처럼 진지하고 솔직하면 어디 좀 좋아?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "既然博士非常需要卡夫卡的力量的話，直說就可以了。像卡夫卡一樣認真又坦率不是很好嗎？"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "无论是园艺还是战斗，这些事最初并不是为了得到夸奖而做的。但是自己的努力能够受到博士和大家的认可，卡夫卡觉得非常高兴。"
+        },
+        {
+          "language": "日文",
+          "content": "園芸も戦いも、褒められるために始めたわけじゃないよ。でもドクターやみんなにカフカの努力を認めてもらえるのって、やっぱり嬉しいな！"
+        },
+        {
+          "language": "英文",
+          "content": "Gardenin' or fightin', I didn't start doing either for compliments. But having my own efforts get noticed by you and the rest, well, that makes a Kafka real happy."
+        },
+        {
+          "language": "韩文",
+          "content": "원예도 전투도, 칭찬받으려고 시작한 건 아니야. 그래도 박사랑 딴 사람들이 카프카의 노력을 인정해 주니까, 역시 기쁘네!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "無論是園藝還是戰鬥，這些事最初並不是為了得到誇獎而做的。但是自己的努力能夠受到博士和大家的認可，卡夫卡覺得非常高興。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这次又能收获什么好东西呢？"
+        },
+        {
+          "language": "日文",
+          "content": "今度はどんな収穫があるかなー？"
+        },
+        {
+          "language": "英文",
+          "content": "Wonder what we can harvest this time?"
+        },
+        {
+          "language": "韩文",
+          "content": "이번에는 어떤 수확이 있을까~?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這次又能收獲什麼好東西呢？"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "尽管交给我吧，保证会让大家玩个痛快的。"
+        },
+        {
+          "language": "日文",
+          "content": "カフカに任せて、絶対みんなを楽しませてあげるよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Just leave it to me. I guarantee you're all in for a fun time!"
+        },
+        {
+          "language": "韩文",
+          "content": "카프카에게 맡겨줘, 반드시 모두를 즐겁게 해줄 테니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "儘管交給我吧，保證會讓大家玩個痛快的。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "动脑子好麻烦啊......所以一切还是听博士的吧。"
+        },
+        {
+          "language": "日文",
+          "content": "頭使うのめんどくさいな……やっぱりドクターの指示に従うよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Ah, thinkin' sucks... I guess I'll be listenin' to you, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "머리 쓰는 거 귀찮은데에~ 에이 됐다, 그냥 박사가 지시하는 거 따를게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "動腦子好麻煩啊......所以一切還是聽博士的吧。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这么多顽劣的树苗吗，真可爱啊......就让卡夫卡来好好修剪你们吧~"
+        },
+        {
+          "language": "日文",
+          "content": "言うことを聞かない苗木がこんなにたくさん、可愛いね……カフカが剪定してあげるよ～。"
+        },
+        {
+          "language": "英文",
+          "content": "Look at all these naughty li'l saplings. Ain'tcha cute... sit tight and Kafka'll trim ya up~"
+        },
+        {
+          "language": "韩文",
+          "content": "말 안 듣는 묘목이 왜 이렇게 많아~? 귀엽네~ 카프카가 가지치기해 줄게~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這麼多頑劣的樹苗嗎，真可愛啊......就讓卡夫卡來好好修剪你們吧~"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯？"
+        },
+        {
+          "language": "日文",
+          "content": "んん？"
+        },
+        {
+          "language": "英文",
+          "content": "Huh?"
+        },
+        {
+          "language": "韩文",
+          "content": "응?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯？"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "卡夫卡明白~"
+        },
+        {
+          "language": "日文",
+          "content": "カフカ、了解～。"
+        },
+        {
+          "language": "英文",
+          "content": "Kafka, roger~"
+        },
+        {
+          "language": "韩文",
+          "content": "카프카, 알겠슴다~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "卡夫卡明白~"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里吗。"
+        },
+        {
+          "language": "日文",
+          "content": "ここかな。"
+        },
+        {
+          "language": "英文",
+          "content": "Right here, I guess."
+        },
+        {
+          "language": "韩文",
+          "content": "여기인가?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這裡嗎。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哼哼~"
+        },
+        {
+          "language": "日文",
+          "content": "ふふーん～。"
+        },
+        {
+          "language": "英文",
+          "content": "Hm-hmmm~"
+        },
+        {
+          "language": "韩文",
+          "content": "흐흥~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哼哼~"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你的眼神......暴露了你的弱点哦。"
+        },
+        {
+          "language": "日文",
+          "content": "その目……弱点がバレちゃってるよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Watch your eyes... I see all your weakpoints in 'em."
+        },
+        {
+          "language": "韩文",
+          "content": "그 눈…… 약점이 다 보이는걸?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你的眼神......暴露了你的弱點哦。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们只是会动的树篱嘛~"
+        },
+        {
+          "language": "日文",
+          "content": "君たちって、ただの動く生垣じゃん。"
+        },
+        {
+          "language": "英文",
+          "content": "You're all just hedges who know how to walk~"
+        },
+        {
+          "language": "韩文",
+          "content": "너희는 그냥 움직이는 울타리잖아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你們只是會動的樹籬嘛~"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让我折断你们。"
+        },
+        {
+          "language": "日文",
+          "content": "折ってあげるよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Lemme break ya right there."
+        },
+        {
+          "language": "韩文",
+          "content": "부러뜨려 줄게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "讓我折斷你們。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "卡夫卡知道你在害怕。颤抖的枯枝们。"
+        },
+        {
+          "language": "日文",
+          "content": "カフカには君たちの恐怖がわかるよ、震える枯れ枝たち。"
+        },
+        {
+          "language": "英文",
+          "content": "Kafka knows you're scared. Tremblin' li'l bare branches."
+        },
+        {
+          "language": "韩文",
+          "content": "카프카는 너희의 공포를 느낄 수 있어, 떨고 있는 마른 나뭇가지들."
+        },
+        {
+          "language": "繁体中文",
+          "content": "卡夫卡知道你在害怕。顫抖的枯枝們。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士还是一如既往地淡定啊。好，我也要加油！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターは相変わらず冷静だね。よーし、カフカも頑張るぞー！"
+        },
+        {
+          "language": "英文",
+          "content": "Smooth sailin' just like always, Doctor. Alright, makes a Kafka wanna go get 'em!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사는 여전히 냉정하네. 좋았어~ 카프카도 힘내야지~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士還是一如既往地淡定啊。好，我也要加油！"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "敌人好弱啊。早知道就随便糊弄一下了。"
+        },
+        {
+          "language": "日文",
+          "content": "敵ってば弱っちいな。こうなるって知ってたらテキトーに相手してやったのに。"
+        },
+        {
+          "language": "英文",
+          "content": "Man, were those enemies pushovers. If I'd known sooner, I woulda messed with 'em some."
+        },
+        {
+          "language": "韩文",
+          "content": "적이 너무 약한데? 이렇게 될 줄 알았으면 그냥 대충 상대하는 거였는데."
+        },
+        {
+          "language": "繁体中文",
+          "content": "敵人好弱啊。早知道就隨便糊弄一下了。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔，下次还要更加认真地修剪才行啊。"
+        },
+        {
+          "language": "日文",
+          "content": "うーん、今度の剪定はもっと真面目にやらなきゃ。"
+        },
+        {
+          "language": "英文",
+          "content": "Hmm, guess I gotta be more careful with the pruning next time."
+        },
+        {
+          "language": "韩文",
+          "content": "음~ 다음 가지치기는 더 열심히 해야겠다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "唔，下次還要更加認真地修剪才行啊。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......结果，还是没能看穿他们的意图吗。"
+        },
+        {
+          "language": "日文",
+          "content": "……結局、あいつらの意図を読めなかったってことか。"
+        },
+        {
+          "language": "英文",
+          "content": "So I guess I couldn't read their plans in the end, huh."
+        },
+        {
+          "language": "韩文",
+          "content": "……결국, 저 녀석들의 의도를 파악하지 못한 건가."
+        },
+        {
+          "language": "繁体中文",
+          "content": "......結果，還是沒能看穿他們的意圖嗎。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "赫默的办公室在哪里来着？"
+        },
+        {
+          "language": "日文",
+          "content": "サイレンスの実験室ってどこだっけ？"
+        },
+        {
+          "language": "英文",
+          "content": "Where's Silence's lab, again?"
+        },
+        {
+          "language": "韩文",
+          "content": "사일런스네 실험실이 어디였더라?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "赫默的辦公室在哪裡來著？"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......你要干什么啊。"
+        },
+        {
+          "language": "日文",
+          "content": "……何する気なの。"
+        },
+        {
+          "language": "英文",
+          "content": "...Whaddaya think you're doin'."
+        },
+        {
+          "language": "韩文",
+          "content": "……뭐 하려고 그러는데?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "......你要幹什麼啊。"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，卡夫卡想要做盆栽来装点博士的办公室。放心，我会做得很好看的~"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、執務室にカフカの作った盆栽を飾ろうよ。立派なものを作ってあげるから安心して～！"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, Kafka here wants to deck out your office with some bonsai. Don'tcha worry, I'll make 'em look real good~"
+        },
+        {
+          "language": "韩文",
+          "content": "박사~ 집무실에 카프카가 만든 분재를 놔두는 건 어때? 멋진 녀석으로 만들어 줄 테니까 안심하라구~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，卡夫卡想要做盆栽來裝點博士的辦公室。放心，我會做得很好看的~"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "今天安排了什么工作给我吗，博士？"
+        },
+        {
+          "language": "日文",
+          "content": "今日はどんな仕事やらせてくれるの、ドクター？"
+        },
+        {
+          "language": "英文",
+          "content": "What work you got for me today, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "오늘은 어떤 일을 시킬 거야, 박사?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "今天安排了什麼工作給我嗎，博士？"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,940 @@
+{
+  "name": "崖心",
+  "charaKey": "char_173_slchan",
+  "images": [
+    "https://prts.wiki/images/a/a7/立绘_崖心_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/d/da/立绘_崖心_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/0/0d/立绘_崖心_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/a/a0/立绘_崖心_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_173_slchan"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_173_slchan"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_173_slchan"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_173_slchan"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔......博士，你是不是有点缺乏运动啊。"
+        },
+        {
+          "language": "日文",
+          "content": "うーん、ドクター、ちょーっと運動不足だと思うよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Uh... Doctor, you really need to work out more, you know."
+        },
+        {
+          "language": "韩文",
+          "content": "으음… 박사, 쪼~끔 운동부족인 거 같다, 그치?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "唔......博士，你是不是有點缺乏運動啊。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛的大家都非常和善，即使我想做恶作剧都有点不忍心下手呢......啊，吃饭的时间到了，我去帮忙！"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスのみんな、とーっても優しいから、いたずらしたくてもなんだか悪くってできない……あ、ご飯の時間だ！手伝ってくるね！"
+        },
+        {
+          "language": "英文",
+          "content": "Everyone's really nice here at Rhodes Island. Too nice to prank. Oh, is it time for lunch? I'll help!"
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드 사람들은 다들 착해서 그런지, 장난 좀 치려고 해도 미안해서 못 하겠다니깐… 아, 밥시간이다! 도와주고 올게!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "羅德島的大家都非常和善，即使我想做惡作劇都有點不忍心下手呢......啊，吃飯的時間到了，我去幫忙！"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "登山可不只是我的兴趣而已，而是事业哦！事！业！"
+        },
+        {
+          "language": "日文",
+          "content": "山登りは遊んでるんじゃなくて、お仕事なの！お！し！ご！と！"
+        },
+        {
+          "language": "英文",
+          "content": "Mountaineering's not just a hobby of mine, it's my career! You heard me: career!"
+        },
+        {
+          "language": "韩文",
+          "content": "등산은 취미가 아니라 직업이라고! 직! 업!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "登山可不只是我的興趣而已，而是事業哦！事！業！"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "腿上的环？啊，你是问这个环是怎么回事吗？这只是个装饰品啦~因为这里有块结晶嘛。想摸摸看吗~？"
+        },
+        {
+          "language": "日文",
+          "content": "脚の輪っか？あ、このガーターリングがどうかした？これはただのアクセサリーだよ～。ここには結晶があるからね。触ってみる～？"
+        },
+        {
+          "language": "英文",
+          "content": "The hoop on my leg? Oh, you mean what it's for? It's just for decoration. I've got this crystal over here, see. Wanna touch?"
+        },
+        {
+          "language": "韩文",
+          "content": "다리에 달린 고리? 아, 이 가터링이 왜? 이건 그냥 액세서리야~ 여기 결정이 있거든. 만져볼래~?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "腿上的環？啊，你是問這個環是怎麼回事嗎？這只是個裝飾品啦~因為這裡有塊結晶嘛。想摸摸看嗎~？"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "角峰叔其实是老哥派来保护我的吧......这个老哥真是不坦率，啊啊，想想就来气！"
+        },
+        {
+          "language": "日文",
+          "content": "ヤーカおじさんって、本当はお兄ちゃんがあたしを守るために遣わせたんだよね……お兄ちゃんってばほんっと素直じゃないんだから！も～！ムカつく！"
+        },
+        {
+          "language": "英文",
+          "content": "My brother sent Matterhorn to look after me, didn't he…? Ugh, why can't he just come out and tell me what he's thinking? It drives me mad."
+        },
+        {
+          "language": "韩文",
+          "content": "야카 아저씨는 사실 오빠가 날 지켜주겠답시고 나 있는 데로 보내준 거야… 오빠도 참, 어쩜 사람이 그렇게 솔직하지 못하지?! 아으 진짜~! 짜증 나!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "角峰叔其實是老哥派來保護我的吧......這個老哥真是不坦率，啊啊，想想就來氣！"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我从小就想爬上喀兰圣山看看——自从姐姐成为圣女离我们而去之后，这想法就越来越强烈......博士，多多的锻炼我吧，总有一天我要爬上它的顶峰，把姐姐接回家。"
+        },
+        {
+          "language": "日文",
+          "content": "ちっちゃい時からずっとカランドに登ってみたかったんだ。お姉ちゃんが巫女になって出て行ってから、その気持ちはどんどん強くなって……。だからドクター、あたしをいーーーーっぱい鍛えて！いつか絶対山頂まで登って、お姉ちゃんを迎えに行くんだから！"
+        },
+        {
+          "language": "英文",
+          "content": "I've always wanted to climb the holy Mt. Karlan, and I've only wanted it even more since my sister left us and became the Saintess. So Doctor, train me more, yeah? So one day I can reach the peak of Mt. Karlan and bring my sister home."
+        },
+        {
+          "language": "韩文",
+          "content": "꼬맹이 때부터 계속 카란에 올라가 보고 싶었어. 언니가 성녀가 돼서 떠나간 다음부턴, 그 생각이 점점 강해져서… 그러니까 박사, 날 잔뜩 단련시켜줘! 언젠가 반드시 산 정상에 올라가서, 언니를 마중 나갈 테니까!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我從小就想爬上喀蘭聖山看看——自從姐姐成為聖女離我們而去之後，這想法就越來越強烈......博士，多多的鍛煉我吧，總有一天我要爬上它的頂峰，把姐姐接回家。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在登山领域，我可是不会输给任何人的！毕竟没有人比我更熟悉手上的工具了，就连作为武器，都是它们更顺手呢。"
+        },
+        {
+          "language": "日文",
+          "content": "山のことに関しては、誰にも負けない！この道具のことだって、あたしより詳しい奴はいないんだから！武器としても全然使いやすいしね！"
+        },
+        {
+          "language": "英文",
+          "content": "When it comes to Mountaineering, I won't lose to anyone! No one knows these tools better than me. They make great weapons too!"
+        },
+        {
+          "language": "韩文",
+          "content": "산에 관해서라면 누구한테도 지지 않아! 게다가 나만큼 이런 도구 쓰는 법을 잘 아는 녀석은 없다고! 무기로 쓰기에도 엄청 편하고 말이야!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "在登山領域，我可是不會輸給任何人的！畢竟沒有人比我更熟悉手上的工具了，就連作為武器，都是它們更順手呢。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "是啊，矿石病彻底改变了我。但就此消沉下去的话，我才真的不是我了吧？无论未来怎么样，自己决定的事情，就该自己去努力完成嘛。"
+        },
+        {
+          "language": "日文",
+          "content": "確かに、鉱石病のせいで、色んなものが変わっちゃった。けど、このまま落ち込んでたら、それこそあたしらしくないでしょ？どんな未来が待ってるとしても、あたしは決めたことを最後までやるしかないんだから。"
+        },
+        {
+          "language": "英文",
+          "content": "Yeah, Oripathy really changed me. But if I keep wallowing in self-pity, that wouldn't be like me, right? So, no matter what lies in wait in the future... I should continue working hard on my chosen path."
+        },
+        {
+          "language": "韩文",
+          "content": "확실히, 광석병 때문에 많은 게 변해버렸지. 그래도, 이런 걸로 의기소침해하면 그게 더 나 답지 않잖아? 어떤 미래가 기다린다고 해도, 내가 정한 걸 마지막까지 해보는 수밖에 없어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "是啊，礦石病徹底改變了我。但就此消沉下去的話，我才真的不是我了吧？無論未來怎麼樣，自己決定的事情，就該自己去努力完成嘛。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "下雪了呢。......希瓦艾什一家永远回不到过去，我明白的。一切都和过去不一样了。除了雪......和故乡一样的，一片片的雪。"
+        },
+        {
+          "language": "日文",
+          "content": "雪だね……わかってる、お兄ちゃんもお姉ちゃんもあたしも、もう昔のようには戻れないんだって。何もかも……変わっちゃった。でも雪だけは……昔故郷で見たのと変わらないね。"
+        },
+        {
+          "language": "英文",
+          "content": "Ah, it's snowing... We Silverashes can't go back to the way we were... I get that. Everything's changed. Only the snow is the same—the same snowflakes that I watched falling back home."
+        },
+        {
+          "language": "韩文",
+          "content": "눈이 오네… 알고 있어, 오빠도 언니도 나도, 이제 예전으로 돌아갈 순 없다는 걸. 모든 게… 다 변해버렸어. 그래도 이 눈만은… 예전에 고향에서 본 거랑 똑같네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "下雪了呢。......希瓦艾什一家永遠回不到過去，我明白的。一切都和過去不一樣了。除了雪......和故鄉一樣的，一片片的雪。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博——士！博——士啊啊！真是的，既然睡着了就没办法了！Bye-bye！"
+        },
+        {
+          "language": "日文",
+          "content": "ドークーター！ドークーターってばー！もー、寝てるならもういいや！——バイバイ！"
+        },
+        {
+          "language": "英文",
+          "content": "Doctoooor? Doctooooor! Heeeey! Fine, if you're just gonna sleep, then so be it. Bye-bye!"
+        },
+        {
+          "language": "韩文",
+          "content": "박~사! 박~사~아~! 에잇, 자고 있으면 별수 없지! 나 간다?!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博——士！博——士啊啊！真是的，既然睡著了就沒辦法了！Bye-bye！"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我就是将要触摸天际的崖心，请多关照！"
+        },
+        {
+          "language": "日文",
+          "content": "世界の山頂にその名が轟くっ！クリフハートとはあたしのことだよっ！よろしく～！"
+        },
+        {
+          "language": "英文",
+          "content": "I'm Cliffheart, and I live to conquer the peaks! It's nice to meet you!"
+        },
+        {
+          "language": "韩文",
+          "content": "전 세계의 산 정상에 이름을 떨친다! 내가 바로 그! 클리프하트야! 잘 부탁해~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我就是將要觸摸天際的崖心，請多關照！"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯——很新奇的体验呢。"
+        },
+        {
+          "language": "日文",
+          "content": "うーん——なんか新感覚。"
+        },
+        {
+          "language": "英文",
+          "content": "Hmm... what a novel experience!"
+        },
+        {
+          "language": "韩文",
+          "content": "으음~ 뭔가 새로운 느낌인데."
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯——很新奇的體驗呢。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "晋升？好哇！我们吃个蛋糕庆祝下吧！好吧？看，从后勤组那儿顺手拿来的，不要紧的！"
+        },
+        {
+          "language": "日文",
+          "content": "ショーシン？やったー！ケーキ食べてお祝いしよ！いいよね？ね！ほら、補給部からパクって来たのがあるから、大丈夫！"
+        },
+        {
+          "language": "英文",
+          "content": "Promotion? Wow! Let's celebrate with some cake. Look, I grabbed these from Logistics. It's fine!"
+        },
+        {
+          "language": "韩文",
+          "content": "승진? 아싸~! 케이크 먹으면서 축하하자! 그래도 되지? 되지? 자, 후방 지원부에서 꿍쳐왔던 게 있으니까, 괜찮아!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "晉升？好哇！我們吃個蛋糕慶祝下吧！好吧？看，從後勤組那兒順手拿來的，不要緊的！"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嘿，博士挺有眼光的嘛。确实，我可是超强的，你要好好运用我的力量哦！"
+        },
+        {
+          "language": "日文",
+          "content": "へー、ドクターも見る目あるね。確かにあたしってすっごく強いからね。あたしの力、ちゃんと使ってよね！"
+        },
+        {
+          "language": "英文",
+          "content": "Well, well, you really know what you're doing, Doctor! That's right, I'm really talented. You'd better use my power well!"
+        },
+        {
+          "language": "韩文",
+          "content": "오오~ 박사도 보는 눈이 있네. 하긴 난 엄청 강하니까 말이야. 나의 힘, 제대로 써달라고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嘿，博士挺有眼光的嘛。確實，我可是超強的，你要好好運用我的力量哦！"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好，干劲涌上来了！一口气登上最高峰吧！"
+        },
+        {
+          "language": "日文",
+          "content": "よーし、やる気ぜんかーい！山頂まで一気に行くよっ！"
+        },
+        {
+          "language": "英文",
+          "content": "All right? I'm feeling motivated! Time to climb all the way to the top!"
+        },
+        {
+          "language": "韩文",
+          "content": "좋아, 의욕 일발장전! 산꼭대기까지 단숨에 가보자고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "好，幹勁湧上來了！一口氣登上最高峰吧！"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唉？？突然就让我领导大家什么的，这......"
+        },
+        {
+          "language": "日文",
+          "content": "えー、みんなの指揮するの？あたしが？いきなりすぎだよ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Eh? You want me to lead? This is all so sudden..."
+        },
+        {
+          "language": "韩文",
+          "content": "엥, 모두를 지휘하라고? 내가? 너무 갑작스러운데……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "唉？？突然就讓我領導大家什麼的，這......"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "接下来可不能粗心大意了，要认真对待。"
+        },
+        {
+          "language": "日文",
+          "content": "ここからは油断禁物！しっかりしなきゃ。"
+        },
+        {
+          "language": "英文",
+          "content": "Say goodbye to the reckless Cliffheart. I'm taking things seriously from here on out."
+        },
+        {
+          "language": "韩文",
+          "content": "여기서부터 방심은 금물! 정신 차려야지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "接下來可不能粗心大意了，要認真對待。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我可不会手下留情！"
+        },
+        {
+          "language": "日文",
+          "content": "手加減はしてあげないから！"
+        },
+        {
+          "language": "英文",
+          "content": "I'll show them what I can do!"
+        },
+        {
+          "language": "韩文",
+          "content": "봐주지 않을 거야!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我可不會手下留情！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在呢！"
+        },
+        {
+          "language": "日文",
+          "content": "はーい！"
+        },
+        {
+          "language": "英文",
+          "content": "Here!"
+        },
+        {
+          "language": "韩文",
+          "content": "네에~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "在呢！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ここだね？"
+        },
+        {
+          "language": "英文",
+          "content": "Over here?"
+        },
+        {
+          "language": "韩文",
+          "content": "여기지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這裡嗎？"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "交给我吧！"
+        },
+        {
+          "language": "日文",
+          "content": "まっかせてー！"
+        },
+        {
+          "language": "英文",
+          "content": "Leave it to me!"
+        },
+        {
+          "language": "韩文",
+          "content": "맡겨줘~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "交給我吧！"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "完全没问题！"
+        },
+        {
+          "language": "日文",
+          "content": "ばっちしオッケー！"
+        },
+        {
+          "language": "英文",
+          "content": "I'm raring to go!"
+        },
+        {
+          "language": "韩文",
+          "content": "완전 오케이~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "完全沒問題！"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "逮·住·你·了！"
+        },
+        {
+          "language": "日文",
+          "content": "つーかまーえーたっ！"
+        },
+        {
+          "language": "英文",
+          "content": "I'veeee got yoooou!"
+        },
+        {
+          "language": "韩文",
+          "content": "잡~았~다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "逮·住·你·了！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一钩一个，轻轻松松~"
+        },
+        {
+          "language": "日文",
+          "content": "百発百中、らっくしょ～！"
+        },
+        {
+          "language": "英文",
+          "content": "My hook never misses! I've got this!"
+        },
+        {
+          "language": "韩文",
+          "content": "백발백중, 간단하지~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "一鉤一個，輕輕鬆鬆~"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "门外汉只会摔下万丈深渊！"
+        },
+        {
+          "language": "日文",
+          "content": "素人は崖から落ちちゃうって決まってるんだよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Amateurs are doomed to fall to their death!"
+        },
+        {
+          "language": "韩文",
+          "content": "풋내기는 절벽에서 떨어지게 되어있다고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "門外漢只會摔下萬丈深淵！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "以希瓦艾什之名起誓——！"
+        },
+        {
+          "language": "日文",
+          "content": "シルバーアッシュの名に誓って――！"
+        },
+        {
+          "language": "英文",
+          "content": "For the Silverash name!"
+        },
+        {
+          "language": "韩文",
+          "content": "실버애쉬의 이름을 걸고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "以希瓦艾什之名起誓——！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "世上没有无法攀登的山峰，也没有无法跨越的绝境！"
+        },
+        {
+          "language": "日文",
+          "content": "登頂できない山はないし、越えられない窮地もないんだから！"
+        },
+        {
+          "language": "英文",
+          "content": "There ain't no mountain too high, no situation too bleak!"
+        },
+        {
+          "language": "韩文",
+          "content": "오르지 못할 산이 없듯이, 뛰어넘지 못할 궁지도 없다고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "世上沒有無法攀登的山峰，也沒有無法跨越的絕境！"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有我在，这不是理所当然的嘛！"
+        },
+        {
+          "language": "日文",
+          "content": "こんなのあったりまえでしょー！このわたしがいるんだから！"
+        },
+        {
+          "language": "英文",
+          "content": "Of course we won with me around!"
+        },
+        {
+          "language": "韩文",
+          "content": "이 정돈 당연하지~! 내가 있잖아!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "有我在，這不是理所當然的嘛！"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊，逃的可真快！"
+        },
+        {
+          "language": "日文",
+          "content": "もー！足だけは早いんだから。"
+        },
+        {
+          "language": "英文",
+          "content": "Wow, they sure are good at running away!"
+        },
+        {
+          "language": "韩文",
+          "content": "정말~! 도망치는 거 하나는 빠르다니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "啊，逃的可真快！"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔......我是不是出丑了......"
+        },
+        {
+          "language": "日文",
+          "content": "うっ……情けない……。"
+        },
+        {
+          "language": "英文",
+          "content": "Dangit... I messed up..."
+        },
+        {
+          "language": "韩文",
+          "content": "으윽…… 쪽팔려……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "唔......我是不是出醜了......"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真暖和呢，我就在这窝会儿好了~"
+        },
+        {
+          "language": "日文",
+          "content": "ここ、あったかいね。まったりしちゃおー。"
+        },
+        {
+          "language": "英文",
+          "content": "It's so warm here... I'll hang out over here for a while!"
+        },
+        {
+          "language": "韩文",
+          "content": "여기 따뜻하네. 느긋하게 있어야지~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "真暖和呢，我就在這窩會兒好了~"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "等等！别......"
+        },
+        {
+          "language": "日文",
+          "content": "ま、待って！やっ……。"
+        },
+        {
+          "language": "英文",
+          "content": "W-wait! Whuah!"
+        },
+        {
+          "language": "韩文",
+          "content": "자, 잠깐! 앗……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "等等！別......"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，下次让我教你登山吧，你一定会喜欢的~"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、今度山登りのいろはを教えてあげる。きっと好きになるよ～。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm gonna teach you all about Mountaineering next time, Doctor! You'll love it, I promise!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 다음에 등산의 기초를 알려줄게. 분명 좋아할 거야~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，下次讓我教你登山吧，你一定會喜歡的~"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "早安哦，博士~"
+        },
+        {
+          "language": "日文",
+          "content": "おはよー、ドクター！"
+        },
+        {
+          "language": "英文",
+          "content": "Mornin', Doctor!"
+        },
+        {
+          "language": "韩文",
+          "content": "좋은 아침, 박사~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "早安哦，博士~"
+        }
+      ]
+    }
+  ]
+}

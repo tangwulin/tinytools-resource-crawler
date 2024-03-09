@@ -1,0 +1,510 @@
+{
+  "name": "温米",
+  "charaKey": "char_4081_warmy",
+  "images": [
+    "https://prts.wiki/images/1/15/立绘_温米_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/2/20/立绘_温米_2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4081_warmy"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4081_warmy"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "来咯来咯，温米带着“温暖”来了哦。欸？博士！不要和兰娜姐学！不许叫我小锅盖！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，闻到了吗？嘿嘿，是甜梨蔬菜汤的味道啦，小火慢炖的！之前不是说过嘛，我要做最最好吃的饭，治好大家的矿石病！呼，呼——已经不烫啦，快点尝尝吧。要不然，可是会被其他人喝光的！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛是一辆超——大的运载车，还有和工厂里不太一样的热炉子......我刚刚去了动力层，锅炉工叔叔以为我迷路了，非要送我回来。可是我根本不觉得难受呀，我习惯了热腾腾的地方。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，快吃吧，不用分给我。看见别人吃饭香香的，我的心情也会好好的！唔，您怎么还是拨给我了？那好吧，我来“打扫干净”！啊呜——啊？刚刚那个，是您挑出来不吃的东西？无所谓啦。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这条手链是用瓶树叶编成的，我能让它暂时保持新鲜哦。嘿嘿，没想到我的源石技艺还能这么用吧！放心啦，就一小会儿，不会保持太久的。一直鲜活着，它也很累呀。嗯，就让它慢慢干枯吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "爸爸会把剩下的萝卜头收集起来，把它们刻成小动物。博士，您觉得莱伊姐会喜欢这只萝卜沙地兽吗？啊......好像刻太深了。和爸爸比起来，我还不太熟练。要是他能再教教我就好了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士你看！医疗部的姐姐给我的创可贴是白梨图案的！罗德岛上的感染者好多呀，我家乡也是这样，可大家过得就不太好了，之前我也无处可去......身为感染者，难道是一件错事吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“在不见微光的黑暗里，原本温热却慢慢冷去的呼吸......”莱伊姐是这么讲她和沙地兽的故事的。那场事故之后，工友叔叔们也在我旁边说过类似的话，有点难懂，但现在我已经能明白了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "是呀，矿石病发作的时候真的会很难受，也会害怕自己失控。呼，呼，博士，要不要尝一口炖梨子？虽然治不好矿石病，但很甜哦，生活苦苦的，才更要来点甜头呀！好了，我去端给兰娜姐啦。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，有没有暖和一点？睡吧，睡吧，我会陪着你。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，又见面啦，想念雷姆必拓风味的炖菜吗？我正要和兰娜姐去后厨看......我不是小锅盖，请不要再叫我小锅盖啦——"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "欸？这些作战都是博士指挥的吗？好厉害......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "升、升职啦？那是不是说明，我可以向可露希尔姐姐申请采购更多更地道的食材啦？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "谢谢博士的认可！我会努力带给大家更多温暖的！欸......其实，我的意思是，只要能帮到大家就好啦。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我已经准备好了哦。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "欸？今天我来做主厨？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "慢、慢点......等等我！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不给他们好果子吃！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我来帮忙。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "开火咯。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "轻一点。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里好像太凉快了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小火花，跳一跳。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小火苗，摇呀摇。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "烤他们的肚皮！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嘘，它在静静燃烧呢。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大家都好棒呀......一会儿要炖一大锅菜，犒劳犒劳大家！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯——好香，今天也大功告成了呢！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔......锅里溢出来好多，好可惜......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呜呜呜，一不留神，全烧煳啦......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好温暖的房间呀。嗯？需要用温控面板来调节吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呼——没烫到您吧？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不是——好吧，博士愿意叫就叫吧，我就是小锅盖。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，今天您好好吃饭了吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

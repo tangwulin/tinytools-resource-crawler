@@ -1,0 +1,1083 @@
+{
+  "name": "拉普兰德",
+  "charaKey": "char_140_whitew",
+  "images": [
+    "https://prts.wiki/images/7/75/立绘_拉普兰德_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/f/fe/立绘_拉普兰德_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/1/11/立绘_拉普兰德_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_140_whitew"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_140_whitew"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_140_whitew"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_140_whitew"
+    },
+    {
+      "language": "意大利语",
+      "base": "voice_custom/char_140_whitew_ita"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哟，博士。就算我把武器带进这里，你也会原谅我的对吧。那我就坐在这里了。"
+        },
+        {
+          "language": "日文",
+          "content": "やあ、ドクター。執務室に武器持ち込んでも許してくれるよね。ここ、座るよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Ehi, Doctor. Hope you don't mind if I bring my weapons inside. I'll plop myself right over here."
+        },
+        {
+          "language": "韩文",
+          "content": "아~ 박사. 집무실에 무기 갖고 와도, 용서해… 줄 거지? 그럼 나, 여기 앉을게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "喲，博士。就算我把武器帶進這裡，你也會原諒我的對吧。那我就坐在這裡了。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Doc. Non ti dispiace se porto dentro le mie armi, vero? Mi metto comoda qui."
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有人想伤害你？好好想想你过去的所作所为，是不是在哪结下过什么仇怨啊。"
+        },
+        {
+          "language": "日文",
+          "content": "誰かに狙われてる？じゃあしっかり思い出してみて、どこで恨みを買ったのかを。"
+        },
+        {
+          "language": "英文",
+          "content": "Somebody out to get you, huh? Then have a long, hard think about who you might've wronged in the past."
+        },
+        {
+          "language": "韩文",
+          "content": "누가 박사를 노리고 있는 거 같다고? 그럼 한번… 곰~곰이 생각해 봐, 어디서 원한을 샀는지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "有人想傷害你？好好想想你過去的所作所為，是不是在哪結下過什麼仇怨啊。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Hai qualcuno alle costole? Riflette, so che potresti aver infastidito in passato."
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果有人借复仇的名义来杀你，不要犹豫，干掉那个人。一旦你决定拿起武器，杀人就不需要什么理由。"
+        },
+        {
+          "language": "日文",
+          "content": "もし復讐なんてしに来る奴がいたら、躊躇せず殺りなよ？一度武器を手にした相手は、殺すのに理由なんて要らないんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "If someone's out for revenge on you, don't hesitate, just take them out. Once you decide to pick up a weapon, you don't need a reason to kill."
+        },
+        {
+          "language": "韩文",
+          "content": "혹시 복수 같은 걸 하러 오는 녀석이 있다면, 주저하지 말고… 죽여버려. 네가 무기를 들기로 결정한 이상, 살인은 이유 따위가 필요하지 않으니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "如果有人借復仇的名義來殺你，不要猶豫，幹掉那個人。一旦你決定拿起武器，殺人就不需要什麼理由。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Se qualcuno vuole vendicarsi, non esitare, fallo fuori. Quando decidi di usare un'arma non ti serve un motivo per uccidere."
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这么久没见，德克萨斯身边多了不少人嘛！哈哈，这很好！也让我和他们认识一下！"
+        },
+        {
+          "language": "日文",
+          "content": "いつのまにかテキサスの周りもずいぶん賑やかになったね。ハハハ……いいね！ボクにもお友達を紹介してよ！"
+        },
+        {
+          "language": "英文",
+          "content": "It's been a while... I see that Texas made some friends. Hehehe... Affascinante! Can't wait to get to know them!"
+        },
+        {
+          "language": "韩文",
+          "content": "어느샌가 텍사스 주변도 꽤 떠들썩해졌네. 하하하… 좋은데! 나한테도 친구 좀 소개해줘!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這麼久沒見，德克薩斯身邊多了不少人嘛！哈哈，這很好！也讓我和他們認識一下！"
+        },
+        {
+          "language": "意大利文",
+          "content": "È da un po che non ci si vede, noto che Texas si è fatta nuovi amici. Che bello! Non vedo l'ora di conoscerli."
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你觉得我是杀手？好啊，你当然可以随意解读我。我可以成为任何人，也能做任何工作，在任何时间都能干掉我想干掉的人，只要我想！"
+        },
+        {
+          "language": "日文",
+          "content": "ボクが殺し屋だって？いいよ、解釈は任せるよ！ボクは何者にだってなれるし、どんな仕事だってできる。そして、殺りたくなったらいつでも殺れる。ボクがそうしたいと思いさえすればね！"
+        },
+        {
+          "language": "英文",
+          "content": "You think I'm an assassin, huh? Yeah, alright. Call me whatever you want. I can be anyone, do anything, kill anyone anytime. Just so long as I want to!"
+        },
+        {
+          "language": "韩文",
+          "content": "내가 킬러라고? 그래, 해석은 자유지. 난 어떤 사람이든 될 수 있고, 어떤 일이든 할 수 있어. 그리고… 죽이고 싶으면 언제든지 죽일 수 있지. 내가 마음만 먹으면 말이야!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你覺得我是殺手？好啊，你當然可以隨意解讀我。我可以成為任何人，也能做任何工作，在任何時間都能幹掉我想幹掉的人，只要我想！"
+        },
+        {
+          "language": "意大利文",
+          "content": "Credi che sia un'assassina? Gia, chiamami come vuoi. Posso essere chiunque, fare qualsiasi cosa, uccidere quando voglio, finché voglio."
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我喜欢力量，博士，尤其是你还向我提供了可以尽情宣泄力量的职位......如果说这个疯狂的世界还剩下什么乐趣，就只剩下用我的力量征服一切这件事了吧！"
+        },
+        {
+          "language": "日文",
+          "content": "ボクは力が好きだよ、ドクター。そんなボクの力を存分に振るえる仕事をくれるキミはサイコーだ。この狂った世界で、まだ何か楽しみがあるとすれば、それはボクの力で全てをねじ伏せることぐらいさ！"
+        },
+        {
+          "language": "英文",
+          "content": "I love power, Doctor. And you offered me a job where I can use my power to my heart's content... Love it. Honestly, the only joy I get out of this insane world is using my power to conquer it."
+        },
+        {
+          "language": "韩文",
+          "content": "난 힘을 좋아해, 박사. 내 힘을 마음껏 쓸 수 있는, 그런 일거릴 주는 넌 최고야! 이 미친 세상에서 아직 뭔가 재밌는 게 남아있다면, 그건… 내 힘으로 모든 걸 굴복시키는 정도일 거야!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我喜歡力量，博士，尤其是你還向我提供了可以盡情宣洩力量的職位......如果說這個瘋狂的世界還剩下什麼樂趣，就只剩下用我的力量征服一切這件事了吧！"
+        },
+        {
+          "language": "意大利文",
+          "content": "Adoro il potere, Doc, e tu mi hai offerto un lavoro dove posso usarlo a mio piacimento, fantastico. L'unica cosa bella di questo mondo e usare il mio potere per conquistarlo."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "德克萨斯？呵呵，虽然她在害怕我，不过我没打算对她做些什么。我只是想让她变回以前那个德克萨斯，而不是像现在这样怯懦......"
+        },
+        {
+          "language": "日文",
+          "content": "テキサス？フフッ、あの子はボクのことをものすごーく怖がってるけど、別に何かするつもりはないよ。ただ、ボクは昔のテキサスに戻ってもらいたいだけさ。今みたいな意気地なしじゃなかった頃のね……。"
+        },
+        {
+          "language": "英文",
+          "content": "Texas? Ha, she's afraid of me, but I don't wanna do anything to her, except maybe try to bring back the old Texas. The one we got here's a cucciolo impaurito."
+        },
+        {
+          "language": "韩文",
+          "content": "텍사스? 후훗, 걔는 날 굉~장히 무서워하는 모양이지만, 딱히 뭘 할 생각은 없어. 그냥, 난 옛날의 그 텍사스로 돌아와 줬으면 할 뿐이야. 지금처럼 나약하지 않던, 그 시절의 텍사스로 말이지…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "德克薩斯？呵呵，雖然她在害怕我，不過我沒打算對她做些什麼。我只是想讓她變回以前那個德克薩斯，而不是像現在這樣怯懦......"
+        },
+        {
+          "language": "意大利文",
+          "content": "Texas. Mi teme ma non voglio farle niente. Tranne forse provare a farla rinsavire. È diventata un gattino impaurito."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......那个红色的......没错吧......！博士，我啊，是绝对不能靠近她的！但是，但是——这感觉，这感觉......！如果战斗的话一定会死，但是，还是想和那家伙打上一场啊......！"
+        },
+        {
+          "language": "日文",
+          "content": "あれは……あの赤いの……まさか……！ドクター、絶対にアレに近づいちゃだめだ！でも、でも――チッ、不思議な感じだ、戦ったらきっと死んでしまうのに、こんなにもあの子と戦いたいなんて……！"
+        },
+        {
+          "language": "英文",
+          "content": "That red one... oh... Doctor, keep her away from me! She'd definitely kill me in a fight. But I have this feeling... this feeling... ugh, why do I want to fight her so badly?"
+        },
+        {
+          "language": "韩文",
+          "content": "저건… 저 빨간 건… 설마…! 박사, 나는 절대 저 여자에게 다가가지 않을 거야! 그런데도, 그런데도! 이상한 기분이야… 싸우면 분명 죽을 텐데! 이렇게나 저 자식이랑 싸우고 싶다니!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "......那個紅色的......沒錯吧......！博士，我啊，是絕對不能靠近她的！但是，但是——這感覺，這感覺......！如果戰鬥的話一定會死，但是，還是想和那傢伙打上一場啊......！"
+        },
+        {
+          "language": "意大利文",
+          "content": "La rossa? Oh no! Doc, tienila lontana da me. Non ho speranze incontro di lei. Ma questa sensazione, sento che... Perché non vedo l'ora di lottare con lei."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "想了解我和德克萨斯过去的事？哈哈，还真是挑起了一个不得了的话题啊你！总有一天你会知道的，但，绝不会是我来告诉你......"
+        },
+        {
+          "language": "日文",
+          "content": "テキサスとの昔話が聞きたい？ハハ、怖いもの知らずだねキミは。まあ、いずれわかるさ。話すのはボクじゃないけどね。"
+        },
+        {
+          "language": "英文",
+          "content": "You want to know what happened between me and Texas? Hehe, you don't have a single idea of what you are sticking your nose into. You'll find out the truth someday, but not from me."
+        },
+        {
+          "language": "韩文",
+          "content": "텍사스랑 있었던 옛날이야기가 듣고 싶다고? 하하하! 무서움이란 걸 모르는구나 넌? 뭐, 언젠간 알게 될 거야. 얘기하는 건 내가 아니겠지만."
+        },
+        {
+          "language": "繁体中文",
+          "content": "想瞭解我和德克薩斯過去的事？哈哈，還真是挑起了一個不得了的話題啊你！總有一天你會知道的，但，絕不會是我來告訴你......"
+        },
+        {
+          "language": "意大利文",
+          "content": "Vuoi sapere cosa è successo tra me e Texas? Non hai proprio idea dei guai in cui ti stai cacciando, vero? Un giorno scoprirai la verità, ma non da me."
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "睡吧，至少现在，你还能做个美梦......"
+        },
+        {
+          "language": "日文",
+          "content": "眠るがいいさ……せめて今は甘い夢を。"
+        },
+        {
+          "language": "英文",
+          "content": "Sleep tight... enjoy your sweet dreams while you still can."
+        },
+        {
+          "language": "韩文",
+          "content": "자는 게 좋을 거야… 적어도 지금은 달콤한 꿈을…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "睡吧，至少現在，你還能做個美夢......"
+        },
+        {
+          "language": "意大利文",
+          "content": "Dormi bene, goditi il tuo riposo, finché puoi."
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "暴虐的恶人阻断正义的道路，我的主人啊，以复仇与恶意为名，引领弱小的人吧。"
+        },
+        {
+          "language": "日文",
+          "content": "正義の道は暴虐の使徒により断たれた。我が主よ、復讐と悪意の名の下に、弱き者を導き給え。"
+        },
+        {
+          "language": "英文",
+          "content": "A great evil stands in the way of justice. My master, in the name of hatred and revenge, lead the weak onward!"
+        },
+        {
+          "language": "韩文",
+          "content": "정의의 길은 폭동의 사도에 의해 끊어졌다. 나의 주인이여, 복수와 악의의 이름 아래, 약한 자를 인도해다오!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "暴虐的惡人阻斷正義的道路，我的主人啊，以復仇與惡意為名，引領弱小的人吧。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Un grande male ostacola la giustizia. Mio padrone, in nome dell'odio e della vendetta, guida i più deboli."
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你爱我不断提升的力量，对吧！"
+        },
+        {
+          "language": "日文",
+          "content": "どんどん強くなるボクの力、愛してくれるよね？"
+        },
+        {
+          "language": "英文",
+          "content": "Don't you just love how I keep getting more and more powerful?"
+        },
+        {
+          "language": "韩文",
+          "content": "점점 강해지는 내 힘, 사랑해 줄 거지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你愛我不斷提升的力量，對吧！"
+        },
+        {
+          "language": "意大利文",
+          "content": "Non è stupendo come continui a diventare sempre più potente."
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哈哈哈，好，我喜欢你对我的信任。德克萨斯做得到吗？"
+        },
+        {
+          "language": "日文",
+          "content": "アハハ、キミの寵愛、確かに受け取ったよ。テキサスにはこれができるかな？"
+        },
+        {
+          "language": "英文",
+          "content": "Hahaha! Bene! I love how much you trust me. You can't say the same for Texas, right?"
+        },
+        {
+          "language": "韩文",
+          "content": "아하하! 너의 그 '총애', 확실히 잘 받았어. 텍사스한텐 이게 될까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哈哈哈，好，我喜歡你對我的信任。德克薩斯做得到嗎？"
+        },
+        {
+          "language": "意大利文",
+          "content": "È bello che ti fidi di me, di certo non posso dire lo stesso di Texas."
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "对对，就是这样，解放更多的力量吧，你该这样做！"
+        },
+        {
+          "language": "日文",
+          "content": "そう、これでいい、もっともっと力を解き放とう！これはキミの使命だよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Molto bene! That's more like it! Strength, unfettered and unchained! That's what I'm talking about!"
+        },
+        {
+          "language": "韩文",
+          "content": "그래! 이거면 됐어! 더욱더 힘을 해방하자! 이건… 너의 사명이야!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "對對，就是這樣，解放更多的力量吧，你該這樣做！"
+        },
+        {
+          "language": "意大利文",
+          "content": "Ora sì che ragioniamo. Forza, libertà e follia. È di questo che parlo."
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让德克萨斯来担任队长！"
+        },
+        {
+          "language": "日文",
+          "content": "隊長はテキサスにやってもらおう！"
+        },
+        {
+          "language": "英文",
+          "content": "Make Texas the leader!"
+        },
+        {
+          "language": "韩文",
+          "content": "팀장은 텍사스더러 하라 해야지!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "讓德克薩斯來擔任隊長！"
+        },
+        {
+          "language": "意大利文",
+          "content": "Prendi Texas leader."
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "把德克萨斯放到我的小队来！"
+        },
+        {
+          "language": "日文",
+          "content": "ボクのチームにはテキサスを入れてよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Put Texas on my team!"
+        },
+        {
+          "language": "韩文",
+          "content": "내 팀에는 텍사스를 넣어줘!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "把德克薩斯放到我的小隊來！"
+        },
+        {
+          "language": "意大利文",
+          "content": "Metti Texas nel mio team."
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哈哈，诸位，反正我记不住你们的脸......算了，出发吧？"
+        },
+        {
+          "language": "日文",
+          "content": "フッ……諸君、キミらの顔なんて覚えてられないけど……まあ、行こうか？"
+        },
+        {
+          "language": "英文",
+          "content": "Haha, you people... I don't think I'll even remember your faces after this one... Anyway, let's just get started."
+        },
+        {
+          "language": "韩文",
+          "content": "훗… 여러분, 어차피 너희 얼굴 따윈 기억 못 하겠지만… 뭐, 가볼까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哈哈，諸位，反正我記不住你們的臉......算了，出發吧？"
+        },
+        {
+          "language": "意大利文",
+          "content": "Ragazzi, probabilmente dopo non ricorderò neppure le vostre facce, iniziamo."
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们就是敌人？那就拜托你们进攻用点力了，别让我太无聊！"
+        },
+        {
+          "language": "日文",
+          "content": "キミたちが敵？手加減なしで頼むよ？ボクに退屈させないで！"
+        },
+        {
+          "language": "英文",
+          "content": "We're fighting you guys? Then please do your bestest job, or I'll be really bored."
+        },
+        {
+          "language": "韩文",
+          "content": "너희가 적이냐? 부탁인데 봐주지 마라? 날 따분하게 만들지 말라고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你們就是敵人？那就拜託你們進攻用點力了，別讓我太無聊！"
+        },
+        {
+          "language": "意大利文",
+          "content": "Siete voi i nostri avversari, per favore, fate del vostro meglio, non voglio annoiarmi."
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让我见识见识你的能耐。"
+        },
+        {
+          "language": "日文",
+          "content": "お手並み拝見といこうか。"
+        },
+        {
+          "language": "英文",
+          "content": "Show me what you've got."
+        },
+        {
+          "language": "韩文",
+          "content": "어디 솜씨 한 번 볼까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "讓我見識見識你的能耐。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Fammi vedere quello che sai fare."
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你准备怎么安排？"
+        },
+        {
+          "language": "日文",
+          "content": "さて、どうするかな？"
+        },
+        {
+          "language": "英文",
+          "content": "Tell me, what's your plan?"
+        },
+        {
+          "language": "韩文",
+          "content": "자, 어떻게 할래?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你準備怎麼安排？"
+        },
+        {
+          "language": "意大利文",
+          "content": "Qual è il piano?"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不错的位置啊。"
+        },
+        {
+          "language": "日文",
+          "content": "悪くない位置取りだね！"
+        },
+        {
+          "language": "英文",
+          "content": "Solid positioning."
+        },
+        {
+          "language": "韩文",
+          "content": "나쁘지 않은 배치네!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不錯的位置啊。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Ottima decisione."
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哈哈！"
+        },
+        {
+          "language": "日文",
+          "content": "ハハッ！"
+        },
+        {
+          "language": "英文",
+          "content": "Ahahaha!"
+        },
+        {
+          "language": "韩文",
+          "content": "하하!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哈哈！"
+        },
+        {
+          "language": "意大利文",
+          "content": "Ah ah!"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "加油！还差一点。你就能干掉我了！"
+        },
+        {
+          "language": "日文",
+          "content": "ほら頑張れ？もうちょっとでボクに勝てるかもしれないよ！？"
+        },
+        {
+          "language": "英文",
+          "content": "C'mon! C'eri quasi, tesoro!"
+        },
+        {
+          "language": "韩文",
+          "content": "어이, 힘내~ 어떻게 조금 더 해보면, 나한테 이길 수 있을지도 모르잖아?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "加油！還差一點。你就能幹掉我了！"
+        },
+        {
+          "language": "意大利文",
+          "content": "E dai, solo un altro po'. C'eri quasi."
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你能做到吗？"
+        },
+        {
+          "language": "日文",
+          "content": "キミにできるかな？"
+        },
+        {
+          "language": "英文",
+          "content": "Can you do it?"
+        },
+        {
+          "language": "韩文",
+          "content": "네가 할 수 있을까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你能做到嗎？"
+        },
+        {
+          "language": "意大利文",
+          "content": "Sei in grado?"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "试着抵抗我吧！"
+        },
+        {
+          "language": "日文",
+          "content": "抗ってみなよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Just try me!"
+        },
+        {
+          "language": "韩文",
+          "content": "몸부림쳐 보라고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "試著抵抗我吧！"
+        },
+        {
+          "language": "意大利文",
+          "content": "Mettimi alla prova."
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "再加把劲！"
+        },
+        {
+          "language": "日文",
+          "content": "さぁ、あと少し！"
+        },
+        {
+          "language": "英文",
+          "content": "You'll have to try harder than that!"
+        },
+        {
+          "language": "韩文",
+          "content": "자, 앞으로 조금만 더!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "再加把勁！"
+        },
+        {
+          "language": "意大利文",
+          "content": "Dovrei fare molto di meglio."
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这样就结束了？真无聊。"
+        },
+        {
+          "language": "日文",
+          "content": "この程度で終わりなの？つまらないなあ。"
+        },
+        {
+          "language": "英文",
+          "content": "It's over? Ah, che noia!"
+        },
+        {
+          "language": "韩文",
+          "content": "이 정도로 끝이야? 재미없게시리."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這樣就結束了？真無聊。"
+        },
+        {
+          "language": "意大利文",
+          "content": "E già finita? Che noia."
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呵呵，喜欢我做的千层酥吗？"
+        },
+        {
+          "language": "日文",
+          "content": "フフ、ボクお手製のミルフィーユ、味はどうだい？"
+        },
+        {
+          "language": "英文",
+          "content": "Hahaha, sliced 'em up like a millefoglie. How do you like it?"
+        },
+        {
+          "language": "韩文",
+          "content": "후후, 내가 직접 만든 밀푀유, 맛은 어때?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "呵呵，喜歡我做的千層酥嗎？"
+        },
+        {
+          "language": "意大利文",
+          "content": "Li ho fatti a fettine come una millefoglie. Come ti è sembrata?"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "马马虎虎吧，让那几个人逃走，我也有责任。"
+        },
+        {
+          "language": "日文",
+          "content": "まあまあかな。何人か逃したのはボクの責任だね。"
+        },
+        {
+          "language": "英文",
+          "content": "Not my best work. You can lay it on me for letting a few get away."
+        },
+        {
+          "language": "韩文",
+          "content": "그럭저럭 이랄까, 몇 명 놓친 건 내 책임이네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "馬馬虎虎吧，讓那幾個人逃走，我也有責任。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Ho fatto di meglio. Prenditela pure con me se ne è scappato qualcuno."
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "棒极了，这下，我践踏他们的欲望变得更强了！哈哈哈！"
+        },
+        {
+          "language": "日文",
+          "content": "サイッコーだね、アイツらをぶっ殺してやりたい欲望が、ますます高ぶってきたよ！アハハ！"
+        },
+        {
+          "language": "英文",
+          "content": "Bravo! Now I want to crush them that much harder! Hahaha!"
+        },
+        {
+          "language": "韩文",
+          "content": "끝내주는데… 저 자식들을 쳐죽여 버리고 싶은 욕망이, 전보다 더 끓어오르잖아! 아하하!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "棒極了，這下，我踐踏他們的欲望變得更強了！哈哈哈！"
+        },
+        {
+          "language": "意大利文",
+          "content": "Perfetto. Ora voglio ridurli in poltiglia."
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "咦？刚才一瞬间，好像看到了一个红色的影子。"
+        },
+        {
+          "language": "日文",
+          "content": "あれ……赤い影が一瞬見えた気がする。"
+        },
+        {
+          "language": "英文",
+          "content": "Hm? Did I see a red shadow flash by?"
+        },
+        {
+          "language": "韩文",
+          "content": "어라… 빨간 그림자가 잠깐 보인 것 같은데."
+        },
+        {
+          "language": "繁体中文",
+          "content": "咦？剛才一瞬間，好像看到了一個紅色的影子。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Mi sembra di aver visto un'ombra rossa."
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呵呵。"
+        },
+        {
+          "language": "日文",
+          "content": "ハハッ。"
+        },
+        {
+          "language": "英文",
+          "content": "Haha!"
+        },
+        {
+          "language": "韩文",
+          "content": "하하."
+        },
+        {
+          "language": "繁体中文",
+          "content": "呵呵。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Ah ah."
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "越了解你，也就越了解德克萨斯。太棒了。"
+        },
+        {
+          "language": "日文",
+          "content": "キミのことを知れば知るほど、テキサスのこともわかってくる。サイコーだね。"
+        },
+        {
+          "language": "英文",
+          "content": "The more I get to know you, the better I understand Texas. I Love it."
+        },
+        {
+          "language": "韩文",
+          "content": "널 알면 알수록, 텍사스에 대해서도 이해가 돼. 최고야!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "越瞭解你，也就越瞭解德克薩斯。太棒了。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Più ti conosco, più capisco Texas, ottimo."
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Arknights."
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呵，你好，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "フフッ、おはよう、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Heh. Ciao, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "후훗. 안녕, 박사."
+        },
+        {
+          "language": "繁体中文",
+          "content": "呵，你好，博士。"
+        },
+        {
+          "language": "意大利文",
+          "content": "Ciao,Doc."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,931 @@
+{
+  "name": "亚叶",
+  "charaKey": "char_345_folnic",
+  "images": [
+    "https://prts.wiki/images/5/5f/立绘_亚叶_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/a/a7/立绘_亚叶_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/3/32/立绘_亚叶_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_345_folnic"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_345_folnic"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "桌面，60分；地面，63分；空气......56分。有待改进啊，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "机、60点。床、63点。空気……56点。要改善ですよ、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Tabletop, 60 points. Floor, 63 points. Air quality...... 56 points. There's room for improvement, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "책상, 60점. 바닥, 63점. 공기… 56점. 개선이 필요합니다, 박사님."
+        },
+        {
+          "language": "繁体中文",
+          "content": "桌面，60分；地面，63分；空氣......56分。有待改進啊，博士。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "最近身体有什么感觉不适的地方吗。嗯，皮肤干燥，嗯嗯，肩膀僵硬，眼球干涩，掉头发，乏力......很好，老问题而已，没什么大碍。只要您开始运动，这些很快就能解决。"
+        },
+        {
+          "language": "日文",
+          "content": "最近体調の優れないところはありますか。はい、肌の乾燥、ええ、肩のこり、目の乾燥、抜け毛、脱力感……なるほど。いつもの症状ですから特に問題はありません。あなたが運動をするようになれば、すぐにでも改善しますよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Have you experienced any bodily discomfort recently? Umm, dry skin, err, um, stiff shoulders, dry eyeballs, hair loss, fatigue? ...Very good, just an old problem then, nothing serious. As long as you start exercising, these problems should go away in no time."
+        },
+        {
+          "language": "韩文",
+          "content": "최근 몸이 불편한 곳이 있으신가요? 네, 피부가 건조하고요. 네, 어깨가 뭉치고, 눈도 건조하고, 머리카락도 빠지고, 무기력증이요… 그렇군요. 평소 같은 증상이라 딱히 문제는 없습니다. 당신이 운동을 시작하면 금세 좋아질 거예요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "最近身體有什麼感覺不適的地方嗎。嗯，皮膚乾燥，嗯嗯，肩膀僵硬，眼球乾澀，掉頭髮，乏力......很好，老問題而已，沒什麼大礙。只要您開始運動，這些很快就能解決。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "医疗部的生活就是日常会议、岛内出诊、掌握干员身体情况、新药研究与开发，没什么新鲜事。"
+        },
+        {
+          "language": "日文",
+          "content": "医療部の生活は、定例会議、艦内往診、オペレーターのヘルスデータの把握、新薬の研究開発といったことの繰り返しです。何も目新しいことはありませんよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Life in the Medical Department is just daily meetings, visits around the Island, learning the operators' physical conditions, and developing new drugs. Never anything fresh and exciting."
+        },
+        {
+          "language": "韩文",
+          "content": "의료부의 생활은 정례 회의, 함내 왕진, 오퍼레이터의 건강 데이터 파악, 신약 연구 개발 같은 일의 반복입니다. 아무것도 새로울 게 없죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "醫療部的生活就是日常會議、島內出診、掌握幹員身體情況、新藥研究與開發，沒什麼新鮮事。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "妈妈，不管您在哪里，请保佑我吧。"
+        },
+        {
+          "language": "日文",
+          "content": "母さん、どこにいても見守っていてね。"
+        },
+        {
+          "language": "英文",
+          "content": "Mother, no matter where you are, please watch over me."
+        },
+        {
+          "language": "韩文",
+          "content": "엄마, 어디에 있든 지켜봐 줘."
+        },
+        {
+          "language": "繁体中文",
+          "content": "媽媽，不管您在哪裡，請保佑我吧。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "多亏大家照顾我们这些负责医疗的人，工作起来焦虑感少了很多，很快乐。当然，也有很多头疼的事情，比如煌干员回来时总搞得浑身是血，每次都是，她不知道清理那些体液有多麻烦吗？"
+        },
+        {
+          "language": "日文",
+          "content": "私たち医療スタッフが皆さんにご協力いただいているおかげで、仕事中の不安も減り、楽しく働けています。とは言え、もちろんまだまだ頭を抱える問題も残っています。例えばブレイズ氏がいつも血まみれで帰ってくることとか、ええ、毎回ですよ。体液の清掃がどれだけ面倒なのか、あの人は知らないんでしょうか？"
+        },
+        {
+          "language": "英文",
+          "content": "Thanks for always taking care of us medics. I feel so much less anxiety while working, and am very happy. Of course, there are troublesome things to deal with as well, for example, when Blaze comes back, her body is always covered in blood. Does she know how hard it is to clean up those bodily fluids?"
+        },
+        {
+          "language": "韩文",
+          "content": "저희 의료 스태프들은 여러분의 협력 덕택에 업무 중 불안이 줄어 즐겁게 일하고 있습니다. 하지만 물론 아직도 머리를 싸매게 하는 문제도 남아 있어요. 예를 들면 블레이즈 씨가 항상 피투성이로 돌아오는 거라든가! 네, 매번이요! 체액 청소가 얼마나 성가신지 그 사람은 모르나 보죠?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "多虧大家照顧我們這些負責醫療的人，工作起來焦慮感少了很多，很快樂。當然，也有很多頭疼的事情，比如煌幹員回來時總搞得渾身是血，每次都是，她不知道清理那些體液有多麻煩嗎？"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我说过多少次了不要熬夜不要暴饮暴食，您就是听不进去，对不对？那你还管理什么健康，一辈子都躺在椅子上算了！！......不好意思，我去冷静一下。"
+        },
+        {
+          "language": "日文",
+          "content": "夜更しも暴飲暴食もダメだと何度も言ったでしょう、聞く耳を持たないということですか？じゃ何のための健康管理なのよ、一生椅子に寝てればいいじゃない！！……すみません、ちょっと頭を冷やしてきます。"
+        },
+        {
+          "language": "英文",
+          "content": "How many times have I told you, don't stay up late, and don't overeat! You just won't listen, right? How are you going to take care of other peoples' health then? You might as well spend the rest of your life in that chair then!! ......I'm sorry, I need to go calm down first."
+        },
+        {
+          "language": "韩文",
+          "content": "밤을 새우는 것도, 폭음 폭식도 안 된다고 몇 번이나 말씀드렸잖아요. 들을 생각도 없다는 거예요? 그럼 뭘 위해 건강을 관리하는 거야. 평생 의자에서 잠이나 자면 되잖아!! ……죄송합니다. 잠시 머리를 식히고 오겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我說過多少次了不要熬夜不要暴飲暴食，您就是聽不進去，對不對？那你還管理什麼健康，一輩子都躺在椅子上算了！！......不好意思，我去冷靜一下。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不太能理解凯尔希老师在思考什么，她一直是那样......独特的人吗？哪怕只有一点，我也希望自己能追上她的步伐。"
+        },
+        {
+          "language": "日文",
+          "content": "ケルシー先生が何を考えてらっしゃるのか、私にはよく理解できません。ずっとああいう風な……変わった方なんですか？ほんの少しだけでも、先生のペースについていけたらなと思っています。"
+        },
+        {
+          "language": "英文",
+          "content": "I never quite know what Dr. Kal'tsit is thinking. Has she always been that... unique? I hope I can catch up to her one day, even if it's in just one area."
+        },
+        {
+          "language": "韩文",
+          "content": "켈시 선생님께서 무슨 생각을 하고 계시는지 저는 잘 이해를 못 하겠어요. 계속 그런… 독특한 분인가요? 아주 조금이라도 선생님의 페이스를 따라갈 수 있으면 좋겠어요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我不太能理解凱爾希老師在思考什麼，她一直是那樣......獨特的人嗎？哪怕只有一點，我也希望自己能追上她的步伐。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "只要恶人能受到惩罚，被非议又怎么样？我不介意把这些毒剂泼洒给敌人，这是他们应得的。"
+        },
+        {
+          "language": "日文",
+          "content": "悪に報いを受けさせるためなら、非難されても構いません。これらの毒薬を敵に向けて散布することも厭いませんよ。彼らが当然受けるべき罰なんですから。"
+        },
+        {
+          "language": "英文",
+          "content": "As long as the wicked can be punished, what's a little bit of criticism? I don't mind spilling these poisons on my enemies. They deserve it."
+        },
+        {
+          "language": "韩文",
+          "content": "악에게 죗값을 치르게 하기 위해서라면 비난받아도 상관없어요. 이 독약들을 적을 향해 살포하는 것도 마다치 않을 거예요. 그들이 당연히 받아야 하는 벌이니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "只要惡人能受到懲罰，被非議又怎麼樣？我不介意把這些毒劑潑灑給敵人，這是他們應得的。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "乌萨斯这个单词只会给我痛苦，我不想听，我一辈子都不想再听到。但它，是个巨人，发声振聋发聩。会被逼疯的，只有我。"
+        },
+        {
+          "language": "日文",
+          "content": "「ウルサス」という言葉は、苦しみをもたらすだけですから聴きたくありません。ええ、一生涯聴きたくない言葉です。ですが、あれは巨人です、耳をふさいでいてもこの鼓膜を震わせるんです。狂わされるのは、私だけです。"
+        },
+        {
+          "language": "英文",
+          "content": "The word 'Ursus' only gives me pain. I don't want to hear it, not again for the rest of my life. But it is a giant, and its voice is deafening. And I'm the only it's going to drive mad."
+        },
+        {
+          "language": "韩文",
+          "content": "'우르수스' 라는 말은 고통을 초래할 뿐이니 듣고 싶지 않아요. 네, 평생 듣고 싶지 않은 말이에요. 하지만 그건 거인과도 같죠. 귀를 막아도 이 고막을 흔들어요. 미쳐가는 건 저뿐이에요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "烏薩斯這個單詞只會給我痛苦，我不想聽，我一輩子都不想再聽到。但它，是個巨人，發聲振聾發聵。會被逼瘋的，只有我。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你也知道自己之前环境清洁评测的分不高吧，再这样下去，博士可就是罗德岛的卫生吊车尾了。呼，这些我暂时帮你收拾了，剩下的记得空闲时清扫一下。"
+        },
+        {
+          "language": "日文",
+          "content": "環境衛生評価の点数が良くなかったことはご自身でも分かっていますよね。このままだとドクターがロドスで最下位になってしまいますよ。ふぅ、ひとまずこの辺のものは片付けておきました。残りはお手すきの際にきれいにしてくださいね。"
+        },
+        {
+          "language": "英文",
+          "content": "You also know that your previous environmental cleanliness evaluation scores weren't very high, right? If you don't turn things around, Doctor, you'll be on the business end of the Rhodes Island sanitation crane. Phew, I'll help you take care of these for now, so make sure you clean up the rest in your free time."
+        },
+        {
+          "language": "韩文",
+          "content": "환경위생평가의 점수가 좋지 않았다는 건 스스로도 알고 계시죠? 이대로라면 박사님이 로도스 아일랜드에서 최하위가 되어버린다고요. 후우, 일단 이쪽은 정리해 뒀어요. 남은 건 시간이 날 때 청소해 주세요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你也知道自己之前環境清潔評測的分不高吧，再這樣下去，博士可就是羅德島的衛生吊車尾了。呼，這些我暫時幫你收拾了，剩下的記得空閒時清掃一下。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我是医疗部的亚叶，现在开始参加战地医疗任务，同时应凯尔希老师的要求，对您的健康情况进行管理，请多指教。"
+        },
+        {
+          "language": "日文",
+          "content": "医療部のフォリニックです。今後は戦場医療任務にも参加します。また、ケルシー先生の要請により、あなたの健康管理も担当します。よろしくお願いします。"
+        },
+        {
+          "language": "英文",
+          "content": "I am Folinic from the Medical Department, and I am now participating in field medic missions. Meanwhile, per Dr. Kal'tsit's request, I will also help you manage your health. I look forward to working with you."
+        },
+        {
+          "language": "韩文",
+          "content": "의료부의 폴리닉이에요. 앞으로는 전장 의료 임무에도 참가합니다. 그리고, 켈시 선생님의 요청으로 당신의 건강 관리도 담당할 겁니다. 잘 부탁드립니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我是醫療部的亞葉，現在開始參加戰地醫療任務，同時應凱爾希老師的要求，對您的健康情況進行管理，請多指教。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看来那时候药物的投入量还不够，下次再加三倍应该能达到预定效果。"
+        },
+        {
+          "language": "日文",
+          "content": "当時の薬剤投与量は足りていなかったようですね。次はあと三倍追加投与すれば想定通りの効果が期待できそう。"
+        },
+        {
+          "language": "英文",
+          "content": "It seems that the volume of drug input was insufficient last time, and it should be able to achieve its intended effect next time at triple the dosage."
+        },
+        {
+          "language": "韩文",
+          "content": "당시의 약재 투여량이 부족했던 모양이네요. 다음에는 세 배 더 추가 투여하면 상정한 대로 효과를 기대할 수 있겠어요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "看來那時候藥物的投入量還不夠，下次再加三倍應該能達到預定效果。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "感谢认可，这些都是我应当做的。"
+        },
+        {
+          "language": "日文",
+          "content": "認めていただきありがとうございます。私がやるべき仕事ですから。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you for your acknowledgment. I am simply doing what I should."
+        },
+        {
+          "language": "韩文",
+          "content": "인정해 주셔서 감사합니다. 제가 해야 할 일이니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "感謝認可，這些都是我應當做的。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "总有一天，我会成为像凯尔希老师那样的医生，拭目以待吧。"
+        },
+        {
+          "language": "日文",
+          "content": "いつか必ず、ケルシー先生のような医師になってみせます。期待していてください。"
+        },
+        {
+          "language": "英文",
+          "content": "One day, I will become as capable a physician as Dr. Kal'tsit. Just you wait and see."
+        },
+        {
+          "language": "韩文",
+          "content": "언젠가 반드시, 켈시 선생님 같은 의사가 되어 보이겠습니다. 기대해 주세요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "總有一天，我會成為像凱爾希老師那樣的醫生，拭目以待吧。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会尽到职责，保护各位的生命。"
+        },
+        {
+          "language": "日文",
+          "content": "職責を全うし、皆さんの命を守ります。"
+        },
+        {
+          "language": "英文",
+          "content": "I will do my best to protect everyone's life."
+        },
+        {
+          "language": "韩文",
+          "content": "제 직책을 다해, 여러분의 생명을 지키겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我會盡到職責，保護各位的生命。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "医疗支援已覆盖全队，接下来就看博士你的了。"
+        },
+        {
+          "language": "日文",
+          "content": "医療支援は全隊員に行き渡りました。あとはドクター次第です。"
+        },
+        {
+          "language": "英文",
+          "content": "The whole squad has been covered by medical support. The rest is up to you, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "전 대원에게 의료 지원을 마쳤습니다. 나머진 박사님께 달렸습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "醫療支援已覆蓋全隊，接下來就看博士你的了。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没事，我能有什么心理负担。"
+        },
+        {
+          "language": "日文",
+          "content": "大丈夫です、プレッシャーなどありません。"
+        },
+        {
+          "language": "英文",
+          "content": "No problem, I can handle some psychological burden."
+        },
+        {
+          "language": "韩文",
+          "content": "괜찮습니다. 부담감 같은 건 없습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "沒事，我能有什麼心理負擔。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "已接敌，准备反击与治疗。"
+        },
+        {
+          "language": "日文",
+          "content": "敵に接触、反撃と治療の準備を。"
+        },
+        {
+          "language": "英文",
+          "content": "Enemy engaged. Preparing for counterattack and treatment."
+        },
+        {
+          "language": "韩文",
+          "content": "적에게 접촉, 반격과 치료 준비를."
+        },
+        {
+          "language": "繁体中文",
+          "content": "已接敵，準備反擊與治療。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "还没想好？"
+        },
+        {
+          "language": "日文",
+          "content": "まだ考えているんですか？"
+        },
+        {
+          "language": "英文",
+          "content": "Haven't decided yet?"
+        },
+        {
+          "language": "韩文",
+          "content": "아직도 생각하고 계시나요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "還沒想好？"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "时不我待。"
+        },
+        {
+          "language": "日文",
+          "content": "時間は待ってくれませんよ。"
+        },
+        {
+          "language": "英文",
+          "content": "The clock's ticking."
+        },
+        {
+          "language": "韩文",
+          "content": "시간은 기다려 주지 않아요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "時不我待。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "医疗支援已介入。"
+        },
+        {
+          "language": "日文",
+          "content": "医療支援が入ります。"
+        },
+        {
+          "language": "英文",
+          "content": "Medical support has arrived."
+        },
+        {
+          "language": "韩文",
+          "content": "의료 지원 들어갑니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "醫療支援已介入。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "已获得攻击许可。"
+        },
+        {
+          "language": "日文",
+          "content": "攻撃の許可が下りました。"
+        },
+        {
+          "language": "英文",
+          "content": "Permission to attack has been granted."
+        },
+        {
+          "language": "韩文",
+          "content": "공격 허가가 떨어졌습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "已獲得攻擊許可。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "开始投药。"
+        },
+        {
+          "language": "日文",
+          "content": "投薬開始。"
+        },
+        {
+          "language": "英文",
+          "content": "Begin administering medication."
+        },
+        {
+          "language": "韩文",
+          "content": "투약 개시."
+        },
+        {
+          "language": "繁体中文",
+          "content": "開始投藥。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别担心，马上就起效了。"
+        },
+        {
+          "language": "日文",
+          "content": "心配しないでください、すぐに薬効があらわれます。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't worry, the effects will kick in soon."
+        },
+        {
+          "language": "韩文",
+          "content": "걱정하지 마세요. 금방 약효가 나타날 겁니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別擔心，馬上就起效了。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "三、二、一！"
+        },
+        {
+          "language": "日文",
+          "content": "三、二、一！"
+        },
+        {
+          "language": "英文",
+          "content": "Three, two, one!"
+        },
+        {
+          "language": "韩文",
+          "content": "3, 2, 1!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "三、二、一！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "已配置过量药物，开始使用！"
+        },
+        {
+          "language": "日文",
+          "content": "多量の薬剤を装填しました、使用開始します！"
+        },
+        {
+          "language": "英文",
+          "content": "Overdose decoction prepared, begin use!"
+        },
+        {
+          "language": "韩文",
+          "content": "대량의 약제를 장전했습니다. 사용을 개시합니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "已配置過量藥物，開始使用！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我应该，也帮上了一点忙吧？"
+        },
+        {
+          "language": "日文",
+          "content": "私も、少しは役に立ちましたよね？"
+        },
+        {
+          "language": "英文",
+          "content": "I was able to be of some help, right?"
+        },
+        {
+          "language": "韩文",
+          "content": "저도 조금은 도움이 되었죠?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我應該，也幫上了一點忙吧？"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "节省医疗资源是件好事，但在战场上没这个必要哦？"
+        },
+        {
+          "language": "日文",
+          "content": "医療資源の節約は良いことですが、戦場ではその必要はありませんよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Saving medical supplies is a good thing, but there's no need for that on the battlefield, is there?"
+        },
+        {
+          "language": "韩文",
+          "content": "의료 자원을 절약하는 건 좋지만, 전장에선 그럴 필요 없어요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "節省醫療資源是件好事，但在戰場上沒這個必要哦？"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "还好，只是擦伤，清创以后贴个创可贴就行。"
+        },
+        {
+          "language": "日文",
+          "content": "心配しないで、ただのかすり傷です。消毒して絆創膏を貼っておけば治ります。"
+        },
+        {
+          "language": "英文",
+          "content": "Luckily, it's just a scratch. Just apply a bandage after cleansing the wound."
+        },
+        {
+          "language": "韩文",
+          "content": "걱정하지 마세요. 그냥 긁힌 상처입니다. 소독하고 반창고를 붙여두면 나을 거예요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "還好，只是擦傷，清創以後貼個創可貼就行。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "转移伤员，紧急手术！准备骨髓内输液！"
+        },
+        {
+          "language": "日文",
+          "content": "負傷者を搬送、緊急手術を！骨髄輸液の準備もお願いします！"
+        },
+        {
+          "language": "英文",
+          "content": "Transfer the wounded! Get ready for emergency operation! Prepare for intraosseous infusion!"
+        },
+        {
+          "language": "韩文",
+          "content": "부상자 운송, 긴급 수술을! 골수 수액 준비도 부탁합니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "轉移傷患，緊急手術！準備骨髓內輸液！"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "检测完毕，可以入住了。"
+        },
+        {
+          "language": "日文",
+          "content": "検査完了、入居できそうです。"
+        },
+        {
+          "language": "英文",
+          "content": "Inspection complete. This area is habitable."
+        },
+        {
+          "language": "韩文",
+          "content": "검사 완료. 입주할 수 있을 거 같네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "檢測完畢，可以入住了。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "欸？"
+        },
+        {
+          "language": "日文",
+          "content": "えっ？"
+        },
+        {
+          "language": "英文",
+          "content": "Huh?"
+        },
+        {
+          "language": "韩文",
+          "content": "네?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "欸？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有时候对你的言词是有点......过激了，但您也得明白自己的不足之处，可以吗。"
+        },
+        {
+          "language": "日文",
+          "content": "時々あなたへの言葉が少し……厳しくなることもあります。ですがご自身でも足りないところをしっかり理解してください、いいですか。"
+        },
+        {
+          "language": "英文",
+          "content": "Sometimes the things I say to you can be a bit... excessive, but you should also recognize that you have your shortcomings, all right?"
+        },
+        {
+          "language": "韩文",
+          "content": "가끔 당신한테 하는 말이 좀…… 격해질 때도 있어요. 하지만 당신도 어디가 부족한지 제대로 이해해 주세요. 그래주실 거죠?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "有時候對你的言詞是有點......過激了，但您也得明白自己的不足之處，可以嗎。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "工作辛苦了。"
+        },
+        {
+          "language": "日文",
+          "content": "お疲れさまです。"
+        },
+        {
+          "language": "英文",
+          "content": "You've been working hard."
+        },
+        {
+          "language": "韩文",
+          "content": "수고 많으십니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "工作辛苦了。"
+        }
+      ]
+    }
+  ]
+}

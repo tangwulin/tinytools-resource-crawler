@@ -1,0 +1,939 @@
+{
+  "name": "明椒",
+  "charaKey": "char_4071_peper",
+  "images": [
+    "https://prts.wiki/images/9/94/立绘_明椒_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/6/6e/立绘_明椒_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/e/e7/立绘_明椒_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4071_peper"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4071_peper"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4071_peper"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_4071_peper"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这些东西我也不擅长啊，欸？必须要今天做完？哎......行了，我说了会帮你，就不会食言。拿来吧，这些分我一半，剩下的你自己做！"
+        },
+        {
+          "language": "日文",
+          "content": "こういうのうちも得意じゃないんすよ。えっ？今日中に終わらせないといけない？はぁ……仕方ないな、手伝うって言っちゃったし、約束は守るっす。はい、半分こね。残りは自分でやんな！"
+        },
+        {
+          "language": "英文",
+          "content": "I'm not good at this stuff either. Huh? They need it done today? Eh... Fine, I told you I'd help. I keep my word. Give it here. I'll take half, but you gotta finish the rest on your own!"
+        },
+        {
+          "language": "韩文",
+          "content": "전 이런 거 잘 못한단 말이에요, 네? 꼭 오늘 안에 끝내야 한다고요? 하아…… 뭐, 도와주기로 약속했으니 어쩔 수 없죠. 자, 반은 제가 해 드릴 테니까, 나머지 반은 직접 하기에요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這些東西我也不擅長啊，欸？必須要今天做完？哎......行了，我說了會幫你，就不會食言。拿來吧，這些分我一半，剩下的你自己做！"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，你身上带盐了吗？来来，借我一点，我煮了土豆，撒点盐可好吃了！我们在外面出任务的时候经常这么吃！还有这个烤好的果子，你拿去给W和伊内丝......别说是我送的！千万别说！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、塩とか持ってたりしないっすか？おけおけ、貸して。ジャガイモ茹でてるんだけど、塩をちょいっとかけるとめちゃウマなんすよ！うちらが外勤任務の時はいっつもこうして食べてたっす！あと、この焼き上がった果物、Wとイネスんとこに持ってってあげて……うちからってのは言うなよ！絶対な！"
+        },
+        {
+          "language": "英文",
+          "content": "Got any salt on you, Doc? Here, gimme some. I made potatoes. They taste so good when you sprinkle salt on them! We eat them like this a lot when we're out on a job! I roasted some fruit, too. Take it to W and Ines... Don't tell them it's from me! Got it?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 혹시 소금 있어요? 그럼, 조금만 빌려주세요. 감자를 삶았는데 소금을 좀 뿌려 먹으면 더 맛있어지거든요! 밖에서 임무를 할 때는 늘 그렇게 먹었어요! 그리고 여기 구운 과일도 있는데, W랑 이네스에게 갖다 줄 수 있나요? ……제가 주는 거라곤 얘기하지 말고요! 꼭이에요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，你身上帶鹽了嗎？來來，借我一點，我煮了馬鈴薯，撒點鹽可好吃了！我們在外面出任務的時候經常這麼吃！還有這個烤好的果子，你拿去給W和伊內絲......別說是我送的！千萬別說！"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我听说在这有可能会遇到那个W？真的假的，虽然她和伊内丝当时救了我，我是很感谢啦，但那家伙有时候真的很讨厌欸......博士，你怎么连那种女人都敢雇佣啊？"
+        },
+        {
+          "language": "日文",
+          "content": "ここにいるとWに会うかもしれないって聞いたんだけど、マジっすか？あの時はあいつとイネスが助けてくれたから、感謝はしてるっすけど、あいつ、たまにガチうざくって……ドクターもよくあんなやつ雇う勇気あるっすね？"
+        },
+        {
+          "language": "英文",
+          "content": "I heard I might run into W here? Seriously? She and Ines saved me a while back, and I'm thankful for it, but she can be real annoying sometimes... Doc, I'm surprised you had the guts to hire her."
+        },
+        {
+          "language": "韩文",
+          "content": "여기서 그 'W'를 만날 수 있다는 얘길 들었는데, 진짠가요?! W랑 이네스가 그때 절 구해준 건 고맙지만, 가끔은 진짜 좀 짜증 나는 녀석이라서요…… 박사, 대체 무슨 깡으로 그런 녀석을 고용한 거예요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我聽說在這有可能會遇到那個W？真的假的，雖然她和伊內絲當時救了我，我是很感謝啦，但那傢伙有時候真的很討厭欸......博士，你怎麼連那種女人都敢雇傭啊？"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "曼弗雷德那个混蛋，竟然真的动手！而且下手真狠啊，我还以为我死定了......啧，虽然我知道他也有他的立场，但想想还是不能原谅！我和他的梁子结定了！"
+        },
+        {
+          "language": "日文",
+          "content": "マンフレッドの野郎、マジでやりやがって！しかもやり方がガチじゃん、こりゃ死んだわって覚悟決めちゃったじゃんか……チッ、あいつもあいつなりに立場があったと思うけど、やっぱ許せない！覚えてろよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Manfred, that jackass! He actually did it! And he was serious about it, too! I totally thought I was going to die... Ugh, I know he's got his reasons... but I still can't let it slide! I've got a grudge!"
+        },
+        {
+          "language": "韩文",
+          "content": "맨프레드 그 망할 자식이, 진짜로 손을 쓸 줄이야! 그 무자비한 공격에 진짜로 죽는 줄 알았다고…… 쯧, 뭐 그쪽 나름의 입장이 있다는 건 아는데, 그래도 용서 못 해! 꼭 갚아 주고 말 거야!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "曼弗雷德那個混蛋，竟然真的動手！而且下手真狠啊，我還以為我死定了......嘖，雖然我知道他也有他的立場，但想想還是不能原諒！我和他的樑子結定了！"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "当时那支队伍是博士你带的队吧？哼，我当然没忘记，那次真的把我害惨了！不过就算是要我再选一次，我也还是会选择在那时带着大伙退出......我已经不想再看着身边的人牺牲了。"
+        },
+        {
+          "language": "日文",
+          "content": "あの時指揮を執ってたのってドクターっすよね？フン、忘れるわけないっしょ、ガチ大変だったんっすから！でも、もっかい選べたとしても、うちはあの時みんなを連れて撤退する方を選ぶと思うっす……もう、周りの人が死ぬの見たくないんすよ。"
+        },
+        {
+          "language": "英文",
+          "content": "You were leading the squad then, right? Hmph, how could I forget? You gave me a real bad time! But if I had to do it again, I'd still choose to take everybody and bug out... I don't want to have to watch somebody sacrifice themselves ever again."
+        },
+        {
+          "language": "韩文",
+          "content": "그때 그 팀은 박사가 이끌던 팀이었죠? 흥, 당연히 기억하죠, 그때 얼마나 호되게 당했는데! 하지만 다시 한번 그때로 돌아간다고 해도 전 다 같이 후퇴하는 걸 선택할 거예요…… 더 이상 주변 사람들이 죽는 건 보기 싫으니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "當時那支隊伍是博士你帶的隊吧？哼，我當然沒忘記，那次真的把我害慘了！不過就算是要我再選一次，我也還是會選擇在那時帶著大夥退出......我已經不想再看著身邊的人犧牲了。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "重建卡兹戴尔真的是一件好事吗？我不知道。我只知道我更加在意我眼前的人——我的队员、罗德岛的大家......当然，还有博士你！现在我们已经算是一伙儿的了，对吧？"
+        },
+        {
+          "language": "日文",
+          "content": "カズデルの再建って、ホントにいいことなんすか？うちには分かんないっす。うちにとって大事なのは、どっちかっていうと目の前にいる人たち――チームメイトとか、ロドスのみんな……もちろん、ドクターもだかんな！うちらもう仲間だし、だろ？"
+        },
+        {
+          "language": "英文",
+          "content": "Is rebuilding Kazdel really a good idea? I don't know. All I know is I care more about the people around me—my squadmates, everyone from Rhodes Island... of course, that includes you, Doctor! We're buddies now, right?"
+        },
+        {
+          "language": "韩文",
+          "content": "카즈델을 재건하는 게 정말 좋은 선택일까요? 잘 모르겠어요, 지금의 저에겐 그저 눈앞의 사람들…… 제 팀원들이랑 로도스 아일랜드의 여러분이 더 중요하거든요…… 물론, 박사도요! 우린 이제 한 팀이니까요, 그쵸?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "重建卡茲戴爾真的是一件好事嗎？我不知道。我只知道我更加在意我眼前的人——我的隊員、羅德島的大家......當然，還有博士你！現在我們已經算是一夥的了，對吧？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果真能有一个卡兹戴尔，那我们这些萨卡兹，就真的能重新团结了吗？对于那些反抗的维多利亚人来说，这样的我们又算是什么呢？我看不到这条路的尽头，我不确定......"
+        },
+        {
+          "language": "日文",
+          "content": "ガチでカズデルを再建できれば、うちらサルカズはもっかい一つにまとまれんのかな？抵抗してるヴィクトリア人にとって、そんなうちらって何だろ？……先の見えない道にいるみたい、うちには分かんないよ……"
+        },
+        {
+          "language": "英文",
+          "content": "If Kazdel really gets rebuilt, does that really mean us Sarkaz all get to come back and reunite together? What will the Victorian rebels think of us? I can't see how this all ends... I don't know..."
+        },
+        {
+          "language": "韩文",
+          "content": "진짜로 카즈델을 재건하면, 우리 살카즈들은 다시 뭉칠 수 있을까요? 그렇게 되면 저항하는 빅토리아 사람들은 우릴 어떻게 생각할까요? 저는 잘 모르겠어요, 이 길의 끝에 뭐가 있을지……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "如果真能有一個卡茲戴爾，那我們這些薩卡茲，就真的能重新團結了嗎？對於那些反抗的維多利亞人來說，這樣的我們又算是什麼呢？我看不到這條路的盡頭，我不確定......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士！信件到了吗？有我的吗？我是被姥姥带大的，就住在哥伦比亚的一个小镇上，姥姥一直有和我通信哦！其实，我会劝其他人也多写信回家，但为什么他们总是一副不太高兴的样子呢？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター！郵便届いてる？うち宛てのないっすか？うちはクルビアの小さい町でばあちゃんに育てられたんだけど、今でもばあちゃんと文通してんだ！それでみんなにも家族とかに手紙を出したら？って勧めてるんすけど、それ聞くとみんな浮かない顔をするんだよな。どうしてだろ？"
+        },
+        {
+          "language": "英文",
+          "content": "Doc! Is the mail in? Anything for me? Thing is, I was raised by my nana in a small town in Columbia, and we still write to each other! I'm always telling everyone here to write home more often, but for some reason they get pretty upset about it. I wonder why."
+        },
+        {
+          "language": "韩文",
+          "content": "박사! 편지 왔어요? 혹시 제 것도 있어요? 전 컬럼비아에 있는 작은 마을에서 할머니 손에 자랐거든요. 지금도 서로 편지를 주고받아요! 그래서 다른 사람한테도 한번 집에 편지를 보내 보라고 얘기해 봤는데, 다들 표정이 안 좋아지더라고요. 왜일까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士！信件到了嗎？有我的嗎？我是被姥姥帶大的，就住在哥倫比亞的一個小鎮上，姥姥一直有和我通信哦！其實，我會勸其他人也多寫信回家，但為什麼他們總是一副不太高興的樣子呢？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "来，博士，你试试这个！嗯......还挺合适的，这是姥姥特地织来送给你的哦，和我的是同款！怎么样，是不是很舒服很暖和？我把你的事都和姥姥说了，姥姥也夸你人还不错呢！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター！おいでおいで！これ着てみな！へぇ……結構似合うじゃん。これな、うちのばあちゃんがドクターにって、わざわざ編んでくれたんだ、うちとお揃いな！ど？あったかくて気持ちいいっしょ？あんたのことをばあちゃんに話したらさ、いい人だねって褒めてたよ！"
+        },
+        {
+          "language": "英文",
+          "content": "C'mere, Doc. Try this on! Hm... Looks great on you. My nana knitted it for you! It matches mine, too! How's it feel? Comfy and warm, right? I told Nana all about you, and she called you a good egg!"
+        },
+        {
+          "language": "韩文",
+          "content": "자, 박사! 이거 한번 해 봐요! 음…… 꽤 잘 어울리네요. 이거 우리 할머니가 특별히 짜 준 거예요, 제 거랑 세트라고요! 어때요, 부드럽고 따뜻하죠? 할머니한테 박사 얘기를 해 줬더니, 좋은 사람이라고 칭찬해 주시더라고요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "來，博士，你試試這個！嗯......還挺合適的，這是姥姥特地織來送給你的哦，和我的是同款！怎麼樣，是不是很舒服很暖和？我把你的事都和姥姥說了，姥姥也誇你人還不錯呢！"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好闲啊......我也来织点什么吧，像我这样的小包怎么样？很实用哦！"
+        },
+        {
+          "language": "日文",
+          "content": "めちゃ暇ぁ……ドクターになんか編もっか？うちの腰につけてるポーチなんかどうっすか？ガチ使いやすいっすよ！"
+        },
+        {
+          "language": "英文",
+          "content": "So bored... Maybe I should knit something. What do you think of this little pouch? It's very practical!"
+        },
+        {
+          "language": "韩文",
+          "content": "심심하네…… 뭐라도 떠 볼까. 이런 파우치는 어때요? 여러모로 쓰기 좋다고요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "好閒啊......我也來織點什麼吧，像我這樣的小包怎麼樣？很實用哦！"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗨，从今天起我和我的小队就听博士你吩咐啦！叫我明椒就好。你似乎是个不错的雇主，但现在还只是考察期！我会一直盯着你的！"
+        },
+        {
+          "language": "日文",
+          "content": "やほ～！今日からうちらのチームはドクターの指揮下に入るっす！うちはパプリカでいいよ。あんたはまともな雇い主っぽいけど……まだ様子見中だかんな！見張ってるから覚悟するんだぞ！"
+        },
+        {
+          "language": "英文",
+          "content": "Hey there! Starting today, my squad and I are at your beck and call, Doctor. Call me Paprika. You seem like a solid employer, but you're still on probation! I've got my eye on you!"
+        },
+        {
+          "language": "韩文",
+          "content": "야호~ 오늘부터 우리 팀은 박사의 지휘를 따르게 됐습니다! 파프리카라고 불러 주세요. 당신은 꽤 괜찮은 고용주 같긴 하지만, 일단은 지켜볼 테니까 각오하세요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗨，從今天起我和我的小隊就聽博士你吩咐啦！叫我明椒就好。你似乎是個不錯的雇主，但現在還只是考察期！我會一直盯著你的！"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这就是那些老家伙口中的，古老的萨卡兹招数吗？"
+        },
+        {
+          "language": "日文",
+          "content": "これが、お年寄りたちが言ってた、いにしえのサルカズの技……？"
+        },
+        {
+          "language": "英文",
+          "content": "Are these the ancient Sarkaz tricks the old folks talk about?"
+        },
+        {
+          "language": "韩文",
+          "content": "이게 바로 그 늙다리들이 말했던 옛 살카즈의 기술?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這就是那些老傢伙口中的，古老的薩卡茲招數嗎？"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "太好了，终于轮到我晋升了！嘿嘿，博士，上次你说晋升之后就允许我单独带一个小队，还算不算数？"
+        },
+        {
+          "language": "日文",
+          "content": "やったー、ついにうちも昇進っすね！ふふん、ドクター、こないだは昇進したらうち一人に小隊を任せてくれるって言ってたけど、あの約束まだ生きてるよな？"
+        },
+        {
+          "language": "英文",
+          "content": "Awesome, I finally got promoted! Hehe, you said you'd let me lead my own squad after my promotion. You're a doctor of your word, aren't you?"
+        },
+        {
+          "language": "韩文",
+          "content": "아싸, 드디어 나도 승진이다! 헤헤, 박사. 저번에 승진하면 저 혼자서도 팀을 이끌 수 있게 해준다한거, 아직 유효한 거죠?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "太好了，終於輪到我晉升了！嘿嘿，博士，上次你說晉升之後就允許我單獨帶一個小隊，還算不算數？"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士！你果然是个不错的雇主嘛！阿米娅看起来也挺靠谱，我觉得跟着你们干应该没错！之后有好赚的活，记得要喊上我哦！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター！あんたやっぱりいい雇い主だよ！アーミヤも頼りがいがありそうだし、あんたらについて行けば間違いないって感じっすね！今後もおいしい仕事があったら、うちを呼べよな！"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor! You're a mighty fine employer! Amiya looks real dependable, too. There's no going wrong, hitching my wagon to you. If you've got any more high-paying gigs, be sure to give me a holler!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사! 역시 당신은 좋은 고용주였네요! 아미야도 꽤 믿음직스럽고, 역시 당신들이랑 함께하는 게 정답이었어요! 앞으로도 수입이 짭짤한 일이 있을 땐, 저 부르는 거 잊지 마세요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士！你果然是個不錯的雇主嘛！阿米婭看起來也挺可靠，我覺得跟著你們幹應該沒錯！之後有好賺的活，記得要喊上我哦！"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嘿，你选对人了！"
+        },
+        {
+          "language": "日文",
+          "content": "へへーん、うちを選んで大正解！"
+        },
+        {
+          "language": "英文",
+          "content": "Hehe, you picked the right girl for the job!"
+        },
+        {
+          "language": "韩文",
+          "content": "헤헤, 사람 잘 골랐네요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嘿，你選對人了！"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "放心交给我吧！论带队，我还算是有点经验！"
+        },
+        {
+          "language": "日文",
+          "content": "まっかせな！隊長の経験は結構あるっす！"
+        },
+        {
+          "language": "英文",
+          "content": "Just leave it to me! I've got some experience leading a squad."
+        },
+        {
+          "language": "韩文",
+          "content": "맡겨만 주세요! 팀을 이끄는 거라면 나름 경험 있다고요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "放心交給我吧！論帶隊，我還算是有點經驗！"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "注意安全，随时保持联系。记住，任务可以暂缓，保住性命最重要！"
+        },
+        {
+          "language": "日文",
+          "content": "安全を確保して、随時連絡が取れるようにすること。いいな？任務よりも命の安全を第一にするんだぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "Stay safe and keep in contact. Remember, the mission comes second. Your lives come first!"
+        },
+        {
+          "language": "韩文",
+          "content": "다들 안전에 유의하고, 수시로 안부를 전하도록! 명심해, 임무보다 살아남는 게 먼저야!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "注意安全，隨時保持聯繫。記住，任務可以暫緩，保住性命最重要！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让我们啪啪啪地把对方都解决掉吧！"
+        },
+        {
+          "language": "日文",
+          "content": "みんなでパパッーと片付けちゃうぜ！"
+        },
+        {
+          "language": "英文",
+          "content": "Let's clear the place in one fell swoop!"
+        },
+        {
+          "language": "韩文",
+          "content": "파바박! 하고 해치우자고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "讓我們啪啪啪地把對方都解決掉吧！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "放心，我一直准备着呢。"
+        },
+        {
+          "language": "日文",
+          "content": "安心して、ずっとスタンバイしてっから。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't worry. I've been standing by here."
+        },
+        {
+          "language": "韩文",
+          "content": "안심해요, 준비는 항상 되어 있으니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "放心，我一直準備著呢。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不打没有把握的架。"
+        },
+        {
+          "language": "日文",
+          "content": "こちとら勝ち目のない喧嘩はやらない主義なんで。"
+        },
+        {
+          "language": "英文",
+          "content": "I don't pick fights I can't win."
+        },
+        {
+          "language": "韩文",
+          "content": "승산 없는 싸움은 안 해요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我不打沒有把握的架。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "今儿谁都别想走！"
+        },
+        {
+          "language": "日文",
+          "content": "人っ子一人逃さないっす！"
+        },
+        {
+          "language": "英文",
+          "content": "Not one of you is getting away!"
+        },
+        {
+          "language": "韩文",
+          "content": "한 명도 놓치지 않을 거야!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "今天誰都別想走！"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "就算是看到我来了，大家也别因此而放松大意哦！"
+        },
+        {
+          "language": "日文",
+          "content": "みんな、うちが来たからって、安心して油断しちゃダメだかんね！"
+        },
+        {
+          "language": "英文",
+          "content": "Don't get careless just because I'm here!"
+        },
+        {
+          "language": "韩文",
+          "content": "다들, 내가 왔다 해서 긴장을 놓진 말라고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "就算是看到我來了，大家也別因此而放鬆大意哦！"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大家，还撑得住吗？"
+        },
+        {
+          "language": "日文",
+          "content": "みんな、まだいけそ？"
+        },
+        {
+          "language": "英文",
+          "content": "Everyone hanging in there?"
+        },
+        {
+          "language": "韩文",
+          "content": "다들, 아직 괜찮지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "大家，還撐得住嗎？"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "撑不住的人，立刻退到我这儿来！"
+        },
+        {
+          "language": "日文",
+          "content": "もうダメって人はこっちに下がって！"
+        },
+        {
+          "language": "英文",
+          "content": "Get behind me, if you feel yourself slipping!"
+        },
+        {
+          "language": "韩文",
+          "content": "버티기 힘들면 이쪽으로 퇴각해!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "撐不住的人，立刻退到我這來！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不能再增加伤员了......"
+        },
+        {
+          "language": "日文",
+          "content": "これ以上ケガ人を出すわけにはいかないっす……"
+        },
+        {
+          "language": "英文",
+          "content": "We can't have any more casualties..."
+        },
+        {
+          "language": "韩文",
+          "content": "더 이상 부상자가 나와선 안 돼……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不能再增加傷患了......"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们这些混蛋......滚开！别妨碍我！"
+        },
+        {
+          "language": "日文",
+          "content": "クソ野郎ども……どきな！邪魔しないで！"
+        },
+        {
+          "language": "英文",
+          "content": "You bastards... Scram! I'm busy here!"
+        },
+        {
+          "language": "韩文",
+          "content": "이 망할 녀석들…… 비켜! 방해하지 말고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你們這些混蛋......滾開！別妨礙我！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你还挺厉害的嘛，居然能想到这种战术......要我说，你这一手可比W那个只会放炸弹的女人强多了！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターって結構やるっすよね、こんな戦術を思いつくなんて……うちからしたら、あの爆弾女Wよりずっとスゲーっす！"
+        },
+        {
+          "language": "英文",
+          "content": "You're pretty amazing, coming up with a strategy like that... I gotta say, you're a lot better than W just lobbing bombs at everything."
+        },
+        {
+          "language": "韩文",
+          "content": "이런 전술도 생각해 내다니…… 대단한데요. 솔직히 말해서, 그 폭탄만 던질 줄 아는 W보다 훨씬 나아요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你還挺厲害的嘛，居然能想到這種戰術......要我說，你這一手可比W那個只會放炸彈的女人強多了！"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "太好了，一切顺利！哈哈，这次我可不需要救援，看W和伊内丝还有什么话好说！"
+        },
+        {
+          "language": "日文",
+          "content": "よっしゃ～、順調っす！へへっ、今度こそもう救援なんていらないもんな。これでWもイネスも文句ないっしょ！"
+        },
+        {
+          "language": "英文",
+          "content": "Awesome, smooth like butter! Hehe, I didn't need any backup that time. Let's see what W and Ines have to say!"
+        },
+        {
+          "language": "韩文",
+          "content": "순조롭게 끝났네요, 다행이다! 헤헤, 이번엔 도움도 안 받았다고요. 이걸로 W랑 이네스도 할 말 없겠죠!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "太好了，一切順利！哈哈，這次我可不需要救援，看W和伊內絲還有什麼話好說！"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "虽然跑了几个小卒，不过没什么关系吧。嗯，小队没有减员就是我们的胜利！"
+        },
+        {
+          "language": "日文",
+          "content": "何人か小物を逃したみたいだけど、まあ問題ないっすよね。うん、一人も欠けることなく戦い抜いた、うちらの勝ち！"
+        },
+        {
+          "language": "英文",
+          "content": "A few footmen slipped past us, but that's no big deal, right? Yep, everyone made it out of the fight alive. I call that a big win!"
+        },
+        {
+          "language": "韩文",
+          "content": "몇 명 도망치긴 했지만 상관없겠죠? 응! 다친 사람도 없으니, 우리의 승리라 하자고요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "雖然跑了幾個小卒，不過沒什麼關係吧。嗯，小隊沒有減員就是我們的勝利！"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不、不会吧？博士，你该不会是打算死守吧？哎呀别傻愣着了，快和我一起走吧！"
+        },
+        {
+          "language": "日文",
+          "content": "え、ガチ？ドクター、まさかここ死守するつもり？やめなよ、突っ立ってないでさっさと逃げるぞ！"
+        },
+        {
+          "language": "英文",
+          "content": "N-No way... Doctor, you aren't trying to hold the line here, are you? C'mon, quit spacing out. Hurry up and run!"
+        },
+        {
+          "language": "韩文",
+          "content": "서, 설마…… 진짜로 여길 지키려는 건 아니죠, 박사? 멍하니 서 있지 말고 빨리 가자고요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不、不會吧？博士，你該不會是打算死守吧？哎呀別傻愣著了，快和我一起走吧！"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛待遇真好啊......别谦虚，这已经比我们之前住的地方要好得多了！"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスってマジで待遇がイイっすよね～……褒めすぎなんかじゃないって！うちらが住んでたとことは比べ物になんないっすから。"
+        },
+        {
+          "language": "英文",
+          "content": "Rhodes Island really treats us well... Oh, don't be so humble. This is much better than the dump we used to live in!"
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드의 복지는 참 좋네요…… 겸손해할 필요 없어요. 전에 살던 곳과는 비교도 안 되게 좋다니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "羅德島待遇真好啊......別謙虛，這已經比我們之前住的地方要好得多了！"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呜哦！干嘛，怎么啦？"
+        },
+        {
+          "language": "日文",
+          "content": "うお！なになに、どした？"
+        },
+        {
+          "language": "英文",
+          "content": "Whoa! What's up?"
+        },
+        {
+          "language": "韩文",
+          "content": "으악! 뭐야, 무슨 일인데요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗚哦！幹嘛，怎麼啦？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这件针织披肩摸起来很舒服吧？这是姥姥给我织的，很暖和哦。"
+        },
+        {
+          "language": "日文",
+          "content": "このポンチョ、触り心地いいっしょ？ばあちゃんが編んでくれたんす。めちゃあったかいぞ～。"
+        },
+        {
+          "language": "英文",
+          "content": "This poncho feels great, right? Nana knitted it for me. It's so warm."
+        },
+        {
+          "language": "韩文",
+          "content": "이 망토, 엄청 부드럽죠? 할머니가 떠 주신 거예요, 엄청 따뜻하다고요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這件針織披肩摸起來很舒服吧？這是姥姥給我織的，很暖和哦。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗨，博士，今天有哪些任务？啊对了，先说好，太离谱的活我可不接！"
+        },
+        {
+          "language": "日文",
+          "content": "やほ～、ドクター、今日の任務は？あっ、言っとくけど、ぶっ飛んだやつは引き受けないかんな。"
+        },
+        {
+          "language": "英文",
+          "content": "Hey, Doc. What kind of missions do we have today? Oh, right. Let me get this out of the way. I'm not taking anything too crazy!"
+        },
+        {
+          "language": "韩文",
+          "content": "야호~ 박사. 오늘의 임무는 뭐죠? 아, 먼저 말해 두는데, 너무 이상한 임무는 거절할 거예요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗨，博士，今天有哪些任務？啊對了，先說好，太離譜的活我可不接！"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,938 @@
+{
+  "name": "铎铃",
+  "charaKey": "char_4083_chimes",
+  "images": [
+    "https://prts.wiki/images/9/96/立绘_铎铃_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/3/36/立绘_铎铃_2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4083_chimes"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4083_chimes"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4083_chimes"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_4083_chimes"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "需要邮寄的文件就是这些了吗？好，我来清点一下。"
+        },
+        {
+          "language": "日文",
+          "content": "郵送する書類はこれで全部ですか？分かりました。では整理しておきますね。"
+        },
+        {
+          "language": "英文",
+          "content": "Are these the documents you need to mail? Alright, let me check them off."
+        },
+        {
+          "language": "韩文",
+          "content": "우편으로 보낼 서류들은 이게 전부인가요? 알겠습니다, 그럼 제가 정리해 두겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "需要郵寄的文件就是這些了嗎？好，我來清點一下。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，这里有您的一封信，好像是从龙门贫民区寄来的，是以前病人的回信吗？啊，从您的表情就能看出来，信上大概写了什么呢。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、お手紙が届いていますよ。龍門スラム街からのようですが、以前の患者さんでしょうか？フフッ、その表情を見れば、何が書いてあるかは察しがつきますよ。"
+        },
+        {
+          "language": "英文",
+          "content": "There's a letter for you from the Lungmen slums, Doctor. A former patient? Your expression tells me pretty much exactly what's in this letter."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 편지 한 통이 도착했습니다. 용문 슬럼가에서 온 거 같은데, 혹시 예전에 담당한 환자한테서 온 편지인가요? 후후, 표정을 보아하니 편지의 내용도 대충은 알 것 같네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，這裡有您的一封信，好像是從龍門貧民區寄來的，是以前病人的回信嗎？啊，從您的表情就能看出來，信上大概寫了什麼呢。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这把刀，主要用来对付闯进村庄的野兽，但有时遇到对货物有歹念的人，也会派上用场。野兽不可怕，赶走就好，但犯了错的人，想让他们迷途知返，很难。"
+        },
+        {
+          "language": "日文",
+          "content": "この大剣は、主に村に降りてきた獣を相手にするためのものですが、貨物を狙う輩がいれば役に立つこともあります。獣は追い払えばいいだけですが、道を誤った人を正しい方に導くとなると一筋縄ではいきませんよね。"
+        },
+        {
+          "language": "英文",
+          "content": "I use this sword to fight beasts that slip into the village, as well as bandits and thieves. For beasts, it's just a matter of driving them away. But people, it's hard to keep them from going astray."
+        },
+        {
+          "language": "韩文",
+          "content": "이 대검은 주로 마을에 내려온 짐승들을 상대할 때 사용하던 건데, 가끔은 화물을 노리는 놈들을 상대할 때에도 쓰여요. 짐승은 쫓아내면 그만이라 무섭진 않지만, 잘못을 저지른 사람은 정신을 차리게 만들어 줘야 하니 쉽지 않은 편이죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這把刀，主要用來對付闖進村莊的野獸，但有時遇到對貨物有歹念的人，也會派上用場。野獸不可怕，趕走就好，但犯了錯的人，想讓他們迷途知返，很難。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那些在地图上都很难找到的村落，信息的传递需要靠信使。我小时候就喜欢跟着村庄里的信使到处跑，我最早认识的字，也是在信封上。直到长大后我才明白，这寥寥几字的分量有多沉重。"
+        },
+        {
+          "language": "日文",
+          "content": "地図上でもなかなか見つからない集落ともなれば、情報伝達はトランスポーター頼みになります。私も物心ついた頃から、よく村のトランスポーターにくっついてあちこち出かけていましたから、最初に覚えた文字も封筒に書かれていたものなんです。大人になってようやく、そんなたった数文字の重みに気付きました。"
+        },
+        {
+          "language": "英文",
+          "content": "There are villages that don't even appear on maps, relying on Messengers to communicate. I used to follow the ones who came to my village around, and even learned my first words from the stuff written on envelopes. But I had to grow up before I learned how much those few words meant."
+        },
+        {
+          "language": "韩文",
+          "content": "지도에서도 찾기 힘든 마을에서 정보 전달은, 오롯이 전달자에게 달렸습니다. 전 어릴 때부터 마을의 전달자를 따라 여기저기 돌아다니는 걸 좋아했고, 처음 익힌 글도 편지 봉투에 적혀 있던 거였어요. 그리고 어른이 되고 나서야, 그 몇 안 되는 글자에 담긴 무게가 얼마나 무거운지 깨달았죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "那些在地圖上都很難找到的村落，訊息的傳遞需要靠信使。我小時候就喜歡跟著村莊裡的信使到處跑，我最早認識的字，也是在信封上。直到長大後我才明白，這寥寥幾字的分量有多沉重。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我回到故乡的村庄看过，那里现在只剩下几间空房，几亩荒田。曾经住在那里的人们应该已经在城市里有了新的生活。只是有时也会想，如果我当时再努力一点，故乡是不是也能留下一片人烟呢？"
+        },
+        {
+          "language": "日文",
+          "content": "故郷の村に戻ったこともありますが、今ではもう空き家と荒畑がわずかに残っているだけでした。住民たちはきっと都会で新たな暮らしを初めているんでしょうね。ただ時々思うんです――当時私がもっと必死になっていれば、今も村には慎ましい営みが残っていたんじゃないかって。"
+        },
+        {
+          "language": "英文",
+          "content": "I once went back to the village where I grew up. All I found was a few abandoned huts and fields. The people who lived there probably found new lives in the cities. But sometimes I wonder, if I had worked harder, would they have stayed?"
+        },
+        {
+          "language": "韩文",
+          "content": "고향 마을에 돌아가 봤습니다만, 거긴 이젠 빈집 몇 채와 황무지밖에 남아있지 않더군요. 전에 그곳에서 살던 사람들은 이미 도시에서 새로운 삶을 살고 있겠죠. 그때 내가 좀 더 노력했더라면, 고향에 사람들이 조금이라도 남아 있지 않았을까…… 그냥 가끔은 그런 생각이 들기도 합니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我回到故鄉的村莊看過，那裡現在只剩下幾間空房，幾畝荒田。曾經住在那裡的人們應該已經在城市裡有了新的生活。只是有時也會想，如果我當時再努力一點，故鄉是不是也能留下一片人煙呢？"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我走过的地方，其实并不算多。在荒山与城市之间徘徊，眼前所见的，都是一样困苦、无助、忙碌的人......这片大地多么宽广，又有多少人，一生只能生活在无人知晓的角落里。"
+        },
+        {
+          "language": "日文",
+          "content": "これまで足を伸ばした場所は、実はそう多くはありません。山と都市を往来しながら、至る所で貧困や孤独にあえぐ人、忙殺される人ばかりを目にしてきました……この広大な大地では、あまりにも多くの人々が誰にも知られることなく生涯を終えていくんです。"
+        },
+        {
+          "language": "英文",
+          "content": "You know, I haven't been to that many places. I've wandered between the mountains and cities, and seen people suffering from hardship, helplessness, and stress... This is a vast land, but how many people live in its nameless corners from birth to death, with no one ever to know they existed?"
+        },
+        {
+          "language": "韩文",
+          "content": "사실 제가 가 본 곳은 그렇게 많지 않습니다만, 산과 도시를 오가며 눈에 보였던 것들은 가난한 이들과 삶이 막막한 이들, 그리고 일에 치여 바쁘게 사는 사람들뿐이었습니다…… 이렇게나 넓은 대지에서, 도대체 얼마나 많은 사람들이 아무도 모르는 구석에서 쓸쓸한 일생을 살아가고 있는 걸까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我走過的地方，其實並不算多。在荒山與城市之間徘徊，眼前所見的，都是一樣困苦、無助、忙碌的人......這片大地多麼寬廣，又有多少人，一生只能生活在無人知曉的角落裡。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "乡亲们知道我感染了矿石病后，没做什么排挤我的事，但我已经回不到原来的生活，也是无可奈何的......不，不小心感染是我自己的事。“为了帮助别人才变成感染者”的念头，很傲慢。"
+        },
+        {
+          "language": "日文",
+          "content": "故郷の人たちは、私が鉱石病に罹ったと知っても差別などはしませんでした。ですがもう二度と元の生活に戻れないのも、動かしようのない事実です……いえ、不注意で感染したのは私自身の問題です。「人助けのために感染者になった」なんてのは傲慢な考えですよ。"
+        },
+        {
+          "language": "英文",
+          "content": "The villagers didn't kick me out when they learned I had Oripathy, but still I couldn't go back to my old life. No, getting infected was my own responsibility. It'd be too full of myself to say I got Infected to help people."
+        },
+        {
+          "language": "韩文",
+          "content": "고향 사람들은 제가 광석병에 걸렸다는 사실을 알고도 절 차별하지 않았어요. 하지만 이젠 원래의 삶으로 돌아갈 수 없다는 것도 어쩔 수 없는 사실이죠…… 아뇨, 감염이 된 건 제 부주의로 인해 벌어진 일입니다. '남을 돕기 위해서 감염자가 되었다'라는 건, 상당히 오만한 생각이에요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "鄉親們知道我感染了礦石病後，沒做什麼排擠我的事，但我已經回不到原來的生活，也是無可奈何的......不，不小心感染是我自己的事。“為了幫助別人才變成感染者”的念頭，很傲慢。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我仍在寻找那个少年的家人。之前我说了很过分的话，甚至到最后，我都不知道他的名字......哪怕是故作姿态，他也的确在融入苦难，记录苦难，让外面的人们知晓我们的存在，这就是意义。"
+        },
+        {
+          "language": "日文",
+          "content": "私は今でもあの人の家族を探しています。彼には随分とひどいことを言ってしまった上に、最後まで名前すら知らないままでしたから……たとえただのカッコ付けだったとしても、彼は確かに苦難に飛び込み、それを記録することで私たちの存在を世間に知らしめようとしていました。それだけで十分有意義なことだと思います。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm still looking for the young man's family. My words were too harsh... I didn't know his name, even at the very end of it. Superficial as it might have been, he came down for a taste of our harsh lives and recorded it. There's meaning in that."
+        },
+        {
+          "language": "韩文",
+          "content": "전 지금도 그 소년의 가족을 찾고 있어요. 그때 말을 심하게 하기도 했고, 마지막까지 그의 이름조차 몰랐으니까요…… 어떤 생각이었는지 모르겠지만, 그는 분명 고난 속에 몸을 던져 그 모든 것을 기록하고 외부 사람들한테 우리의 존재를 알리려 했습니다. 그것만으로도 전 충분히 의미 있는 일이라고 생각해요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我仍在尋找那個少年的家人。之前我說了很過分的話，甚至到最後，我都不知道他的名字......哪怕是故作姿態，他也的確在融入苦難，記錄苦難，讓外面的人們知曉我們的存在，這就是意義。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我见过不少人，日复一日地守在村口，等待亲人的一封家书。我从他们拆开信时的表情里，读到了世上所有的喜怒哀乐。信使搬运的，是一段又一段人生，这人生分明与我无关，又与我有关。"
+        },
+        {
+          "language": "日文",
+          "content": "毎日のように村の入り口に張り付き、いつまでも家族からの手紙を待ち続ける人をたくさん見てきました。彼らが封筒を開けた時の表情からは、ありとあらゆる喜怒哀楽が読み取れたものです。トランスポーターが運んでいるのは一人ひとりの人生であり、どれも私と無関係でありながら、確かに私と繋がっているんです。"
+        },
+        {
+          "language": "英文",
+          "content": "I've seen many people wait at the village entrance, hoping for a letter from their families. I've seen all sorts of emotions on their faces when they opened the letters. Messengers carry little slivers of people's lives. That's got nothing to do with me, and everything too."
+        },
+        {
+          "language": "韩文",
+          "content": "매일 마을 입구를 지키면서, 가족의 편지를 기다리는 사람들을 많이 봐 왔어요. 그리고 그들이 편지를 열었을 때 얼굴에 비친 표정에서, 세상의 온갖 희로애락들을 볼 수 있었습니다. 전달자가 전달하는 건 한 사람 한 사람의 인생이고, 그 인생들은 저와 아무런 관계가 없으면서도, 관계가 있다고도 할 수 있겠네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我見過不少人，日復一日地守在村口，等待親人的一封家書。我從他們拆開信時的表情裡，讀到了世上所有的喜怒哀樂。信使搬運的，是一段又一段人生，這人生分明與我無關，又與我有關。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "漂亮的晚霞，明天也一定是个好天气。"
+        },
+        {
+          "language": "日文",
+          "content": "綺麗な夕焼けですね。明日もきっと晴れますよ。"
+        },
+        {
+          "language": "英文",
+          "content": "What a beautiful sunset. The weather tomorrow should be fine and clear."
+        },
+        {
+          "language": "韩文",
+          "content": "아름다운 노을이네요. 내일도 분명히 맑을 거예요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "漂亮的晚霞，明天也一定是個好天氣。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您好，请问您是这里的负责人博士吗？听说这里可以用劳动换取治疗矿石病的机会......叫我铎铃吧，是一个代表希望的名字。"
+        },
+        {
+          "language": "日文",
+          "content": "はじめまして。あなたがこちらの責任者であられるドクターさんでしょうか？こちらでは労働と引き換えに鉱石病の治療を受けられると伺いまして……ええ、私のことはウィンドチャイムとお呼びください。希望を意味する名前です。"
+        },
+        {
+          "language": "英文",
+          "content": "Hi there, Are you the Doctor that's in charge here? I heard I could get treatment for Oripathy in exchange for work here... Oh, right, just call me Wind Chimes. It's a name that represents hope."
+        },
+        {
+          "language": "韩文",
+          "content": "처음 뵙겠습니다, 당신이 로도스 아일랜드의 책임자이신 박사님인가요? 여기에선 노동을 대가로 광석병 치료를 받을 수 있다고 하던데…… 네, 윈드차임스라고 불러 주세요. 희망을 뜻하는 이름입니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "您好，請問您是這裡的負責人博士嗎？聽說這裡可以用勞動換取治療礦石病的機會......叫我鐸鈴吧，是一個代表希望的名字。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果可以的话，还是希望在送信途中尽量避免和人起冲突......"
+        },
+        {
+          "language": "日文",
+          "content": "できることなら、配達中のもめ事は避けたいですね……"
+        },
+        {
+          "language": "英文",
+          "content": "I'd rather not get into fights while making deliveries..."
+        },
+        {
+          "language": "韩文",
+          "content": "가능하다면 배달 도중에는 싸움을 피하고 싶네요……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "如果可以的話，還是希望在送信途中儘量避免和人起衝突......"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我只是做了一个信使分内的工作......嗯，以后类似的工作，还是可以交给我。不会辜负您的。"
+        },
+        {
+          "language": "日文",
+          "content": "トランスポーターとしての仕事を全うしたまでですが……はい、今後もこの手の業務はお任せください。期待は裏切りません。"
+        },
+        {
+          "language": "英文",
+          "content": "All I did was carry out my duties as a Messenger... Anyway, leave it to me if you have a job like that again. I won't let you down."
+        },
+        {
+          "language": "韩文",
+          "content": "전 그저 전달자의 임무를 다한 것뿐입니다…… 네, 앞으로도 이런 일은 저한테 맡겨 주세요. 절대로 실망시키지 않겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我只是做了一個信使分內的工作......嗯，以後類似的工作，還是可以交給我。不會辜負您的。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "还有许多人，等待着希望的消息。接下来的路，一起走吧。"
+        },
+        {
+          "language": "日文",
+          "content": "まだまだ多くの人が、希望をもたらす報せを待っています。ここからの道は一緒に歩みましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "Many more people are waiting for hopeful news. Doctor, let's walk this path together."
+        },
+        {
+          "language": "韩文",
+          "content": "아직 많은 사람들이 희망적인 소식을 기대하고 있어요. 앞으로의 길도, 함께 걷도록 하죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "還有許多人，等待著希望的消息。接下來的路，一起走吧。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "只要知道了目的地，总能找到路的。"
+        },
+        {
+          "language": "日文",
+          "content": "目的地さえわかっていれば、道もいずれ見つかるものです。"
+        },
+        {
+          "language": "英文",
+          "content": "As long as there's a destination, there's a way."
+        },
+        {
+          "language": "韩文",
+          "content": "목적지를 알고 있다면 언젠간 길을 찾게 될 거예요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "只要知道了目的地，總能找到路的。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会努力确保每个人平安到达的。"
+        },
+        {
+          "language": "日文",
+          "content": "皆さんが無事に到着できるよう尽くします。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll make sure everyone arrives safely."
+        },
+        {
+          "language": "韩文",
+          "content": "여러분들이 무사히 도착하실 수 있도록 최선을 다하겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我會努力確保每個人平安到達的。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "路还很长，慢慢走吧。"
+        },
+        {
+          "language": "日文",
+          "content": "長い道のりですから、焦らず行きましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "The road is long. Walk slowly."
+        },
+        {
+          "language": "韩文",
+          "content": "아직 갈 길이 머니, 천천히 가도록 하죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "路還很長，慢慢走吧。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别挡道。"
+        },
+        {
+          "language": "日文",
+          "content": "道を開けてもらいましょうか。"
+        },
+        {
+          "language": "英文",
+          "content": "Get out of the way."
+        },
+        {
+          "language": "韩文",
+          "content": "길을 막지 말아 주세요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別擋路。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我准备好了。"
+        },
+        {
+          "language": "日文",
+          "content": "準備万全です。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm ready."
+        },
+        {
+          "language": "韩文",
+          "content": "준비 완료입니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我準備好了。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "可以出发。"
+        },
+        {
+          "language": "日文",
+          "content": "出発できます。"
+        },
+        {
+          "language": "英文",
+          "content": "Ready to go."
+        },
+        {
+          "language": "韩文",
+          "content": "출발하겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "可以出發。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "荒山，尘埃，都是常见的景色......"
+        },
+        {
+          "language": "日文",
+          "content": "寂れた山も、砂ぼこりも、見慣れた景色です……"
+        },
+        {
+          "language": "英文",
+          "content": "Bare mountains, dirt n' dust... all familiar sights."
+        },
+        {
+          "language": "韩文",
+          "content": "황량한 산과 흩날리는 먼지들…… 전부 익숙한 풍경이네요……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "荒山，塵埃，都是常見的景色......"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "山高路远，大家当心。"
+        },
+        {
+          "language": "日文",
+          "content": "山高く路遠し。皆さん、くれぐれもお気をつけて。"
+        },
+        {
+          "language": "英文",
+          "content": "A long path through tall mountains… Stay alert."
+        },
+        {
+          "language": "韩文",
+          "content": "산은 높고 가야 할 길은 멀었구나, 다들 주의해 주세요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "山高路遠，大家當心。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "现在离开，我还能当作没见过你们。"
+        },
+        {
+          "language": "日文",
+          "content": "すぐに立ち去れば、見なかったことにできるけど。"
+        },
+        {
+          "language": "英文",
+          "content": "Leave now and I'll act like I never saw you."
+        },
+        {
+          "language": "韩文",
+          "content": "지금 물러선다면 못 본 걸로 해 줄 수 있어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "現在離開，我還能當作沒見過你們。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我本来不想用这把刀对着人。"
+        },
+        {
+          "language": "日文",
+          "content": "この剣を人に向けたくはないけど。"
+        },
+        {
+          "language": "英文",
+          "content": "I never wanted to point this blade at anyone."
+        },
+        {
+          "language": "韩文",
+          "content": "이 검을 사람한테 겨누고 싶진 않았는데."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我本來不想用這把刀對著人。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "还有人在等着我。"
+        },
+        {
+          "language": "日文",
+          "content": "私を待ってる人たちがいるから。"
+        },
+        {
+          "language": "英文",
+          "content": "There are people waiting for me."
+        },
+        {
+          "language": "韩文",
+          "content": "날 기다리고 있는 사람들이 있어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "還有人在等著我。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们不该执迷不悟......"
+        },
+        {
+          "language": "日文",
+          "content": "耳を貸さないつもりなら……"
+        },
+        {
+          "language": "英文",
+          "content": "Don't keep pushing down the wrong path…"
+        },
+        {
+          "language": "韩文",
+          "content": "그렇게 귀를 닫고 있을 생각이라면……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你們不該執迷不悟......"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "只要不停下脚步，再遥远的地方，也总有一天可以到达。"
+        },
+        {
+          "language": "日文",
+          "content": "歩みを止めさえしなければ、どれだけ遠い場所にもいつかはたどり着けます。"
+        },
+        {
+          "language": "英文",
+          "content": "No matter how far the destination, you will get there one day, as long as you keep moving forward."
+        },
+        {
+          "language": "韩文",
+          "content": "발걸음을 멈추지 않는 한, 아무리 먼 곳이라도 언젠가는 도달할 수 있어요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "只要不停下腳步，再遙遠的地方，也總有一天可以到達。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "很高兴能带回捷报，但还是希望这样的争斗可以避免......"
+        },
+        {
+          "language": "日文",
+          "content": "吉報を届けられて何よりですが、こういった争いごとは極力避けたいものですね……"
+        },
+        {
+          "language": "英文",
+          "content": "I'm happy to bring news of victory, but I would rather avoid conflict like this."
+        },
+        {
+          "language": "韩文",
+          "content": "희소식을 가져올 수 있어서 다행입니다만, 아무래도 이런 싸움은 최대한 피하고 싶네요……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "很高興能帶回捷報，但還是希望這樣的爭鬥可以避免......"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要运送的货物还在，那些逃走的人，就当他们还有心悔过吧......"
+        },
+        {
+          "language": "日文",
+          "content": "運送中の貨物は盗られていませんし、逃げた人たちにも改心の余地があると信じましょう……"
+        },
+        {
+          "language": "英文",
+          "content": "The goods are still here. Let's hope those who ran away will learn and repent."
+        },
+        {
+          "language": "韩文",
+          "content": "운송 중인 물건들을 잃어버리지 않았으니, 도망친 사람들도 반성하리라 생각하고 보내주죠……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "要運送的貨物還在，那些逃走的人，就當他們還有心悔過吧......"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "休整一下，丢掉的东西，我们还可以再夺回来。"
+        },
+        {
+          "language": "日文",
+          "content": "少し休みましょう。失ったものはまだ取り返せます。"
+        },
+        {
+          "language": "英文",
+          "content": "Let's rest and regroup. We can take back what we lost later."
+        },
+        {
+          "language": "韩文",
+          "content": "잠깐 쉬도록 하죠. 잃어버린 건 다시 되찾을 수 있어요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "休整一下，丟掉的東西，我們還可以再奪回來。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有个能歇脚的地方就好。"
+        },
+        {
+          "language": "日文",
+          "content": "足休めができる場所があれば十分です。"
+        },
+        {
+          "language": "英文",
+          "content": "It's good to have a place to rest."
+        },
+        {
+          "language": "韩文",
+          "content": "잠시 쉴 수 있는 장소면 충분해요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "有個能歇腳的地方就好。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "欸？"
+        },
+        {
+          "language": "日文",
+          "content": "えっ？"
+        },
+        {
+          "language": "英文",
+          "content": "Huh?"
+        },
+        {
+          "language": "韩文",
+          "content": "어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "欸？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "当心，我刚从外面回来，身上沾了不少灰尘......"
+        },
+        {
+          "language": "日文",
+          "content": "外から戻ったばかりで、埃まみれですから気をつけてください……"
+        },
+        {
+          "language": "英文",
+          "content": "Careful, I just got back and I'm covered in dust…"
+        },
+        {
+          "language": "韩文",
+          "content": "조심하세요, 밖에서 방금 돌아와서 먼지가 많이 묻었거든요……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "當心，我剛從外面回來，身上沾了不少灰塵......"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，有您的信。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、お手紙が届いていますよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Letter for you, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 박사님 앞으로 편지가 도착했습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，有您的信。"
+        }
+      ]
+    }
+  ]
+}

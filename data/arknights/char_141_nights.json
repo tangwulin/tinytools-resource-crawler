@@ -1,0 +1,938 @@
+{
+  "name": "夜烟",
+  "charaKey": "char_141_nights",
+  "images": [
+    "https://prts.wiki/images/a/a0/立绘_夜烟_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/0/08/立绘_夜烟_2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_141_nights"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_141_nights"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_141_nights"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_141_nights"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没发现我在你身后？那当然啊～我可是猫，怎么会有脚步声呢？"
+        },
+        {
+          "language": "日文",
+          "content": "後ろにいたのに気がつかなかった？そりゃー、あたしネコだもん。足音なんてするはずないでしょ？"
+        },
+        {
+          "language": "英文",
+          "content": "Didn't notice me behind you, eh? It's only natural. I'm a cat. We're known for being silent prowlers!"
+        },
+        {
+          "language": "韩文",
+          "content": "뒤에 있었는데 눈치 못 챘다고? 그거야 내가 고양이니까 그렇지. 발소리 같은 걸 낼 리 없잖아?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "沒發現我在你身後？那當然啊～我可是貓，怎麼會有腳步聲呢？"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的帽子，你可别乱动~它已经疯掉了，要是不小心说出太多秘密给你听到，那对博士可是没好处的哦~"
+        },
+        {
+          "language": "日文",
+          "content": "この帽子、あんまり触らないでね？だってこの子、イカれてるからねぇ。いろいろ知っちゃったら、ドクターのほうが危ないよぉ？"
+        },
+        {
+          "language": "英文",
+          "content": "Hey, don't touch my hat... it's crazy, you know! If it feeds you too many secrets, Doctor, you'll be in trouble."
+        },
+        {
+          "language": "韩文",
+          "content": "이 모자, 너무 만지면 안 된다? 왜냐면 이 아이, 이미 정상이 아니거든. 괜히 이것저것 알려고 했다간, 박사가 위험해질걸?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我的帽子，你可別亂動~它已經瘋掉了，要是不小心說出太多秘密給你聽到，那對博士可是沒好處的哦~"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没想到罗德岛连越狱犯都敢接收？是想看看我身上的地图吗？还是想了解了解越狱的办法？"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスは脱獄犯まで仲間にしちゃうの？あたしの持ってる地図が見たかったの？それとも脱獄方法に興味があるのかなぁ？"
+        },
+        {
+          "language": "英文",
+          "content": "So rare to see a pharma take in runaway kitties from a jail. Did you all want a peek at my maps? Or, was it some advice on prison breaks?"
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드는 탈옥범도 동료로 삼아주나 봐? 내가 갖고 있는 지도가 보고 싶었던 거야? 아니면 탈옥 방법이 궁금한 거야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "沒想到羅德島連越獄犯都敢接收？是想看看我身上的地圖嗎？還是想瞭解瞭解越獄的辦法？"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“盗亦有道”——窃贼也有自己的规则哦，说不定是这样的吧~"
+        },
+        {
+          "language": "日文",
+          "content": "「盗亦有道」、盗人にも自分なりのルールがある――そうかもしれないねぇ。"
+        },
+        {
+          "language": "英文",
+          "content": "We thieves have our own principles and standards too... perhaps. Who can say?"
+        },
+        {
+          "language": "韩文",
+          "content": "…'도역유도'…… 도둑도 자신들만의 규칙이 있다…… 그럴지도 모르지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "“盜亦有道”——竊賊也有自己的規則哦，說不定是這樣的吧~"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呜喵？不用在意哦，是我的自言自语而已~"
+        },
+        {
+          "language": "日文",
+          "content": "やがて黒霧はすべての牢獄を打ち破り、無数の厄災を解き放つ……うにゃ？気にしなくていいよぉ、独り言だもん。"
+        },
+        {
+          "language": "英文",
+          "content": "Meow, meow, meow... Meow? Never you mind, I'm just talking to myself."
+        },
+        {
+          "language": "韩文",
+          "content": "냥? 신경 쓰지 마, 혼잣말이니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗚喵？不用在意哦，是我的自言自語而已~"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "出发吧，别担心，凡是我朋友走过的地方，都有我的眼线。"
+        },
+        {
+          "language": "日文",
+          "content": "行こうか？心配しないの、どこに行っても、あたしのオトモダチが手引きしてくれるからねぇ。"
+        },
+        {
+          "language": "英文",
+          "content": "Anytime you want. Don't you worry, I have friends everywhere. Eyes everywhere."
+        },
+        {
+          "language": "韩文",
+          "content": "가볼까? 걱정할 거 없어. 어딜 가든, 내 친구가 안내해 줄 테니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "出發吧，別擔心，凡是我朋友走過的地方，都有我的眼線。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好奇心可是会害死猫的哟~"
+        },
+        {
+          "language": "日文",
+          "content": "「好奇心はネコをも殺す」だよぉ～。"
+        },
+        {
+          "language": "英文",
+          "content": "Curiosity can kill a cat, you know."
+        },
+        {
+          "language": "韩文",
+          "content": "호기심이 고양이를 죽인다는 말도 있잖아~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "好奇心可是會害死貓的喲~"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我现在，心情很好，来给你个谜语猜猜吧~『为什么乌鸦长得像写字台？』呢？"
+        },
+        {
+          "language": "日文",
+          "content": "今のあたし、とぉーってもご機嫌だから、ナゾナゾを出してあげるよぉ。「カラスが書き物机に似ている」のはどうしてだー？"
+        },
+        {
+          "language": "英文",
+          "content": "I'm in a good mood right now, so here's a riddle for you. 'Why is a raven like a writing desk?'"
+        },
+        {
+          "language": "韩文",
+          "content": "지금 나, 기분이 되~게 좋으니까 수수께끼를 내줄게. 까마귀가 책상이랑 닮은 건, 왜일까~요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我現在，心情很好，來給你個謎語猜猜吧~『為什麼烏鴉長得像寫字台？』呢？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "多谢你给我新的身份，但是啊......你是不是看到了？看到了啊，一些本该只属于我自己的秘密？"
+        },
+        {
+          "language": "日文",
+          "content": "新しい居場所をくれたのは感謝してる。でもね……もしかして、見ちゃったのかなぁ？あたしのヒ・ミ・ツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you, for this 'Haze' I'm now.But... did you catch a peep of any of them, along the way? Any of, well... my secrets?"
+        },
+        {
+          "language": "韩文",
+          "content": "새롭게 살 곳을 마련해 준 건 고마워. 근데… 혹시, 본 건 아니지? 내 비.밀.을?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "多謝你給我新的身份，但是啊......你是不是看到了？看到了啊，一些本該只屬於我自己的秘密？"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......既然这家伙也睡了，那就差不多——该开始“干活”了喵~"
+        },
+        {
+          "language": "日文",
+          "content": "……こいつも寝てるし、そろそろ本業を始めようかにゃ～。"
+        },
+        {
+          "language": "英文",
+          "content": "Asleep like a baby... Time to get 'meown to business,' then."
+        },
+        {
+          "language": "韩文",
+          "content": "이 녀석도 이제 잠들었겠다, 슬슬~ 본업을 시작해 볼까냥~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "......既然這傢伙也睡了，那就差不多——該開始“幹活”了喵~"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你好~叫我夜烟~我喜欢轻轻松松的工作环境，和一个不会向我问这问那的雇主~"
+        },
+        {
+          "language": "日文",
+          "content": "どうもー。ヘイズだよ。好きなものは、気楽な職場と、口うるさくないご主人かなぁ。"
+        },
+        {
+          "language": "英文",
+          "content": "Hello, I'm Haze. I like relaxing work environments, and an employer who knows better than to bother me with too many questions."
+        },
+        {
+          "language": "韩文",
+          "content": "안녕~ 헤이즈라고 해. 좋아하는 건 편한 직장이랑, 잔소리 안 하는 주인 정도?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你好~叫我夜煙~我喜歡輕輕鬆鬆的工作環境，和一個不會向我問這問那的雇主~"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好吃~"
+        },
+        {
+          "language": "日文",
+          "content": "おいしかったよぉ。"
+        },
+        {
+          "language": "英文",
+          "content": "Yummy."
+        },
+        {
+          "language": "韩文",
+          "content": "맛있었어~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "好吃~"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "晋升？那是什么？很好吃吗？"
+        },
+        {
+          "language": "日文",
+          "content": "昇進？なにそれおいしいの？"
+        },
+        {
+          "language": "英文",
+          "content": "Promotion? What's that? Does it taste good?"
+        },
+        {
+          "language": "韩文",
+          "content": "승진? 뭐야 그거, 맛있는 거야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "晉升？那是什麼？很好吃嗎？"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "总算是挣脱了旧的枷锁，却很快又被装上了新的。这也许就是窃贼的宿命吧。"
+        },
+        {
+          "language": "日文",
+          "content": "古い鎖からなんとか逃げ出したところで、またすぐに新しいものをつけられる。これも盗人の宿命ってやつかねぇ。"
+        },
+        {
+          "language": "英文",
+          "content": "Finally out of those old shackles... and here I am, straight into new ones. The destiny of a thief's no wonder."
+        },
+        {
+          "language": "韩文",
+          "content": "오래된 족쇄를 이제야 겨우 풀었나 싶었는데, 다시 새로운 족쇄가 채워지다니… 이것도 도둑의 숙명이란 걸까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "總算是掙脫了舊的枷鎖，卻很快又被裝上了新的。這也許就是竊賊的宿命吧。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让我自由一点儿就行。"
+        },
+        {
+          "language": "日文",
+          "content": "自由にやらせてもらうよぉ。"
+        },
+        {
+          "language": "英文",
+          "content": "Give me a bit of freedom and I'll be happy."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 편한 대로 할게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "讓我自由一點就行。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "干嘛还要有队长，自由作战不好嘛？"
+        },
+        {
+          "language": "日文",
+          "content": "隊長なんて決めないでさぁ、自由にやるのはダメなのぉ？"
+        },
+        {
+          "language": "英文",
+          "content": "What do we need a leader for? Can't everyone just fight on their own?"
+        },
+        {
+          "language": "韩文",
+          "content": "팀장 같은 거 정하지 말고, 그냥 각자 편한 대로 하면 안 돼?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "幹嘛還要有隊長，自由作戰不好嘛？"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呜喵......这是令我狂喜的，自由的味道！"
+        },
+        {
+          "language": "日文",
+          "content": "うにゃー、これは……あたしを狂わせる、自由の匂いだ！"
+        },
+        {
+          "language": "英文",
+          "content": "Meow... It's driving me wild... this sweet, sweet smell of freedom!"
+        },
+        {
+          "language": "韩文",
+          "content": "흐냥~ 이건… 날 미치게 하는… 자유의 냄새야!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗚喵......這是令我狂喜的，自由的味道！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大家可以自由作战哦~"
+        },
+        {
+          "language": "日文",
+          "content": "みんな、自由にやっていいよぉ～。"
+        },
+        {
+          "language": "英文",
+          "content": "Everyone, no need to have cold feet here."
+        },
+        {
+          "language": "韩文",
+          "content": "다들, 편한 대로 해도 돼~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "大家可以自由作戰哦~"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "喵呼？"
+        },
+        {
+          "language": "日文",
+          "content": "にゃは？"
+        },
+        {
+          "language": "英文",
+          "content": "Meow?"
+        },
+        {
+          "language": "韩文",
+          "content": "냐앙~?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "喵呼？"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要上了哟——"
+        },
+        {
+          "language": "日文",
+          "content": "行くよぉ。"
+        },
+        {
+          "language": "英文",
+          "content": "Here we go."
+        },
+        {
+          "language": "韩文",
+          "content": "자~ 들어가 볼까~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "要上了喲——"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "来了来了~"
+        },
+        {
+          "language": "日文",
+          "content": "来た来た～。"
+        },
+        {
+          "language": "英文",
+          "content": "Out and about."
+        },
+        {
+          "language": "韩文",
+          "content": "선수 입장~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "來了來了~"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "像影子一样~"
+        },
+        {
+          "language": "日文",
+          "content": "影のようにっと♪"
+        },
+        {
+          "language": "英文",
+          "content": "Like a shadow."
+        },
+        {
+          "language": "韩文",
+          "content": "그림자처럼~♪"
+        },
+        {
+          "language": "繁体中文",
+          "content": "像影子一樣~"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这个怎么样？"
+        },
+        {
+          "language": "日文",
+          "content": "これならどうかなぁ？"
+        },
+        {
+          "language": "英文",
+          "content": "How do nya like this?"
+        },
+        {
+          "language": "韩文",
+          "content": "이건 어때?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這個怎麼樣？"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "太大意可不行哦~"
+        },
+        {
+          "language": "日文",
+          "content": "油断したらダメだよぉ？"
+        },
+        {
+          "language": "英文",
+          "content": "Careful, kittens. Don't lose your mittens."
+        },
+        {
+          "language": "韩文",
+          "content": "방심하면 안 된다~?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "太大意可不行哦~"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你觉得自己很强对吧？"
+        },
+        {
+          "language": "日文",
+          "content": "自分が強いとでも思ってるのかなぁ？"
+        },
+        {
+          "language": "英文",
+          "content": "You think you've got all the trimmings, don't you?"
+        },
+        {
+          "language": "韩文",
+          "content": "자기가 강하다고 생각하는 건가?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你覺得自己很強對吧？"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别太自信哦~"
+        },
+        {
+          "language": "日文",
+          "content": "自信過剰はよくないよぉ？"
+        },
+        {
+          "language": "英文",
+          "content": "Nah-ah-ah, Don't get carried away."
+        },
+        {
+          "language": "韩文",
+          "content": "자신감이 너무 넘치면 좋지 않다고?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "別太自信哦~"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "永远不允许有什么在猫头上称王称霸~"
+        },
+        {
+          "language": "日文",
+          "content": "この世界では、ネコの上に立つなんて許されないんだよぉ～。"
+        },
+        {
+          "language": "英文",
+          "content": "No one stands above a kitty in the end!"
+        },
+        {
+          "language": "韩文",
+          "content": "이 세상에선, 고양이 위에 서는 건 용납되지 않는다구~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "永遠不允許有什麼在貓頭上稱王稱霸~"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "完美胜利？无所谓啦~能赢就好。"
+        },
+        {
+          "language": "日文",
+          "content": "完全勝利？そんなのどうでもいいよぉ？勝てればいいんだもん。"
+        },
+        {
+          "language": "英文",
+          "content": "Perfect victory? Whatever. A victory's a victory afterall."
+        },
+        {
+          "language": "韩文",
+          "content": "완전 승리? 그런 건 아무래도 상관없잖아? 이기면 그만인걸."
+        },
+        {
+          "language": "繁体中文",
+          "content": "完美勝利？無所謂啦~能贏就好。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你知道你放走了多少敌人嘛？这样可不行啊~"
+        },
+        {
+          "language": "日文",
+          "content": "どれだけの敵を逃したかわかってるのかなぁ？もお、使えないなぁ。"
+        },
+        {
+          "language": "英文",
+          "content": "Do you know how many enemies you let go? That will be a spanner in the works."
+        },
+        {
+          "language": "韩文",
+          "content": "적들을 얼마나 놓쳤는지 알아? 정말이지, 쓸모없긴."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你知道你放走了多少敵人嘛？這樣可不行啊~"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "虽然已经很习惯逃跑了，但这次真是太狼狈了......"
+        },
+        {
+          "language": "日文",
+          "content": "逃げ回るのは慣れてるけど、今回は散々だよぉ……。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm no stranger to running for it, but this is just too embarrassing..."
+        },
+        {
+          "language": "韩文",
+          "content": "도망치는 건 익숙하지만… 이번 건 좀 그렇네…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "雖然已經很習慣逃跑了，但這次真是太狼狽了......"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "被炉~被炉在哪儿？"
+        },
+        {
+          "language": "日文",
+          "content": "こたつ～、こたつはどこぉ？"
+        },
+        {
+          "language": "英文",
+          "content": "Kotatsu. Where's the kotatsu?"
+        },
+        {
+          "language": "韩文",
+          "content": "코타츠~ 코타츠 어딨어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "被爐~被爐在哪兒？"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "喵？"
+        },
+        {
+          "language": "日文",
+          "content": "うにゃ？"
+        },
+        {
+          "language": "英文",
+          "content": "Meow?"
+        },
+        {
+          "language": "韩文",
+          "content": "냥?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "喵？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "喵？这些还不够哦。凡是我得不到的东西，我都想要~"
+        },
+        {
+          "language": "日文",
+          "content": "んにゃ？これだけじゃ足りないよ。手に入れられないからこそ、欲しいものがあるんだよぉ。"
+        },
+        {
+          "language": "英文",
+          "content": "Meow? I'm not satisfied yet. You know my rule: if I can't have it, I want it."
+        },
+        {
+          "language": "韩文",
+          "content": "냐앙? 이 정도론 부족해. 손에 넣을 수 없기 때문에, 갖고 싶어지는 것도 있는 거라고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "喵？這些還不夠哦。凡是我得不到的東西，我都想要~"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，你在啊喵~"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、いたのかにゃ～。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, nice to meet nya."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 거기 있었냥~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，你在啊喵~"
+        }
+      ]
+    }
+  ]
+}

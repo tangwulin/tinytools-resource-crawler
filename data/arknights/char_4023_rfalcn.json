@@ -1,0 +1,510 @@
+{
+  "name": "红隼",
+  "charaKey": "char_4023_rfalcn",
+  "images": [
+    "https://prts.wiki/images/9/94/立绘_红隼_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/1/19/立绘_红隼_2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4023_rfalcn"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4023_rfalcn"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这一摞文件放在这里，没有其他的事情我就先走了......那份文件上的污渍？咳咳，昨天喝得尽兴，不小心把酒瓶子打翻了。唉，真是，怎么夹在中间也能被你发现？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们这种文化人能不能喝？走，一起喝一杯，越过黑夜中的高山，独自走过狂风中的黄沙，我与我的朋友正站在绿洲中痛饮美酒......嗝呃——！让我、我们回到家乡......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "又不冷，穿得那么严实干什么？一会儿打起来会热得出汗。哎，那边的小朋友，不要拘谨，脱掉你的棉衣，真正的战士不会吝于展示苦训在身体上留下的痕迹。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“干员”？不，我是罗德岛的战士。你放心，我不是放不下过去那一切，我只是想守护现在拥有的。我会为你们培养出新的战士......就像以前她们在黄沙与流浪中收留我、培养我那样。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我曾收留过一群因战争失去一切的孩子，他们为了复仇，恳求我将刀法传授给他们，我答应了，他们也成功了，不过是以生命为代价......首领当年教我用刀，明明只是为了守护。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那场战争夺走了几乎所有族人的命，战友用脊背挡住攻击，首领的血滴在我的额头上......之后，我和其他孩子选择踏上复仇之路，最后，只有我活了下来，什么也不剩，只有我。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你问我画在你小臂上的花纹？是“齿痕”。喏，我也有一个，是首领亲手刻在我皮肤上的。她说，经受住血液与疼痛洗礼的人会成长为最勇敢的战士，它会带给我们力量。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "虽然我在战场和矿上都受过很多伤，但愈合后却没留下什么痕迹。小时候觉得是幸运，但现在却觉得遗憾，我想留下些伤疤去纪念一些人和事。送死换不回什么，我要活着，自己守住它们。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那边山顶是在下雪吗？......我昨晚做了个梦，梦到刚被捡来时我睡在首领的怀里，她抚摸着我的额头，手掌像被阳光暴晒过的沙子，炽热又粗糙——她们从没见过下雪，我今天替她们见到了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "今天阳光很好，难得睡了个懒觉，做了个好梦。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "既然我选择站在这里，那脚下这片土地就是我新的家园。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不用了，我想直接去训练场拿起武器与盾牌。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "只是战士的职责，你太客气了......哼，脸红？不可能的，我晒得这么黑，你怎么可能看得出来？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "谢谢你，博士......我会把这枚勋章带回故乡去。虽然那里的泉水已经干涸了，但它仍会祝福我，她们也会知道我仍然在战斗。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "爱人、战友、家园，战士一生为了这些而活着。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "战士们，你们的勇气将会迎来荣耀。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "战斗前不要吃太饱，小心一会儿吐出来。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那就战斗吧！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "已做好准备。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的刀已经磨亮了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一步不退。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我看到他们了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "战斗，或是死亡！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们的墙，我们来守护！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "绝不能被敌人看到我们的后背！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "举起你的刀和盾，一步不退！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这是我们镇守的家园，也是他们丧命的地方。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "他们挥舞的锋刃最终会刺中自己的喉咙，这就是入侵者的结局。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果能够死在守卫家园的战场上，那是我的荣幸。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......我的家园，我的战友，我的挚爱......等着我。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这个地方禁止饮酒啊......啊，你问我杯子里装的是什么？是大麦气泡果汁。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别动我！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哈哈哈——！呃，其实我很怕痒......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "说真的，你每天都不需要晒太阳的吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

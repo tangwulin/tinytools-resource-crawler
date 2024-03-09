@@ -1,0 +1,939 @@
+{
+  "name": "幽灵鲨",
+  "charaKey": "char_143_ghost",
+  "images": [
+    "https://prts.wiki/images/5/50/立绘_幽灵鲨_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/d/d3/立绘_幽灵鲨_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/0/08/立绘_幽灵鲨_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_143_ghost"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_143_ghost"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_143_ghost"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_143_ghost"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您好。在今天的工作开始之前，请稍微给我一些，用于祈祷的时间......"
+        },
+        {
+          "language": "日文",
+          "content": "ごきげんよう。本日の勤めを果たす前に、どうか祈りを捧げる時間をお与えください……。"
+        },
+        {
+          "language": "英文",
+          "content": "Good day. Please allow me a moment of prayer... before I resume my work for the day..."
+        },
+        {
+          "language": "韩文",
+          "content": "안녕하신가요. 오늘의 수행을 마치기 전에 부디, 기도를 올릴 시간을 주실 수 있을까요…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "您好。在今天的工作開始之前，請稍微給我一些，用於祈禱的時間......"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "慈悲的使者，请守卫我的睡梦，保护我的心灵......"
+        },
+        {
+          "language": "日文",
+          "content": "天にまします我らが慈悲深き天使たちよ……願わくば我が眠りに忍び寄る忌まわしき者から、我が心を守りたまえ……。"
+        },
+        {
+          "language": "英文",
+          "content": "O benevolent Herald, hear my prayer: please watch over my dreams and ward my soul…"
+        },
+        {
+          "language": "韩文",
+          "content": "하늘에 계신 우리 자비로운 천사들이여… 바라옵건대 우리의 잠에 살며시 다가오는 증오스러운 자들로부터, 우리 마음을 지켜주시옵소서…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "慈悲的使者，請守衛我的睡夢，保護我的心靈......"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呵呵，切割啊......切割是件很快乐的事。是啊，有些东西，相互之间并没有什么联系，从一开始，就不该结合在一起......"
+        },
+        {
+          "language": "日文",
+          "content": "ウフフフフ、斬るのは……斬るのはとても楽しい。そう、そこは元から繋がっていないのです。最初から、繋がってはいけなかったのです。ウフフフ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Hehehe… Cutting things... cutting things is such fun... Yes, some things were disconnected from the very beginning, their integrity only a false fiction..."
+        },
+        {
+          "language": "韩文",
+          "content": "우후후후후, 자르는 건…… 자르는 건 정말 즐거워요. 그래요, 거긴 원래부터 이어지지 않았어요. 처음부터, 이어져선 안 됐다고요. 우후후후…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "呵呵，切割啊......切割是件很快樂的事。是啊，有些東西，相互之間並沒有什麼聯繫，從一開始，就不該結合在一起......"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呵呵呵......哈哈......哈哈哈哈......"
+        },
+        {
+          "language": "日文",
+          "content": "…………ウフフフ……アハハハ……ハハハハハハ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Ehehehe... Hahahah... AHHAHAHAHAH!"
+        },
+        {
+          "language": "韩文",
+          "content": "……우후후후…… 아하하하…… 하하하하하하……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "呵呵呵......哈哈......哈哈哈哈......"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呵呵，为什么您要避开我的目光呢？这么做也是没用的......您想要的东西是什么，我全都知道。"
+        },
+        {
+          "language": "日文",
+          "content": "ウフッ、なぜ私と目を合わせてくださらないの？そんなことしても無駄ですわ。あなたが何を欲しているのか……私にはすべて分かっておりますもの。"
+        },
+        {
+          "language": "英文",
+          "content": "Ehehe…Why were you dodging my sight? So pointless... because I already know exactly what your heart desires..."
+        },
+        {
+          "language": "韩文",
+          "content": "후훗, 왜… 저와 눈을 마주치지 않으시나요? 그래 봤자… 소용없어요. 당신이 뭘 원하고 있는지…… 저는 전부 알고 있는걸요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "呵呵，為什麼您要避開我的目光呢？這麼做也是沒用的......您想要的東西是什麼，我全都知道。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我一直、一直想带您去一个地方，一个能听到“秘密”的地方。"
+        },
+        {
+          "language": "日文",
+          "content": "ずっと、ずっとあなたを連れていきたい場所があるのです。「秘密」が聴こえる、あの場所へ……。"
+        },
+        {
+          "language": "英文",
+          "content": "I have always, always wanted to bring you to a special place... A place where secrets are imparted..."
+        },
+        {
+          "language": "韩文",
+          "content": "줄곧… 줄곧 당신을 데려가고 싶었던 곳이 있어요. ‘비밀’이 들려오는, 그곳으로……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我一直、一直想帶您去一個地方，一個能聽到“秘密”的地方。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们究竟对我做了什么......？为什么让我吃那种药？是谁把我带到这里的？请告诉我......！！！"
+        },
+        {
+          "language": "日文",
+          "content": "……わ、私に何をしたのですか？どうして私はよくわからない薬を飲まされたのですか？誰が私をここに連れてきたのですか……教えてください……！！！"
+        },
+        {
+          "language": "英文",
+          "content": "What did you do to me...? Why was I made to drink that strange medicine? Who brought me to this place? PLEASE ANSWER ME!"
+        },
+        {
+          "language": "韩文",
+          "content": "제… 제게 무슨 짓을 하는 거죠? 왜 제게 잘 모르는 약을 먹이는 거죠? 누가 절 여기에 데려온 건가요…… 가르쳐 주세요!!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你們究竟對我做了什麼......？為什麼讓我吃那種藥？是誰把我帶到這裡的？請告訴我......！！！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那个人告诉我的都是对的......解剖、撕裂、切碎，一切都是、都是给予他们的救赎！"
+        },
+        {
+          "language": "日文",
+          "content": "あの御方が私に教えてくださったことは間違いありませんわ……解剖したのも！引き裂いたのも！切り刻んだのも！全て彼らに救いを与えるため……！！！"
+        },
+        {
+          "language": "英文",
+          "content": "That person's words are the complete and utter truth... Dissecting them, dismembering them, disemboweling them... it all grants them salvation...!"
+        },
+        {
+          "language": "韩文",
+          "content": "그분께서 제게 가르쳐 주신 것은 잘못되지 않았어요…… 해부한 것도! 찢어버린 것도!! 잘게 썰어버린 것도!!! 모두 그들에게 구원을 주기 위한 거라고요…!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "那個人告訴我的都是對的......解剖、撕裂、切碎，一切都是、都是給予他們的救贖！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在您的梦中，经常会出现些无法理解的事物，是吗？呵，那些景象，是那个人向你投递来的，无望的信件。而我，作为那个人的使者，把它送到了，呵呵......"
+        },
+        {
+          "language": "日文",
+          "content": "夢を見ると、理解できないものが出てきたりしますわよね？そう、それはあの御方からの絶望の知らせ。そして私はあの御方のお使いとして、それを届けに来たのです……フフ……。"
+        },
+        {
+          "language": "英文",
+          "content": "You see many things in your dreams that are hard to comprehend?... Those things you see are that soul's despairful tidings... And I, as the messenger, here to convey this exhortation to you... heh…"
+        },
+        {
+          "language": "韩文",
+          "content": "꿈을 꾸면, 이해할 수 없는 내용이 나오기도 하죠? 맞아요, 그게 바로 그분께서 내리신 절망의 계시예요. 그리고 저는 그분의 사역자로서, 그 계시를 전해드리러 왔답니다… 후후…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "在您的夢中，經常會出現些無法理解的事物，是嗎？呵，那些景象，是那個人向你投遞來的，無望的信件。而我，作為那個人的使者，把它送到了，呵呵......"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......听，茫茫的万物之主，在黑暗中，喃喃自语......"
+        },
+        {
+          "language": "日文",
+          "content": "……お聴きなさい、深淵から響く、万物の主の、ささやきを……。"
+        },
+        {
+          "language": "英文",
+          "content": "Hearken... Hear the whispers of vast creation's master, echoing from the deep..."
+        },
+        {
+          "language": "韩文",
+          "content": "……잘 들어보세요, 심연에서 들려오는 만물의 주인의 속삭임을……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "......聽，茫茫的萬物之主，在黑暗中，喃喃自語......"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "幽灵鲨......那些‘死者’都这样称呼我。那位医生告诉我，继续获得治疗的条件，是为罗德岛而战。嗯，我会的，我会把我的力量，全都献给你们。"
+        },
+        {
+          "language": "日文",
+          "content": "ウフフ……スペクター、亡霊たちは私をそう呼びます……。あのお医者様は、治療を受けるにはロドスのために戦うようにとおっしゃりました……ええ、もちろん、私の力をあなた方に捧げましょう……。"
+        },
+        {
+          "language": "英文",
+          "content": "I am Specter, that is what the spirits call me... That kind doctor informed me that I may receive further treatment by helping Rhodes Island... Yes, of course, my powers are yours to command."
+        },
+        {
+          "language": "韩文",
+          "content": "우후후, 스펙터… 망령들은 절 그렇게 부릅니다… 그 의사분께선, 치료를 받으려면 로도스 아일랜드를 위해 싸우라고 하셨습니다… 네, 물론 제 힘을 당신에게 바쳐드리죠…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "幽靈鯊......那些‘死者’都這樣稱呼我。那位醫生告訴我，繼續獲得治療的條件，是為羅德島而戰。嗯，我會的，我會把我的力量，全都獻給你們。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "力量......流入了我的身体......"
+        },
+        {
+          "language": "日文",
+          "content": "力が……流れ込んでくる……。"
+        },
+        {
+          "language": "英文",
+          "content": "Power... is flowing into me..."
+        },
+        {
+          "language": "韩文",
+          "content": "힘이… 흘러들어 오네요…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "力量......流入了我的身體......"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你的意志，我无权违背......"
+        },
+        {
+          "language": "日文",
+          "content": "あなたの意志に、私には抗う資格もありません……。"
+        },
+        {
+          "language": "英文",
+          "content": "I have no right to go against your will..."
+        },
+        {
+          "language": "韩文",
+          "content": "제게는, 당신의 의지에 거스를 자격조차 없답니다……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你的意志，我無權違背......"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这样的职位，可以给我带来新的喜悦吗？还是说，为了你而战斗，才是我真正的快乐呢？"
+        },
+        {
+          "language": "日文",
+          "content": "この役職は、私に新たな悦びを与えてくれますでしょうか？それとも、あなたのために働くことが私の悦びとなるのでしょうか？"
+        },
+        {
+          "language": "英文",
+          "content": "Will this position be a new source of joy for me...? Or... will working for you become my life's joy...?"
+        },
+        {
+          "language": "韩文",
+          "content": "이 일은, 제게 새로운 기쁨을 줄까요? 아니면, 당신을 위해 일하는 게 저의 기쁨이 될까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這樣的職位，可以給我帶來新的喜悅嗎？還是說，為了你而戰鬥，才是我真正的快樂呢？"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "各位，晚安......"
+        },
+        {
+          "language": "日文",
+          "content": "皆さま、ごきげんうるわしゅう……。"
+        },
+        {
+          "language": "英文",
+          "content": "Good night, my brothers and sisters."
+        },
+        {
+          "language": "韩文",
+          "content": "여러분, 편안한 밤 되세요……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "各位，晚安......"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如您所愿。"
+        },
+        {
+          "language": "日文",
+          "content": "あなたがおっしゃるのでしたら……。"
+        },
+        {
+          "language": "英文",
+          "content": "As you wish."
+        },
+        {
+          "language": "韩文",
+          "content": "당신이 말씀하신다면……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "如您所願。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这将是一条，充满牺牲的道路。"
+        },
+        {
+          "language": "日文",
+          "content": "ここからは、茨の道になります……。"
+        },
+        {
+          "language": "英文",
+          "content": "This will be a path paved with sacrifice."
+        },
+        {
+          "language": "韩文",
+          "content": "여기서부터는, 가시밭길이 될 겁니다……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這將是一條，充滿犧牲的道路。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我将这些迷失在战场上的灵魂，全部献给您......"
+        },
+        {
+          "language": "日文",
+          "content": "この戦場に迷い込んだすべての魂、あなたに捧げましょう……。"
+        },
+        {
+          "language": "英文",
+          "content": "All these lost souls on the battlefield... I offer them to you."
+        },
+        {
+          "language": "韩文",
+          "content": "이 전장을 떠도는 모든 영혼을, 당신께 바치지요…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我將這些迷失在戰場上的靈魂，全部獻給您......"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "静候您的讯息。"
+        },
+        {
+          "language": "日文",
+          "content": "お待ちしておりました。"
+        },
+        {
+          "language": "英文",
+          "content": "Humbly awaiting your command."
+        },
+        {
+          "language": "韩文",
+          "content": "기다리고 있었습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "靜候您的訊息。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请告诉我结果。"
+        },
+        {
+          "language": "日文",
+          "content": "結果を、お聞かせください。"
+        },
+        {
+          "language": "英文",
+          "content": "Please let me know the results."
+        },
+        {
+          "language": "韩文",
+          "content": "결과를, 들려주세요…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "請告訴我結果。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我来自深邃的海洋......"
+        },
+        {
+          "language": "日文",
+          "content": "かの深き海より参りました……。"
+        },
+        {
+          "language": "英文",
+          "content": "I come from the depth of the ocean…"
+        },
+        {
+          "language": "韩文",
+          "content": "저 깊은 바다에서 찾아왔습니다……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我來自深邃的海洋......"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "是您唤醒了我。"
+        },
+        {
+          "language": "日文",
+          "content": "私を呼び起こしてくださったのはあなたですね……。"
+        },
+        {
+          "language": "英文",
+          "content": "You are the one who woke me."
+        },
+        {
+          "language": "韩文",
+          "content": "저를 불러준 것은… 당신이로군요…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "是您喚醒了我。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "取悦我吧。"
+        },
+        {
+          "language": "日文",
+          "content": "我に悦びを与えなさい。"
+        },
+        {
+          "language": "英文",
+          "content": "Grant joy unto me!"
+        },
+        {
+          "language": "韩文",
+          "content": "제게 기쁨을 주십시오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "取悅我吧。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "回归深渊吧。"
+        },
+        {
+          "language": "日文",
+          "content": "深淵に還りなさい。"
+        },
+        {
+          "language": "英文",
+          "content": "Return to the abyss!"
+        },
+        {
+          "language": "韩文",
+          "content": "심연으로 돌아가세요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "回歸深淵吧。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没有价值的东西，我毫无兴趣。"
+        },
+        {
+          "language": "日文",
+          "content": "無価値なものには興味ないのです。"
+        },
+        {
+          "language": "英文",
+          "content": "I care not for valueless ones."
+        },
+        {
+          "language": "韩文",
+          "content": "가치 없는 것에는 관심 없답니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "沒有價值的東西，我毫無興趣。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不许逃走。"
+        },
+        {
+          "language": "日文",
+          "content": "逃しませんよ……！"
+        },
+        {
+          "language": "英文",
+          "content": "There's no escape."
+        },
+        {
+          "language": "韩文",
+          "content": "놓치지 않겠어요…!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不許逃走。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我战胜了您给予我的全部考验，您看到了吗？"
+        },
+        {
+          "language": "日文",
+          "content": "……あなたが与えてくださった試練を乗り越えましたよ……ご覧いただけましたか？"
+        },
+        {
+          "language": "英文",
+          "content": "I have conquered all trials you gave me... Were you watching me?"
+        },
+        {
+          "language": "韩文",
+          "content": "……당신이 안겨준 시련을 이겨냈답니다…… 잘 보셨나요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我戰勝了您給予我的全部考驗，您看到了嗎？"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请将迷失的灵魂们，引渡到安息之地吧。"
+        },
+        {
+          "language": "日文",
+          "content": "迷える魂たちを、安息の地へお導きください……。"
+        },
+        {
+          "language": "英文",
+          "content": "Please guide these lost souls to peaceful enlightenment...!"
+        },
+        {
+          "language": "韩文",
+          "content": "길 잃은 영혼들을 안식의 땅으로 인도하여 주소서……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "請將迷失的靈魂們，引渡到安息之地吧。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......谁都，别想逃走！"
+        },
+        {
+          "language": "日文",
+          "content": "……誰もここから逃しません！"
+        },
+        {
+          "language": "英文",
+          "content": "None of you shall leave this place!"
+        },
+        {
+          "language": "韩文",
+          "content": "……누구도 여기서 도망칠 순 없어요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "......誰都，別想逃走！"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "必须让他们偿还......必须......"
+        },
+        {
+          "language": "日文",
+          "content": "……必ず償いを……必ず……。"
+        },
+        {
+          "language": "英文",
+          "content": "They shall pay for this... They must pay…"
+        },
+        {
+          "language": "韩文",
+          "content": "……반드시 갚아줄 거예요…… 반드시……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "必須讓他們償還......必須......"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "可以给我一个，看得见星星的房间吗？"
+        },
+        {
+          "language": "日文",
+          "content": "満天の星が見える部屋をお願いできますでしょうか……。"
+        },
+        {
+          "language": "英文",
+          "content": "May I ask you to assign me to a room where I can see the starry sky?"
+        },
+        {
+          "language": "韩文",
+          "content": "온 하늘에 별이 보이는 방으로, 부탁드려도 될지요……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "可以給我一個，看得見星星的房間嗎？"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呵呵......"
+        },
+        {
+          "language": "日文",
+          "content": "ウフ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Heheh..."
+        },
+        {
+          "language": "韩文",
+          "content": "우훗……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "呵呵......"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士......你背后究竟是什么样的力量......使我这样欣喜若狂呢......"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター……私をこんなに狂おしいほど悦ばせてくださるなんて……あなたは一体何者なのですか……。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor... What is it inside you… that is driving me to this blissful ecstasy?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님…… 저를 이리도 미치도록 기쁘게 해 주시다니…… 당신은 대체 어떤 분이신가요……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士......你背後究竟是什麼樣的力量......使我這樣欣喜若狂呢......"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你是......啊，这不是博士吗？"
+        },
+        {
+          "language": "日文",
+          "content": "あなたは……あら、ドクターですわね……ウフフ……。"
+        },
+        {
+          "language": "英文",
+          "content": "You are... Ah, the Doctor, isn't it?"
+        },
+        {
+          "language": "韩文",
+          "content": "당신은…… 어머, 박사님이시군요…… 우후후……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你是......啊，這不是博士嗎？"
+        }
+      ]
+    }
+  ]
+}

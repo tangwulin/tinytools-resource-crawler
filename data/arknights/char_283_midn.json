@@ -1,0 +1,834 @@
+{
+  "name": "月见夜",
+  "charaKey": "char_283_midn",
+  "images": [
+    "https://prts.wiki/images/0/02/立绘_月见夜_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/3/34/立绘_月见夜_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_283_midn"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_283_midn"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_283_midn"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_283_midn"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "感谢您的指名。今晚，有什么想对我说的吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ご指名感謝します。今宵も心の声を俺に聞かせてください。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you for choosing me, Darling. Now, what kind of secret are you going to share with me under this velvet of the night?"
+        },
+        {
+          "language": "韩文",
+          "content": "지명해 주셔서 감사합니다. 오늘 밤도 마음의 소리를 제게 들려주세요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "感謝您的指名。今晚，有什麼想對我說的嗎？"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "东夜魔王？您知道了啊...不过对我来说，以前的辉煌都算不了什么，毕竟，我的未来只会更加的耀眼。"
+        },
+        {
+          "language": "日文",
+          "content": "東夜の魔王？ああ、聞いてたのか、その通り名……。まぁ、今の俺にとって過去の栄光は所詮過去のもの。それよりも、更に輝かしい未来が俺を待っているのさ。"
+        },
+        {
+          "language": "英文",
+          "content": "Fiend of the Night? Ah, I can't hide anything from you. But past glory is nothing to me. After all, I have an even brighter future waiting."
+        },
+        {
+          "language": "韩文",
+          "content": "동야의 마왕? 아아, 들었나 보군, 그 별명…… 뭐, 지금의 내게 있어, 과거의 영광은 그저 과거의 것이지. 그것보다, 더 빛나는 미래가 나를 기다리고 있다고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "東夜魔王？您知道了啊…不過對我來說，以前的輝煌都算不了什麼，畢竟，我的未來只會更加的耀眼。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "虽然工作的地点变了，但我要给各位带来笑容的职责却没有变过。"
+        },
+        {
+          "language": "日文",
+          "content": "職場が変わっても、俺の使命が変わることはないさ。そう、みんなを笑顔にするという使命はね。"
+        },
+        {
+          "language": "英文",
+          "content": "I may work in a different place now, but my job is still the same—to put a smile on everyone's face."
+        },
+        {
+          "language": "韩文",
+          "content": "직장이 바뀌어도, 나의 사명은 변하지 않아. 그래, 모두를 미소 짓게 만든다는 사명 말이지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "雖然工作的地點變了，但我要給各位帶來笑容的職責卻沒有變過。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "梓兰小姐的幸福初始计量表一定是负数吧，不然怎么可能见到我都板着个脸啊？说来，您要是知道点她的什么事记得给我讲讲。"
+        },
+        {
+          "language": "日文",
+          "content": "オーキッドさんの幸せメーターは初めからマイナスなんだろうな。そうじゃないと、俺の顔を見るなり不貞腐れた顔をする説明がつかないだろう？ああ、それより、あの人のことについて何か知っていれば、俺にも教えてくれないか。"
+        },
+        {
+          "language": "英文",
+          "content": "I bet Ms. Orchid must have been born with a negative number on her happiness scale. Why else would she always look so stern whenever I'm there to light her up? If you know anything about her, please tell me."
+        },
+        {
+          "language": "韩文",
+          "content": "오키드 씨의 행복 파라미터는 처음부터 마이너스인 게 분명해. 안 그러면 내 얼굴을 볼 때마다 심통이 난 표정을 하고 있는 게 설명이 안 되잖아? 아아, 그건 그렇고, 그 사람에 대해 뭔가 알고 있다면, 나한테도 알려주지 않을래?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "梓蘭小姐的幸福初始計量表一定是負數吧，不然怎麼可能見到我都板著個臉啊？說來，您要是知道點她的什麼事記得給我講講。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我可是很强的，剑术这项优雅的运动，既能维持身材又能提升气质，有什么理由不勤加练习呢？喂，再强的人不努力也会变弱的！先搞清楚这点啊！"
+        },
+        {
+          "language": "日文",
+          "content": "俺の実力？結構強い方だと思うよ。ああ、俺は剣術をやってるからね。心の鍛錬にも役立つってわけ。やらない理由はないだろう？それに、いくら強くても努力し続けなけりゃ弱くなっていくだけ。それを忘れちゃいけないね。"
+        },
+        {
+          "language": "英文",
+          "content": "People say my swordsmanship is top notch. All due credit, I have to say. Practicing swordsmanship helps me maintain my figure and cultivate my elegance. It'd be a crime for me to slack off on the pratice. After all, you either keep the momentum and hold the lead or end up getting overwhelmed. Please keep that in mind."
+        },
+        {
+          "language": "韩文",
+          "content": "내 실력? 꽤 강한 편이라고 생각해. 검술이라는 우아한 운동은 품위 유지는 물론 건강에도 도움이 되거든, 안 할 이유가 없잖아? 게다가, 아무리 강하다 해도 노력하지 않으면 약해지고 만다고, 그걸 잊어선 안 돼!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我可是很強的，劍術這項優雅的運動，既能維持身材又能提升氣質，有什麼理由不勤加練習呢？喂，再強的人不努力也會變弱的！先搞清楚這點啊！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "人们说我以前的行当是把感情当做商品贩卖，“幸福”只是叫卖的吆喝。真是愚钝，若不付出真心，又怎么能看见客人的真心？"
+        },
+        {
+          "language": "日文",
+          "content": "前の仕事をしてた時は、「幸せにするなんてただの謳い文句で、結局は感情を売り物にしてるだけだろ」なんてことを言うやつが結構いてね。でも俺はあの仕事に真摯に向き合ってた。こっちも誠意を持って本気でやらないと、お客さんの心は見えてこないんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "People used to say that I sold feelings as commodities, that I treated 'happiness' as a product. Fools, all of them. How can I expect my customers to open their hearts to me if I don't open mine to them first?"
+        },
+        {
+          "language": "韩文",
+          "content": "전 직장에서는 '행복이라는 건 그냥 표어 같은 거고, 결국엔 감정을 팔고 있는 거잖아'라고 말하는 녀석들이 꽤 있었거든. 그래도 난 그 일을 진지하게 했었어. 내가 성의를 담아서 진심으로 하지 않으면, 손님의 마음이 보이지 않거든."
+        },
+        {
+          "language": "繁体中文",
+          "content": "人們說我以前的行當是把感情當做商品販賣，“幸福”只是叫賣的吆喝。真是愚鈍，若不付出真心，又怎麼能看見客人的真心？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我认为幸福是相互影响的，是一种真实存在的气场。我以得见大家真心而收获幸福，大家就一定能因我的幸福而幸福。"
+        },
+        {
+          "language": "日文",
+          "content": "幸せはお互いに影響し合う一種のオーラみたいなものだと思ってる。みんなに本心を打ち明けてもらえるようになれれば俺は幸せになれるし、俺が幸せでいればみんなも幸せになってくれるはずだ。"
+        },
+        {
+          "language": "英文",
+          "content": "I believe happiness can be contagious. It's a tangible atmosphere that truly exists. I feel the joy when others treat me with sincerity, and I will make sure my happiness reaches right into their hearts."
+        },
+        {
+          "language": "韩文",
+          "content": "행복은 서로에게 영향을 주는 일종의 아우라 같은 거라 생각해. 모두를 진심으로 대하면 난 행복해지고, 내가 행복해지면 모두들 행복해질 테니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我認為幸福是相互影響的，是一種真實存在的氣場。我以得見大家真心而收獲幸福，大家就一定能因我的幸福而幸福。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "现在我在A6小组的同事......他们的性格古怪，心地却无比善良。这是命运的馈赠，提醒我要珍惜真正重要的人。"
+        },
+        {
+          "language": "日文",
+          "content": "うちのメンバーたちは……性格はちょっとアレだけど、みんな底抜けにいい奴らだ。こんないい奴らに恵まれるなんて、本当に大切な人を大事にしろっていう、天からの思し召しかな。"
+        },
+        {
+          "language": "英文",
+          "content": "My colleagues in team A6... they may be a bit weird, but they're truly kind souls. They're a gift from destiny, a gift that continues to remind me to cherish those important to me."
+        },
+        {
+          "language": "韩文",
+          "content": "A6 팀 멤버들은…… 성격은 좀 그렇긴 하지만, 다 한없이 좋은 녀석들이야. 이렇게 좋은 녀석들과 만나게 되다니, 정말로 소중한 사람은 소중히 여기라는 하늘의 뜻이 아닐까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "現在我在A6小組的同事......他們的性格古怪，心地卻無比善良。這是命運的饋贈，提醒我要珍惜真正重要的人。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "既然闲下来了，就先看看书好了。"
+        },
+        {
+          "language": "日文",
+          "content": "せっかくの休息時間だし、本でも読んでおくか。"
+        },
+        {
+          "language": "英文",
+          "content": "Now that I have some free time, I should read."
+        },
+        {
+          "language": "韩文",
+          "content": "간만의 휴식시간이니, 책이라도 읽을까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "既然閒下來了，就先看看書好了。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请露出你最美的笑容来，客人，在我的身边，幸福乃理应获得之物。月见夜，今后也随时恭候您的指名。"
+        },
+        {
+          "language": "日文",
+          "content": "お客様、私に最高の笑顔を見せてくれませんか？この私がいる限り、幸せという名の贈り物が絶えずあなたのもとに届きますよ。ミッドナイト、いつでもご指名をお待ちしております。"
+        },
+        {
+          "language": "英文",
+          "content": "Show me your brightest smile, my esteemed customer! Happiness is at arm's reach when you're by my side. Midnight, at your service."
+        },
+        {
+          "language": "韩文",
+          "content": "손님, 제게 최고의 미소를 보여주시겠습니까? 제가 있는 한, 행복이란 이름의 선물이 끊임없이 당신에게 도착할 테니까요. 미드나이트, 언제든지 당신의 지명을 기다리고 있겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "請露出你最美的笑容來，客人，在我的身邊，幸福乃理應獲得之物。月見夜，今後也隨時恭候您的指名。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "增长见闻，这点很重要！"
+        },
+        {
+          "language": "日文",
+          "content": "見識を広げることも大事だね。"
+        },
+        {
+          "language": "英文",
+          "content": "It's important to never stop learning!"
+        },
+        {
+          "language": "韩文",
+          "content": "식견을 넓히는 것도 중요하지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "增長見聞，這點很重要！"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "喔噢，我的努力也有了回报了啊！为表庆祝，就摆上个香槟塔吧！当然，这次我请。"
+        },
+        {
+          "language": "日文",
+          "content": "わお、努力が報われるとはこういうことだね。お祝いにシャンパンタワーでもいってみようか！もちろん、今回は俺のおごりだよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Whoa, so my hard work really paid off! Let's set up a champagne tower to celebrate. My treat."
+        },
+        {
+          "language": "韩文",
+          "content": "와우, 노력이 보답 받는다는 건 이런 거구나. 축하의 의미로 샴페인 타워라도 한 번 할까! 물론, 이번엔 내가 사는 걸로."
+        },
+        {
+          "language": "繁体中文",
+          "content": "喔噢，我的努力也有了回報了啊！為表慶祝，就擺上個香檳塔吧！當然，這次我請。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我就是成功的保障。"
+        },
+        {
+          "language": "日文",
+          "content": "この俺がいる限り、任務の成功は保証するよ。"
+        },
+        {
+          "language": "英文",
+          "content": "With me on your side, success is guaranteed!"
+        },
+        {
+          "language": "韩文",
+          "content": "내가 있는 한, 임무의 성공은 보장하지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我就是成功的保障。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "跟随帅气的我吧！"
+        },
+        {
+          "language": "日文",
+          "content": "俺のカッコよさに、ついてきな！"
+        },
+        {
+          "language": "英文",
+          "content": "Follow this handsome me!"
+        },
+        {
+          "language": "韩文",
+          "content": "내 멋짐을 따라오라고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "跟隨帥氣的我吧！"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大家都拿出干劲来！"
+        },
+        {
+          "language": "日文",
+          "content": "やる気全開でよろしく！"
+        },
+        {
+          "language": "英文",
+          "content": "Show me your spirit, everyone!"
+        },
+        {
+          "language": "韩文",
+          "content": "의욕 최대로 부탁할게!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "大家都拿出幹勁來！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好好看着我华丽的身姿。"
+        },
+        {
+          "language": "日文",
+          "content": "この華麗な姿、ちゃんと目に焼き付けてくれよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Behold, here comes my flamboyant moves!"
+        },
+        {
+          "language": "韩文",
+          "content": "이 화려한 모습, 그 눈에 가득 담아줘."
+        },
+        {
+          "language": "繁体中文",
+          "content": "好好看著我華麗的身姿。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯？"
+        },
+        {
+          "language": "日文",
+          "content": "んー？"
+        },
+        {
+          "language": "英文",
+          "content": "Hmm?"
+        },
+        {
+          "language": "韩文",
+          "content": "응?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯？"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "怎么了？"
+        },
+        {
+          "language": "日文",
+          "content": "どうした？"
+        },
+        {
+          "language": "英文",
+          "content": "What's up?"
+        },
+        {
+          "language": "韩文",
+          "content": "왜 그래?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "怎麼了？"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "到达。"
+        },
+        {
+          "language": "日文",
+          "content": "到着。"
+        },
+        {
+          "language": "英文",
+          "content": "I've arrived."
+        },
+        {
+          "language": "韩文",
+          "content": "도착."
+        },
+        {
+          "language": "繁体中文",
+          "content": "到達。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好的！"
+        },
+        {
+          "language": "日文",
+          "content": "オーケー！"
+        },
+        {
+          "language": "英文",
+          "content": "OK."
+        },
+        {
+          "language": "韩文",
+          "content": "오케이!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "好的！"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "剑啊，划破这月夜吧！"
+        },
+        {
+          "language": "日文",
+          "content": "剣よ、この月夜を引き裂け！"
+        },
+        {
+          "language": "英文",
+          "content": "O sword, pierce the moonlight that veils the night!"
+        },
+        {
+          "language": "韩文",
+          "content": "검이여, 이 달밤을 갈라라!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "劍啊，劃破這月夜吧！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "渴饮鲜血吧！"
+        },
+        {
+          "language": "日文",
+          "content": "浴びよ、己が鮮血を！"
+        },
+        {
+          "language": "英文",
+          "content": "Bathe in fresh blood!"
+        },
+        {
+          "language": "韩文",
+          "content": "흠뻑 젖어라, 자신의 선혈에!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "渴飲鮮血吧！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "果然不能小瞧您啊，博士，您今天的闪耀程度已经快超越我了。"
+        },
+        {
+          "language": "日文",
+          "content": "やっぱりドクターは侮れないね。今日はこの俺を超えそうなほど輝いていたよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Impressive, Doctor, truly impressive. Your blazing brilliance almost stole my show today."
+        },
+        {
+          "language": "韩文",
+          "content": "역시 박사는 얕볼 수 없겠는데. 오늘은 날 뛰어넘을 정도로 빛났어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "果然不能小瞧你啊，博士，您今天的閃耀程度已經快超越我了。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这世间对于我来说只有一件事办不到，那就是——“不完美”。"
+        },
+        {
+          "language": "日文",
+          "content": "俺にとって唯一不可能なこと、それは――「完璧でない」俺であることさ。"
+        },
+        {
+          "language": "英文",
+          "content": "There's only one thing that's impossible for me: being imperfect."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 유일하게 할 수 없는 것, 그건 바로…… '완벽하지 않은' 나로 있는 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這世間對於我來說只有一件事辦不到，那就是——“不完美”。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这样也不坏，总之先庆祝一下吧！"
+        },
+        {
+          "language": "日文",
+          "content": "こういう結果も悪くない。とりあえず一杯やろうか！"
+        },
+        {
+          "language": "英文",
+          "content": "Not too shabby. Such a heart-warming result calls for a little celebration."
+        },
+        {
+          "language": "韩文",
+          "content": "이런 결과도 나쁘지 않지. 어쨌든 한잔할까!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這樣也不壞，總之先慶祝一下吧！"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别回头。等到下次，再用笑容来面对彼此吧。"
+        },
+        {
+          "language": "日文",
+          "content": "終わったことは忘れて、次こそは笑顔で締めくくろう。"
+        },
+        {
+          "language": "英文",
+          "content": "No need to look back. We'll greet each other with a smile next time."
+        },
+        {
+          "language": "韩文",
+          "content": "끝난 일은 잊어버리고, 다음엔 꼭 웃는 얼굴로 마무리 짓자고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別回頭。等到下次，再用笑容來面對彼此吧。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "很棒的地方，晚上办场酒会吧。"
+        },
+        {
+          "language": "日文",
+          "content": "なかなかいい部屋じゃないか。今夜はパーティーをやろうか。"
+        },
+        {
+          "language": "英文",
+          "content": "A wonderful place. Let's have a drinking party tonight."
+        },
+        {
+          "language": "韩文",
+          "content": "꽤 괜찮은 방이잖아, 오늘 밤엔 파티를 할까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "很棒的地方，晚上辦場酒會吧。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "喂......衣领要被弄乱了。"
+        },
+        {
+          "language": "日文",
+          "content": "おっと……襟が曲がってしまうじゃないか。"
+        },
+        {
+          "language": "英文",
+          "content": "There now, would you please leave my collar as it is?"
+        },
+        {
+          "language": "韩文",
+          "content": "이런…… 옷깃이 구겨지잖아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "喂......衣領要被弄亂了。"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "感谢您对我的照顾。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターの気遣いには感謝してるよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Thanks for taking care of me."
+        },
+        {
+          "language": "韩文",
+          "content": "박사의 배려에는 감사하고 있어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "感謝您對我的照顧。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，晚上好。"
+        },
+        {
+          "language": "日文",
+          "content": "いい夜だね、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Good evening, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "좋은 밤이네, 박사 박사."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，晚上好。"
+        }
+      ]
+    }
+  ]
+}

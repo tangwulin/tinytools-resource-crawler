@@ -1,0 +1,709 @@
+{
+  "name": "Friston-3",
+  "charaKey": "char_4093_frston",
+  "images": [
+    "https://prts.wiki/images/4/46/立绘_Friston-3_1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4093_frston"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4093_frston"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4093_frston"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_4093_frston"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "成为你的助理，可露希尔就无权在我身上动手动脚了吧？她对我非常感兴趣，我知道。但那些愚蠢的改装，是对一名科学家的侮辱，哪怕......我现在是这个模样，也不行。"
+        },
+        {
+          "language": "日文",
+          "content": "君の助手になれば、クロージャは僕の身体に好き勝手できなくなるのだろう？彼女が僕に興味津々なのは知っているよ。けど、ああいうとんちきな改装は、一科学者への侮辱なのだ。たとえ……今の僕がこのような有様であっても、許容はできない。"
+        },
+        {
+          "language": "英文",
+          "content": "If I become your assistant, Closure won't be able to touch me anymore, yes? I'm aware of her extreme interest in me, but her planned modifications on my body are both ridiculous and unacceptable. They're an insult to a scientist, and I won't allow it even in my current form."
+        },
+        {
+          "language": "韩文",
+          "content": "자네의 어시스턴트가 되면 클로저도 내 몸을 함부로 할 수 없게 되겠지? 그녀가 내게 많은 관심을 갖고 있다는 사실은 알고 있네. 하지만 그런 어리석은 개조는 과학자에 대한 모욕이나 다름없어…… 비록 지금 내가 이런 모습이 되었을지라도, 그건 용납 못하네."
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "为什么人类会长出角和尾巴？这样的生物进化状态超出了我的认知体系......我知道时间已经过了数万年，凯尔希说过无数次了。我需要一点时间推演。"
+        },
+        {
+          "language": "日文",
+          "content": "なぜ人類に角と尻尾が生えているんだろう？このような生物の進化は、僕の理解を超えている……数万年の時が過ぎたのは理解しているさ、ケルシーに何度も説明されたからね。演繹に少々時間を要するだけだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Why would humanity grow horns and tails? This stage of biological evolution is past my parameters of understanding... I know tens of thousands of years have passed— Kal'tsit has mentioned this countless times. Hmm, I will need a bit more time to formulate my deduction."
+        },
+        {
+          "language": "韩文",
+          "content": "어째서 인류에게 뿔과 꼬리가 자라난 것일까? 이런 생물적 진화는 내 인지 체계를 뛰어넘었어…… 나도 켈시가 여러 차례 설명해 줬으니, 수만 년의 시간이 지난 것쯤은 알고 있네. 단지 이해할 시간이 조금 필요할 뿐이야."
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "可露希尔想将我的声线设置成“三十岁、有颗粒感的摇滚烟嗓”，但我本身已经是个六十多岁的老人了......起码，这是我最后的记忆。"
+        },
+        {
+          "language": "日文",
+          "content": "クロージャは僕のボイス設定を「三十歳男性、滑舌の良いスモーキーボイス」としたいらしいけど、僕は六十を超えた老骨なんだよ……少なくとも、それが僕の最後の記憶だ。"
+        },
+        {
+          "language": "英文",
+          "content": "Closure wanted me to sound like a 'thirty-year-old rock band vocalist with a raspy voice,' but my original body was already twice that age... at least, that's what my final memories tell me."
+        },
+        {
+          "language": "韩文",
+          "content": "클로저는 내 목소리를 '발성 좋고 허스키한 30대 남성의 목소리'로 설정하고 싶었던 모양이지만, 난 이미 60이 넘은 노인일세…… 적어도 내 마지막 기억으론 그렇다네."
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "今天的工作就到此为止吧，博士。我还要去一趟凯尔希的办公室，想必她又在无谓地熬夜。一个人被使命感推着走了数万年，又能阻止什么呢？不如早点睡吧。"
+        },
+        {
+          "language": "日文",
+          "content": "本日の仕事はこれまでとしよう、ドクター。このあとケルシーの執務室へ行かないといけなくてね、また意味もなく徹夜をしているだろうから。数万年もの間、使命感に背を押されて歩き続けて来た人に、いまさら何を止められるというのだ？いっそ睡眠を取った方が有意義だ。"
+        },
+        {
+          "language": "英文",
+          "content": "Let's stop here for today, Doctor. I have to go over to Kal'tsit's office. She must be needlessly burning the midnight oil again. A soul, driven by her sheer sense of mission to trudge on for tens of thousands of years, just to stop what exactly? It would be better for her to get more sleep."
+        },
+        {
+          "language": "韩文",
+          "content": "오늘 일은 여기까지 하도록 하지, 박사. 난 조금 있다 켈시의 사무실에도 들러야 한다네. 켈시는 분명 오늘도 의미 없이 밤을 지새우고 있겠지. 수만 년이라는 시간 동안 사명감에 등을 떠밀려 왔는데, 이제 와서 또 무얼 막을 수 있겠나? 차라리 잠이라도 일찍 자는 편이 낫겠지."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，不要用看待Castle-3他们的眼光看待我。他们很......可爱，但我这副机械之躯，就像你的兜帽，只是一种仪式，一种......风格。我知道自己是谁，我们才是一样的。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、どうか僕をキャッスル-3たちと同列に扱わないでくれよ。彼らはとても……可愛らしいけれど、僕のこのロボットの身体は君のフードと同じで、ただの様式であって、ある種の……スタイルだ。僕は自分が誰であるかは理解しているし、僕たちこそが同じなんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, don't look at me the same way you do Castle-3 and the others. They are very... cute. But my robot body is just like your hood, merely a sort of costume... a style. I know who I am, and thus you and I are more alike."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 부디 Castle-3 같은 아이들과 나를 똑같이 취급하진 말아 주게. 그 아이들은 꽤나…… 사랑스럽지만, 내 기계 몸은 자네의 후드처럼 일종의 양식이자, 일종의…… 스타일에 불과하다네. 나도 내가 누군지는 잘 알고 있네, 그리고 우리야말로 똑같다 할 수 있지."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我并非傲慢，我只是愤怒，为你们的无知却不自知，为你们的自以为是愤怒。没错，我现在已经失去了知识，你就权且将这种愤怒理解成“运算的结果”吧，这结果清晰可见。"
+        },
+        {
+          "language": "日文",
+          "content": "僕は傲慢なのではない、怒っているだけだ。君たちの無知でありながら分を弁えない行いに、君たちの思い上がりに、怒っているんだ。そうさ、今の僕はもう知識を失った。だからこの怒りを「演算の結果」だと思ってくれて構わないよ、とても分かりやすい結果であろう。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm not arrogant, but I am angry at your ignorance and lack of self-awareness, angry at your self-righteousness, all of you. Yes, I've lost all my knowledge, so you can take this anger as merely a 'result' of my 'calculations,' and a very clear result at that."
+        },
+        {
+          "language": "韩文",
+          "content": "나는 오만한 것이 아니라 분노하고 있을 뿐이네. 자네들의 무지함과 분수를 모르는 행동에, 자네들의 자만심에 분노하고 있는 걸세. 그래, 난 이제 지식을 잃었네. 그러니 자네도 지금 이 분노를 '연산의 결과'라고 생각해도 좋네. 참으로 이해하기 쉬운 결과일 테지."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的妻子、女儿，还有其他同胞都长眠于那些石棺之中，不会再醒来。我做了很多决定，我已经知道了这些。可我依然只记得最后那顿晚餐，所有人与我道别，祈祷接下来的远行能够顺利......"
+        },
+        {
+          "language": "日文",
+          "content": "僕の妻と娘、それから他の同志たちは石棺の中で長い眠りについて、目覚めることはない。僕は数多くの決断を下してきた、そのことは既に知っている。けれども、記憶に残っているのは最後の晩餐のことだけなんだ。皆が僕に別れの言葉を贈って、順調な旅路になるよう祈ってくれた……"
+        },
+        {
+          "language": "英文",
+          "content": "My wife, daughter, and the rest of my people are eternally resting in those sarcophagi, and will never wake up again. I've made many decisions, I'm well aware. But all I remember is that final dinner, where everyone bid me farewell, and prayed that the subsequent odyssey would go smoothly..."
+        },
+        {
+          "language": "韩文",
+          "content": "내 아내와 딸, 그리고 다른 동포들은 그 석관 속에서 기나긴 잠에 들어 다시는 깨어나지 않겠지. 나는 수많은 결정들을 내렸고, 나도 그 사실을 알고 있네. 하지만 지금 내 기억에 남은 건 그 최후의 만찬뿐이네. 모두가 나와 작별 인사를 나누고, 앞으로의 여정이 순조롭기를 기도해 주었지……"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，有空吗？带着我到处走走吧。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、時間はあるかな？散歩に連れて行ってくれないか。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, are you free? I hope you might take me out for a walk."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 시간 있나? 같이 산책이라도 다녀오는 건 어떤가."
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你好，我是Friston。没错，就是“Friston”，不是什么“Friston-3”，我不是复制品，更不是复制品的复制品，希望你能理解。"
+        },
+        {
+          "language": "日文",
+          "content": "初めまして、僕はフリストンだ。そう、「フリストン」であって、「フリストン-3」などという名ではない。僕は誰かのコピーではないし、コピーのコピーでもない。理解してくれると助かる。"
+        },
+        {
+          "language": "英文",
+          "content": "Hello there, I am Friston. That's right, just 'Friston,' not 'Friston-3' or whatever. I am not a replica, and very much less a reproduction of a replica. I hope you understand."
+        },
+        {
+          "language": "韩文",
+          "content": "반갑네, 나는 Friston일세. 그래, 'Friston'이지, 'Friston-3' 같은 게 아니네. 난 복제품이 아닐뿐더러, 복제품의 복제품도 아니지. 부디 이해해 줬으면 좋겠군."
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "挺有价值的研究资料，我需要复制一份。"
+        },
+        {
+          "language": "日文",
+          "content": "なかなか価値のある研究資料じゃないか。コピーして保存する必要があるね。"
+        },
+        {
+          "language": "英文",
+          "content": "This is valuable research material. I shall require a copy for myself."
+        },
+        {
+          "language": "韩文",
+          "content": "꽤나 가치가 있는 연구 자료로군. 복사해서 보존하는 게 좋겠어."
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，你需要我负责哪个环节？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、僕はどの役割を担当すればいいのかな？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, which sector do you need me to take charge of?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 난 어떤 역할을 맡으면 되는 건가?"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我要再次带领所有人寻找新的方向吗？......好。"
+        },
+        {
+          "language": "日文",
+          "content": "再び皆を率いて、新しい可能性を模索しないといけないのかな？……いいさ。"
+        },
+        {
+          "language": "英文",
+          "content": "Am I to lead everyone and find a new direction...? Very well, I won't let them down this time."
+        },
+        {
+          "language": "韩文",
+          "content": "다시 모두를 이끌고, 새로운 가능성을 찾아내라는 건가? ……알겠네."
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "走吧，也算是新的旅程。"
+        },
+        {
+          "language": "日文",
+          "content": "行こう、これも新しい旅立ちだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Let's go. This is also a new journey."
+        },
+        {
+          "language": "韩文",
+          "content": "출발하도록 하지. 이 또한 새로운 여정일지니."
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "感应到危险！"
+        },
+        {
+          "language": "日文",
+          "content": "危険を感知！"
+        },
+        {
+          "language": "英文",
+          "content": "Danger detected!"
+        },
+        {
+          "language": "韩文",
+          "content": "위험을 감지했네!"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会将作战计划布置给THRM-EX和Lancet-2。"
+        },
+        {
+          "language": "日文",
+          "content": "サーマル-EXとランセット-2に作戦を共有しておくよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I will relay our combat strategies to THRM-EX and Lancet-2."
+        },
+        {
+          "language": "韩文",
+          "content": "작전 계획은 THRM-EX와 Lancet-2에게도 공유해 두겠네."
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我能做的，当然比THRM-EX他们要多。我会站在最前面。"
+        },
+        {
+          "language": "日文",
+          "content": "僕は当然、サーマル-EXたちよりも多くのことを担える。だから最前線に立つよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I am naturally capable of more than THRM-EX and the others. I will shield them on the front line."
+        },
+        {
+          "language": "韩文",
+          "content": "당연히 THRM-EX 같은 녀석들보다 많은 걸 할 수 있지. 그러니 내가 최전선에 서겠네."
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我倒下之前，大家不会有事。"
+        },
+        {
+          "language": "日文",
+          "content": "僕が斃れるまで、皆が傷つくことはない。"
+        },
+        {
+          "language": "英文",
+          "content": "As long as I'm still standing, no one will come to harm."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 쓰러지지 않는 한, 아무도 다치지 않을 걸세."
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不会倒下。"
+        },
+        {
+          "language": "日文",
+          "content": "僕は斃れやしない。"
+        },
+        {
+          "language": "英文",
+          "content": "I will not fall."
+        },
+        {
+          "language": "韩文",
+          "content": "난 쓰러지지 않네."
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们，是在盯着我的表情涂装看？"
+        },
+        {
+          "language": "日文",
+          "content": "僕の感情表示が気になっているのかな？"
+        },
+        {
+          "language": "英文",
+          "content": "Are you all staring at my expression doodle?"
+        },
+        {
+          "language": "韩文",
+          "content": "내 감정 도장이 신경 쓰이는 건가?"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们的行径，我已经拍照存档。"
+        },
+        {
+          "language": "日文",
+          "content": "君たちの行動は、既に撮影して記録保存した。"
+        },
+        {
+          "language": "英文",
+          "content": "Your behaviors have been recorded and archived."
+        },
+        {
+          "language": "韩文",
+          "content": "자네들의 행동은 촬영해서 기록으로 보존했다네."
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我要和你们的负责人对话！"
+        },
+        {
+          "language": "日文",
+          "content": "責任者との対話を要求する。"
+        },
+        {
+          "language": "英文",
+          "content": "Where's your leader? I need to talk!"
+        },
+        {
+          "language": "韩文",
+          "content": "자네들의 책임자와 대화를 해봐야겠네!"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真是......丑陋的生物。"
+        },
+        {
+          "language": "日文",
+          "content": "まったく……醜い生き物だ。"
+        },
+        {
+          "language": "英文",
+          "content": "What a disgrace... these ugly creatures."
+        },
+        {
+          "language": "韩文",
+          "content": "정말이지…… 끔찍한 생물이로군."
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，你的思维习惯、指挥风格很明显与其他人都不同......有些东西是改变不了的。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、君の思考回路、そして指揮のスタイルは明らかに余人と異なる……変えられないことはあるんだよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, your thinking routines and command style are very much distinct and different from the others... I guess some things never change."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 자네의 사고 회로와 지휘 스타일은 다른 사람들과 확연히 다르군…… 이 세상에는 변하지 않는 것도 존재하는 법이지."
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我还记得我背负的使命，但得承认，我已经不可能完成它，更不可能像你这样完成得这么好。你值得尊敬，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "自分が背負っていた使命は覚えているけれど、僕がそれを達成することは既に不可能だと、認めざるを得ない。いわんや、君のように完璧にこなすのはね。君は敬意を表すべき相手だ、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "I still remember the duty I bear, but I must admit, I am no longer able to fulfill it, let alone execute it as well as you do. You have my respect, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "내게 주어진 사명은 기억하고 있지만, 이젠 그걸 완수할 수 없다는 사실을 인정할 수밖에 없다네. 더군다나 자네처럼 완벽하게 해내는 건 더더욱 말이지. 자네는 존경받아 마땅한 사람일세, 박사."
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "远行总有变故，计划也难免出差错，虽然很难接受......但除了接受，我还能做什么呢？"
+        },
+        {
+          "language": "日文",
+          "content": "長旅にハプニングはつきものだし、計画は狂う時もあるさ。受け入れ難いことではあるけれど……受け入れるよりほか、僕に何ができる？"
+        },
+        {
+          "language": "英文",
+          "content": "An odyssey will always have nigh-avoidable accidents, and a plan might always go wrong. They may be painful to accept... but what else can I do except accept them?"
+        },
+        {
+          "language": "韩文",
+          "content": "긴 여정에 변수는 항상 생기기 마련이고, 계획이 틀어지는 것도 흔한 일이지. 받아들이기 힘든 일이지만…… 받아들이는 것 외에, 내가 뭘 할 수 있겠나?"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果最坏的可能性，也不过是变成我这样，那倒是没什么可怕的。博士，你先撤离，剩下的交给我。"
+        },
+        {
+          "language": "日文",
+          "content": "最悪な場合でも、今の僕のような有様になるだけというなら、恐れることはない。ドクター、先に撤退してくれ、残りは僕が引き受ける。"
+        },
+        {
+          "language": "英文",
+          "content": "If the worst possible outcome is turning into something like me, then there is nothing to be afraid of. Doctor, you should evacuate first, and leave the rest to me."
+        },
+        {
+          "language": "韩文",
+          "content": "최악의 경우가 그저 나처럼 되는 것뿐이라면 두려워할 필요 없네. 박사, 나머지는 내게 맡기고 자네는 일단 후퇴하게."
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我要把借来的生物研究资料都堆在这里，应该没问题吧？"
+        },
+        {
+          "language": "日文",
+          "content": "拝借してきた生物研究資料を全てここに置くつもりだが、問題はないか？"
+        },
+        {
+          "language": "英文",
+          "content": "I would like to stack all of my borrowed ecological research materials over here. I trust there will be no issues with that?"
+        },
+        {
+          "language": "韩文",
+          "content": "대여한 생물 연구 자료를 전부 이쪽에 두어도 괜찮겠나?"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你应该看到了，我的表情涂装是“生气”。"
+        },
+        {
+          "language": "日文",
+          "content": "見えていると思うけれど、僕の感情表示は「怒り」になっている。"
+        },
+        {
+          "language": "英文",
+          "content": "You should have observed my expression doodle. Currently, it's 'anger'."
+        },
+        {
+          "language": "韩文",
+          "content": "자네가 본 대로, 지금 내 표정이 뜻하는 건 '분노'일세."
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......刚刚为你拍了张照片，博士。你想看看？对不起，我已经打印存档了。"
+        },
+        {
+          "language": "日文",
+          "content": "……君の写真を撮ったよ、ドクター。見てみたいのかい？すまないね、もう印刷してコレクションにしたよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I've taken a photo of you, Doctor. You want to see it? Sorry, I've already saved it to my archives."
+        },
+        {
+          "language": "韩文",
+          "content": "……자네 사진을 한 장 찍었다네, 박사. 보고 싶은가? 미안하군, 이미 인쇄하고 저장까지 했다네."
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你好，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "やあ、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "How do you do, Docor?"
+        },
+        {
+          "language": "韩文",
+          "content": "안녕하신가, 박사."
+        }
+      ]
+    }
+  ]
+}

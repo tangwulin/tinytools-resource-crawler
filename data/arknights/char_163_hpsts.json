@@ -1,0 +1,934 @@
+{
+  "name": "火神",
+  "charaKey": "char_163_hpsts",
+  "images": [
+    "https://prts.wiki/images/9/92/立绘_火神_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/0/03/立绘_火神_2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_163_hpsts"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_163_hpsts"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_163_hpsts"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯？想看我铸造武器吗？可以。小心，别被火星烫到。"
+        },
+        {
+          "language": "日文",
+          "content": "え、鍛冶の様子が見たい？かまわないけど、やけどには気をつけて。"
+        },
+        {
+          "language": "英文",
+          "content": "Hm? You want to watch me forge weapons? Sure, but be careful not to get singed."
+        },
+        {
+          "language": "韩文",
+          "content": "어? 무기 단조하는 모습이 보고 싶다고? 상관은 없는데, 화상 안 입게 조심해."
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯？想看我鑄造武器嗎？可以。小心，別被火星燙到。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "只有不被使用的武器才不会受损。因此，没有划痕反而是对武器最大的亵渎。"
+        },
+        {
+          "language": "日文",
+          "content": "傷一つないというのは使われていない証拠。つまり、武器にとっては無傷であることこそが一番の恥になる。"
+        },
+        {
+          "language": "英文",
+          "content": "Only weapons that are never in use will remain undamaged. Therefore, leaving a weapon spotless is actually the worst sacrilege for it."
+        },
+        {
+          "language": "韩文",
+          "content": "흠집 하나 없다는 건, 쓰인 적이 없단 거잖아… 무기로썬 흠집이 없다는 거야말로 제일 수치스러운 일이지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "只有不被使用的武器才不會受損。因此，沒有劃痕反而是對武器最大的褻瀆。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "现代化的武器装备生产方式让许多传统工匠都失业了，不过跟不上时代的人理应被淘汰，这是规律。"
+        },
+        {
+          "language": "日文",
+          "content": "武器の製造技術が発展するのに伴い、多くの伝統職人が職を失った。しかし、時代遅れの者は淘汰される。これが世の理というものなんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "The modernized weaponry and equipment manufacturing processes have left many traditional craftsmen jobless. But those who can't keep up with the times will of course be left behind... that's only natural."
+        },
+        {
+          "language": "韩文",
+          "content": "무기의 제조 기술이 발전하면서, 많은 전통 장인들이 직업을 잃게 되었지. 하지만, 시대에 늦어지면 도태되는 법이잖아. 이게 세상의 섭리 아니겠어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "現代化的武器裝備生產方式讓許多傳統工匠都失業了，不過跟不上時代的人理應被淘汰，這是規律。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "铳械......这种武器会给这个世界带来翻天覆地的变化。"
+        },
+        {
+          "language": "日文",
+          "content": "銃器、か……この世界に革命的な変化をもたらす予感がする。"
+        },
+        {
+          "language": "英文",
+          "content": "Firearms... these weapons will truly change the world completely."
+        },
+        {
+          "language": "韩文",
+          "content": "총기라…… 이 세상에 혁명적인 변화를 가져다줄 것 같은 예감이 들어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "槍械......這種武器會給這個世界帶來翻天覆地的變化。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的右腿？没什么大不了的，你知道，每个工匠多少都失误过。"
+        },
+        {
+          "language": "日文",
+          "content": "私の右足が気になる？いや、大したことはない。知っての通り、職人というものは、多少の失敗を経験するものなんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "My right leg? Oh, it's fine. You know, all craftsmen make mistakes."
+        },
+        {
+          "language": "韩文",
+          "content": "내 오른 다리? 뭐 별건 아니야. 뭐 원래, 장인들은 다 크고 작은 실패를 겪는 법이니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我的右腿？沒什麼大不了的，你知道，每個工匠多少都失誤過。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "感谢你为我提供了展现技艺的机会。"
+        },
+        {
+          "language": "日文",
+          "content": "私に腕を振るうことができる場を与えてくれたこと、感謝する。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you for giving me a chance to show what I can do."
+        },
+        {
+          "language": "韩文",
+          "content": "내게 실력을 발휘할 수 있는 자리를 줘서, 고마워."
+        },
+        {
+          "language": "繁体中文",
+          "content": "感謝你為我提供了展現技藝的機會。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一些装备上能看到与我一样的名字？不......跟我可没什么关系。"
+        },
+        {
+          "language": "日文",
+          "content": "私の名が入った装備を見たことがある？いや……私とは特に関係ないものだと思うけど。"
+        },
+        {
+          "language": "英文",
+          "content": "You saw my name engraved on some equipment? No... that's not me."
+        },
+        {
+          "language": "韩文",
+          "content": "내 이름이 들어간 장비를 본 적 있다고? 아니…… 그거, 나랑은 상관없는 장비일 거 같은데."
+        },
+        {
+          "language": "繁体中文",
+          "content": "一些裝備上能看到與我一樣的名字？不......跟我可沒什麼關係。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "以钢铁与黄铜为骨......"
+        },
+        {
+          "language": "日文",
+          "content": "鋼と真鍮で骨組みをつくって、それから……。"
+        },
+        {
+          "language": "英文",
+          "content": "With steel and copper as the core..."
+        },
+        {
+          "language": "韩文",
+          "content": "강철과 놋쇠로 골조를 만들고, 그다음엔……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "以鋼鐵與黃銅為骨......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果这锻锤还能为您尽上几分绵薄之力，我就已经心满意足了。"
+        },
+        {
+          "language": "日文",
+          "content": "このハンマーで、少しでもドクターの役に立つことができるのなら、これ以上は何も望まないよ。"
+        },
+        {
+          "language": "英文",
+          "content": "My greatest wish is for the hammer I forged to come in useful to you."
+        },
+        {
+          "language": "韩文",
+          "content": "이 망치로 조금이라도 박사에게 도움이 될 수 있다면, 난 더 이상 바랄 게 없어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "如果這鍛錘還能為您盡上幾分綿薄之力，我就已經心滿意足了。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "吧台又开始推新饮品了，今天喝哪款好呢。"
+        },
+        {
+          "language": "日文",
+          "content": "バーにまた新作ドリンクが増えたのか。今日は何を飲もうか悩んでしまうな。"
+        },
+        {
+          "language": "英文",
+          "content": "They're promoting new drinks at the bar. What should I have today?"
+        },
+        {
+          "language": "韩文",
+          "content": "바에 또 신메뉴가 늘어난 건가. 오늘은 뭘 마실까 고민되네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "吧台又開始推新飲品了，今天喝哪款好呢。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "他们都叫我火神。如果需要的话，我可以给你们损毁的武器做维护，另外......我需要的锻冶设备就在这张图纸里。"
+        },
+        {
+          "language": "日文",
+          "content": "皆からはヴァルカンと呼ばれている。もし必要があれば、破損した武器の整備を担当させてもらおう。それから……私が鍛冶をするのに用意してほしいものを書いておいた、用意してもらえると助かる。"
+        },
+        {
+          "language": "英文",
+          "content": "They call me Vulcan. I can do maintenance for your damaged weapons if you want. Oh, by the way, the forging equipment I need is all listed here in this blueprint."
+        },
+        {
+          "language": "韩文",
+          "content": "남들은 날 벌컨이라 부르고 있어. 혹시 필요하다면 파손된 무기의 정비를 맡아주도록 하지. 그리고…… 내가 단조를 할 때 필요한 걸 적어놨는데, 준비해주면 고맙겠어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "他們都叫我火神。如果需要的話，我可以給你們損毀的武器做維護，另外......我需要的鍛冶設備就在這張圖紙裡。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔，有新的灵感。准备好鼓风机，该干活了。"
+        },
+        {
+          "language": "日文",
+          "content": "ふむ、何か閃いた気がする。仕事の時間だ、まずは送風機を準備して……と。"
+        },
+        {
+          "language": "英文",
+          "content": "Ah, I'm feeling inspired. Get the blower machine ready, it's time to get down to business."
+        },
+        {
+          "language": "韩文",
+          "content": "흠, 뭔가 영감이 반짝 떠올랐는데… 지금은 업무시간이지, 일단은 송풍기 준비부터 끝내놓자…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "唔，有新的靈感。準備好鼓風機，該幹活了。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看来你也能明白，一名优秀工匠对于军事组织的重要性。"
+        },
+        {
+          "language": "日文",
+          "content": "優秀な職人を軍事組織においておく重要性、ようやく気づいたみたいだな。"
+        },
+        {
+          "language": "英文",
+          "content": "I see that you, too, understand the importance of an excellent craftsperson to a military organization."
+        },
+        {
+          "language": "韩文",
+          "content": "왜 군사 조직에 우수한 장인을 놔둬야 하는지, 드디어 깨달은 것 같네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "看來你也能明白，一名優秀工匠對於軍事組織的重要性。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "维护武器，就是保护生命。你也认同这个观念？看来，我终于找到归宿了。"
+        },
+        {
+          "language": "日文",
+          "content": "武器を整備することは、命を守ることに繋がるんだ。ドクターも同感？よかった。私にもようやく、帰る場所ができたようだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Keeping your weapons in good condition is the best way to keep yourself safe. Ah, you agree with me? I see that I've finally found my soulmate."
+        },
+        {
+          "language": "韩文",
+          "content": "무기를 정비하는 건, 목숨과도 직결되지. 이 부분은 박사도 동감하지? 다행이네, 나한테도 드디어 돌아갈 장소가 생긴 것 같아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "維護武器，就是保護生命。你也認同這個觀念？看來，我終於找到歸宿了。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我希望能......专心工作。"
+        },
+        {
+          "language": "日文",
+          "content": "仕事に……専念させてほしいな。"
+        },
+        {
+          "language": "英文",
+          "content": "I just want to... focus on my work."
+        },
+        {
+          "language": "韩文",
+          "content": "업무에…… 전념하게 해줬으면 좋겠는데."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我希望能......專心工作。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "队长吗......如果需要的话......不过比起指挥人，我还是更擅长设计和制造武器。"
+        },
+        {
+          "language": "日文",
+          "content": "隊長か……どうしてもというのなら……。本当は指揮を執るよりも、武器の設計や製作の方が得意なんだけどな。"
+        },
+        {
+          "language": "英文",
+          "content": "Leader? Well, if I have to... Still, compared to giving orders, I'm much better at designing and manufacturing weapons."
+        },
+        {
+          "language": "韩文",
+          "content": "팀장이라…… 꼭 해야 한다면 별수 없지만…… 사실은 지휘 맡는 것보단 무기 설계나 제작 쪽이 더 익숙해서 말이지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "隊長嗎......如果需要的話......不過比起指揮人，我還是更擅長設計和製造武器。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "就不能让我留下好好工作吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ここに残って仕事をしていてはだめなのか？"
+        },
+        {
+          "language": "英文",
+          "content": "Can't I just stay behind and work?"
+        },
+        {
+          "language": "韩文",
+          "content": "여기 남아서 일하고 있으면 안 되나?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "就不能讓我留下好好工作嗎？"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一群无可救药的家伙......"
+        },
+        {
+          "language": "日文",
+          "content": "どうしようもない連中だ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Hopeless imbeciles..."
+        },
+        {
+          "language": "韩文",
+          "content": "정말 답이 없는 놈들이네……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "一群無可救藥的傢伙......"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哦。"
+        },
+        {
+          "language": "日文",
+          "content": "はい。"
+        },
+        {
+          "language": "英文",
+          "content": "Ah."
+        },
+        {
+          "language": "韩文",
+          "content": "여기야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "哦。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯？"
+        },
+        {
+          "language": "日文",
+          "content": "うん？"
+        },
+        {
+          "language": "英文",
+          "content": "Hmm?"
+        },
+        {
+          "language": "韩文",
+          "content": "응?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯？"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好的......"
+        },
+        {
+          "language": "日文",
+          "content": "わかった……。"
+        },
+        {
+          "language": "英文",
+          "content": "Okay..."
+        },
+        {
+          "language": "韩文",
+          "content": "알았어……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "好的......"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一切正常。"
+        },
+        {
+          "language": "日文",
+          "content": "異常なし。"
+        },
+        {
+          "language": "英文",
+          "content": "Everything's normal."
+        },
+        {
+          "language": "韩文",
+          "content": "이상 없음."
+        },
+        {
+          "language": "繁体中文",
+          "content": "一切正常。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "武装起来。"
+        },
+        {
+          "language": "日文",
+          "content": "武器を取れ！"
+        },
+        {
+          "language": "英文",
+          "content": "Suit up."
+        },
+        {
+          "language": "韩文",
+          "content": "무기를 들어라!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "武裝起來。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "暴怒的烈焰啊！"
+        },
+        {
+          "language": "日文",
+          "content": "怒りの炎よ。"
+        },
+        {
+          "language": "英文",
+          "content": "Raging flames!"
+        },
+        {
+          "language": "韩文",
+          "content": "분노의 불꽃이여."
+        },
+        {
+          "language": "繁体中文",
+          "content": "暴怒的烈焰啊！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不需要治疗。"
+        },
+        {
+          "language": "日文",
+          "content": "治療は不要だ。"
+        },
+        {
+          "language": "英文",
+          "content": "I don't need healing."
+        },
+        {
+          "language": "韩文",
+          "content": "치료는 필요 없어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我不需要治療。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "下一击，就破坏掉你的武器！"
+        },
+        {
+          "language": "日文",
+          "content": "この一撃で、その武器を壊してやる！"
+        },
+        {
+          "language": "英文",
+          "content": "I'll destroy your weapon with my next blow!"
+        },
+        {
+          "language": "韩文",
+          "content": "이 일격으로, 그 장난감 같은 걸 부숴버려 주마!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "下一擊，就破壞掉你的武器！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "捡到敌人的装备就让我看看，我想知道现在他们都在做些什么。"
+        },
+        {
+          "language": "日文",
+          "content": "敵の装備を入手したら、私にも見せてほしい。どんなものを作ってるのか、興味があるんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "If you pick up some enemy equipment, show it to me. Could be useful for future development."
+        },
+        {
+          "language": "韩文",
+          "content": "적의 장비를 입수하게 되면, 내게도 보여줬으면 좋겠어. 어떤 것들을 만들고 있는지, 흥미가 좀 있어서 말이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "撿到敵人的裝備就讓我看看，我想知道現在他們都在做些什麼。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "意料之中的胜利！这就是为什么人需要依靠好的装备。"
+        },
+        {
+          "language": "日文",
+          "content": "予想通りの戦果だ！いい装備の重要性がよく分かる戦いだったな。"
+        },
+        {
+          "language": "英文",
+          "content": "A victory, just as expected! That's why we need high-quality weapons."
+        },
+        {
+          "language": "韩文",
+          "content": "예상대로의 결과야! 좋은 장비의 중요성을 잘 알 수 있는 전투였네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "意料之中的勝利！這就是為什麼人需要依靠好的裝備。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "把各自装备的破损情况提交给我，回去之后我会统一检修。"
+        },
+        {
+          "language": "日文",
+          "content": "各自、装備の破損状況を報告してくれ。基地に戻り次第まとめて修理に取りかかる。"
+        },
+        {
+          "language": "英文",
+          "content": "Please submit a damage report for each of your weapons. I will work on repairs when we get back."
+        },
+        {
+          "language": "韩文",
+          "content": "각자 장비의 파손 상황을 보고해줘. 기지로 돌아가는 대로 한꺼번에 수리할 테니."
+        },
+        {
+          "language": "繁体中文",
+          "content": "把各自裝備的破損情況提交給我，回去之後我會統一檢修。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "是我技艺不精......"
+        },
+        {
+          "language": "日文",
+          "content": "私の腕もまだまだのようだ……。"
+        },
+        {
+          "language": "英文",
+          "content": "My crafting skills are still lacking..."
+        },
+        {
+          "language": "韩文",
+          "content": "내 실력도 아직 멀었나 보네……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "是我技藝不精......"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里有熔炉吗？"
+        },
+        {
+          "language": "日文",
+          "content": "この部屋にフォージは置いてないのか？"
+        },
+        {
+          "language": "英文",
+          "content": "Got a melting pot here?"
+        },
+        {
+          "language": "韩文",
+          "content": "이 방에 용광로는 따로 안 놔뒀나?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這裡有熔爐嗎？"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊啊......"
+        },
+        {
+          "language": "日文",
+          "content": "あ……"
+        },
+        {
+          "language": "英文",
+          "content": "Argh..."
+        },
+        {
+          "language": "韩文",
+          "content": "아……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "啊啊......"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "想要什么好装备了吗？我可以试着帮你做出来。"
+        },
+        {
+          "language": "日文",
+          "content": "何か欲しい装備はあるか？作ってみるよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Any equipment you have in mind? I can try making it for you."
+        },
+        {
+          "language": "韩文",
+          "content": "뭐 원하는 장비 있어? 만들어줄게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "想要什麼好裝備了嗎？我可以試著幫你做出來。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "早安，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "おはよう、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Good morning, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "좋은 아침, 박사."
+        },
+        {
+          "language": "繁体中文",
+          "content": "早安，博士。"
+        }
+      ]
+    }
+  ]
+}

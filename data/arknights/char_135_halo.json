@@ -1,0 +1,939 @@
+{
+  "name": "星源",
+  "charaKey": "char_135_halo",
+  "images": [
+    "https://prts.wiki/images/a/ad/立绘_星源_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/5/5f/立绘_星源_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/6/65/立绘_星源_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_135_halo"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_135_halo"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_135_halo"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_135_halo"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "行，这些我都做过，不会碰到什么困难的。但是有一点我得和你说清楚，博士，可不能大晚上拿着一堆文件让我当晚就出结果哦。"
+        },
+        {
+          "language": "日文",
+          "content": "オッケー、これ全部やったことあるから、問題ないよ！ただ一つだけ先に言っておくけど、ドクター、夜中に書類の山を持ってきて今晩中によろしくとかはなしだからね。"
+        },
+        {
+          "language": "英文",
+          "content": "No problem. I've done all of this before, and I won't have any trouble handling it, but let's be up front, Doctor: If you come to me in the evening with a stack of documents and tell me to sort everything out that night, chances are that you might not get what you want."
+        },
+        {
+          "language": "韩文",
+          "content": "오케이, 전부 해 본 적 있는 것들이니까 특별히 문제는 없을 것 같네. 그래도 이거 한 가지는 말해 두겠는데, 박사. 한밤중에 서류를 잔뜩 들고 와선 오늘 안으로 부탁해 그러는 건 안 된다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "行，這些我都做過，不會碰到什麼困難的。但是有一點我得和你說清楚，博士，可不能大晚上拿著一堆文件讓我當晚就出結果哦。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "做研究其实是件挺麻烦的事，有时候要全身心投入研究工作，有时候又得抽时间分神和别人核对进度汇报情况，基础知识要扎实，人际交往也得熟练，要不是我全都懂一些，脑袋早就炸了。"
+        },
+        {
+          "language": "日文",
+          "content": "研究って本当はまぁまぁ面倒なの。全力で集中しなきゃならない一方で、時間を作って他の人と進捗を報告し合うのも必要。基礎知識はもちろん、人付き合いも上手くなくっちゃダメ。私が多少心得てなかったら、とっくに頭が爆発しちゃってたよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Research is actually kind of a pain. Sometimes, you go all in on your research. Other times, you have to spend time going over progress with somebody else. You need to know your specialty like the back of your hand, and you also need people skills. If I wasn't already decent at both, my head would've exploded a long time ago."
+        },
+        {
+          "language": "韩文",
+          "content": "연구란 사실 꽤 귀찮은 일이야. 어떨 땐 연구에 사력을 다해야만 하고, 또 어떨 땐 시간을 내서 남들과 진척 상황을 공유해야 할 때도 있고 말이지. 기초 지식은 물론 사교성까지 좋아야 한다니. 내가 둘 다 조금은 할 줄 알아서 다행이지, 안 그랬음 진작에 머리가 터지고 말았을 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "做研究其實是件挺麻煩的事，有時候要全身心投入研究工作，有時候又得抽時間分神和別人核對進度彙報情況，基礎知識要扎實，人際交往也得熟練，要不是我全都懂一些，腦袋早就炸了。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "星极姐姐特别擅长我们家那套糊弄人的法子，但她只会用这东西去帮助别人，这年头像她那么纯朴的石头脑袋神棍也不......啊博士，你可别说给别人听，拜托了！不然我会被姐姐弹脑瓜的！"
+        },
+        {
+          "language": "日文",
+          "content": "アステシア姉さんは我が家十八番の子供騙しがとっても得意なの。でも姉さんはそれを人助けにしか使わないんだ。今時あんなピュアな石頭ペテン師はそうそういな……あっ、ドクター、この話は人に言っちゃダメだからね、頼むよ！じゃないと姉さんにでこぴんされちゃうから！"
+        },
+        {
+          "language": "英文",
+          "content": "My sister Astesia is really good at our family's chicanery, but she only ever uses it to help people. To think there would be such a pure, kind-hearted shyster running around... Oh, Doctor, don't tell anyone about this! Please, I'm begging you! If she finds out I told, Astesia will whap me upside the head!"
+        },
+        {
+          "language": "韩文",
+          "content": "아스테시아 언니는 우리 집안 특유의 남들 속이기는 잘하지만, 그 능력을 남들 돕는 데만 쓰고 있어. 요즘 세상에 그렇게 순진한 돌머리 사기꾼은 별로 없…… 헙, 박사. 이건 남들한테 말하지마, 부탁이야! 언니 귀에 들어가면 꿀밤 맞을 거라고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "星極姐姐特別擅長我們家那套糊弄人的法子，但她只會用這東西去幫助別人，這年頭像她那麼純樸的石頭腦袋神棍也不......啊博士，你可別說給別人聽，拜託了！不然我會被姐姐彈額頭的！"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "莱茵？啊啊......不好意思，暂时不想聊这方面的事。要是莱茵生命真的完美无缺，我也不会提出外派到罗德岛嘛，对不对？好啦，休息就到此为止，我们继续工作吧。"
+        },
+        {
+          "language": "日文",
+          "content": "ライン生命？んんん……ごめん、今その話はしたくないんだ。あれが超絶完璧で文句のつけどころがない場所なら、私もロドスに来たいって志願しないでしょ、わかる？さ、休憩は終わり！仕事続けましょ。"
+        },
+        {
+          "language": "英文",
+          "content": "Rhine Lab? Hmm... Sorry, I don't really want to talk about them right now. If that place were really so great, I wouldn't have asked for a transfer to Rhodes Island, right? Okay, break time's over! Back to work!"
+        },
+        {
+          "language": "韩文",
+          "content": "라인 랩? 으음…… 미안, 지금 그 얘기는 하고 싶지 않아. 만약 라인 랩이 정말로 좋기만 한 곳이었다면, 내가 로도스 아일랜드에 파견을 자원할 일도 없었겠지? 자, 휴식 끝! 다시 일하러 가자."
+        },
+        {
+          "language": "繁体中文",
+          "content": "萊茵？啊啊......不好意思，暫時不想聊這方面的事。要是萊茵生命真的完美無缺，我也不會提出外派到羅德島嘛，對不對？好啦，休息就到此為止，我們繼續工作吧。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明明是我得病，结果害得姐姐也，唉......别人看不出来，但她现在其实挺消沉的，一直这样下去也不是个办法，我得帮她一把。"
+        },
+        {
+          "language": "日文",
+          "content": "私が病気になったせいで、姉さんも、はぁ……他の人はわからないだろうけど、本当はすごく落ち込んでるんだよ、姉さん。このままじゃいけないよね、なんとかしなきゃ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm the one who got infected, but then even Astesia... *sigh*... You probably can't tell, but she's actually pretty depressed. Enough is enough, I gotta do something to help her."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 병에 걸렸기 때문에 언니도, 하아...... 남들은 눈치채지 못한 것 같지만, 사실 언니도 엄청 침울해하고 있어. 그렇다고 계속 이대로 있을 순 없지, 언니를 도와줘야겠어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明明是我得病，結果害得姐姐也，唉......別人看不出來，但她現在其實挺消沉的，一直這樣下去也不是個辦法，我得幫她一把。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哥伦比亚的科技日新月异，作为科研人员，我几乎看得到那个值得期待的未来。梦想就在那里，而我，想要实现它。"
+        },
+        {
+          "language": "日文",
+          "content": "クルビアの科学技術は日進月歩だよ。私も科学に携わる者として、期待できちゃいそうな未来が見えるんだ。夢はすぐそこにある。そして私は、それを現実にしたいの。"
+        },
+        {
+          "language": "英文",
+          "content": "Columbia's technology keeps advancing, and as a researcher, I can almost see that future I'm looking for. My dream is right there, and I'm going to make it come true."
+        },
+        {
+          "language": "韩文",
+          "content": "컬럼비아의 과학 기술은 눈부신 속도로 발전하고 있어. 나도 연구자니까, 눈앞에 아른거리는 미래를 기대하기도 해. 꿈이 바로 저 앞에 있어. 그리고 나는, 그걸 현실로 만들고 싶어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "哥倫比亞的科技日新月異，作為科研人員，我幾乎看得到那個值得期待的未來。夢想就在那裡，而我，想要實現它。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们家，怎么说呢，双亲都是那种喜欢使唤人的老古板，他们从不在意你的想法，只是享受掌控你的滋味，头疼的很。所以进了大学以后，我就没回去过，这样他们就没法阻挠我学习喜欢的东西了。"
+        },
+        {
+          "language": "日文",
+          "content": "うちは、なんていうかなぁ、親は人に命令するのが好きで頭の固い人たちなの。子供が何を考えてるかなんて気にもしないで、ただ支配するのが気持ちいいってタイプだから、ほんっとうんざり。だから大学に入ってからは実家に戻ってないんだ。そうすれば私が好きなことを勉強するの邪魔されないでしょ？"
+        },
+        {
+          "language": "英文",
+          "content": "Our family's... well, how should I say this? My parents are the old-fashioned type that like to order people around. They don't care about your opinions, only the joy of being in control. It sucks. That's why I haven't been back home since college. Now they can't stop me from studying the stuff I like."
+        },
+        {
+          "language": "韩文",
+          "content": "우리 집은 뭐랄까, 부모님은 명령하고 남의 위에 서는 일에 익숙한 옛날 사람들이거든. 애들 생각은 신경 쓰지도 않고, 마음대로 좌지우지해야만 만족하는 사람들이라서 정말 지친단 말이지. 그래서 대학에 붙은 뒤로는 집에 돌아간 적이 없어. 밖에 있으면 내가 좋아하는 걸 배우는 데 방해받을 일도 없잖아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我們家，怎麼說呢，雙親都是那種喜歡使喚人的老古板，他們從不在意你的想法，只是享受掌控你的滋味，頭疼的很。所以進了大學以後，我就沒回去過，這樣他們就沒法阻撓我學習喜歡的東西了。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "某些人帮助他人是衷心希望别人能过上更好的生活，而另一些人，只是为了让受助者成为更有用的工具。你知道怎么区分两者吧，博士。其实很简单啦，看看他们的笑容就知道了。"
+        },
+        {
+          "language": "日文",
+          "content": "人助けって、相手がより良い人生を送れるのを心から願ってやってる人もいれば、もっと便利な道具にしたくてやってる人もいるんだよね。ドクター、どうやって見分けるか知ってる？簡単だよ、笑い方を見れば分かっちゃうの。"
+        },
+        {
+          "language": "英文",
+          "content": "There are those who help because they really want people to have a better life, but there are also those who help so they can use people as stepping stones. Doctor, you know how to tell the two apart, don't you? It's easy. You just need to look at the way they smile."
+        },
+        {
+          "language": "韩文",
+          "content": "어떤 이들은 남들이 더욱 나은 삶을 살길 바라며 타인을 돕지만, 또 어떤 이들은 타인을 더욱 쓸 만한 도구로 만들기 위해 돕기도 해. 박사는 그 둘을 어떻게 구별하는지 알아? 간단해, 웃는 모습을 보면 알 수 있어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "某些人幫助他人是衷心希望別人能過上更好的生活，而另一些人，只是為了讓受助者成為更有用的工具。你知道怎麼區分兩者吧，博士。其實很簡單啦，看看他們的笑容就知道了。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "父亲他在城里还挺有名望的，我们姐妹俩的名字又特殊，所以那时候想到要给自己取个新名字来规避些麻烦事来着。博士的话，称呼就随你喜欢吧，毕竟我们是朋友嘛，就别那么见外啦。"
+        },
+        {
+          "language": "日文",
+          "content": "父は街でもまぁまぁ有名で、私たち姉妹の名前も特殊だから、当時は面倒なアレコレを避けるために違う名前を使おうって思ってたんだ。ドクターは好きに呼んでくれていいよ。友達だし、遠慮なんかしなくていいからさ。"
+        },
+        {
+          "language": "英文",
+          "content": "My dad's kinda famous back in the city, and our names are a little peculiar, so I thought I'd give myself a new name to get away from all that trouble. But feel free to call me whatever you want, Doctor. We're friends, don't sweat it."
+        },
+        {
+          "language": "韩文",
+          "content": "아버지가 꽤나 유명한 분이신 데다 우리 자매 이름도 좀 특이한 편이라서, 그땐 이런저런 귀찮은 일들을 피하기 위해서 다른 이름을 쓰자고 생각했었어. 그래도 박사라면 날 원하는 대로 불러도 돼. 우린 친구 사이니까 그렇게 서먹하게 굴 필요 없어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "父親他在城裡還挺有名望的，我們姐妹倆的名字又特殊，所以那時候想到要給自己取個新名字來規避些麻煩事來著。博士的話，稱呼就隨你喜歡吧，畢竟我們是朋友嘛，就別那麼見外啦。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你好，这里是博士办公室，是的，博士在休息，请过一会再打过来。"
+        },
+        {
+          "language": "日文",
+          "content": "はい、ドクターの執務室です。ええ、ドクターは現在お休みになられています。お手数ですが、また後ほどお電話をいただけますか？"
+        },
+        {
+          "language": "英文",
+          "content": "Yes, this is the Doctor's office. Yes, the Doctor is resting right now. Please call back later."
+        },
+        {
+          "language": "韩文",
+          "content": "네, 박사님의 사무실입니다. 음, 박사님께선 지금 휴식 중이세요. 죄송하지만, 잠시 뒤에 다시 연락해 주시겠어요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你好，這裡是博士辦公室，是的，博士在休息，請過一會再打過來。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "莱茵生命，埃琳娜·乌比卡研究员，很高兴认识你。在这里是要用代号互相称呼吧，啊没问题，那就叫我星源好了，简单又好记。"
+        },
+        {
+          "language": "日文",
+          "content": "ライン生命所属、エレナ・ウビカ研究員です。ドクター、お会いできて光栄です。こちらではコードネームを使用するのですよね。ええ、問題ありません。ではアステジーニとお呼びください、簡単で覚えやすいですから。"
+        },
+        {
+          "language": "英文",
+          "content": "Researcher Elena Urbica of Rhine Lab. A pleasure to make your acquaintance. We're supposed to call each other by codenames here, right? No problem. In that case, call me Astgenne. It's simple and easy to remember."
+        },
+        {
+          "language": "韩文",
+          "content": "라인 랩 소속 연구원, 엘레나 우르비카입니다. 만나서 반갑습니다. 여기선 서로를 코드네임으로 불러야 하는 거죠? 네, 문제없어요. 그럼 아스트젠이라고 불러주세요. 간단하면서도 외우기 쉬우니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "萊茵生命，埃琳娜·烏比卡研究員，很高興認識你。在這裡是要用代號互相稱呼吧，啊沒問題，那就叫我星源好了，簡單又好記。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好像是没遇到过的问题，得做个笔记......"
+        },
+        {
+          "language": "日文",
+          "content": "この課題は見たことない気がする、メモっとかなきゃ……"
+        },
+        {
+          "language": "英文",
+          "content": "I don't think I've seen a problem like that before. Gotta take notes..."
+        },
+        {
+          "language": "韩文",
+          "content": "이 문제는 본 적이 없는 것 같네, 메모해 둬야겠어……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "好像是沒遇到過的問題，得做個筆記......"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这枚奖章真好看，我来帮你戴上吧。嗯？为什么帮你戴？这个难道不是你选人有方的奖励吗？"
+        },
+        {
+          "language": "日文",
+          "content": "このメダルすっごく綺麗、つけてあげるね。うん？なんで自分じゃなくてキミにつけるのかって？だってこれ、人を見る目があったキミを称えるご褒美じゃないの？"
+        },
+        {
+          "language": "英文",
+          "content": "What a pretty medal! Let me help you pin it on. Hm? How come you're the one wearing it instead of me? Isn't this commemorating your good eye for people?"
+        },
+        {
+          "language": "韩文",
+          "content": "이 메달 진짜 예쁘다! 내가 달아 줄게. 응? 왜 너한테 다냐고? 이거, 사람 보는 눈이 훌륭한 너한테 주는 상 아니야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這枚獎章真好看，我來幫你戴上吧。嗯？為什麼幫你戴？這個難道不是你選人有方的獎勵嗎？"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一起打破桎梏吧博士，未来正在我们眼前展现！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、枷になるものを私と一緒にぜーんぶぶち壊しちゃお？未来は私たちの前に広がってるよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Let's join together and break the shackles, Doctor! The future is unfolding right before our eyes!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 우리를 옭아매는 사슬은 함께 부숴 버리자. 미래는 우리의 눈앞에 있어!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "一起打破桎梏吧博士，未來正在我們眼前展現！"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "各位好啊。"
+        },
+        {
+          "language": "日文",
+          "content": "みなさんこんにちは～。"
+        },
+        {
+          "language": "英文",
+          "content": "Hello, everybody!"
+        },
+        {
+          "language": "韩文",
+          "content": "안녕하세요, 여러분."
+        },
+        {
+          "language": "繁体中文",
+          "content": "各位好啊。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "稍等一下，我马上就把队长须知看完。"
+        },
+        {
+          "language": "日文",
+          "content": "ちょっと待ってね、隊長の心得を読んじゃうから。"
+        },
+        {
+          "language": "英文",
+          "content": "Hold on a sec. I'll finish reading the team leader's messages in a jiffy."
+        },
+        {
+          "language": "韩文",
+          "content": "잠깐만 기다려 줘, 대장 주의사항을 읽고 올게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "稍等一下，我馬上就把隊長須知看完。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "充能完毕，可以出发了。"
+        },
+        {
+          "language": "日文",
+          "content": "チャージ完了、出撃できるよ。"
+        },
+        {
+          "language": "英文",
+          "content": "All charged up and ready to go."
+        },
+        {
+          "language": "韩文",
+          "content": "충전 완료, 이제 출발해도 돼."
+        },
+        {
+          "language": "繁体中文",
+          "content": "充能完畢，可以出發了。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让你们见识下科技的力量。"
+        },
+        {
+          "language": "日文",
+          "content": "科学の力を見せてあげちゃおう。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll show you the power of technology."
+        },
+        {
+          "language": "韩文",
+          "content": "과학의 힘을 보여 주지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "讓你們見識下科技的力量。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯？"
+        },
+        {
+          "language": "日文",
+          "content": "うん？"
+        },
+        {
+          "language": "英文",
+          "content": "Hmm?"
+        },
+        {
+          "language": "韩文",
+          "content": "으응?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯？"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里可以吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ここ平気？"
+        },
+        {
+          "language": "英文",
+          "content": "How about here?"
+        },
+        {
+          "language": "韩文",
+          "content": "여기면 될까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這裡可以嗎？"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好的。"
+        },
+        {
+          "language": "日文",
+          "content": "オッケー。"
+        },
+        {
+          "language": "英文",
+          "content": "Alright."
+        },
+        {
+          "language": "韩文",
+          "content": "오케이."
+        },
+        {
+          "language": "繁体中文",
+          "content": "好的。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "收到。"
+        },
+        {
+          "language": "日文",
+          "content": "了解。"
+        },
+        {
+          "language": "英文",
+          "content": "Acknowledged."
+        },
+        {
+          "language": "韩文",
+          "content": "확인했어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "收到。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "奇迹可不是从天上掉下来的。"
+        },
+        {
+          "language": "日文",
+          "content": "奇跡は黙って空から降ってくるものじゃないんだよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Miracles don't just drop out of the sky."
+        },
+        {
+          "language": "韩文",
+          "content": "기적은 하늘에서 갑자기 굴러떨어지는 게 아니야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "奇跡可不是從天上掉下來的。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "计算完毕。"
+        },
+        {
+          "language": "日文",
+          "content": "演算完了。"
+        },
+        {
+          "language": "英文",
+          "content": "Computations complete."
+        },
+        {
+          "language": "韩文",
+          "content": "계산 완료."
+        },
+        {
+          "language": "繁体中文",
+          "content": "計算完畢。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我才不会坐以待毙。"
+        },
+        {
+          "language": "日文",
+          "content": "座して死を待つなんてまっぴらごめんよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm not gonna sit here and wait for my demise."
+        },
+        {
+          "language": "韩文",
+          "content": "가만히 앉은 채로 죽기만 기다릴 수 없지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我才不會坐以待斃。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "以我电光，闪耀星空吧！"
+        },
+        {
+          "language": "日文",
+          "content": "我が電光が、星空に煌めく！"
+        },
+        {
+          "language": "英文",
+          "content": "My lightning will illuminate the starry sky!"
+        },
+        {
+          "language": "韩文",
+          "content": "내 불빛으로 밤하늘을 밝히겠어!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "以我電光，閃耀星空吧！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "每个细节都掌握的很好，你在这方面一定是专业人士。"
+        },
+        {
+          "language": "日文",
+          "content": "細かいところまでちゃんとおさえるなんて、キミはきっと指揮の専門家なんだね。"
+        },
+        {
+          "language": "英文",
+          "content": "You had even the finest details under control. You must be a professional."
+        },
+        {
+          "language": "韩文",
+          "content": "모든 디테일을 파악해내다니, 역시 넌 지휘의 전문가구나."
+        },
+        {
+          "language": "繁体中文",
+          "content": "每個細節都掌握的很好，你在這方面一定是專業人士。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我早就觉得不会出什么事的啦。"
+        },
+        {
+          "language": "日文",
+          "content": "ま、問題なんて起きないと思ってたよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I knew everything was going to be okay."
+        },
+        {
+          "language": "韩文",
+          "content": "뭐, 처음부터 아무 일 없을 거라고 생각했어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我早就覺得不會出什麼事的啦。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一切尽在掌握~就是沾了些灰......"
+        },
+        {
+          "language": "日文",
+          "content": "ぜーんぶ手の内だよ～。ちょっとホコリがついちゃったけど……"
+        },
+        {
+          "language": "英文",
+          "content": "Everything's under control~ Just a little scuffed, that's all..."
+        },
+        {
+          "language": "韩文",
+          "content": "전부 예상 대로라고~ 먼지가 조금 묻었지만……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "一切盡在掌握~就是沾了些灰......"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这，我的计算怎么会......"
+        },
+        {
+          "language": "日文",
+          "content": "そんな、私が演算ミスするなんて……"
+        },
+        {
+          "language": "英文",
+          "content": "No way... How could my calculation have...?"
+        },
+        {
+          "language": "韩文",
+          "content": "이럴 수가, 내 계산이 틀리다니……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這，我的計算怎麼會......"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看看这里离工作区域有多远......"
+        },
+        {
+          "language": "日文",
+          "content": "ここから仕事場までどれくらいか確認してこよっと……"
+        },
+        {
+          "language": "英文",
+          "content": "Let's see how far this is from my workstation..."
+        },
+        {
+          "language": "韩文",
+          "content": "여기서 일하는 곳까지 얼마나 걸리는지 확인하고 와야겠다……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "看看這裡離工作區域有多遠......"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呀？！"
+        },
+        {
+          "language": "日文",
+          "content": "きゃっ！？"
+        },
+        {
+          "language": "英文",
+          "content": "Ahh?!"
+        },
+        {
+          "language": "韩文",
+          "content": "꺅?!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "呀？！"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呀博士！能在这儿碰到你也太巧了，一起去买点东西不？"
+        },
+        {
+          "language": "日文",
+          "content": "あっ、ドクター！ここで会うなんて奇遇だね！一緒にお買い物行かない？"
+        },
+        {
+          "language": "英文",
+          "content": "Oh, Doctor! What a coincidence running into you here! Why don't we go shopping together?"
+        },
+        {
+          "language": "韩文",
+          "content": "앗, 박사! 여기서 마주치다니 우연이네. 같이 쇼핑하러 가지 않을래?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "呀博士！能在這兒碰到你也太巧了，一起去買點東西嗎？"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你好博士，需要帮忙吗？"
+        },
+        {
+          "language": "日文",
+          "content": "こんにちはドクター、手伝ってほしいことはある？"
+        },
+        {
+          "language": "英文",
+          "content": "Hello, Doctor. Need a hand?"
+        },
+        {
+          "language": "韩文",
+          "content": "안녕, 박사. 도와줄 거 있어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你好博士，需要幫忙嗎？"
+        }
+      ]
+    }
+  ]
+}

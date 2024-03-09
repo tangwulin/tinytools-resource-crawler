@@ -1,0 +1,830 @@
+{
+  "name": "Castle-3",
+  "charaKey": "char_286_cast3",
+  "images": [
+    "https://prts.wiki/images/9/95/立绘_Castle-3_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/e/e4/立绘_Castle-3_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_286_cast3"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_286_cast3"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_286_cast3"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "感谢您选择Castle-3！很荣幸成为您的助理！"
+        },
+        {
+          "language": "日文",
+          "content": "キャッスル-3をお選びいただきありがとうございます！ドクター様のアシスタントを務めさせていただけるとは、身に余る光栄です！"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you for choosing Castle-3! I am honored to serve as your assistant, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "Castle-3를 선택해주셔서 감사합니다! 박사님의 어시스턴트를 맡게 되어, 대단히 큰 영광으로 생각합니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "感謝您選擇Castle-3！很榮幸成為您的助理！"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请不要被我的外形吓坏，博士。这是我经过可露希尔主人改造的坚固金属外壳，可为您在战场以一敌百。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター様、どうか私の外観に驚かないでください。こちらはマスタークロージャの改造により施された金属フレームなのです。戦場での活躍は保証致します！"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, please do not be intimidated by my appearance. My sturdy metal shell, modified by Master Closure herself, will make you invincible on the battlefield."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 부디 저의 외관에 놀라지 말아 주십시오. 지금 보시는 제 외관은 마스터 클로저의 개조에 의해 만들어진 금속 프레임으로 이뤄져 있습니다. 전장에선 틀림없이 큰 도움이 될 것입니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "請不要被我的外形嚇壞，博士。這是我經過可露希爾改造的堅固金屬外殼，可為您在戰場以一敵百。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "注意，请不要用力拍打本设备，否则将会造成本设备损坏。"
+        },
+        {
+          "language": "日文",
+          "content": "警告、本体への過度な打撃は破損の原因となりますので、おやめください。"
+        },
+        {
+          "language": "英文",
+          "content": "Warning: be careful not to strike my case too hard. It may damage me."
+        },
+        {
+          "language": "韩文",
+          "content": "경고, 본체에의 과도한 타격은 파손의 원인이 되므로, 삼가 주십시오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "注意，請不要用力拍打本設備，否則將會造成本設備損壞。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "野外的地形多变，但是Castle-3配备了性能卓越的引擎，采用四轮驱动方案，将会在任何时候载您离开困境！"
+        },
+        {
+          "language": "日文",
+          "content": "足場の悪いエリアのお供に、キャッスル-3はいかがでしょうか。高出力のエンジンに四輪駆動を採用した足回りで、如何なる時でもあなたを窮地から救い出します！"
+        },
+        {
+          "language": "英文",
+          "content": "The topography in the wild may be treacherous, but Castle-3 is fitted with an engine with outstanding performance and a 4WD mode, to whisk you away from danger."
+        },
+        {
+          "language": "韩文",
+          "content": "걸어가기 어려운 지역의 동반자로 Castle-3는 어떠십니까. 고출력 엔진에 사륜구동을 채용한 이동으로, 언제든지 당신을 궁지에서 구해 드리겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "野外的地形多變，但是Castle-3配備了性能卓越的引擎，採用四輪驅動方案，將會在任何時候載您離開困境！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，当你遇到危险请一定找Castle-3！Castle-3为专业作战而生，是您最佳的安全方案。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター様、身の危険を感じたらすぐにこのキャッスル-3をお呼びください！戦闘用に造られた私こそが、戦場の安心を守る最高の選択なのです。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, if your life is ever in danger, just summon Castle-3! Castle-3 was created specifically for combat purposes. I am a top-class defensive warfighting robot."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 신변의 위협을 느끼시게 되면, 바로 이, Castle-3를 불러주십시오! 전투용으로 만들어진 저야말로, 전장에서 안전을 지켜드리는 최고의 선택이 될 겁니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，當你遇到危險請一定找Castle-3！Castle-3為專業作戰而生，是您最佳的安全方案。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "和您在一起Castle-3感到非常愉快，博士您如果有任何目标需要打击，Castle-3赴汤蹈火在所不辞！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター様にご一緒させていただけて喜ばしい限りです。攻撃目標があるならば、それが火の海であってもこのキャッスル-3が出向いてまいりますよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Castle-3 is honored to be at your side. Doctor, should you require me to strike down your foes, I shall go through heaven and hell to see it done!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님과 함께할 수 있다니, 더할 나위 없이 기쁩니다. 공격 목표가 있다면, 그곳이 불바다라고 해도, Castle-3는 나아갈 것입니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "和您在一起Castle-3感到非常愉快，博士您如果有任何目標需要打擊，Castle-3赴湯蹈火在所不辭！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "虽然Castle-3我的管理者是“可露希尔主人”，不过更多时候您对Castle-3来说更加重要，请相信Castle-3是您身边最贴心的作战伙伴！"
+        },
+        {
+          "language": "日文",
+          "content": "私キャッスル-3の管理者は「マスタークロージャ」ですが、ほとんどの場合においてドクター様のことを最優先に行動させていただいております。キャッスル-3こそ最も頼れる相棒だと、どうか信じてください！"
+        },
+        {
+          "language": "英文",
+          "content": "Castle-3's official manager is 'Master Closure,'but please understand that you are even more important to Castle-3 than Master is, in most cases. I am your devoted, trustworthy battle companion!"
+        },
+        {
+          "language": "韩文",
+          "content": "저, Castle-3의 관리자는 '마스터 클로저'입니다만, 대부분의 경우에 있어서는 박사님을 최우선으로 행동하고 있습니다. 부디, Castle-3야 말로 가장 믿을 수 있는 파트너라고 믿어주십시오!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "雖然Castle-3我的管理者是“可露希爾主人”，不過更多時候您對Castle-3來說更加重要，請相信Castle-3是您身邊最貼心的作戰夥伴！"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "进入休眠模式。按任意键以唤醒。"
+        },
+        {
+          "language": "日文",
+          "content": "スリープモードに入ります。復帰する場合は任意のキーを操作してください。"
+        },
+        {
+          "language": "英文",
+          "content": "Entering sleep mode. Press any button to wake."
+        },
+        {
+          "language": "韩文",
+          "content": "수면 모드로 전환됩니다. 복귀하실 때는 임의의 키를 눌러주십시오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "進入休眠模式。按任意鍵以喚醒。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您好，博士，欢迎使用Castle-3！请点击任意位置以开始初始化首选项。"
+        },
+        {
+          "language": "日文",
+          "content": "こんにちは、ドクター様。キャッスル-3のスタートアップへようこそ。任意の位置をクリックし、初期設定を完了してください。"
+        },
+        {
+          "language": "英文",
+          "content": "Hello, Doctor. Thank you for choosing Castle-3. Tap anywhere to initialize startup options."
+        },
+        {
+          "language": "韩文",
+          "content": "안녕하십니까 박사님. Castle-3의 스타트업에 오신 것을 환영합니다. 임의의 위치를 클릭하여, 초기 설정을 완료하여 주십시오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "您好，博士，歡迎使用Castle-3！請點擊任意位置以開始初始化介面。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "固件升级完成，请重新启动设备。请点击任意位置以重启动您可靠的近卫机器人！"
+        },
+        {
+          "language": "日文",
+          "content": "ファームウェアのアップデートが完了しました、本体の再起動が必要です。任意の位置をクリックし、あなた様の頼もしい相棒を再起動してください！"
+        },
+        {
+          "language": "英文",
+          "content": "Firmware upgrade complete. Restart required. Please click anywhere to restart."
+        },
+        {
+          "language": "韩文",
+          "content": "펌웨어 업데이트가 완료되었습니다. 본체를 재기동해야 합니다. 아무 곳이나 터치하여, 당신의 믿음직한 파트너를 재기동하여 주십시오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "固件升級完成，請重新開機設備。請點擊任意位置以重新啟動您可靠的近衛機器人！"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "设备检查完毕，通信正常。Castle-3已就绪，随时等待您的命令。"
+        },
+        {
+          "language": "日文",
+          "content": "デバイススキャン完了、通信機能正常。キャッスル-3、スタンバイ。いつでもご指示をお待ちしております。"
+        },
+        {
+          "language": "英文",
+          "content": "Device scan complete. All communications working as normal. Castle-3 is on standby, awaiting your orders."
+        },
+        {
+          "language": "韩文",
+          "content": "디바이스 스캔 완료. 통신 기능 정상. Castle-3, 스탠바이. 언제든지 지시하여 주십시오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "設備檢查完畢，通信正常。Castle-3已就緒，隨時等待您的命令。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "了解，Castle-3是您带领队伍冲锋陷阵的理想之选！"
+        },
+        {
+          "language": "日文",
+          "content": "了解です。キャッスル-3をお選びいただけるとはお目が高い！ドクター様の部隊に理想的な勝利をもたらしてみせましょう！"
+        },
+        {
+          "language": "英文",
+          "content": "Understood. Castle-3 is your best choice, Doctor, to lead a squad against enemy formations!"
+        },
+        {
+          "language": "韩文",
+          "content": "알겠습니다. Castle-3를 선택하여 주시다니, 안목이 높으시군요! 박사님의 팀에, 이상적인 승리를 가져다드리겠습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "瞭解，Castle-3是您帶領隊伍衝鋒陷陣的理想之選！"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "接下来，Castle-3要展现下工业级作战平台的实力了！"
+        },
+        {
+          "language": "日文",
+          "content": "これより、キャッスル-3の戦闘マシーンとしての実力をお見せしましょう！"
+        },
+        {
+          "language": "英文",
+          "content": "Next, Castle-3 will show you its true power as an industrial battle platform!"
+        },
+        {
+          "language": "韩文",
+          "content": "지금부터, Castle-3의 전투 머신으로써의 실력을 보여 드리도록 하겠습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "接下來，Castle-3要展現下工業級作戰平台的實力了！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "目击敌方单位，准备攻击！"
+        },
+        {
+          "language": "日文",
+          "content": "敵対ユニットを確認、攻撃準備！"
+        },
+        {
+          "language": "英文",
+          "content": "Enemy unit located. Ready for attack."
+        },
+        {
+          "language": "韩文",
+          "content": "적대 유닛을 확인, 공격 준비!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "目擊敵方單位，準備攻擊！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "Castle-3，等候您的命令。"
+        },
+        {
+          "language": "日文",
+          "content": "キャッスル-3、ご命令をお待ちしています。"
+        },
+        {
+          "language": "英文",
+          "content": "Castle-3, awaiting orders."
+        },
+        {
+          "language": "韩文",
+          "content": "Castle-3, 명령을 기다리고 있습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "Castle-3，等候您的命令。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "Castle-3已就绪。"
+        },
+        {
+          "language": "日文",
+          "content": "キャッスル-3、準備が完了しました。"
+        },
+        {
+          "language": "英文",
+          "content": "Castle-3, ready and waiting."
+        },
+        {
+          "language": "韩文",
+          "content": "Castle-3, 준비를 완료하였습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "Castle-3已就緒。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "遵命！"
+        },
+        {
+          "language": "日文",
+          "content": "任務了解！"
+        },
+        {
+          "language": "英文",
+          "content": "Order received."
+        },
+        {
+          "language": "韩文",
+          "content": "임무 준비 완료!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "遵命！"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "收到！"
+        },
+        {
+          "language": "日文",
+          "content": "了解いたしました！"
+        },
+        {
+          "language": "英文",
+          "content": "Understood."
+        },
+        {
+          "language": "韩文",
+          "content": "알겠습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "收到！"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "放马过来吧！"
+        },
+        {
+          "language": "日文",
+          "content": "かかってきてください！"
+        },
+        {
+          "language": "英文",
+          "content": "Show me what you've got!"
+        },
+        {
+          "language": "韩文",
+          "content": "덤벼보시죠!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "放馬過來吧！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别妄想能靠近一步，你们这些恶徒！"
+        },
+        {
+          "language": "日文",
+          "content": "敵の皆さん、それ以上近づけるとでも思いましたか！"
+        },
+        {
+          "language": "英文",
+          "content": "Enemies, you are forbidden to advance."
+        },
+        {
+          "language": "韩文",
+          "content": "적 여러분, 더 다가올 수 있으리라 생각하셨습니까!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "別妄想能靠近一步，你們這些惡徒！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "细数你的罪恶吧！"
+        },
+        {
+          "language": "日文",
+          "content": "あなたの罪を数えなさい！"
+        },
+        {
+          "language": "英文",
+          "content": "Count up your sins!"
+        },
+        {
+          "language": "韩文",
+          "content": "당신의 죄를 헤아려보십시오!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "細數你的罪惡吧！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士啊，那个对手值得一战！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター様、戦うだけの価値がある敵のようですよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, that was at last a worthy opponent!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 싸울 가치가 있는 적인 것 같습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士啊，那個對手值得一戰！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "干得好博士！选择Castle-3，您在正义之路上的绝佳伙伴！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター様、よくやりました！キャッスル-3は正義の道の伴侶に最適の選択ですよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Well done, Doctor. Castle-3 is your best choice on the path of justice!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 잘하셨습니다! Castle-3는 정의의 길의 동반자로서 최적의 선택입니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "幹得好博士！選擇Castle-3，您在正義之路上的絕佳夥伴！"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真是一场精彩的战斗，下一次再一起并肩作战吧！"
+        },
+        {
+          "language": "日文",
+          "content": "素晴らしい戦闘でした、次の作戦もまた肩を並べて戦えることを願っております！"
+        },
+        {
+          "language": "英文",
+          "content": "What an exciting battle! Let's fight together again next time."
+        },
+        {
+          "language": "韩文",
+          "content": "훌륭한 전투였습니다, 다음 작전도 또 함께 싸울 수 있기를 바랍니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "真是一場精彩的戰鬥，下一次再一起並肩作戰吧！"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大家都没事吧？希望Castle-3的表现令大家满意。"
+        },
+        {
+          "language": "日文",
+          "content": "皆さま、ご無事ですか？キャッスル-3の働きはご満足いただけましたか。"
+        },
+        {
+          "language": "英文",
+          "content": "Is everyone all right? I hope Castle-3's performance has exceeded your expectations."
+        },
+        {
+          "language": "韩文",
+          "content": "여러분, 무사하십니까? Castle-3의 처리는 만족스러우셨습니까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "大家都沒事吧？希望Castle-3的表現令大家滿意。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我来断后，大家请赶紧撤退！"
+        },
+        {
+          "language": "日文",
+          "content": "私が囮になります、皆さまは迅速に撤退を！"
+        },
+        {
+          "language": "英文",
+          "content": "I will hold up the rear. Everyone, retreat!"
+        },
+        {
+          "language": "韩文",
+          "content": "제가 미끼가 되겠습니다. 여러분께선 신속히 철수하여 주십시오!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我來斷後，大家請趕緊撤退！"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有什么Castle-3能够帮忙的吗？"
+        },
+        {
+          "language": "日文",
+          "content": "何かキャッスル-3にお手伝いできることはありますか？"
+        },
+        {
+          "language": "英文",
+          "content": "Is there anything Castle-3 can help with?"
+        },
+        {
+          "language": "韩文",
+          "content": "뭔가 Castle-3가 도와드릴 수 있는 건 없으신가요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "有什麼Castle-3能夠幫忙的嗎？"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请小心轻放，博士！"
+        },
+        {
+          "language": "日文",
+          "content": "取り扱い注意です、ドクター様！"
+        },
+        {
+          "language": "英文",
+          "content": "Please be gentle, Doctor!"
+        },
+        {
+          "language": "韩文",
+          "content": "취급에 주의하여 주십시오, 박사님!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "請小心輕放，博士！"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，要一起喝一杯吗？虽然我不能喝，不过我能请您。别担心，最后也是可露希尔主人付帐。"
+        },
+        {
+          "language": "日文",
+          "content": "一杯どうですか、ドクター様？私は飲めませんが、ごちそう致します。ご心配なさらず、請求はマスタークロージャへ行きますので。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, would you like to grab a drink together? I might not be able to actually have a drink, but I can still treat you to one. It is fine, Master Closure will pay."
+        },
+        {
+          "language": "韩文",
+          "content": "한잔 어떠십니까 박사님? 저는 마실 수 없습니다만, 한잔 사도록 하겠습니다. 걱정하지 마십시오, 비용 청구는 마스터 클로저 앞으로 진행되니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，要一起喝一杯嗎？雖然我不能喝，不過我能請您。別擔心，最後也是可露希爾主人付帳。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "今天天气不错啊，博士！"
+        },
+        {
+          "language": "日文",
+          "content": "今日はいいお天気ですね、ドクター様！"
+        },
+        {
+          "language": "英文",
+          "content": "Lovely weather today, Doctor!"
+        },
+        {
+          "language": "韩文",
+          "content": "오늘은 날씨가 좋군요, 박사님!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "今天天氣不錯啊，博士！"
+        }
+      ]
+    }
+  ]
+}

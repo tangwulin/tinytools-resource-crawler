@@ -1,0 +1,939 @@
+{
+  "name": "红",
+  "charaKey": "char_144_red",
+  "images": [
+    "https://prts.wiki/images/c/c4/立绘_红_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/a/ab/立绘_红_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/d/d5/立绘_红_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_144_red"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_144_red"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_144_red"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_144_red"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里......有危险的气味。"
+        },
+        {
+          "language": "日文",
+          "content": "ここは危険な匂いが……する。"
+        },
+        {
+          "language": "英文",
+          "content": "This place smells… dangerous."
+        },
+        {
+          "language": "韩文",
+          "content": "여기는… 위험한 냄새가… 난다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這裡......有危險的氣味。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "红要单独行动。"
+        },
+        {
+          "language": "日文",
+          "content": "レッドは、全部、自分でやる。"
+        },
+        {
+          "language": "英文",
+          "content": "I prefer to work alone, by myself."
+        },
+        {
+          "language": "韩文",
+          "content": "레드는, 전부, 스스로 한다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "紅要單獨行動。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "名字，报酬，杀掉。很简单。凯尔希与红是这么约定的。"
+        },
+        {
+          "language": "日文",
+          "content": "名前、報酬、殺す。どれも簡単。ケルシーとの約束。"
+        },
+        {
+          "language": "英文",
+          "content": "Name, bounty, kill. Simple. That's the agreement with Kal'tsit."
+        },
+        {
+          "language": "韩文",
+          "content": "이름, 보수, 죽인다. 다 간단하다. 켈시와의 약속."
+        },
+        {
+          "language": "繁体中文",
+          "content": "名字，報酬，殺掉。很簡單。凱爾希與紅是這麼約定的。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "狼有牙齿，红有刀。狼不会休息，所以红也不能。"
+        },
+        {
+          "language": "日文",
+          "content": "オオカミには牙。レッドにはナイフ。オオカミは休まない。だからレッドも休まない。"
+        },
+        {
+          "language": "英文",
+          "content": "Wolves have fangs, I have my blade. Wolves do not rest, neither do I."
+        },
+        {
+          "language": "韩文",
+          "content": "늑대에겐 송곳니. 레드에겐 나이프. 늑대는 쉬지 않아. 그러니까 레드도 쉬지 않아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "狼有牙齒，紅有刀。狼不會休息，所以紅也不能。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“外婆”在呼唤......红能听见。"
+        },
+        {
+          "language": "日文",
+          "content": "聞こえる……オバアサンが呼んでる……。"
+        },
+        {
+          "language": "英文",
+          "content": "Granny's calling... I can hear her."
+        },
+        {
+          "language": "韩文",
+          "content": "들려… 할머니가 부르고 있어…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“外婆”在呼喚......紅能聽見。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......荒野的风，尘土里的残骸，群星下的嚎叫......红闻到了。那是狼的气味。红，加入狩猎。"
+        },
+        {
+          "language": "日文",
+          "content": "……荒野の風、土に埋もれた残骸、星空を震わせる遠吠え……匂いだ。オオカミの匂い。レッド、ハンティング開始。"
+        },
+        {
+          "language": "英文",
+          "content": "Bleak wind, corpses on the ground, screams under the stars... I smell them all, the scent of wolves. I join the hunt."
+        },
+        {
+          "language": "韩文",
+          "content": "…황야의 바람, 흙에 묻힌 잔해, 밤하늘을 울리는 포효… 냄새다. 늑대 냄새. 레드, 사냥 개시."
+        },
+        {
+          "language": "繁体中文",
+          "content": "......荒野的風，塵土裡的殘骸，群星下的嚎叫......紅聞到了。那是狼的氣味。紅，加入狩獵。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "家人？红没有家人。红一开始就是孤身一人。博士是......需要家人吗？"
+        },
+        {
+          "language": "日文",
+          "content": "家族？レッドに家族はない。最初から一人。ドクターは……家族が欲しいのか？"
+        },
+        {
+          "language": "英文",
+          "content": "Family? I have no family. I am always alone. Do you need a family, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "가족? 레드는 가족이 없어. 처음부터 혼자. 박사는… 가족이 필요한가?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "家人？紅沒有家人。紅一開始就是孤身一人。博士是......需要家人嗎？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "她们都躲着红。红其实只是想......摸摸她们的尾巴。普罗旺斯的，德克萨斯的......红在她们身上，能闻到红喜欢的味道。"
+        },
+        {
+          "language": "日文",
+          "content": "みんな、レッドを避ける。レッドはただ、みんなのしっぽ、触ってみたかっただけ……。プロヴァンス、テキサス……彼女たち、レッドの好きな匂い……する。"
+        },
+        {
+          "language": "英文",
+          "content": "They avoid me... I just want to touch their tails. Provence, and Texas... I like their scent."
+        },
+        {
+          "language": "韩文",
+          "content": "모두, 레드를 피한다. 레드는 그냥, 모두의 꼬리, 만지고 싶었을 뿐… 프로방스랑, 텍사스… 그 여자들, 레드가 좋아하는 냄새… 난다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "她們都躲著紅。紅其實只是想......摸摸她們的尾巴。普羅旺斯的，德克薩斯的......紅在她們身上，能聞到紅喜歡的味道。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，红也想过......如果红不是猎狼人，会不会也能有不一样的生活？这个问题要红......自己回答？唔。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、教えて……。もしウルフハンターじゃなければ、レッドは、違う人生を過ごせたか？……答えは、自分の中にある？そう……か。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, sometimes I wonder... if I weren't a wolf hunter, would my life be different? Oh, you mean… I should answer the question... myself?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 알려줘… 만약 울프 헌터가 아니라면, 레드는, 다른 인생을 살았을까? …답은, 내 안에… 있다고? 그런… 가."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，紅也想過......如果紅不是獵狼人，會不會也能有不一樣的生活？這個問題要紅......自己回答？唔。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士。不，只是觉得你睡着了。现在，还不能睡。"
+        },
+        {
+          "language": "日文",
+          "content": "……ドクター。……いや、なんでもない。寝てると思った。今はまだ、寝てはダメ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor... no, nothing. I thought you fell asleep. Don't sleep, not now."
+        },
+        {
+          "language": "韩文",
+          "content": "…박사… 아니, 아무것도 아니다. 자는 줄 알았다. 지금은 아직, 자면 안 돼."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士。不，只是覺得你睡著了。現在，還不能睡。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "猎狼人，红，闻到了狼的气息。"
+        },
+        {
+          "language": "日文",
+          "content": "レッド。ウルフハンター。ここも、オオカミの匂いがする。"
+        },
+        {
+          "language": "英文",
+          "content": "Projekt Red, wolf hunter, smells wolves."
+        },
+        {
+          "language": "韩文",
+          "content": "레드. 울프 헌터. 여기도, 늑대 냄새가 난다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "獵狼人，紅，聞到了狼的氣息。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "只要对狩猎有利。"
+        },
+        {
+          "language": "日文",
+          "content": "ハンティングに、役立つなら。"
+        },
+        {
+          "language": "英文",
+          "content": "As long as it helps me hunt."
+        },
+        {
+          "language": "韩文",
+          "content": "사냥에, 도움이 된다면야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "只要對狩獵有利。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "无所谓。"
+        },
+        {
+          "language": "日文",
+          "content": "別に、いい。"
+        },
+        {
+          "language": "英文",
+          "content": "As you like it."
+        },
+        {
+          "language": "韩文",
+          "content": "별로, 상관없어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "無所謂。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "伪装？荣誉可以伪装自己，红能接受。"
+        },
+        {
+          "language": "日文",
+          "content": "肩書も、迷彩代わりになるから、もらう。"
+        },
+        {
+          "language": "英文",
+          "content": "A promotion? This will disguise me. I accept."
+        },
+        {
+          "language": "韩文",
+          "content": "직함도, 위장처럼 쓸 수 있으니까, 받겠다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "偽裝？榮譽可以偽裝自己，紅能接受。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "成功混进来了。"
+        },
+        {
+          "language": "日文",
+          "content": "潜入、成功。"
+        },
+        {
+          "language": "英文",
+          "content": "Infiltration successful."
+        },
+        {
+          "language": "韩文",
+          "content": "잠입, 성공."
+        },
+        {
+          "language": "繁体中文",
+          "content": "成功混進來了。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "红该做什么？"
+        },
+        {
+          "language": "日文",
+          "content": "レッドは、何をすればいい？"
+        },
+        {
+          "language": "英文",
+          "content": "What should I do?"
+        },
+        {
+          "language": "韩文",
+          "content": "레드는, 뭘 하면 되지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "紅該做什麼？"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "狩猎，开始。"
+        },
+        {
+          "language": "日文",
+          "content": "ハンティング、始める。"
+        },
+        {
+          "language": "英文",
+          "content": "The hunt begins."
+        },
+        {
+          "language": "韩文",
+          "content": "사냥, 시작한다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "狩獵，開始。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "气味，很浓烈。"
+        },
+        {
+          "language": "日文",
+          "content": "匂いが、強い。"
+        },
+        {
+          "language": "英文",
+          "content": "The scent... it's thick."
+        },
+        {
+          "language": "韩文",
+          "content": "냄새가, 강해."
+        },
+        {
+          "language": "繁体中文",
+          "content": "氣味，很濃烈。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "快。"
+        },
+        {
+          "language": "日文",
+          "content": "早く。"
+        },
+        {
+          "language": "英文",
+          "content": "Hurry up."
+        },
+        {
+          "language": "韩文",
+          "content": "서둘러."
+        },
+        {
+          "language": "繁体中文",
+          "content": "快。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "简单明了。"
+        },
+        {
+          "language": "日文",
+          "content": "簡単だ。"
+        },
+        {
+          "language": "英文",
+          "content": "Simple and clear."
+        },
+        {
+          "language": "韩文",
+          "content": "간단하다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "簡單明瞭。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "速度。"
+        },
+        {
+          "language": "日文",
+          "content": "速さで、いく。"
+        },
+        {
+          "language": "英文",
+          "content": "Speed."
+        },
+        {
+          "language": "韩文",
+          "content": "빠르게, 간다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "速度。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "技巧。"
+        },
+        {
+          "language": "日文",
+          "content": "技で、いく。"
+        },
+        {
+          "language": "英文",
+          "content": "Skill."
+        },
+        {
+          "language": "韩文",
+          "content": "기술로, 간다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "技巧。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "从阴影中......！"
+        },
+        {
+          "language": "日文",
+          "content": "影から！"
+        },
+        {
+          "language": "英文",
+          "content": "From shadows!"
+        },
+        {
+          "language": "韩文",
+          "content": "그림자로부터!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "從陰影中......！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "搅乱他们。"
+        },
+        {
+          "language": "日文",
+          "content": "かき乱す。"
+        },
+        {
+          "language": "英文",
+          "content": "Distract them."
+        },
+        {
+          "language": "韩文",
+          "content": "교란한다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "攪亂他們。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你无路可退。"
+        },
+        {
+          "language": "日文",
+          "content": "もう逃げ場、ない。"
+        },
+        {
+          "language": "英文",
+          "content": "No way out, for you."
+        },
+        {
+          "language": "韩文",
+          "content": "도망칠 곳은, 없다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你無路可退。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "红的眼中——倒映出你的死。"
+        },
+        {
+          "language": "日文",
+          "content": "この目に――おまえの死を映す。"
+        },
+        {
+          "language": "英文",
+          "content": "Your death... is in my eyes."
+        },
+        {
+          "language": "韩文",
+          "content": "내 눈에… 너의 죽음이 비친다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "紅的眼中——倒映出你的死。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "全灭。"
+        },
+        {
+          "language": "日文",
+          "content": "全部、狩った。"
+        },
+        {
+          "language": "英文",
+          "content": "Targets, all down"
+        },
+        {
+          "language": "韩文",
+          "content": "전부, 사냥했다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "全滅。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "猎物的下场，只有一种。"
+        },
+        {
+          "language": "日文",
+          "content": "獲物の末路、いつも同じ。"
+        },
+        {
+          "language": "英文",
+          "content": "The one way a hunt can end."
+        },
+        {
+          "language": "韩文",
+          "content": "먹잇감의 최후, 언제나 똑같다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "獵物的下場，只有一種。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "收获......不够丰富。"
+        },
+        {
+          "language": "日文",
+          "content": "獲物が……足りない。"
+        },
+        {
+          "language": "英文",
+          "content": "This kill... too small."
+        },
+        {
+          "language": "韩文",
+          "content": "사냥감이… 부족하다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "收獲......不夠豐富。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......红的刀......还不够锋利......"
+        },
+        {
+          "language": "日文",
+          "content": "……このナイフ……まだ鋭さ、足りなかった……。"
+        },
+        {
+          "language": "英文",
+          "content": "Sorry... My blade... not sharp enough."
+        },
+        {
+          "language": "韩文",
+          "content": "…이 나이프… 아직 예리함이, 부족했다…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "......紅的刀......還不夠鋒利......"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "红，不太习惯室内，不过，也不讨厌。"
+        },
+        {
+          "language": "日文",
+          "content": "レッド、部屋の中は、慣れていない。でも、嫌ではない……。"
+        },
+        {
+          "language": "英文",
+          "content": "I prefer to be outside. But… it's okay."
+        },
+        {
+          "language": "韩文",
+          "content": "레드, 방 안은, 익숙지 않다. 하지만, 싫진 않아…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "紅，不太習慣室內，不過，也不討厭。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "当心手，别被红刮伤了。"
+        },
+        {
+          "language": "日文",
+          "content": "レッドに触ると手、怪我する。気をつけて。"
+        },
+        {
+          "language": "英文",
+          "content": "Watch your hand. I might cut you."
+        },
+        {
+          "language": "韩文",
+          "content": "레드, 만지면, 손 다친다. 조심해라."
+        },
+        {
+          "language": "繁体中文",
+          "content": "當心手，別被紅刮傷了。"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "咻......呼......"
+        },
+        {
+          "language": "日文",
+          "content": "すぅ……ふぅ……"
+        },
+        {
+          "language": "英文",
+          "content": "*sleepy noises*"
+        },
+        {
+          "language": "韩文",
+          "content": "쿠울… 쿠울… 흠냐암…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "咻......呼......"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，累了吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、疲れた？"
+        },
+        {
+          "language": "英文",
+          "content": "Tired, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 피곤한가?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，累了嗎？"
+        }
+      ]
+    }
+  ]
+}

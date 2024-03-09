@@ -1,0 +1,939 @@
+{
+  "name": "深海色",
+  "charaKey": "char_110_deepcl",
+  "images": [
+    "https://prts.wiki/images/5/52/立绘_深海色_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/7/7c/立绘_深海色_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/d/df/立绘_深海色_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_110_deepcl"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_110_deepcl"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_110_deepcl"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_110_deepcl"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "早安，博士。我可以画一幅您的肖像画吗？啊，我会注意不让它实体化的。而且，也不是什么都能实体化的啦。"
+        },
+        {
+          "language": "日文",
+          "content": "おはよ、ドクター。ドクターの似顔絵、描いてもいい？あ、今度は実体化しないように気をつけるから。…ていうか、何でも実体化できるってわけじゃないよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Good morning, Doctor. Can I paint a portrait of you? And don't worry, I'll try not to... bring it to life. Besides, it's not like I can bring everything to life, you know."
+        },
+        {
+          "language": "韩文",
+          "content": "안녕, 박사. 박사 초상화 좀 그려도 돼? 아, 이번엔 실체화시키는 일 없도록 조심할게. 아니 애초에 실체화란 게, 뭐든 다 실체화할 수 있는 그런 게 아니라고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "早安，博士。我可以畫一幅您的肖像畫嗎？啊，我會注意不讓它實體化的。而且，也不是什麼都能實體化的啦。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我出现在这里，似乎有些唐突吧..."
+        },
+        {
+          "language": "日文",
+          "content": "アタシがここにいるのって、変かな…。"
+        },
+        {
+          "language": "英文",
+          "content": "Maybe I wasn't supposed to appear here?…"
+        },
+        {
+          "language": "韩文",
+          "content": "내가 여기에 있는 거 말야, 이상해…?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我出現在這裡，似乎有些唐突吧..."
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我的瞳孔里倒映着的你，到底是什么颜色呢。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、アタシの目に映るアンタは、どんな色してると思う？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor... what color are you, reflected in my eyes?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 내 눈에 비친 당신은 어떤 색을 하고 있을 것 같아?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，我的瞳孔裡倒映著的你，到底是什麼顏色呢。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛有很多有趣的创作素材啊，灵感，渐渐涌出来了呢。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスって、面白い題材がいっぱいで、アイデアがどんどん湧いてくるんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "There are lots of fun, creative things here at Rhodes Island. I'm feeling inspired…"
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드엔 재밌는 소재가 많아서 아이디어가 마구 샘솟는다니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "羅德島有很多有趣的創作素材啊，靈感，漸漸湧出來了呢。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看到我可爱的“助手”们了吗？你觉得它们有点可怕？明明很可爱的！"
+        },
+        {
+          "language": "日文",
+          "content": "アタシのこの可愛い【アシ】さんたちを見た？…え、怖い？可愛いの間違いでしょー？"
+        },
+        {
+          "language": "英文",
+          "content": "See my lovely 'assistants'? Hehe… What? You think they're scary? But, but they're so cute!"
+        },
+        {
+          "language": "韩文",
+          "content": "여기 있는 이 귀여운 '조수'들, 전에 본 적 있지? …뭐, 무섭다고? 왜 이렇게 귀여운데?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "看到我可愛的“助手”們了嗎？你覺得它們有點可怕？明明很可愛的！"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呵呵，这就是你的颜色吗——凝视我吧，让我染上更多属于你的颜色。"
+        },
+        {
+          "language": "日文",
+          "content": "フフ、これがアンタの色…ならアタシのことをちゃんと見て。もっとその色に染め上げてよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Heh, so these are the colors of your soul…? Alright then, look at me. And paint me in those colors, your colors."
+        },
+        {
+          "language": "韩文",
+          "content": "후훗, 이게 당신의 색인가 보네… 그럼 날 똑바로 바라봐. 좀 더 당신의 색으로 물들여 줘."
+        },
+        {
+          "language": "繁体中文",
+          "content": "呵呵，這就是你的顏色嗎——凝視我吧，讓我染上更多屬於你的顏色。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯，没错，就算谁也不理解我，我也会这样继续画下去。无论它们会变成什么样的怪物......"
+        },
+        {
+          "language": "日文",
+          "content": "ええ、そうだよ……たとえ周りに理解されなくても、アタシはこのまま描き続けるよ。彼らがどんなバケモノになったとしても…。"
+        },
+        {
+          "language": "英文",
+          "content": "That's right. Even if no one understands me, I'll keep making art. No matter what kinds of monsters my works might become…"
+        },
+        {
+          "language": "韩文",
+          "content": "그래, 맞아… 주변에서 이해 못 한다 해도, 그림은 계속 그릴 거야. 그 사람들이, 어떤 괴물로 변했다고 해도… 말이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯，沒錯，就算誰也不理解我，我也會這樣繼續畫下去。無論它們會變成什麼樣的怪物......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们创作者是什么样的人呢，每个月都有三十天以上的瓶颈期，觉得自己怎么画都画不好，而且只有深夜才有效率......"
+        },
+        {
+          "language": "日文",
+          "content": "クリエイターって人種はね、一ヶ月のうち三十日以上はスランプなんだ。何を描いてもまともなものにならないし、やっと筆がのるのは深夜だし……。"
+        },
+        {
+          "language": "英文",
+          "content": "We artists are a unique breed… We spend at least thirty days a month stuck in a rut, thinking all our work is trash. And we only make any progress when inspiration strikes after midnight."
+        },
+        {
+          "language": "韩文",
+          "content": "우리 크리에이터들은 말이야, 한 달 중 30일 이상이 슬럼프라고. 뭐 하나 그리려 해도 제대로 되지 않고… 붓이 좀 들린다 하면 벌써 꼭두새벽이고…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我們創作者是什麼樣的人呢，每個月都有三十天以上的瓶頸期，覺得自己怎麼畫都畫不好，而且只有深夜才有效率......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "斑驳世界终在它幽暗腹中安然长眠......没错，那是深海真正的颜色。只看得到黑色吗？看来，我还没能将一切都与你分享呢。"
+        },
+        {
+          "language": "日文",
+          "content": "マダラな世界も、その幽暗の中で安らかな眠りを迎える……。そう、それこそが深海の色。黒しか見えない？なら、まだアタシの全部を知らないってことだね。"
+        },
+        {
+          "language": "英文",
+          "content": "In the end, the mottled world sleeps peacefully in the dark depths—Yes, that's the true color of the ocean. Black is the only color you see? Looks like I still have more to share with you…"
+        },
+        {
+          "language": "韩文",
+          "content": "얼룩진 세상도, 캄캄한 어둠 속에선 편히 잠들 수 있어… 그래, 그게 바로 심해의 색깔이야… 새까맣게만 보인다고? 그럼, 나에 대해 아직 다 모른단 거네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "斑駁世界終在它幽暗腹中安然長眠......沒錯，那是深海真正的顏色。只看得到黑色嗎？看來，我還沒能將一切都與你分享呢。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "是在......做梦吗？你那梦中的颜色——是否也像世间万物般绚烂呢，博士......"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター……夢を見てるの？その夢の中で見る色は、この世界みたいに鮮やかなのかな…。"
+        },
+        {
+          "language": "英文",
+          "content": "Are you... dreaming? Is the world in your dreams as colorful as the beings of this world, Doctor…?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사… 꿈꾸고 있는 거야? 그 꿈속에서 보는 색깔은, 이 세상처럼 선명할까…?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "是在......做夢嗎？你那夢中的顏色——是否也像世間萬物般絢爛呢，博士......"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请叫我“深海色”。我的职业是画家，对，只是一个“画家”哦。"
+        },
+        {
+          "language": "日文",
+          "content": "ディピカっていうの。絵描きをしてるよ。そう、ただの【絵描き】、だよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm Deepcolor, a painter. Yes, just a 'painter', nothing more."
+        },
+        {
+          "language": "韩文",
+          "content": "딥컬러라고 해. 그림을 그리고 있어. 그래, 그냥 '그림쟁이'……야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "請叫我“深海色”。我的職業是畫家，對，只是一個“畫家”哦。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这种不安的感觉是......?"
+        },
+        {
+          "language": "日文",
+          "content": "この嫌な予感はいったい……？"
+        },
+        {
+          "language": "英文",
+          "content": "What's this unsettling feeling...?"
+        },
+        {
+          "language": "韩文",
+          "content": "이 불안한 예감은 대체……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這種不安的感覺是.......?"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呃，别再这么关心我的事了。如果再这样亲切对待我的话，我，我不知道自己会变成什么样子......"
+        },
+        {
+          "language": "日文",
+          "content": "えっと、もうアタシのことは放っといてください。これ以上親切にされると、アタシ、どうなるかわからないや……。"
+        },
+        {
+          "language": "英文",
+          "content": "Um, could you just... stop caring about me? If you keep treating me so well... I-I don't know what I might become…"
+        },
+        {
+          "language": "韩文",
+          "content": "그… 있잖아, 앞으론 날 좀 내버려두면 안 될까? 지금보다 더 친절하게 대해주면, 나, 어떻게 될지 모르거든……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "呃，別再這麼關心我的事了。如果再這樣親切對待我的話，我，我不知道自己會變成什麼樣子......"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "谢谢你，博士，现在，让我们完成这幅作品吧？"
+        },
+        {
+          "language": "日文",
+          "content": "ありがと、ドクター。一緒にこの絵、完成させよ？"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you, Doctor. Now, let's complete this work of art, shall we?"
+        },
+        {
+          "language": "韩文",
+          "content": "고마워, 박사. 이 그림, 같이 완성시켜 볼까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "謝謝你，博士，現在，讓我們完成這幅作品吧？"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真的要我上战场吗？不会吧？！"
+        },
+        {
+          "language": "日文",
+          "content": "本当にアタシを前線に出すの？本気の本気？！"
+        },
+        {
+          "language": "英文",
+          "content": "You're sending me to fight? Seriously?!"
+        },
+        {
+          "language": "韩文",
+          "content": "정말로 날 전선에 내보내겠다고? 진짜 진심이야?!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "真的要我上戰場嗎？不會吧？！"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我没法领导这么多人啦。"
+        },
+        {
+          "language": "日文",
+          "content": "こんな大勢の指揮なんてできるわけが…。"
+        },
+        {
+          "language": "英文",
+          "content": "I can't lead so many people."
+        },
+        {
+          "language": "韩文",
+          "content": "이렇게 많은 사람들을 지휘할 수 있을 리가…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我沒法領導這麼多人啦。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大家要加油哦！"
+        },
+        {
+          "language": "日文",
+          "content": "みんな、頑張ろうね！"
+        },
+        {
+          "language": "英文",
+          "content": "Do your best, everyone!"
+        },
+        {
+          "language": "韩文",
+          "content": "모두, 힘내자."
+        },
+        {
+          "language": "繁体中文",
+          "content": "大家要加油哦！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那就是敌人么！？"
+        },
+        {
+          "language": "日文",
+          "content": "アレが敵なの？！"
+        },
+        {
+          "language": "英文",
+          "content": "Is that who we're fighting?!"
+        },
+        {
+          "language": "韩文",
+          "content": "저게 적이야?!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "那就是敵人嗎！？"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我吗？"
+        },
+        {
+          "language": "日文",
+          "content": "アタシ？"
+        },
+        {
+          "language": "英文",
+          "content": "Me?"
+        },
+        {
+          "language": "韩文",
+          "content": "나?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我嗎？"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我该怎么办？"
+        },
+        {
+          "language": "日文",
+          "content": "何すればいいの？"
+        },
+        {
+          "language": "英文",
+          "content": "What do I do?"
+        },
+        {
+          "language": "韩文",
+          "content": "뭘 하면 돼?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我該怎麼辦？"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "涂涂抹抹~"
+        },
+        {
+          "language": "日文",
+          "content": "ぬるぬる～。"
+        },
+        {
+          "language": "英文",
+          "content": "Scumble-scumble..."
+        },
+        {
+          "language": "韩文",
+          "content": "쓱싹 쓱싹~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "塗塗抹抹~"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唉唉唉，等一下啦！"
+        },
+        {
+          "language": "日文",
+          "content": "えええー？ちょっと待ってってば！"
+        },
+        {
+          "language": "英文",
+          "content": "Aww, I just need a minute!"
+        },
+        {
+          "language": "韩文",
+          "content": "어어~? 자, 잠깐만 기다려!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "唉唉唉，等一下啦！"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别着急。"
+        },
+        {
+          "language": "日文",
+          "content": "焦っちゃダメだよ。"
+        },
+        {
+          "language": "英文",
+          "content": "No need to rush."
+        },
+        {
+          "language": "韩文",
+          "content": "조급해하면 안 돼."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別著急。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "慢慢来吧。"
+        },
+        {
+          "language": "日文",
+          "content": "ゆっくりしたほうがいいよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Let's take it slow."
+        },
+        {
+          "language": "韩文",
+          "content": "천천히 하는 게 좋아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "慢慢來吧。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "和我的“助手”们过两招吧。"
+        },
+        {
+          "language": "日文",
+          "content": "アタシの【アシ】さんたちが相手になるよ。"
+        },
+        {
+          "language": "英文",
+          "content": "You'll have to get past my 'assistants' first."
+        },
+        {
+          "language": "韩文",
+          "content": "내 '조수'들이 상대해줄게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "和我的“助手”們過兩招吧。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这些孩子，你赢得了吗？"
+        },
+        {
+          "language": "日文",
+          "content": "この子たちに勝てる？"
+        },
+        {
+          "language": "英文",
+          "content": "Can you defeat my little ones?"
+        },
+        {
+          "language": "韩文",
+          "content": "얘네들한테 이길 수 있겠어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這些孩子，你贏得了嗎？"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果真的惹恼了我，可不知道会有什么事情发生哦。"
+        },
+        {
+          "language": "日文",
+          "content": "アタシを本気で怒らせたら、どうなるかは知らないよ？"
+        },
+        {
+          "language": "英文",
+          "content": "If you really make me mad... you won't like what happens next."
+        },
+        {
+          "language": "韩文",
+          "content": "날 정말로 화나게 만들면… 진짜 어떻게 돼도 난 모른다?!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "如果真的惹惱了我，可不知道會有什麼事情發生哦。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大家胜利的英姿，就让我画下来吧。"
+        },
+        {
+          "language": "日文",
+          "content": "勝利を手にしたみんなの姿、絵にしよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Let me sketch these triumphant heroes."
+        },
+        {
+          "language": "韩文",
+          "content": "승리를 손에 쥔 모두의 모습, 그려놔야겠어!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "大家勝利的英姿，就讓我畫下來吧。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊，衣服又弄脏了......"
+        },
+        {
+          "language": "日文",
+          "content": "あーあ……また服が汚れたよ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Aw, got my clothes dirty again..."
+        },
+        {
+          "language": "韩文",
+          "content": "아아… 또 옷이 더러워졌네…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "啊，衣服又弄髒了......"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要是作战的结果，也能像画作一样重新涂改就好了......"
+        },
+        {
+          "language": "日文",
+          "content": "戦いの結果も、絵みたいに塗り替えられたらいいのに……。"
+        },
+        {
+          "language": "英文",
+          "content": "If only battles were like sketches. I'd just erase that one and redo it…"
+        },
+        {
+          "language": "韩文",
+          "content": "전투 결과도 그림처럼 덧칠할 수 있다면 좋을 텐데…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "要是作戰的結果，也能像畫作一樣重新塗改就好了......"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这个房间的设计很好看啊。"
+        },
+        {
+          "language": "日文",
+          "content": "この部屋、綺麗なデザインだね！"
+        },
+        {
+          "language": "英文",
+          "content": "This room's got a nice design."
+        },
+        {
+          "language": "韩文",
+          "content": "이 방, 디자인 되게 예쁘다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這個房間的設計很好看啊。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯嗯？"
+        },
+        {
+          "language": "日文",
+          "content": "んん？"
+        },
+        {
+          "language": "英文",
+          "content": "Hm?"
+        },
+        {
+          "language": "韩文",
+          "content": "으응?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯嗯？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，难得有时间休息，要来看看我最新的作品吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、せっかくの休みだし、アタシの最新作、見てく？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, since we happen to have some time off, want to see my latest work?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 간만에 쉬는 날인데, 내가 요즘 그린 작품들, 잠깐 보고 갈래?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，難得有時間休息，要來看看我最新的作品嗎？"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "早上好，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "おはよう、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Good morning, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "안녕, 박사."
+        },
+        {
+          "language": "繁体中文",
+          "content": "早上好，博士。"
+        }
+      ]
+    }
+  ]
+}

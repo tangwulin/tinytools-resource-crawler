@@ -1,0 +1,935 @@
+{
+  "name": "嘉维尔",
+  "charaKey": "char_187_ccheal",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_187_ccheal"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_187_ccheal"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_187_ccheal"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_187_ccheal"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "休息的时候就该好好放松，对吧？不过，你现在得接受治疗。"
+        },
+        {
+          "language": "日文",
+          "content": "休みのときぐらい、ちゃんと休んだほうがいいんじゃねぇの？ま、今のお前に必要なのは治療だがな。"
+        },
+        {
+          "language": "英文",
+          "content": "Yeah, yeah, I get it, you deserve a nice rest in your off time. But you gotta get your treatment right now."
+        },
+        {
+          "language": "韩文",
+          "content": "쉴 때 정도는 제대로 쉬는 게 좋지 않아? 뭐, 지금 네게 필요한 건 치료지만."
+        },
+        {
+          "language": "繁体中文",
+          "content": "休息的時候就該好好放鬆，對吧？不過，你現在得接受治療。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哈？温柔可爱？那不是护士吗？我可是专业的治疗者，对治疗之外的事情没有兴趣。"
+        },
+        {
+          "language": "日文",
+          "content": "はぁ？優しく愛想よくだと？そりゃ看護師だろ？アタシは治療のプロってだけ、治療以外にゃ興味ないんだよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Huh? You want me to be gentle and caring? That's nurse stuff, pal. I'm a doctor, from top to toe. That means healing. Treatment. Don't waste my time with the fluff."
+        },
+        {
+          "language": "韩文",
+          "content": "뭐? 상냥하고 사근사근하게? 그건 간호사잖아? 난 치료의 프로일 뿐이야, 치료 말고는 흥미 없다고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "哈？溫柔可愛？那不是護士嗎？我可是專業的治療者，對治療之外的事情沒有興趣。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不知道为什么，来这里以后，凯尔希医生总是告诫我，要好好对待患者。"
+        },
+        {
+          "language": "日文",
+          "content": "なんでだろうな、ここに来てから、よくケルシー先生に説教を食らうんだよな。患者には優しくしろってな。"
+        },
+        {
+          "language": "英文",
+          "content": "Strange, why does Dr. Kal'tsit keeps telling me to 'be nice to patients'? She's been doing it ever since I got here."
+        },
+        {
+          "language": "韩文",
+          "content": "왜일까, 여기 온 뒤로 켈시 선생님한테 자주 잔소리를 듣는데 말이야… 환자한텐 상냥하게 대하라고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "不知道為什麼，來這裡以後，凱爾希醫生總是告誡我，要好好對待患者。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一般的医生，总是在烦恼要怎么保护好自己，但我的烦恼是......怎么才能让患者不害怕我。"
+        },
+        {
+          "language": "日文",
+          "content": "普通の医者は、どうやって自分の身を守るかよく悩むらしいが、アタシの場合は……どうやって患者に怖がられないようにするかってのが一番の悩みだな。"
+        },
+        {
+          "language": "英文",
+          "content": "Your average doctor's biggest concern is keeping herself safe. Mine, on the other hand... it's getting my patients to stop being scared of me."
+        },
+        {
+          "language": "韩文",
+          "content": "평범한 의사는 어떻게 자기 몸을 지킬지 자주 고민한다는데, 나 같은 경우에는… “어떻게 해야 환자가 겁을 안 먹을까”가 가장 큰 고민이지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "一般的醫生，總是在煩惱要怎麼保護好自己，但我的煩惱是......怎麼才能讓患者不害怕我。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "接受治疗时，认真听我说话！看我这里！举起双手！不许乱动！"
+        },
+        {
+          "language": "日文",
+          "content": "治療の時は、アタシの言うことをちゃんと聞けよ！コラ！こっち見て両手を挙げろ！勝手に動くな！"
+        },
+        {
+          "language": "英文",
+          "content": "Treatment time, ears open! Eyes on me! Hands up! Don't move!"
+        },
+        {
+          "language": "韩文",
+          "content": "치료할 때는 내 말을 잘 들어 임마! 여기 보고 양손 들고! 쓸데없이 움직이지 마!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "接受治療時，認真聽我說話！看我這裡！舉起雙手！不許亂動！"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "医生和士兵，救人者和杀生者，人们都觉得这两种人做的事正好相反，不过我倒觉得这两者都一样，都是牺牲者。"
+        },
+        {
+          "language": "日文",
+          "content": "医者と兵士、助ける側と殺す側……真逆の存在ってよく言われるが、アタシにとってはどっちも一緒さ。みんな犠牲者だ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctors and fighters... life-savers, life-takers. People think we're polar opposites, but I think we're one and the same—we both sacrifice."
+        },
+        {
+          "language": "韩文",
+          "content": "의사와 병사, 구하는 쪽과 죽이는 쪽… 정반대의 존재라는 말을 자주 듣지만, 내게 있어선 어느 쪽이든 똑같아. 모두 희생자야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "醫生和士兵，救人者和殺生者，人們都覺得這兩種人做的事正好相反，不過我倒覺得這兩者都一樣，都是犧牲者。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊？我没对别人动粗啊，就是想和他们寒暄寒暄。你看，就像这样......就是一种用肢体动作触碰对方，拉近彼此距离的行为嘛......"
+        },
+        {
+          "language": "日文",
+          "content": "ああん？殴ってねぇよ。あんなの挨拶だろ挨拶。ほら、こう……スキンシップで距離を縮めるなんて言うだろ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Huh? I didn't beat anyone up, I just wanted to say hi. Watch, lemme demo... I initiate physical contact, and that's how I get closer to people, see?"
+        },
+        {
+          "language": "韩文",
+          "content": "뭐 인마? 안 때렸어, 그런 건 인사잖아 인사. 봐봐, 이렇게… 스킨십으로 거리를 좁힌다고들 하잖아?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "啊？我沒對別人動粗啊，就是想和他們寒暄寒暄。你看，就像這樣......就是一種用肢體動作觸碰對方，拉近彼此距離的行為嘛......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有点怀念故乡了......虽然当医生是我自己选的，但完全没想到会变成现在这样。人生的岔路，还真是让我走上了啊。"
+        },
+        {
+          "language": "日文",
+          "content": "少しだけ、故郷が恋しくなった……自分で選んだ道ではあるが、まさかここまで来れるとはな。人生の分かれ道って、本当にあるんだな。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm kinda missing my homeland... I chose to be a medic myself, but it's crazy it all turned out the way it did. Life sure took me down some wild paths, huh?"
+        },
+        {
+          "language": "韩文",
+          "content": "조금, 고향이 그리워졌어… 내가 고른 길이긴 하지만, 설마 여기까지 올 줄이야. 인생의 갈림길이란 게 정말 있긴 있나 봐."
+        },
+        {
+          "language": "繁体中文",
+          "content": "有點懷念故鄉了......雖然當醫生是我自己選的，但完全沒想到會變成現在這樣。人生的岔路，還真是讓我走上了啊。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不管博士还是我，都是走在没人走过的路上的旅人哪。就因为这样，所以咱们才能互相理解吧。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターもアタシも、未踏の地をゆく旅人ってわけだ。だからこそお互い、理解し合えるんだろうな。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor... you and I are both travelers on a lonely road. I guess that's why we understand each other so well."
+        },
+        {
+          "language": "韩文",
+          "content": "박사도 나도, 미지의 땅으로 향하는 여행자인 거야. 그러니까 서로를 이해할 수 있는 거겠지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "不管博士還是我，都是走在沒人走過的路上的旅人哪。就因為這樣，所以咱們才能互相理解吧。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这家伙，睡着了吗？哈哈~"
+        },
+        {
+          "language": "日文",
+          "content": "コイツ……寝てんのか？ハハッ。"
+        },
+        {
+          "language": "英文",
+          "content": "What the... you're asleep, huh? Heheh."
+        },
+        {
+          "language": "韩文",
+          "content": "이 자식… 자고 있는 건가? 하하"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這傢伙，睡著了嗎？哈哈~"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我是医疗术师嘉维尔。先说好了，对我，可不能以貌取人，明白吗？"
+        },
+        {
+          "language": "日文",
+          "content": "医療術師のガヴィルだ。一応言っとくが、アタシのコトを見た目だけで判断するんじゃねぇぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm Medic Operator Gavial. First things first... Don’t judge me by the way I look. Got it?"
+        },
+        {
+          "language": "韩文",
+          "content": "메딕 오퍼레이터 가비알이라 한다. 일단 말해두겠는데, 날 겉만 보고 판단하지 마라."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我是醫療術師嘉維爾。先說好了，對我，可不能以貌取人，明白嗎？"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嘁，我还以为是要上格斗课呢。"
+        },
+        {
+          "language": "日文",
+          "content": "ちっ……格闘のレッスンかと思ったらこれか。"
+        },
+        {
+          "language": "英文",
+          "content": "Tch, I thought we were gonna have combat class."
+        },
+        {
+          "language": "韩文",
+          "content": "칫… 격투 레슨인 줄 알았건만, 이거였냐."
+        },
+        {
+          "language": "繁体中文",
+          "content": "嘁，我還以為是要上格鬥課呢。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这家伙那家伙的都害怕我给他们治疗，只有你一个人接受我，多谢啦。"
+        },
+        {
+          "language": "日文",
+          "content": "どいつもこいつもアタシの治療を怖がるけどよ。お前だけだぜ、認めてくれたのは。あんがとな。"
+        },
+        {
+          "language": "英文",
+          "content": "Everyone's so scared of me treating them... You're the only one who accepts me for what I am. Thanks for that."
+        },
+        {
+          "language": "韩文",
+          "content": "이놈이나 저놈이나 내 치료를 무서워하는데 말이야. 인정해 준 건 너밖에 없어, 고맙다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這傢伙那傢伙的都害怕我給他們治療，只有你一個人接受我，多謝啦。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好了玩耍到此为止，接下来我就认真一下！"
+        },
+        {
+          "language": "日文",
+          "content": "ま、お遊びはここまでだ。ここからは本気で行くぜ！"
+        },
+        {
+          "language": "英文",
+          "content": "All right, no more fooling around. I'll be serious from now on."
+        },
+        {
+          "language": "韩文",
+          "content": "뭐, 장난은 여기까지다. 이제부턴 진심으로 간다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "好了玩耍到此為止，接下來我就認真一下！"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "后方就交给我，你们只管往前冲！"
+        },
+        {
+          "language": "日文",
+          "content": "後ろはアタシに任せて、お前らはとにかく前に突っ込め。"
+        },
+        {
+          "language": "英文",
+          "content": "Leave the rear to me. Go show what you're made of!"
+        },
+        {
+          "language": "韩文",
+          "content": "뒤는 나한테 맡기고, 너희는 일단 앞으로 돌진해!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "後方就交給我，你們只管往前衝！"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好！一个个的都排好队！"
+        },
+        {
+          "language": "日文",
+          "content": "よおし、まずそこに並べ。"
+        },
+        {
+          "language": "英文",
+          "content": "All right, get in line, everyone!"
+        },
+        {
+          "language": "韩文",
+          "content": "좋아! 일단 거기에 일 열로 서봐."
+        },
+        {
+          "language": "繁体中文",
+          "content": "好！一個個的都排好隊！"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好，各位都冷静点。"
+        },
+        {
+          "language": "日文",
+          "content": "よし！お前ら、落ち着いていけよ……。"
+        },
+        {
+          "language": "英文",
+          "content": "All right, ladies. Let's keep it cool."
+        },
+        {
+          "language": "韩文",
+          "content": "좋아! 너희들, 침착하게 가자고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "好，各位都冷靜點。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "来了！"
+        },
+        {
+          "language": "日文",
+          "content": "来やがったぜ！"
+        },
+        {
+          "language": "英文",
+          "content": "Coming!"
+        },
+        {
+          "language": "韩文",
+          "content": "왔다고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "來了！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "开始吧。"
+        },
+        {
+          "language": "日文",
+          "content": "始めるぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "Let's begin."
+        },
+        {
+          "language": "韩文",
+          "content": "시작하자!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "開始吧。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要我做什么好？"
+        },
+        {
+          "language": "日文",
+          "content": "何すりゃいいんだ？"
+        },
+        {
+          "language": "英文",
+          "content": "Where do you need me?"
+        },
+        {
+          "language": "韩文",
+          "content": "뭐 하면 되지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "要我做什麼好？"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "准备治疗！"
+        },
+        {
+          "language": "日文",
+          "content": "治療の準備だ！"
+        },
+        {
+          "language": "英文",
+          "content": "Ready to heal!"
+        },
+        {
+          "language": "韩文",
+          "content": "치료 준비다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "準備治療！"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "需要治疗的家伙站出来！"
+        },
+        {
+          "language": "日文",
+          "content": "治療してほしい奴は前に出ろ！"
+        },
+        {
+          "language": "英文",
+          "content": "Who needs healing? Come over!"
+        },
+        {
+          "language": "韩文",
+          "content": "치료받고 싶은 녀석은 앞으로 나와!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "需要治療的傢伙站出來！"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "想被治疗，先到我够得着的地方来！"
+        },
+        {
+          "language": "日文",
+          "content": "アーツの治療範囲に入れ！"
+        },
+        {
+          "language": "英文",
+          "content": "If you want treatment, you gotta come closer!"
+        },
+        {
+          "language": "韩文",
+          "content": "치료받고 싶으면 먼저 치료 범위 안으로 들어와!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "想被治療，先到我勾得著的地方來！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "干什么呢你！"
+        },
+        {
+          "language": "日文",
+          "content": "何やってんだ！"
+        },
+        {
+          "language": "英文",
+          "content": "Don't get yourself killed, dummy!"
+        },
+        {
+          "language": "韩文",
+          "content": "뭐 하고 있는 거야!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "幹什麼呢你！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "振作起来啊！"
+        },
+        {
+          "language": "日文",
+          "content": "しっかりしろ！"
+        },
+        {
+          "language": "英文",
+          "content": "Come on, get it together!"
+        },
+        {
+          "language": "韩文",
+          "content": "정신 차려!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "振作起來啊！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "现在就来救你！"
+        },
+        {
+          "language": "日文",
+          "content": "いま助けてやる！"
+        },
+        {
+          "language": "英文",
+          "content": "Hang in there, I'm coming!"
+        },
+        {
+          "language": "韩文",
+          "content": "지금 구해줄게!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "現在就來救你！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "就这种程度的对手，轻轻松松啊。"
+        },
+        {
+          "language": "日文",
+          "content": "この程度の相手か。余裕だ余裕。"
+        },
+        {
+          "language": "英文",
+          "content": "Meh, pushovers. I wasn't even breaking a sweat."
+        },
+        {
+          "language": "韩文",
+          "content": "이 정도의 상대인가. 완전 식은 죽 먹기네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "就這種程度的對手，輕輕鬆鬆啊。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那些家伙也太弱了，我还想着，能拿这把杖多敲打他们几下咧。"
+        },
+        {
+          "language": "日文",
+          "content": "連中、弱すぎだな。この杖でもう少し暴れたかったぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "Man those guys were weak. I regret not giving 'em a few whacks with the staff here."
+        },
+        {
+          "language": "韩文",
+          "content": "얘네들, 너무 약한데. 이 지팡이로 좀 더 날뛰고 싶었는데."
+        },
+        {
+          "language": "繁体中文",
+          "content": "那些傢伙也太弱了，我還想著，能拿這把杖多敲打他們幾下咧。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们，没接受过应急医疗训练嘛！"
+        },
+        {
+          "language": "日文",
+          "content": "お前ら！応急手当の訓練はどうした？"
+        },
+        {
+          "language": "英文",
+          "content": "Have you guys never taken emergency response training courses?"
+        },
+        {
+          "language": "韩文",
+          "content": "너희들! 응급조치 훈련을 제대로 받긴 한 거야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你們，沒接受過應急醫療訓練嘛！"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "可恶......别以为我就这么放弃了。"
+        },
+        {
+          "language": "日文",
+          "content": "クソッ……いくら怪我人が出てるからって……これでアタシが諦めると思うなよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Darn it... I'm not giving up yet!"
+        },
+        {
+          "language": "韩文",
+          "content": "젠장…… 이걸로 내가 포기할 거라 생각하지 마!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "可惡......別以為我就這麼放棄了。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看看都有哪些有趣的家伙在啊？"
+        },
+        {
+          "language": "日文",
+          "content": "どれどれ、面白そうな奴はいるかな？"
+        },
+        {
+          "language": "英文",
+          "content": "Let's see if there are any interesting people here!"
+        },
+        {
+          "language": "韩文",
+          "content": "어디 보자, 재밌어 보이는 녀석이 있으려나?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "看看都有哪些有趣的傢伙在啊？"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "喂，快住手！"
+        },
+        {
+          "language": "日文",
+          "content": "おい、やめろって！"
+        },
+        {
+          "language": "英文",
+          "content": "Hey, knock it off!"
+        },
+        {
+          "language": "韩文",
+          "content": "야, 그만하라고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "喂，快住手！"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "想让我老实听话？不 可 能！"
+        },
+        {
+          "language": "日文",
+          "content": "アタシが大人しくするわけないだろ。諦めな！"
+        },
+        {
+          "language": "英文",
+          "content": "You want me to just nod and listen? No. Freaking. Way."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 얌전히 있을 리 없잖아. 포기해!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "想讓我老實聽話？不 可 能！"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哟，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "よお、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Hey, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "여어, 박사."
+        },
+        {
+          "language": "繁体中文",
+          "content": "喲，博士。"
+        }
+      ]
+    }
+  ]
+}

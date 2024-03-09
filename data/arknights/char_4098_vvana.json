@@ -1,0 +1,514 @@
+{
+  "name": "薇薇安娜",
+  "charaKey": "char_4098_vvana",
+  "images": [
+    "https://prts.wiki/images/6/60/立绘_薇薇安娜_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/6/62/立绘_薇薇安娜_2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4098_vvana"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4098_vvana"
+    },
+    {
+      "language": "德语",
+      "base": "voice_custom/char_4098_vvana"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔，说起来，您的上一任助理是谁？我无意打听什么，只不过现在的薇薇安娜，除了与您安静地讨论诗歌，能做的并不多。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我已经看到了您藏在背后的东西——莱塔尼亚需要一个在异国为其增辉的子民，卡西米尔需要一个绯闻缠身却自命高洁的骑士，这很好理解。再说这份《红酒报》已经过期了，他们从不缺话题人物。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "甲板上的风很大吧，要不要回去加件衣服？我只是在想象这里是那座铺满林荫的城市，风不知从何处吹来，铁匠作坊规律的叮当声是时间的刻度......那段日子很短暂，短暂到值得怀念。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“德罗斯特”是我母亲的姓氏，它很普通，它不属于高塔。您会在一条金盏花盛开的小巷驻足多久？少有人书写那些错开的花，但它们真的很美......唔，博士，您竟然记得我的全名。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "诗歌的魅力，在于拧断惯常的语法，于不合理处找到最合适的表达。恪守“德行”的烛骑士，和喜爱诗歌的薇薇安娜，其实从一开始就充满矛盾。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那些描写异乡的故事里，羁旅之人终归故土。我一直在做回莱塔尼亚的准备，但经历了这么多后，我对它最真实的印象，依然只有那些暗夜里的烛火和书本——我见过该见的人了，我早就做了选择。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看，烛火此时照耀着什么？你我的脸，这些无人问津的诗句，晦暗而泥泞的前路？其实你本来就能看清这些的，对吧？既然如此，注意看我，别因它的光亮分了神。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我回到了高塔上那个又小又暗的房间，我告诉那个小女孩，今后总有泼向她的污浊，无可挽回的遗憾，她将囿于寻找与失去......是的，所谓的告别就如一场梦。那你觉得此刻的我足够真实吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“若我们同为一段声音，我们被奏响在怎样的乐器上，又是谁将那样的乐器握在手中？”我就知道你肯定会来。诗集读完了？我猜，你最爱的意象肯定和我不一样，它一定在最震撼人心的那章。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......我的白昼晴朗，我的夜晚幸福。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您好，玛嘉烈向我提起过您。可惜在大骑士领的时候，我们没有机会认识......当时我还被称作“烛骑士”。叫我薇薇安娜吧，博士。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "通过屏幕观看自己的战斗......一瞬间我以为自己仍在卡西米尔。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您也要授予我一个什么称号吗？不，即便如此也没有什么，这里不是竞技场，我知道。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我是否可以理解为，你希望我继续留在这里？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "薇薇安娜·德罗斯特，将凭她的烛与剑，为您夺取胜利。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔，商业联合会的发言人当时经常抱怨，我对自己的比赛都不怎么上心。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "走吧。立刻启程，尽早回来。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "月光才没入起风的花圃，你就已经看见了秋天？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我愿倾听此刻的沉默。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我在等待迟来的宁静。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里不是竞技场，伤痕不值得记录与嘉奖。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "离开，这是最后一句忠告。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "何必在意韵脚，思想才能织就诗行。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“苍白的玫瑰”，苍白的想象。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "绑上双腿，并不能让你们飞翔。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让时间停在这个无烛的夜晚吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，你已经筋疲力尽了吗？我也是。上一次经历让人如此难忘的战斗，还是在大骑士领的那场比赛。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，你说得没错，震撼心灵的词句，总是自风暴中来。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有些被骂平庸的诗歌，其中也藏着牵动人心的句子。我遗憾于作者的技法，却无法不认同对方的表达。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，暂时接受此刻灵感的枯竭，并记住这种感受。对这未完的诗篇，我将满怀期待。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没有浴缸吗......没什么，一个玩笑。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔，谁......算了算了，其实我早就发现你了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，如果弄熄了烛火，我可不确定会发生什么。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "欸，博士，你在念念有词些什么？我又不会抽背那些诗。你看了吗？你看了吧？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

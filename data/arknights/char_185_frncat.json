@@ -1,0 +1,939 @@
+{
+  "name": "慕斯",
+  "charaKey": "char_185_frncat",
+  "images": [
+    "https://prts.wiki/images/c/c5/立绘_慕斯_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/d/d3/立绘_慕斯_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/5/52/立绘_慕斯_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_185_frncat"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_185_frncat"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_185_frncat"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_185_frncat"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "猫猫又增加了，好开心！"
+        },
+        {
+          "language": "日文",
+          "content": "ねこちゃんたち、また増えましたね。嬉しいです！"
+        },
+        {
+          "language": "英文",
+          "content": "We've got more kitties! Yeah…"
+        },
+        {
+          "language": "韩文",
+          "content": "야옹이들, 더 늘어났네요. 기뻐요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "貓貓又增加了，好開心！"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "拉特兰的蛋糕，非常好吃！不过，是不是所有干员都要严格控制体重来着......？呜......"
+        },
+        {
+          "language": "日文",
+          "content": "ラテラーノのケーキ、とっても美味しいんです！でもオペレーターは厳格な体重管理が必要だって聞いた気が……？うぅ～。"
+        },
+        {
+          "language": "英文",
+          "content": "Laterano cakes are so delicious! But we operators have to pay attention to our diet, right?... aww..."
+        },
+        {
+          "language": "韩文",
+          "content": "라테라노 케이크는 정말 맛있어요! 그래도 오퍼레이터는 엄격한 체중 관리가 필요하다고 들었던 것 같은데… 으으으…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "拉特蘭的蛋糕，非常好吃！不過，是不是所有幹員都要嚴格控制體重來著......？嗚......"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "手套......这副手套不能摘下来，因为不想让博士看见我的手......只有这个要求，是不行的......对不起......"
+        },
+        {
+          "language": "日文",
+          "content": "手袋は……この手袋は外せません、ドクターには見られたくないです……。これだけはどうしても……ごめんなさい……。"
+        },
+        {
+          "language": "英文",
+          "content": "Not my gloves... I'm sorry, I can't take my gloves off... I don't want you to see my hands. That's the one thing I ask... sorry…"
+        },
+        {
+          "language": "韩文",
+          "content": "장갑은…… 이 장갑은 벗을 수 없어요, 박사님께는 보여 드리고 싶지 않아요… 이것만큼은 도저히… 죄송해요…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "手套......這副手套不能摘下來，因為不想讓博士看見我的手......只有這個要求，是不行的......對不起......"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要、要出发了吗？好、好的，请让我准备一下...！"
+        },
+        {
+          "language": "日文",
+          "content": "しゅ、出発ですか？は、はい！今すぐ支度しますね……！"
+        },
+        {
+          "language": "英文",
+          "content": "A-Are we departing now? Al-Alright, let me just prepare one moment...!"
+        },
+        {
+          "language": "韩文",
+          "content": "추, 출발인가요? 아, 네! 지금 바로 준비할게요…!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "要、要出發了嗎？好、好的，請讓我準備一下...！"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "慕斯的尾巴有两条，很奇怪吗？难，难道，我看起来比自己想象的还要奇怪吗？呜......"
+        },
+        {
+          "language": "日文",
+          "content": "ムースのしっぽ、二本あるのって、変ですか？も、もしかして、ムースは思ってる以上に変に見えるんですか？うぅ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Do you think it's odd that I have two tails? Do-do-do I look even stranger than I thought? Umm..."
+        },
+        {
+          "language": "韩文",
+          "content": "무스의 꼬리, 두 개 있는 게… 이상한가요? 호, 혹시, 무스가 생각하는 것보다 더 이상하게 보이나요? 우으…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "慕斯的尾巴有兩條，很奇怪嗎？難，難道，我看起來比自己想像的還要奇怪嗎？嗚......"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "其实没有发病的时候，我的手不会变成什么奇怪的样子......能像现在这样用手抱一抱猫猫们，我已经很满足了......"
+        },
+        {
+          "language": "日文",
+          "content": "発作が起きていない時なら、ムースの手はあんなふうにはなりませんよ……。今はこうしてねこちゃんたちを抱っこできるだけで、満足です……。"
+        },
+        {
+          "language": "英文",
+          "content": "When my symptoms aren't flaring up, my hand stays all normal... It feels so nice, just being able to hold the kitties like this..."
+        },
+        {
+          "language": "韩文",
+          "content": "발작이 일어나지 않을 때라면, 무스의 손은 그렇게 되진 않아요… 지금은 이렇게 야옹이들을 안을 수 있는 것만으로 만족해요…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "其實沒有發病的時候，我的手不會變成什麼奇怪的樣子......能像現在這樣用手抱一抱貓貓們，我已經很滿足了......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，芒果味和抹茶味的蛋糕，您喜欢哪一种呢？我试着做了一些......咦，您已经吃过了吗？这样啊......"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、マンゴー味と抹茶味のケーキ、どちらがお好みですか？ムース、ちょっと作ってみたんです……って、もう食べちゃったんですか？そ、そうですか……。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, what kind of cake do you prefer? Mango, or matcha? I tried making a few, and... you already ate? Oh, umm, Okay..."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 망고 맛이랑 말차 맛 케이크, 어느 쪽이 더 좋으세요? 무스, 좀 만들어 봤는데… 어? 벌써 드셨나요? 아, 네…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，芒果味和抹茶味的蛋糕，您喜歡哪一種呢？我試著做了一些......咦，您已經吃過了嗎？這樣啊......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博、博士！那位空小姐，是我最喜欢的偶像空小姐吧？！我没认错！为什么她会在罗德岛......那、那个，能请她帮我签个名吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ド、ドクター！あ、あのソラさんって、私が大好きなアイドルのソラさんですよね？間違いないですよねっ！？ど、どうしてロドスにいるんですか……？あの、サ、サインをお願いしてもいいでしょうか……？"
+        },
+        {
+          "language": "英文",
+          "content": "D-Doctor! Sora... sh-she's the super idol, Sora, isn't she?! I'd recognize her anywhere! I'm her biggest fan! Why is she here at Rhodes Island? And... and... can I ask her for an autograph?"
+        },
+        {
+          "language": "韩文",
+          "content": "바, 박사님! 저, 저 소라 씨는, 제가 엄청 좋아하는 아이돌 소라 씨죠? 소라 씨 맞죠?! 어, 어째서 로도스 아일랜드에 있는 건가요…? 혹시, 사, 사인 부탁드려도 될까요…?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博、博士！那位空小姐，是我最喜歡的偶像空小姐吧？！我沒認錯！為什麼她會在羅德島......那、那個，能請她幫我簽個名嗎？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，您知道爱丽榭大道么？嗯嗯，那里是我出生的地方，真想回去看一看啊......嗯？不，我已经不会感到寂寞了，毕竟，您就是我的家人呀！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、ドクターはエリゼ通りをご存知ですか？はい、私の生まれた所なんです。一度は帰ってみたいな……。あ、いえ、寂しくはないですよ。ムースにはもう、ドクターという家族がいますから。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, have you heard of the Avenue des Champs-Élysées? Yes, I happened to be born there. I really wish I could go back and visit one day... what? Oh, no, I appreciate it, but I'm not lonely. I have you, after all! You're my family."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 박사님께선 엘리제 거리를 알고 계신가요? 네, 제가 태어난 곳이에요. 한 번쯤은 돌아가 보고 싶네요… 아, 아뇨, 외롭지는 않아요. 무스는 이미, 박사님이라는 가족이 있으니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，您知道愛麗榭大道嗎？嗯嗯，那裡是我出生的地方，真想回去看一看啊......嗯？不，我已經不會感到寂寞了，畢竟，您就是我的家人呀！"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呜......博士不理我了......"
+        },
+        {
+          "language": "日文",
+          "content": "うぅ～……ドクターが構ってくれない……。"
+        },
+        {
+          "language": "英文",
+          "content": "Aw... Doctor... why are you ignoring me..."
+        },
+        {
+          "language": "韩文",
+          "content": "으으… 박사님이 내 신경을 안 써줘……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗚......博士不理我了......"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你好......请、请叫我慕斯......那个，我的手，请您不要盯着我的手看......"
+        },
+        {
+          "language": "日文",
+          "content": "こんにちは……ム、ムースと呼んでください。……あの、ムースの手、そんなにじろじろ見ないでもらえますか……。"
+        },
+        {
+          "language": "英文",
+          "content": "Good day... p-please call me Mousse. And... and please don't stare at my hand so much..."
+        },
+        {
+          "language": "韩文",
+          "content": "안녕하세요… 무, 무스라고 불러주세요. 저기… 무스의 손, 그렇게 빤히 보지 말아주시겠어요…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你好......請、請叫我慕斯......那個，我的手，請您不要盯著我的手看......"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我绝对不会忘记这份恩情的！"
+        },
+        {
+          "language": "日文",
+          "content": "このご恩は絶対に忘れません！"
+        },
+        {
+          "language": "英文",
+          "content": "This is a favor I'll never forget!"
+        },
+        {
+          "language": "韩文",
+          "content": "이 은혜는 절대 잊지 않을게요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我絕對不會忘記這份恩情的！"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "欸？晋、晋升？我还没准备好......"
+        },
+        {
+          "language": "日文",
+          "content": "うぇ？しょうしん……昇進！？ま、まだ心の準備が……！"
+        },
+        {
+          "language": "英文",
+          "content": "Huh? Pro...promotion?! I-I'm not prepared for this..."
+        },
+        {
+          "language": "韩文",
+          "content": "네? 승진… 승지인?! 아, 아직 마음의 준비가…!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "欸？晉、晉升？我還沒準備好......"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我、我知道自己能力有限，所以，我一定把力所能及的事，全都做好！这也是我唯一能报答博士的方式了......"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター。ム、ムースは……自分の能力には限界があるってよくわかってます。だからこそ、できる範囲で精一杯の努力をするんです。それが、ドクターに恩返しできる唯一の方法ですから……。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, I know there's a limit to what I can accomplish, so I swear... I'll do all that I'm able, as well as I'm able! It's... It's the only way I could ever repay you, Doctor..."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님. 무, 무스는… 자신의 능력에 한계가 있다는 걸 잘 알고 있어요. 그래서 더욱, 될 수 있는 한 힘껏 노력할 거예요. 그게, 박사님께 은혜를 갚는 유일한 방법이니까요…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，我、我知道自己能力有限，所以，我一定把力所能及的事，全都做好！這也是我唯一能報答博士的方式了......"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯，我会努力的。"
+        },
+        {
+          "language": "日文",
+          "content": "はい、精一杯頑張ります！"
+        },
+        {
+          "language": "英文",
+          "content": "Yes, I'll do my best!"
+        },
+        {
+          "language": "韩文",
+          "content": "네, 있는 힘껏 노력할게요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯，我會努力的。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我一定能做好的，加油，慕斯！"
+        },
+        {
+          "language": "日文",
+          "content": "絶対にやり遂げてみせますから！頑張れ、ムース！"
+        },
+        {
+          "language": "英文",
+          "content": "This is in my hands! You can do this, Mousse!"
+        },
+        {
+          "language": "韩文",
+          "content": "반드시 해낼 거에요! 힘내라, 무스!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我一定能做好的，加油，慕斯！"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不太起眼，很适合去侦查敌情......"
+        },
+        {
+          "language": "日文",
+          "content": "ムースは、地味だから、偵察に向いてると思いますよ……。"
+        },
+        {
+          "language": "英文",
+          "content": "I essentially blend into the walls, so I'm a good choice for scouting..."
+        },
+        {
+          "language": "韩文",
+          "content": "무스는 눈에 잘 안 띄니까, 정찰에 적합할 거예요…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我不太起眼，很適合去偵查敵情......"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "侦查结束，现在向您报告敌人的位置。"
+        },
+        {
+          "language": "日文",
+          "content": "偵察完了。敵の位置を報告します。"
+        },
+        {
+          "language": "英文",
+          "content": "Scouting complete. Sending you enemy coordinates."
+        },
+        {
+          "language": "韩文",
+          "content": "정찰 완료. 적의 위치를 보고하겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "偵查結束，現在向您報告敵人的位置。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我准备好了！"
+        },
+        {
+          "language": "日文",
+          "content": "準備、できました！"
+        },
+        {
+          "language": "英文",
+          "content": "I'm ready!"
+        },
+        {
+          "language": "韩文",
+          "content": "준비, 다 됐습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我準備好了！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯！"
+        },
+        {
+          "language": "日文",
+          "content": "はい！"
+        },
+        {
+          "language": "英文",
+          "content": "Here!"
+        },
+        {
+          "language": "韩文",
+          "content": "네!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯！"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "慕斯，不会害怕......！"
+        },
+        {
+          "language": "日文",
+          "content": "ムース、怯えたりしませんから……！"
+        },
+        {
+          "language": "英文",
+          "content": "I'm not scared...!"
+        },
+        {
+          "language": "韩文",
+          "content": "무스, 혼자서요…?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "只有我一個人嗎......？"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "从这里开始，是慕斯的战斗了......！"
+        },
+        {
+          "language": "日文",
+          "content": "ここからは、ムースの戦いです……！"
+        },
+        {
+          "language": "英文",
+          "content": "From now on, this is my battle...!"
+        },
+        {
+          "language": "韩文",
+          "content": "이제부터는, 무스의 싸움이에요…!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "從這裡開始，是慕斯的戰鬥了......！"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呀！"
+        },
+        {
+          "language": "日文",
+          "content": "きゃうっ！"
+        },
+        {
+          "language": "英文",
+          "content": "Yah!"
+        },
+        {
+          "language": "韩文",
+          "content": "꺄악!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "呀！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "离、离我远点！"
+        },
+        {
+          "language": "日文",
+          "content": "は、離れて！"
+        },
+        {
+          "language": "英文",
+          "content": "No, stay back!"
+        },
+        {
+          "language": "韩文",
+          "content": "떠, 떨어져!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "離、離我遠點！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我也可以战斗的......！"
+        },
+        {
+          "language": "日文",
+          "content": "ムースだって、戦えます……！"
+        },
+        {
+          "language": "英文",
+          "content": "I can fight too!"
+        },
+        {
+          "language": "韩文",
+          "content": "무스도 싸울 수 있어요…!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我也可以戰鬥的......！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你、你绝对会后悔的......！"
+        },
+        {
+          "language": "日文",
+          "content": "ぜ、絶対後悔しますからね……！"
+        },
+        {
+          "language": "英文",
+          "content": "You-You'll regret this!"
+        },
+        {
+          "language": "韩文",
+          "content": "부, 분명 후회할 거예요…!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你、你絕對會後悔的......！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "就算是这样残酷的战斗，慕斯也坚持下来了呢......"
+        },
+        {
+          "language": "日文",
+          "content": "これだけ厳しい戦いだって、ムースはできました……。"
+        },
+        {
+          "language": "英文",
+          "content": "It was a tough fight... but I stayed steady through it all...!"
+        },
+        {
+          "language": "韩文",
+          "content": "이렇게나 힘겨운 싸움도, 무스는 해냈어요…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "就算是這樣殘酷的戰鬥，慕斯也堅持下來了呢......"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呼——啊，对不起，虽然我不是很喜欢战斗，但是......"
+        },
+        {
+          "language": "日文",
+          "content": "ふぅ……。あ、ごめんなさい、戦うのが好きってわけじゃないんですが……。"
+        },
+        {
+          "language": "英文",
+          "content": "Yay... Oh, oh, sorry, it's not that I like battles that much, but..."
+        },
+        {
+          "language": "韩文",
+          "content": "후우… 아, 죄송해요, 싸우는 걸 좋아하는 건 아니지만…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "呼——啊，對不起，雖然我不是很喜歡戰鬥，但是......"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "给、给大家拖后腿了吗？"
+        },
+        {
+          "language": "日文",
+          "content": "み、みんなの足、引っ張っちゃいました？"
+        },
+        {
+          "language": "英文",
+          "content": "D-Did I drag us all down?"
+        },
+        {
+          "language": "韩文",
+          "content": "모, 모두에게 짐이 되었나요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "給、給大家拖後腿了嗎？"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我还能......再坚持一下......"
+        },
+        {
+          "language": "日文",
+          "content": "もうちょっと……頑張りたかった……。"
+        },
+        {
+          "language": "英文",
+          "content": "I can... keep going..."
+        },
+        {
+          "language": "韩文",
+          "content": "조금만 더… 힘내고 싶었는데…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我還能......再堅持一下......"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你、你好，我进来了......"
+        },
+        {
+          "language": "日文",
+          "content": "こ、こんにちは…し、失礼します……。"
+        },
+        {
+          "language": "英文",
+          "content": "E-Excuse me... May I come in...?"
+        },
+        {
+          "language": "韩文",
+          "content": "아, 안녕하세요… 시, 실례하겠습니다…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你、你好，我進來了......"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呀！"
+        },
+        {
+          "language": "日文",
+          "content": "きゃっ！"
+        },
+        {
+          "language": "英文",
+          "content": "Yah!"
+        },
+        {
+          "language": "韩文",
+          "content": "꺄악!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "呀！"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我、我实在忍不住了......能给我抓板吗？呜呜呜......"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター！ム、ムース、もうがまんできません……！爪とぎボードはありませんか！うう……。"
+        },
+        {
+          "language": "英文",
+          "content": "D-Doctor... I really can't hold it in anymore... do we have a scratching post? Urghh..."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님! 무, 무스, 더는 못 참겠어요…! 스크래쳐 혹시 없으신가요! 우으으…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，我、我實在忍不住了......能給我抓板嗎？嗚嗚嗚......"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你好，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "こんにちは、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Hello, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "안녕하세요, 박사님."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你好，博士。"
+        }
+      ]
+    }
+  ]
+}

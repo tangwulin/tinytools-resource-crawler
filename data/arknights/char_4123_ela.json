@@ -1,0 +1,507 @@
+{
+  "name": "艾拉",
+  "charaKey": "char_4123_ela",
+  "images": [
+    "https://prts.wiki/images/6/61/立绘_艾拉_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/b/b7/立绘_艾拉_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/6/6a/立绘_艾拉_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "联动",
+      "base": "voice/char_4123_ela"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "既然你必须坐在这儿处理文件，我可以去帮你应付一些需要当场解决的问题。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "打击补给线比压制人员造成的伤害更大。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我觉得你的办公室内饰有些乏味了。要是想换个风格，可以随时来找我。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "温情脉脉的家庭关系不适合我。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "相比所谓的“自我提升”，和陌生人聊聊能让我受益更多。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们用符号定义自己，但这些符号会被扭曲，被加工，被重述——一句话，会失去原有的意义。而在符号失去意义之后，你自己又是谁？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不介意在战斗之外帮你做些琐事，但在战场上，我需要足够的决策权。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "当一个人没法对你的成果挑刺，转而开始批评你的态度，你就知道他究竟有几斤几两了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "发号施令的前提是你得证明自己足够出色，而你显然够格。好了，接下来要派我去哪？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "即使按照最高标准，你的工作也过量了。好好睡吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "彩虹小队成员，代号艾拉。把目标告诉我，然后静等任务完成就好。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "学到了一些新东西。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "勋章？谢了，作为装饰品，工艺还挺不错。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "只要齐心合力，我们就能撼动天际繁星。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "至少让任务有点挑战性。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "是时候让你见识一下我的实力了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没有时间可以浪费了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会让你们后悔的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "以牙还牙。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "以眼还眼。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我来搞定。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们走。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "给你个纪念品。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那会让他们慢下来的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "尝尝这个！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别动！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "无论手段如何，结果才是一切。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "抱歉，我对你们来说太快了吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这就结束了？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "努力坚持下去！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这地方还不坏。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "拜托，我现在不想说话。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "和我聊聊你自己的故事吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我在这里。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,939 @@
+{
+  "name": "见行者",
+  "charaKey": "char_4036_forcer",
+  "images": [
+    "https://prts.wiki/images/5/54/立绘_见行者_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/9/95/立绘_见行者_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/6/6a/立绘_见行者_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4036_forcer"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4036_forcer"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4036_forcer"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_4036_forcer"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，这些文件都是今天要做完的？可是，还剩下这么多......没办法，我来帮您吧。两个人一起处理，应该不会耽误休息时间。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、こちらの書類は本日中に処理が必要なんですか？しかし、こんなに残っていては……仕方ない、僕がお手伝いしますよ。二人でやれば、休憩時間を削る必要もないはずです。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, do all these files need to be filled out by today? It's just, with this much left... so be it, I'll help you out. If we sort this out together, it shouldn't eat into our break hours."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 이 서류는 오늘 안으로 처리해야 하는 건가요? 하지만, 이렇게 남아 있다니…… 어쩔 수 없네요. 제가 도와드리죠. 둘이서 하면, 휴식 시간을 쓸 필요는 없을 거예요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，這些文件都是今天要做完的？可是，還剩下這麼多......沒辦法，我來幫您吧。兩個人一起處理，應該不會耽誤休息時間。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在决定要违反命令，私自行动时，我就已经做好了会被问责的准备。只是没有想到，送葬人前辈会推荐我到这里来......"
+        },
+        {
+          "language": "日文",
+          "content": "命令に背き、独断で動くと決めたときから、責任を問われる覚悟はできてました。しかし、まさかイグゼキュター先輩がここに推薦してくれるとは、なんとも予想外です……"
+        },
+        {
+          "language": "英文",
+          "content": "When I decided to violate orders and act independently, I was expecting a severe reprimand. What I never predicted was that Mr. Executor would recommend me here…"
+        },
+        {
+          "language": "韩文",
+          "content": "명령을 어기고 독단적으로 움직이자 결정했을 때부터, 책임을 질 각오는 되어있었습니다. 하지만 설마 이그제큐터 선배가 여기에 추천해 줄 거라고는 전혀 예상 못 했어요……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "在決定要違反命令，私自行動時，我就已經做好了會被問責的準備。只是沒有想到，送葬人前輩會推薦我到這裡來......"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，您知道在哪里可以借到故事书吗？医疗部的干员托我照看来治疗的孩子们，我想给他们念点故事。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、童話の本を借りられるところを知ってますか？医療部の人から、治療に来た子供たちの面倒を頼まれてるので、読み聞かせてあげようと思ってるんです。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, do you know if there's anywhere to borrow storybooks here? Operators at the Medical Department have asked me to care for the children under treatment, and I'd like to read them a tale or two."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 동화책을 빌릴 수 있는 곳을 알고 계시나요? 의료부 직원한테 치료받으러 온 아이들을 돌봐달라고 부탁받아서, 읽어주려 하거든요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，您知道在哪裡可以借到故事書嗎？醫療部的幹員托我照看來治療的孩子們，我想給他們念點故事。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "公证所不仅有执行者这样的外勤类职务，同时也有许多文职岗位。其实我本来的志愿就是文职，但在考核的时候一不小心......咳，弄塌了测试场馆的几间屋子，才被调到了这个职位上。"
+        },
+        {
+          "language": "日文",
+          "content": "公証人役場には執行人のような外勤職だけでなく、デスクワーク中心の内勤職も多くあります。僕は元々内勤志望でしたが、審査の時にうっかり……えっと、試験会場の部屋をいくつか半壊させてしまって、それで今の部署に配属されたんです。"
+        },
+        {
+          "language": "英文",
+          "content": "The Notarial Hall employs more than just field executors; there's plenty of civil service posts. I actually aspired for one in the first place, but when it came to the evaluation, I accidentally... um, collapsed a few rooms in the examination venue, which got me put in my current position."
+        },
+        {
+          "language": "韩文",
+          "content": "공증소에는 집행자 같은 외근직뿐만 아니라, 사무 중심의 내근직도 많이 있습니다. 저는 원래 내근직을 지망했지만, 심사할 때 실수로…… 음, 시험장의 방 몇 개를 반파시켜버리는 바람에, 지금 부서로 배속됐죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "公證所不僅有執行者這樣的外勤類職務，同時也有許多文職崗位。其實我本來的志願就是文職，但在考核的時候一不小心......咳，弄塌了測試場館的幾間屋子，才被調到了這個職位上。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不后悔离开拉特兰，这是我自己的选择。虽然有很多不习惯的地方，但能像现在这样看一看大地各处，我觉得就已经值得了。"
+        },
+        {
+          "language": "日文",
+          "content": "自分で選んだ道ですから、ラテラーノを離れたことは後悔してません。まだ不慣れなことも多いですが、こんな風に大地を巡れるようになって、決めた甲斐があったと思います。"
+        },
+        {
+          "language": "英文",
+          "content": "I don't rue leaving Laterano; it was my own choice. There's so many places I'm still not familiar with, but I feel that being able to see the breadth of Terra like I am now is more than worth it."
+        },
+        {
+          "language": "韩文",
+          "content": "제가 선택한 길이기에, 라테라노를 떠난 것을 후회하지 않습니다. 아직 익숙지 않은 것도 많지만, 이런 식으로 대지를 돌아다닐 수 있게 됐으니, 결정한 보람이 있는 것 같아요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我不後悔離開拉特蘭，這是我自己的選擇。雖然有很多不習慣的地方，但能像現在這樣看一看大地各處，我覺得就已經值得了。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "萨科塔人能察觉互相的心情，这在我们之间是一种不必特地强调的常识。但是很遗憾，在某个时刻，我忽然发现自己失去了那种同族间的感应。不是身体上的病变，我只是......开始思考。"
+        },
+        {
+          "language": "日文",
+          "content": "サンクタ同士が互いの心情を察することができるのは、僕たちにとっては言うまでもない常識です。しかし残念ながら、ある時ふと、そういった同族間での知覚が失われていることに気付いたんです。身体的な病変が原因ではなく、ただ……思考するようになったからです。"
+        },
+        {
+          "language": "英文",
+          "content": "The Sankta ability to perceive each other's states of mind is common sense to us, not something that needs real elaboration. But I'm sad to say, at some point, I suddenly realized I lost that reciprocation with my own people. It wasn't any physical disease, I just... began to think."
+        },
+        {
+          "language": "韩文",
+          "content": "산크타끼리 서로의 심정을 헤아릴 수 있다는 건, 우리에게는 말할 것도 없는 상식이죠. 하지만 안타깝게도 어느 순간, 그런 동족 간의 지각을 잃어버렸다는 것을 깨달았습니다. 병으로 인한 신체적인 변화가 원인이 아니라, 그저…… 생각하게 되었기 때문이죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "薩科塔人能察覺互相的心情，這在我們之間是一種不必特地強調的常識。但是很遺憾，在某個時刻，我忽然發現自己失去了那種同族間的感應。不是身體上的病變，我只是......開始思考。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "等等，博士！哎，您拿错杯子了，这是我泡给自己的浓缩咖啡，没有加糖，旁边这一杯才是给您的。抱歉，会不会太苦了？......没问题，味道很好？是、是吗，您喜欢就好。"
+        },
+        {
+          "language": "日文",
+          "content": "ストップ、ドクター！ふぅ、カップを間違えてますよ。それは僕が自分で飲む用の濃いめのやつで、砂糖も入れてません。その隣がドクターのです。すみません、苦すぎましたか？……大丈夫、美味しい？そ、そうですか。お口に合うようで良かった。"
+        },
+        {
+          "language": "英文",
+          "content": "Stop, Doctor! Phew. You took the wrong cup—that's the espresso I brewed for myself, with no sugar. Yours was the one next to it. Sorry, I assume it was too bitter? ...It's fine, it tastes great? A—Alright, I'm glad you like it."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 잠깐만요! 휴, 컵을 착각하셨네요. 그건 제가 마시려고 내린 에스프레소예요, 설탕도 안 넣었어요. 그 옆에 있는 게 박사님 겁니다. 죄송합니다, 너무 썼나요? ……괜찮다, 맛있다고요? 그, 그렇군요. 입에 맞으신 것 같아 다행입니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "等等，博士！哎，您拿錯杯子了，這是我泡給自己的濃縮咖啡，沒有加糖，旁邊這一杯才是給您的。抱歉，會不會太苦了？......沒問題，味道很好？是、是嗎，您喜歡就好。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，可以把您的通讯装置借我一下吗？工作结束之后，一般我会关闭通讯仪器，不接收任何消息。......好了，我给您开通了紧急联络权限，这样一来，有任何事您都可以随时联系我。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、通信端末をちょっと貸してもらえますか？退勤後は端末を切って、メッセージを一切受け取らないようにしているので……よし、緊急連絡権限を付与しておいたので、これでいつでも遠慮なく連絡してください。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, could you lend me your comms device for a moment? I usually turn my comms off after work, and don't get any messages. ...There we go, I've granted you emergency contact privileges. You can get in touch with me whenever for whatever, this way."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 통신 단말기를 좀 빌려주시겠어요? 전 퇴근 후에는 단말기를 끄고, 메시지를 일절 받지 않고 있으니까요... ... 됐다, 긴급 연락 권한을 부여해 두었으니, 이제 언제든지 사양 말고 연락 주세요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，可以把您的通訊裝置借我一下嗎？工作結束之後，一般我會關閉通訊儀器，不接收任何消息。......好了，我給您開通了緊急聯絡權限，這樣一來，有任何事您都可以隨時聯繫我。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您现在好像很开心？嗯，我是这么感觉的。快乐、悲伤、愤怒......情感本就可以在人群中相互感染，而不必分我们来自什么城市，属于什么族群。博士您喜悦时，我当然也能感觉到。"
+        },
+        {
+          "language": "日文",
+          "content": "随分楽しそうですね。ええ、僕にはそう見えます。喜び、悲しみ、怒り……感情は人から人に、出身や種族の垣根を越えて伝播していくものですから。ドクターが喜べば、当然僕にもそれが伝わってくるんですよ。"
+        },
+        {
+          "language": "英文",
+          "content": "You seem to be having plenty of fun. Yes, I can tell. Joy, sorrow, anger... emotions can propagate between all of us, regardless of what city or race we come from. When you're happy, it's no wonder I can sense it too."
+        },
+        {
+          "language": "韩文",
+          "content": "꽤 즐거워 보이시네요. 네, 저한테는 그렇게 보입니다. 기쁨, 슬픔, 분노…… 감정은 사람에서 사람에게, 출신이나 종족의 틀을 넘어서 전염되는 것이니까요. 박사님이 기쁘다면, 당연히 제게도 그게 전해져 온다고요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "您現在好像很開心？嗯，我是這麼感覺的。快樂、悲傷、憤怒......情感本就可以在人群中相互感染，而不必分我們來自什麼城市，屬於什麼族群。博士您喜悅時，我當然也能感覺到。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，您还醒着吗？请再坚持一下，把这些工作完成，就可以休息了。来，您要的咖啡。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、起きてますか？もうひと辛抱ですよ、この仕事を終えれば休めます。どうぞ、お望みのコーヒーです。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, are you still awake? It's just a little longer now. We can be on break once this work's done. Here, I have your coffee."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 깨어 있으신가요? 조금만 더 참으시면 돼요. 이 일을 끝내면 쉴 수 있습니다. 자, 찾으시던 커피입니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，您還醒著嗎？請再堅持一下，把這些工作完成，就可以休息了。來，您要的咖啡。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您好，我是经由中庭公证所外调协议派遣来罗德岛的职员。代号？嗯......您叫我见行者就好。这是协议的相关文件，接下来一段时间就麻烦您了。"
+        },
+        {
+          "language": "日文",
+          "content": "初めまして、中庭公証人役場の協定に基づきロドスに派遣されてきた者です。コードネームですか？そうですね……ではエンフォーサーとお呼びください。こちらが協定関係の書類です。では、しばらくお世話になります。"
+        },
+        {
+          "language": "英文",
+          "content": "Hello, I'm a dispatch at Rhodes Island via a transfer agreement with the Notarial Hall. A codename? Let's think... You can call me Enforcer. Here's the files pertaining to the agreement. I'll be counting on you to show me the ropes."
+        },
+        {
+          "language": "韩文",
+          "content": "처음 뵙겠습니다. 중정 공증소의 협정에 따라 로도스 아일랜드에 파견된 사람입니다. 코드네임 말인가요? 그렇군요…… 그럼 인포서라 불러주세요. 이게 협정 관련 서류입니다. 그럼, 잠시 신세 지도록 하겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "您好，我是經由中庭公證所外調協定派遣來羅德島的職員。代號？嗯......您叫我見行者就好。這是協議的相關文件，接下來一段時間就麻煩您了。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "太好了，这种作战风格我可以很快适应。"
+        },
+        {
+          "language": "日文",
+          "content": "良かった。この手の戦い方ならすぐに慣れると思います。"
+        },
+        {
+          "language": "英文",
+          "content": "Brilliant. It'll be quick for me to adapt to this combat style."
+        },
+        {
+          "language": "韩文",
+          "content": "다행이다. 이런 전투 방식이라면 금방 적응할 수 있을 거예요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "太好了，這種作戰風格我可以很快適應。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "晋升......对接下来的具体工作时间安排会有什么影响吗？"
+        },
+        {
+          "language": "日文",
+          "content": "昇進……今後の具体的な業務スケジュールに何か影響が出るのでしょうか？"
+        },
+        {
+          "language": "英文",
+          "content": "A promotion... Is this going to impact my specific working hours?"
+        },
+        {
+          "language": "韩文",
+          "content": "승진…… 차후 구체적인 업무 스케줄에 뭔가 영향이 있을까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "晉升......對接下來的具體工作時間安排會有什麼影響嗎？"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "或许我的想法还是很不成熟，但走到今天，每一步都是我自己做出的选择，这就足够了。博士，非常感谢您这段时间的照顾。"
+        },
+        {
+          "language": "日文",
+          "content": "まだまだ未熟かもしれませんが、今日に至るまで、一歩一歩自らの選択で歩んで来られたことには満足しています。ドクター、これまで本当にお世話になりました。"
+        },
+        {
+          "language": "英文",
+          "content": "Maybe it's immature of me to approach things this way, but every step I've taken up to today is of my own choosing, and I'm satisfied with that. Doctor, thank you so much for watching over me all this time."
+        },
+        {
+          "language": "韩文",
+          "content": "아직은 미숙할지 몰라도, 오늘날에 이르기까지, 한 걸음 한 걸음 자신의 선택으로 걸어온 것에 만족하고 있습니다. 박사님, 그동안 정말 신세 많이 졌습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "或許我的想法還是很不成熟，但走到今天，每一步都是我自己做出的選擇，這就足夠了。博士，非常感謝您這段時間的照顧。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "新的任务吗？我明白了。"
+        },
+        {
+          "language": "日文",
+          "content": "新しい任務ですね？了解です。"
+        },
+        {
+          "language": "英文",
+          "content": "A new mission? Understood."
+        },
+        {
+          "language": "韩文",
+          "content": "새로운 임무인가요? 알겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "新的任務嗎？我明白了。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果遇到意外状况，我会自行判断如何行动。"
+        },
+        {
+          "language": "日文",
+          "content": "想定外の状況になれば、自己判断で行動します。"
+        },
+        {
+          "language": "英文",
+          "content": "If we run into any contingency situations, I will independently judge how to proceed."
+        },
+        {
+          "language": "韩文",
+          "content": "예상치 못한 상황이 되면, 스스로 판단해서 행동하겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "如果遇到意外狀況，我會自行判斷如何行動。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "早点出发，早点休息。"
+        },
+        {
+          "language": "日文",
+          "content": "早めに出て早めに休みましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "The sooner we're out, the sooner we're on break."
+        },
+        {
+          "language": "韩文",
+          "content": "빨리 가서 빨리 쉬도록 하죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "早點出發，早點休息。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "战斗中造成的损坏需要赔偿吗？"
+        },
+        {
+          "language": "日文",
+          "content": "戦闘中の損壊に賠償責任はありますか？"
+        },
+        {
+          "language": "英文",
+          "content": "Do we have to compensate for damages incurred in combat?"
+        },
+        {
+          "language": "韩文",
+          "content": "전투 중에 발생한 파손에 배상할 책임이 있나요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "戰鬥中造成的損壞需要賠償嗎？"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "听您安排。"
+        },
+        {
+          "language": "日文",
+          "content": "あなたの指示通りに。"
+        },
+        {
+          "language": "英文",
+          "content": "By your order."
+        },
+        {
+          "language": "韩文",
+          "content": "당신의 지시대로."
+        },
+        {
+          "language": "繁体中文",
+          "content": "聽您安排。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "强制执行。"
+        },
+        {
+          "language": "日文",
+          "content": "強制執行。"
+        },
+        {
+          "language": "英文",
+          "content": "Enforcing."
+        },
+        {
+          "language": "韩文",
+          "content": "강제 집행."
+        },
+        {
+          "language": "繁体中文",
+          "content": "強制執行。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这场战斗并非因仇怨而起。"
+        },
+        {
+          "language": "日文",
+          "content": "この戦いは怨恨によるものではありません。"
+        },
+        {
+          "language": "英文",
+          "content": "This battle is by no means out of animosity."
+        },
+        {
+          "language": "韩文",
+          "content": "이 싸움은 원한에 의한 것이 아닙니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這場戰鬥並非因仇怨而起。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大家只是立场各不相同罢了。"
+        },
+        {
+          "language": "日文",
+          "content": "互いの立場が違う、ただそれだけです。"
+        },
+        {
+          "language": "英文",
+          "content": "We all simply have differing viewpoints, no more."
+        },
+        {
+          "language": "韩文",
+          "content": "단지 서로의 입장이 다를 뿐입니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "大家只是立場各不相同罷了。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "到此为止。"
+        },
+        {
+          "language": "日文",
+          "content": "ここまでです。"
+        },
+        {
+          "language": "英文",
+          "content": "This is as far as you go."
+        },
+        {
+          "language": "韩文",
+          "content": "여기까지입니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "到此為止。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有理念支撑的争斗并非毫无意义。"
+        },
+        {
+          "language": "日文",
+          "content": "理念に基づく争いならば、全くの無意味ではありません。"
+        },
+        {
+          "language": "英文",
+          "content": "A struggle with an ideal to support it is far from meaningless."
+        },
+        {
+          "language": "韩文",
+          "content": "이념에 의한 싸움이라면, 전혀 무의미하지는 않습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "有理念支撐的爭鬥並非毫無意義。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "各位的想法我之后会听。"
+        },
+        {
+          "language": "日文",
+          "content": "皆さんの考えは後ほど聞かせてもらいます。"
+        },
+        {
+          "language": "英文",
+          "content": "I will hear you all out afterwards."
+        },
+        {
+          "language": "韩文",
+          "content": "여러분의 생각은 나중에 듣도록 하죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "各位的想法我之後會聽。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "各位请小心，不要从这里摔下去。"
+        },
+        {
+          "language": "日文",
+          "content": "皆さん、ここから落ちてしまわないよう、気をつけてください。"
+        },
+        {
+          "language": "英文",
+          "content": "Be careful not to fall from here, everyone."
+        },
+        {
+          "language": "韩文",
+          "content": "여러분, 여기서 떨어지지 않도록 조심하세요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "各位請小心，不要從這裡摔下去。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "他们有他们的坚持，我们也有我们的。感谢您愿意去了解，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "彼らには彼らの、僕たちには僕たちの譲れないものがあります。それを理解することを厭わない姿勢に感謝します、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "They have what they uphold, and we have ours. Thank you for the willingness to realize, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "그들과 우리 모두, 서로 양보할 수 없는 것이 있습니다. 그것을 이해하는 걸 마다하지 않는 자세에 감사드립니다, 박사님."
+        },
+        {
+          "language": "繁体中文",
+          "content": "他們有他們的堅持，我們也有我們的。感謝您願意去瞭解，博士。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "任务完成。您也辛苦了，博士，回去好好休息吧。"
+        },
+        {
+          "language": "日文",
+          "content": "任務完了。お疲れさまです、ドクター。帰ってゆっくり休みましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "Mission complete. Good work, Doctor. Let's take a good break once we're back."
+        },
+        {
+          "language": "韩文",
+          "content": "임무 완료. 수고하셨습니다, 박사님. 돌아가서 푹 쉬시죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "任務完成。您也辛苦了，博士，回去好好休息吧。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "离开的那些人，他们是放弃了吗？还是......"
+        },
+        {
+          "language": "日文",
+          "content": "逃げていった人たち、彼らは諦めたんでしょうか？それとも……"
+        },
+        {
+          "language": "英文",
+          "content": "The ones who ran—did they give up? Or, maybe..."
+        },
+        {
+          "language": "韩文",
+          "content": "도망간 사람들은 포기한 걸까요? 아니면……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "離開的那些人，他們是放棄了嗎？還是......"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不必如此沮丧，我们还可以再尝试。"
+        },
+        {
+          "language": "日文",
+          "content": "そんなに落ち込むことはありません。またトライすればいいだけです。"
+        },
+        {
+          "language": "英文",
+          "content": "No need to be so dejected. We can still try again."
+        },
+        {
+          "language": "韩文",
+          "content": "그렇게 축 처져있을 필요는 없습니다. 다시 시도하면 되는 거예요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "不必如此沮喪，我們還可以再嘗試。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里就是罗德岛的宿舍？非常......嗯，简洁。"
+        },
+        {
+          "language": "日文",
+          "content": "これがロドスの宿舎ですか？とても……なんというか、質素ですね。"
+        },
+        {
+          "language": "英文",
+          "content": "So these are the renowned Rhodes Island dormitories? Very... well, frugal."
+        },
+        {
+          "language": "韩文",
+          "content": "이게 로도스 아일랜드의 숙소인가요? 무척…… 뭐랄까, 소박하네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這裡就是羅德島的宿舍？非常......嗯，簡潔。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小心，咖啡会洒出来。"
+        },
+        {
+          "language": "日文",
+          "content": "危ない、コーヒーがこぼれます。"
+        },
+        {
+          "language": "英文",
+          "content": "Careful! You could've spilled the coffee."
+        },
+        {
+          "language": "韩文",
+          "content": "위험해라, 커피 흘리겠어요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "小心，咖啡會灑出來。"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "休息的时候我会戴上眼罩，只能靠脚步声分辨各位。刚刚是......博士吗？"
+        },
+        {
+          "language": "日文",
+          "content": "休憩中はアイマスクを付けるので、足音で人を判別するしかないんですよ。今のは……ドクター、あなたですか？"
+        },
+        {
+          "language": "英文",
+          "content": "I wear eyemasks while I'm on break, so I can only tell you all apart by your footsteps. Was that just now... the Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "휴식 중에는 안대를 껴서, 발소리로 사람을 구분할 수밖에 없죠. 지금은…… 박사님, 당신인가요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "休息的時候我會戴上眼罩，只能靠腳步聲分辨各位。剛剛是......博士嗎？"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주"
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要喝咖啡吗，博士？"
+        },
+        {
+          "language": "日文",
+          "content": "コーヒーでもいかがですか、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Want some coffee, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "커피라도 한잔하시겠어요, 박사님?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "要喝咖啡嗎，博士？"
+        }
+      ]
+    }
+  ]
+}

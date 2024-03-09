@@ -1,0 +1,908 @@
+{
+  "name": "微风",
+  "charaKey": "char_275_breeze",
+  "images": [
+    "https://prts.wiki/images/e/e7/立绘_微风_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/0/01/立绘_微风_2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_275_breeze"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_275_breeze"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_275_breeze"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要我帮忙是没问题啦，之后可得好好回报我哦。"
+        },
+        {
+          "language": "日文",
+          "content": "わたくしに手伝ってほしい？構わないけど、後でしっかり見返りをいただくわよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll gladly offer my help if you need it. Just remember to return the favor someday."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 도와줬으면 좋겠어? 상관은 없지만, 나중에 제대로 받아낼 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "要我幫忙是沒問題啦，之後可得好好回報我哦。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "维娜......不，推进之王小姐她总给我一种说不出的感觉，是为什么呢......？"
+        },
+        {
+          "language": "日文",
+          "content": "ヴィーナ……いえ、シージさんからはいつも言葉にできない不思議な印象を受けるわ。なぜかしら……。"
+        },
+        {
+          "language": "英文",
+          "content": "Vina... Err, I mean, Miss Siege—always gives me this feeling I can't describe. I wonder why...?"
+        },
+        {
+          "language": "韩文",
+          "content": "비나…… 아니, 시즈 씨한테는 늘 말로 할 수 없는 신기한 인상을 받아. 왜일까……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "維娜......不，推進之王小姐她總給我一種說不出的感覺，是為什麼呢......？"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的老爹？哎呀，明知道我是离家出走来到这里的，却还要这么问吗？莫非博士你其实很不擅长聊天？"
+        },
+        {
+          "language": "日文",
+          "content": "お父様は元気かですって？ちょっと、普通家出中の人にわざわざそんなこと聞くかしら？もしかしてドクターさんって会話が苦手なの？"
+        },
+        {
+          "language": "英文",
+          "content": "My dad? Oh my, you know I ran away from home and you're still going to ask me that? Doctor, are you perhaps not the best at conversation?"
+        },
+        {
+          "language": "韩文",
+          "content": "아버님은 잘 계시느냐고? 잠깐, 보통 가출 중인 사람한테 일부러 그런 걸 물어보나? 혹시 박사는 대화하는 게 서투른 거야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我的老爹？哎呀，明知道我是離家出走來到這裡的，卻還要這麼問嗎？莫非博士你其實很不擅長聊天？"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，请务必品尝一下我的料理......有草药的味道？哎、哎呀，我怎么会用博士您做实验呢？哈哈......"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターさん、わたくしの手料理をどうぞ召し上がれ……薬草の味がする、ですって？い、いやね、ドクターさんを実験台になんかするわけないでしょう、おほほ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor! Do have a try of my cooking... You taste medicine? Oh, gosh... Well, I do have some knowledge in herbs, but you know I wouldn't be experimenting on you, would I? Eheheh..."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 내가 직접 만든 요리인데 먹어 봐…… 약초 맛이 난다고? 어, 어머~ 내가 박사를 실험 대상으로 삼을 리 없잖아, 오호호……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，請務必品嘗一下我的料理......有草藥的味道？哎、哎呀，我怎麼會用博士您做實驗呢？哈哈......"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我曾觉得老爹他们麻木、迂腐，所以独自离开那里，寻找新的生活，走了很远，经历了很多，却反而理解了老爹他们。欸哈哈，搞什么嘛。"
+        },
+        {
+          "language": "日文",
+          "content": "昔、お父様たちの考えは古臭くて役立たずだと思ったから家を出ることにしたの。故郷を離れて、新しい生活を求めて、たくさん歩いて、たくさん経験して、ふと気づくと、お父様たちの考えもわかるようになっていた。ふふ、おかしな話でしょう。"
+        },
+        {
+          "language": "英文",
+          "content": "I used to think my parents were so stuffy and numb to it all, so I ran away from home to find a new life. But after having traveled so far and been through so much, I've come to realize why my parents felt how they did now. Ahahah, c'est la vie, as the saying goes."
+        },
+        {
+          "language": "韩文",
+          "content": "예전에, 어른들의 사고방식은 고리타분하고 도움이 안 된다고 생각해서 집을 나왔어. 고향을 떠나 새로운 생활을 찾아 많이 걷고, 많이 경험하다 보니 문득 어른들의 사고방식도 이해가 되더라. 후후, 이상한 이야기지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我曾覺得老爹他們麻木、迂腐，所以獨自離開那裡，尋找新的生活，走了很遠，經歷了很多，卻反而理解了老爹他們。欸哈哈，搞什麼嘛。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，你看见那朵离散的云了吗？那是我家乡的方向。"
+        },
+        {
+          "language": "日文",
+          "content": "あの離れていく雲が見えるかしら？あの方向のずっと先に、わたくしの故郷があるのよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, see that lone cloud over there, off from the rest? That's the way my hometown lies."
+        },
+        {
+          "language": "韩文",
+          "content": "저기 멀어져 가는 구름이 보여? 저 방향 훨씬 너머에, 내 고향이 있어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，你看見那朵離散的雲了嗎？那是我家鄉的方向。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“信仰”是一个有趣的话题，我没有机会前往拉特兰，却没想到能从罗德岛干员口中听到拉特兰的种种事迹，不过是位过于......呃、活泼的姐姐呢，拉特兰原来是这样的地方吗？"
+        },
+        {
+          "language": "日文",
+          "content": "「信仰」についての話題には興味が尽きないわね。ラテラーノに行く機会はないけど、まさかロドスでラテラーノについてこんなにたくさん知れるなんて。それにしても、話をしてくれるあの女性……本当に元気な方ね。ラテラーノってああいう人たちが集まってる場所なのかしら？"
+        },
+        {
+          "language": "英文",
+          "content": "Faith' is an interesting topic. I never had the chance to go to Laterano, but how funny I should hear all about its feats on Rhodes Island? Although I've mostly heard about, er... one very overly active girl. Has Laterano always been such a lively place?"
+        },
+        {
+          "language": "韩文",
+          "content": "'신앙'에 대한 화제에는 흥미가 끊이질 않아. 라테라노에 갈 기회는 없지만, 설마 로도스 아일랜드에서 라테라노에 대해 이렇게 많이 알게 될 줄이야. 그건 그렇고, 이야기를 해 주는 저 사람…… 정말 활기찬 분이네. 라테라노는 저런 사람들이 모여있는 곳일까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“信仰”是一個有趣的話題，我沒有機會前往拉特蘭，卻沒想到能在羅德島聽到拉特蘭的種種事蹟，不過是位過於......呃、活潑的姐姐呢，拉特蘭原來是這樣的地方嗎？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "多伦郡的航船需要灯塔才能回到港湾，罗德岛将是我最后旅程的避风港。至于博士你嘛，勉强凑合着吧......所以请一定要做到，我没有做到的事。"
+        },
+        {
+          "language": "日文",
+          "content": "ドルンの船は灯台の光がなければ帰港できないように、わたくしは最後の避難港にこのロドスを選んだというだけよ。つまりあなたは、おまけみたいなものね……ふふっ。まあせいぜい、わたくしにできないことを、しっかりやってちょうだい。"
+        },
+        {
+          "language": "英文",
+          "content": "The boats of Toron need a lighthouse to make their way back to port, and Rhodes Island has served as the safe haven at the end of my trip. Doctor, your light might not illuminate the whole harbor, but go on... Do what I couldn't. It's my honest request."
+        },
+        {
+          "language": "韩文",
+          "content": "토룬의 배는 등대의 빛이 없으면 귀항할 수 없는 것처럼, 나는 최후의 피난항으로 이 로도스 아일랜드를 선택한 것뿐이야. 다시 말해 당신은 덤 같은 거지… 후후. 그러니까… 최대한 내가 할 수 없는 일을 제대로 해줘."
+        },
+        {
+          "language": "繁体中文",
+          "content": "多倫郡的航船需要燈塔才能回到港灣，羅德島將是我最後旅程的避風港。至於博士你嘛，勉強湊合著吧......所以請一定要做到，我沒有做到的事。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "此时此地，便是格蕾丝·亚利桑那的信仰所在，博士博士，我将对您的希望虔诚，生死不渝。"
+        },
+        {
+          "language": "日文",
+          "content": "グレース・アリゾナの信仰が、今ここに。ドクター様、あなたへの希望と信心は、永遠に潰えることはありません。"
+        },
+        {
+          "language": "英文",
+          "content": "Right here, right now, is where I, Grace Arizona, place my faith. Doctor, you hold my hopes in your hands, forever more."
+        },
+        {
+          "language": "韩文",
+          "content": "그레이스 애리조나의 신앙이 지금 여기에. 박사님, 당신을 향한 희망과 믿음은 영원히 사그러들지 않을 것입니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "此時此地，便是格蕾絲·亞利桑那的信仰所在，博士博士，我將對您的希望虔誠，生死不渝。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......是在梦中彷徨的表情呢。感到不安吗，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "……夢の中でさまよっているような寝顔ね。ドクターさん、不安を感じているのかしら？"
+        },
+        {
+          "language": "英文",
+          "content": "...That's the face of someone lost in their dreams. I wonder if you're feeling uneasy, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "……꿈속에서 헤매고 있는 것 같은 얼굴로 자네. 박사, 불안을 느끼고 있는 걸까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "......是在夢中彷徨的表情呢。感到不安嗎，博士。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "微风，来自多伦郡的游学者，很荣幸见到您，博士。正式的礼仪太麻烦了，所以就免了吧。"
+        },
+        {
+          "language": "日文",
+          "content": "ブリーズと申します。ドルンから遊学にやってきました。お会いできて光栄です、ドクター様。はぁ……堅苦しい礼儀作法なんて肩がこるし、もういいかしら？"
+        },
+        {
+          "language": "英文",
+          "content": "Breeze, a traveling scholar from Toron County. It is a pleasure to meet you, Doctor. Phew, I've had enough of formal etiquette, so this will be the last of it."
+        },
+        {
+          "language": "韩文",
+          "content": "브리즈라고 합니다. 토룬에서 유학 왔습니다. 만나 뵙게 되어 영광입니다, 박사님. 하아…… 이렇게 딱딱하게 예의 차리는 건 정말 피곤해, 이제 됐지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "微風，來自多倫郡的遊學者，很榮幸見到您，博士。正式的禮儀太麻煩了，所以就免了吧。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......令人惊叹的医疗技艺，不愧是罗德岛。"
+        },
+        {
+          "language": "日文",
+          "content": "……素晴らしいヒーリングアーツの運用ね。さすがロドスだわ。"
+        },
+        {
+          "language": "英文",
+          "content": "...Stunning medical skills. There's Rhodes Island for you..."
+        },
+        {
+          "language": "韩文",
+          "content": "……엄청난 치유 아츠 운용이네. 역시 로도스 아일랜드야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "......令人驚歎的醫療技藝，不愧是羅德島。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "为您的恩赐献上由衷的祝福，博士。唔？真是失礼的反应，这可是正经的吻手礼，动作快点啦！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター様、あなたの施しに心よりの祝福を。……あら？失礼な反応ね。手の甲への口づけは正式な儀式の一つじゃない、早くしなさい！"
+        },
+        {
+          "language": "英文",
+          "content": "I bestow my heartfelt blessings on you for your gift, Doctor. Hmm? What a shoddy reaction—this is a hand-kiss, you know, we're being serious here. Hurry up, come on!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 당신의 은혜에 진심으로 축복을. ……어머? 무례한 반응이네. 손등 키스는 정식적인 의식 중 하나잖아, 어서 하라고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "為您的恩賜獻上由衷的祝福，博士。唔？真是失禮的反應，這可是正經的吻手禮，動作快點啦！"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哎呀，这次可不会像上次那么正式咯，难道你在期待着吗？我会将我的一切奉献给罗德岛，这是超过形式的觉悟哦。"
+        },
+        {
+          "language": "日文",
+          "content": "何よその顔、今回は別に儀式的なことはいいでしょう？それとも、もしかして期待してたのかしら？とにかく、わたくしの全てをロドスに捧げる覚悟よ。この覚悟は儀式なんかで表せるものじゃないんだから。"
+        },
+        {
+          "language": "英文",
+          "content": "Well, this time won't be as mannerful as the last, not that I'd think you were hoping for that? So here goes. I will dedicate everything to Rhodes Island, a pledge that transcends my consciousness."
+        },
+        {
+          "language": "韩文",
+          "content": "뭐야, 그 얼굴은. 이번엔 딱히 의식적인 건 됐잖아? 아니면 혹시 기대한 거야? 어쨌든, 내 모든 것을 로도스 아일랜드에 바치기로 각오했어. 이 각오는 의식 같은 걸로 나타낼 수 있는 게 아니니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "哎呀，這次可不會像上次那麼正式囉，難道你在期待著嗎？我會將我的一切奉獻給羅德島，這是超過形式的覺悟哦。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "医护工作就交给我吧。"
+        },
+        {
+          "language": "日文",
+          "content": "治療なら任せなさい。"
+        },
+        {
+          "language": "英文",
+          "content": "Leave the medical work to me."
+        },
+        {
+          "language": "韩文",
+          "content": "치료라면 맡겨줘."
+        },
+        {
+          "language": "繁体中文",
+          "content": "醫護工作就交給我吧。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "感谢您的信任，我会以干员们的安全为第一优先考虑。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターさんの信頼に応えられるように、皆さんの安全確保を最優先に行動するわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you for your trust. I will make sure to prioritize the safety of the Operators."
+        },
+        {
+          "language": "韩文",
+          "content": "박사의 신뢰에 보답할 수 있도록, 모두의 안전 확보를 최우선으로 행동할게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "感謝您的信任，我會以幹員們的安全為第一優先考慮。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "起风了......"
+        },
+        {
+          "language": "日文",
+          "content": "風が吹いてるわ……。"
+        },
+        {
+          "language": "英文",
+          "content": "It's getting windy..."
+        },
+        {
+          "language": "韩文",
+          "content": "바람이 불고 있어……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "起風了......"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "伤害别人的恶党，没有祈求饶恕的权利。"
+        },
+        {
+          "language": "日文",
+          "content": "他人を傷つける悪党に、許しを乞う権利なんてないわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Those who seek to inflict harm on others have no right to ask for forgiveness."
+        },
+        {
+          "language": "韩文",
+          "content": "타인에게 상처를 주는 악당에게 용서를 구걸할 권리 따윈 없어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "傷害別人的惡黨，沒有祈求饒恕的權利。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在。"
+        },
+        {
+          "language": "日文",
+          "content": "はい。"
+        },
+        {
+          "language": "英文",
+          "content": "Here."
+        },
+        {
+          "language": "韩文",
+          "content": "응."
+        },
+        {
+          "language": "繁体中文",
+          "content": "在。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请指示。"
+        },
+        {
+          "language": "日文",
+          "content": "指示をちょうだい。"
+        },
+        {
+          "language": "英文",
+          "content": "Awaiting orders."
+        },
+        {
+          "language": "韩文",
+          "content": "지시를 내려줘."
+        },
+        {
+          "language": "繁体中文",
+          "content": "請指示。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "速战速决。"
+        },
+        {
+          "language": "日文",
+          "content": "すぐに片付けるわよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Let's get this done quickly."
+        },
+        {
+          "language": "韩文",
+          "content": "바로 정리할게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "速戰速決。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "注意保护自己。"
+        },
+        {
+          "language": "日文",
+          "content": "身の安全に気をつけて。"
+        },
+        {
+          "language": "英文",
+          "content": "Make sure to look after yourself."
+        },
+        {
+          "language": "韩文",
+          "content": "안전에 주의해."
+        },
+        {
+          "language": "繁体中文",
+          "content": "注意保護自己。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "悼词回响！"
+        },
+        {
+          "language": "日文",
+          "content": "ユーロジーよ、響け！"
+        },
+        {
+          "language": "英文",
+          "content": "Rings through winds the Eulogy…"
+        },
+        {
+          "language": "韩文",
+          "content": "율로지여, 울려라!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "悼詞迴響！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "风唱挽歌......"
+        },
+        {
+          "language": "日文",
+          "content": "風よ、かの者にエレジーを捧げなさい。"
+        },
+        {
+          "language": "英文",
+          "content": "Sings the breeze an elegy!"
+        },
+        {
+          "language": "韩文",
+          "content": "바람이여, 저자에게 엘러지를 바쳐라."
+        },
+        {
+          "language": "繁体中文",
+          "content": "風唱挽歌......"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "意志！"
+        },
+        {
+          "language": "日文",
+          "content": "ヴォリション！"
+        },
+        {
+          "language": "英文",
+          "content": "We have the will!"
+        },
+        {
+          "language": "韩文",
+          "content": "볼리션!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "意志！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "诸位，胜利属于我们。"
+        },
+        {
+          "language": "日文",
+          "content": "皆さん、勝利はわたくしたちのものよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Everyone, victory is ours."
+        },
+        {
+          "language": "韩文",
+          "content": "다들, 승리는 우리 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "諸位，勝利屬於我們。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "每一次胜利都将成为火种，生生不息。"
+        },
+        {
+          "language": "日文",
+          "content": "勝利もいずれは新しい火種となる、生々流転の理ね。"
+        },
+        {
+          "language": "英文",
+          "content": "Every victory creates a kindling that will flourish into an everlasting fire."
+        },
+        {
+          "language": "韩文",
+          "content": "승리도 언젠간 새로운 불씨가 될 거야. 모든 것은 끊임없이 흘러가고 변하기 마련이니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "每一次勝利都將成為火種，生生不息。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请不要麻痹大意，风向显露着不安。"
+        },
+        {
+          "language": "日文",
+          "content": "油断したらダメ。不穏な風向きよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Keep your senses alert. The wind is still restless."
+        },
+        {
+          "language": "韩文",
+          "content": "방심하면 안 돼. 심상치 않은 풍향이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "請不要麻痺大意，風向顯露著不安。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "为什么总是执着于伤害他人......"
+        },
+        {
+          "language": "日文",
+          "content": "どうしてそこまでして人を傷つけようとするの……。"
+        },
+        {
+          "language": "英文",
+          "content": "Why are they so fixated on hurting others...?"
+        },
+        {
+          "language": "韩文",
+          "content": "왜 그렇게까지 해서 남에게 상처를 주려는 거야……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "為什麼總是執著於傷害他人......"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真是别具一格的设施呢。"
+        },
+        {
+          "language": "日文",
+          "content": "とてもユニークな場所ね。"
+        },
+        {
+          "language": "英文",
+          "content": "What a... unique place this is."
+        },
+        {
+          "language": "韩文",
+          "content": "굉장히 독특한 장소네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "真是別具一格的設施呢。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "等，等下！"
+        },
+        {
+          "language": "日文",
+          "content": "ちょ、ちょっと待って！"
+        },
+        {
+          "language": "英文",
+          "content": "Wait, wait!"
+        },
+        {
+          "language": "韩文",
+          "content": "자, 잠깐만!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "等，等下！"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，想听听我家乡的故事吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ごきげんよう、ドクターさん。わたくしの故郷のお話、聞きたいかしら？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, would you like to hear the story of my hometown?"
+        },
+        {
+          "language": "韩文",
+          "content": "안녕, 박사. 내 고향 이야기, 듣고 싶어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，想聽聽我家鄉的故事嗎？"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您好，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "ごきげんよう、ドクターさん。"
+        },
+        {
+          "language": "英文",
+          "content": "Good day, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "안녕, 박사."
+        },
+        {
+          "language": "繁体中文",
+          "content": "您好，博士。"
+        }
+      ]
+    }
+  ]
+}

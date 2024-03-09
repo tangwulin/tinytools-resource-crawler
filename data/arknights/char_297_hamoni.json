@@ -1,0 +1,940 @@
+{
+  "name": "和弦",
+  "charaKey": "char_297_hamoni",
+  "images": [
+    "https://prts.wiki/images/9/99/立绘_和弦_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/5/59/立绘_和弦_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/4/4c/立绘_和弦_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/8/83/立绘_和弦_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_297_hamoni"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_297_hamoni"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_297_hamoni"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_297_hamoni"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果你面前这些文件来不及处理，为什么不来寻求一下我的帮助呢，我可是很乐意的呀。"
+        },
+        {
+          "language": "日文",
+          "content": "その山のような書類の処理に手が回っていないなら、どうして私に助けを求めないのかしら。喜んで手伝うのにねぇ。"
+        },
+        {
+          "language": "英文",
+          "content": "If you didn't have the time to get to all these files, why didn't you come ask me for help? I would've been more than glad."
+        },
+        {
+          "language": "韩文",
+          "content": "처리할 서류도 많으면서, 왜 나한테 도움을 청하지 않은 거야? 부탁하면 기꺼이 도와줄 텐데 말이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "如果你面前這些文件來不及處理，為什麼不來尋求一下我的幫助呢，我可是很樂意的呀。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "放心，现在就离开罗德岛对我没有任何好处，你大可以在我面前做你平时该做的事。作为这份信任的回报，我目前也不会对外透露你工作的任何内容。开始工作吧，这么厚的文件，我很担心你。"
+        },
+        {
+          "language": "日文",
+          "content": "安心しなさい、今ロドスを離れることは私にとって何のメリットもないの。だからお構いなく、いつも通り仕事してもらっていいわよ。信頼してくれたお返しに、差し当たって他所にあなたの仕事内容を漏らすこともないわよ。さあ、どうぞ始めて。こんなに分厚い書類の束、見てるだけで心配になっちゃうの。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't worry, there wouldn't be anything in it for me if I left Rhodes Island, at this point. You're free to get up to whatever it is you usually do, never mind the fact I'm here. And as recompense for your trust, I won't leak a single detail of your work. Now come on, chop-chop. I'm deathly concerned for you, what with that doorstopper of a document."
+        },
+        {
+          "language": "韩文",
+          "content": "안심해, 지금 로도스 아일랜드를 떠나는 건 나한테 아무런 이득도 없으니까. 그러니 당신은 평소처럼 할 일을 해. 신뢰에 대한 보답으로 박사가 하는 일도, 일단은 누설하지 않을 생각이야. 자, 어서 시작해. 이렇게 두꺼운 서류들을 보고 있자니 나도 박사가 걱정되긴 하네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "放心，現在就離開羅德島對我沒有任何好處，你大可以在我面前做你平時該做的事。作為這份信任的回報，我目前也不會對外透露你工作的任何內容。開始工作吧，這麼厚的文件，我很擔心你。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“亲爱的丽塔”。提起这个，你是想知道些什么呢？学生时代总会有那么几个让人印象深刻的同学，作为一名优秀的士兵，我挺喜欢她的。当然，在这里我们能避免碰面，这点我也很喜欢。"
+        },
+        {
+          "language": "日文",
+          "content": "「親愛なるリタ」。この話に触れて、一体何が知りたいのかしら？誰にだって、学生時代の記憶に残る同級生は何名かいるものでしょ。優秀な兵士として私は彼女のことが結構気に入ってるの。もちろん、ここで顔を合わせなくて済むこともね。"
+        },
+        {
+          "language": "英文",
+          "content": "'Darling Rita.' I assume you're curious, if you bring it up? You know those certain few students who always leave their mark on you in your school years? I took quite a fancy to one of them—such an excellent soldier she turned out to be. Still, we have the space to keep out of each other's ways here, and that suits my fancy just as well."
+        },
+        {
+          "language": "韩文",
+          "content": "'사랑하는 리타'. 이 얘기를 꺼내다니 궁금한 거라도 있어? 학창 시절 기억에 남는 친구 몇 명 정돈 누구나 있는 법이잖아. 우수한 병사로서, 난 걔가 꽤나 마음에 들어. 물론 여기선 얼굴을 마주치지 않아도 된다는 점도 마음에 들고 말이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "“親愛的麗塔”。提起這個，你是想知道些什麼呢？學生時代總會有那麼幾個讓人印象深刻的同學，作為一名優秀的士兵，我挺喜歡她的。當然，在這裡我們能避免碰面，這點我也很喜歡。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "需要我为你做什么吗，罗德岛的博士？如果我的行为能加深我们双方的信任，我愿意暂时从窗外的风景上移回视线，转而关心一下你的苦恼。"
+        },
+        {
+          "language": "日文",
+          "content": "何かお望みかしら、ロドスのドクター？私の行動で互いの信頼を深められるというのなら、しばらくの間は窓の外の風景ではなく、あなたの悩みの方に目を向けてあげてもいいわよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Anything you'd like of me, Doctor of Rhodes Island? If it's in my power to deepen our bilateral trust, then I <i>would</i> be willing to stop gazing out at the window scenery, and focus a little instead on whatever it is that's vexing you."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 뭘 해주면 될까, 로도스 아일랜드의 박사님? 나의 행동으로 우리의 신뢰를 더욱 돈독히 할 수 있다면 잠시 창밖의 풍경에서 당신의 고민으로 관심을 옮겨 줄 수도 있는데."
+        },
+        {
+          "language": "繁体中文",
+          "content": "需要我為你做什麼嗎，羅德島的博士？如果我的行為能加深我們雙方的信任，我願意暫時從窗外的風景上移回視線，轉而關心一下你的苦惱。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "可惜，这里了解伦蒂尼姆事件细节的人不多，我其实有些好奇他们怎么看我。毕竟之前在我眼里，罗德岛这样一家和任何国家都没有关系的医疗组织，和我们作对，不是太蠢，就是知道太多。"
+        },
+        {
+          "language": "日文",
+          "content": "残念ね、ここじゃロンディニウム事件の詳細を知っている人は少ないみたい。実は私についてどう反応するのか興味があったのよ。だってこれまでは、どの国とも関わらない医療組織でありながら我々と対立するのって、救いようのないバカか、色々知りすぎているかのどっちかと思っていたのだもの。"
+        },
+        {
+          "language": "英文",
+          "content": "Shame you're short on people with a shrewd eye for Londinium affairs—I was quite curious what they'd think of me. After all, a medical organization like Rhodes Island, unaffiliated with any nation, opting to work with us? Either you did it out of sheer idiocy, or if not, then you must've known a little too much."
+        },
+        {
+          "language": "韩文",
+          "content": "아쉽게도, 여기엔 런디니움 사건에 대해 자세히 아는 사람이 많지 않은 것 같네. 나는 로도스 아일랜드처럼 어느 국가와도 관련 없는 의료 조직이 우리와 대립한다는 건, 그냥 바보거나, 아니면 아는 게 너무 많거나 둘 중 하나라고 계속 생각했었거든. 그래서 나를 어떻게 생각할지 궁금했어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "可惜，這裡瞭解倫蒂尼姆事件細節的人不多，我其實有些好奇他們怎麼看我。畢竟之前在我眼裡，羅德島這樣一家和任何國家都沒有關係的醫療組織，和我們作對，不是太蠢，就是知道太多。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你下一步的决定是什么？是仍要投身维多利亚的漩涡之中，还是继续建设罗德岛所希望的和平乐园？领袖曾向我展示过被她的火燃尽后的大地，我很好奇，你若有火焰，那会是什么颜色？"
+        },
+        {
+          "language": "日文",
+          "content": "次はどうすると考えてるの？このままヴィクトリアの嵐の中に身を投じるのか、それとも引き続き、ロドスの描く平和な楽園を作るために動くのかしら？かつてリーダーは、自分の炎で焼き尽くした大地を見せてくれたの。もしあなたに炎があったら、それはどんな色になるのか、とっても気になるわ。"
+        },
+        {
+          "language": "英文",
+          "content": "So what's your next step? Keep throwing yourself into the maelstrom of Victoria, or continue to build the peaceful paradise that Rhodes Island hopes for? The Leader once gave me a display of land torched to ash by her fires, and I'm ever so curious. If you had flames, what color would they be?"
+        },
+        {
+          "language": "韩文",
+          "content": "당신은 앞으로 어떻게 할 생각이야? 이대로 빅토리아의 폭풍 속에 몸을 던질 거야? 아니면 계속해서 로도스 아일랜드가 바라는 평화로운 낙원을 만들어 갈 거야? 전에 리더가 자신의 불꽃으로 태운 대지를 보여 준 적이 있었어. 당신에게도 불꽃이 있다면, 그건 어떤 색깔일지 궁금하네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你下一步的決定是什麼？是仍要投身維多利亞的漩渦之中，還是繼續建設羅德島所希望的和平樂園？領袖曾向我展示過被她的火燃盡後的大地，我很好奇，你若有火焰，那會是什麼顏色？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“苇草”，可爱的小代号，我几乎能猜到她起这个名字时在想什么。但如果说我是为了一个能一起看书闲聊的伙伴不得已来到这里，那我也太愚蠢了。她只是一个很有用的人，所以我需要护住她。"
+        },
+        {
+          "language": "日文",
+          "content": "「リード」ね、可愛らしいコードネームじゃない。彼女が何を考えてこの名前にしたかわかる気がするわ。だけど、一緒に本を読んだり、雑談をする相手のためにロドスまで来たのだとしたら、さすがにバカすぎるでしょ。彼女は利用価値があるのだから、私は守らなきゃいけない、それだけよ。"
+        },
+        {
+          "language": "英文",
+          "content": "'Reed.' Such a darling codename—I can practically guess what was on her mind when she came up with it. Still, I'd be more the fool for claiming the prospect of a book club partner drove me here. She just happens to be somebody very useful, hence my need to protect her."
+        },
+        {
+          "language": "韩文",
+          "content": "'리드'라, 귀여운 코드네임이네. 이 이름을 지을 때 무슨 생각을 했을지도 알 것 같아. 만약 내가 같이 책을 읽거나, 잡담이나 나눌 생각으로 로도스 아일랜드까지 왔던 거라면, 너무 어리석은 거 아닐까? 리드는 이용 가치가 있으니까, 내가 지켜야 해. 단지 그뿐이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "“葦草”，可愛的小代號，我幾乎能猜到她起這個名字時在想什麼。但如果說我是為了一個能一起看書閒聊的夥伴不得已來到這裡，那我也太愚蠢了。她只是一個很有用的人，所以我需要護住她。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这只是看书之余的闲聊，在你眼中，跳舞是一种什么样的行为？当手搭在颈边，视线相接，人下意识的一些反应会暴露出他们真实的内心——你的心跳居然没什么变化，难怪领袖会对你很感兴趣。"
+        },
+        {
+          "language": "日文",
+          "content": "読書に飽きたから、雑談に付き合っているだけよ。ねえ、あなたにはダンスはどのような行為に見えるかしら？手を相手の首元に添えて、視線を交わせば、無意識下の反応で人の本心が現れるわ――ふーん、鼓動が全く変わらないとはね。どうりでリーダーがあなたに興味を持ったわけだわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Just making a little bookside conversation, but... how do you regard the act of dancing? You know, when hands rest on collars, and gazes lock, and involuntary reactions let slip the true intentions of you or I—my my, your heart's hardly fluttering at all. No wonder The Leader's so interested in you."
+        },
+        {
+          "language": "韩文",
+          "content": "이건 그냥 독서가 질려서 하는 잡담인데, 당신은 춤이라는 행위를 어떻게 생각해? 상대방의 목 가까이에 손을 올리고, 서로 눈을 맞추면 무의식적으로 사람의 진심이 나오기 마련이거든…… 흠, 심장 박동이 전혀 변하지 않을 줄이야. 리더가 당신에게 흥미를 가질 만도 해."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這只是看書之餘的閒聊，在你眼中，跳舞是一種什麼樣的行為？當手搭在頸邊，視線相接，人下意識的一些反應會暴露出他們真實的內心——你的心跳居然沒什麼變化，難怪領袖會對你很感興趣。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "桌上的文件我看了，我并不意外罗德岛会追查我来这里的真实原因。不过，就这样放在我的桌上，看来你并不打算将我直接驱逐，或是交给哪位大公爵。所以，你想我为罗德岛，或是你，做点什么？"
+        },
+        {
+          "language": "日文",
+          "content": "机に置いてあった資料は読んだわ。私がロドスに来た理由を探っているのは別に意外じゃないけど、あんな風に堂々と本人の机に置くなんて、私をここから追い出したり、どこぞの大公爵に引き渡す気はないようね。で、ロドスのためだかあなたのためだかは知らないけど、私に何をさせる気なの？"
+        },
+        {
+          "language": "英文",
+          "content": "I've gone through the files on my desk. Not at all surprised Rhodes Island would be going after my true reasons for coming here. That said, you were kind enough to drop the papers off with me? You must not be planning to boot me out any time soon, let alone hand me off to a duke. So, what is it you want me to do for Rhodes Island, or perhaps, for you?"
+        },
+        {
+          "language": "韩文",
+          "content": "책상 위의 서류들은 봤어. 내가 로도스 아일랜드에 온 진짜 이유를 조사하고 있었단 게 별로 놀랍진 않지만, 설마 내 책상 위에 대놓고 둘 줄이야. 아무래도 당신은 날 직접 쫓아내거나, 다른 대공작한테 넘길 생각은 없나 보네. 이게 로도스 아일랜드를 위해서인지, 당신을 위해서인지는 잘 모르겠지만, 그래서 내가 뭘 해주길 원하는 거야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "桌上的文件我看了，我並不意外羅德島會追查我來這裡的真實原因。不過，就這樣放在我的桌上，看來你並不打算將我直接驅逐，或是交給哪位大公爵。所以，你想我為羅德島，或是你，做點什麼？"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哼哼~指甲涂个什么新花样好呢？"
+        },
+        {
+          "language": "日文",
+          "content": "ふんふん～♪次はどんなネイルにしようかしら。"
+        },
+        {
+          "language": "英文",
+          "content": "Hm-hmm, time to paint my nails. What pattern shall we go with?"
+        },
+        {
+          "language": "韩文",
+          "content": "흐흥~ 다음엔 어떤 네일을 해 볼까나?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哼哼~指甲塗個什麼新花樣好呢？"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您好，我的代号是“和弦”。为表诚意，请罗德岛收下这份有关维多利亚的文件。不必在意，这是回应感谢最基本的礼仪。期待我们以后的相处，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "ごきげんよう、私のコードネームは「ハーモニー」よ。手土産として、ヴィクトリアに関する資料をどうぞ納めてちょうだい。大げさに考えなくていいわよ、これは謝意を示すための基本だもの。今後ともよろしくお願いするわ、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Pleased to meet you, and my codename is Harmonie. Here's a dossier on Victoria for Rhodes Island's perusal, as a gesture of goodwill. Don't umm and ahh about it, now—that's basic etiquette for when someone thanks you. May we get along smashingly in the days to come, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "안녕, 내 코드네임은 '아르모니'야. 성의의 표시로, 빅토리아에 관한 서류를 로도스 아일랜드에 넘길게. 신경 쓰지 마, 이건 감사에 보답하는 기본적인 예의니까. 그럼 앞으로도 잘 부탁할게, 박사."
+        },
+        {
+          "language": "繁体中文",
+          "content": "您好，我的代號是“和弦”。為表誠意，請羅德島收下這份有關維多利亞的文件。不必在意，這是回應感謝最基本的禮儀。期待我們以後的相處，博士。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "很精彩的作战指挥。"
+        },
+        {
+          "language": "日文",
+          "content": "素晴らしい作戦指揮ね。"
+        },
+        {
+          "language": "英文",
+          "content": "Oh, what a splendid war command."
+        },
+        {
+          "language": "韩文",
+          "content": "훌륭한 작전 지휘네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "很精彩的作戰指揮。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊，非常感谢，能得到你的认可，这是我的荣幸。"
+        },
+        {
+          "language": "日文",
+          "content": "あら、どうもありがとう。ドクターの賞賛を得られるなんて、光栄よ。"
+        },
+        {
+          "language": "英文",
+          "content": "Ah, well, thank you very much. It's my honor to receive your endorsement."
+        },
+        {
+          "language": "韩文",
+          "content": "어머, 고마워. 박사한테 칭찬을 듣게 되다니, 영광이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "啊，非常感謝，能得到你的認可，這是我的榮幸。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你这个举动让我好奇起来了。把我放在这样一个位置，你是想要做什么呢？"
+        },
+        {
+          "language": "日文",
+          "content": "興味深いわね。私をこんなポジションに置くなんて、何が目的なのかしら？"
+        },
+        {
+          "language": "英文",
+          "content": "What you're doing here has me startlingly curious. What could you be up to, placing me in this position?"
+        },
+        {
+          "language": "韩文",
+          "content": "흥미롭네. 어떤 의도로 날 이런 위치에 둔 걸까나?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你這個舉動讓我好奇起來了。把我放在這樣一個位置，你是想要做什麼呢？"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你需要我为罗德岛做到什么？"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスのために何をしてほしいの？"
+        },
+        {
+          "language": "英文",
+          "content": "What would you have me do for Rhodes Island?"
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드를 위해 뭘 하면 되지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你需要我為羅德島做到什麼？"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "感谢罗德岛的信任。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスの信頼に感謝するわ。"
+        },
+        {
+          "language": "英文",
+          "content": "I thank Rhodes Island for its trust."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드의 신뢰에 감사할 따름이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "感謝羅德島的信任。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "希望你们待会儿不要哭哭啼啼。"
+        },
+        {
+          "language": "日文",
+          "content": "この先、戦場で泣き言は吐かないでね。"
+        },
+        {
+          "language": "英文",
+          "content": "I do hope none of you turn on the waterworks anytime soon."
+        },
+        {
+          "language": "韩文",
+          "content": "이제부터, 전장에서 우는소리 하지 마."
+        },
+        {
+          "language": "繁体中文",
+          "content": "希望你們待會不要哭哭啼啼。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "做好准备。"
+        },
+        {
+          "language": "日文",
+          "content": "戦闘準備を。"
+        },
+        {
+          "language": "英文",
+          "content": "Get yourselves ready."
+        },
+        {
+          "language": "韩文",
+          "content": "전투 준비."
+        },
+        {
+          "language": "繁体中文",
+          "content": "做好準備。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在。"
+        },
+        {
+          "language": "日文",
+          "content": "はい。"
+        },
+        {
+          "language": "英文",
+          "content": "Present."
+        },
+        {
+          "language": "韩文",
+          "content": "여기 있어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "在。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "收到。"
+        },
+        {
+          "language": "日文",
+          "content": "了解。"
+        },
+        {
+          "language": "英文",
+          "content": "Received."
+        },
+        {
+          "language": "韩文",
+          "content": "확인."
+        },
+        {
+          "language": "繁体中文",
+          "content": "收到。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "行动开始。"
+        },
+        {
+          "language": "日文",
+          "content": "作戦開始。"
+        },
+        {
+          "language": "英文",
+          "content": "Operation commencing."
+        },
+        {
+          "language": "韩文",
+          "content": "작전 시작."
+        },
+        {
+          "language": "繁体中文",
+          "content": "行動開始。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "听从指挥。"
+        },
+        {
+          "language": "日文",
+          "content": "ご指示をどうぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "On your command."
+        },
+        {
+          "language": "韩文",
+          "content": "명령을 내려 줘."
+        },
+        {
+          "language": "繁体中文",
+          "content": "聽從指揮。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "试着呼吸一下，我没有扼住你的喉咙。"
+        },
+        {
+          "language": "日文",
+          "content": "息を吸ってみなさい、首は締めてないわよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Take a breath, go on. It's not as if I'm crushing your throat."
+        },
+        {
+          "language": "韩文",
+          "content": "숨 한번 쉬어 볼래? 목은 조르지 않았어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "試著呼吸一下，我沒有扼住你的喉嚨。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你不需要挣扎，听从我的安排。"
+        },
+        {
+          "language": "日文",
+          "content": "抗う必要はないわ、私に従えばいいのよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Stop flailing about, and do as I tell you."
+        },
+        {
+          "language": "韩文",
+          "content": "저항할 필요 없어, 내 말에 따르도록 해."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你不需要掙扎，聽從我的安排。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "闭上眼睛。"
+        },
+        {
+          "language": "日文",
+          "content": "目を閉じて。"
+        },
+        {
+          "language": "英文",
+          "content": "Now now, close your eyes."
+        },
+        {
+          "language": "韩文",
+          "content": "눈을 감아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "閉上眼睛。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在你感到厌烦之前，都会结束的。"
+        },
+        {
+          "language": "日文",
+          "content": "あなたが飽きる前に、全て終わるわ。"
+        },
+        {
+          "language": "英文",
+          "content": "This'll all be over before you're bored of it."
+        },
+        {
+          "language": "韩文",
+          "content": "네가 지루해하기 전에 전부 끝내 줄게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "在你感到厭煩之前，都會結束的。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果不是亲眼见过战场，我或许会被你的指挥风格吓到。"
+        },
+        {
+          "language": "日文",
+          "content": "この目で数々の戦う場を見てきていなかったら、あなたの指揮の仕方には驚いたかもしれないわね。"
+        },
+        {
+          "language": "英文",
+          "content": "If I hadn't seen the battle for myself, I just might have been shocked by your command style."
+        },
+        {
+          "language": "韩文",
+          "content": "눈으로 직접 보지 않았다면, 박사의 지휘 스타일에 깜짝 놀랐을 수도 있겠네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "如果不是親眼見過戰場，我或許會被你的指揮風格嚇到。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我相信，领袖会很乐意看到你现在的样子。"
+        },
+        {
+          "language": "日文",
+          "content": "あなたの今の姿を見たら、リーダーはきっと気に入るでしょうね。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm sure if The Leader saw you now, she'd be delighted."
+        },
+        {
+          "language": "韩文",
+          "content": "분명 리더도 지금의 네 모습을 마음에 들어 할 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我相信，領袖會很樂意看到你現在的樣子。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "少见。还是说，你在考虑其他事情？"
+        },
+        {
+          "language": "日文",
+          "content": "珍しいわね。それとも、他のことで気が逸れていたの？"
+        },
+        {
+          "language": "英文",
+          "content": "Oh, there's a rare sight. Maybe you have other things on your mind?"
+        },
+        {
+          "language": "韩文",
+          "content": "웬일이래. 잠시 딴생각이라도 한 거야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "少見。還是說，你在考慮其他事情？"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我在这里还能做些什么呢？"
+        },
+        {
+          "language": "日文",
+          "content": "ここにいて、これ以上何ができるというのかしらね？"
+        },
+        {
+          "language": "英文",
+          "content": "Right, what else can I do here?"
+        },
+        {
+          "language": "韩文",
+          "content": "여기서 더 이상 뭘 할 수 있다는 거야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我在這裡還能做些什麼呢？"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "简约却不失设计感，你的品味很好。"
+        },
+        {
+          "language": "日文",
+          "content": "簡素でありながらもスタイリッシュさを兼ね備えているわ、さすがのセンスね。"
+        },
+        {
+          "language": "英文",
+          "content": "Minimalistic, but not at all design-deficient. I have to laud your tastes."
+        },
+        {
+          "language": "韩文",
+          "content": "심플하지만 트렌디함을 잃지 않았는걸, 꽤 센스 있네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "簡約卻不失設計感，你的品味很好。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啧！......啊，博士，请问有什么事吗？"
+        },
+        {
+          "language": "日文",
+          "content": "チッ……あら、ドクターだったの。何かご用かしら？"
+        },
+        {
+          "language": "英文",
+          "content": "Tut...! Ah. Was something the matter, Doctor? Do tell."
+        },
+        {
+          "language": "韩文",
+          "content": "쯧! ……아, 박사구나. 무슨 일이야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嘖！......啊，博士，請問有什麼事嗎？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果有空的话，我们可以聊聊你的藏书。"
+        },
+        {
+          "language": "日文",
+          "content": "時間があるなら、あなたの蔵書について話しましょ。"
+        },
+        {
+          "language": "英文",
+          "content": "If you're free, we could always chat about your bookshelf."
+        },
+        {
+          "language": "韩文",
+          "content": "혹시 시간 있으면, 당신이 소장한 책에 대해 이야기를 나눌 수 있을까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "如果有空的話，我們可以聊聊你的藏書。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你好，博士。要来一杯茶吗？"
+        },
+        {
+          "language": "日文",
+          "content": "こんにちは、ドクター。お茶をどうかしら？"
+        },
+        {
+          "language": "英文",
+          "content": "Hello, Doctor. Cup of tea?"
+        },
+        {
+          "language": "韩文",
+          "content": "안녕, 박사. 차 한잔 어때?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你好，博士。要來一杯茶嗎？"
+        }
+      ]
+    }
+  ]
+}

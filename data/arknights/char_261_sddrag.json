@@ -1,0 +1,939 @@
+{
+  "name": "苇草",
+  "charaKey": "char_261_sddrag",
+  "images": [
+    "https://prts.wiki/images/0/0a/立绘_苇草_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/5/59/立绘_苇草_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/8/8a/立绘_苇草_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_261_sddrag"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_261_sddrag"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_261_sddrag"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_261_sddrag"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里，是这次的文档资料，博士。没见过我做文职工作？可是，比起战斗，我更喜欢......用笔写......"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、これが今回の資料。私の書類仕事が珍しい？本当は、戦闘よりも文字を書く方が……好きなんだけど……。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, here is the paperwork. Is it strange to see me on clerical errands? The truth is, compared to battle, I much prefer... writing..."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 이게 이번 자료야. 내가 서류 작업하는 게 신기해? 사실은, 싸우는 거보단 글자를 쓰는 게…… 더 좋은데……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這裡，是這次的文檔資料，博士。沒見過我做文職工作？可是，比起戰鬥，我更喜歡......用筆寫......"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，你看窗外，夜晚......真平静。以前，每个夜晚都充满了火光和焦臭。只有看着现在这样的夜色，我的情绪才能平静下来......"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、窓の外を見て。夜……静かな夜。今まではどの夜を切り取っても、それは炎に照らされた焦げ臭いものだった。だけど、こんな夜なら、心も落ち着く……。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, look outside the window. The night is quiet... and peaceful. Up until now, every night has been filled with the red light of fire, and the stench of burning. I only feel easier... on nights like tonight."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 창밖을 봐. 밤…… 조용한 밤이야. 지금까지는, 어떠한 밤을 잘라내도 그건 불꽃에 비친 그을음 같은 거였어. 하지만, 이런 밤이라면, 마음도 차분해져……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，你看窗外，夜晚......真平靜。以前，每個夜晚都充滿了火光和焦臭。只有看著現在這樣的夜色，我的情緒才能平靜下來......"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有一个红发的瓦伊凡孩子，一直在盯着我看......她在怀疑我的身份吧？但是，她没有证据......哼，不会让她找到的。"
+        },
+        {
+          "language": "日文",
+          "content": "赤い髪のヴイーヴルの子が、ずっと私を睨んでくる……私の正体を疑っている？でも、彼女は何の証拠も持っていない……ふんっ、見つけさせたりはしないわ。"
+        },
+        {
+          "language": "英文",
+          "content": "There's been a—red-haired Vouivre girl, who never stops staring at me... Does she suspect my identity? But... she wouldn't have any evidence... Hm. I'm not going to let her find me out."
+        },
+        {
+          "language": "韩文",
+          "content": "빨간 머리의 와이번 아이가 계속 나를 노려보고 있어…… 내 정체를 의심하는 걸까? 하지만 그 여잔 아무런 증거도 갖고 있지 않아…… 흥, 찾게 내버려 두진 않을 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "有一個紅髮的瓦伊凡孩子，一直在盯著我看......她在懷疑我的身份吧？但是，她沒有證據......哼，不會讓她找到的。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "到定期体检的时间了？我......我知道了。但是，我，不相信那些医生。要检查的话......请你，帮我操作。"
+        },
+        {
+          "language": "日文",
+          "content": "定期健診の時間？わ……わかった。でも私は、医者は信用できない。検査が必要なら……キミに……診てほしい。"
+        },
+        {
+          "language": "英文",
+          "content": "Is it time for my regular medical examination? Un... Understood. But... I don't trust those other doctors. If I have to be examined, I want... you to help me with it."
+        },
+        {
+          "language": "韩文",
+          "content": "정기 검진 시간? 아…… 알았어. 하지만 의사는 신용할 수 없어. 검사가 필요하다면…… 네가…… 봐줬으면 좋겠어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "到定期體檢的時間了？我......我知道了。但是，我，不相信那些醫生。要檢查的話......請你，幫我操作。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们有很多问题，我不可能回答，这既是为了你好，也是劝阻你们......不要不自量力。"
+        },
+        {
+          "language": "日文",
+          "content": "キミたちからの質問がたくさん……でも私は、どれにも答えられない。それはキミのため……そしてキミたちへの忠告でもある。……しっかりわきまえておいてほしい。"
+        },
+        {
+          "language": "英文",
+          "content": "You all have a lot of questions, but I can't answer any of them. This is for your own sakes, and I encourage you ... not to overestimate yourselves."
+        },
+        {
+          "language": "韩文",
+          "content": "너희한테 받은 질문이 많지만…… 나는 어느 것에도 대답할 수 없어. 그건 널 위해서…… 그리고 너희에게 하는 충고이기도 해…… 잘 판단해줬으면 좋겠어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你們有很多問題，我不可能回答，這既是為了你好，也是勸阻你們......不要不自量力。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......我很强。我知道自己有可怕的力量，但我......不喜欢。你如果想要的话，我就，去战斗......"
+        },
+        {
+          "language": "日文",
+          "content": "……私は強い。自分の力の恐ろしさをよく知ってるの。でも私は……それが嬉しいことだと思わない。キミが望むなら、戦うけど……。"
+        },
+        {
+          "language": "英文",
+          "content": "...I am strong. I know the terrifying power I hold, though I... have no love for it. But if you desire it—then yes, I will fight..."
+        },
+        {
+          "language": "韩文",
+          "content": "나는 강해…… 내 힘의 무서움을 잘 알고 있어. 하지만 나는…… 그게 기쁘지 않아. 네가 원한다면, 싸우겠지만……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "......我很強。我知道自己有可怕的力量，但我......不喜歡。你如果想要的話，我就，去戰鬥......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这把枪......我不怎么能发挥它的力量。即使这样，它也取走了很多生命。罪恶感？......我们的生命都一样廉价。所以我，没有罪恶感。"
+        },
+        {
+          "language": "日文",
+          "content": "この槍……私はあまり使いこなせていない。それでも多くの命を奪ってきた……。罪悪感？それはない……私たちの命はみんな同じ、価値のないものだから……。"
+        },
+        {
+          "language": "英文",
+          "content": "This spear... I am not able to fully use its power. Despite that, I've had it take so many lives. Guilt? ...No, I have no guilt. After all, our lives are all equally worthless"
+        },
+        {
+          "language": "韩文",
+          "content": "이 창…… 나는 그다지 잘 다루지 못해. 그래도 많은 목숨을 빼앗아 왔어…… 죄의식? 그건 없어…… 우리의 목숨은 다 똑같이, 가치가 없는 거니까……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這把槍......我不怎麼能發揮它的力量。即使這樣，它也取走了很多生命。罪惡感？......我們的生命都一樣廉價。所以我，沒有罪惡感。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "矿石病，我不在乎......没有矿石病，我就没机会在这里生活。会剥走我的生命？我，也不在乎......如果大地上有那么多种事物都能杀死你，为什么要单单在意这一种呢？"
+        },
+        {
+          "language": "日文",
+          "content": "鉱石病は、気にしてない。鉱石病がなければここで暮らすこともなかったから。命を奪われる？それも気にしていない……この大地に、命を奪うものは数え切れないほどある。どうして……どうしてその中の一つだけに固執するの……。"
+        },
+        {
+          "language": "英文",
+          "content": "I do not mind my Oripathy... Without it, I would never have spent my days here. It will take my life? I—still do not mind it... So many other things across this land could kill just the same, why then... would you fixated on this particular one?"
+        },
+        {
+          "language": "韩文",
+          "content": "광석병은… 신경 쓰지 않아. 광석병이 없었다면, 여기서 지내게 되지도 않았을 테니까. 목숨을 잃게 된다고? 그것도 신경 쓰지 않아…… 이 대지에, 목숨을 빼앗는 것은 셀 수 없이 많아. 왜…… 왜 그중 하나에만 집착하는 거야……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "礦石病，我不在乎......沒有礦石病，我就沒機會在這裡生活。會剝走我的生命？我，也不在乎......如果大地上有那麼多種事物都能殺死你，為什麼要單單在意這一種呢？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "自己是个影子这件事，我不排斥。只有影子才能在这里，隐姓埋名......但是，但是，要是和我有相同面容的人找到了你，不要和她战斗！你会死的，我不想，不想你死......"
+        },
+        {
+          "language": "日文",
+          "content": "私は影、それはいいの。影だからこそ、名も正体も隠してここにいられる……だけど、だけどもし、私と同じ姿、同じ顔の人がキミに会いに来たら、その人とは戦わないで……！死んで……しまうから……キミに、死んでほしくない……！"
+        },
+        {
+          "language": "英文",
+          "content": "I am a shadow, but I do not spurn that. I am only able to stay here, incognito, because I am a shadow... However... however... if someone with the same face as me ever finds you, do not fight her! You will die. I don't... I don't want you dead..."
+        },
+        {
+          "language": "韩文",
+          "content": "나는 그림자… 그건 괜찮아. 그림자니까 이름도 정체도 숨기고 이곳에 있을 수 있어…… 하지만, 하지만 만약에, 나와 같은 모습, 같은 얼굴을 한 사람이 너를 만나러 오면, 그 사람과는 싸우지 마……! 죽어…… 버릴 테니까…… 너는, 죽지 않았으면 좋겠어……!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "自己是個影子這件事，我不排斥。只有影子才能在這裡，隱姓埋名......但是，但是，要是和我有相同面容的人找到了你，不要和她戰鬥！你會死的，我不想，不想你死......"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会为你守夜的......就请放心地休息吧......晚安。"
+        },
+        {
+          "language": "日文",
+          "content": "私がキミの夜を守る……だから安心して眠って……おやすみなさい。"
+        },
+        {
+          "language": "英文",
+          "content": "I will stand vigil for you, so... please rest at ease. Good night."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 너의 밤을 지킬게…… 그러니까 안심하고 자…… 잘 자."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我會為你守夜的......就請放心地休息吧......晚安。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "是你们......救起了我吗？想知道我的名字？......就叫我“苇草”吧......就像池边的芦苇，怎么样，都可以的......"
+        },
+        {
+          "language": "日文",
+          "content": "私を助けたのは……キミたち？私の名前……？「リード」でいい……水辺の葦のような、どうなってもいい存在……。"
+        },
+        {
+          "language": "英文",
+          "content": "You were the ones... who saved me? You want my name? ...Just 'Reed' is fine... like the reeds by a pond. A nondescript existence..."
+        },
+        {
+          "language": "韩文",
+          "content": "너희가… 날 구한 거야? 내 이름……? '리드'라고 부르면 돼…… 물가의 갈대 같은, 어떻게 되든 상관없는 존재……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "是你們......救起了我嗎？想知道我的名字？......就叫我“葦草”吧......就像池邊的蘆葦，怎麼樣，都可以的......"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们这样战斗，很辛苦......但是，有很多人能活下去。"
+        },
+        {
+          "language": "日文",
+          "content": "キミたちの戦いは、とても過酷……でも、これで多くの人が生きていける。"
+        },
+        {
+          "language": "英文",
+          "content": "Your battles are—very bitter... but, this way, many more may continue to live."
+        },
+        {
+          "language": "韩文",
+          "content": "너희의 싸움은, 무척 가혹해…… 하지만, 이렇게 싸우니까 많은 사람들이 살아갈 수 있는 거겠지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你們這樣戰鬥，很辛苦......但是，有很多人能活下去。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "前进，深池的战士们！......以前我常常被迫这么说，实际上，很不喜欢......"
+        },
+        {
+          "language": "日文",
+          "content": "進め、ダブリンの戦士たちよ！……いつもそんなことを言わされていた。でも本当は、嫌だったんだ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Forward, soldiers of Dublinn! ...I was constantly forced to give these words, but in reality—I hated them..."
+        },
+        {
+          "language": "韩文",
+          "content": "전진하라, 더블린의 전사들이여! ……항상 그런 말을 해야 했어. 하지만 사실은, 싫었어……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "前進，深池的戰士們！......以前我常常被迫這麼說，實際上，很不喜歡......"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你有着让我感到平静的梦想，我......想帮你去实现它。只要我煽动深池的火，它会为你在黑夜里烧出道路。"
+        },
+        {
+          "language": "日文",
+          "content": "私の心に平穏を与えるというキミの夢、私も……それを叶えるための力になりたい。私がダブリンの火を扇動すれば、それはキミのために闇夜を切り拓く炎の道になるよ。"
+        },
+        {
+          "language": "英文",
+          "content": "You have a dream that calms my soul... and I want to help you accomplish it. So long as I rouse the fires of Dublinn, they may come to light your way in the dark of night."
+        },
+        {
+          "language": "韩文",
+          "content": "내 마음에 평온을 주겠다는 너의 꿈, 나도…… 그걸 이루기 위한 힘이 되고 싶어. 내가 더블린의 불을 선동하면, 그건 널 위해 어두운 밤을 개척하는 불꽃의 길이 될 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你有著讓我感到平靜的夢想，我......想幫你去實現它。只要我煽動深池的火，它會為你在黑夜裡燒出道路。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "战火，会烧尽荒野......"
+        },
+        {
+          "language": "日文",
+          "content": "戦火が荒野を焼き尽くす……。"
+        },
+        {
+          "language": "英文",
+          "content": "The fires of war will char the wilderness..."
+        },
+        {
+          "language": "韩文",
+          "content": "전쟁의 불꽃이, 황야를 불태운다……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "戰火，會燒盡荒野......"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "既然你嘱咐过我，我就不会再忽视别人的生命......"
+        },
+        {
+          "language": "日文",
+          "content": "キミの言うことだから、もう他人の命を軽んじはしない……。"
+        },
+        {
+          "language": "英文",
+          "content": "Just as you have exhorted me, I will no longer neglect the lives of others..."
+        },
+        {
+          "language": "韩文",
+          "content": "네가 그렇게 말한다면, 나도 더는 다른 사람 목숨을 가볍게 여기지 않을게……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "既然你囑咐過我，我就不會再忽視別人的生命......"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "就这样，我们去收割......"
+        },
+        {
+          "language": "日文",
+          "content": "では、私たちは刈り取りに……。"
+        },
+        {
+          "language": "英文",
+          "content": "And so, we go to harvest..."
+        },
+        {
+          "language": "韩文",
+          "content": "그럼 우린, 이제 수확을 하러……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "就這樣，我們去收割......"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们怎么像麦秆一样易燃......？"
+        },
+        {
+          "language": "日文",
+          "content": "キミたちは藁みたいにすぐ熱くなる……。"
+        },
+        {
+          "language": "英文",
+          "content": "Why do you burn as easily as stalks of wheat...?"
+        },
+        {
+          "language": "韩文",
+          "content": "너희는 왜, 지푸라기처럼 그렇게 금방 뜨거워지지……?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你們怎麼像麥稈一樣易燃......？"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的火，很烫......"
+        },
+        {
+          "language": "日文",
+          "content": "私の炎は熱いよ……。"
+        },
+        {
+          "language": "英文",
+          "content": "My flames, they scorch..."
+        },
+        {
+          "language": "韩文",
+          "content": "내 불꽃은, 뜨거워……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我的火，很燙......"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不会有其他人看到我在这吧......？"
+        },
+        {
+          "language": "日文",
+          "content": "私がここにいること、誰にも見られていないよね……？"
+        },
+        {
+          "language": "英文",
+          "content": "No one else will see I am here, will they...?"
+        },
+        {
+          "language": "韩文",
+          "content": "내가 여기 있는 거, 아무도 못 봤겠지……?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不會有其他人看到我在這吧......？"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊......"
+        },
+        {
+          "language": "日文",
+          "content": "あぁ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Ah..."
+        },
+        {
+          "language": "韩文",
+          "content": "아……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "啊......"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "只会剩下灰烬......"
+        },
+        {
+          "language": "日文",
+          "content": "ただ灰燼に帰すのみ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Only ashes will remain..."
+        },
+        {
+          "language": "韩文",
+          "content": "그저 잿더미로 돌아갈 뿐……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "只會剩下灰燼......"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "活着的火焰会净化你们污浊的内在。"
+        },
+        {
+          "language": "日文",
+          "content": "生けし火焔が……お前たちの汚れた身のうちを浄化する。"
+        },
+        {
+          "language": "英文",
+          "content": "The living blaze will purify your tainted souls."
+        },
+        {
+          "language": "韩文",
+          "content": "타오르는 화염이…… 너희의 더럽혀진 몸속을 정화할 거다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "活著的火焰會淨化你們污濁的內在。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我就是深池。"
+        },
+        {
+          "language": "日文",
+          "content": "私がダブリンだ。"
+        },
+        {
+          "language": "英文",
+          "content": "I am Dublinn."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 더블린이다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我就是深池。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我......就是深池！"
+        },
+        {
+          "language": "日文",
+          "content": "私が……ダブリンだ！"
+        },
+        {
+          "language": "英文",
+          "content": "I... am Dublinn!"
+        },
+        {
+          "language": "韩文",
+          "content": "내가…… 더블린이다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我......就是深池！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "姐姐......"
+        },
+        {
+          "language": "日文",
+          "content": "姉……さん……。"
+        },
+        {
+          "language": "英文",
+          "content": "Sister..."
+        },
+        {
+          "language": "韩文",
+          "content": "언니……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "姐姐......"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "无尽的战斗与无尽的闷燃......你不是真的想要这个，对吧？"
+        },
+        {
+          "language": "日文",
+          "content": "果てなき戦い、くすぶり続ける火種……キミの本当の望みはそれじゃないはず。そう……だよね？"
+        },
+        {
+          "language": "英文",
+          "content": "Endless battles, flames that never cease to smolder... This isn't what you truly desire, is it?"
+        },
+        {
+          "language": "韩文",
+          "content": "끝없는 싸움, 연기가 끊임없이 피어오르는 불씨…… 너의 진짜 소원은 그게 아닐 거야. 그렇…… 지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "無盡的戰鬥與無盡的悶燃......你不是真的想要這個，對吧？"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果是为了我们共同的愿望而战，我可以忍受......"
+        },
+        {
+          "language": "日文",
+          "content": "私たちの願いのためなら、どんな戦いも我慢するよ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Should this fight be for the sake of our shared future, I will bear anything..."
+        },
+        {
+          "language": "韩文",
+          "content": "우리의 소원을 위해서라면, 어떤 싸움이라도 견뎌낼게……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "如果是為了我們共同的願望而戰，我可以忍受......"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们又能从战场上得到什么呢？回去吧，我们，快点回去......"
+        },
+        {
+          "language": "日文",
+          "content": "戦場からは何も得られない……帰ろう、さあ、早く帰ろう……。"
+        },
+        {
+          "language": "英文",
+          "content": "What else can we hope to gain from the battlefield? Let's go. Hurry, let's go home..."
+        },
+        {
+          "language": "韩文",
+          "content": "전장에서는 아무것도 얻을 수 없어…… 돌아가자. 자, 어서 돌아가자……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我們又能從戰場上得到什麼呢？回去吧，我們，快點回去......"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不。我不会让任何人伤害你......绝不会。"
+        },
+        {
+          "language": "日文",
+          "content": "ダメ。誰であろうとキミを傷つけさせるわけには……絶対に。"
+        },
+        {
+          "language": "英文",
+          "content": "No. I won't let anyone hurt you... I swear it."
+        },
+        {
+          "language": "韩文",
+          "content": "안돼. 그 누구도 너를 다치게 할 수는 없어…… 절대로……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不。我不會讓任何人傷害你......絕不會。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我可以有单独的房间吗？很窄，也不要紧的......"
+        },
+        {
+          "language": "日文",
+          "content": "一人部屋をお願いしてもいい？狭くても、大丈夫だから……。"
+        },
+        {
+          "language": "英文",
+          "content": "Can I have a separate room? I don't mind how small it may be..."
+        },
+        {
+          "language": "韩文",
+          "content": "1인실로 부탁해도 될까? 좁아도, 괜찮으니까……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我可以有單獨的房間嗎？很窄，也不要緊的......"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呃......！"
+        },
+        {
+          "language": "日文",
+          "content": "ひゃ……！"
+        },
+        {
+          "language": "英文",
+          "content": "Ah!"
+        },
+        {
+          "language": "韩文",
+          "content": "꺅……!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "呃......！"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士......我的体温，会烫伤你吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター……私の体温で、火傷してしまわない？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor... won't my body temperature burn you?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사…… 내 체온 때문에 화상 입진 않았어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士......我的體溫，會燙傷你嗎？"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士......？不，没什么。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター……？あぁ……別に……"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor...? Um... it's nothing."
+        },
+        {
+          "language": "韩文",
+          "content": "박사……? 아아…… 아무것도 아냐……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士......？不，沒什麼。"
+        }
+      ]
+    }
+  ]
+}

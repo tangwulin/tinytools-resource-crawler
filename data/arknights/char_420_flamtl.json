@@ -1,0 +1,939 @@
+{
+  "name": "焰尾",
+  "charaKey": "char_420_flamtl",
+  "images": [
+    "https://prts.wiki/images/3/3b/立绘_焰尾_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/7/7c/立绘_焰尾_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/4/42/立绘_焰尾_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_420_flamtl"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_420_flamtl"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_420_flamtl"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_420_flamtl"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哦？要我来帮忙吗，博士？有什么有趣的事情不？"
+        },
+        {
+          "language": "日文",
+          "content": "んっ？ドクター、手伝いは要らないですか？なんか面白いことあります？"
+        },
+        {
+          "language": "英文",
+          "content": "Hm? Need a hand, Doctor? Or you got something interesting for me?"
+        },
+        {
+          "language": "韩文",
+          "content": "응? 박사님, 도움은 필요 없으세요? 뭐 재밌는 일이라도 있나요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哦？要我來幫忙嗎，博士？有什麼有趣的事情不？"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您知道对一个卡西米尔骑士而言，看到“公司”真的在尽心尽力地治疗感染者有多难以置信吗？超有冲击力，嗯，真的，查丝汀娜至今还在问我罗德岛到底靠什么盈利。"
+        },
+        {
+          "language": "日文",
+          "content": "カジミエーシュの騎士からしたら、いち「企業」が全力で感染者の治療をしてるってことが、どれだけ信じられないかわかりますか？もうめちゃくちゃ衝撃的なことなんだから。ええ、ホントですよ。ユスティナだってロドスはどうやって稼いでるんだってよく聞いてくるんです。"
+        },
+        {
+          "language": "英文",
+          "content": "Do you know how wild it is, as a Kazimierz Knight, to see a 'company' actually trying so hard to treat Infected? It's a mind-melter, trust me. Yeah, seriously. Justyna still keeps wondering how Rhodes Island turns a profit."
+        },
+        {
+          "language": "韩文",
+          "content": "저희 같은 카시미어의 기사 입장에서 봤을 때, 일개 '기업'이 전력을 다해 감염자를 치료하고 있다는 게 얼마나 믿기 힘든 일인지 아시나요? 이건 뭐... 진짜 장난 아니게 충격적인 일이라니까요?! 네, 정말로요. 저스티나도, 로도스 아일랜드는 대체 어떻게 돈을 벌고 있는 거냐고, 가끔 저한테 물어본다니까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "您知道對一個卡西米爾騎士而言，看到“公司”真的在盡心盡力地治療感染者有多難以置信嗎？超有衝擊力，嗯，真的，查絲汀娜至今還在問我羅德島到底靠什麼盈利。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，请问干员临光的作战记录我可以看吗？啊，不是，就是有点好奇——可以？谢谢博士！......唔，嗯......呃，是不是该提醒一下艾沃娜，切磋的事情最好缓缓......"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、ニアールの作戦記録を見てもいいですか？あ、いや、ちょっと気になっただけだから――大丈夫？ありがとうドクター！……どれどれ、うーん……うわっ、イヴォナの手合わせの件、もう少し我慢するように言ったほうがいいかしら……"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, question? Can I take a look at Operator Nearl's battle records? Uh, no, I'm just a little curious—yeah? Thanks, Doctor! Let's see, uh... oh, man. Maybe I oughta tell Iwona to push back her sparring with Nearl…"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 니어의 작전기록을 봐도 될까요? 아, 아뇨, 그냥 조금 궁금해서…… 된다고요? 감사합니다, 박사님! ……어디 보자, 으음…… 으아 이거…… 이보나한테 대련하는 건 좀 더 참으라고 말하는 게 좋겠는데……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，請問幹員臨光的作戰記錄我可以看嗎？啊，不是，就是有點好奇——可以？謝謝博士！......唔，嗯......呃，是不是該提醒一下艾沃娜，切磋的事情最好緩緩......"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小灰和我？我俩一开始是在比赛里认识的，当时我就觉得这个骑士看起来挺顺眼的，于是之后特意去搭了讪，哎呀，现在想来，我是不是挺有星探潜质的？"
+        },
+        {
+          "language": "日文",
+          "content": "カイちゃんとの関係？初めて会ったのは試合中だったんだけど、その時にあの子のこと気に入っちゃって、終わった後わざわざ声をかけに行ったんです。いやー、改めて振り返ってみると、あたしってスカウトの素質あると思いません？"
+        },
+        {
+          "language": "英文",
+          "content": "Ashley and me? We met through the Major. I just got a feeling we could get along. So I took it upon myself to talk to her after the match. Jeez, thinking about it, I've got a talent for scouting, don't I?"
+        },
+        {
+          "language": "韩文",
+          "content": "‘회색이’랑 어떻게 알게된 사이냐고요? 경기하다가 처음 만난 사인데요, 그때 그 아이가 마음에 들어서, 경기 끝나고 일부러 말을 걸으러 갔었죠. 이야~ 지금 생각해보니까, 저 스카우트에 좀 재능 있는 거 같지 않아요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "小灰和我？我倆一開始是在比賽裡認識的，當時我就覺得這個騎士看起來挺順眼的，於是之後特意去搭了訕，哎呀，現在想來，我是不是挺有星探潛質的？"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“白金”吗，我知道她后来遇到的事情，但我也不打算和她当好朋友就是啦。以前，我们把无胄盟、商业联合会当做最邪恶的敌人。不过实际嘛，哈哈，我们是在和整个时代唱反调啊。"
+        },
+        {
+          "language": "日文",
+          "content": "「プラチナ」かぁ。あの後彼女に起きたことは知ってるけど、それでも仲良くなるつもりはないですよ。昔はあたしたちも、無冑盟と商業連合会を最低最悪の奴らって目の敵にしてたけど、でも実際のところ……アハハ、あたしたちが異を唱えていたのは、時代そのものだったかもしれませんね。"
+        },
+        {
+          "language": "英文",
+          "content": "Platinum,' huh. I know what happened with her after, but still, no plans to be her friend. Y'know, before, we said the Armorless Union, and the General Chamber of Commerce, were our greatest enemies. But to be real... ha, it's the whole age we live in we're dissenting against."
+        },
+        {
+          "language": "韩文",
+          "content": "‘플래티넘’이요…… 그 뒤로 그 여자한테 무슨 일이 생겼는지 저도 알긴 아는데, 그래도 친해질 생각은 없어요. 예전에는 우리도 아머레스 유니온이나 상업연합회를 쓰레기같은 나쁜 놈들이라고 미워했지만, 사실…… 아하하, 우리가 반대했던 건, 시대 그 자체였을지도 모르겠네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "“白金”嗎，我知道她後來遇到的事情，但我也不打算和她當好朋友就是啦。以前，我們把無胄盟、商業聯合會當做最邪惡的敵人。不過實際嘛，哈哈，我們是在和整個時代唱反調啊。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "当名为城市的巨物轰鸣向前，霓虹灯照亮了天空，车鸣取代了夏虫的窸窣，太多东西被一并抛弃、碾碎了。那些人的生活......不该是如此下场，无论感染与否，我们都应当寻找一条新的出路。"
+        },
+        {
+          "language": "日文",
+          "content": "轟音と共に「都市」という巨獣が進み、空はネオンライトに照らされ、車のクラクションが夏虫の喧騒に取って代わって……たーくさんのものがまとめて捨てられて、轢き潰されちゃった。あの人たちの人生は……あんな結末を迎えるべきじゃなかったのに。感染者かどうかに関わらず、あたしたちは新たな道を見つけないといけませんね。"
+        },
+        {
+          "language": "英文",
+          "content": "The titans we call cities rumble forth. As people live on their backs, neon outshines the moonlight, and car engine silences bug chirps with its deafening rumbles. Too much gets tossed away, flattened undertread. Those people, they all deserve a different life... a better one. Infected or not, Doctor, we all oughta be searching for a new way forward."
+        },
+        {
+          "language": "韩文",
+          "content": "굉음과 함께 '도시'라는 괴수가 진격하고, 하늘은 네온라이트가 비추고, 자동차의 경적이 여름 벌레들 우는 소리를 덮어버리고…… 많은 것들이 한꺼번에 버려지고 짓밟혔어요. 그 사람들의 삶은…… 그런 결말을 맞이해서는 안 됐는데. 감염자든 감염자가 아닌 사람이든 상관없어요, 우리는... 새로운 길을 찾아야만 해요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "當名為城市的巨物轟鳴向前，霓虹燈照亮了天空，車鳴取代了夏蟲的窸窣，太多東西被一併拋棄、碾碎了。那些人的生活......不該是如此下場，無論感染與否，我們都應當尋找一條新的出路。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，听砾小姐和阿米娅小姐说，您在特锦赛期间与无胄盟斗智斗勇？零号地块的阴谋也是您揭露的？您怎么做到的——啊，等等，我端个椅子过来，零食也要，好，老师！请开始吧！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、グラベルさんとアーミヤさんから聞いたんだけど、メジャーの時に無冑盟とドンパチしたんですよね？零号地の陰謀を暴いたのもドクター？一体どうやって――あっ、ちょっと待って、椅子と、ついでにお菓子も持って来ちゃおう。よーし、じゃあ先生！お願いしまーす！"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor! Heard from Gravel and Amiya, you faced off with the Armorless Union during the Major? And you're the one who sniffed out the Area 0 plot? How'd you—wait, hold on, lemme bring a chair over and get some snacks while I'm at it. Alright, Teach! Take it away!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 그라벨 씨랑 아미야 씨한테 들었는데, 토너먼트 때... 아머레스 유니온이랑 한바탕 했다면서요? 0번 지역의 음모를 폭로한 것도 박사님인가요? 도대체 어떻게…… 앗, 잠깐만요! 의자랑 팝콘도 가지고 와야지. 좋아~ 그럼 선생님! 잘 부탁드립니다~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，聽礫小姐和阿米婭小姐說，您在特錦賽期間與無胄盟鬥智鬥勇？零號地塊的陰謀也是您揭露的？您怎麼做到的——啊，等等，我端個椅子過來，零食也要，好，老師！請開始吧！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在遇到小灰之前，我其实只觉得自己能好好活下去就好啦，但现在，查丝汀娜，艾沃娜，玛莉娅，还有耀骑士......我愿意与她们并肩而战，我愿意为她们而牺牲，这就是我战斗的理由。"
+        },
+        {
+          "language": "日文",
+          "content": "カイちゃんに会うまでは、ちゃんと生きていけさえすればそれでいいと思ってたけど、今はユスティナにイヴォナ、マリア、それから耀騎士もいる……みんなと一緒に戦うことも、みんなのために犠牲になることだって厭わない。それがあたしが戦い続ける理由です。"
+        },
+        {
+          "language": "英文",
+          "content": "Before I met Ashley, I honestly figured I'd be fine if I just kept living. But now, with Justyna, Iwona, Maria—and the Radiant Knight... I'm prepared to fight alongside them. Throw that life of mine out there for them. It's why I fight on."
+        },
+        {
+          "language": "韩文",
+          "content": "회색이를 만나기 전까지는 제대로 살기만 하면 그걸로 됐다고 생각했는데, 지금은 저스티나에 이보나, 마리아, 그리고 빛의 기사도 있죠…… 모두와 함께 싸우는 것도, 모두를 위해 희생하는 것도 싫지 않아요. 그게 제가 계속해서 싸우는 이유예요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "在遇到小灰之前，我其實只覺得自己能好好活下去就好啦，但現在，查絲汀娜，艾沃娜，瑪莉婭，還有耀騎士......我願意與她們並肩而戰，我願意為她們而犧牲，這就是我戰鬥的理由。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "也许只有当骑士消失，每个人却又都在内心中理解何为骑士的那一天，卡西米尔才会真正和平吧。耀骑士告诉了我这个道理，所以我想看看更多更远的景色。也许我......应该去做更多。"
+        },
+        {
+          "language": "日文",
+          "content": "「騎士」なんてものが消えて、みんな「騎士」が一体なんなのか理解できる日が来て初めて、カジミエーシュは本当の平和を手に入れられる。耀騎士からこのことを教わって、今はもっと遠くにあるたくさんの景色を見てみたいと思ってます。あたしには……もっともっとやるべきことがあるはずだから。"
+        },
+        {
+          "language": "英文",
+          "content": "Maybe one day, when everyone figures out what 'Knight' deep inside their hearts really holds for them , and knights truly retire from the stage, Kazimierz can be peaceful in the truest sense. The Radiant Knight, she told me these words, and they spurred me into seeing more and further with my eyes. Maybe there's more I should be doing, you know."
+        },
+        {
+          "language": "韩文",
+          "content": "‘기사’라는 것이 사라지고, 다들 ‘기사’란게 대체 뭔지 이해할 수 있는 날이 와야, 카시미어는 진짜 평화를 손에 넣을 수 있을 거예요. 빛의 기사에게서 이걸 배우고 난 뒤론, 더 먼 곳에 있는 더 많은 경치가 보고 싶어졌어요. 제게는…… 해야 할 일이 아직도 많이 있을 테니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "也許只有當騎士消失，每個人卻又都在內心中理解何為騎士的那一天，卡西米爾才會真正和平吧。耀騎士告訴了我這個道理，所以我想看看更多更遠的景色。也許我......應該去做更多。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好好休息吧，博士，不知道小灰她们在干嘛呢。"
+        },
+        {
+          "language": "日文",
+          "content": "ゆっくり休んでね、ドクター。はぁ、カイちゃんたちは今何してるのかしら。"
+        },
+        {
+          "language": "英文",
+          "content": "Take a rest, Doctor. Man, I wonder what Ashley and the others are up to right now."
+        },
+        {
+          "language": "韩文",
+          "content": "푹 쉬세요, 박사님. 회색이랑 다른 사람들은 지금 뭘 하고 있을까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "好好休息吧，博士，不知道小灰她們在幹嘛呢。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "红松骑士团团长，焰尾骑士，索娜！您就是博士？唔......嗯......虽然和想象的不太一样，不过算啦，以后就要靠您了，博士！"
+        },
+        {
+          "language": "日文",
+          "content": "レッドパイン騎士団団長、焔尾騎士、「フレイムテイル」ソーナ！あなたがドクター？えーっと……うーん……想像とちょっと違うけどまぁいいや。それじゃあドクター、これからよろしくお願いしまーす！"
+        },
+        {
+          "language": "英文",
+          "content": "Pinus Sylvestris Knightclub Leader, Flametail Knight, Sona! You're the Doctor? Mmm, well, you're kinda not like I imagined, but hey. I'm under your wing from here on out, Doctor!"
+        },
+        {
+          "language": "韩文",
+          "content": "피누스 실베스트리스 기사단 단장. 불꽃 꼬리의 기사, '플레임테일' 소나! 당신이 박사님? 어…… 음…… 상상했던 거랑 좀 다른데…… 뭐 됐다. 그럼 박사님, 앞으로 잘 부탁드립니다~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "紅松騎士團團長，焰尾騎士，索娜！您就是博士？唔......嗯......雖然和想像的不太一樣，不過算啦，以後就要靠您了，博士！"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "实战需要注意的地方和骑士竞技还是有很多差距呢。"
+        },
+        {
+          "language": "日文",
+          "content": "実戦の注意点は騎士競技と結構違うね。"
+        },
+        {
+          "language": "英文",
+          "content": "Huh. The stuff you watch for real combat's pretty crazy different from the Major."
+        },
+        {
+          "language": "韩文",
+          "content": "실전에서 주의해야 할 점들은, 기사 스포츠랑 꽤 다르네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "實戰需要注意的地方和騎士競技還是有很多差距呢。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这还是第一次在没有广告和闪光灯的场合下接受晋升呢。红松骑士团团长，焰尾骑士，索娜！以后也会继续努力的！"
+        },
+        {
+          "language": "日文",
+          "content": "コマーシャルもカメラのフラッシュもない昇格式なんて初めてね。レッドパイン騎士団団長、焔尾騎士ソーナ！これからも精進します！"
+        },
+        {
+          "language": "英文",
+          "content": "It's a first for me to get promoted without commercials or camera flashes. Well, Pinus Sylvestris Knightclub Leader, Flametail Knight, Sona! Continuing the stride!"
+        },
+        {
+          "language": "韩文",
+          "content": "광고도 카메라 플래시 세례도 없는 승격식은 처음이야. 피누스 실베스트리스 기사단 단장, 불꽃 꼬리의 기사 소나! 앞으로도 정진하겠습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這還是第一次在沒有廣告和閃光燈的場合下接受晉升呢。紅松騎士團團長，焰尾騎士，索娜！以後也會繼續努力的！"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我曾担心一段永远没有善意的斗争会让大家走向偏颇，不过现在......嘿嘿，理想是应当存在的，对吧博士？"
+        },
+        {
+          "language": "日文",
+          "content": "善意がいつまでも伴わない戦いは、人々を歪んだ方向へ導くんじゃないかと思ってたけど、今は……フフッ、理想はやっぱり持つべきだと思ってるわ。そうですよね、ドクター？"
+        },
+        {
+          "language": "英文",
+          "content": "I used to worry how an ever-heartless fight would lead us all down a messed-up way, but now... heheh, I guess ideals are something you oughta have. Aren't they, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "선의가 없는 싸움은 늘 사람들을 왜곡된 방향으로 이끌지 않을까 생각했는데, 지금은…… 후훗, 역시 사람은 이상이란 걸 가져야 된다니까? 안 그래요? 박사님?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我曾擔心一段永遠沒有善意的鬥爭會讓大家走向偏頗，不過現在......嘿嘿，理想是應當存在的，對吧博士？"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小灰不一起来吗？"
+        },
+        {
+          "language": "日文",
+          "content": "カイちゃんは一緒じゃないの？"
+        },
+        {
+          "language": "英文",
+          "content": "Ashley not gonna come with?"
+        },
+        {
+          "language": "韩文",
+          "content": "회색이는 같이 안 왔나?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "小灰不一起來嗎？"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“焰尾”索娜，带队出发！"
+        },
+        {
+          "language": "日文",
+          "content": "「フレイムテイル」ソーナ、部隊を率いて出ます！"
+        },
+        {
+          "language": "英文",
+          "content": "Flametail' Sona, spearheading and rolling out!"
+        },
+        {
+          "language": "韩文",
+          "content": "‘플레임테일’ 소나, 팀원들을 이끌고, 출발하겠습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“焰尾”索娜，帶隊出發！"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不辱使命！"
+        },
+        {
+          "language": "日文",
+          "content": "使命に背きはしない！"
+        },
+        {
+          "language": "英文",
+          "content": "Live up to duty!"
+        },
+        {
+          "language": "韩文",
+          "content": "사명을 등지지는 않겠어!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不辱使命！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "发现敌人，要是像骑士那样排队入场该多好。"
+        },
+        {
+          "language": "日文",
+          "content": "敵みっけ。騎士の入場みたいに並んで来てくれたらいいんだけどねー。"
+        },
+        {
+          "language": "英文",
+          "content": "Enemy spotted. It'll be nice if they entered single file like the Knights do, though."
+        },
+        {
+          "language": "韩文",
+          "content": "적 발견~ 기사들 입장하는 것처럼 나란히 와 주면 좋을 텐데~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "發現敵人，要是像騎士那樣排隊入場該多好。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有什么指示吗？"
+        },
+        {
+          "language": "日文",
+          "content": "なにか指示はありますか？"
+        },
+        {
+          "language": "英文",
+          "content": "Any instructions for me?"
+        },
+        {
+          "language": "韩文",
+          "content": "지시할 거라도 있나요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "有什麼指示嗎？"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有人指挥自己感觉真奇妙。"
+        },
+        {
+          "language": "日文",
+          "content": "指揮する人がいるって、不思議な感じね。"
+        },
+        {
+          "language": "英文",
+          "content": "Feels fresh every time when someone gives me orders."
+        },
+        {
+          "language": "韩文",
+          "content": "지휘하는 사람이 있다는 건, 뭐랄까… 신기한 느낌인데?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "有人指揮自己感覺真奇妙。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你的眼睛跟得上吗？"
+        },
+        {
+          "language": "日文",
+          "content": "あたしを目で追えるかしら？"
+        },
+        {
+          "language": "英文",
+          "content": "Can your eyes keep up?"
+        },
+        {
+          "language": "韩文",
+          "content": "나를 눈으로 좇을 수 있을까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你的眼睛跟得上嗎？"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "新的挑战，哈。"
+        },
+        {
+          "language": "日文",
+          "content": "新たな挑戦ね、フフッ。"
+        },
+        {
+          "language": "英文",
+          "content": "A new challenge!"
+        },
+        {
+          "language": "韩文",
+          "content": "새로운 도전이네, 후훗."
+        },
+        {
+          "language": "繁体中文",
+          "content": "新的挑戰，哈。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "还可以再快一点。"
+        },
+        {
+          "language": "日文",
+          "content": "もっと速く動けるわ。"
+        },
+        {
+          "language": "英文",
+          "content": "C'mon, let's pick up the pace."
+        },
+        {
+          "language": "韩文",
+          "content": "더 빨리 움직일 수 있어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "還可以再快一點。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哈哈，你看不清了吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ハハッ、見えなくなっちゃった？"
+        },
+        {
+          "language": "英文",
+          "content": "Haha, losing sight?"
+        },
+        {
+          "language": "韩文",
+          "content": "하핫, 안 보이지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哈哈，你看不清了嗎？"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "目标消失在视野里可不好受吧？"
+        },
+        {
+          "language": "日文",
+          "content": "ターゲットが視界から消えちゃうのは嫌よね？"
+        },
+        {
+          "language": "英文",
+          "content": "Feels bad to lose your target, doesn't it?"
+        },
+        {
+          "language": "韩文",
+          "content": "타겟이 눈 앞에서 사라지는 거, 진짜 별로지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "目標消失在視野裡可不好受吧？"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“尾巴如流星一般”，他们是这么说的。"
+        },
+        {
+          "language": "日文",
+          "content": "「尻尾が流星のようだ」、よくそうやって言われるの。"
+        },
+        {
+          "language": "英文",
+          "content": "'Tail like a shooting star,' that's what they say."
+        },
+        {
+          "language": "韩文",
+          "content": "꼬리가 무슨 유성 같다고, 그런 말 자주 들어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "“尾巴如流星一般”，他們是這麼說的。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "也许时代终究会作出选择，但现在，我们只能选择斗争到底，因为我们是骑士，因为我们是感染者，因为，我们活着。"
+        },
+        {
+          "language": "日文",
+          "content": "最終的には時代が選択を下すかもしれないけど、今のあたしたちは最後まで戦い抜くことしか選べない。あたしたちは騎士で、感染者で、そして生きてるから。"
+        },
+        {
+          "language": "英文",
+          "content": "Maybe our life and times will make its own choice for us. But right now, we can only choose to fight to the last. Because we're Knights, because we're Infected. Because we're alive."
+        },
+        {
+          "language": "韩文",
+          "content": "결국은 시대가 선택을 내리는 걸지도 모르지만, 지금의 우리가 선택할 수 있는 건, 끝까지 싸우는 것 뿐이야. 우리는 기사고, 감염자고, 그리고… 살아 있으니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "也許時代終究會作出選擇，但現在，我們只能選擇鬥爭到底，因為我們是騎士，因為我們是感染者，因為，我們活著。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们曾经胜利过很多次，博士，但是眼下，我们是为了自己的命运和前程而斗争，这才是真实的，对吧？"
+        },
+        {
+          "language": "日文",
+          "content": "あたしたちはこれまで何度も勝利してきた。だけどドクター、今回あたしたちは己の運命と未来のために戦ったわ。これこそが本物の戦い、でしょ？"
+        },
+        {
+          "language": "英文",
+          "content": "We've won a lot of times before, Doctor. Here and now, though, we're struggling for our own destiny, our own future. That's the real fight, isn't it?"
+        },
+        {
+          "language": "韩文",
+          "content": "우리는 지금까지 몇 번이고 계속 승리해 왔어요. 하지만 박사님, 이번에 우리는 자신의 운명과 미래를 위해 싸웠어요. 이런 게 바로 진짜 싸움이란 거겠죠, 그쵸?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我們曾經勝利過很多次，博士，但是眼下，我們是為了自己的命運和前程而鬥爭，這才是真實的，對吧？"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这可不是比赛，博士，手下留情可不会得到什么舆论褒奖喔？"
+        },
+        {
+          "language": "日文",
+          "content": "これは試合じゃないわ。ドクター、敵に情けをかけても別に評判は良くなりませんよ？"
+        },
+        {
+          "language": "英文",
+          "content": "This sure as hell isn't a competition, Doctor. Letting them off easy's not gonna win the crowd over, y'know?"
+        },
+        {
+          "language": "韩文",
+          "content": "이건 시합이 아니에요. 박사님, 적에게 인정을 베풀어도, 딱히 평판이 좋아지진 않을걸요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這可不是比賽，博士，手下留情可不會得到什麼輿論褒獎喔？"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大家先撤，我来负责殿后！放心啦放心啦，躲避追杀我可有经验了。"
+        },
+        {
+          "language": "日文",
+          "content": "みんな先に行って、あたしが足止めするわ！平気平気、追い打ちをいなすのには慣れてるから。"
+        },
+        {
+          "language": "英文",
+          "content": "Everyone, retreat! Let me hold the rear! Don't worry, I'm an expert in escaping the pursuits."
+        },
+        {
+          "language": "韩文",
+          "content": "다들 먼저 가, 내가 발을 묶어둘게! 괜찮아, 추격을 따돌리는 건 익숙하니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "大家先撤，我來負責殿後！放心啦放心啦，躲避追殺我可有經驗了。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哇哦，这可比大骑士领的下水道条件好上几百倍。"
+        },
+        {
+          "language": "日文",
+          "content": "わーお、大騎士領の下水道の何百倍もいいとこね。"
+        },
+        {
+          "language": "英文",
+          "content": "Wow, this sure beats the Grand Knight Territory sewers. Guesstimating a couple hundred times better?"
+        },
+        {
+          "language": "韩文",
+          "content": "와오~ 그랜드 나이트 영지에 있던 하수도보다, 여기가 몇백 배는 더 좋은데?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哇哦，這可比大騎士領的下水道條件好上幾百倍。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呀！？干嘛？"
+        },
+        {
+          "language": "日文",
+          "content": "ひゃっ！？なによ？"
+        },
+        {
+          "language": "英文",
+          "content": "Hyah!? What?"
+        },
+        {
+          "language": "韩文",
+          "content": "꺅?! 뭐야?!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "呀！？幹嘛？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "问我平时打扮成什么样？呃......哈哈......"
+        },
+        {
+          "language": "日文",
+          "content": "普段どんな格好をしてるかって？えーっと……あはは……"
+        },
+        {
+          "language": "英文",
+          "content": "You're wondering how I usually dress? Mm, uhh... ahaha..."
+        },
+        {
+          "language": "韩文",
+          "content": "평소에는 어떤 옷을 입고 다니냐고요? 그게…… 아하하……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "問我平時打扮成什麼樣？呃......哈哈......"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "早呀，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "おはよーございまーす、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Morning to you, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "안녕하세요~ 박사님."
+        },
+        {
+          "language": "繁体中文",
+          "content": "早呀，博士。"
+        }
+      ]
+    }
+  ]
+}

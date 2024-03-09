@@ -1,0 +1,510 @@
+{
+  "name": "维荻",
+  "charaKey": "char_4107_vrdant",
+  "images": [
+    "https://prts.wiki/images/e/e6/立绘_维荻_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/7/76/立绘_维荻_2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4107_vrdant"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4107_vrdant"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，这盆花我放在这里了，这种花的香气能让人头脑清醒，肯定对你批文件有帮助。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "以前，雇主一声令下，我就得去替他采集植物样品。要是去人迹罕至的雨林我倒是很乐意，可一旦目标长在别人的水培钵、保护区、试验田......唉，那麻烦事就多了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在疗养庭院，我看到了调香师正在编纂的植物图鉴，上面有许多暂时无法填补的空白。合格的植物猎人会用“猎物”填空，而伟大的植物猎人会在填空之余，让编纂者为他们留出更多的空白。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "阿卡胡拉我去过好多次。那里的居民——应该是叫提亚卡乌吧，是些直脾气的好人，只有两点我受不了，第一是喝醉会拉我摔跤，第二是喜欢品评我的尾巴......博士，我的尾巴真有那么细吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这把手锯是我上学的时候母亲为我定做的，感染之后还以为再也用不上了。多亏那位在招植物猎人的雇主，我才能继续做自己喜欢的事情......虽然最后因为疑心病解雇我的也是他就是了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，这就是害我被解雇的那种植物，没有任何经济价值，也难怪我说为这株小草放弃了任务目标时，雇主觉得我在骗他......但它是我发现的，它的名字是我起的，这比什么都重要。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要做“稻草人”，需要的可不止秸秆，还需要各种坚韧的、有毒的、食虫的植物，还需要源石技艺，还需要我父亲捆稻草人的手艺......啧，透露得有点多了，博士，记得替我保密啊。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没错，我确实习惯在陌生人面前做出一副很冷酷的样子，毕竟植物猎人一旦和人起了冲突，面对的往往不是军队，而是拿着固定工资，心不在焉的看守，在气势上压倒对方，反而能保证自己的安全。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我还是第一次为别人做“稻草人”，怎么样，看起来和你很像吧？这样你遇到危险时就可以——等下，别碰那些藤蔓，会被缠住——啊......这，它过一会儿就会放开你手臂的。真的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "刚刚和我搭话我没反应？咳，我可没有用“稻草人”偷懒，真的哦。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我需要一份工作，而作为一家制药公司，罗德岛想必不会拒绝一名经验丰富的植物猎人。所谓植物猎人，就是......啊？在这里签字就可以了？真的？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我好像看到了一种很独特的灌木，也许是新物种！这录像是在什么地方拍的？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好漂亮的勋章......不过稍微单调了点，有没有考虑过在其中加入一些植物元素？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "比起和人勾心斗角，我还是更喜欢去荒原，去雨林，去和鲜活的植物待在一起......博士，下次要和我一起去吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们能不能用直接冲突以外的方法解决争端？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我只能确保大家安全回来，可没法像其他人一样向你保证胜利哦？真的要我当队长吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "既然是必要的冲突，那就没办法了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......敢与我为敌，你们胆子很大啊。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请赶快下令，我会让敌人后悔来到我面前的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请赶快下令，敌人马上就到我面前了......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "眼前这些枯枝败叶，很快就能清理干净。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我对随处可见的杂草没有兴趣。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "面目狰狞的人往往格外脆弱。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看似无害的植物往往更加危险。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "无忧无虑的时光往往稍纵即逝。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......不妙，该用“稻草人”了！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我从来没想过还能打赢这么凶恶的敌人......这样一来，我们是不是就可以去更危险的地方采集样品了？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "既然敌人已经全部收拾掉了，我们也赶紧走吧，别在这儿多待了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "放跑了几个......他们不会再回来了吧？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "活下去，博士，活下去才有未来可言。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果我想帮罗德岛提升一下植被多样性，需要去哪里申请？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要是分不清我和我的“稻草人”，没准会被藤蔓毒倒的哦。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯......下次要去哪里采集样品呢？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "早啊，博士，我帮你给办公室里的花浇过水了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

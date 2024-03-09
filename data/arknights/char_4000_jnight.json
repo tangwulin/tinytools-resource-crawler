@@ -1,0 +1,834 @@
+{
+  "name": "正义骑士号",
+  "charaKey": "char_4000_jnight",
+  "images": [
+    "https://prts.wiki/images/e/e2/立绘_正义骑士号_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/9/9f/立绘_正义骑士号_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4000_jnight"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4000_jnight"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4000_jnight"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_4000_jnight"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“滴滴”，了解了，将为博士的文书工作进行分类整理。请问需要在工作的时候点一份小吃吗？正义号可以去餐厅帮您取。"
+        },
+        {
+          "language": "日文",
+          "content": "“Di-di”、分かったわ。ドクター様の書類を分類して整理するわね。お仕事中につまめる軽食は必要かしら？わたしが食堂から持ってきましょうか？"
+        },
+        {
+          "language": "英文",
+          "content": "Beep-Beep. Understood. Classification program initiated. Now sorting the Doctor's documents. Will you want any snacks during work? Justice Knight could pick some up for you from the cafeteria."
+        },
+        {
+          "language": "韩文",
+          "content": "“띠띠”, 알겠어. 박사님의 서류를 분류해서 정리할게. 일하다가 주전부리 할 것 좀 줄까? 내가 식당에서 가지고 올까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“滴滴”，瞭解了，將為博士的文書工作進行分類整理。請問需要在工作的時候點一份小吃嗎？正義號可以去餐廳幫您取。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "自从可露希尔女士与梅尔女士为正义号安装了人声语音补丁之后，智能交互的准确度也上升了！果然，为主人们进行服务的时候，还是用主人的语言逻辑进行交流效果更好。"
+        },
+        {
+          "language": "日文",
+          "content": "クロージャ様とメイヤー様がわたしにボイス追加パッチを適用してくださってから、スマートアシスタントの精度も上昇したの！マスターたちへサポートを提供するには、やはり同じロジックの言語で会話を試みた方が効率がいいわね。"
+        },
+        {
+          "language": "英文",
+          "content": "Ever since Closure and Mayer installed a human voice patch, Justice Knight's functionality as a smart assistant has gone right up! Being able to use natural language logic really has improved communication so much when helping out my masters."
+        },
+        {
+          "language": "韩文",
+          "content": "클로저 님과 메이어 님께서 내게 보이스 추가 패치를 적용해 주신 이후로, 스마트 어시스턴트의 정밀도도 상승했어! 마스터들께 서포트를 제공하려면, 역시 같은 로직의 언어로 대화를 시도하는 게 효율이 높겠지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "自從可露希爾女士與梅爾女士為正義號安裝了人聲語音補丁之後，智慧交互的準確度也上升了！果然，為主人們進行服務的時候，還是用主人的語言邏輯進行交流效果更好。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "正义号的主人，野鬃骑士艾沃娜将正义号从已经废弃的状态重新启动并修好。自那之后，正义号就负责起了主人和她的伙伴们的生活起居和援护任务。"
+        },
+        {
+          "language": "日文",
+          "content": "わたしのマスター、ワイルドメイン、つまり野鬃騎士イヴォナ様はジャスティスナイトをスクラップの状態から修理してリブートしたのよ。それからずーっと、わたしはマスターや仲間たちの日常生活と任務のサポートを担当しているの。"
+        },
+        {
+          "language": "英文",
+          "content": "Justice Knight's master, the Wild Mane Knight Iwona, found Justice Knight in a scrapped state. She rebooted and fixed this unit. Ever since then, Justice Knight've been in charge of her and her partners' everyday lives, as well as supporting them on missions."
+        },
+        {
+          "language": "韩文",
+          "content": "나의 마스터, 와일드메인, 즉 ‘거친 갈기의 기사’ 이보나 님은 저스티스 나이트를 고철 상태에서 수리하고 리부트 했어. 그 이후로 계~속, 난 마스터와 동료들의 일상생활과 임무 서포트를 담당하고 있지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "正義號的主人，野鬃騎士艾沃娜將正義號從已經廢棄的狀態重新開機並修好。自那之後，正義號就負責起了主人和她的夥伴們的生活起居和援護任務。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士......主人为什么会说“现在的正义号太吵了，没事就自己去玩玩！”这样的话呢？“滴滴”......“滴滴”......正义号不明白。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター様……マスターはどうして「今のジャスティスナイトはうるさいんだよ。暇ならどっか遊びにいきな！」なんて言うのかしら。“Di-di”……“Di-di”……ジャスティスナイトには分からないわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor... why does my master say things to this unit like 'Justice, you're too noisy these days. Go play somewhere else if you've got nothing to do!'? Beep-Beep…Beep-Beep... Justice Knight doesn't understand."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님…… 마스터는 어째서 “지금의 저스티스 나이트는 시끄러워. 심심하면 어디 놀러나 가!”라고 하는 걸까. “띠띠”…… “띠띠”…… 저스티스 나이트는 잘 모르겠어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士......主人為什麼會說“現在的正義號太吵了，沒事就自己去玩玩！”這樣的話呢？“滴滴”......“滴滴”......正義號不明白。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "红松骑士团的大家都非常努力，为了练习骑士技艺总是不按时吃饭，总有一天，身体会承受不了的。大家没空去取用的餐盒，只能靠正义号来运送了。"
+        },
+        {
+          "language": "日文",
+          "content": "レッドパイン騎士団のみんなはとっても頑張り屋さんなの。騎士としての技量を高めるための鍛錬にかまけてご飯を食べ損ねたりもするし、こんな調子じゃそのうち体が参っちゃうでしょう。みんながご飯を取りに行く暇がないなら、わたしが持っていくしかないわよね。"
+        },
+        {
+          "language": "英文",
+          "content": "Everyone in Pinus Sylvestris is incredibly hard-working, always putting meals off so they can train their knightly skills. There has to be a day where their bodies won't keep up. None of them have time to fetch their lunchboxes, so it's all up to Justice Knight to bring them over."
+        },
+        {
+          "language": "韩文",
+          "content": "피누스 실베스트리스 기사단 사람들은 정말 열심이야. 기사로서의 기량을 높이기 위해 단련에 매진하다 식사를 거르기도 하는데, 이러다가는 조만간 몸이 상할 거 아냐? 모두가 식사하러 갈 시간이 없다면, 내가 가지고 가는 수밖에 없겠지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "紅松騎士團的大家都非常努力，為了練習騎士技藝總是不按時吃飯，總有一天，身體會承受不了的。大家沒空去取用的餐盒，只能靠正義號來運送了。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "设备快要没电了？很抱歉，正义号不能确认自己是否有能够帮上忙的功能......竟竟竟然是游戏机没电了？请立即连上这根线！"
+        },
+        {
+          "language": "日文",
+          "content": "設備のバッテリーが切れそうなの？ごめんなさい、お役に立てるような機能があるか自信が……あら。あらあらあら、ゲーム機の充電切れなのね？いいわ、すぐにこの線に繋いで！"
+        },
+        {
+          "language": "英文",
+          "content": "A low battery? Sorry, this unit is not sure if any of my functions will be of help to you... What? it's the games console that's almost out? Please get this wire plugged in straight away!"
+        },
+        {
+          "language": "韩文",
+          "content": "디바이스의 배터리가 다 떨어질 것 같다고? 미안해, 도움이 될 만한 기능이 있을지 자신이…… 어머? 어머어머어머! 게임기 말하는 거였구나? 좋아, 여기 선 꽃아서 충전해!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "設備快要沒電了？很抱歉，正義號不能確認自己是否有能夠幫上忙的功能......竟竟竟然是遊戲機沒電了？請立即連上這根線！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“滴滴”，博士，竟然被您发现了。为了保守秘密，正义号不得不采取强制措施......主人？您允许正义号继续在疗养庭院进行花卉护理任务？博士，您可尽情使用正义号的所有服务！"
+        },
+        {
+          "language": "日文",
+          "content": "“Di-di”、ドクター様に見つかっちゃったわね。強硬手段をとるのは不本意だけれど秘密を守るためには……マスター？療養庭園のお花たちのお手入れを続けてよろしいの？ドクター様なんでも言って、わたしにできることならお役に立つわよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Beep-Beep. Doctor, you discovered Justice Knight's secret. Justice Knight has no other choice but to take firm action in order to protect the secret... Master? You'll allow Justice Knight to keep tending to the plants in the Convalescent Garden? Thank you, Doctor. You now have unlimited access to all services of Justice Knight!"
+        },
+        {
+          "language": "韩文",
+          "content": "“띠띠” 박사님께 들켰네. 강경 수단을 취하는 건 본의가 아니지만 비밀을 지키기 위해서는…… 마스터? 요양 정원의 꽃들을 계속 손질해도 좋다고? 박사님, 뭐든 말해~! 내가 할 수 있는 일이라면 뭐든지 도와줄게!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“滴滴”，博士，竟然被您發現了。為了保守秘密，正義號不得不採取強制措施......主人？您允許正義號繼續在療養庭院進行花卉護理任務？博士，您可盡情使用正義號的所有服務！"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“滴滴”，“滴滴”。很抱歉，博士，正义号总是忘记关闭自动报时。"
+        },
+        {
+          "language": "日文",
+          "content": "“Di-di”、“Di-di”。ごめんなさいドクター様、時報の自動通知機能をいつも切り忘れちゃうの。"
+        },
+        {
+          "language": "英文",
+          "content": "Beep-Beep, Beep-Beep. Apologies, Doctor. Justice Knight always forgets to disable the automatic timeteller feature."
+        },
+        {
+          "language": "韩文",
+          "content": "“띠띠”, “띠띠”. 어머 내 정신 좀 봐, 미안 박사님. 자동 시간 알림 기능 끄는 걸 매번 까먹는다니까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“滴滴”，“滴滴”。很抱歉，博士，正義號總是忘記關閉自動報時。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“滴滴”，“滴滴滴”，“滴滴”......“滴”！（“正义骑士号”，很高兴能跟随红松骑士团的大家一同报道......正义号会很有用！）"
+        },
+        {
+          "language": "日文",
+          "content": "“Di-di”、“Di-di-di”、“Di-di”……“Di！”（「ジャスティスナイト」、レッドパイン騎士団の皆と共にご挨拶できて嬉しいわ……わたしはお役に立ちますわよ！）"
+        },
+        {
+          "language": "英文",
+          "content": "Beep-Beep, Beep-Beep-Beep, Beep-Beep…Beep! ('Justice Knight,' glad to be reporting in along with everyone from Pinus Sylvestris Knightclub... Justice Knight will be of great use to you all!)"
+        },
+        {
+          "language": "韩文",
+          "content": "“띠띠”, “띠띠띠”, “띠띠”…… “띠!” ('저스티스 나이트', 피누스 실베스트리스 기사단 사람들과 함께, 인사할 수 있게 되어 기뻐…… 내가 도움이 되어 줄게!)"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“滴滴”，“滴滴滴”，“滴滴”......“滴”！（“正義騎士號”，很高興能跟隨紅松騎士團的大家一同報到......正義號會很有用！）"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这些资料对正义号来说很有用，之后可以向可露希尔女士申请加装更多功能。"
+        },
+        {
+          "language": "日文",
+          "content": "ジャスティスナイトにとって、すごく意味のある資料だわ。クロージャ様に新しい機能の実装を申請しなくちゃ！"
+        },
+        {
+          "language": "英文",
+          "content": "These are very useful resources for this unit. Justice Knight will apply to Miss Closure for installing even more new functions."
+        },
+        {
+          "language": "韩文",
+          "content": "저스티스 나이트에게 있어서 굉장히 의미가 있는 자료야. 클로저 님께 새로운 기능 설치를 신청해야겠어!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這些資料對正義號來說很有用，之後可以向可露希爾女士申請加裝更多功能。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "正义号，准备完毕！"
+        },
+        {
+          "language": "日文",
+          "content": "ジャスティスナイト、準備はいいわよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Justice Knight, all ready and set!"
+        },
+        {
+          "language": "韩文",
+          "content": "저스티스 나이트, 준비 다 됐어!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "正義號，準備完畢！"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让正义号进行指挥吗？虽然对现在的正义号来说还有些困难......"
+        },
+        {
+          "language": "日文",
+          "content": "ジャスティスナイトに指揮を任せるの？今のわたしにとってはまだ難しいわ……"
+        },
+        {
+          "language": "英文",
+          "content": "Are you leaving command to Justice Knight? It might be a little challenging for this unit right now…"
+        },
+        {
+          "language": "韩文",
+          "content": "저스티스 나이트에게 지휘를 맡기려고? 지금의 내게는 아직 어려운데……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "讓正義號進行指揮嗎？雖然對現在的正義號來說還有些困難......"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "正义号，出发！"
+        },
+        {
+          "language": "日文",
+          "content": "ジャスティスナイト、出発するわよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Justice Knight, setting off!"
+        },
+        {
+          "language": "韩文",
+          "content": "저스티스 나이트, 출발할게!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "正義號，出發！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“滴滴”，正义号将会及时为大家提供支援。"
+        },
+        {
+          "language": "日文",
+          "content": "“Di-di”、ジャスティスナイトは皆様に適時適切なサポートをお届けするわ！"
+        },
+        {
+          "language": "英文",
+          "content": "Beep-Beep. Justice Knight will provide you all with proper and timely support!"
+        },
+        {
+          "language": "韩文",
+          "content": "“띠띠”, 저스티스 나이트는 여러분에게 적재적소에, 적절한 서포트를 제공할게!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“滴滴”，正義號將會及時為大家提供支援。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "正义号，整装待发！"
+        },
+        {
+          "language": "日文",
+          "content": "ジャスティスナイト、出撃準備は万端よ！"
+        },
+        {
+          "language": "英文",
+          "content": "Justice Knight, all good to go!"
+        },
+        {
+          "language": "韩文",
+          "content": "저스티스 나이트, 출격 준비는 완벽해!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "正義號，整裝待發！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "正义号，请求出战！"
+        },
+        {
+          "language": "日文",
+          "content": "ジャスティスナイト、出撃を申請するわ！"
+        },
+        {
+          "language": "英文",
+          "content": "Justice Knight, requesting to attack!"
+        },
+        {
+          "language": "韩文",
+          "content": "저스티스 나이트, 출격을 신청할게!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "正義號，請求出戰！"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“滴滴”，目标已锁定。"
+        },
+        {
+          "language": "日文",
+          "content": "“Di-di”、目標をロックしたわよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Beep-Beep. Locked onto target."
+        },
+        {
+          "language": "韩文",
+          "content": "“띠띠”, 목표를 조준했어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "“滴滴”，目標已鎖定。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“滴滴”，正义号已经就位。"
+        },
+        {
+          "language": "日文",
+          "content": "“Di-di”、ジャスティスナイトは位置についているわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Beep-Beep. Justice Knight is now in position."
+        },
+        {
+          "language": "韩文",
+          "content": "“띠띠”, 저스티스 나이트는 위치에 도착했어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "“滴滴”，正義號已經就位。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "正——义！"
+        },
+        {
+          "language": "日文",
+          "content": "ジャースティス！"
+        },
+        {
+          "language": "英文",
+          "content": "Juuuuustice!"
+        },
+        {
+          "language": "韩文",
+          "content": "저~스티스!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "正——義！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "胜——利！"
+        },
+        {
+          "language": "日文",
+          "content": "ビークトリー！"
+        },
+        {
+          "language": "英文",
+          "content": "Viiiiictory!"
+        },
+        {
+          "language": "韩文",
+          "content": "빅~토리!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "勝——利！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "斗——志！"
+        },
+        {
+          "language": "日文",
+          "content": "ファーイト！"
+        },
+        {
+          "language": "英文",
+          "content": "Fiiiiight!"
+        },
+        {
+          "language": "韩文",
+          "content": "파이트~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "鬥——志！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "气——魄！"
+        },
+        {
+          "language": "日文",
+          "content": "スピリーット！"
+        },
+        {
+          "language": "英文",
+          "content": "Spiriiiiit!"
+        },
+        {
+          "language": "韩文",
+          "content": "스피릿~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "氣——魄！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“滴滴、滴滴滴——”......对不起，正义号太激动了。博士，主人，正义号做到了！"
+        },
+        {
+          "language": "日文",
+          "content": "“Di-di”、“Di-di-di――”……ごめんなさいね、わたし興奮しすぎちゃったわ。ドクター様、マスター、ジャステイスナイトはやり遂げたわよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Beep-Beep, BeepBeepBeep-- Sorry, Justice Knight got too worked up. Doctor, master, Justice Knight has made it!"
+        },
+        {
+          "language": "韩文",
+          "content": "“띠띠”, “띠띠띠”…… 어머 미안, 내가 너무 흥분했나봐. 박사님, 마스터, 저스티스 나이트가 해냈어!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“滴滴、滴滴滴——”......對不起，正義號太激動了。博士，主人，正義號做到了！"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好像有了开发新功能的可能性，正义号，等待回到罗德岛！"
+        },
+        {
+          "language": "日文",
+          "content": "新しい機能を開発できそうね。ジャスティスナイト、ロドスへの帰還が待ち遠しいわ！"
+        },
+        {
+          "language": "英文",
+          "content": "Possiblilites of new function development detected! Justice Knight, awaiting for orders to return to Rhodes Island!"
+        },
+        {
+          "language": "韩文",
+          "content": "새로운 기능을 개발할 수 있을 것 같아. 저스티스 나이트, 로도스 아일랜드로 귀환하는 게 기다려져!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "好像有了開發新功能的可能性，正義號，等待回到羅德島！"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "还有可以改进的地方，但是胜利了！博士，恭喜。"
+        },
+        {
+          "language": "日文",
+          "content": "反省点はあるけど、でも勝ったのよ！ドクター様、おめでとう！"
+        },
+        {
+          "language": "英文",
+          "content": "There is still room for improvement. Anyway, we won! Congratulations, Doctor!"
+        },
+        {
+          "language": "韩文",
+          "content": "반성할 점은 있지만, 그래도 이겼어! 박사님, 축하해!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "還有可以改進的地方，但是勝利了！博士，恭喜。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请不要......再一次......丢弃正义号......"
+        },
+        {
+          "language": "日文",
+          "content": "また……ジャスティスナイトを捨てるのを……おやめください……"
+        },
+        {
+          "language": "英文",
+          "content": "Please don't... throw Justice Knight... away again..."
+        },
+        {
+          "language": "韩文",
+          "content": "또…… 저스티스 나이트를 버리지…… 말아 주세요……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "請不要......再一次......丟棄正義號......"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“滴滴”，正义号在这里也有许多可做的事。"
+        },
+        {
+          "language": "日文",
+          "content": "“Di-di”、ジャスティスナイトはここでも色々なことができそうだわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Beep-Beep, Justice Knight has plenty of things to do here."
+        },
+        {
+          "language": "韩文",
+          "content": "“띠띠”, 저스티스 나이트는 여기서도 다양한 걸 할 수 있을 것 같아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "“滴滴”，正義號在這裡也有許多可做的事。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“滴滴”！这么对待正义号......不好！"
+        },
+        {
+          "language": "日文",
+          "content": "“Di-di”、ちょっと！そういう態度は、やめてほしいわ……"
+        },
+        {
+          "language": "英文",
+          "content": "Beep-Beep! Don't treat this unit like that… Negative!"
+        },
+        {
+          "language": "韩文",
+          "content": "“띠띠”, 잠깐! 그런 태도로 대하면, 안 돼……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“滴滴”！這麼對待正義號......不好！"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "洗衣机......似乎不难使用......"
+        },
+        {
+          "language": "日文",
+          "content": "洗濯機……使い方はそう難しくなさそうね……"
+        },
+        {
+          "language": "英文",
+          "content": "The washing machine... doesn't seem too hard to use..."
+        },
+        {
+          "language": "韩文",
+          "content": "세탁기…… 사용 방법은 그렇게 어렵지 않을 것 같네……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "洗衣機......似乎不難使用......"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您好，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "ごきげんよう、ドクター様。"
+        },
+        {
+          "language": "英文",
+          "content": "Nice to see you, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "안녕, 박사님."
+        },
+        {
+          "language": "繁体中文",
+          "content": "您好，博士。"
+        }
+      ]
+    }
+  ]
+}

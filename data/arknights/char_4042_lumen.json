@@ -1,0 +1,939 @@
+{
+  "name": "流明",
+  "charaKey": "char_4042_lumen",
+  "images": [
+    "https://prts.wiki/images/9/96/立绘_流明_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/a/ae/立绘_流明_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/1/1e/立绘_流明_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4042_lumen"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4042_lumen"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4042_lumen"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_4042_lumen"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯？我也能帮上博士的忙吗？我没办法协助您制订那些缜密的计划和高远的目标，但如果只是陪在您的身边......这倒是我的专长。"
+        },
+        {
+          "language": "日文",
+          "content": "え、僕でもドクターの役に立てるのですか？緻密な計画や高遠な目標を立てるのは僕じゃ力になれないと思いますが。そうですね、ただそばに寄り添うだけなら……確かに、むしろ得意と言えるかもしれませんね。"
+        },
+        {
+          "language": "英文",
+          "content": "Hm? Am I able to be of help to you? I can't contribute anything towards your meticulous plans or lofty ideals, but if you wish me to attend you... that happens to be my specialty."
+        },
+        {
+          "language": "韩文",
+          "content": "네? 저도 박사님께 도움이 될 수 있나요? 치밀한 계획과 원대한 목표들을 세우는 것을 도울 순 없겠지만, 곁에 있어 주기만 하면 된다면…… 그건 저의 특기이니 문제없습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯？我也能幫上博士的忙嗎？我沒辦法協助您制訂那些縝密的計畫和高遠的目標，但如果只是陪在您的身邊......這倒是我的專長。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您这样可不行，久坐不动是会肌肉萎缩的！来，我陪您去甲板上散散步吧，正好也想听您说说罗德岛的那些传奇故事。不，读档案哪有听您亲口讲述有意思。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、このままではいけませんよ。ずっと座りっぱなしだと筋肉が萎縮してしまいます。そうだ、甲板に散歩でも行きましょうか。ちょうどあなたが語るロドスの武勇伝を聞きたかったんです。いえ、資料なんか読むより、ドクターから直接聞かせてもらう方が良いのは当然でしょう？"
+        },
+        {
+          "language": "英文",
+          "content": "Sitting for extended periods of time will cause muscular atrophy, and that's not going to help, Doctor. Come, I'll walk with you around the deck. I've also been wanting to hear about some of Rhodes Island's legends. No, sifting through the archives isn't as interesting as hearing it from you."
+        },
+        {
+          "language": "韩文",
+          "content": "이대로는 안 됩니다. 오랜 시간 앉아있게 되면 근육이 위축된다고요! 자, 갑판으로 가서 산책이라도 하죠. 마침 로도스 아일랜드의 무용담도 듣고 싶었거든요. 아니요, 자료로 보는 것보다 박사님한테 직접 듣는 게 더 흥미로울 것 같아서요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "您這樣可不行，久坐不動是會肌肉萎縮的！來，我陪您去甲板上散散步吧，正好也想聽您說說羅德島的那些傳奇故事。不，讀檔案哪有聽您親口講述有意思。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的祖父曾参与修建那座伟大的灯塔。然而，哈哈，到了我这一辈，却只是在教堂中看护老人和病人......不，我不是在抱怨护工的工作，看到他们的笑容我也很开心！只是......"
+        },
+        {
+          "language": "日文",
+          "content": "僕の祖父はかつて、かの壮大な灯台の建造に参加していたそうです。それに比べて僕はと言えば……ただ教会で年寄りや病人たちの介護しかできなくて。いや、別に介護士の仕事に不満があるわけではありません。彼らが笑顔でいられると僕も嬉しくなりますから。ただ……"
+        },
+        {
+          "language": "英文",
+          "content": "My grandfather was involved in the construction of that great lighthouse. But now, haha, all I do is stay behind in the church, tending to the sick and elderly... No, I'm not complaining about my job as a caregiver; seeing their smiles brings me great joy! It's just that..."
+        },
+        {
+          "language": "韩文",
+          "content": "저희 조부님께서는 옛날, 그 위대한 등대를 짓는 일에 참여하셨어요. 그런 조부님에 비해 전 교회에서 노인과 병자만을 돌보고 있을 뿐이니…… 아뇨, 간병인의 업무에 대해 불만이 있는 건 아니에요. 그분들의 웃는 얼굴을 보면 제 기분도 같이 좋아지니까요! 그저……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我的祖父曾參與修建那座偉大的燈塔。然而，哈哈，到了我這一輩，卻只是在教堂中看護老人和病人......不，我不是在抱怨護工的工作，看到他們的笑容我也很開心！只是......"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "斯卡蒂、歌蕾蒂娅和幽灵鲨......我从没想过，有朝一日能与这些阿戈尔的大人物一起作战，毕竟我对于阿戈尔一无所知......和她们组队？那还是饶了我吧......"
+        },
+        {
+          "language": "日文",
+          "content": "スカジさん、グレイディーアさんにスペクターさん……エーギルのこの偉大な戦士たちと肩を並べて戦う日が来るなんて、夢にも思いませんでした。なにせエーギルについて何も知らない僕ですから……彼女たちとチームを組む？冗談はお止めください……"
+        },
+        {
+          "language": "英文",
+          "content": "Skadi, Gladiia, and Specter... I never thought a day would come when I would stand on the same side as those Ægir greats; I mean, I barely know anything about the Ægir... Huh? You're putting me on the same team as them? Please, have mercy on me..."
+        },
+        {
+          "language": "韩文",
+          "content": "스카디 씨, 글래디아 씨와 스펙터 씨…… 에기르에서 오신 대단한 분들과 이렇게 함께 싸우게 되리라고는 생각지도 못했어요. 전 에기르에 대해서는 거의 모른다고 할 수 있으니까요…… 이분들과 팀을 이루라고요? 그건 좀 봐주시면 안 될까요……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "斯卡蒂、歌蕾蒂婭和幽靈鯊......我從沒想過，有朝一日能與這些阿戈爾的大人物一起作戰，畢竟我對於阿戈爾一無所知......和她們組隊？那還是饒了我吧......"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那位审判官阁下为了我们战斗到了最后一刻。我看着他那盏照亮黑夜的提灯，突然意识到：他们都在为了未来奋战，而我，虽然没有他们那么厉害，但也不想置身事外。我想与他们并肩。"
+        },
+        {
+          "language": "日文",
+          "content": "あの審問官殿は我々のために、最後まで戦い続けていました。彼の手にある、闇夜を照らしていた灯りを見て、僕は気づきました――彼らはみんな、未来のために戦っているのだと。僕には彼らほど強い力はありませんが、無関心ではいられないのです。彼らと、共にありたい。"
+        },
+        {
+          "language": "英文",
+          "content": "That Inquisitor fought to the last breath for our sake. When I saw the light of his lantern pierce the darkness, I suddenly realized: they are all fighting for our future. And though I might not be as strong as them, I don't wish to remain a bystander. I want to stand with them."
+        },
+        {
+          "language": "韩文",
+          "content": "그 재판관분께서는 저희를 위해 끝까지 싸워 주셨어요. 어두운 밤을 밝혀 주는 그분의 등불을 보며 문득 이런 생각이 들었어요. 그분들은 미래를 위해 싸우고 있었고, 제가 그분들만큼 강하진 않더라도 방관할 수만은 없다고요. 전 그분들과 함께 싸우고 싶었어요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "那位審判官閣下為了我們戰鬥到了最後一刻。我看著他那盞照亮黑夜的提燈，突然意識到：他們都在為了未來奮戰，而我，雖然沒有他們那麼厲害，但也不想置身事外。我想與他們並肩。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "对我而言，成就一番伟业并不容易，但敢于直面生活本身，也并不渺小。博士，请放心，我不会放弃，罗德岛的各位是我追赶的目标。"
+        },
+        {
+          "language": "日文",
+          "content": "僕にとって、偉大な事業を成し遂げるのは夢のような話です。だけど人生そのものと向き合うのも、ささやかなことではないはずです。安心してくださいドクター、僕は諦めませんよ。ロドスの皆さんは僕の目標であり、努力する原動力です。"
+        },
+        {
+          "language": "英文",
+          "content": "Achieving great things is not easy for me, but even facing life itself is not a trivial task. Doctor, don't worry, I won't give up. I will try my best to catch up with everybody on Rhodes Island."
+        },
+        {
+          "language": "韩文",
+          "content": "제게 있어 위대한 업적을 이룬다는 건 결코 쉬운 일이 아니라고 생각해요. 하지만 삶 자체를 직면하는 것 또한 사소한 일은 아니겠지요. 안심하세요, 박사님. 전 포기하지 않을 겁니다. 로도스에 계신 모든 분들이, 곧 제가 추구하는 목표이기도 하니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "對我而言，成就一番偉業並不容易，但敢於直面生活本身，也並不渺小。博士，請放心，我不會放棄，羅德島的各位是我追趕的目標。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "对于一个伊比利亚人，谈起“大海”这个词的心情是复杂的，它象征着恐怖和危险，也寄托着对于曾经那个时代的怀念。可就连伊比利亚的巨舰都在我的眼前沉没，我们......需要一点改变。"
+        },
+        {
+          "language": "日文",
+          "content": "イベリア人として、「海」という言葉を口にすると、複雑な気持ちになります。それは恐怖と危険の象徴であると同時に、あの時代を偲ぶ思いの表れでもあります。しかし、イベリアの巨艦ですらその海に沈んでいった……我々は、変化を求めなければなりません。"
+        },
+        {
+          "language": "英文",
+          "content": "For us Iberians, our relationship with the 'sea' is a complicated one. The sea symbolizes terror and danger, while also holding nostalgia for a bygone era. But even as the great vessels of Iberia sink before our eyes, we... we require a bit of change."
+        },
+        {
+          "language": "韩文",
+          "content": "이베리아인이라면 '바다'라는 얘기가 나올 때마다 복잡한 기분이 들 거예요. 바다는 공포와 위험의 상징인 동시에, 그 시절에 대한 그리움을 뜻하기도 하니까요. 하지만 그 이베리아의 거함조차 제 눈앞에서 침몰하였으니, 저희도…… 조금은 바뀔 필요가 있겠네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "對於一個伊比利亞人，談起“大海”這個詞的心情是複雜的，它象徵著恐怖和危險，也寄託著對於曾經那個時代的懷念。可就連伊比利亞的巨艦都在我的眼前沉沒，我們......需要一點改變。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "护工的工作要应付各种各样的情况，有的人也并不是很好相处，但能收到别人的感谢还是很开心的。博士您每天如此奔波，一定也是为了相同的追求吧——那种有什么在因我而改变的喜悦。"
+        },
+        {
+          "language": "日文",
+          "content": "介護士をしていると、いろんな状況に対応しなければいけませんし、中には付き合いにくい人もいます。それでも感謝されると、やはり嬉しいものです。ドクターも、毎日こんなに苦労しているのは、きっと僕と同じようなものが得られるからでしょう。自分の存在によって何かが変わっていることで生じる喜びが。"
+        },
+        {
+          "language": "英文",
+          "content": "Caregivers have to respond to all sorts of different situations. Some people are difficult to deal with, but the gratitude we receive makes it worth it. Doctor, all that you do, day in and day out, must be for a very similar pursuit, right? You know the joy of being able to make a difference."
+        },
+        {
+          "language": "韩文",
+          "content": "간호를 할 때에는 여러 가지 상황과 마주치기 마련이죠. 모든 분들이 호의적인 태도를 보이는 건 아니거든요. 그래도 누군가가 고마움을 표할 때면 무척 기뻐요. 박사님이 매일 이리 바삐 뛰시는 것도 분명 같은 이유일 거라 생각해요. 자신으로 인해 무언가가 바뀌고 있다는 그런 희열감이겠죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "護工的工作要應付各種各樣的情況，有的人也並不是很好相處，但能收到別人的感謝還是很開心的。博士您每天如此奔波，一定也是為了相同的追求吧——那種有什麼在因我而改變的喜悅。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在审判庭的工作很辛苦，也不是所有人都像艾丽妮阁下那样公正......不过，要是没有这段经历，我也不可能和您这样了不起的人一起工作，对吧？"
+        },
+        {
+          "language": "日文",
+          "content": "裁判所での仕事は大変でしたし、みんながアイリーニ殿のように公正でいられるわけでもありません……とはいえ、あの時の経験がなければ、今こうしてドクターのような素晴らしい方と一緒に仕事することも当然ないです。そうですよね？"
+        },
+        {
+          "language": "英文",
+          "content": "Working in the Inquisition is difficult, and not everyone is as fair as Lady Irene... But, had I not experienced it, I never would've gotten to work with amazing people like you, right?"
+        },
+        {
+          "language": "韩文",
+          "content": "재판소에서의 업무는 힘들었어요. 모든 사람이 아이린 각하처럼 공정한 것도 아니었고요…… 하지만, 그때의 경험이 없었다면 박사님과 같은 대단한 분과 함께 일할 수 없었을 거예요. 그렇죠?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "在審判庭的工作很辛苦，也不是所有人都像艾麗妮閣下那樣公正......不過，要是沒有這段經歷，我也不可能和您這樣了不起的人一起工作，對吧？"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，博士？就这么睡着会受凉的，我去给您拿条毯子。灯光也为您调暗一些，没问题吧？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、ドクター？このまま寝ると風邪を引いてしまうので、毛布を取ってきますね。明かりも少し落としますよ、いいですね？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, Doctor? You're going to catch a cold if you fall asleep like this... Let me fetch you a blanket. Is it alright if I dim the lights for you a bit?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 박사님? 이렇게 잠들면 감기 걸리실 텐데, 제가 담요라도 가져다드릴게요. 조명도 좀 줄이고요, 괜찮죠?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，博士？就這麼睡著會著涼的，我去給您拿條毯子。燈光也為您調暗一些，沒問題吧？"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您就是......博士吗？初次见面，我的代号是“流明”，今后会作为罗德岛的一员行动。就算只能为您提供一丝微弱的光，我也会竭尽全力。"
+        },
+        {
+          "language": "日文",
+          "content": "あなたがその……ドクターですか？初めまして、僕のコードネームは「ルーメン」と言います。これからはロドスの一員として、たとえ小さな光しか出せなくても、僕の持てるすべての力を尽くしましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "So you're... the Doctor? Pleased to meet you. My codename is 'Lumen,' and I will now be serving as a Rhodes Island Operator. Even if I can only bring you a thin filament of light, I will give all my strength."
+        },
+        {
+          "language": "韩文",
+          "content": "당신이…… 박사님이신가요? 처음 뵙겠습니다. 제 코드네임은 '루멘'이라고 합니다. 앞으로 로도스 아일랜드의 일원으로서 활동할 예정입니다. 나약한 빛 한 줄기밖에 비춰 드리지 못한다 할지라도, 보탬이 될 수 있도록 최선을 다하겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "您就是......博士嗎？初次見面，我的代號是“流明”，今後會作為羅德島的一員行動。就算只能為您提供一絲微弱的光，我也會竭盡全力。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们今后......必须得对付这么吓人的东西吗？"
+        },
+        {
+          "language": "日文",
+          "content": "こんなに恐ろしいものを……相手にしていくのですか？"
+        },
+        {
+          "language": "英文",
+          "content": "Do we... really have to face such terrifying things?"
+        },
+        {
+          "language": "韩文",
+          "content": "우린 앞으로…… 이런 무서운 것들을 상대해야만 하는 건가요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我們今後......必須得對付這麼嚇人的東西嗎？"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不，请拿回去吧，我并没有做什么值得被晋升的事情，只是些分内的工作而已。您......您别摆出这副丧气的样子，我收下就是了！"
+        },
+        {
+          "language": "日文",
+          "content": "いえ、それはいただけません。僕はただやるべき仕事をこなしていただけで、昇進できるほどのことをしていませんから。……そ、そんな落ち込んだ顔をしないでください、う、受け取りますから！"
+        },
+        {
+          "language": "英文",
+          "content": "No, I can't accept this. I've just been doing my job, nothing worthy of a promotion. Please, you don't need to look so dejected. Fine, I'll take it!"
+        },
+        {
+          "language": "韩文",
+          "content": "아뇨, 받을 수 없어요. 전 해야 할 일들을 했을 뿐, 승진까지 할 정도는 아니니까요. 그…… 그렇게 실망한 표정 짓지 마세요. 받으면 되잖아요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不，請拿回去吧，我並沒有做什麼值得被晉升的事情，只是些分內的工作而已。您......您別擺出這副喪氣的樣子，我收下就是了！"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我只是个普通人，要花很大力气才能跟上大家的步伐，但如果您真的需要我这份小小的力量......无论何时，我都会毫不犹豫地站在您的身边。"
+        },
+        {
+          "language": "日文",
+          "content": "僕はごく普通の人間ですから、すごく頑張らないと皆さんについていけません。ですがこんなささやかな力でも必要だとおっしゃるのなら……いつどんな時でも、僕は必ずドクターの隣に立ちます。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm just an ordinary person, and it takes a huge amount of effort to even keep up with the others. However, if you really need what little I can offer... then I will be there for you at any time."
+        },
+        {
+          "language": "韩文",
+          "content": "저는 평범한 사람에 불과합니다. 전력을 다해야 모두의 발자취를 겨우 따라갈 수 있는걸요. 하지만 정말 이런 작은 힘이라도 필요하신 거라면…… 저는 언제나 박사님 곁에 있겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我只是個普通人，要花很大力氣才能跟上大家的步伐，但如果您真的需要我這份小小的力量......無論何時，我都會毫不猶豫地站在您的身邊。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "放心吧，博士，我会跟上大家的。"
+        },
+        {
+          "language": "日文",
+          "content": "安心してください、ドクター。ちゃんと皆さんについていきますから。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't worry, Doctor. I'll catch up to the others."
+        },
+        {
+          "language": "韩文",
+          "content": "안심하세요, 박사님. 모두를 따라가도록 하겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "放心吧，博士，我會跟上大家的。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让我当队长？唔......能先给我几分钟做下心理建设吗？"
+        },
+        {
+          "language": "日文",
+          "content": "僕が隊長、ですか？えーと……心の準備をするので、数分お待ちいただけますか？"
+        },
+        {
+          "language": "英文",
+          "content": "Me, squad leader? Umm... Can you give me a few minutes to sort things out in my head?"
+        },
+        {
+          "language": "韩文",
+          "content": "제가 대장이라고요? 으음…… 일단 마음의 준비를 할 수 있게 몇 분만 기다려 주실 수 있으신가요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "讓我當隊長？唔......能先給我幾分鐘做下心理建設嗎？"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看来已经没有犹豫的机会了，开始行动。"
+        },
+        {
+          "language": "日文",
+          "content": "どうやらもう迷っている場合ではないようですね。出発しましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "Looks like it's too late for second thoughts. Time to move out."
+        },
+        {
+          "language": "韩文",
+          "content": "더 이상 망설일 시간은 없나 보네요. 출발하겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "看來已經沒有猶豫的機會了，開始行動。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会尽力保证大家的安全！"
+        },
+        {
+          "language": "日文",
+          "content": "皆さんの安全を、全力で守ります！"
+        },
+        {
+          "language": "英文",
+          "content": "I'll do my best to keep everyone safe!"
+        },
+        {
+          "language": "韩文",
+          "content": "모두의 안전을 지킬 수 있도록, 최선을 다하겠습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我會盡力保證大家的安全！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "听候您的安排。"
+        },
+        {
+          "language": "日文",
+          "content": "あなたの指示通りに。"
+        },
+        {
+          "language": "英文",
+          "content": "At your disposal."
+        },
+        {
+          "language": "韩文",
+          "content": "명령에 따르겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "聽候您的安排。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果能帮上忙的话。"
+        },
+        {
+          "language": "日文",
+          "content": "僕で力になれれば。"
+        },
+        {
+          "language": "英文",
+          "content": "As long as I can help."
+        },
+        {
+          "language": "韩文",
+          "content": "제가 도움이 된다면."
+        },
+        {
+          "language": "繁体中文",
+          "content": "如果能幫上忙的話。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我能处理好的！"
+        },
+        {
+          "language": "日文",
+          "content": "うまく対処できるはず！"
+        },
+        {
+          "language": "英文",
+          "content": "I can handle this!"
+        },
+        {
+          "language": "韩文",
+          "content": "분명 해낼 수 있을 거야!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我能處理好的！"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没事的，只要我鼓起勇气......！"
+        },
+        {
+          "language": "日文",
+          "content": "大丈夫だ、勇気を出せばきっと……！"
+        },
+        {
+          "language": "英文",
+          "content": "It's fine, as long as I can muster up the courage!"
+        },
+        {
+          "language": "韩文",
+          "content": "괜찮아, 용기를 낸다면 나도 분명……!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "沒事的，只要我鼓起勇氣......！"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别担心，我就在你的身边。"
+        },
+        {
+          "language": "日文",
+          "content": "心配しないで、僕がついていますから。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't worry, I'm here with you."
+        },
+        {
+          "language": "韩文",
+          "content": "안심하세요, 제가 곁에 있을 테니."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別擔心，我就在你的身邊。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请振作起来，来，第一步，先试着深呼吸。"
+        },
+        {
+          "language": "日文",
+          "content": "しっかりしてください。ほら、まずは深呼吸してみて。"
+        },
+        {
+          "language": "英文",
+          "content": "You can do this. Here, the first step is a deep breath."
+        },
+        {
+          "language": "韩文",
+          "content": "정신 차리세요, 자, 일단은 심호흡부터 해보시죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "請振作起來，來，第一步，先試著深呼吸。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "再坚持一下，治疗马上就能完成！"
+        },
+        {
+          "language": "日文",
+          "content": "頑張って。治療はもうすぐ終わりますから。"
+        },
+        {
+          "language": "英文",
+          "content": "Hang in there, the treatment will be done in no time!"
+        },
+        {
+          "language": "韩文",
+          "content": "조금만 더 버텨 주세요. 치료가 곧 끝납니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "再堅持一下，治療馬上就能完成！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "放松下来，虽然有些棘手，但只要给我点时间......"
+        },
+        {
+          "language": "日文",
+          "content": "落ち着け。難しい処理だけど、十分な時間さえあれば……"
+        },
+        {
+          "language": "英文",
+          "content": "Please stay calm. It's a bit tricky, but as long as you give me some time..."
+        },
+        {
+          "language": "韩文",
+          "content": "진정하자. 조금 까다롭기는 하지만, 시간만 충분하다면……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "放鬆下來，雖然有些棘手，但只要給我點時間......"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，您让我见识了如此伟业，能参与其中，能与您站在一起，这是我的荣幸。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、これほどの偉業が達成される瞬間に立ち会えて、更にその一員として、あなたと共にいられて、僕は光栄です。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, that you've shown me such a great project, let me become a part of it, and even had me stand by your side, means the world to me."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 덕분에 이런 위업이 이루어지는 순간도 맞이할 수 있네요. 게다가 그 일원으로서 박사님과 함께하다니, 정말로 영광입니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，您讓我見識了如此偉業，能參與其中，能與您站在一起，這是我的榮幸。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我们做到了！就算只是小小的胜利，终有一日，也能够积累出足以驱散浓雾的光芒。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、やりましたよ！たとえ小さな勝利でも、一つずつ積み重ねていけば、いつの日かきっと、霧を貫く光になります。"
+        },
+        {
+          "language": "英文",
+          "content": "We did it, Doctor! Even though this was a small victory, the day will come when these small rays of light will grow numerous enough to dispel the darkness."
+        },
+        {
+          "language": "韩文",
+          "content": "해냈어요, 박사님! 비록 작은 승리일지라도, 승리를 거듭해 나간다면 언젠가 짙은 안개를 걷어낼 빛이 될 수도 있겠죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，我們做到了！就算只是小小的勝利，終有一日，也能夠累積出足以驅散濃霧的光芒。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别皱着眉头了，博士，这对您的健康没什么好处。如果事事顺遂，我们还有什么继续努力，更进一步的动力呢？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、そんなに眉間にしわを寄せないで、健康に響きますよ。何もかもうまくいくような人生なら、僕たちが努力する理由も、前に進む原動力もなくなるでしょう？"
+        },
+        {
+          "language": "英文",
+          "content": "Enough frowning, Doctor, it's bad for your health. If everything always went according to plan, what would motivate us to work harder and better ourselves?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 그렇게 인상을 찌푸리지는 마세요. 몸에 좋지 않답니다. 만일 세상 모든 일들이 뜻대로 잘 풀린다면, 저희는 노력할 이유도, 앞으로 나아갈 원동력도 사라지지 않을까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "別皺著眉頭了，博士，這對您的健康沒什麼好處。如果事事順遂，我們還有什麼繼續努力，更進一步的動力呢？"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，请您先离开这里！如果我挡在这里，能为您的未来换得更多的可能性，那么......"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、ひとまずここを離れて！僕が残ることであなたの未来に可能性を増やせるのなら、是非……"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, please evacuate! If I can hold the line and buy you a future, then I..."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 일단은 여기서 떠나세요! 제가 이곳에 남는 것으로 박사님의 미래에 더 많은 가능성을 가져다줄 수 있다면, 그렇다면……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，請您先離開這裡！如果我擋在這裡，能為您的未來換得更多的可能性，那麼......"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛是一艘漂亮的舰船，可惜......感觉不到海风的气息。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスは立派な船ですが……海風のにおいが感じられないのが玉に瑕ですかね。"
+        },
+        {
+          "language": "英文",
+          "content": "Rhodes Island is a beautiful ship, but sadly... I cannot feel the breath of the sea breeze."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드는 훌륭한 함선이지만…… 아쉽게도 바닷바람의 향기가 느껴지지는 않네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "羅德島是一艘漂亮的艦船，可惜......感覺不到海風的氣息。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "需要我扶您一把吗？"
+        },
+        {
+          "language": "日文",
+          "content": "手を貸しましょうか？"
+        },
+        {
+          "language": "英文",
+          "content": "Do you need a hand?"
+        },
+        {
+          "language": "韩文",
+          "content": "도와드릴까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "需要我扶您一把嗎？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我最享受的事情，就是看着窗外的景色，悠闲地度过一个下午。要加入吗，博士？"
+        },
+        {
+          "language": "日文",
+          "content": "僕が一番好きなのは、窓から外の景色を眺めながら、のんびりした午後を楽しむことです。一緒にどうです、ドクター？"
+        },
+        {
+          "language": "英文",
+          "content": "The thing I enjoy most is looking out the window at the surrounding scenery, relaxing away my afternoon. Want to join me, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "제가 가장 좋아하는 일은, 창밖의 풍경을 바라보며 여유롭게 오후를 보내는 거예요. 함께하시겠어요, 박사님?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我最享受的事情，就是看著窗外的景色，悠閒地度過一個下午。要加入嗎，博士？"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，需要我给您按按肩吗？我的理疗技术可是广受好评哦。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、肩のマッサージをしましょうか？腕がいいって評判なんですよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, need me to give you a shoulder massage? I'm pretty well-known for my PT skills."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 어깨 주물러 드릴까요? 제 실력은 호평이 자자하답니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，需要我給您按按肩嗎？我的理療技術可是廣受好評哦。"
+        }
+      ]
+    }
+  ]
+}

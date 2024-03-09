@@ -1,0 +1,885 @@
+{
+  "name": "翎羽",
+  "charaKey": "char_192_falco",
+  "images": [
+    "https://prts.wiki/images/8/84/立绘_翎羽_1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_192_falco"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_192_falco"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_192_falco"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_192_falco"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士请放心，无论发生了什么，我都会保护你的。"
+        },
+        {
+          "language": "日文",
+          "content": "安心してください、ドクター。何があっても、私がお守りします。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't worry, Doctor. No matter what happens, I'll protect you."
+        },
+        {
+          "language": "韩文",
+          "content": "안심해 주세요, 박사님. 무슨 일이 있어도, 제가 지켜 드리겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士請放心，無論發生了什麼，我都會保護你的。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不少黎博利人都有着卓越的视力，有些传说里，甚至有人能从倾盆大雨中辨别出雨滴的样子。听起来很厉害吧？"
+        },
+        {
+          "language": "日文",
+          "content": "リーベリ人はみな卓越した視力を持っていて、中には土砂降りの中で雨つぶの形を見分けられる者もいると言われるほどです。かっこいいでしょう？"
+        },
+        {
+          "language": "英文",
+          "content": "Liberi have excellent eyesight. According to legend, some can even tell one droplet from another in a rainstorm. Sounds incredible, huh?"
+        },
+        {
+          "language": "韩文",
+          "content": "리베리 사람들은 다들 탁월한 시력을 갖고 있어서, 그중에는 장대비가 쏟아질 때 빗방울의 형태를 구분할 수 있는 사람도 있을 정도라 합니다. 멋있죠?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不少黎博利人都有著卓越的視力，有些傳說裡，甚至有人能從傾盆大雨中辨別出雨滴的樣子。聽起來很厲害吧？"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我在日常生活中表现得过于严肃了？抱歉，这可能是出于拉特兰守卫的一种职业习惯，我以后会多注意一点的。"
+        },
+        {
+          "language": "日文",
+          "content": "日常生活でも私は真面目すぎる、ですか？ごめんなさい、ラテラーノの衛兵をやっていた頃の職業病ですね。今後は気をつけます。"
+        },
+        {
+          "language": "英文",
+          "content": "I take everyday life too seriously? My apologies. I think that comes from my time serving as a Laterano Guard. I'll work on that in the future."
+        },
+        {
+          "language": "韩文",
+          "content": "평소에도 전 너무 진지하다고요? ……죄송합니다, 라테라노에서 위병 일을 할 때 생긴 직업병이에요. 앞으론 조심하겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我在日常生活中表現得過於嚴肅了？抱歉，這可能是出於拉特蘭守衛的一種職業習慣，我以後會多注意一點的。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "对于大多数拉特兰人来说，过于厚重的铠甲并没有什么作用。当然了，在拉特兰举行比较盛大的仪式时，我们也会换上礼服的。"
+        },
+        {
+          "language": "日文",
+          "content": "身のこなしが命のラテラーノ人からすると、重厚な鎧はそこまで役に立たないんです。もちろんラテラーノで大きな儀式が行われる時は、正装で参加しますよ。"
+        },
+        {
+          "language": "英文",
+          "content": "To most Lateranos, heavy armor doesn't serve much of a purpose. Of course, when we perform the large-scale rituals of our homeland, we do dress up in ceremonial garb."
+        },
+        {
+          "language": "韩文",
+          "content": "몸놀림이 생명인 라테라노인에게, 중후한 갑옷은 그렇게 큰 도움이 되지 못하죠. 물론 라테라노인이라도 성대한 의식이 진행될 땐, 정장을 입고 참가하지만요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "對於大多數拉特蘭人來說，過於厚重的鎧甲並沒有什麼作用。當然了，在拉特蘭舉行比較盛大的儀式時，我們也會換上禮服的。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "感谢你对我的信任，我一定不会辜负你的厚爱。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターのご信頼に感謝して、ご期待にお応えできるよう精進します。"
+        },
+        {
+          "language": "英文",
+          "content": "I appreciate your faith in my abilities, Doctor. I won't let you down."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님의 신뢰에 감사드립니다, 앞으로도 기대에 부응할 수 있도록 정진하겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "感謝你對我的信任，我一定不會辜負你的厚愛。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯......我已经向人事部递交了申请书。我想要成为博士你的贴身卫士。应该说，这也是种职业习惯吧......？"
+        },
+        {
+          "language": "日文",
+          "content": "はい、人事部門に申請書を提出してきました。ドクター専属の護衛担当になれればと……いや、これはただの職業病といいますか……。"
+        },
+        {
+          "language": "英文",
+          "content": "Right... I submitted a request to the HR office... to become your personal bodyguard. I guess maybe I miss my old job too much."
+        },
+        {
+          "language": "韩文",
+          "content": "네, 인사부에 신청서를 제출하고 왔습니다. 박사님의 전속 호위 담당이 되면 좋겠다 싶어서… 아뇨, 이건 그냥 직업병이랄까…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯......我已經向人事部遞交了申請書。我想要成為博士你的貼身衛士。應該說，這也是種職業習慣吧......？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我从小成长在拉特兰，并没有什么机会接触其他的文明......罗德岛让我看到了许多我没法想象的生活，说不定，也不赖......"
+        },
+        {
+          "language": "日文",
+          "content": "ずっとラテラーノで育ってきたので、ほかの地域についてあまり知る機会がありませんでした……。ロドスでは想像したこともないような驚きの連続でしたが、このような生活も悪くないのかもしれません……。"
+        },
+        {
+          "language": "英文",
+          "content": "I grew up in Laterano and didn't really have the chance to learn about other cultures. Here at Rhodes Island, I get to see such diversity, way beyond my imagination. Actually...it's not so bad."
+        },
+        {
+          "language": "韩文",
+          "content": "계속 라테라노에서 자라서 그런지, 다른 지역에 대해 알 기회가 별로 없었습니다… 로도스 아일랜드에서의 생활은 상상해 본 적도 없는 놀라움의 연속이었습니다만, 이런 생활도 나쁘진 않을지도 모르겠네요…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我從小成長在拉特蘭，並沒有什麼機會接觸其他的文明......羅德島讓我看到了許多我沒法想像的生活，說不定，也不賴......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不后悔了。嗯，是的，虽然当时她们强行把我从拉特兰拽了出来......但确实，这是一场有趣的冒险，我很喜欢。"
+        },
+        {
+          "language": "日文",
+          "content": "もう迷いません。ええ、確かにあの時は、彼女たちに無理やりラテラーノから連れ出されてきたのですが……その冒険は意外と楽しくて、気に入っています。"
+        },
+        {
+          "language": "英文",
+          "content": "I have no regrets. Yes, true, they did drag me out of Laterano against my will... but this has been a great adventure. I've enjoyed it."
+        },
+        {
+          "language": "韩文",
+          "content": "이젠 망설이지 않을 거예요. 네, 하긴 그때는 그 여자들때문에 억지로 라테라노에서 끌려 나왔습니다만… 그래도 그 뒤로 겪게 된 모험은 의외로 즐거워서, 마음에 듭니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我不後悔了。嗯，是的，雖然當時她們強行把我從拉特蘭拽了出來......但確實，這是一場有趣的冒險，我很喜歡。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "放心，博士，保护你是我的责任。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターをお守りするのは私の役目です。ご安心を。"
+        },
+        {
+          "language": "英文",
+          "content": "It is my duty to protect you, Doctor. Rest assured."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님을 지키는 건 제 역할입니다. 안심하십시오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "放心，博士，保護你是我的責任。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "翎羽，原属拉特兰戍卫队，愿意成为你的戟、你的羽翼，为了你的生命而战。"
+        },
+        {
+          "language": "日文",
+          "content": "プリュムと申します。以前はラテラーノ護衛隊に所属しておりました。あなたの矛となり、翼となり、命をお守りするために戦う所存です。"
+        },
+        {
+          "language": "英文",
+          "content": "My name is Plume, formerly of the Pontifica Cohors Lateran. I will be your sword, and your wings, as I defend your very life."
+        },
+        {
+          "language": "韩文",
+          "content": "플룸이라고 합니다. 이전엔 라테라노 호위대에 소속되어 있었습니다. 당신의 창이 되고, 날개가 되어, 목숨을 지켜드리기 위해 싸울 것입니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "翎羽，原屬拉特蘭戍衛隊，願意成為你的戟、你的羽翼，為了你的生命而戰。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔，依靠战术也能补足实力上的差距，是吗。"
+        },
+        {
+          "language": "日文",
+          "content": "なるほど、実力の差を、戦術で埋めるというわけですね。"
+        },
+        {
+          "language": "英文",
+          "content": "Ah, so tactics can help you overcome a more skilled opponent, huh?"
+        },
+        {
+          "language": "韩文",
+          "content": "흐음~ 실력의 차이가 나는 부분을, 전술로 메꾼다… 이거군요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "唔，依靠戰術也能補足實力上的差距，是嗎。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "谢谢你，博士。作为卫士，你的嘉奖就是我最好的勋章。"
+        },
+        {
+          "language": "日文",
+          "content": "ありがとうございます、ドクター。護衛役として、お褒め頂けることこそ至上の勲章です。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you, Doctor. As your bodyguard, your approval is the best reward I can ask for."
+        },
+        {
+          "language": "韩文",
+          "content": "감사합니다 박사님. 호위 역으로 있으면서 칭찬받을 수 있다니, 이거야말로 최고의 훈장이겠네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "謝謝你，博士。作為衛士，你的嘉獎就是我最好的勳章。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "做好准备。"
+        },
+        {
+          "language": "日文",
+          "content": "準備を。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm ready."
+        },
+        {
+          "language": "韩文",
+          "content": "준비하겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "做好準備。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "既然由我带领大家，那么，保证各位的安全就是我的义务。"
+        },
+        {
+          "language": "日文",
+          "content": "隊長を任された以上、みなさんの安全をお守りするのが私の使命です。"
+        },
+        {
+          "language": "英文",
+          "content": "As the leader, it's my responsibility to keep everyone safe."
+        },
+        {
+          "language": "韩文",
+          "content": "팀장을 맡은 이상, 모두의 안전을 지키는 것이 저의 사명입니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "既然由我帶領大家，那麼，保證各位的安全就是我的義務。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "保护好我方干员！"
+        },
+        {
+          "language": "日文",
+          "content": "味方のみんなを守って！"
+        },
+        {
+          "language": "英文",
+          "content": "Watch the friendlies!"
+        },
+        {
+          "language": "韩文",
+          "content": "아군을 모두 지켜주세요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "保護好我方幹員！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请大家提高警惕！"
+        },
+        {
+          "language": "日文",
+          "content": "みなさん、警戒してください！"
+        },
+        {
+          "language": "英文",
+          "content": "Keep your guard up!"
+        },
+        {
+          "language": "韩文",
+          "content": "모두 경계해 주세요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "請大家提高警惕！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯？"
+        },
+        {
+          "language": "日文",
+          "content": "なんでしょうか？"
+        },
+        {
+          "language": "英文",
+          "content": "Hmm?"
+        },
+        {
+          "language": "韩文",
+          "content": "무슨 일이십니까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯？"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "知道了。"
+        },
+        {
+          "language": "日文",
+          "content": "かしこまりました。"
+        },
+        {
+          "language": "英文",
+          "content": "Got it."
+        },
+        {
+          "language": "韩文",
+          "content": "알겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "知道了。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "守住这里。"
+        },
+        {
+          "language": "日文",
+          "content": "ここを死守します。"
+        },
+        {
+          "language": "英文",
+          "content": "Ready for overwatch."
+        },
+        {
+          "language": "韩文",
+          "content": "이곳을 사수하겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "守住這裡。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我明白。"
+        },
+        {
+          "language": "日文",
+          "content": "承知しております。"
+        },
+        {
+          "language": "英文",
+          "content": "Understood!"
+        },
+        {
+          "language": "韩文",
+          "content": "인지했습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我明白。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你的速度，快得过我吗？"
+        },
+        {
+          "language": "日文",
+          "content": "この程度のスピードで、私に勝てるとでも？"
+        },
+        {
+          "language": "英文",
+          "content": "You think you're faster than me?"
+        },
+        {
+          "language": "韩文",
+          "content": "이 정도의 속도로 날 이길 수 있으리라 생각했나?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你的速度，快得過我嗎？"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你的动作逃不过我的眼睛！"
+        },
+        {
+          "language": "日文",
+          "content": "私の眼をごまかせると思うな！"
+        },
+        {
+          "language": "英文",
+          "content": "No move can escape my sight!"
+        },
+        {
+          "language": "韩文",
+          "content": "내 눈을 속일 수 있으리라 생각하지 마라!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你的動作逃不過我的眼睛！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这把武器里，寄托了我的信念！"
+        },
+        {
+          "language": "日文",
+          "content": "この槍にすべてをかけて、我が信念を貫く！"
+        },
+        {
+          "language": "英文",
+          "content": "My resolve lies with my spear!"
+        },
+        {
+          "language": "韩文",
+          "content": "이 창에 모든 것을 걸고, 내 신념을 관철하겠다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這把武器裡，寄託了我的信念！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的战斗，凝聚着拉特兰的荣耀！"
+        },
+        {
+          "language": "日文",
+          "content": "ラテラーノの栄光を背負って戦います！"
+        },
+        {
+          "language": "英文",
+          "content": "I fight for the glory of Laterano!"
+        },
+        {
+          "language": "韩文",
+          "content": "라테라노의 영광을 짊어지고 싸우겠습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我的戰鬥，凝聚著拉特蘭的榮耀！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没什么能让我退缩。"
+        },
+        {
+          "language": "日文",
+          "content": "何があろうと、私は一歩も退きません。"
+        },
+        {
+          "language": "英文",
+          "content": "Nothing can hold me back."
+        },
+        {
+          "language": "韩文",
+          "content": "무슨 일이 있어도, 전 한 발자국도 물러서지 않겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "沒什麼能讓我退縮。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "狂风吹打山岩，自己反而先粉身碎骨。"
+        },
+        {
+          "language": "日文",
+          "content": "身の程を知らない高波が、堅固な岩礁にぶつかって弾けたようですね。"
+        },
+        {
+          "language": "英文",
+          "content": "Like a wave crashing against an immovable stone, isn't it?"
+        },
+        {
+          "language": "韩文",
+          "content": "제 분수를 모르는 높은 파도가 견고한 암초에 부딪혀 부서지는 것 같네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "狂風吹打山岩，自己反而先粉身碎骨。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "重整队列！我会小心剩下的敌人！"
+        },
+        {
+          "language": "日文",
+          "content": "態勢を立て直してください！残りの敵は私がなんとかします！"
+        },
+        {
+          "language": "英文",
+          "content": "Regroup! I'll look out for the remaining enemies!"
+        },
+        {
+          "language": "韩文",
+          "content": "대형을 정비해 주세요! 남은 적은 제가 어떻게든 해보겠습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "重整佇列！我會小心剩下的敵人！"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "还不可以......倒下！"
+        },
+        {
+          "language": "日文",
+          "content": "まだ……倒れるわけにはいきません！"
+        },
+        {
+          "language": "英文",
+          "content": "I can't... fall... yet!"
+        },
+        {
+          "language": "韩文",
+          "content": "아직…… 쓰러질 순 없어요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "還不可以......倒下！"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要我在这巡逻吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ここの巡回を任せていただけますか？"
+        },
+        {
+          "language": "英文",
+          "content": "Should I patrol this area?"
+        },
+        {
+          "language": "韩文",
+          "content": "이곳을 순찰해도 될까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "要我在這巡邏嗎？"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那里有什么吗？"
+        },
+        {
+          "language": "日文",
+          "content": "あそこに何が？"
+        },
+        {
+          "language": "英文",
+          "content": "Anything over there?"
+        },
+        {
+          "language": "韩文",
+          "content": "저기에 뭔가 있나요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "那裡有什麼嗎？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士......感觉我在擅用职权了呢......"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター……私、もしかして職権を濫用しているのでは……。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor... it feels like I'm abusing my position..."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님…… 저, 혹시 직권을 남용하고 있는 건 아닌지…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士......感覺我在擅用職權了呢......"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你好，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "おはようございます、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Hello, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "안녕하세요, 박사님."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你好，博士。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,939 @@
+{
+  "name": "菲亚梅塔",
+  "charaKey": "char_300_phenxi",
+  "images": [
+    "https://prts.wiki/images/9/9c/立绘_菲亚梅塔_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/4/47/立绘_菲亚梅塔_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/1/16/立绘_菲亚梅塔_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_300_phenxi"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_300_phenxi"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_300_phenxi"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_300_phenxi"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别走神。专心点，完成你该做的工作。如果所有人都能完成自己的工作，就算事情不会变好，至少也不会更糟。教训你？教训你干什么，我只是......在提醒自己。"
+        },
+        {
+          "language": "日文",
+          "content": "ぼやっとしてないで、集中してやるべき仕事をこなしなさい。誰もが自分の仕事をやり遂げれば、たとえ事態が好転しなくても、悪くなることはないはずよ。説教？あなたに説教して何になるの。私はただ……自分に言い聞かせてるだけ。"
+        },
+        {
+          "language": "英文",
+          "content": "Stay sharp. Focus, finish your work. If everyone could just get their own work done, it might as well not help at all, but it's not going to make anything worse either. Lecturing? Who am I to lecture you, I'm just... reminding myself."
+        },
+        {
+          "language": "韩文",
+          "content": "멍하니 있지 말고, 집중해서 해야 할 일을 해. 모두가 자기 임무를 완수한다면, 혹시 사태가 호전되지 않더라도 나빠지지는 않을 거야. 설교냐고? 너한테 설교해서 뭐 하겠어. 나는 그저…… 나 자신을 훈계하는 것뿐이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別走神。專心點，完成你該做的工作。如果所有人都能完成自己的工作，就算事情不會變好，至少也不會更糟。教訓你？教訓你幹什麼，我只是......在提醒自己。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不管有什么事都等我抓到莫斯提马那家伙之后再说，这混蛋肯定是故意在我的鳞丸里放辣椒的！让开，别拦着我，今天我一定要给她一弩箭——"
+        },
+        {
+          "language": "日文",
+          "content": "どんな用件だろうと私がモスティマを捕まえてからにして。あの大馬鹿、私の魚団子にとうがらしを入れるなんて絶対わざとだから！どきなさい、止めても無駄よ。今日こそ一発入れてやらないと気が済まないわ！"
+        },
+        {
+          "language": "英文",
+          "content": "Whatever it is you want, it can wait until I get my hands on Mostima! It has to be that damn idiot who spiked my finballs with chili! Get to the side and make sure you stay there, this day's not done until I put a bolt in her—"
+        },
+        {
+          "language": "韩文",
+          "content": "무슨 용건이든 내가 모스티마를 붙잡고 나서 말해. 그 멍청이, 분명 일부러 내 생선 완자에 고추를 넣어놓은 거야! 비켜, 말려도 소용없어. 오늘이야말로 한 방 먹여주지 않으면 속이 풀리지 않는다고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不管有什麼事都等我抓到莫斯提馬那傢伙之後再說，這混蛋肯定是故意在我的鱗丸裡放辣椒的！讓開，別攔著我，今天我一定要給她一弩箭——"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "之前我也试过学着用铳，但效果不好，就放弃了。怎么，很惊讶？铳这东西没有那么神秘，只不过是要练习......一直练到学会，或者炸膛炸到自己。"
+        },
+        {
+          "language": "日文",
+          "content": "私も銃を使ってみたことはあるんだけど、あんまり上手くいかなくてやめちゃった。なに、意外？銃なんて別にそんな大それたものじゃないわ、ただ練習が必要で……自由に扱えるようになるか、暴発させて自分が吹き飛ぶかのどっちかってだけ。"
+        },
+        {
+          "language": "英文",
+          "content": "I tried using guns before, but it didn't pan out, so I gave up. What, are you surprised? Guns aren't some huge mystery, but they need practice... and maybe you practice until you're smooth, or you blow yourself up in a burst."
+        },
+        {
+          "language": "韩文",
+          "content": "나도 총을 써본 적은 있는데, 잘 안되길래 그만뒀어. 뭐, 의외라고? 총이라고 별로 그리 대단한 건 아니야. 그저 연습이 필요하고… 자유자재로 다루게 되거나, 폭발시켜서 자기가 날아가 버리거나 둘 중 하나일 뿐이지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "之前我也試過學著用銃，但效果不好，就放棄了。怎麼，很驚訝？銃這東西沒有那麼神秘，只不過是要練習......一直練到學會，或者炸膛炸到自己。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在判断有必要的时候，采取手段阻止情报泄露也是我的工作。......喂，别盯着我背后看，这翅膀贴纸是老头子们硬贴的，撕不下来！咳，总之，别指望我能告诉你什么，我只负责保守秘密。"
+        },
+        {
+          "language": "日文",
+          "content": "必要と判断されたら、情報漏洩防止の手立てを講じるのも私の仕事よ。……ちょっと、そんなにじっと背中を見ないで。この翼のシールは、役場の老いぼれたちに強制されてるものだから剥がせないのよ！コホン。とにかく、私から情報を得られるなんて思わないで、秘密を守るのが私の仕事なんだから。"
+        },
+        {
+          "language": "英文",
+          "content": "If it's deemed necessary, taking measures to block intel leakage is part of my work. ...Hey, stop staring at my back! Those idiots at the Notarial stuck those wing stickers there, they're not coming off! *cough* Anyway, don't count on me telling you anything. Keeping secrets is my job."
+        },
+        {
+          "language": "韩文",
+          "content": "필요하다고 판단되면, 정보 유출 방지의 대책을 강구하는 것도 내 업무야. …잠깐, 그렇게 빤히 등 쳐다보지 마. 이 날개 스티커는, 공증소 영감들이 강제로 붙인 거라 못 뗀단 말이야! 크흠. 어쨌든, 나한테 정보를 얻어낼 수 있을 거라 생각 마. 비밀을 지키는 게 내 일이니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "在判斷有必要的時候，採取手段阻止情報洩露也是我的工作。......喂，別盯著我背後看，這翅膀貼紙是老頭子們硬貼的，撕不下來！咳，總之，別指望我能告訴你什麼，我只負責保守秘密。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "过度的好奇心不是好事。对蕾缪安的妹妹来说是这样，对你来说也一样，博士。关心你？......没这回事，我只负责看着某人不泄密不闹事，除此之外的事我不关心。"
+        },
+        {
+          "language": "日文",
+          "content": "過ぎた好奇心は良いこととは言えないわ。レミュアンの妹にとっても、あなたにとってもよ、ドクター。心配してるのかって？……そんなはずないでしょ。私は誰かさんが情報を漏らしたり問題を起こしたりしないか見張ってるだけだし、それ以外のことには興味ないから。"
+        },
+        {
+          "language": "英文",
+          "content": "Too much curiosity's never good. That goes for Lemuen's sister, and it goes for you too, Doctor. Am I worried about you? ...Hardly. I'm just tasked with making sure *someone* doesn't leak secrets or make trouble, and anything else is beyond my care."
+        },
+        {
+          "language": "韩文",
+          "content": "지나친 호기심은 좋다고 말할 수 없지. 르무엔의 여동생에게도, 박사 너에게도 말이야. 걱정하는 거냐고? ……그럴 리가 없잖아. 나는 누군가가 정보를 누설하거나 문제를 일으키지는 않는지 감시할 뿐이지, 그 외의 일에는 관심 없으니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "過度的好奇心不是好事。對蕾繆安的妹妹來說是這樣，對你來說也一樣，博士。關心你？......沒這回事，我只負責看著某人不洩密不鬧事，除此之外的事我不關心。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我去过很多国家，不是没有比拉特兰更打动我的地方，但现在我很清楚自己要的是什么。这座拉特兰城，任何人都别想伤害它。我已经不必再找谁要什么答案了。"
+        },
+        {
+          "language": "日文",
+          "content": "色んな国に行ってみて、ラテラーノ以上に心が動かされる場所もあるにはあった。だけど、今はもう自分の願いははっきりしてるんだ。ラテラーノという都市を、誰にも傷つけさせるつもりはないわ。もう誰かに答えを尋ねる必要だってないんだから。"
+        },
+        {
+          "language": "英文",
+          "content": "I've been to plenty of nations before. It's not like nowhere moves me more than Laterano, but I'm all too clear about what I have to do right now. I've got no intent of letting anybody harm this city of Laterano. There's no more answers I need to seek from anyone."
+        },
+        {
+          "language": "韩文",
+          "content": "여러 나라를 가보면서, 라테라노 이상으로 마음이 움직이는 곳도 있긴 했어. 하지만 이제 내 바람은 확실해졌어. 라테라노라는 도시를 누군가에게 상처 입게 두진 않을 거야. 이제 누군가에게 답을 찾을 필요도 없으니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我去過很多國家，不是沒有比拉特蘭更打動我的地方，但現在我很清楚自己要的是什麼。這座拉特蘭城，任何人都別想傷害它。我已經不必再找誰要什麼答案了。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......不许叫我“苦难陈述者”，“神选监工”和“燃烧使者”也不行！够了，不管莫斯提马那混蛋还和你说了什么，现在就给我全部忘掉！立刻，马上！"
+        },
+        {
+          "language": "日文",
+          "content": "……「苦難陳述者」なんて呼ばないで。「神に選ばれし監督者」とか「燃える使者」もダメよ！あーもういい、モスティマの大馬鹿に何を吹き込まれたのかは知らないけど、今すぐ全部忘れなさい！直ちに、即刻よ！"
+        },
+        {
+          "language": "英文",
+          "content": "...Don't call me 'Suffering.' And don't call me 'Chosen Overseer' or 'Flaming Envoy' either! That's it, no matter what that Mostima-on-low told you, I want you to forget all of it right now! Immediately! On the double!"
+        },
+        {
+          "language": "韩文",
+          "content": "……'고난의 진술자'라고 부르지 마. '신에게 선택받은 감시자'나 '불타는 사자'도 안 돼! 아~ 이제 그만. 모스티마 그 멍청이가 무슨 소리를 했는지는 모르겠지만, 지금 바로 잊어버려! 즉시, 당장!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "......不許叫我“苦難陳述者”，“神選監工”和“燃燒使者”也不行！夠了，不管莫斯提馬那混蛋還和你說了什麼，現在就給我全部忘掉！立刻，馬上！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "拜某人所赐，这一带的小吃街我已经熟得不能再熟了，真不知道有什么好逛的。入口边上那个射击摊上的靶子，从对面大楼的楼顶我都能射中。下次带上你一起？......我考虑一下。"
+        },
+        {
+          "language": "日文",
+          "content": "誰かさんのおかげで、この辺りの露店街はもう回り尽くしたけど、ほんっと何が面白いのかわからないわ。入り口にある射的屋なんて、向かいのビルの屋上からでも的に当てられるほどなんだから。今度連れて行ってほしい？……考えとくわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Thanks to a certain *someone*, I couldn't be more familiar with all the food streets around. I seriously don't know what's so good about this place. See the shooting gallery at the entrance? I could hit their targets from the roof of the skyscraper opposite. You want me to bring you along next time? ...I'll consider it."
+        },
+        {
+          "language": "韩文",
+          "content": "누구 덕분에 이 근처의 맛집 골목은 많이 다녀서 익숙한데, 구경하기 좋은 재밌는 데가 뭐가 있는지 모르겠어. 입구 쪽 사격장 위의 과녁은 맞은편 빌딩 옥상에서도 모두 맞힐 수 있을 정도라니까. 다음에 데려가 달라고? ……생각해 볼게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "拜某人所賜，這一帶的小吃街我已經熟得不能再熟了，真不知道有什麼好逛的。入口旁邊那個射擊攤上的靶子，從對面大樓的樓頂我都能射中。下次帶上你一起？......我考慮一下。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "为追求理想，人真的可以将一切弃之不顾，不惜将现有的秩序都打破？这种执着......我可以理解，但不能认同。我知道罗德岛也有你们自己的信念，希望我们不会有直接冲突的一天，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "人は理想のためになら、本当に何もかも捨てて、築いてきた秩序さえ躊躇なく打ち崩せるの？そういう執念は……理解はできるけど、賛同はできない。ロドスにもロドスの信念があるのはわかるし、私たちが衝突する日が来ないことを祈ってるわ、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Can people really cut everything loose without looking back, even shatter the order that was there, all to chase ideals? That's a dedication that... I can comprehend, but can't identify with. I know you all have your own beliefs at Rhodes Island, too. Here's hoping we don't come into direct conflict one day, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "사람은 이상을 위해서라면 정말 뭐든지 다 버리고, 그동안 쌓아온 질서까지 주저 없이 부숴버릴 수 있는 거야? 그런 집념은…… 이해할 수는 있지만 동의할 수는 없어. 로도스 아일랜드에게도 나름의 신념이 있다는 걸 아니까, 우리가 충돌할 날이 오지 않기를 바랄게, 박사."
+        },
+        {
+          "language": "繁体中文",
+          "content": "為追求理想，人真的可以將一切棄之不顧，不惜將現有的秩序都打破？這種執著......我可以理解，但不能認同。我知道羅德島也有你們自己的信念，希望我們不會有直接衝突的一天，博士。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "居然站着睡着了......装得还挺像那么回事的，比当年学校里那群上课偷偷睡觉的家伙强。"
+        },
+        {
+          "language": "日文",
+          "content": "立ったまま寝るなんて……しかもまるで起きてるみたい。昔学校で授業中に居眠りしてた連中より一枚上手ね。"
+        },
+        {
+          "language": "英文",
+          "content": "Beats me how you sleep while standing up... and you even look pretty normal. It's a cut above everyone back then who sneaked naps in class."
+        },
+        {
+          "language": "韩文",
+          "content": "선 채로 잠들다니…… 게다가 깨어있는 것 같아. 예전에 학교에서 수업 중에 졸던 녀석들보다 한 수 위인걸."
+        },
+        {
+          "language": "繁体中文",
+          "content": "居然站著睡著了......裝得還挺像那麼回事的，比當年學校裡那群上課偷偷睡覺的傢伙厲害。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的职责是监视莫斯提马，在这里我也会和她一起行动，没问题吧。要取代号？......直接叫我菲亚梅塔就行，老头子们起的那些名字我已经受够了。"
+        },
+        {
+          "language": "日文",
+          "content": "モスティマを見張るのが私の責務だから、ここでもあいつと一緒に行動するけど大丈夫よね。コードネームが必要？……フィアメッタのままでいいわ。役場の老いぼれたちに付けられた役職名にはもううんざりなの。"
+        },
+        {
+          "language": "英文",
+          "content": "My duty's to monitor Mostima, so I'll be acting alongside her here, if you don't mind. You need a codename? ...Just call me Fiammetta. I've had enough of those codenames my bosses keep giving me."
+        },
+        {
+          "language": "韩文",
+          "content": "모스티마를 감시하는 게 내 임무니까, 여기서도 녀석이랑 함께 움직일 거야, 문제없지? 코드네임이 필요하다고? ……그냥 피아메타로 불러줘. 공증소 영감들이 붙인 직위명은 이제 지긋지긋하거든."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我的職責是監視莫斯提馬，在這裡我也會和她一起行動，沒問題吧。要取代號？......直接叫我菲亞梅塔就行，老頭子們起的那些名字我已經受夠了。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "保留作战记录是个不错的习惯。"
+        },
+        {
+          "language": "日文",
+          "content": "作戦記録を保存してるのは良い習慣ね。"
+        },
+        {
+          "language": "英文",
+          "content": "Keeping battle records is a pretty good habit."
+        },
+        {
+          "language": "韩文",
+          "content": "작전 기록을 보존하는 건 좋은 습관이네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "保留作戰記錄是個不錯的習慣。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "晋升？事先说好，好不容易能用自己的名字，不许再给我什么名称奇怪的职务。"
+        },
+        {
+          "language": "日文",
+          "content": "昇進？先に言っておくけど、やっと本名で働けてるんだから、変な肩書きは付けないでね。"
+        },
+        {
+          "language": "英文",
+          "content": "A promotion? Let me get this out of the way—this is my chance to use my own name, and you *cannot* give me any more weird job titles."
+        },
+        {
+          "language": "韩文",
+          "content": "승진? 미리 말해두는데, 기껏 본명으로 일하고 있으니까 이상한 직함은 붙이지 말아 줘."
+        },
+        {
+          "language": "繁体中文",
+          "content": "晉升？事先說好，好不容易能用自己的名字，不許再給我什麼名稱奇怪的職務。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "拉特兰的规矩是谁弄坏的东西，谁自己赔。不过任务中合理的财物损失可以报销。是你让我出手，赔偿费当然也算你头上......怎么，你该不会后悔了吧。"
+        },
+        {
+          "language": "日文",
+          "content": "ラテラーノでは、物を壊したら壊した人が弁償するってのが決まりだけど、任務中のやむを得ない損壊なら経費で落ちるわ。あなたが私にやらせたんだから、弁償も当然あなたが……なによ、まさか後悔なんてしてないでしょうね。"
+        },
+        {
+          "language": "英文",
+          "content": "Laterano code says whoever breaks it, pays for it, but reasonable loss of property in missions can be expensed. You order my actions, thus compensation fees naturally land with you too... what? You can't be regretting it now."
+        },
+        {
+          "language": "韩文",
+          "content": "라테라노에서는 물건을 부수면 부순 사람이 변상하는 게 당연하지만, 임무 중에 어쩔 수 없는 손괴였다면 경비로 처리가 돼. 네가 나한테 시킨 거니까, 변상도 당연히 네가…… 뭐야, 설마 후회하는 건 아니겠지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "拉特蘭的規矩是誰弄壞的東西，誰自己賠。不過任務中合理的財物損失可以報銷。是你讓我出手，賠償費當然也算你頭上......怎麼，你該不會後悔了吧。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "快点，别磨磨蹭蹭。"
+        },
+        {
+          "language": "日文",
+          "content": "モタモタしないでさっさとしなさい。"
+        },
+        {
+          "language": "英文",
+          "content": "Less dawdling, come on."
+        },
+        {
+          "language": "韩文",
+          "content": "우물쭈물대지 말고 빨리해."
+        },
+        {
+          "language": "繁体中文",
+          "content": "快點，別磨磨蹭蹭。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "可以。但我不会等跟不上的人。"
+        },
+        {
+          "language": "日文",
+          "content": "別にいいけど、付いて来れない人は待たないから。"
+        },
+        {
+          "language": "英文",
+          "content": "Fine. But I'm not waiting for anyone who falls behind."
+        },
+        {
+          "language": "韩文",
+          "content": "딱히 상관없긴 한데, 못 따라오는 사람은 기다려 주지 않을 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "可以。但我不會等跟不上的人。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "往上走，从屋顶更快。"
+        },
+        {
+          "language": "日文",
+          "content": "上から行きましょう、屋上経由の方が早いわ。"
+        },
+        {
+          "language": "英文",
+          "content": "We're heading up. It'll be faster by rooftop."
+        },
+        {
+          "language": "韩文",
+          "content": "위쪽으로 가자. 옥상을 경유하는 편이 빨라."
+        },
+        {
+          "language": "繁体中文",
+          "content": "往上走，從屋頂更快。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别闹出太大动静。"
+        },
+        {
+          "language": "日文",
+          "content": "派手にやり過ぎないようにね。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't make too big of a show."
+        },
+        {
+          "language": "韩文",
+          "content": "너무 요란하게 하지 않도록 해."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別鬧出太大動靜。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "盯准了。"
+        },
+        {
+          "language": "日文",
+          "content": "狙いはついてる。"
+        },
+        {
+          "language": "英文",
+          "content": "Sights locked."
+        },
+        {
+          "language": "韩文",
+          "content": "조준은 하고 있어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "盯準了。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "无聊。"
+        },
+        {
+          "language": "日文",
+          "content": "くだらない。"
+        },
+        {
+          "language": "英文",
+          "content": "Boring."
+        },
+        {
+          "language": "韩文",
+          "content": "시시하긴."
+        },
+        {
+          "language": "繁体中文",
+          "content": "無聊。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我只做我该做的。"
+        },
+        {
+          "language": "日文",
+          "content": "やるべきことをやるだけよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I only do what I need to."
+        },
+        {
+          "language": "韩文",
+          "content": "해야 할 일을 할 뿐이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我只做我該做的。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你还有空看风景？"
+        },
+        {
+          "language": "日文",
+          "content": "景色を楽しむ余裕なんてあるの？"
+        },
+        {
+          "language": "英文",
+          "content": "What, you've got time to take in the sights?"
+        },
+        {
+          "language": "韩文",
+          "content": "경치를 즐길 여유 같은 게 있는 거야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你還有空看風景？"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在我面前，还有人敢眨眼？"
+        },
+        {
+          "language": "日文",
+          "content": "私の前で、瞬きできる人なんている？"
+        },
+        {
+          "language": "英文",
+          "content": "Anyone in front of me who still feels like blinking?"
+        },
+        {
+          "language": "韩文",
+          "content": "내 앞에서, 눈 깜빡할 수 있는 사람이 있을까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "在我面前，還有人敢眨眼？"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "抱歉 ，没收住手。"
+        },
+        {
+          "language": "日文",
+          "content": "ごめんなさい、手加減するの忘れちゃった。"
+        },
+        {
+          "language": "英文",
+          "content": "Sorry, forgot to hold that back."
+        },
+        {
+          "language": "韩文",
+          "content": "미안해, 힘 조절하는 걸 깜빡했네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "抱歉 ，沒收住手。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不喜欢破坏——除非有必要。"
+        },
+        {
+          "language": "日文",
+          "content": "破壊行為は嫌いなんだけど――必要なら躊躇わない。"
+        },
+        {
+          "language": "英文",
+          "content": "I don't like damage—unless it's necessary."
+        },
+        {
+          "language": "韩文",
+          "content": "파괴 행위는 싫어하지만…… 필요하다면 주저하진 않아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我不喜歡破壞——除非有必要。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "成功和失败之间没有侥幸。"
+        },
+        {
+          "language": "日文",
+          "content": "成功と失敗に、まぐれなんてない。"
+        },
+        {
+          "language": "英文",
+          "content": "There's no fluking between success and failure."
+        },
+        {
+          "language": "韩文",
+          "content": "성공과 실패에, 뜻밖의 행운 같은 건 없는 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "成功和失敗之間沒有僥倖。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "做得比我想的要好。在一支小队里战斗的感觉......久违了。"
+        },
+        {
+          "language": "日文",
+          "content": "思ってたより上手くやれたわ。小隊の一員として戦うなんて……ほんと久しぶり。"
+        },
+        {
+          "language": "英文",
+          "content": "You did a better job than I imagined. The feeling of fighting in a squad... it's been a long time."
+        },
+        {
+          "language": "韩文",
+          "content": "생각보다 잘됐네. 소대의 일원으로서 싸우다니… 정말 오랜만이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "做得比我想的要好。在一支小隊裡戰鬥的感覺......久違了。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "任务完成。理当如此，别大惊小怪。"
+        },
+        {
+          "language": "日文",
+          "content": "任務完了。当然のことなんだから、そんな大げさな顔はやめて。"
+        },
+        {
+          "language": "英文",
+          "content": "Mission complete. Look, this much is granted—don't make a fuss over nothing."
+        },
+        {
+          "language": "韩文",
+          "content": "임무 완료. 당연한 거니까, 그렇게 호들갑 떠는 얼굴은 하지 마."
+        },
+        {
+          "language": "繁体中文",
+          "content": "任務完成。理當如此，別大驚小怪。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你没事就行。要是你和我一起却出了事，一定有人等着看我笑话。"
+        },
+        {
+          "language": "日文",
+          "content": "あなたが無事ならいいわ。私が付いてるのに何かあったら、きっと誰かさんに笑われちゃうんだから。"
+        },
+        {
+          "language": "英文",
+          "content": "If you're fine, we're fine. If something happened to you while I was on the job, I know *someone* would be laughing at me."
+        },
+        {
+          "language": "韩文",
+          "content": "네가 무사했으면 됐어. 내가 붙어있는데도 무슨 일이 생겼으면, 분명 누군가가 비웃었을 테니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你沒事就行。要是你和我一起卻出了事，一定有人等著看我笑話。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "抱歉 ，这次是我大意了，我会想办法补救。"
+        },
+        {
+          "language": "日文",
+          "content": "ごめんなさい、今回は私の不注意のせいね。なんとか挽回してみせるよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Sorry, I was careless this time. I'll remedy it somehow."
+        },
+        {
+          "language": "韩文",
+          "content": "미안, 이번에는 내 부주의 탓이야. 어떻게든 만회해 보이겠어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "抱歉 ，這次是我大意了，我會想辦法補救。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "通风不错，视野很好。没问题，很方便我完成工作。"
+        },
+        {
+          "language": "日文",
+          "content": "風通し良し、視界良好。問題ないわ、働きやすい環境みたいね。"
+        },
+        {
+          "language": "英文",
+          "content": "Ventilation's fine, visibility's excellent. Good, that's conducive to getting my work done."
+        },
+        {
+          "language": "韩文",
+          "content": "통풍 좋고, 시야 양호. 문제없어, 일하기 좋은 환경 같네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "通風不錯，視野很好。沒問題，很方便我完成工作。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别动那个。会炸。"
+        },
+        {
+          "language": "日文",
+          "content": "それに触らないで、爆発するわよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't touch that. It'll explode."
+        },
+        {
+          "language": "韩文",
+          "content": "그거 손대지 마, 폭발할 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別動那個。會炸。"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士......这是你的职位名称？很正常，很好。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター……それがあなたの役職名？普通でいいね。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor... is that your job title? How normal. How nice."
+        },
+        {
+          "language": "韩文",
+          "content": "박사…… 그게 네 직위명이야? 평범해서 좋네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士......這是你的職位名稱？很正常，很好。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别来无恙。"
+        },
+        {
+          "language": "日文",
+          "content": "変わりないわね。"
+        },
+        {
+          "language": "英文",
+          "content": "Same old, then?"
+        },
+        {
+          "language": "韩文",
+          "content": "별일 없나 보네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別來無恙。"
+        }
+      ]
+    }
+  ]
+}

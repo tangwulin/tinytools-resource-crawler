@@ -1,0 +1,940 @@
+{
+  "name": "红豆",
+  "charaKey": "char_290_vigna",
+  "images": [
+    "https://prts.wiki/images/7/70/立绘_红豆_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/2/26/立绘_红豆_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/d/df/立绘_红豆_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/d/d7/立绘_红豆_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_290_vigna"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_290_vigna"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_290_vigna"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_290_vigna"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "喂，喂，博士！我还在看乐队演出呢，别挡着屏幕啊，刚刚可是最精彩的部分！"
+        },
+        {
+          "language": "日文",
+          "content": "ち、ちょっと！ドクター！ライブを見てるんだからテレビの前に立たないで！いいところを見逃しちゃったじゃない！"
+        },
+        {
+          "language": "英文",
+          "content": "Hey, hey! I'm watching a rock concert, Doctor! Stop blocking the TV! Just missed the best part thanks to you!"
+        },
+        {
+          "language": "韩文",
+          "content": "자, 잠깐! 박사! 라이브 보고 있으니까 텔레비전 앞에 서지 마! 아~! 좋은 장면 다 놓쳤잖아!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "喂，喂，博士！我還在看樂隊演出呢，別擋著螢幕啊，剛剛可是最精彩的部分！"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有些人常挂在嘴边的那些对抗不公啦，坚持自我什么的，对于我们萨卡兹人来说，根本就是生活的一部分！"
+        },
+        {
+          "language": "日文",
+          "content": "いかにも特別なことみたいに、「不公平に立ち向かう」だとか「自分の意志を貫く」だとか言ってカッコつけるやつもいるけど、あたしたちサルカズからすれば、そんなの当たり前のことなんだから！"
+        },
+        {
+          "language": "英文",
+          "content": "You get people who say things like 'fight the power' and 'be yourself.' But for us Sarkaz, that's just life."
+        },
+        {
+          "language": "韩文",
+          "content": "어떻게든 특별한 것처럼, “불공평함에 맞서 싸운다” 던지 “자신의 의지를 관철한다” 같은 말로 폼 잡는 녀석들도 있지만, 우리 살카즈한테, 그런 건 당연한 거라구!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "有些人常掛在嘴邊的那些對抗不公啦，堅持自我什麼的，對於我們薩卡茲人來說，根本就是生活的一部分！"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我很喜欢乐队。不，是非常非常喜欢！当然，作为吉他手，每一拍节奏每一个和弦，都很重要！只有孜孜不倦地练习，才能带给听众最震撼的独奏！"
+        },
+        {
+          "language": "日文",
+          "content": "バンドは好き……いや、すごく好き！だからこそ、あたしはギタリストとして、メロディやコードひとつひとつを大切にしながら演奏したいの！みんなの心を震わせるような演奏をするために、もっともっと腕を磨かなきゃ！"
+        },
+        {
+          "language": "英文",
+          "content": "I like bands... no, I LOVE bands! As a guitarist myself, I know every beat, every chord is important. I gotta practice on and on, day and night. That's the only way to give the audience the ultimate face-melting solo!"
+        },
+        {
+          "language": "韩文",
+          "content": "밴드가 좋아… 아니, 엄청 좋아! 그러니까 난 기타리스트로서, 멜로디나 코드를 하나하나 소중히 하면서 연주하고 싶어! 모두의 마음을 울리는 연주를 할 수 있도록, 더더욱 실력을 갈고닦아야겠지!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我很喜歡樂隊。不，是非常非常喜歡！當然，作為吉他手，每一拍節奏每一個和弦，都很重要！只有孜孜不倦地練習，才能帶給聽眾最震撼的獨奏！"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你觉得我对大家都很礼貌，对你却很严厉？那当然，因为管理者只靠自律是不够的！我严格地要求自己，也会那样严格地要求博士你哦。"
+        },
+        {
+          "language": "日文",
+          "content": "あたしのこと、みんなには礼儀正しいのにドクターにだけ厳しいとか思ってる？そんなの当たり前でしょ、ドクターは人の上に立つ人間だから、誰かが目を付けてないとだめなの。あたしが自分に厳しくするように、ドクターにだって厳しくさせてもらうわ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm going exceptionally harsh on you, given I've been so nice to everyone else you say? Well, isn't it only natural? Those who shoulder the responsibility of management like you need more than their self-discipline to do their job, Doctor. I have high standards for myself, and I think it's only right for these standards to be applied to you as well."
+        },
+        {
+          "language": "韩文",
+          "content": "다른 사람들한테는 예의 바르게 대하면서, 왜 박사한테만 까칠하냐 생각하고 있어? 당연하잖아, 박사는 남들 위에 서는 사람이니까, 누군가가 늘 지켜봐 줘야 한다고. 내가 자신한테 엄격하게 대하는 것처럼, 박사에게도 엄격하게 대할 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你覺得我對大家都很禮貌，對你卻很嚴厲？那當然，因為管理者只靠自律是不夠的！我嚴格地要求自己，也會那樣嚴格地要求博士你哦。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔呃，这气味......难道是芙蓉送来的午餐便当？帮你吃这个？我拒绝！这、这怎么看都不算是工作内容之一吧？"
+        },
+        {
+          "language": "日文",
+          "content": "うっ、この匂い……。もしかして、ハイビスが作った弁当？代わりに食べてですって？絶対嫌！こ、これはあたしの仕事じゃないよね？"
+        },
+        {
+          "language": "英文",
+          "content": "Hmm, this smell... is this the lunchbox Hibiscus brought you? You want me to eat it for you? No way! This... this wasn't in my job description!"
+        },
+        {
+          "language": "韩文",
+          "content": "윽, 이 냄새… 혹시, 히비스가 만든 도시락이야? 대신 먹어달라니, 죽어도 싫어! 이, 이건 내 일이 아니잖아?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "唔呃，這氣味......難道是芙蓉送來的午餐便當？幫你吃這個？我拒絕！這、這怎麼看都不算是工作內容之一吧？"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "人生的目标，就应该靠自己的努力去达成吧。想要变强，我就会去锻炼......手中的武器不够锋利，我就亲手去改造它！不管别人怎么说，我都会坚持自己的想法，直到达到目标为止！"
+        },
+        {
+          "language": "日文",
+          "content": "人生の目標は、自分の努力によって達成されるべきよね。強くなりたいならトレーニングをすればいいし、武器の切れ味が鈍ったら自分で磨けばいい。他人にどう言われようと、あたしは目標が果たされるまで自分の意志を曲げるつもりはないわ！"
+        },
+        {
+          "language": "英文",
+          "content": "If there's something you want out of life, you gotta work hard for it. Like, I want to become stronger, so I train. I want a sharper weapon, so I customize this one myself. People can judge as they want, but I'll stick to my belief until I get what I want!"
+        },
+        {
+          "language": "韩文",
+          "content": "인생의 목표는, 자신의 노력으로 달성해야 하는 거잖아. 강해지고 싶으면 트레이닝을 하면 되고, 무기가 무뎌졌으면 자기가 갈면 되는 거라고. 남들이 뭐라 하든, 난 목표를 이룰 때까지, 내 의지를 굽히지 않을 거야!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "人生的目標，就應該靠自己的努力去達成吧。想要變強，我就會去鍛煉......手中的武器不夠鋒利，我就親手去改造它！不管別人怎麼說，我都會堅持自己的想法，直到達到目標為止！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "欸？你说外面在下暴雨？不行，今天的露天音乐会绝不能取消......别拦着我，让我出门啦！区区一场暴风雨，怎么可能熄灭我对吉他的热情！"
+        },
+        {
+          "language": "日文",
+          "content": "えっ！？土砂降りってホント？今日の野外ライブはどうしてもやりたいのに……いや、止めないで！このくらいの雨で、あたしのギターにかける情熱は消えないわ！"
+        },
+        {
+          "language": "英文",
+          "content": "Wha?! It's pouring outside? I-I don't... believe it has anything to do with my outdoor concert! Now get aside if you hear me 'cause I'm setting off right NOW! I won't let this sprinkle dampen my passion by one bit!"
+        },
+        {
+          "language": "韩文",
+          "content": "에?! 폭우가 온다고? 진짜?! 오늘 야외 라이브는 어떻게든 가고 싶었는데… 아냐, 날 막지 마! 이 정도 비로, 기타에 대한 내 열정은 사라지지 않는다고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "欸？你說外面在下暴雨？不行，今天的露天音樂會絕不能取消......別攔著我，讓我出門啦！區區一場暴風雨，怎麼可能熄滅我對吉他的熱情！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "鉴于我足够可靠，所以有重要的任务托付给我？嗯哼哼，就让我来看看！嗯......在罗德岛限时大促销里，抢购以下热门商品......呃，超、超难的？！"
+        },
+        {
+          "language": "日文",
+          "content": "あたしが頼りになると踏んで重要な役目を任せたい？へへーん、何でも任せて！えーっと……ロドスで行われるタイムセールで以下の商品を購入せよ……？む、無理よこんなの！"
+        },
+        {
+          "language": "英文",
+          "content": "You got an important mission you want me to handle? Hehee, you can count on me! Let's see here... 'You are to acquire the following products for Rhodes Island during a time-limited mega-sale...?' Th-that's impossible!"
+        },
+        {
+          "language": "韩文",
+          "content": "내가 믿음직스럽다고 생각해서 중요한 역할을 맡기겠다? 헤헤… 뭐든지 맡겨달라구! 그럼… 로도스 아일랜드에서 실시하는 타임 세일에서, 아래의 상품을 구입하여 주세요……? 저, 절대 못 해 이런 건!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "鑑於我足夠可靠，所以有重要的任務託付給我？嗯哼哼，就讓我來看看！嗯......在羅德島限時大促銷裡，搶購以下熱門商品......呃，超、超難的？！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不管舞台下的观众发出多少嘘声，乐队都得坚持到演出结束才行，被打击就中途退场是很不负责任的。萨卡兹人和感染者的处境也一样，现在逃走的话，就算是彻底认输了呀。"
+        },
+        {
+          "language": "日文",
+          "content": "観客からブーイングされても、最後の一音まで演奏しきるのがプロのバンドってもんでしょ。途中でステージから下りるのは無責任ね。サルカズも感染者も同じ、今ここで逃げたら、負けを認めるようなものよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Even if the crowd starts booing, the show must go on. You can't quit in the middle of a performance just because you messed something up. Same is true for the Sarkaz and infected. We won't have anything left with us if we just call it quits."
+        },
+        {
+          "language": "韩文",
+          "content": "프로 밴드란 건 말야, 관객들이 아무리 야유를 보내도, 마지막까지 연주하고 와야 하는 법이라고. 중간에 스테이지에서 내려오는 건 무책임한 거지. 살카즈도 감염자도 똑같아, 지금 여기서 도망치면, 패배를 인정하는 거나 다름없다고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不管舞台下的觀眾發出多少噓聲，樂隊都得堅持到演出結束才行，被打擊就中途退場是很不負責任的。薩卡茲人和感染者的處境也一樣，現在逃走的話，就算是徹底認輸了呀。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不要睡在这个地方啊！唔呃......可恶，搬不动这人......"
+        },
+        {
+          "language": "日文",
+          "content": "ったく、こんなところで寝ないでよ！んん……重い……。"
+        },
+        {
+          "language": "英文",
+          "content": "Hey, you can't sleep over here! Ugh... you're too heavy for me to carry..."
+        },
+        {
+          "language": "韩文",
+          "content": "아~ 진짜…. 이런 곳에서 자지 말라고! 으윽… 무거워…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不要睡在這個地方啊！唔呃......可惡，搬不動這人......"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请问，这里是博士的办公室吗，我找博士很久了，麻烦你......什么？你就是博士？哼哼，干员红豆来报到了！"
+        },
+        {
+          "language": "日文",
+          "content": "すみません、ドクターの執務室はこちらでよろしかったでしょうか？ドクターはいらっしゃいま……え？あなたがドクター？ふーん、あたしはヴィグナ、よろしくね。"
+        },
+        {
+          "language": "英文",
+          "content": "Excuse me, is this the office of the Doctor? I've been looking for the place quite a while and it'd be really appreciated if—what? YOU'RE the Doctor? Hmpf, I see. Operator Vigna, reporting in!"
+        },
+        {
+          "language": "韩文",
+          "content": "실례합니다. 박사 박사 집무실이 여기 맞나요? 박사는 여기 있… 어? 당신이 박사야? 흐음… 나는 비그나라고 해, 잘 부탁해."
+        },
+        {
+          "language": "繁体中文",
+          "content": "請問，這裡是博士的辦公室嗎，我找博士很久了，麻煩你......什麼？你就是博士？哼哼，幹員紅豆來報到了！"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要跟得上不断变快的战斗节奏，就必须坚持挥洒汗水，没错吧！"
+        },
+        {
+          "language": "日文",
+          "content": "刻一刻と変化する戦いのリズムについていくためにも、それ相応の努力をしないとね。そうでしょう！"
+        },
+        {
+          "language": "英文",
+          "content": "You gotta be willing to sweat a lot to keep up the battle tempo!"
+        },
+        {
+          "language": "韩文",
+          "content": "시시각각 변화하는 싸움의 리듬에 따라가기 위해서라도, 그만큼의 노력을 해야지, 안 그래?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "要跟得上不斷變快的戰鬥節奏，就必須堅持揮灑汗水，沒錯吧！"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "晋升徽章，我没戴歪吧？好，我马上去拍纪念照！"
+        },
+        {
+          "language": "日文",
+          "content": "エリートメダル、ズレてないよね？よし、記念写真を撮ってくるね！"
+        },
+        {
+          "language": "英文",
+          "content": "Am I wearing my elite medal right? Great! In that case, it's time to get a picture for this remarkable moment!"
+        },
+        {
+          "language": "韩文",
+          "content": "정예 메달, 안 비뚤어졌지? 좋아, 기념사진 찍고 올게!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "晉升徽章，我沒戴歪吧？好，我馬上去拍紀念照！"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我虽然不擅长凭借力量取胜，但能用好这把长枪的人，也不会有多少！"
+        },
+        {
+          "language": "日文",
+          "content": "力技で勝負するタイプじゃないけど、この槍を使いこなせる人はあたし以外にそうそういないわ！"
+        },
+        {
+          "language": "英文",
+          "content": "Pure strength might not be my forte, but my spear and unparalleled skills shall always leave them with a deep impression!"
+        },
+        {
+          "language": "韩文",
+          "content": "힘으로 승부하는 타입은 아니지만, 이 창을 능숙히 쓸 수 있는 사람은 나 말곤 거의 없을걸!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我雖然不擅長憑藉力量取勝，但能用好這把長槍的人，也不會有多少！"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会努力学习大家的战斗技巧的。"
+        },
+        {
+          "language": "日文",
+          "content": "皆さんの戦い方を、しっかり勉強させていただきます！"
+        },
+        {
+          "language": "英文",
+          "content": "I'll learn from others' battle techniques."
+        },
+        {
+          "language": "韩文",
+          "content": "여러분이 싸우는 법을 잘 보고 배우겠습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我會努力學習大家的戰鬥技巧的。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "虽然是队长，也请大家多多指出我不足的地方。"
+        },
+        {
+          "language": "日文",
+          "content": "隊長はあたしですが、至らないところがあればいつでも指摘をお願いします。"
+        },
+        {
+          "language": "英文",
+          "content": "I may be the team captain, but you can all let me know where and how I might improve."
+        },
+        {
+          "language": "韩文",
+          "content": "팀장은 접니다만, 부족한 점이 있다면 언제든지 지적하여 주십시오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "雖然是隊長，也請大家多多指出我不足的地方。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "各位，请做好出发准备，也请多多配合我！"
+        },
+        {
+          "language": "日文",
+          "content": "皆さん、出発の準備をしてください。よろしくお願いします！"
+        },
+        {
+          "language": "英文",
+          "content": "Everyone, prepare to deploy. And please keep in mind that coordinated actions bring victory."
+        },
+        {
+          "language": "韩文",
+          "content": "여러분, 출발 준비를 해주세요. 잘 부탁드립니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "各位，請做好出發準備，也請多多配合我！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好好看着吧，接下来可是我的表演时间！"
+        },
+        {
+          "language": "日文",
+          "content": "見てなさい、ここからはあたしの時間よ！"
+        },
+        {
+          "language": "英文",
+          "content": "Eyes on me—it's showtime!"
+        },
+        {
+          "language": "韩文",
+          "content": "잘 봐둬, 이제부턴 내 시간이야!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "好好看著吧，接下來可是我的表演時間！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哦！"
+        },
+        {
+          "language": "日文",
+          "content": "おす！"
+        },
+        {
+          "language": "英文",
+          "content": "Oh!"
+        },
+        {
+          "language": "韩文",
+          "content": "하!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哦！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯。"
+        },
+        {
+          "language": "日文",
+          "content": "はい。"
+        },
+        {
+          "language": "英文",
+          "content": "Mhmm."
+        },
+        {
+          "language": "韩文",
+          "content": "네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我来了！"
+        },
+        {
+          "language": "日文",
+          "content": "行きます！"
+        },
+        {
+          "language": "英文",
+          "content": "Here I go!"
+        },
+        {
+          "language": "韩文",
+          "content": "갑니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我來了！"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "战斗姿态！"
+        },
+        {
+          "language": "日文",
+          "content": "戦闘態勢に入ります！"
+        },
+        {
+          "language": "英文",
+          "content": "Battle stance ready!"
+        },
+        {
+          "language": "韩文",
+          "content": "전투 태세에 들어갑니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "戰鬥姿態！"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "多说无益！"
+        },
+        {
+          "language": "日文",
+          "content": "問答無用！"
+        },
+        {
+          "language": "英文",
+          "content": "Say no more!"
+        },
+        {
+          "language": "韩文",
+          "content": "됐고, 일단 덤벼!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "多說無益！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我血液在沸腾！"
+        },
+        {
+          "language": "日文",
+          "content": "血が滾る！"
+        },
+        {
+          "language": "英文",
+          "content": "My blood is boiling!"
+        },
+        {
+          "language": "韩文",
+          "content": "피가 끓는다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我血液在沸騰！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不会输给你的！"
+        },
+        {
+          "language": "日文",
+          "content": "あんたなんかに負けない！"
+        },
+        {
+          "language": "英文",
+          "content": "Victory shall be mine!"
+        },
+        {
+          "language": "韩文",
+          "content": "너 따위한텐 지지 않아!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不會輸給你的！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "就是现在！搅碎敌人吧！"
+        },
+        {
+          "language": "日文",
+          "content": "今よ！粉々になれ！"
+        },
+        {
+          "language": "英文",
+          "content": "Now! Tear them to shreds!"
+        },
+        {
+          "language": "韩文",
+          "content": "지금이야! 산산조각나라!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "就是現在！攪碎敵人吧！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不管敌人变得有多强大，都不能让我停止演奏！啊，不，是战斗！"
+        },
+        {
+          "language": "日文",
+          "content": "敵がどれだけ強くなっても、あたしの演奏を止めることは……あ、いや、演奏じゃなくて戦闘だったわ！"
+        },
+        {
+          "language": "英文",
+          "content": "No matter how tough the bad guys are, I won't stop strumming! Oh… 'fighting' might be the better word here!"
+        },
+        {
+          "language": "韩文",
+          "content": "적이 얼마나 강하든지 간에, 내 연주를 멈출 수는… 아 잘못 말했다, 연주 말고 전투, 전투 말하는 거였어!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不管敵人變得有多強大，都不能讓我停止演奏！啊，不，是戰鬥！"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大家都做的很好！不过博士，想听我表扬你，可要等到回去以后哦~"
+        },
+        {
+          "language": "日文",
+          "content": "皆さん素晴らしい戦いぶりでした！……ドクターも褒めてほしい？まぁ、戻ってからにしてね。"
+        },
+        {
+          "language": "英文",
+          "content": "You all deserve a commendation from me, oh, but not you, Doctor, not yet! Your job's not finished until I see everyone back home safe and sound."
+        },
+        {
+          "language": "韩文",
+          "content": "여러분 정말 훌륭한 전투였습니다! …박사도 칭찬해달라고? 뭐, 돌아가서 해줄게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "大家都做的很好！不過博士，想聽我表揚你，可要等到回去以後哦~"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "现在还不安全！请立刻巩固阵形！"
+        },
+        {
+          "language": "日文",
+          "content": "まだ安全ではありません！陣形を固めてください！"
+        },
+        {
+          "language": "英文",
+          "content": "We're not out of trouble yet! Hold formation!"
+        },
+        {
+          "language": "韩文",
+          "content": "아직 안전하진 않습니다! 진형을 견고히 해주세요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "現在還不安全！請立刻鞏固陣形！"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔呃......不行，还要更加地努力！"
+        },
+        {
+          "language": "日文",
+          "content": "うう……まだよ、まだ努力が足りない！"
+        },
+        {
+          "language": "英文",
+          "content": "Ugh... This can't be it. We have to fight harder!"
+        },
+        {
+          "language": "韩文",
+          "content": "으으… 아직이야, 아직 노력이 부족해!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "唔呃......不行，還要更加地努力！"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请问有没有隔音室？我好想弹吉他啊！"
+        },
+        {
+          "language": "日文",
+          "content": "防音室はある？ギターを弾きたいの！お願い！"
+        },
+        {
+          "language": "英文",
+          "content": "Is there a soundproof room here? My fingers are itching for guitar strings so BAD!"
+        },
+        {
+          "language": "韩文",
+          "content": "방음실은 있어? 기타가 치고 싶어서 그래! 부탁 좀 할게!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "請問有沒有隔音室？我好想彈吉他啊！"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "干什么呀！不要碰我啦！"
+        },
+        {
+          "language": "日文",
+          "content": "なによ！あたしに触らないでよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Hey! That just gave me a chill!"
+        },
+        {
+          "language": "韩文",
+          "content": "뭐하는 거야! 나 만지지 마!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "幹什麼呀！不要碰我啦！"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别、别摸我的头！会长不高的！"
+        },
+        {
+          "language": "日文",
+          "content": "ちょ、ちょっと、頭を撫でるのはやめて！背が伸びなくなったらどうしてくれるの！？"
+        },
+        {
+          "language": "英文",
+          "content": "D-Don't pat me on the head! It might make me shorter!"
+        },
+        {
+          "language": "韩文",
+          "content": "자, 잠깐, 머리 쓰다듬는 거 하지 마아~! 키 안 크면 어떡하려고 그래?!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "別、別摸我的頭！會長不高的！"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有事吗？"
+        },
+        {
+          "language": "日文",
+          "content": "なに？"
+        },
+        {
+          "language": "英文",
+          "content": "How can I help?"
+        },
+        {
+          "language": "韩文",
+          "content": "왜?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "有事嗎？"
+        }
+      ]
+    }
+  ]
+}

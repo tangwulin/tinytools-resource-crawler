@@ -1,0 +1,939 @@
+{
+  "name": "蓝毒",
+  "charaKey": "char_129_bluep",
+  "images": [
+    "https://prts.wiki/images/6/66/立绘_蓝毒_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/3/36/立绘_蓝毒_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/e/ea/立绘_蓝毒_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_129_bluep"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_129_bluep"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_129_bluep"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_129_bluep"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哎呀，你好，博士。今天的您看起来也很健康，这比什么都好。"
+        },
+        {
+          "language": "日文",
+          "content": "あら、ごきげんよう、ドクター。今日もお元気そうでなによりですわね。"
+        },
+        {
+          "language": "英文",
+          "content": "Greetings, Doctor. You're glowing today. To see you so well... it's all I could ever hope for."
+        },
+        {
+          "language": "韩文",
+          "content": "어머. 안녕하신가요, 박사님. 오늘도 건강해 보이셔서 다행이네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "哎呀，你好，博士。今天的您看起來也很健康，這比什麼都好。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我准备了解毒剂，它能使普通的毒物完全无效。希望您在每次作战前都服用一杯，可以吗？"
+        },
+        {
+          "language": "日文",
+          "content": "解毒剤を調合しましたの、普通の毒ならまず解毒できますわ。作戦前には必ずお飲みになって。よろしいですわね？"
+        },
+        {
+          "language": "英文",
+          "content": "I prepared an antidote to nullify the effects of any common poison. I'd like you to take one dose before every battle. Do you mind?"
+        },
+        {
+          "language": "韩文",
+          "content": "해독제를 조합했답니다. 평범한 독이라면 대부분 해독할 수 있을 거예요. 작전 전에 꼭 마셔 두세요. 아시겠죠?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我準備了解毒劑，它能使普通的毒物完全無效。希望您在每次作戰前都服用一杯，可以嗎？"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "因为我身体中的毒素也是一种优质的药品原料，所以凯尔希医生经常把我叫去她的实验室......"
+        },
+        {
+          "language": "日文",
+          "content": "毒の成分は薬の良い原料になるということで、ケルシー先生はいつも私を実験室に呼びつけますの……。"
+        },
+        {
+          "language": "英文",
+          "content": "Actually, the toxin in my body is an ingredient in some high-quality medicines. That's why Dr. Kal'tsit needs me in her lab a lot."
+        },
+        {
+          "language": "韩文",
+          "content": "제 몸의 독의 성분은 좋은 약의 원료가 된다고 해서, 켈시 선생님께선 늘 저를 실험실로 부르시곤 한답니다……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "因為我身體中的毒素也是一種優質的藥品原料，所以凱爾希醫生經常把我叫去她的實驗室......"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哎呀，一直盯着我看，有什么事吗？......嗯？我的眼睛很罕见？博士，这是在称赞我吗？"
+        },
+        {
+          "language": "日文",
+          "content": "あら、私のことをじっとお見つめになって、何かご用ですの？……はい？私の目が珍しい？……ドクター、それで褒めているおつもり？"
+        },
+        {
+          "language": "英文",
+          "content": "Hmm, why do you keep staring at me... You mean, it's because my eye color is special? Is that a compliment, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "어머, 절 그렇게 지긋이 바라보시다니, 무슨 일이라도 있으신가요? ……네? 제 눈이 신기하다고요? 박사님, 설마 그걸 칭찬이라고 하시는 건 아니겠지요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哎呀，一直盯著我看，有什麼事嗎？......嗯？我的眼睛很罕見？博士，這是在稱讚我嗎？"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我是敌人最畏惧的存在。没办法啊，比起被“毒物”折磨而死，不如抢先杀死我，敌人们理所当然会这样选择吧......只是有时候，我的同伴也会思考同样的事，这让我有些不安。"
+        },
+        {
+          "language": "日文",
+          "content": "私は敵から最も忌み嫌われる存在ですの。仕方ありませんわ、「毒物」などに苦しんで殺されるなら、真っ先にそれを消そうと考えるのは当然ですもの。……時々、味方も同じことを考えているのではないかと不安になります。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm the one our enemies fear the most. After all, who wouldn't want to kill me before I can torture them to death with my poison? What really worries me is that my teammates might think the same…"
+        },
+        {
+          "language": "韩文",
+          "content": "저는 적이 가장 기피하고 꺼리는 존재랍니다. 어쩔 수 없겠죠. '독극물' 따위에 괴로워하다 죽기보단, 가장 먼저 없애고 싶어 하는 게 당연하니까요…… 가끔, 아군도 같은 생각을 하곤 해서 불안해지곤 한답니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我是敵人最畏懼的存在。沒辦法啊，比起被“毒物”折磨而死，不如搶先殺死我，敵人們理所當然會這樣選擇吧......只是有時候，我的同伴也會思考同樣的事，這讓我有些不安。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "为什么我在盯着这块蛋糕发呆？其实蛋糕是我为大家烤的，只是谁都不肯吃......难道，博士想要尝尝看吗？"
+        },
+        {
+          "language": "日文",
+          "content": "どうしてケーキを見てボーッとしているか、ですか？私が皆様に焼いたケーキなんですが、誰も食べてくださらないのです……もしかして、ドクターが食べてくださると？"
+        },
+        {
+          "language": "英文",
+          "content": "Why am I staring at this cake? Actually... I baked it to share with everyone, but no one wanted it... Would you like to try it, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "왜 우두커니 케이크만 바라보고 있느냐고요? 제가 다른 분들을 위해 구운 케이크입니다만, 아무도 드시지를 않네요…… 설마, 박사님께서 드셔 주시려고요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "為什麼我在盯著這塊蛋糕發呆？其實蛋糕是我為大家烤的，只是誰都不肯吃......難道，博士想要嘗嘗看嗎？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士总是穿着相同的衣服呢，不如让我帮您挑选些新的吧？我觉得自己还挺有挑衣服的品味......哎，制服是不能随便更换的......这样吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターはいつも同じ服を着てらっしゃるのね。なんなら新しい服を選んでさしあげましょうか？私、服のコーディネートには自信がありますのよ。……あら、制服は勝手に変えてはいけない……ですか？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, you're always wearing the same outfit. How about I choose some new clothes for you? I think I have pretty good taste. Oh... it's a uniform? So you can't change it? Okay…"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님께서는 항상 같은 옷을 입고 있으시네요. 괜찮으시면 제가 옷을 골라 드릴까요? 저, 옷 코디하는 것 하난 자신 있거든요… 어머, 유니폼을 마음대로 바꾸어선 안 된다…… 고요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士總是穿著相同的衣服呢，不如讓我幫您挑選些新的吧？我覺得自己還挺有挑衣服的品味......哎，制服是不能隨便更換的......這樣嗎？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "因为我是“毒物”，所以谁都不想接近我......但，这样的我的身边，现在总能有博士相伴。我很开心哟，真的。"
+        },
+        {
+          "language": "日文",
+          "content": "私は「毒物」なので、誰も私に近づこうとしません……。でもドクターは、こんな私の側にいてくださる……嬉しいです……本当に……。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm 'toxic'... so people prefer to stay away from me. But now I have you by my side, Doctor, and I'm really, really happy."
+        },
+        {
+          "language": "韩文",
+          "content": "저는 '독극물'이라, 아무도 가까이 다가오려 하지 않는답니다… 하지만, 박사님께서는 이런 제 곁에 있어 주시네요… 기뻐요… 진심으로…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "因為我是“毒物”，所以誰都不想接近我......但，這樣的我，現在身邊總能有博士相伴。我很開心喲，真的。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "实际上，我的身体和大家没什么不同，即使我是“毒物”，只是触碰的话并不会发生什么坏事。如果您能亲自证明这一点的话，也许大家就能相信......博士，可以在大家面前，触碰我的手吗？"
+        },
+        {
+          "language": "日文",
+          "content": "本当のところ、私の身体は皆様と同じですの。私が「毒物」だからといって、触れると何か起きるなんてことはありませんのよ……。ドクターがそれを証明してくだされば、皆様も信じてくれるかもしれません……。ドクター、もしよろしければ、皆様の前で私の手に触れてくださるかしら？"
+        },
+        {
+          "language": "英文",
+          "content": "My body isn't that different from everyone else. I may be 'toxic,' but nothing bad will happen if someone touches me. Doctor, if you can prove this to everyone, then maybe they won't always keep away from me. Could you... hold my hand out there?"
+        },
+        {
+          "language": "韩文",
+          "content": "사실 제 몸은 다른 분들과 똑같답니다. 제가 '독극물'이라고 해도, 닿는 것만으로 큰일이 나는 건 아니거든요… 박사님께서 그걸 증명해 주신다면, 다들 믿어주실지도 모르죠… 박사님, 혹시 실례가 되지 않는다면, 사람들 앞에서… 제 손을 잡아주지 않으시겠어요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "實際上，我的身體和大家沒什麼不同，即使我是“毒物”，只是觸碰的話並不會發生什麼壞事。如果您能親自證明這一點的話，也許大家就能相信......博士，可以在大家面前，觸碰我的手嗎？"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士？哎呀，好像睡着了。有没有毯子能给博士盖一下呢。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター？……あら、お休みになられたわね。何かお掛けするものはないのかしら……。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor? Oh, already asleep. Gotta find a blanket to keep the Doctor warm..."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님? …아, 쉬고 계셨군요. 뭔가 덮어 드릴 게 어디 없나…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士？哎呀，好像睡著了。有沒有毯子能給博士蓋一下呢。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "初次见面，我是蓝毒，想必您已经听凯尔希医生提起过我，那么，该如何运用我这“毒物”的能力，就交由您来决定了。"
+        },
+        {
+          "language": "日文",
+          "content": "はじめまして、アズリウスと申しますわ。ケルシー先生から伺ってらっしゃると思いますが、「毒物」と呼ばれるこの私の力、使い方はお任せいたしますわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Nice to meet you, I'm Blue Poison. I'm sure Dr. Kal'tsit must have told you about me. In that case, it'll be up to you to decide how to use my 'toxic' powers."
+        },
+        {
+          "language": "韩文",
+          "content": "처음 뵙겠습니다. 블루포이즌이라고 합니다. 켈시 선생님께 들으셨겠지만, '독극물'이라 불리는 저의 힘을 어떻게 사용하실지는, 박사님께 맡기도록 하지요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "初次見面，我是藍毒，想必您已經聽凱爾希醫生提起過我，那麼，該如何運用我這“毒物”的能力，就交由您來決定了。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "似乎听到了毒液沸腾的声音，真让人心情愉快啊。"
+        },
+        {
+          "language": "日文",
+          "content": "毒が沸々と滾る音が聞こえるよう……いい気分ですわ。"
+        },
+        {
+          "language": "英文",
+          "content": "I think I hear the sound of toxic liquid boiling, like music to my ears."
+        },
+        {
+          "language": "韩文",
+          "content": "마치 독이 부글거리는 소리가 들리는 것 같은…… 좋은 기분이네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "似乎聽到了毒液沸騰的聲音，真讓人心情愉快啊。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "很感谢您。能在这么多的战斗中有所建树，我的愿望实现了呢。"
+        },
+        {
+          "language": "日文",
+          "content": "幾多の戦いで功績を得られて、私も本望ですわ。ありがとうございます。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you so much... I'm so glad I get to help out in all these battles. It's like a dream come true."
+        },
+        {
+          "language": "韩文",
+          "content": "수많은 전투에서 공을 세울 수 있게 되어 저도 더할 나위 없이 만족스럽네요. 감사드립니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "很感謝您。能在這麼多的戰鬥中有所建樹，我的願望實現了呢。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "与其作为“毒物”浑浑噩噩地活下去，不如坦率接受这样的自己，努力去改变命运——能让我实现这小小梦想的人，正是博士您啊。所以，真的，真的非常感谢......"
+        },
+        {
+          "language": "日文",
+          "content": "「毒物」として負い目を感じながら生きていくより、ありのままの自分を受け入れて、運命を変えられる努力をしよう――こんなささやかな夢を叶える機会を与えてくださったのはドクター、あなたですわ。本当に、感謝してもしきれませんわ……。"
+        },
+        {
+          "language": "英文",
+          "content": "I used to hold back and hide my 'toxic' self, but now I've accepted what I am, trying to move forward to change my fate. I have you to thank for helping me make this shift, Doctor. You have my sincerest gratitude."
+        },
+        {
+          "language": "韩文",
+          "content": "독극물'로서의 부담감을 안고 살기보다, 있는 그대로의 나 자신을 받아들이고, 운명을 바꾸도록 노력하자… 이런 자그마한 꿈을 이룰 기회를 주신 건… 박사님, 바로 당신이에요. 정말, 뭐라고 감사의 말씀을 드려야 할지……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "與其作為“毒物”渾渾噩噩地活下去，不如坦率接受這樣的自己，努力去改變命運——能讓我實現這小小夢想的人，正是博士您啊。所以，真的，真的非常感謝......"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这样很好，我很适合做辅助进攻的工作。"
+        },
+        {
+          "language": "日文",
+          "content": "いいですわね。攻撃支援に長けた私に、ピッタリの仕事ですわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Great. I'm good at supporting assaults."
+        },
+        {
+          "language": "韩文",
+          "content": "좋습니다. 공격 지원이 특기인 제게 딱 맞는 일이네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這樣很好，我很適合做輔助進攻的工作。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "派我去援护其他人比较好哦？否则我的毒液，说不定会伤到博士......"
+        },
+        {
+          "language": "日文",
+          "content": "やはり援護の任務がいいですわ。この毒液が、ドクターにも牙を剥くかもしれませんのよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'd be much better off supporting the others. Wouldn't want my poison to harm you, Doctor..."
+        },
+        {
+          "language": "韩文",
+          "content": "전 역시 엄호하는 임무가 좋아요. 이 독액은 박사님께 이빨을 드러낼지도 모르니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "派我去援護其他人比較好哦？否則我的毒液，說不定會傷到博士......"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "各位，没必要离我那么远的......"
+        },
+        {
+          "language": "日文",
+          "content": "あらあら、そんなに私を避けなくても大丈夫ですのよ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Everyone, there's no need for you all to stand so far from me..."
+        },
+        {
+          "language": "韩文",
+          "content": "어머나, 그렇게 절 피하지 않으셔도 되는데……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "各位，沒必要離我那麼遠的......"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我为你们准备了“礼物”。喜欢吗？"
+        },
+        {
+          "language": "日文",
+          "content": "あなた方のためにプレゼントを用意しましたの。気に入っていただけるかしら？"
+        },
+        {
+          "language": "英文",
+          "content": "I prepared a 'gift' for you. Like it?"
+        },
+        {
+          "language": "韩文",
+          "content": "여러분께 드릴 선물을 준비했어요. 마음에 드실지 모르겠군요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我為你們準備了“禮物”。喜歡嗎？"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "恭候您的指令。"
+        },
+        {
+          "language": "日文",
+          "content": "お待ちしておりましたわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Awaiting your orders."
+        },
+        {
+          "language": "韩文",
+          "content": "기다리고 있었답니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "恭候您的指令。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请不要怕我。"
+        },
+        {
+          "language": "日文",
+          "content": "私のことはお構いなく。"
+        },
+        {
+          "language": "英文",
+          "content": "Please don't be scared of me."
+        },
+        {
+          "language": "韩文",
+          "content": "무서워하지 마세요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "請不要怕我。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请安心，毒素是不会传染的。"
+        },
+        {
+          "language": "日文",
+          "content": "ご安心くださいまし。この毒は移りませんから。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't worry, my poison is not contagious."
+        },
+        {
+          "language": "韩文",
+          "content": "안심하세요. 이 독은 옮지 않으니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "請安心，毒素是不會傳染的。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "毒剂准备好了哦。"
+        },
+        {
+          "language": "日文",
+          "content": "毒薬の準備が整いましたわ。"
+        },
+        {
+          "language": "英文",
+          "content": "My toxicant is ready."
+        },
+        {
+          "language": "韩文",
+          "content": "독약 준비라면 이미 다 끝났답니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "毒劑準備好了哦。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这种毒素，将会慢慢侵蚀你的生命......"
+        },
+        {
+          "language": "日文",
+          "content": "この毒は、ゆっくりとあなた方の命を蝕みますのよ。"
+        },
+        {
+          "language": "英文",
+          "content": "My toxins will slowly burn your life away..."
+        },
+        {
+          "language": "韩文",
+          "content": "이 독은, 천천히 당신들의 목숨을 끊어줄 거예요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這種毒素，將會慢慢侵蝕你的生命......"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "是不是看到幻觉了呢？"
+        },
+        {
+          "language": "日文",
+          "content": "幻覚が見えるかしら？"
+        },
+        {
+          "language": "英文",
+          "content": "Are you hallucinating?"
+        },
+        {
+          "language": "韩文",
+          "content": "환각이 보이시나요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "是不是看到幻覺了呢？"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我之蜜糖，汝之砒霜。"
+        },
+        {
+          "language": "日文",
+          "content": "我が蜜液が、汝に死をもたらさん。"
+        },
+        {
+          "language": "英文",
+          "content": "Honey to me, poison to you."
+        },
+        {
+          "language": "韩文",
+          "content": "나의 꿀이 그대에게 죽음을 가져오리라."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我之蜜糖，汝之砒霜。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "毒吻。"
+        },
+        {
+          "language": "日文",
+          "content": "ポイズン・キス。"
+        },
+        {
+          "language": "英文",
+          "content": "Poison kiss."
+        },
+        {
+          "language": "韩文",
+          "content": "포이즌 키스."
+        },
+        {
+          "language": "繁体中文",
+          "content": "毒吻。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "用“毒物”去战胜阴谋和罪恶。会不会让您觉得这是种讽刺呢？"
+        },
+        {
+          "language": "日文",
+          "content": "「毒物」が陰謀と罪悪に勝るだなんて、どう、皮肉な話だと思いませんこと？"
+        },
+        {
+          "language": "英文",
+          "content": "Use poison to fight the evils and crimes... Isn't that ironic to you?"
+        },
+        {
+          "language": "韩文",
+          "content": "독극물'이 음모와 죄악을 이기다니, 어떠신가요? 정말 얄궂은 얘기지 않나요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "用“毒物”去戰勝陰謀和罪惡。會不會讓您覺得這是種諷刺呢？"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有种方法，能让这些残骸在一瞬间溶化掉......您想欣赏一下吗？"
+        },
+        {
+          "language": "日文",
+          "content": "この死骸たち、一瞬で溶かしてしまうこともできますのよ……見てみたいかしら？"
+        },
+        {
+          "language": "英文",
+          "content": "I've got a poison to melt away all these remains in an instant. Want me to show you?"
+        },
+        {
+          "language": "韩文",
+          "content": "이 시체들, 단숨에 녹여버릴 수도 있답니다… 보고 싶으신가요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "有種方法，能讓這些殘骸在一瞬間溶化掉......您想欣賞一下嗎？"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "还好，没弄脏衣服就结束了。"
+        },
+        {
+          "language": "日文",
+          "content": "たいして服を汚さずに済みましたわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Good, finished before my clothes got dirty."
+        },
+        {
+          "language": "韩文",
+          "content": "생각보다 옷을 더럽히지 않고 끝냈네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "還好，沒弄髒衣服就結束了。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真是可笑的战斗，就像“毒物”被自己毒死一样......"
+        },
+        {
+          "language": "日文",
+          "content": "この戦い……「毒物」が自分の毒で死ぬように滑稽ですわ……。"
+        },
+        {
+          "language": "英文",
+          "content": "How ridiculous. Feels like I killed myself with my own poison..."
+        },
+        {
+          "language": "韩文",
+          "content": "이 전투… '독극물'이 자신의 독에 죽는 것처럼 우스꽝스럽네요……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "真是可笑的戰鬥，就像“毒物”被自己毒死一樣......"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "适当的休息，也是为了工作更有状态哦。"
+        },
+        {
+          "language": "日文",
+          "content": "良い仕事をするためには、適度な休憩が必要ですわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Resting when you're tired helps you focus on your work."
+        },
+        {
+          "language": "韩文",
+          "content": "일을 잘하려면, 적당한 휴식이 필요하죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "適當的休息，也是為了工作更有狀態哦。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "欸？"
+        },
+        {
+          "language": "日文",
+          "content": "えっ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Huh?"
+        },
+        {
+          "language": "韩文",
+          "content": "어라……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "欸？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您、碰到我了？再做、再做一次，能拜托您再做一次吗？"
+        },
+        {
+          "language": "日文",
+          "content": "い、いま、私に触れてくださったのですか？……も、もう一度、もう一度、お願いできないかしら…？"
+        },
+        {
+          "language": "英文",
+          "content": "D-Did you just touch me? C-Can you do that again? Please?"
+        },
+        {
+          "language": "韩文",
+          "content": "바, 방금 저를 만지셨나요? ……하, 한 번만, 한 번만 더 해 주실 수 있나요…?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "您、碰到我了？再做、再做一次，能拜託您再做一次嗎？"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你好，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "ごきげんよう、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Hello, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "안녕하신지요, 박사님."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你好，博士。"
+        }
+      ]
+    }
+  ]
+}

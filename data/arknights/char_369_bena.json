@@ -1,0 +1,930 @@
+{
+  "name": "贝娜",
+  "charaKey": "char_369_bena",
+  "images": [
+    "https://prts.wiki/images/f/f5/立绘_贝娜_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/b/b1/立绘_贝娜_2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_369_bena"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_369_bena"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你看我像是坐办公室的优雅大姐姐吗？"
+        },
+        {
+          "language": "日文",
+          "content": "あたしが執務室で優雅に座ってるお姉さまみたいなタイプだと思ってるわけ？"
+        },
+        {
+          "language": "英文",
+          "content": "Do you think me a princess, sitting elegantly in an office?"
+        },
+        {
+          "language": "韩文",
+          "content": "내가 집무실에 우아하게 앉아 있는 아가씨 같은 타입이라고 생각하는 거야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你看我像是坐辦公室的優雅大姐姐嗎？"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别把爱丽丝的歌当真了，那个就是哄小朋友用的。啊？嗯啊，拿剪刀的守卫是我，怎么了？咔嚓咔嚓？那是做衣服啊，你以为是什么？唉，大人们真是的，总喜欢往坏处想。"
+        },
+        {
+          "language": "日文",
+          "content": "アイリスの歌を本気にしちゃダメなのよ、あれはお子様向けなんだからね。何？ええ、「ハサミを持った守り人」とはあたしのことよ、それが何？カチャカチャ？服作ってる音だけど、なんだと思ってたの？はぁ、大人ってほーんと、すぐ悪い方に捉えるんだから。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't take Iris's songs as true. They're for the young children, you know. What? Yes, I'm the guards with the scissors—what about it? Chop-chop? That's me making clothes—what did you think it was? *sigh* Adults, honestly. So eager to assume worse."
+        },
+        {
+          "language": "韩文",
+          "content": "아이리스의 노래를 진지하게 받아들이면 안 돼. 그건 어린이용이니까. 뭐? 그래, '가위를 지닌 파수꾼'은 내 얘기야. 그게 왜? 싹둑싹둑? 옷 만드는 소린데, 뭔 줄 알았어? 어른들이란 참, 뭐든지 나쁜 쪽으로만 생각한다니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別把愛麗絲的歌當真了，那個就是哄小朋友用的。啊？嗯啊，拿剪刀的守衛是我，怎麼了？咔嚓咔嚓？那是做衣服啊，你以為是什麼？唉，大人們真是的，總喜歡往壞處想。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "保存技术？我不知道。爱丽丝都不清楚我是怎么保管东西的，为什么要告诉你？"
+        },
+        {
+          "language": "日文",
+          "content": "保存技術？さぁね。あのアイリスだってあたしがどうやって物をとっとくか知らないのに、なんであんたに教えないといけないわけ？"
+        },
+        {
+          "language": "英文",
+          "content": "Preservation techniques? I wouldn't know. Even Iris hasn't the faintest clue how I keep things safe, so why would I be telling you?"
+        },
+        {
+          "language": "韩文",
+          "content": "보존 기술? 글쎄, 아이리스도 내가 어떻게 물건을 보관하는지 모르는데, 왜 너한테 알려줘야 하는데?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "保存技術？我不知道。愛麗絲都不清楚我是怎麼保管東西的，為什麼要告訴你？"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "来认识一下安妮，我最好的朋友，另外一个，“我”。"
+        },
+        {
+          "language": "日文",
+          "content": "アニーを紹介してあげる。あたしの一番の友達なの。もう一人の「あたし」よ。"
+        },
+        {
+          "language": "英文",
+          "content": "Let me introduce Annie to you. She's my very best friend, and another 'me.'"
+        },
+        {
+          "language": "韩文",
+          "content": "애니를 소개해 줄게. 나랑 가장 친한 친구야, 또 하나의 '나'지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "來認識一下安妮，我最好的朋友，另外一個，“我”。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别问我，我可不知道城堡为什么要到处收东西存着然后送出去。奶奶让我做，我就做了。用大人的说法，这叫工作，总得有人做的。"
+        },
+        {
+          "language": "日文",
+          "content": "あたしに聞かないでよ。なんでお城で物を預かっては送り返してるかなんて、知らないんだから。おばあちゃまがやれって言うからやってるだけ。大人の言い方だと仕事ってやつじゃないの、誰かがやんなきゃいけないやつ。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't ask me. I don't know why the Castle takes things in from everywhere to keep and then sends them back out. Granny wants me to do it, so I do it. In adult terms, it's work, isn't it? Something someone has to do."
+        },
+        {
+          "language": "韩文",
+          "content": "나한테 묻지 마. 왜 성에서 물건을 맡았다가 돌려주고 그러는지는 모르니까. 할머니가 하라고 해서 하는 것뿐이라고. 어른들 식으로 말하자면, 업무 아냐? 누군가는 해야 하는 일 말이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別問我，我可不知道城堡為什麼要到處收東西存著然後送出去。奶奶讓我做，我就做了。用大人的說法，這叫工作，總得有人做的。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "安妮本来就是个安静的人，和我完全不一样。操控？你在想什么？！她是个人，想去哪里就去哪里，在我身边只是因为喜欢和我在一起，最要好的朋友总是要在一起的嘛，对吧？“嗯。”"
+        },
+        {
+          "language": "日文",
+          "content": "アニーは物静かな性格なのよ、あたしと全然違うの。操ってる？何言ってるわけ？！アニーは人間よ、行きたいとこに行くの。あたしのそばにいるのは、それが好きだからってだけだよ。一番仲のいい友達ってそういうもんよ。ね、アニー？「うん。」"
+        },
+        {
+          "language": "英文",
+          "content": "Annie's a quiet one by nature, nothing at all like me. C-Controlling her? What are you talking about?! She's a person, she goes where she wants to! She's only by my side because she likes being with me. That's what best friends are like. Aren't they, Annie? 'Mm.'"
+        },
+        {
+          "language": "韩文",
+          "content": "애니는 성격이 얌전해. 나랑 전혀 다르지. 조종하는 거 아니냐고? 무슨 소리야?! 애니는 인간이야. 가고 싶은 곳으로 간다고. 내 곁에 있는 건 그게 좋기 때문이지. 가장 친한 친구란 그런 거잖아. 그렇지, 애니? “응”."
+        },
+        {
+          "language": "繁体中文",
+          "content": "安妮本來就是個安靜的人，和我完全不一樣。操控？你在想什麼？！她是個人，想去哪裡就去哪裡，在我身邊只是因為喜歡和我在一起，最要好的朋友總是要在一起的嘛，對吧？“嗯。”"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里的小孩子太多，难怪爱丽丝不想回来。嗯......再这样下去，干脆把整个梦城堡都搬到罗德岛上来算了，省时又省力。"
+        },
+        {
+          "language": "日文",
+          "content": "ここは子供がたくさんいるのね、アイリスが帰ってこないはずだわ。う～ん……この感じが続くなら、いっそお城を丸ごと持ってきちゃえばいいわね。あたしも時短ができるし、疲れないし。"
+        },
+        {
+          "language": "英文",
+          "content": "There's too many children here. No wonder Iris doesn't want to leave. Hrmm... if this goes on any longer, we may as well move the whole Castle of Dreams here onto Rhodes Island. It'll save time, and effort."
+        },
+        {
+          "language": "韩文",
+          "content": "여기엔 아이들이 많구나. 아이리스가 안 돌아올 만도 해. 음…… 계속 이럴 거면 차라리 성을 통째로 옮기는 게 낫겠어. 그럼 나도 시간을 아낄 수 있고 피곤하지도 않을 테니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這裡的小孩子太多，難怪愛麗絲不想回來。嗯......再這樣下去，乾脆把整個夢城堡都搬到羅德島上來算了，省時又省力。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "什么叫乖小孩，你是说我不乖咯？不过奶奶说了，有些场合不能由着性子来，要适当“表演”一下。比如？嗯......“您好，我是来自林顿郡的贝娜。”大概就这种感觉。"
+        },
+        {
+          "language": "日文",
+          "content": "いい子にってどういうこと？あたしがいい子じゃないって言いたいわけ？でもおばあちゃまも言ってたね、時と場合によっては気分だけで動いちゃいけない、ある程度「演技」をしなきゃって。たとえば？そうね……「ごきげんよう。私はリントン郡からまいりましたベナですわ」、こんな感じでしょ。"
+        },
+        {
+          "language": "英文",
+          "content": "What even is a good girl? Are you saying I'm not good? —Well, I suppose Granny has said there's situations you can't do as you please in, where you need to 'act' a little. Like? Well... 'My greetings to you, I come from the County of Linton. My name is Bena.' More or less like that, you know!"
+        },
+        {
+          "language": "韩文",
+          "content": "착한 아이라니 무슨 소리야? 내가 착하지 않다는 거야? 그래도, 할머니도 그랬었지. 때와 장소에 따라서는 자기 기분대로만 행동해서는 안 된다, 어느 정도 '연기'를 해야 한다고 말이야. 예를 들면? 그렇네…… “안녕하세요, 저는 린던 카운티에서 온 베나라고 한답니다”, 이렇게?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "什麼叫乖小孩，你是說我不乖囉？不過奶奶說了，有些場合不能由著性子來，要適當“表演”一下。比如？嗯......“您好，我是來自林頓郡的貝娜。”大概就這種感覺。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我是被奶奶捡到城堡的，从小在城堡长大，奶奶退休了就接替她为城堡工作，怎么会和继承城堡的爱丽丝一样呢？你是说，羡慕？那可不会，她还要想着维持身材呢，我呢，怎么吃都不长肉的，哈哈。"
+        },
+        {
+          "language": "日文",
+          "content": "あたしはおばあちゃまに拾われてきたの。お城で育って、おばあちゃまがやめちゃったから代わりにお仕事してるってだけ。そのお城を受け継いだアイリスと同じわけないでしょ？え、アイリスが羨ましいかって？そんなわけないわよ。だってアイリスはスタイルに気をつけなきゃいけないけど、あたしはどんなに食べても太らないもの。あは。"
+        },
+        {
+          "language": "英文",
+          "content": "Granny brought me into the Castle when I was young, and I grew up there. When she retired, I took over her post at the Castle. How am I anything like Iris who just inherits the whole place? What, you think I'm jealous? Not a chance! Iris has to watch out for her figure, and me? I can eat all I want without putting on a pound, ahah!"
+        },
+        {
+          "language": "韩文",
+          "content": "난 할머니가 주워 왔어. 성에서 자랐고, 할머니가 그만둬서 대신 일 하고 있는 것뿐이야. 성 자체를 물려받은 아이리스랑은 같을 리가 없잖아. 뭐? 아이리스가 부러우냐고? 그럴 리가. 아이리스는 몸매를 신경 써야 하는데, 난 아무리 먹어도 살찌지 않거든. 아하하~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我是被奶奶撿到城堡的，從小在城堡長大，奶奶退休了就接替她為城堡工作，怎麼會和繼承城堡的愛麗絲一樣呢？你是說，羡慕？那可不會，她還要想著維持身材呢，我呢，怎麼吃都不長肉的，哈哈。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“好好休息。博士。”别管他了，我们出去玩吧。“好的。”"
+        },
+        {
+          "language": "日文",
+          "content": "「ゆっくりお休み、ドクター。」そんなやつに構ってないで、外で遊びましょうよ。「分かった。」"
+        },
+        {
+          "language": "英文",
+          "content": "'Rest soundly. Doctor.' Who cares about that Doctor? Come out and let's go play! 'Alright.'"
+        },
+        {
+          "language": "韩文",
+          "content": "“푹 쉬어, 박사.” 그런 녀석 신경 쓰지 말고 밖에서 놀자. “알았어.”"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“好好休息。博士。”別管他了，我們出去玩吧。“好的。”"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我叫贝娜，来找一个出门就忘了回家的笨蛋。听说她还有些活要干，没办法，我也在这陪她一会好了。"
+        },
+        {
+          "language": "日文",
+          "content": "あたしはベナよ、出てったっきりおうちを忘れちゃったらしいお馬鹿ちゃんを探しにきたの。でも、なんかまだやることが残ってるみたいだから、仕方ないわ。あたしも付き合って残るわよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm Bena, here to retrieve an idiot who went out and forgot to come home. But I hear there's still things she has to do, and I suppose that's fair. I'll stay and keep her company for a while."
+        },
+        {
+          "language": "韩文",
+          "content": "난 베나라고 해. 밖에 나가더니 집을 잊어버렸다는 어떤 바보를 찾으러 왔어. 하지만 왠지 할 일이 남아 있는 모양이니, 어쩔 수 없지. 나도 같이 남아 줄게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我叫貝娜，來找一個出門就忘了回家的笨蛋。聽說她還有些事要做，沒辦法，我也在這陪她一會好了。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "打打杀杀的东西不适合给我和安妮看。"
+        },
+        {
+          "language": "日文",
+          "content": "切っただの張っただの乱暴なことを、あたしとかアニーに見せないでよ。"
+        },
+        {
+          "language": "英文",
+          "content": "You can't show something this violent to Annie and me."
+        },
+        {
+          "language": "韩文",
+          "content": "벤다든지 때린다든지 그런 폭력적인 건 나랑 애니한테 보여 주지 마."
+        },
+        {
+          "language": "繁体中文",
+          "content": "打打殺殺的東西不適合給我和安妮看。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哼哼，看来你挺懂怎么讨小孩子欢心的嘛。"
+        },
+        {
+          "language": "日文",
+          "content": "ふふん、なによ、子供の機嫌の取り方を心得てるようじゃない。"
+        },
+        {
+          "language": "英文",
+          "content": "Ahah! Well, looks like you know how to work with children after all!"
+        },
+        {
+          "language": "韩文",
+          "content": "흐흥~ 뭐야~ 애들 기분도 맞춰줄 줄 아나 보네?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哼哼，看來你挺懂怎麼討小孩子歡心的嘛。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "准备好了吗，安妮，给这个摘不下兜帽的家伙见识下我们的技艺！“好的，贝娜。”"
+        },
+        {
+          "language": "日文",
+          "content": "アニー、準備はいい？このいっつもフードを被りっぱなしのやつに、あたしたちのアーツを見せてやるのよ！「分かった、ベナ。」"
+        },
+        {
+          "language": "英文",
+          "content": "Annie, are you ready? We're going to show this eternally hooded hoodlum what our Arts are made of! 'Alright, Bena.'"
+        },
+        {
+          "language": "韩文",
+          "content": "애니, 준비됐어? 언제나 후드를 뒤집어쓰고 있는 이 녀석한테 우리의 아츠를 보여 주자고! “알았어, 베나.”"
+        },
+        {
+          "language": "繁体中文",
+          "content": "準備好了嗎，安妮，給這個摘不下兜帽的傢伙見識下我們的技藝！“好的，貝娜。”"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "两个人做一份工，好像不难嘛。"
+        },
+        {
+          "language": "日文",
+          "content": "二人で一人分の仕事をするって、そんなに難しくなさそうね。"
+        },
+        {
+          "language": "英文",
+          "content": "Two people for a single job. This won't be tricky."
+        },
+        {
+          "language": "韩文",
+          "content": "둘이서 한 사람 몫의 일을 하는 거니 어려워 보이진 않네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "兩個人做一份工，好像不難嘛。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "安妮有些想法，我来说给大家听。"
+        },
+        {
+          "language": "日文",
+          "content": "アニーに考えがあるって。あたしがみんなに教えてあげる。"
+        },
+        {
+          "language": "英文",
+          "content": "Annie's got some ideas for you. Listen to me, now, everyone."
+        },
+        {
+          "language": "韩文",
+          "content": "애니한테 좋은 생각이 있대. 내가 모두에게 알려 줄게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "安妮有些想法，我來說給大家聽。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "就当是去森林里散步好了。"
+        },
+        {
+          "language": "日文",
+          "content": "森の中をお散歩するつもりで行くよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Let's take it just like a walk in the forest."
+        },
+        {
+          "language": "韩文",
+          "content": "숲을 산책하는 느낌으로 가자고~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "就當是去森林裡散步好了。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你也想拆这些玩具吗？"
+        },
+        {
+          "language": "日文",
+          "content": "あんたもこのおもちゃたちをバラバラにしたいの？"
+        },
+        {
+          "language": "英文",
+          "content": "Interested in pulling these toys apart too?"
+        },
+        {
+          "language": "韩文",
+          "content": "너도 이 장난감들을 산산조각 내고 싶어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你也想拆這些玩具嗎？"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哼哼。"
+        },
+        {
+          "language": "日文",
+          "content": "へへん。"
+        },
+        {
+          "language": "英文",
+          "content": "Heheh."
+        },
+        {
+          "language": "韩文",
+          "content": "헤헹."
+        },
+        {
+          "language": "繁体中文",
+          "content": "哼哼。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别催我啊。"
+        },
+        {
+          "language": "日文",
+          "content": "急かさないでったら！"
+        },
+        {
+          "language": "英文",
+          "content": "Don't you rush me!"
+        },
+        {
+          "language": "韩文",
+          "content": "보채지 말라니까!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "別催我啊。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "安妮，别走太远。"
+        },
+        {
+          "language": "日文",
+          "content": "アニー、遠くに行っちゃダメだよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Annie, don't go too far."
+        },
+        {
+          "language": "韩文",
+          "content": "애니, 멀리 가면 안 돼."
+        },
+        {
+          "language": "繁体中文",
+          "content": "安妮，別走太遠。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要当心呐。"
+        },
+        {
+          "language": "日文",
+          "content": "気をつけなね。"
+        },
+        {
+          "language": "英文",
+          "content": "Have to be careful, now."
+        },
+        {
+          "language": "韩文",
+          "content": "조심해야겠어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "要當心啊。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "修剪时间到！"
+        },
+        {
+          "language": "日文",
+          "content": "剪定の時間よ！"
+        },
+        {
+          "language": "英文",
+          "content": "It's trimming time!"
+        },
+        {
+          "language": "韩文",
+          "content": "가지치기할 시간이야!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "修剪時間到！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "咔嚓咔嚓。"
+        },
+        {
+          "language": "日文",
+          "content": "カシャカシャ。"
+        },
+        {
+          "language": "英文",
+          "content": "Chop-chop!"
+        },
+        {
+          "language": "韩文",
+          "content": "싹둑싹둑~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "咔嚓咔嚓。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "坏掉的东西就得修理。"
+        },
+        {
+          "language": "日文",
+          "content": "壊れちゃったものは直さないとね。"
+        },
+        {
+          "language": "英文",
+          "content": "Whatever breaks needs to be fixed."
+        },
+        {
+          "language": "韩文",
+          "content": "망가진 건 고쳐야겠지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "壞掉的東西就得修理。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "修不好就弄碎吧。"
+        },
+        {
+          "language": "日文",
+          "content": "直らないんだったらバラバラにしちゃいましょ。"
+        },
+        {
+          "language": "英文",
+          "content": "If there's no fixing it, turn it to pieces."
+        },
+        {
+          "language": "韩文",
+          "content": "고칠 수 없다면 산산조각 내자고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "修不好就弄碎吧。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那是，我可擅长对坏人做坏事了。"
+        },
+        {
+          "language": "日文",
+          "content": "そりゃあね。あたしは悪いやつに悪いことするの得意だもん。"
+        },
+        {
+          "language": "英文",
+          "content": "What did you expect? I'm a dab hand at doing bad things to bad people!"
+        },
+        {
+          "language": "韩文",
+          "content": "그야 뭐, 난 나쁜 녀석한테 나쁜 짓 하는 건 자신 있거든."
+        },
+        {
+          "language": "繁体中文",
+          "content": "那當然，我可擅長對壞人做壞事了。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没有坏人要修剪了吧。"
+        },
+        {
+          "language": "日文",
+          "content": "剪定が必要な悪いやつはもういないよね。"
+        },
+        {
+          "language": "英文",
+          "content": "No piece of work who still needs trimming, then?"
+        },
+        {
+          "language": "韩文",
+          "content": "가지치기해야 할 나쁜 녀석들은 이제 없겠지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "沒有壞人要修剪了吧。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "剩下的就交给大人吧，我们回家。"
+        },
+        {
+          "language": "日文",
+          "content": "あとは大人たちに任せましょ。あたしたちは帰るよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Leave the rest to the adults, then. We're going home."
+        },
+        {
+          "language": "韩文",
+          "content": "나머지는 어른들한테 맡기자. 우린 갈게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "剩下的就交給大人吧，我們回家。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "安妮，你在哪里？！"
+        },
+        {
+          "language": "日文",
+          "content": "アニー、どこにいるの！？"
+        },
+        {
+          "language": "英文",
+          "content": "Annie, where are you?!"
+        },
+        {
+          "language": "韩文",
+          "content": "애니, 어디 있어!?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "安妮，你在哪裡？！"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们有两个人，房间不够大啊。"
+        },
+        {
+          "language": "日文",
+          "content": "あたしたち二人なんだよ。この部屋じゃ小さすぎ。"
+        },
+        {
+          "language": "英文",
+          "content": "We're two people here! This room's not big enough!"
+        },
+        {
+          "language": "韩文",
+          "content": "우린 두 명이야. 이 방은 너무 좁아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我們有兩個人，房間不夠大啊。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哎呀！"
+        },
+        {
+          "language": "日文",
+          "content": "わ！"
+        },
+        {
+          "language": "英文",
+          "content": "Wagh!"
+        },
+        {
+          "language": "韩文",
+          "content": "으앗!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哎呀！"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "安妮正在探险，你也一起来吗？"
+        },
+        {
+          "language": "日文",
+          "content": "アニーが探検中なの。あんたも一緒に来る？"
+        },
+        {
+          "language": "英文",
+          "content": "Annie's off on an adventure. Want to come along?"
+        },
+        {
+          "language": "韩文",
+          "content": "애니가 탐험 중이야. 너도 같이 올래?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "安妮正在探險，你也一起來嗎？"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嘿，偷偷摸摸玩什么呢！"
+        },
+        {
+          "language": "日文",
+          "content": "ねえ、こそこそなに遊んでるの！"
+        },
+        {
+          "language": "英文",
+          "content": "Hey, no hiding things! What's that you're playing with?"
+        },
+        {
+          "language": "韩文",
+          "content": "뭐야, 슬금슬금 뭘 하고 놀고 있는 거야!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嘿，偷偷摸摸玩什麼呢！"
+        }
+      ]
+    }
+  ]
+}

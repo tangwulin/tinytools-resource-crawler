@@ -1,0 +1,822 @@
+{
+  "name": "泰拉大陆调查团",
+  "charaKey": "char_4077_palico",
+  "images": [
+    "https://prts.wiki/images/8/88/立绘_泰拉大陆调查团_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/5/56/立绘_泰拉大陆调查团_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "联动",
+      "base": "voice/char_4077_palico"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们两个记好了喵，既然当了这个人的助理，就要打起精神来。要是有怪物突然冲进来，我们就赶紧把他扔到车上推走喵！"
+        },
+        {
+          "language": "日文",
+          "content": "二匹とも、ちゃんと覚えておきニャさい。ドクターの助手を務めるからには、気を引き締めて挑むんですよ。モンスターが急に乱入してきたら、すぐにこの人を台車へ放り込んで逃げますからニャ！"
+        },
+        {
+          "language": "英文",
+          "content": "Remember, you two, this purr-ticular assistant role calls for maximum vigilance. If any meownsters come knocking, we throw the Doctor on the cart and go!"
+        },
+        {
+          "language": "韩文",
+          "content": "둘 다, 잘 기억해 두세요냥. 박사의 어시스턴트를 맡은 이상 정신 바짝 차리는 겁니다냥. 몬스터가 갑자기 달려오면, 바로 박사를 수레에 던져넣고 도망치는 겁니다냥!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你們兩個記好了喵，既然當了這個人的助理，就要打起精神來。要是有怪物突然衝進來，我們就趕緊把他扔到車上推走喵！"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "最近研究的课题喵？《艾露与泰拉菲林的种族差异研究》，明明已经进行到一半了，但是突然又发现了名为阿斯兰的种族，前功尽弃了......泰拉人的种族真伤脑筋喵！"
+        },
+        {
+          "language": "日文",
+          "content": "最近の研究課題ですか？「アイルーとテラのフェリーンの種族差に関する研究」ニャんですが、半分くらい進めたところで、急にアスランという種族がいることが判明して、何もかもが振り出しに……テラの人種というのは、本当に厄介ですニャ！"
+        },
+        {
+          "language": "英文",
+          "content": "Curious about our latest research? We're gnawing on 'An Investigation into Biological Discrepancies Between Us Felynes with a Y and Terran Felines with an I.' We were halfway done, but then we found out you have Aslans too, so it's back to the scratching post for us... You Terrans are meowder with your subspecies!"
+        },
+        {
+          "language": "韩文",
+          "content": "요즘 진행하고 있는 연구 과제 말입니까냥? 《아이루와 테라의 필라인 종족 차이에 관한 연구》입니다냥. 절반 정도 진행했는데 갑자기 아슬란이라는 종족도 있다는 사실을 발견해서 모든 연구가 원점으로 돌아왔습니다냥…… 테라인 종족은 정말 머리 아파요냥!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "最近研究的課題喵？《艾路與泰拉菲林的種族差異研究》，明明已經進行到一半了，但是突然又發現了名為阿斯蘭的種族，前功盡棄了......泰拉人的種族真傷腦筋喵！"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "阁下，出发狩猎前记得务必填饱肚子喵。精力满满地去战斗，说不定能爆发出超乎想象的能量......喵！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター殿、狩りに出る前は必ず、お腹いっぱい食べておくようにニャ。元気モリモリで戦いに挑めば、想像以上の力を発揮できるかもしれんから……ニャ！"
+        },
+        {
+          "language": "英文",
+          "content": "Your Meowjesty, never forget to eat your fill before you go on a hunt. Dive into a fight with full stamina, and you might end up doing things you didn't even think you could... mrrreow!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 사냥을 떠나기 전엔 반드시 배를 든든하게 채워야 한다냥. 에너지를 가득 충전하고 싸우면, 상상 이상의 힘을 낼 수 있을지도 모른다……냥!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "閣下，出發狩獵前記得務必填飽肚子喵。精力滿滿地去戰鬥，說不定能爆發出超乎想像的能量......喵！"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "敲，敲，没有燕雀石了喵......作为替代，岩蛛背上的石头，钳兽的壳......都加进去试试喵。"
+        },
+        {
+          "language": "日文",
+          "content": "えいっ、えいっ。マカライトがもうニャい……イワグモの背中の石と、鉗獣の殻も……全部入れて試してみようかニャ。"
+        },
+        {
+          "language": "英文",
+          "content": "*dink* *dink* No Machalite Ore left... Could substitute with Rock Spider stones and gloompincer shells... Don't know without trying. In you go."
+        },
+        {
+          "language": "韩文",
+          "content": "이얍, 이얍, 마카라이트 광석이 다 떨어졌다냥…… 대신 바위 거미의 등에 있는 돌이랑 글룸핀서의 껍데기를…… 일단 전부 넣어보자냥."
+        },
+        {
+          "language": "繁体中文",
+          "content": "敲，敲，沒有燕雀石了喵......作為替代，岩蛛背上的石頭，鉗獸的殼......都加進去試試喵。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "每次见到山的时候，老夫总会想起一位故人喵。他拥有同样高大健壮的身材，自某一次武器折断后就决定不做随从了喵，但后来他似乎跟随调查团去新大陆当了料理长......真是世事难料喵。"
+        },
+        {
+          "language": "日文",
+          "content": "ワシはマウンテン殿を見るたび、ある旧友のことを思い出す。あやつはまさに山のような大きく逞しい体格の持ち主だったが、武器を折ったことをきっかけにオトモをやめてしまってニャ。しかしその後、調査団と共に新大陸へ赴き、その地で料理長になったそうな……ネコ生とはわからぬものだニャあ。"
+        },
+        {
+          "language": "英文",
+          "content": "The mountains never fail to remind me of an old bud, built just as tall and strong. He broke his weapon once and quit the Palico life after, but if memory serves, he then went with the Research Commission to take up cheffing in the New World... You never know what turn your next life'll take."
+        },
+        {
+          "language": "韩文",
+          "content": "마운틴을 볼 때마다 옛 친구가 떠오른다냥. 그 녀석도 크고 건장한 체격이었는데, 어느 날 무기가 부러진 걸 계기로 동반자를 그만두었다냥. 하지만 그 후에 조사단이랑 함께 신대륙으로 가서 주방장이 됐다고 한다냥…… 역시 세상일은 모르는 법이다냥."
+        },
+        {
+          "language": "繁体中文",
+          "content": "每次見到山的時候，老夫總會想起一位故人喵。他擁有同樣高大健壯的身材，自某一次武器折斷後就決定不做隨從了喵，但後來他似乎跟隨調查團去新大陸當了料理長......真是世事難料喵。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士喵，看在我们交情的分上，就告诉你一个秘诀好了。要是在作战中受伤了，喝药的时候记得在身后点燃一个爆弹喵。你问为什么？这样就可以毫发无损地躲开敌人的偷袭了喵！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター。友情の証として、あなたに秘密のテクニックを教えてあげますニャ。戦闘中に傷ついた時は、回復薬を飲む前に、自分の後ろに小タル爆弾を置くといいですよ。ニャぜかって？そうすれば、敵の奇襲を無傷で避けられるからですニャ！"
+        },
+        {
+          "language": "英文",
+          "content": "Say, Doctor, I'll let you in on a secret trick, friend to... maybe furless friend. If you ever get hurt in battle and you need to chug a Potion, set off a Barrel Bomb behind you while you do. Why? It'll stop any baddies getting the pounce on you, that's why!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 우정의 의미로 비밀 팁을 하나 전수해 드리겠습니다냥. 전투 중 부상을 입었을 때는, 회복약을 먹기 전에 등 뒤에 소형 폭탄 하나를 설치해 두는 게 좋습니다냥. 이유 말입니까냥? 그래야 적의 기습을 무사히 피할 수 있기 때문이죠냥!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士喵，看在我們交情的份上，就告訴你一個秘訣好了。要是在作戰中受傷了，喝藥的時候記得在身後點燃一個爆彈喵。你問為什麼？這樣就可以毫髮無損地躲開敵人的偷襲了喵！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "泰拉的新素材喵，许多新的石头，喜欢喵......也许能做出和家乡冰窟里的那把大剑一样的武器喵！送给博士喵！"
+        },
+        {
+          "language": "日文",
+          "content": "テラで見つけた新素材、新しい石がいっぱいで気に入ったニャ……これなら、もしかすると故郷の洞窟にあった大剣みたいなすごい武器が作れるかもしれニャい！出来上がったらドクターにあげるのニャ！"
+        },
+        {
+          "language": "英文",
+          "content": "Terra has new materials. Lots of ores. Very lovely... Maybe I can make a weapon just like that Great Sword in the ice cave back home! For mew, Doctor!"
+        },
+        {
+          "language": "韩文",
+          "content": "테라에서 발견한 신소재 중엔 새로운 광석들이 잔뜩 있어서 좋다냥…… 이 소재들이라면, 고향 동굴에 있던 그 대검 같은 대단한 무기를 만들 수 있을지도 모른다냥! 다 만들면 박사한테도 주겠다냥!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "泰拉的新素材喵，許多新的石頭，喜歡喵......也許能做出和家鄉冰窟裡的那把大劍一樣的武器喵！送給博士喵！"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "喵喵，博士的房间里......好多奇怪的东西喵，趁博士在睡觉，想要搬走......小工匠！快住手喵！"
+        },
+        {
+          "language": "日文",
+          "content": "ニャニャ。ドクターのお部屋には……変わったものがたくさんだニャ。ドクターが寝てる間に持って……/こら、やめニャさい下っ端くん！"
+        },
+        {
+          "language": "英文",
+          "content": "Meow, meow, lots of... fascinating things in Doctor's room. Want to move them elsewhere, while Doctor's asleep... Smithy! Stay your paw!"
+        },
+        {
+          "language": "韩文",
+          "content": "냐아앙. 박사의 방에는…… 신기한 물건들이 엄청 많다냥. 박사가 졸고 있는 이 틈에 가져가면…… 잠깐, 대장장이님! 손 떼세요냥!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "喵喵，博士的房間裡......好多奇怪的東西喵，趁博士在睡覺，想要搬走......小工匠！快住手喵！"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "听从阁下的召唤喵，艾露猫特别行动小组......最优秀的第一期泰拉大陆调查团来也！喵！不要踩我的脑袋喵！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター殿の召集に応え、我らアイルー特別行動小隊……/超一流の第一期テラ大陸調査団が馳せ参じました！ニャ～ッ、ちょっと！わたしの頭を踏まニャいで！"
+        },
+        {
+          "language": "英文",
+          "content": "On Your Meowjesty's summons, we the Felyne Special Corps... cream of the crop of the Terra Research Commission's Furst Fleet, have arrived! Meowch! Get your hind paws off my head!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사의 부름에 따라, 아이루 특별 작전…… 제일 우수한 우리 1기 테라 대륙 조사단이 왔습니다냥! 냐아! 머리 밟지 마세요냥!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "聽從閣下的召喚喵，艾路特別行動小組......最優秀的第一期泰拉大陸調查團來也！喵！不要踩我的腦袋喵！"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小工匠，你怎么在这盒子里面了？动......竟然动起来了！怎么做到的喵？"
+        },
+        {
+          "language": "日文",
+          "content": "どうしてこの箱に下っ端くんが入ってるんですかニャ？あれ……今動いたニャ！？一体どうニャってるんでしょうか？"
+        },
+        {
+          "language": "英文",
+          "content": "What are you doing inside this box, Smithy? Im... Impawssible! It's all moving! How is it done?"
+        },
+        {
+          "language": "韩文",
+          "content": "대장장이님, 어째서 이 상자 안에 있는 겁니까냥? 어라……움직였다냥! 어떻게 한 거죠냥?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "小工匠，你怎麼在這盒子裡面了？動......竟然動起來了！怎麼做到的喵？"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们都整装待发了喵！"
+        },
+        {
+          "language": "日文",
+          "content": "アイルー小隊！準備万端だニャ！"
+        },
+        {
+          "language": "英文",
+          "content": "Ready for departure!"
+        },
+        {
+          "language": "韩文",
+          "content": "전원 준비 완료입니다냥!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我們都整裝待發了喵！"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "意料之中，我最擅长的就是指挥了喵！"
+        },
+        {
+          "language": "日文",
+          "content": "当然、隊長こそわたしの天職ですからニャ！"
+        },
+        {
+          "language": "英文",
+          "content": "A simple task! I'm a purr-ime leader, after all!"
+        },
+        {
+          "language": "韩文",
+          "content": "놀랍지도 않습니다냥, 지휘는 제 천직입니다냥!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "意料之中，我最擅長的就是指揮了喵！"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“猎人”们喵！充满活力地出发喵！"
+        },
+        {
+          "language": "日文",
+          "content": "ハンターさんたち！元気に行こうぞニャ！"
+        },
+        {
+          "language": "英文",
+          "content": "Let's go, 'Hunters!' Put some pep in your step!"
+        },
+        {
+          "language": "韩文",
+          "content": "'헌터' 여러분! 힘차게 출발이다냥!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "「獵人」們喵！充滿活力地出發喵！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "发现猎物了，阁下请小心喵。"
+        },
+        {
+          "language": "日文",
+          "content": "獲物を見つけたニャ。ドクター殿、気をつけるんニャぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "Purr-ey spotted. Watch out, Your Meowjesty."
+        },
+        {
+          "language": "韩文",
+          "content": "사냥감을 발견했다냥. 조심해라냥, 박사."
+        },
+        {
+          "language": "繁体中文",
+          "content": "發現獵物了，閣下請小心喵。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "听从阁下的派遣喵。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター殿のご命令に従うニャ。"
+        },
+        {
+          "language": "英文",
+          "content": "By your bidding, Your Meowjesty."
+        },
+        {
+          "language": "韩文",
+          "content": "박사의 명령에 따르겠다냥."
+        },
+        {
+          "language": "繁体中文",
+          "content": "聽從閣下的派遣喵。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "喵！在喵！"
+        },
+        {
+          "language": "日文",
+          "content": "ニャ！ここにいるニャ！"
+        },
+        {
+          "language": "英文",
+          "content": "Meow! Right here!"
+        },
+        {
+          "language": "韩文",
+          "content": "냐앙! 여기 있다냥!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "喵！在喵！"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们两个！快上喵！"
+        },
+        {
+          "language": "日文",
+          "content": "行きニャさい、ユラ！"
+        },
+        {
+          "language": "英文",
+          "content": "You two! Now!"
+        },
+        {
+          "language": "韩文",
+          "content": "둘 다, 출격입니다냥!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你們兩個！快上喵！"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "太重了喵！"
+        },
+        {
+          "language": "日文",
+          "content": "重すぎですニャ！"
+        },
+        {
+          "language": "英文",
+          "content": "You're purr-essing too hard!"
+        },
+        {
+          "language": "韩文",
+          "content": "너무 무거워요냥!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "太重了喵！"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "弱点在那里喵！"
+        },
+        {
+          "language": "日文",
+          "content": "弱点はあそこですニャ！"
+        },
+        {
+          "language": "英文",
+          "content": "Aim fur that weak spot!"
+        },
+        {
+          "language": "韩文",
+          "content": "약점은 저기입니다냥!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "弱點在那裡喵！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "露出破绽了喵！"
+        },
+        {
+          "language": "日文",
+          "content": "隙アリですニャ！"
+        },
+        {
+          "language": "英文",
+          "content": "They're wide open!"
+        },
+        {
+          "language": "韩文",
+          "content": "허점이 보입니다냥!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "露出破綻了喵！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "燃烧的狩猎之魂！"
+        },
+        {
+          "language": "日文",
+          "content": "燃え上がれ、狩猟魂！だニャ！"
+        },
+        {
+          "language": "英文",
+          "content": "Taste the flaming soul of a hunter!"
+        },
+        {
+          "language": "韩文",
+          "content": "불꽃처럼 타오르는 사냥혼!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "燃燒的狩獵之魂！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "最强的投掷技喵！"
+        },
+        {
+          "language": "日文",
+          "content": "最強の投擲技を食らうが良いニャ！"
+        },
+        {
+          "language": "英文",
+          "content": "The purr-fect slinger technique!"
+        },
+        {
+          "language": "韩文",
+          "content": "최강의 투척술을 보십시오냥!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "最強的投擲技喵！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "危机......危机解除了喵？我能睁开眼睛了吗？"
+        },
+        {
+          "language": "日文",
+          "content": "敵は……撃退できましたかニャ？もう目を開けてもいいでしょうか？"
+        },
+        {
+          "language": "英文",
+          "content": "Are... Are we out of danger meow? Can I open my eyes yet?"
+        },
+        {
+          "language": "韩文",
+          "content": "위기는…… 끝난 건가요냥? 이제 눈 떠도 되는 겁니까냥?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "危機......危機解除了喵？我能睜開眼睛了嗎？"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "阁下的指挥太精彩了，真是让老夫受益匪浅......喵。"
+        },
+        {
+          "language": "日文",
+          "content": "素晴らしい指揮だったニャ、ドクター殿。ワシも大層勉強になった……ニャ。"
+        },
+        {
+          "language": "英文",
+          "content": "Absolutely stellar command, Your Meowjesty. That's what I call great gains... mrreow."
+        },
+        {
+          "language": "韩文",
+          "content": "훌륭한 지휘였다냥. 많이 배웠다……냥."
+        },
+        {
+          "language": "繁体中文",
+          "content": "閣下的指揮太精彩了，真是讓老夫受益匪淺......喵。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一地的装备......捡，都捡走喵。"
+        },
+        {
+          "language": "日文",
+          "content": "装備が散らかってる……ぜ、全部拾ってこうニャ。"
+        },
+        {
+          "language": "英文",
+          "content": "Equipment everywhere... grabbing, all of it. Grabbing and going."
+        },
+        {
+          "language": "韩文",
+          "content": "소재가 잔뜩이다냥…… 전부 주워가겠다냥."
+        },
+        {
+          "language": "繁体中文",
+          "content": "一地的裝備......撿，都撿走喵。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊，要追上来了，快跑喵！"
+        },
+        {
+          "language": "日文",
+          "content": "わわ、追いつかれますよ！急いでくださいニャ！"
+        },
+        {
+          "language": "英文",
+          "content": "Good gravy, they're catching up! Run, run like your tail's on fire!"
+        },
+        {
+          "language": "韩文",
+          "content": "냐앙, 따라잡히겠어요냥! 어서 도망치세요냥!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "啊，要追上來了，快跑喵！"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "拖，拖喵......小工匠，你怎么去哪里都带着一大堆材料喵？"
+        },
+        {
+          "language": "日文",
+          "content": "よいしょ、よいしょ……/下っ端くん、あなたどうしてどこへ行くにも大荷物なんですかニャ？"
+        },
+        {
+          "language": "英文",
+          "content": "Hauling, hauling... Smithy, why do you drag that meowntain of materials with you everywhere you go?"
+        },
+        {
+          "language": "韩文",
+          "content": "영차, 영차…… 대장장이님, 당신은 왜 어딜 가나 짐이 그렇게 많은 겁니까냥?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "拖，拖喵......小工匠，你怎麼去哪裡都帶著一大堆材料喵？"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "喵~"
+        },
+        {
+          "language": "日文",
+          "content": "ニャ～。"
+        },
+        {
+          "language": "英文",
+          "content": "Mrrow~"
+        },
+        {
+          "language": "韩文",
+          "content": "냐아~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "喵~"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你在干什么喵？喵......请再摸摸这里......啊，老夫也要被摸喵！"
+        },
+        {
+          "language": "日文",
+          "content": "一体ニャにを……ニャ、ニャ～……ここも撫でてくださいニャ……/おお、ワシも撫でてもらいたいニャあ！"
+        },
+        {
+          "language": "英文",
+          "content": "What <i>are</i> you doing? Mrrow... right there, please... Hey, save a pet or two for me!"
+        },
+        {
+          "language": "韩文",
+          "content": "뭐, 뭐 하는 겁니까냥? 냐아…… 여기도 만져주세요냥…… 오오, 나도 만져달라냥!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你在幹什麼喵？喵......請再摸摸這裡......啊，老夫也要被摸喵！"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "喵，是博士！你好喵！"
+        },
+        {
+          "language": "日文",
+          "content": "ニャ、ドクター！こんにちはニャ！"
+        },
+        {
+          "language": "英文",
+          "content": "Ah, Doctor! Fine day to mew!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사냥! 안녕이다냥!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "喵，是博士！你好喵！"
+        }
+      ]
+    }
+  ]
+}

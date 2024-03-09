@@ -1,0 +1,939 @@
+{
+  "name": "临光",
+  "charaKey": "char_148_nearl",
+  "images": [
+    "https://prts.wiki/images/e/e4/立绘_临光_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/5/5f/立绘_临光_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/8/82/立绘_临光_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_148_nearl"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_148_nearl"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_148_nearl"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_148_nearl"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "很高兴见到您，博士，愿光明护佑您。"
+        },
+        {
+          "language": "日文",
+          "content": "ご機嫌麗しゅうドクター。あなたに光のご加護があらんことを。"
+        },
+        {
+          "language": "英文",
+          "content": "Salutations, Doctor. May the light be with you."
+        },
+        {
+          "language": "韩文",
+          "content": "안녕하신가, 박사. 그대에게 빛의 가호가 함께하기를."
+        },
+        {
+          "language": "繁体中文",
+          "content": "很高興見到您，博士，願光明護佑您。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我希望被分配到最危险的战场，这样，我和我的盾才能保护每一位战友。"
+        },
+        {
+          "language": "日文",
+          "content": "最も危険な場所への配属を志願する。この盾と私が、皆を守る。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, I ask that you give me the most dangerous assignment available, such that my shield and I can best protect those in need."
+        },
+        {
+          "language": "韩文",
+          "content": "가장 위험한 곳으로 배치해줬으면 한다. 이 방패와 내가, 모두를 지키겠어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我希望被分配到最危險的戰場，這樣，我和我的盾才能保護每一位戰友。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“骑士”的称号理应是荣耀的象征，却不知曾几何时，它已经被当成了商品......"
+        },
+        {
+          "language": "日文",
+          "content": "「騎士」の称号とは誇りの象徴であろう。それがいつの間にか商売の道具に成り下がるとは……"
+        },
+        {
+          "language": "英文",
+          "content": "The title of 'Knight' should be a symbol of honor. And yet now, it's been reduced to a mere commodity..."
+        },
+        {
+          "language": "韩文",
+          "content": "'기사'라는 칭호는, 명예의 상징이지. 그게 언제부턴가 돈벌이를 위한 수단으로 전락해버리고 말 줄은…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“騎士”的稱號理應是榮耀的象徵，卻不知曾幾何時，它已經被當成了商品......"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "只要光仍在指引我，残忍便不能使我屈服，暴虐也不能让我屈膝。"
+        },
+        {
+          "language": "日文",
+          "content": "どんな残虐非道にも決して屈しない。光の導きがある限り。"
+        },
+        {
+          "language": "英文",
+          "content": "As long as the light continues to guide me, I will neither bow to cruelty nor kneel to violence."
+        },
+        {
+          "language": "韩文",
+          "content": "어떤 잔악무도한 적에게도 굴복하지 않겠다. 빛의 인도가 함께하는 한."
+        },
+        {
+          "language": "繁体中文",
+          "content": "只要光仍在指引我，殘忍便不能使我屈服，暴虐也不能讓我屈膝。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "非常感谢你，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターにはいつも感謝している。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm grateful as always for your service, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "박사에게는 항상 감사하고 있다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "非常感謝你，博士。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "卡西米尔的骑士精神，本应是这片大地上苦难者的救星，但现在的它，已经彻底沦落为被资本肆意操弄的腐朽遗产。没有比这更耻辱的了。"
+        },
+        {
+          "language": "日文",
+          "content": "カジミエーシュの騎士道精神は、苦しむ者たちに救いの手を差し伸べるために生まれたものだ……しかし今となっては、上層部の資金繰りの道具へと成り下がってしまった。これ以上の屈辱はない。"
+        },
+        {
+          "language": "英文",
+          "content": "The Kazimierz chivalric spirit should have been a force of salvation for all who suffer in this world. But now, it's nothing more than a rotten legacy, used to benefit the rich. Nothing is more shameful."
+        },
+        {
+          "language": "韩文",
+          "content": "카시미어의 기사도 정신은 고통받는 자들에게 구원의 손길을 내밀기 위해 생겨난 것이다… 그러나 지금은, 상부의 자금 조달을 위한 도구로 전락해버렸지. 치욕스럽기 짝이 없다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "卡西米爾的騎士精神，本應是這片大地上苦難者的救星，但現在的它，已經徹底淪落為被資本肆意操弄的腐朽遺產。沒有比這更恥辱的了。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "闪灵也是引导我前进的光芒。是的，她背负着我一直追寻的希望。"
+        },
+        {
+          "language": "日文",
+          "content": "シャイニング……彼女は私を導く光……そして私が追い求める希望だ。"
+        },
+        {
+          "language": "英文",
+          "content": "Shining, too, is a beam of light that guides me forward. She carries the hope I've long sought."
+        },
+        {
+          "language": "韩文",
+          "content": "샤이닝… 그녀는 날 인도하는 빛이자… 내가 추구하는 희망이다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "閃靈也是引導我前進的光芒。是的，她背負著我一直追尋的希望。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "当闪灵听到罗德岛这一名字，她似乎动摇了，我却不知道她动摇的理由。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスという名を聞いたとき、何故かシャイニングは動揺していた……だがその理由はわからない。"
+        },
+        {
+          "language": "英文",
+          "content": "Something flickered in Shining's eyes when she heard the name Rhodes Island. I had no idea what it meant..."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드라는 이름을 들었을 때, 어째선지 샤이닝은 동요하더군… 하지만 그 이유는 잘 모르겠다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "當閃靈聽到羅德島這一名字，她似乎動搖了，我卻不知道她動搖的理由。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这被矿石病侵袭的时代，将会为罗德岛的希望之光所照耀。"
+        },
+        {
+          "language": "日文",
+          "content": "鉱石病に侵されたこの時代に、ロドスが希望の光とならんことを。"
+        },
+        {
+          "language": "英文",
+          "content": "In this time and age of a world plagued by Oripathy, may the ray of hope from Rhodes Island light the way."
+        },
+        {
+          "language": "韩文",
+          "content": "광석병에 잠식되어 버린 이 시대에, 로도스 아일랜드가 희망의 빛이 되기를."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這被礦石病侵襲的時代，將會為羅德島的希望之光所照耀。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "稍稍，享受下这短暂的休憩吧。"
+        },
+        {
+          "language": "日文",
+          "content": "束の間の安らぎを……。"
+        },
+        {
+          "language": "英文",
+          "content": "Let us embrace this momentary respite."
+        },
+        {
+          "language": "韩文",
+          "content": "잠깐 동안의 평온함을…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "稍稍，享受下這短暫的休憩吧。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "玛嘉烈·临光，卡西米尔耀骑士......不，就让我作为一名罗德岛干员，用这面盾牌捍卫您的生命、您的荣耀。"
+        },
+        {
+          "language": "日文",
+          "content": "マーガレット・ニアール。カジミエーシュの騎士……ではなく、ロドスのオペレーターとして、あなたの誇りと命を、この盾に誓って護ろう。"
+        },
+        {
+          "language": "英文",
+          "content": "Margaret Nearl, the Radiant Knight of Kazimierz...and now a Rhodes Island Operator. I will defend your life and your honor with my shield."
+        },
+        {
+          "language": "韩文",
+          "content": "마가렛 니어. 카시미어의 기사… 가 아니라, 로도스 아일랜드의 오퍼레이터로서, 그대의 긍지와 목숨을 지킬 것을 이 방패에 맹세한다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "瑪嘉烈·臨光，卡西米爾耀騎士......不，就讓我作為一名羅德島幹員，用這面盾牌捍衛您的生命、您的榮耀。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "感谢您给予我力量。"
+        },
+        {
+          "language": "日文",
+          "content": "力を与えてくれたこと、感謝する。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you for granting me power."
+        },
+        {
+          "language": "韩文",
+          "content": "힘을 주어서, 고맙다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "感謝您給予我力量。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "感谢你，博士。我的力量为拯救苦难而存在，是的，无论如何，我都会铭记于心。"
+        },
+        {
+          "language": "日文",
+          "content": "感謝する、ドクター。いついかなる時も、この力は苦しむ者を救うためのものであると、肝に銘じよう。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you, Doctor. These new powers shall bring relief to those who suffer. This I shall engrave upon my heart."
+        },
+        {
+          "language": "韩文",
+          "content": "고맙다, 박사. 언제 어느 때나, 이 힘은 고통받는 자를 구하기 위한 것이란걸, 마음속 깊이 새겨두도록 하지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "感謝你，博士。我的力量為拯救苦難而存在，是的，無論如何，我都會銘記於心。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "闪灵曾说过，黎明还很遥远。但我相信总有一天，我们会亲手拾取那些逝去已久的荣光。"
+        },
+        {
+          "language": "日文",
+          "content": "夜明けはまだ遠いとシャイニングは言うが、いつか必ず失われた栄光を取り戻せると、私は信じている。"
+        },
+        {
+          "language": "英文",
+          "content": "Shining once said that dawn remains distant. But I believe that, one day, we will revive the dying glory with our very own hands."
+        },
+        {
+          "language": "韩文",
+          "content": "새벽이 밝아오려면 아직 멀었다고 샤이닝이 그랬지만, 언젠간 반드시, 잃어버린 영광을 되찾아 올 거라고… 난 믿고 있다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "閃靈曾說過，黎明還很遙遠。但我相信總有一天，我們會親手拾取那些逝去已久的榮光。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一切伤害，都由我来阻挡。"
+        },
+        {
+          "language": "日文",
+          "content": "全ての害悪は私が振り払おう。"
+        },
+        {
+          "language": "英文",
+          "content": "I shall protect them from all harm."
+        },
+        {
+          "language": "韩文",
+          "content": "모든 악한 것들은 내가 물리치겠다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "一切傷害，都由我來阻擋。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "绝不辱没罗德岛之名。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスの名に恥じぬ戦いを。"
+        },
+        {
+          "language": "英文",
+          "content": "I shall not blemish Rhodes Island's name."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드의 이름에 부끄럽지 않을 전투를."
+        },
+        {
+          "language": "繁体中文",
+          "content": "絕不辱沒羅德島之名。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "准备妥当了，出发。"
+        },
+        {
+          "language": "日文",
+          "content": "準備完了。出立する。"
+        },
+        {
+          "language": "英文",
+          "content": "I am ready. Set out!"
+        },
+        {
+          "language": "韩文",
+          "content": "준비 완료. 출발하겠다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "準備妥當了，出發。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "荣耀必须被捍卫。"
+        },
+        {
+          "language": "日文",
+          "content": "その誇り、守るために。"
+        },
+        {
+          "language": "英文",
+          "content": "Honor must be defended."
+        },
+        {
+          "language": "韩文",
+          "content": "그 긍지를 지키기 위하여."
+        },
+        {
+          "language": "繁体中文",
+          "content": "榮耀必須被捍衛。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "以您的名义。"
+        },
+        {
+          "language": "日文",
+          "content": "その名に誓って。"
+        },
+        {
+          "language": "英文",
+          "content": "In your name."
+        },
+        {
+          "language": "韩文",
+          "content": "그 이름에 맹세하노니."
+        },
+        {
+          "language": "繁体中文",
+          "content": "以您的名義。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我将为您竭尽全力。"
+        },
+        {
+          "language": "日文",
+          "content": "この力、あなたのために尽くそう。"
+        },
+        {
+          "language": "英文",
+          "content": "I shall give my all to you."
+        },
+        {
+          "language": "韩文",
+          "content": "이 힘, 당신을 위해 쓰겠다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我將為您竭盡全力。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我来掩护。"
+        },
+        {
+          "language": "日文",
+          "content": "援護する。"
+        },
+        {
+          "language": "英文",
+          "content": "I shall cover you!"
+        },
+        {
+          "language": "韩文",
+          "content": "엄호하겠다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我來掩護。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请躲在我身后。"
+        },
+        {
+          "language": "日文",
+          "content": "私の後ろへ。"
+        },
+        {
+          "language": "英文",
+          "content": "Get behind me!"
+        },
+        {
+          "language": "韩文",
+          "content": "내 뒤에 서라."
+        },
+        {
+          "language": "繁体中文",
+          "content": "請躲在我身後。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "光。"
+        },
+        {
+          "language": "日文",
+          "content": "光あれ。"
+        },
+        {
+          "language": "英文",
+          "content": "Light, heed me!"
+        },
+        {
+          "language": "韩文",
+          "content": "빛이 있으라!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "光。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我在。"
+        },
+        {
+          "language": "日文",
+          "content": "私がついている。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm with you!"
+        },
+        {
+          "language": "韩文",
+          "content": "내가 곁에 있다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我在。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别担心。"
+        },
+        {
+          "language": "日文",
+          "content": "心配無用だ。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't be afraid."
+        },
+        {
+          "language": "韩文",
+          "content": "걱정할 것 없다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別擔心。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "复苏吧。"
+        },
+        {
+          "language": "日文",
+          "content": "目覚めよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Revitalize!"
+        },
+        {
+          "language": "韩文",
+          "content": "깨어나라!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "復甦吧。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真正的骑士决不屈服于暴力，在这把战锤面前忏悔吧。"
+        },
+        {
+          "language": "日文",
+          "content": "真の騎士は決して暴力に屈しない。この裁きの鉄槌の前に、おのが行いを悔いるがいい。"
+        },
+        {
+          "language": "英文",
+          "content": "A true knight will not bend to the threat of violence. Now, repent for your sins, in front of my warhammer."
+        },
+        {
+          "language": "韩文",
+          "content": "진정한 기사는 결코 폭력에 굴하지 않는다. 이 심판의 철퇴 앞에 자신의 행동을 뉘우치도록 해라!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "真正的騎士決不屈服於暴力，在這把戰錘面前懺悔吧。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "向前迈进吧，总有一天，我们可以......"
+        },
+        {
+          "language": "日文",
+          "content": "この歩み、進めてゆけば……いつか必ず……。"
+        },
+        {
+          "language": "英文",
+          "content": "Let us go forth. And there will be one day…"
+        },
+        {
+          "language": "韩文",
+          "content": "이 한 걸음, 계속해서 나아가면… 언젠가는 반드시…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "向前邁進吧，總有一天，我們可以......"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真正的骑士不会追击失去战意的人，无论什么样的人，都应该给予他们重新选择的机会。"
+        },
+        {
+          "language": "日文",
+          "content": "真の騎士は、敗者をどこまでも追い詰めたりはしない。どんな人間にも悔い改める機会は与えられるべきだ。"
+        },
+        {
+          "language": "英文",
+          "content": "A true knight will not chase one who's lost the will to fight. Everyone deserves a chance to choose a new path."
+        },
+        {
+          "language": "韩文",
+          "content": "진정한 기사는 패자를 끝까지 쫓지 않는다. 그 어떤 인간에게도, 뉘우칠 기회는 줘야 하는 법이니."
+        },
+        {
+          "language": "繁体中文",
+          "content": "真正的騎士不會追擊失去戰意的人，無論什麼樣的人，都應該給予他們重新選擇的機會。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别在这里放弃。"
+        },
+        {
+          "language": "日文",
+          "content": "……ここで諦めてはいけない。"
+        },
+        {
+          "language": "英文",
+          "content": "We must not give up now."
+        },
+        {
+          "language": "韩文",
+          "content": "…여기서 포기해선 안 된다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別在這裡放棄。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "随便走走就好了。"
+        },
+        {
+          "language": "日文",
+          "content": "ここでは見回り役を買って出よう。"
+        },
+        {
+          "language": "英文",
+          "content": "I shall keep watch here."
+        },
+        {
+          "language": "韩文",
+          "content": "여기선 내가 순찰을 맡도록 하지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "隨便走走就好了。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有敌人......呃，博士？"
+        },
+        {
+          "language": "日文",
+          "content": "敵の様子がっ……ドクター？"
+        },
+        {
+          "language": "英文",
+          "content": "I sense an intru- Oh, Doctor?!"
+        },
+        {
+          "language": "韩文",
+          "content": "적의 모습이… 바, 박사였나?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "有敵人......呃，博士？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，那个......咳，我可以进来吗？听说您的办公室里，收藏了大量的书籍。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、その……コホン、執務室に入らせてはもらえないだろうか？大量の蔵書があると聞いているので。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, umm... may I enter your office? I've heard you have a vast collection of literature."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 그게… 어흠, 집무실에 들여보내 주겠나? 책이 아주 많다고 들었다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，那個......咳，我可以進來嗎？聽說您的辦公室裡，收藏了大量的書籍。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "早上好，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "いい朝だな、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Good morning to you, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "좋은 아침이군, 박사."
+        },
+        {
+          "language": "繁体中文",
+          "content": "早上好，博士。"
+        }
+      ]
+    }
+  ]
+}

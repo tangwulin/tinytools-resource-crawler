@@ -1,0 +1,936 @@
+{
+  "name": "极境",
+  "charaKey": "char_401_elysm",
+  "images": [
+    "https://prts.wiki/images/5/5a/立绘_极境_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/4/40/立绘_极境_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/0/0a/立绘_极境_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/6/68/立绘_极境_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_401_elysm"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_401_elysm"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_401_elysm"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有什么工作尽管吩咐，做副手我还是很有经验的。"
+        },
+        {
+          "language": "日文",
+          "content": "仕事があれば何でも言ってね。こう見えて助手の経験は豊富でさ。"
+        },
+        {
+          "language": "英文",
+          "content": "Please feel free to assign any work to me. I have a lot of experience as a second-in-command."
+        },
+        {
+          "language": "韩文",
+          "content": "일이 있으면 뭐든 말해. 이래 봬도 조수 경험은 풍부하거든."
+        },
+        {
+          "language": "繁体中文",
+          "content": "有什麼工作儘管吩咐，做副手我還是很有經驗的。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这杆发信器能将信号传递到相当远的地方，也是小队之间进行沟通的有力手段。而且啊，我的法术能让信号变得很强，让小队之间的交流畅通无阻，战地通讯，简直就是为我设计的工作嘛。"
+        },
+        {
+          "language": "日文",
+          "content": "この発信器があれば信号を相当な距離まで飛ばせるから、小隊間で連絡を取り合う有力な手段になるんだ。さらに僕のアーツで信号を強めれば、もう誰にも止められない。戦場通信、まさに僕のために用意された役割だよね。"
+        },
+        {
+          "language": "英文",
+          "content": "This communicator can transmit signals over considerable distances and is a powerful means of communicating between teams. And, yes, my Arts can amplify the signal and ensure that communication between teams goes unimpeded. Battlefield communication, simply put, is a job that was practically made for me."
+        },
+        {
+          "language": "韩文",
+          "content": "이 발신기가 있으면 신호를 상당한 거리까지 날릴 수 있어서 팀 간에 연락할 수 있는 유력한 수단이 되지. 게다가 내 아츠로 신호를 증폭시키잖아? 그럼 아무도 막을 수 없게 되는 거라고. 전장 통신, 그야말로 날 위해 준비된 역할이지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這個發信器能將信號傳遞到相當遠的地方，也是小隊之間進行溝通的有力手段。而且啊，我的法術能讓信號變得很強，讓小隊之間的交流暢通無阻，戰地通訊，簡直就是為我設計的工作嘛。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "找不到路？没问题，交给我。要去这里的话，先从左边的楼梯上到四层，然后右转，走过第三个岔口后左转，再下一层，继续向左，可露希尔小姐的三号工程室对面就是。怎么样，是不是简洁易懂？"
+        },
+        {
+          "language": "日文",
+          "content": "迷子？大丈夫、僕に任せて。この場所へ行くには、まず左の階段で四階に上がり、右に直進して、三つ目の分かれ道を過ぎたら左に曲がり、一つ下の階に降りて、左に直進したところのクロージャさんの第三エンジニアルームの向かい側がそうだ。どう、わかりやすいでしょ？"
+        },
+        {
+          "language": "英文",
+          "content": "Lost? No worries, let me take a look. To get there, first go up the stairs on the left and head up to the fourth floor. Then turn right, and after passing the third fork, make a left. Go down a floor, then proceed to your left. It's directly across from Miss Closure's #3 Engineering Room. How's that? Were my instructions clear enough?"
+        },
+        {
+          "language": "韩文",
+          "content": "길을 못 찾겠다고? 괜찮아, 나한테 맡겨. 여기로 가려면 말이지, 우선 왼쪽 계단으로 4층까지 올라가서, 오른쪽으로 쭉~ 직진한 다음에 세 번째 갈림길을 지나서 왼쪽으로 꺾은 다음, 한층 내려가서 왼쪽으로 직진하면 나오는 클로저 씨의 제3 엔지니어실 맞은편으로 가면 돼. 어때, 알기 쉽지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "找不到路？沒問題，交給我。要去這裡的話，先從左邊的樓梯上到四層，然後右轉，走過第三個岔口後左轉，再下一層，繼續向左，可露希爾小姐的三號工程室對面就是。怎麼樣，是不是簡潔易懂？"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我和棘刺约好，下次双方都不再留手，一定要分出个胜负。这次我一定将他杀得片甲不留......什么？罗德岛禁止私斗？别误会，我是在说下棋，你觉得输了的人就剃光头，这个赌注怎么样？"
+        },
+        {
+          "language": "日文",
+          "content": "ソーンズと話したよ、次はお互い情けはかけず、必ず決着をつける、とね。今度こそ彼を跡形もなく……え？ロドスで私闘は禁止？いやいや誤解しないで、今のはチェスの話だよ。ね、負けた方は坊主頭にするなんて賭けはどう？"
+        },
+        {
+          "language": "英文",
+          "content": "Thorns and I have reached an agreement- next time, neither of us will hold back, and a victor will be crowned. This time, I'll make sure to end his existence... Huh? Rhodes Island has an explicit ban on personal fights? You must be mistaken, I'm simply talking about chess. Loser has to shave his head, what say you to this bet?"
+        },
+        {
+          "language": "韩文",
+          "content": "쏜즈랑 이야기했어. 다음엔 서로 봐주는 것 없이 반드시 결판을 내겠다고. 이번에야말로 걔를 흔적도 없이…… 뭐? 로도스 아일랜드에서 사적인 결투는 금지라고? 아냐, 아냐. 오해하지 마. 방금 그건 체스 이야기야. 있잖아, 이런 건 어때? 진 쪽이 머리를 빡빡 미는 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我和棘刺約好，下次雙方都不再留手，一定要分出個勝負。這次我一定將他殺得片甲不留......什麼？羅德島禁止私鬥？別誤會，我是在說下棋，你覺得輸了的人就剃光頭，這個賭注怎麼樣？"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我当然也不习惯当别人的副手，但是我的队长只有靠我才能传达命令，我也就只能留在队伍里照顾她啦。等等，这些话你知我知，为了我们两个人的前途着想，千万别让她知道，行吗？"
+        },
+        {
+          "language": "日文",
+          "content": "僕だって人の助手をするのは慣れないけど、うちの隊長は僕の力がないと命令を皆に伝えられないから、僕は隊に残って彼女の面倒を見てあげるしかないんだ。あ、ここだけの話にしてね。僕たちの将来のためにも、絶対彼女に知られちゃだめだよ。いいね？"
+        },
+        {
+          "language": "英文",
+          "content": "Of course I'm also not used to being someone else's assistant, since my squad captain relies on me to deliver her orders, and I have to stay on the squad to support her. Wait, these words are just between the two of us. For both of our sakes, don't ever let her know about what I just told you, okay?"
+        },
+        {
+          "language": "韩文",
+          "content": "나도 남의 조수를 하는 건 서툴지만, 우리 팀장은 내 능력이 없으면 명령을 모두에게 전달할 수 없거든, 그래서 난, 팀에 남아서 그 여자를 돌봐줄 수밖에 없어. 아, 이건 우리끼리만 하는 이야기다? 우리의 미래를 위해서라도, 절대 그 여자한테 말하면 안 돼. 알았지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我當然也不習慣當別人的副手，但是我的隊長只有靠我才能傳達命令，我也就只能留在隊伍裡照顧她啦。等等，這些話你知我知，為了我們兩個人的前途著想，千萬別讓她知道，行嗎？"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "战场上通讯的重要性不用多说，会首先受到攻击，也是当然的。放心吧，只要有我在，就一定让博士你的指令顺利传达到每一个作战人员。"
+        },
+        {
+          "language": "日文",
+          "content": "戦場通信の重要性は語るまでもないな。敵に狙われやすいのも当然でしょ。けどまぁ安心して。僕がいれば、ドクターの指令を無事仲間たち全員に届けてみせるさ。"
+        },
+        {
+          "language": "英文",
+          "content": "There is no overstating the importance of communication on the battlefield, and of course whoever facilitates that will be the first to get targeted. But don't worry, as long as I'm here, I'll make sure your orders are smoothly transmitted to every combat personnel."
+        },
+        {
+          "language": "韩文",
+          "content": "전장 통신의 중요성이야, 말할 것도 없지. 적의 표적이 되기 쉬운 것도 당연해. 그래도 뭐, 안심해. 내가 있으면, 박사의 지령을 무사히 동료들 모두에게, 전달해 줄 테니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "戰場上通訊的重要性不用多說，會率先受到攻擊，也是當然的。放心吧，只要有我在，就一定讓博士你的指令順利傳達到每一個作戰人員。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，你来得正好。其实，我正在烦恼，为什么大家宁愿看地图，也不找我问路呢？队长她之前说我油腔滑调惹人烦，怎么会这样，明明我对大家都很温柔啊。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、ちょうどいいところに。実はちょっと悩んでて……みんな僕に道を聞くより、地図に頼ろうとするのは何でだと思う？前に隊長は僕がぺらぺらと上調子で喋るのが気に食わないと言ってたし、どうしてそんな風に思われるんだろう。みんなには優しくしてるはずなのになぁ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, you came right on time. Actually, there's something bothering me. Why does everyone prefer looking at a map over asking me for directions? The captain said that my glib tone really gets on peoples' nerves, but there's no way that's true, right? I'm clearly nothing but compassionate towards everyone!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 마침 잘 왔어. 실은 좀 고민 중이거든…… 다들 왜, 나한테 길을 안 물어보고 지도에 의지하려 하는 걸까? 전에 팀장이 내가 주절주절 신나서 떠드는 게 마음에 안 든다고 한 적도 있었는데…… 다들 왜 그렇게 생각하는 걸까? 난 모두한테 친절하게 대하고 있는 건데 말이야……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，你來得正好。其實，我正在煩惱，為什麼大家寧願看地圖，也不找我問路呢？隊長她之前說我油腔滑調惹人煩，怎麼會這樣，明明我對大家都很溫柔啊。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在战场上，士气是很重要的，看到这面旗帜了吗，作为先锋，我举起它就是为了给大家带来勇气——等等，博士，你不会相信了吧？开玩笑啦，这个真的只是发信装置而已。"
+        },
+        {
+          "language": "日文",
+          "content": "戦場での士気はとても大切なんだ。この旗を見て、先鋒として掲げることでみんなに勇気を――待ってドクター、まさか信じてくれた？冗談だよ、これはただの発信装置なんだから。"
+        },
+        {
+          "language": "英文",
+          "content": "On the battlefield, few things are more important than morale. Do you see this banner? As a vanguard, just lifting it is enough to imbue everyone with courage— Wait, Doctor, you didn't seriously believe that, did you? I was just joking, this thing's actually a communication device."
+        },
+        {
+          "language": "韩文",
+          "content": "전장에서의 사기는 굉장히 중요하지. 이 깃발을 보고, 선봉에서 이걸 올리면 모두에게 용기를…… 잠깐만, 박사. 설마 믿은 거야? 농담이야. 이건 평범한 발신 장치라고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "在戰場上，士氣是很重要的，看到這面旗幟了嗎，作為先鋒，我舉起它就是為了給大家帶來勇氣——等等，博士，你不會相信了吧？開玩笑啦，這個真的只是發信裝置而已。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士你值得我信任。别谦虚，我对自己的眼光有信心。用战友来称呼你，怎么样？队长和我本来也水火不容，但我相信战友你和她一样，最后都会被我的真诚感动。不会？队长也寄信投诉我？呃？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターは信頼していいと決めたんだ。お世辞じゃないよ、僕は人を見る目には自信があるから。君のことを「戦友」と呼ぶってのはどう？隊長も僕と最初は水と油の仲だったけど、彼女と同じように、戦友も僕の誠実さに心動かされると思うよ。そんなことない？隊長は今でも僕についてクレームをよこしてる？ええ？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, you've earned my trust. There's no need to be so humble. I have confidence in my perception of others. How about I call you my comrade-in-arms from now on? My captain and I are like oil and water, but I believe that, much like her, you will eventually be moved by my sincerity. No? The captain sent you a letter complaining about me? Ehh?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사는 신뢰해도 되겠다고 정했어. 예의상 하는 말이 아니야. 사람 보는 눈 하나는 자신 있거든. 널 '전우'라고 부르는 건 어때? 우리 팀장도 나랑 처음엔 거의 물과 기름 같은 사이였지만, 그 여자처럼 전우도 내 성실함에 마음이 움직이지 않겠어? 그렇지도 않다고? 팀장은 지금도 나 때문에 클레임을 걸고 있다고? 엥?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士你值得我信任。別謙虛，我對自己的眼光有信心。用戰友來稱呼你，怎麼樣？隊長和我本來也水火不容，但我相信戰友你和她一樣，最後都會被我的真誠感動。不會？隊長也寄信投訴我？呃？"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，这边的文件......嗯？居然睡着了吗。唉，就算是因为有我在，也不能这么没戒心啊。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、このファイルなんだけど……あれ？眠ってしまったのか。はぁ、僕がいるからって、そんな無防備だと困るな。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, the files over here are... Hm? Already asleep, huh? Well, even if it's just me, you really shouldn't let your guard down like that."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 이 파일 말인데…… 어라? 잠들었네. 하아, 아무리 내가 있다 그래도, 이렇게 무방비하면 곤란한데."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，這邊的文件......嗯？居然睡著了嗎。唉，就算是因為有我在，也不能這麼沒戒心啊。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "三号作战小队，先锋通讯员极境，前来报到。这应该还是头一次不是机械通讯，而是直接与你对话吧，博士？"
+        },
+        {
+          "language": "日文",
+          "content": "第三作戦小隊所属、先鋒通信員のエリジウム、ただいま着任したよ。通信機越しじゃなくて、直接話せたのは初めてだよね、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "3rd Combat Squad, Vanguard and communications specialist, Elysium, reporting in. I do believe that this is our first time speaking face-to-face rather than through electronic means, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "제3 작전팀 소속 선봉 통신원 엘리시움, 지금 막 착임했어. 통신기 너머가 아니라 이렇게 직접 이야기하는 건 처음이지? 박사."
+        },
+        {
+          "language": "繁体中文",
+          "content": "三號作戰小隊，先鋒通訊員極境，前來報到。這應該還是頭一次不是機械通訊，而是直接與你對話吧，博士？"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "很多内部的作战记录里都能看到我自己，这种感觉有点奇怪。"
+        },
+        {
+          "language": "日文",
+          "content": "内部の作戦記録で自分の戦う様子を目にするなんて、なんか不思議だよね。"
+        },
+        {
+          "language": "英文",
+          "content": "I can see myself in a lot of these battle records. Talk about weird."
+        },
+        {
+          "language": "韩文",
+          "content": "내부 작전 기록으로 내가 싸우는 모습을 보다니, 왠지 신기한데."
+        },
+        {
+          "language": "繁体中文",
+          "content": "很多內部的作戰記錄裡都能看到我自己，這種感覺有點奇怪。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "非常感谢。不过再晋升的话，我的职位该不会就要超过队长了吧？"
+        },
+        {
+          "language": "日文",
+          "content": "感謝するよ。けどさ、もう一度昇進したら、もしかして僕の役職は隊長を超えてしまう感じ？"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you very much. I won't end up with a higher rank than my captain if I get promoted again, will I?"
+        },
+        {
+          "language": "韩文",
+          "content": "고마워. 근데 말이야~ 여기서 한 번 더 승진하면, 이제 내 계급이 팀장을 뛰어넘게 되는 건가?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "非常感謝。不過再晉升的話，我的職位該不會就要超過隊長了吧？"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我一向相信自己的判断，博士。如果下命令的那个人是你，我不会有所质疑，所谓战友，不就是这样吗。"
+        },
+        {
+          "language": "日文",
+          "content": "僕は自分の判断にいつも自信を持ってるよ、ドクター。君の命令だというなら、僕はそれを疑ったりしない。戦友とは、そういうものでしょう？"
+        },
+        {
+          "language": "英文",
+          "content": "I've always trusted my own judgment, Doctor. But if you're the one giving me orders, I would not question it whatsoever. After all, is that not what it means to be a comrade-in-arms?"
+        },
+        {
+          "language": "韩文",
+          "content": "난 내 판단에 항상 자신이 있어, 박사. 네 명령이라면 난 그걸 의심하거나 하지 않아. 전우라는 건 그런 거잖아?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我一向相信自己的判斷，博士。如果下命令的那個人是你，我不會有所質疑，所謂戰友，不就是這樣嗎。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "当然，我很乐意。"
+        },
+        {
+          "language": "日文",
+          "content": "もちろん喜んで。"
+        },
+        {
+          "language": "英文",
+          "content": "Of course, I'd love to."
+        },
+        {
+          "language": "韩文",
+          "content": "물론, 기꺼이."
+        },
+        {
+          "language": "繁体中文",
+          "content": "當然，我很樂意。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "放心，只是暂时代理。毕竟队长现在不在嘛。"
+        },
+        {
+          "language": "日文",
+          "content": "安心して、あくまで一時的な代役だから。隊長がいない間だけのね。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't worry, I'm just a stand-in. The captain's not here right now after all."
+        },
+        {
+          "language": "韩文",
+          "content": "안심해. 어디까지나 일시적인 대역이니까. 팀장이 없는 동안만이라 이거지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "放心，只是暫時代理。畢竟隊長現在不在嘛。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那么就出发吧，大家跟随我的路线行动。"
+        },
+        {
+          "language": "日文",
+          "content": "それじゃ出発しようか。みんな、僕のルートに沿って行動してね。"
+        },
+        {
+          "language": "英文",
+          "content": "In that case, let's go. Everyone, follow the route I drafted."
+        },
+        {
+          "language": "韩文",
+          "content": "그럼 출발할까. 다들 내 루트에 따라 행동해 줘."
+        },
+        {
+          "language": "繁体中文",
+          "content": "那麼就出發吧，大家跟隨我的路線行動。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "耳麦都检查好了吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ヘッドセットのチェックは済んだ？"
+        },
+        {
+          "language": "英文",
+          "content": "Have you finished checking the headsets?"
+        },
+        {
+          "language": "韩文",
+          "content": "헤드셋 체크는 끝났어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "耳麥都檢查好了嗎？"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没问题。"
+        },
+        {
+          "language": "日文",
+          "content": "問題ないよん。"
+        },
+        {
+          "language": "英文",
+          "content": "No problem."
+        },
+        {
+          "language": "韩文",
+          "content": "문제없어~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "沒問題。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "信号稳定，随时可以行动。"
+        },
+        {
+          "language": "日文",
+          "content": "信号は安定。いつでも行けるよ。"
+        },
+        {
+          "language": "英文",
+          "content": "The signal is stable. Ready to go at any time."
+        },
+        {
+          "language": "韩文",
+          "content": "신호는 안정적이야. 언제든 움직일 수 있어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "信號穩定，隨時可以行動。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "对面的目标是谁呢。"
+        },
+        {
+          "language": "日文",
+          "content": "相手のターゲットは誰かな。"
+        },
+        {
+          "language": "英文",
+          "content": "I wonder who our target will be."
+        },
+        {
+          "language": "韩文",
+          "content": "상대의 타겟은 누굴까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "對面的目標是誰呢。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "以主之名，聚集于此旗之下——嗯，我一直都想尝试说一次这种台词。"
+        },
+        {
+          "language": "日文",
+          "content": "主の名を掲げ、この旗の下へ集え――ふむ、こんなセリフを一度言ってみたかったんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Gather under this banner in the name of the Lord— Hah, I've always wanted to try saying that."
+        },
+        {
+          "language": "韩文",
+          "content": "주님의 이름을 걸고, 이 깃발 아래 모여라…… 후우~ 이런 대사, 한번 해보고 싶었거든."
+        },
+        {
+          "language": "繁体中文",
+          "content": "以主之名，聚集於此旗之下——嗯，我一直都想嘗試說一次這種台詞。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不，对不起，我并不信教。"
+        },
+        {
+          "language": "日文",
+          "content": "いや、悪いね、僕は別に信徒じゃないよ。"
+        },
+        {
+          "language": "英文",
+          "content": "S-sorry, I'm really not religious."
+        },
+        {
+          "language": "韩文",
+          "content": "이야~ 이거 미안해서 어쩌지? 난 딱히 신자는 아닌데 말이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "不，對不起，我並不信教。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "谁会！在战场上！拿旗子当武器啊！"
+        },
+        {
+          "language": "日文",
+          "content": "誰がっ！戦場でっ！旗を武器にするんだよっ！"
+        },
+        {
+          "language": "英文",
+          "content": "Who would! Use a flag! As a weapon! On the battlefield!"
+        },
+        {
+          "language": "韩文",
+          "content": "누가! 전장에서! 깃발을 무기로 쓰냐고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "誰會！在戰場上！拿旗子當武器啊！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看清了吗！"
+        },
+        {
+          "language": "日文",
+          "content": "これで分かったでしょう！"
+        },
+        {
+          "language": "英文",
+          "content": "See that?"
+        },
+        {
+          "language": "韩文",
+          "content": "이제 알겠지?!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "看清了嗎！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "速战速决！"
+        },
+        {
+          "language": "日文",
+          "content": "速戦即決！"
+        },
+        {
+          "language": "英文",
+          "content": "Let's end this quickly!"
+        },
+        {
+          "language": "韩文",
+          "content": "속전속결!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "速戰速決！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "再次确认，我们果然很适合搭档。"
+        },
+        {
+          "language": "日文",
+          "content": "僕たちがいいパートナーになるって、改めて証明されたね。"
+        },
+        {
+          "language": "英文",
+          "content": "This just confirms it. We really do make the best partners."
+        },
+        {
+          "language": "韩文",
+          "content": "우리가 좋은 파트너라는 게 다시 한번 증명됐네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "再次確認，我們果然很適合搭檔。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "配合得真不错，来击个掌吧。"
+        },
+        {
+          "language": "日文",
+          "content": "いい連携だったね、ハイタッチしようか。"
+        },
+        {
+          "language": "英文",
+          "content": "Our teamwork's pretty good. High five!"
+        },
+        {
+          "language": "韩文",
+          "content": "좋은 연계였어. 하이파이브 할까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不錯的配合，來擊個掌吧。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "丧失斗志的已经不算是敌人了，到此为止吧。"
+        },
+        {
+          "language": "日文",
+          "content": "戦意を失った者はもう敵じゃない、ここまでにしよう。"
+        },
+        {
+          "language": "英文",
+          "content": "Those who've lost their fighting spirit are no longer our enemies. Let's stop here."
+        },
+        {
+          "language": "韩文",
+          "content": "전의를 잃은 자는 더 이상 적이 아니야. 여기까지 하자."
+        },
+        {
+          "language": "繁体中文",
+          "content": "喪失鬥志的已經不算是敵人了，到此為止吧。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "太危险了，最后的防线由我来守，博士，请立即指挥撤退！"
+        },
+        {
+          "language": "日文",
+          "content": "このままじゃ危険だ、最後の防衛線は僕が守るから、ドクターは早く撤退命令を！"
+        },
+        {
+          "language": "英文",
+          "content": "It's too dangerous. I'll make sure our last line of defense holds. Doctor, please give the order to retreat!"
+        },
+        {
+          "language": "韩文",
+          "content": "이대로는 위험해! 마지막 방어선은 내가 지킬 테니까, 박사는 빨리 철수 명령을 내려줘!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "太危險了，最後的防線由我來守，博士，請立即指揮撤退！"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯？这个房间是不是翻新过？"
+        },
+        {
+          "language": "日文",
+          "content": "へぇ？この部屋はリフォームでもしたのかな？"
+        },
+        {
+          "language": "英文",
+          "content": "Hm? Has this room been renovated?"
+        },
+        {
+          "language": "韩文",
+          "content": "오호? 이 방, 리모델링이라도 한 건가?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯？這個房間是不是翻新過？"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "什么事？"
+        },
+        {
+          "language": "日文",
+          "content": "なになに？"
+        },
+        {
+          "language": "英文",
+          "content": "What's up?"
+        },
+        {
+          "language": "韩文",
+          "content": "아, 왜 그러는데?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "什麼事？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "听说我头上的这撮红发，掉光就不会再长了。问题很严峻，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "僕の髪のこの赤いところ、全て抜けてしまえばもう生えてこないんだって。由々しき問題だよ、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "I heard that if this tuft of red hair on my head falls out, it won't ever grow back. This is a very serious problem Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "내 머리카락에 이 빨간 부분 있잖아, 이건 빠져버리면 그 뒤론 안 자란다는 거 있지? 이건, 그냥 넘어갈 수 없는 문제라고, 박사."
+        },
+        {
+          "language": "繁体中文",
+          "content": "聽說我頭上的這撮紅髮，掉光就不會再長了。問題很嚴峻，博士。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "今天有什么任务吗？"
+        },
+        {
+          "language": "日文",
+          "content": "今日は何か任務ある？"
+        },
+        {
+          "language": "英文",
+          "content": "Got any missions for me today?"
+        },
+        {
+          "language": "韩文",
+          "content": "오늘은 뭐, 임무 없어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "今天有什麼任務嗎？"
+        }
+      ]
+    }
+  ]
+}

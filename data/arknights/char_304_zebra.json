@@ -1,0 +1,931 @@
+{
+  "name": "暴雨",
+  "charaKey": "char_304_zebra",
+  "images": [
+    "https://prts.wiki/images/c/c4/立绘_暴雨_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/4/45/立绘_暴雨_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/6/64/立绘_暴雨_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_304_zebra"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_304_zebra"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯，我来保护博士。"
+        },
+        {
+          "language": "日文",
+          "content": "はい、私がドクターを守ります。"
+        },
+        {
+          "language": "英文",
+          "content": "Yes, I'll protect the Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "네, 제가 박사님을 지키겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯，我來保護博士。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我可以去坐下？不行，我是护卫。身为护卫，就应该时刻守护在对象的身边才行......难道说，我站在这里给您添麻烦了吗？"
+        },
+        {
+          "language": "日文",
+          "content": "座っていていいと？いけません。私は護衛です。護衛たる者はいついかなる時も対象のすぐ側で守らねばなりません。……もしかして。私がお近くにいるのは邪魔でしたか？"
+        },
+        {
+          "language": "英文",
+          "content": "I may sit down? No, I mustn't. I'm a bodyguard. As a bodyguard, I must protect my target no matter the time and circumstance... Am I perhaps being a bother, standing here next to you?"
+        },
+        {
+          "language": "韩文",
+          "content": "앉아 있으라고요? 그럴 수는 없습니다. 저는 호위입니다. 호위를 맡는 사람은 언제 어느 때든 대상의 바로 곁에서 지켜줘야 합니다…… 설마, 제가 가까이 있어서 방해됐습니까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我可以去坐下？不行，我是護衛。身為護衛，就應該時刻守護在對象的身邊才行......難道說，我站在這裡給您添麻煩了嗎？"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "斑点，我以前见过他......不，只是我当时的部队经过他驻守的城市时，他有帮过我。他应该不记得了，没关系。"
+        },
+        {
+          "language": "日文",
+          "content": "スポットさんには、以前お会いしたことが……いえ、ただ私が所属していた部隊が彼の駐留する都市を通りがかった際に協力してくれたことがありました。彼は覚えていないでしょう、いいんです。"
+        },
+        {
+          "language": "英文",
+          "content": "I've met Spot before... Oh, no, the squad I was a part of traveled through a city he was stationed in, and he gave me a hand then. He most likely doesn't remember. It's okay."
+        },
+        {
+          "language": "韩文",
+          "content": "스팟 씨와는 예전에 만난 적이…… 아뇨, 단지 제가 소속되었던 부대가, 그가 체류하던 도시를 지날 때 협력해 준 적이 있었습니다. 그는 기억하지 못하겠죠, 괜찮습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "斑點，我以前見過他......不，只是我當時的部隊經過他駐守的城市時，他有幫過我。他應該不記得了，沒關係。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "（博士在做的事虽然看不懂，但是感觉好厉害）......欸，啊，我、我什么都没说，您听错了。"
+        },
+        {
+          "language": "日文",
+          "content": "（ドクターがなさることは全く意味がわかりませんが、なんだかすごいように感じます。）……え？あ、わ、私は何も話していません。空耳ですよ、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "(I'm not sure what the Doctor is doing, but that looks so amazing...) Eh? Uh... I-I didn't say anything. You misheard, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "(박사님이 하시는 일은 전혀 의미를 알 수 없지만, 뭔가 대단한 것 같습니다.) ……에? 아, 저, 저는 아무 말도 안 했습니다. 잘못 들은 거예요, 박사님."
+        },
+        {
+          "language": "繁体中文",
+          "content": "（博士在做的事雖然看不懂，但是感覺好厲害）......欸，啊，我、我什麼都沒說，您聽錯了。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，这些，我记得您刚才有提到，就去帮您拿来了。那个，我没有做多余的事吧？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、これ、先ほどおっしゃっていたので持ってきました。あの、私、余計なことはしていませんよね？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, you mentioned this just now, so I thought I'd bring you some. Umm, I'm not doing anything unnecessary, right?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 이걸 아까 말씀하시기에 가지고 왔습니다…… 저. 제가 괜한 짓을 한 건 아니겠죠?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，這些，我記得您剛才有提到，就去幫您拿來了。那個，我沒有做多餘的事吧？"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，对不起，上次任务我又一个人冲出去了......我当时看到有人受伤，就感觉脑子像充血一样，忘记了您的命令冲了过去，我不是故意的，请、请不要讨厌我......"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、すみません。この間の任務でまた一人で飛び出してしまいました……怪我をしている人が目に入って、頭に血が上ったみたいにドクターのご命令を忘れて飛び出しました。わざとじゃないんです、どうか、どうか私を嫌わないでください……"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, I'm so sorry. I rushed ahead by myself on my last mission... I noticed somebody was wounded, and it felt like the blood in my head just started to boil. I forgot your order and ran straight to her. I didn't mean to do that. P-Please don't hate me..."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 죄송합니다. 저번 임무에서 또 혼자 뛰쳐나가고 말았습니다…… 다친 사람이 눈에 들어와서, 피가 거꾸로 솟는 것처럼 그만, 박사님의 명령을 잊고 뛰쳐나갔습니다. 일부러 그런 게 아닙니다. 제발, 제발 저를 미워하지 말아 주세요……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，對不起，上次任務我又一個人衝出去了......我當時看到有人受傷，就感覺腦子像充血一樣，忘記了您的命令衝了過去，我不是故意的，請、請不要討厭我......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊，博士，您在找我吗？......不，我并不是躲着您，也没有讨厌您，只是......对不起，我不知道该怎么说......"
+        },
+        {
+          "language": "日文",
+          "content": "あの、ドクター、私をお探しですか？……いえ、ドクターを避けているわけでも、嫌いなわけでもありません。ただ……すみません、どう説明すればいいか分からなくて……"
+        },
+        {
+          "language": "英文",
+          "content": "Umm, Doctor, were you looking for me...? No, I wasn't trying to hide from you, and I definitely don't hate you... It's just that... Sorry, I'm not sure how to explain..."
+        },
+        {
+          "language": "韩文",
+          "content": "저기… 박사님. 저를 찾으셨습니까? 아뇨…… 박사님을 피하는 것도, 싫어하는 것도 아닙니다. 그저…… 죄송합니다, 어떻게 설명해야 좋을지 모르겠어서……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "啊，博士，您在找我嗎？......不，我並不是躲著您，也沒有討厭您，只是......對不起，我不知道該怎麼說......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在萨尔贡当兵的时候，其他人都不喜欢我，只有一个人对我很好，她是我最好的朋友。但是，最后她却骗了我......博士，我已经不知道了，我该怎么样去信任别人呢？"
+        },
+        {
+          "language": "日文",
+          "content": "サルゴンの軍にいた時は、周りのみんなに嫌われていました。でも一人だけとても良くしてくれる方がいて、彼女は私の一番の友達だったんです。ただ、最後には裏切られて……ドクター、私、もう分からないんです。どうやって他の人を信じれば良いのでしょうか？"
+        },
+        {
+          "language": "英文",
+          "content": "When I was in the Sargon army, most people didn't like me, but there was one person who treated me really well. She was my best friend, but... in the end... she betrayed me. Doctor, I don't know anymore. I'm not sure how to trust anyone now."
+        },
+        {
+          "language": "韩文",
+          "content": "사르곤의 군대에 있을 적에는 주위 사람들에게 미움받았습니다. 하지만 딱 한 분, 되게 잘 대해주셨던 분이 있었는데, 그녀는 제 최고의 친구였답니다. 다만, 마지막엔 배신을 당해서…… 박사님, 저는 이제 모르겠습니다. 어떻게 다른 사람을 믿으면 좋을까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "在薩爾貢當兵的時候，其他人都不喜歡我，只有一個人對我很好，她是我最好的朋友。但是，最後她卻騙了我......博士，我已經不知道了，我該怎麼樣去信任別人呢？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "（博士对我真好，明明我是个这么讨人厌的人，还愿意对我好好说话，果然，相信博士一定是没问题的吧。）啊，博士，我在听，嗯，我还是想相信博士。博士的敌人，就是我的敌人！"
+        },
+        {
+          "language": "日文",
+          "content": "（ドクターはなんて優しいんでしょうか。こんなに人に嫌われる人間なのに、そんな私に対してもちゃんと話をしてくれます。やっぱり、ドクターのことは信じても大丈夫なんですよね。） あ、ドクター、聞いています。はい、私はやはりドクターを信じたいと思います。ドクターの敵は私の敵です！"
+        },
+        {
+          "language": "英文",
+          "content": "(The Doctor is such a nice person. Everybody hates me, but he talks to me willingly. There shouldn't be any problem if I put my trust in the Doctor, right?) Oh, Doctor, I'm listening. Yes, I will always trust you. Whoever makes an enemy of you, they're making an enemy of me too!"
+        },
+        {
+          "language": "韩文",
+          "content": "(박사님은 어쩜 이렇게 상냥하실까요. 이렇게 남에게 미움받는 인간인데도 그런 저에게조차 제대로 말을 걸어 줍니다. 역시 박사님은 믿어도 괜찮겠죠.) 아… 박사님, 듣고 있습니다. 네, 저는 역시 박사님을 믿고 싶습니다. 박사님의 적은 제 적입니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "（博士對我真好，明明我是個這麼討人厭的人，還願意對我好好說話，果然，相信博士一定是沒問題的吧。）啊，博士，我在聽，嗯，我還是想相信博士。博士的敵人，就是我的敵人！"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "（有点想看......博士的睡脸）"
+        },
+        {
+          "language": "日文",
+          "content": "（ドクターの寝顔……少し見てみたいです。）"
+        },
+        {
+          "language": "英文",
+          "content": "(I kind of want to... watch the Doctor sleep.)"
+        },
+        {
+          "language": "韩文",
+          "content": "(박사님이 자는 모습…… 조금 보고 싶습니다.)"
+        },
+        {
+          "language": "繁体中文",
+          "content": "（有點想看......博士的睡臉）"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "（看起来，好像是个很和善的人，不知道真的像阿米娅说的那样好相处吗......）啊，那个，对不起，我、我走神了，干员代号，暴雨，报到。"
+        },
+        {
+          "language": "日文",
+          "content": "（見たところ確かに優しそうな方ですが、本当にアーミヤさんの言うように親しみやすい方なのでしょうか……）あ、その、すみません、ぼ、ぼうっとしてしまいました……コードネームヘビーレイン、着任しました。"
+        },
+        {
+          "language": "英文",
+          "content": "(Looks like a kind person, but is this guy really going to be as easy to get along with as Amiya said...?) Uh, um, I'm sorry, I-I was spacing out. Operator codename Heavyrain, reporting in."
+        },
+        {
+          "language": "韩文",
+          "content": "(겉보기엔 확실히 상냥해 보이는 분이지만, 정말 아미야 씨 말처럼 친해지기 쉬운 분일까요……) 아, 저, 죄송합니다. 머, 멍하니 있었습니다…… 코드네임 헤비레인, 착임했습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "（看起來，好像是個很和善的人，不知道真的像阿米婭說的那樣好相處嗎......）啊，那個，對不起，我、我恍神了，幹員代號，暴雨，報到。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯，我也会达到这个水平。"
+        },
+        {
+          "language": "日文",
+          "content": "はい、私もこのレベルになれるはずです。"
+        },
+        {
+          "language": "英文",
+          "content": "Yes, I should be able to reach this level too."
+        },
+        {
+          "language": "韩文",
+          "content": "네, 저도 이 레벨이 될 수 있을 겁니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯，我也會達到這個水準。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "（阿米娅也在这里，我难道要被开除了吗......）欸，升职？"
+        },
+        {
+          "language": "日文",
+          "content": "（アーミヤさんもいるなんて、私、もしかして解雇されるのでしょうか……）え、昇進ですか？"
+        },
+        {
+          "language": "英文",
+          "content": "(Amiya is here too. Am I getting fired...?) Eh? I'm getting promoted?"
+        },
+        {
+          "language": "韩文",
+          "content": "(아미야 씨도 있다니… 혹시 저… 해고되는 걸까요……) 어, 승진이요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "（阿米婭也在這裡，我難道要被開除了嗎......）欸，升職？"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我可不可以不升职......不，你们对我太好了，我有些害怕......"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、私、昇進せずにこのままではいけませんか……いえ、違うんです。皆さんが親切すぎて、少し怖いんです……"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, is it okay if I don't get promoted...? No, everyone is being so kind... I'm a little scared..."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님… 저, 승진하지 않고 이대로는 안 될까요? ……아뇨, 아닙니다. 다들 너무 친절해서 조금 무섭습니다……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，我可不可以不升職......不，你們對我太好了，我有些害怕......"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "遵命。"
+        },
+        {
+          "language": "日文",
+          "content": "仰せのままに。"
+        },
+        {
+          "language": "英文",
+          "content": "By your command."
+        },
+        {
+          "language": "韩文",
+          "content": "분부대로."
+        },
+        {
+          "language": "繁体中文",
+          "content": "遵命。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......我会尽力。"
+        },
+        {
+          "language": "日文",
+          "content": "……私、頑張ります。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll do my best!"
+        },
+        {
+          "language": "韩文",
+          "content": "……저, 열심히 하겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "......我會盡力。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "（决不能辜负博士的期望......）"
+        },
+        {
+          "language": "日文",
+          "content": "（ドクターの期待は絶対に裏切れません……。）"
+        },
+        {
+          "language": "英文",
+          "content": "(I mustn't betray the Doctor's high hopes...)"
+        },
+        {
+          "language": "韩文",
+          "content": "(박사님의 기대는 절대 배신할 수 없습니다……)"
+        },
+        {
+          "language": "繁体中文",
+          "content": "（絕不能辜負博士的期望......）"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "准备接敌！"
+        },
+        {
+          "language": "日文",
+          "content": "接敵準備！"
+        },
+        {
+          "language": "英文",
+          "content": "Incoming!"
+        },
+        {
+          "language": "韩文",
+          "content": "접적 준비!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "準備接敵！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我在。"
+        },
+        {
+          "language": "日文",
+          "content": "私はここに。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm here."
+        },
+        {
+          "language": "韩文",
+          "content": "저는 여기 있습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我在。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，有什么吩咐？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、ご用命ですか？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, your orders, please?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 명령을 내리시겠습니까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，有什麼吩咐？"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯。"
+        },
+        {
+          "language": "日文",
+          "content": "はい。"
+        },
+        {
+          "language": "英文",
+          "content": "Okay."
+        },
+        {
+          "language": "韩文",
+          "content": "네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里就好。"
+        },
+        {
+          "language": "日文",
+          "content": "ここで大丈夫です。"
+        },
+        {
+          "language": "英文",
+          "content": "Right here will do."
+        },
+        {
+          "language": "韩文",
+          "content": "여기면 괜찮습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這裡就好。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "去死。"
+        },
+        {
+          "language": "日文",
+          "content": "死んで。"
+        },
+        {
+          "language": "英文",
+          "content": "Die."
+        },
+        {
+          "language": "韩文",
+          "content": "죽어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "去死。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "闪开！"
+        },
+        {
+          "language": "日文",
+          "content": "どいて！"
+        },
+        {
+          "language": "英文",
+          "content": "Out of the way!"
+        },
+        {
+          "language": "韩文",
+          "content": "비켜!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "閃開！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "碍事！"
+        },
+        {
+          "language": "日文",
+          "content": "邪魔！"
+        },
+        {
+          "language": "英文",
+          "content": "You're in the way!"
+        },
+        {
+          "language": "韩文",
+          "content": "방해돼!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "礙事！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哼！"
+        },
+        {
+          "language": "日文",
+          "content": "ふん！"
+        },
+        {
+          "language": "英文",
+          "content": "Hmph!"
+        },
+        {
+          "language": "韩文",
+          "content": "흥!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哼！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我做的还好吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、私はちゃんとやれましたか？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, did I do okay?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 제가 제대로 해냈나요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，我做的還好嗎？"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我还能战斗。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、私はまだ戦えます。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, I can still fight."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 저는 아직 싸울 수 있습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，我還能戰鬥。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，让我去追吧。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、私に追わせてください。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, let me go after them."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 제가 쫓아가게 해 주세요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，讓我去追吧。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我来掩护你！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、私があなたを守ります！"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, I'll protect you!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 제가 당신을 지키겠습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，我來掩護你！"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛，好大......"
+        },
+        {
+          "language": "日文",
+          "content": "ロドス、大きいなぁ……"
+        },
+        {
+          "language": "英文",
+          "content": "Rhodes Island is so big..."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드, 크구나……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "羅德島，好大......"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "欸欸？！"
+        },
+        {
+          "language": "日文",
+          "content": "ええ？！"
+        },
+        {
+          "language": "英文",
+          "content": "Ehhh?!"
+        },
+        {
+          "language": "韩文",
+          "content": "헤엣?!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "欸欸？！"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士？！不要突然吓我......"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター？！いきなり驚かさないでください……"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor?! Please don't scare me...!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님?! 갑자기 놀라게 하지 말아주세요……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士？！不要突然嚇我......"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，有需要我的地方吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、私がお役に立てることはありますか？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, can I assist you in any way?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 제 도움이 필요한 곳이 있나요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，有需要我的地方嗎？"
+        }
+      ]
+    }
+  ]
+}

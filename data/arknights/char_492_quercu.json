@@ -1,0 +1,940 @@
+{
+  "name": "夏栎",
+  "charaKey": "char_492_quercu",
+  "images": [
+    "https://prts.wiki/images/4/4d/立绘_夏栎_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/0/02/立绘_夏栎_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/b/bc/立绘_夏栎_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/a/a3/立绘_夏栎_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_492_quercu"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_492_quercu"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_492_quercu"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_492_quercu"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我上一次当助手，好像还是十三四岁的时候跟着妈妈去治病。当然啦，现在我能做的事情可不止是发发草药，唱两句祝福的诗，有什么要我帮忙的就尽管说吧，别客气。"
+        },
+        {
+          "language": "日文",
+          "content": "前に助手なんてやったのは、十三か十四の時に母さんと一緒に診療に行った時だったかな。もちろん、今じゃ薬草を配って祝福の詩を詠む以外にも色々できるから、手伝ってほしいことがあったら遠慮せず言ってね。"
+        },
+        {
+          "language": "英文",
+          "content": "Last time I was an assistant, I think I was still thirteen or fourteen, treating people with my mum. Of course, I can do much more than hand out herbals and sing well-wishing verses now. If you need my help, ask away! Don't be shy."
+        },
+        {
+          "language": "韩文",
+          "content": "전에 조수 같은 걸 했던 게, 13인가 14살 때 어머니랑 같이 진료하러 갔을 때였나. 물론, 지금은 약초를 나눠주고 축복의 시를 읊는 것 이외에도 여러 가지 할 수 있으니까, 도와줬으면 하는 일이 있다면 사양 말고 말해."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我上一次當助手，好像還是十三四歲的時候跟著媽媽去治病。當然啦，現在我能做的事情可不止是發發草藥，唱兩句祝福的詩，有什麼要我幫忙的就儘管說吧，別客氣。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这次回到罗德岛，好像又见到了一些陌生面孔。博士，手下人越来越多的感觉怎么样？是不是感觉到了旺盛的生命力？我们那儿总说，用新生抗衡死亡。"
+        },
+        {
+          "language": "日文",
+          "content": "今回ロドスに戻ってきてから、また新顔っぽい子を何人か見かけたよ。ドクター、部下がどんどん増えてくのはどんな感じ？溢れんばかりの生命力ってやつを感じる？こういうのはね、私のとこじゃ「新生で死に抗う」って言うんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "I think I've seen a few new faces this time after returning to Rhodes Island. Doctor, how does it feel to have more and more people under you? Do you feel that brimming and bursting vitality? We always say back home, rage against death with new life."
+        },
+        {
+          "language": "韩文",
+          "content": "이번에 로도스 아일랜드에 돌아오고 나서, 또 신참인 듯한 아이들을 몇 명 봤어. 박사, 부하가 점점 늘어나는 건 어떤 느낌이야? 넘쳐흐르는 생명력 같은 게 느껴져? 이런 걸 말이야, 이 바닥에선 '신생으로 죽음에 맞선다'라고 표현해."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這次回到羅德島，好像又見到了一些陌生面孔。博士，手下人越來越多的感覺怎麼樣？是不是感覺到了旺盛的生命力？我們那兒總說，用新生抗衡死亡。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛舰桥攀爬大赛？那个不是被凯尔希医生中途叫停了嘛，说是参赛选手没有配备安全绳之类的设备。不过我也不太可能拿到冠军啦，还是凯尔希医生当时的脸色更好看。"
+        },
+        {
+          "language": "日文",
+          "content": "ブリッジクライミング大会？あれならケルシー先生に中止させられたでしょ。参加者が安全ロープを付けてないとかなんとかでさ。まぁどうせ私は優勝できっこなかったし、あの時のケルシー先生の顔色の方がよっぽど見ものだったよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Rhodes Island Bridge-Climbing Competition? Dr. Kal'tsit shut that down midway, didn't she? Citing lack of safety ropes for all the contestants and so on. Well, I wasn't that likely to win it, and the look on Dr. Kal'tsit's face was a much greater sight to see anyway."
+        },
+        {
+          "language": "韩文",
+          "content": "브릿지 클라이밍 대회? 그거라면 켈시 선생에 의해 중지당했잖아. 참가자가 안전 로프를 매지 않거나 해서 말이야. 뭐 어차피 나는 우승 못 했을 거고, 그때는 켈시 선생 표정이 더 봐줄 만 했어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "羅德島艦橋攀爬大賽？那個不是被凱爾希醫生中途叫停了嘛，說是參賽選手沒有配備安全繩之類的設備。不過我也不太可能拿到冠軍啦，還是凱爾希醫生當時的臉色更好看。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "桌上这些报告好像让你心神不宁啊。别担心，如果有什么危险，我能闻到味道。但如果你只是不想工作，那我就帮不了你了。"
+        },
+        {
+          "language": "日文",
+          "content": "君がやきもきしてるのは、この山積みの報告書のせいかな。心配しなくても、危険な香りは私が嗅ぎ分けてあげるって。だけど、ただやる気が出ないだけだったら、私もお手上げだね。"
+        },
+        {
+          "language": "英文",
+          "content": "You look put out with all these reports on your desk. Don't worry, if there's any danger, I'll know it by the scent. But! If you just don't want to work, I can't help you there."
+        },
+        {
+          "language": "韩文",
+          "content": "네가 애태우고 있는 건, 이 쌓여있는 보고서 때문이려나. 걱정하지 마, 위험한 냄새는 내가 구분해 줄게. 다만, 그저 근로의욕이 없는 거라면, 나도 어찌 도와줄 수 없네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "桌上這些報告好像讓你心神不寧啊。別擔心，如果有什麼危險，我能聞到味道。但如果你只是不想工作，那我就幫不了你了。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要收集情报，当然是独来独往比较方便，不过我每次在野外都能顺手捡一背包浆果回来，这种时候就会想，还是找人分享一下吧，不然都没人夸我挑得好。"
+        },
+        {
+          "language": "日文",
+          "content": "情報収集するならもちろん単独行動の方が動きやすいよ。でも、野外に行くといつも片手間でバッグ一杯にベリーを拾ってくるんだけど、その時ばっかりは他人と分かち合いたいって思うかな。そうじゃなきゃ、私の選別眼を誰にも褒めてもらえないからね。"
+        },
+        {
+          "language": "英文",
+          "content": "Of course it's much easier to gather intel when you're a lone operator. But every time I'm in the country, I pick a bag full of berries while I'm free, and I think to myself, maybe I want someone to share with after all. Otherwise, I've got no one to tell me how great I am at picking."
+        },
+        {
+          "language": "韩文",
+          "content": "정보를 수집한다면 물론 단독 행동이 더 움직이기 쉬워. 그렇지만, 야외에 나가면 항상 틈틈이 가방 가득 열매를 주워 담는데, 그때만큼은 다른 사람과 나누고 싶다고 생각하려나. 그러지 않고서야, 내 선별 능력을 아무도 칭찬해 주지 않으니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "要收集情報，當然是獨來獨往比較方便，不過我每次在野外都能順手撿一背包漿果回來，這種時候就會想，還是找人分享一下吧，不然都沒人誇我挑得好。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "能从我身上感受到军人的作风？你是看过我的档案才会先入为主地这么想吧。军人也是形形色色的哦，有的人只喜欢看书研究发信技术，有的人成天想着放假去城市里看偶像演唱会......"
+        },
+        {
+          "language": "日文",
+          "content": "軍人らしさが伝わってくる？私に関する資料を読んだ先入観のせいでしょ。軍人だって色んなタイプの人がいるんだから。本ばっかり読んで通信技術の研究に没頭してる人もいれば、休日にアイドルのコンサートに行くことで頭がいっぱいの人だって……"
+        },
+        {
+          "language": "英文",
+          "content": "You get the sense I served from how I work? You only got that impression from seeing my files. Service members come in all shapes and sizes, too. Some only like to read and research their comms tech, some spend all day dreaming about going on holidays in the city to see idol concerts..."
+        },
+        {
+          "language": "韩文",
+          "content": "군인다움이 느껴진다고? 나에 대한 자료를 읽어서 생긴 선입견 때문이겠지. 군인도 여러 가지 타입의 사람이 있으니까. 책만 읽고 통신 기술 연구에 몰두하는 사람이 있는가 하면, 휴일에 아이돌 콘서트 가는 것만 머리에 가득 찬 사람도 있고…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "能從我身上感受到軍人的作風？你是看過我的檔案才會先入為主地這麼想吧。軍人也是形形色色的哦，有的人只喜歡看書研究發信技術，有的人成天想著放假去城市裡看偶像演唱會......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，虽然你这会儿遮着脸，但能感觉到你比刚从切尔诺伯格回来的时候精神多了。不过，一直坐在这么矮的天花板底下，大脑也会变迟钝的，还是多去甲板上吹吹风吧。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、顔は見えないけど、チェルノボーグから帰ってきた時よりずっと元気になったみたいだね。だけど、こんな低い天井の下で働き詰めだと頭も鈍っちゃうから、時々デッキで風に当たった方がいいよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, you might be covering your face, but I can tell you've perked up a lot more compared to when you came back from Chernobog. But if you spend the whole time under this low of a ceiling, your mind'll get dull. Head out onto the deck every now and then. Get some fresh air. It's good for you."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 얼굴은 안 보이지만, 체르노보그에서 돌아왔을 때보다는 훨씬 건강해진 것 같네. 그래도, 이런 낮은 천장 밑에서 일만 하고 있으면 머리도 둔해지니까, 가끔은 갑판에서 바람 쐬는 게 좋을 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，雖然你現在遮著臉，但能感覺到你比剛從切爾諾伯格回來的時候精神多了。不過，一直坐在這麼矮的天花板底下，大腦也會變遲鈍的，還是多去甲板上吹吹風吧。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我在老家给人看病的时候，也遇到过几个自称“整合运动”的感染者......然后我跟他们打了一架。我见不得那些眼里带着火光的孩子被丢进无谓的暴力，将自己燃烧殆尽。"
+        },
+        {
+          "language": "日文",
+          "content": "故郷で診療をしてた頃は、「レユニオン」って名乗る感染者たちにも出会ったけど……喧嘩になっちゃってさ。目に燃えるような光を宿した子たちが、意味のない暴力の渦に投げ込まれて、そのまま燃え尽きちゃうのがどうしても許せなかったんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "When I looked after the ill back home, I ran across a couple Infected calling themselves 'Reunion'... and then I got into a fight with them. I can't stand it, seeing those children with firelight in their eyes lost in all the pointless violence, about to burn themselves through."
+        },
+        {
+          "language": "韩文",
+          "content": "고향에서 진료할 때, 리유니온이라고 이름을 대는 감염자들도 만났지만… 싸움으로 번지고 말았지. 눈에 타오르는 듯한 빛을 품은 아이들이 의미 없는 폭력의 소용돌이에 휘말려서, 그대로 불타 사라져 버리는 걸 도저히 놔둘 수가 없어서 말이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我在老家給人看病的時候，也遇到過幾個自稱“整合運動”的感染者......然後我跟他們打了一架。我見不得那些眼裡帶著火光的孩子被丟進無謂的暴力，將自己燃燒殆盡。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "离我们而去的那些人，得到大地的宽恕，沉睡在她的怀抱里......只是有的人走得太远，家乡丛林的根系也握不到他们的手。啊，这么严肃的话不适合我？你真该看看我在老家工作的样子。"
+        },
+        {
+          "language": "日文",
+          "content": "旅立っていった人たちは、大地の赦しを受けて、その胸の中で眠る……だけど、故郷の森の根が届かないところまで離れちゃう人もいるんだ。あ、こんな真面目な話は私らしくなかった？私の故郷での働きっぷり、一度見せてあげたいよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Those who depart us receive the land's forgiveness, and rest in her embrace... but some people go too quickly, the roots of the forests of their homes unable to hold onto their hands. Was that not like me, being so serious? You really should've seen me when I worked back home."
+        },
+        {
+          "language": "韩文",
+          "content": "우리를 떠나간 사람들은, 대지의 용서를 받고, 그 품에서 잠든다… 하지만, 고향의 숲 뿌리가 닿지 않는 곳까지 멀어져 버린 사람도 있지. 아, 이런 진지한 이야기는 나답지 않았어? 내가 고향에서 일하는 모습을 한번 보여주고 싶네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "離我們而去的那些人，得到大地的寬恕，沉睡在她的懷抱裡......只是有的人走得太遠，家鄉叢林的根系也握不到他們的手。啊，這麼嚴肅的話不適合我？你真該看看我在老家工作的樣子。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不知道博士会不会也睡得很浅呢......还是安静地为他站会儿岗吧。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターも眠りが浅いのかな……静かに見張ってよう。"
+        },
+        {
+          "language": "英文",
+          "content": "Not sure if the Doctor's a light sleeper... I'd better stand watch quietly."
+        },
+        {
+          "language": "韩文",
+          "content": "박사도 잠이 얕은 걸까… 조용히 지켜보자."
+        },
+        {
+          "language": "繁体中文",
+          "content": "不知道博士會不會也睡得很淺呢......還是安靜地為他站會兒崗吧。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你好，博士，叫我夏栎就好。虽然这是初次见面，但你桌上那些维多利亚北部的情报，就是我发回来的......喂，连你也要说我报告格式不标准？"
+        },
+        {
+          "language": "日文",
+          "content": "初めましてドクター、クエルクスって呼んで。会うのは初めてだけど、そこに置いてあるヴィクトリア北部の情報は私が送ったやつだからね……ちょっと、君にまで報告書の体裁を突っ込まれなきゃいけないの？"
+        },
+        {
+          "language": "英文",
+          "content": "Nice to meet you, Doctor. Call me Quercus. It's the first time we've met, but the intel on your desk about northern Victoria is straight from me... What, even you're going to tell me my reports aren't standard?"
+        },
+        {
+          "language": "韩文",
+          "content": "안녕 박사. 퀘르쿠스라 불러 줘. 만나는 건 처음이지만, 거기에 둔 빅토리아 북부 정보는 내가 보낸 거니까… 잠깐, 너한테까지 보고서 형식을 지적받아야 하는 거야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你好，博士，叫我夏櫟就好。雖然這是初次見面，但你桌上那些維多利亞北部的情報，就是我發回來的......喂，連你也要說我報告格式不標準？"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真希望我能早点学到这些。"
+        },
+        {
+          "language": "日文",
+          "content": "もっと早くこんな感じにできるようになりたかったな。"
+        },
+        {
+          "language": "英文",
+          "content": "I wish I'd learned all this a little earlier."
+        },
+        {
+          "language": "韩文",
+          "content": "하루라도 빨리 배웠으면 좋았을 텐데."
+        },
+        {
+          "language": "繁体中文",
+          "content": "真希望我能早點學到這些。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "怎么突然想要给我升职？看来是我的糖浸果脯让人印象深刻。"
+        },
+        {
+          "language": "日文",
+          "content": "急に昇進なんてどういうこと？さては私お手製のフルーツの砂糖漬けが忘れられないんだね。"
+        },
+        {
+          "language": "英文",
+          "content": "What's this promotion come out of nowhere for? My candied fruit must make a strong impression."
+        },
+        {
+          "language": "韩文",
+          "content": "갑자기 승진이라니 무슨 소리야? 결국 내 수제 과일 설탕 절임을 잊을 수가 없게 됐나 보네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "怎麼突然想要給我升職？看來是我的糖浸果脯讓人印象深刻。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "家乡的源石技艺，原本是要做选择的，选择威慑他人，或是救助他人......我贪心的结果，就是哪一边都没做好。即使这样，你也要信任我吗？"
+        },
+        {
+          "language": "日文",
+          "content": "私の故郷では、アーツは本来先に用途を決めとかないといけないんだ。相手を威圧するために使うか、それとも救うために使うか……私はといえば、欲張りすぎちゃって、どっちも上手くできなかったけどね。そんな私を、君は信じてくれるの？"
+        },
+        {
+          "language": "英文",
+          "content": "In my hometown, you had to make a choice with Originium Arts. Whether to terrorize others, or to aid them... The result of my greed was that I couldn't commit properly to either. Even so, would you still have faith in me?"
+        },
+        {
+          "language": "韩文",
+          "content": "내 고향에서 아츠는 원래 용도를 먼저 정해 놔야만 했어. 상대를 제압하기 위해서 사용할지, 아니면 구하기 위해서 사용할지… 나 같은 경우엔 너무 욕심을 부려서, 둘 다 잘 안 됐지만. 너는 그런 나를 믿어 주는 거야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "家鄉的源石技藝，原本是要做選擇的，選擇威懾他人，或是救助他人......我貪心的結果，就是哪一邊都沒做好。即使這樣，你也要信任我嗎？"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "只要是你的安排，我就没意见。"
+        },
+        {
+          "language": "日文",
+          "content": "君の取り決めなら文句はないよ。"
+        },
+        {
+          "language": "英文",
+          "content": "As long as it's your decision, I'll have no objections."
+        },
+        {
+          "language": "韩文",
+          "content": "네 결정이라면 불만은 없어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "只要是你的安排，我就沒意見。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "责任重大啊。"
+        },
+        {
+          "language": "日文",
+          "content": "責任重大だね。"
+        },
+        {
+          "language": "英文",
+          "content": "It's a major responsibility."
+        },
+        {
+          "language": "韩文",
+          "content": "책임이 막중하네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "責任重大啊。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要不要考虑一下地面以外的行军路线？"
+        },
+        {
+          "language": "日文",
+          "content": "地上以外の進行ルートも考えてみない？"
+        },
+        {
+          "language": "英文",
+          "content": "Shouldn't we consider marching routes other than on the ground?"
+        },
+        {
+          "language": "韩文",
+          "content": "지상 이외의 진행 루트도 생각해 보지 않을래?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "要不要考慮一下地面以外的行軍路線？"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "战斗的目标越明确，战术也就越清晰。"
+        },
+        {
+          "language": "日文",
+          "content": "戦いの目的が明確になれば、戦術もクリアになる。"
+        },
+        {
+          "language": "英文",
+          "content": "The more defined a battle's goal is, the clearer tactics become."
+        },
+        {
+          "language": "韩文",
+          "content": "싸움의 목적이 명확해지면, 전술도 분명해지지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "戰鬥的目標越明確，戰術也就越清晰。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大地是会震怒，还是会展现她的慈悲呢？"
+        },
+        {
+          "language": "日文",
+          "content": "大地は怒り狂うか、はたまた慈悲を示すか。"
+        },
+        {
+          "language": "英文",
+          "content": "Will the land shake with fury, or display her mercy?"
+        },
+        {
+          "language": "韩文",
+          "content": "대지는 분노하며 날뛸 것인가, 혹은 자비를 보일 것인가."
+        },
+        {
+          "language": "繁体中文",
+          "content": "大地是會震怒，還是會展現她的慈悲呢？"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你如果还在犹豫，我可以提供建议。"
+        },
+        {
+          "language": "日文",
+          "content": "まだ悩んでるなら、私がアドバイスしようか。"
+        },
+        {
+          "language": "英文",
+          "content": "If you're still hesitating, I can give some advice."
+        },
+        {
+          "language": "韩文",
+          "content": "아직 고민 중이라면, 내가 조언해 줄까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你如果還在猶豫，我可以提供建議。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会守在这里。"
+        },
+        {
+          "language": "日文",
+          "content": "ここで守る。"
+        },
+        {
+          "language": "英文",
+          "content": "I will stand guard here."
+        },
+        {
+          "language": "韩文",
+          "content": "여기서 지킨다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我會守在這裡。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "开始收集战场情报。"
+        },
+        {
+          "language": "日文",
+          "content": "戦場の情報収集を始める。"
+        },
+        {
+          "language": "英文",
+          "content": "Beginning collection of battlefield information."
+        },
+        {
+          "language": "韩文",
+          "content": "전장의 정보 수집을 시작한다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "開始收集戰場情報。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大地终将宽恕所有人，但不是现在。"
+        },
+        {
+          "language": "日文",
+          "content": "大地はやがて全ての人を赦す。だけど、まだその時じゃない。"
+        },
+        {
+          "language": "英文",
+          "content": "The land will forgive all in the end, but not now."
+        },
+        {
+          "language": "韩文",
+          "content": "대지는 결국 모든 사람을 용서하지. 하지만, 아직은 그럴 때가 아니야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "大地終將寬恕所有人，但不是現在。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "风吹过时，树叶会说出沉睡者的故事。"
+        },
+        {
+          "language": "日文",
+          "content": "風吹けば、木の葉が眠りし者を語る。"
+        },
+        {
+          "language": "英文",
+          "content": "The wind blows through; the leaves tell stories of those who sleep."
+        },
+        {
+          "language": "韩文",
+          "content": "바람이 불면, 나뭇잎이 잠든 이의 이야기를 한다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "風吹過時，樹葉會說出沉睡者的故事。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "树啊，向我伸出手吧。"
+        },
+        {
+          "language": "日文",
+          "content": "樹よ、私に手を差し伸べて。"
+        },
+        {
+          "language": "英文",
+          "content": "Arbor, reach your hands to me."
+        },
+        {
+          "language": "韩文",
+          "content": "나무여, 내게 손을 내밀어라."
+        },
+        {
+          "language": "繁体中文",
+          "content": "樹啊，向我伸出手吧。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你的面容，我也记住了。"
+        },
+        {
+          "language": "日文",
+          "content": "君の顔も、覚えたよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I remember your face as well, now."
+        },
+        {
+          "language": "韩文",
+          "content": "네 얼굴도, 기억해 뒀어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你的面容，我也記住了。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真了不起！为了表达敬意，我都想正经地行个礼了。"
+        },
+        {
+          "language": "日文",
+          "content": "いやぁすごいね！敬意を表して、真面目に敬礼したくなっちゃったよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Wow, incredible! I've got the urge to snap a formal salute just to show my respect."
+        },
+        {
+          "language": "韩文",
+          "content": "우와 대단해! 경의를 표하고, 진지하게 경례를 하고 싶어졌어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "真了不起！為了表達敬意，我都想正經地行個禮了。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "完美的行动。这样回去吃饭也会比较香。"
+        },
+        {
+          "language": "日文",
+          "content": "完璧な作戦だったね。これで帰った後のご飯もきっと美味しくなるよ。"
+        },
+        {
+          "language": "英文",
+          "content": "That was a perfect operation! Once we're back, dinner will taste even better."
+        },
+        {
+          "language": "韩文",
+          "content": "완벽한 작전이었네. 이러면 돌아간 후에 먹는 밥도 분명 맛있어질 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "完美的行動。這樣回去吃飯也會比較香。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "他们跑不远，但是，你打算追吗？"
+        },
+        {
+          "language": "日文",
+          "content": "遠くまでは逃げられないと思う。だけど、追うつもり？"
+        },
+        {
+          "language": "英文",
+          "content": "They can't be running far. Do you plan to pursue?"
+        },
+        {
+          "language": "韩文",
+          "content": "멀리까지는 도망 못 갈 거야. 그래도, 쫓아갈 생각이야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "他們跑不遠，但是，你打算追嗎？"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没关系，组织撤退的工作交给我吧。你来准备下一次反攻。"
+        },
+        {
+          "language": "日文",
+          "content": "大丈夫、撤退の引率は私に任せて。君は反撃の準備をお願い。"
+        },
+        {
+          "language": "英文",
+          "content": "It's alright, let me organize the retreat. I leave our next counterattack to you."
+        },
+        {
+          "language": "韩文",
+          "content": "괜찮아, 철수 인솔은 내게 맡겨. 너는 반격 준비를 부탁해."
+        },
+        {
+          "language": "繁体中文",
+          "content": "沒關係，組織撤退的工作交給我吧。你來準備下一次反攻。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在这里关久了，总觉得有点呼吸不畅。"
+        },
+        {
+          "language": "日文",
+          "content": "こんなところにずっと閉じこもってると、なんか息が詰まるよ。"
+        },
+        {
+          "language": "英文",
+          "content": "It always feels a little hard to catch my breath when I'm shut in here for long."
+        },
+        {
+          "language": "韩文",
+          "content": "이런 곳에 계속 틀어박혀 있으면, 왠지 숨이 막혀."
+        },
+        {
+          "language": "繁体中文",
+          "content": "在這裡關久了，總覺得有點呼吸不暢。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯？你也和那些孩子一样喜欢恶作剧吗？"
+        },
+        {
+          "language": "日文",
+          "content": "おっと。君もあの子たちみたいにイタズラ好きなのかな？"
+        },
+        {
+          "language": "英文",
+          "content": "Oh? Are you as much of a prank-lover as all those kids?"
+        },
+        {
+          "language": "韩文",
+          "content": "어머. 너도 저 아이들처럼 장난을 좋아하는 거야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯？你也和那些孩子一樣喜歡惡作劇嗎？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你说想听我唱歌？你知道我们的诗歌是唱给谁的吗？一般来说，是重病难医的人哦。"
+        },
+        {
+          "language": "日文",
+          "content": "詩が聴きたいって？私たちの詩が本来誰に詠むものか知ってて言ってる？普通は重症患者に詠んであげるんだよ。"
+        },
+        {
+          "language": "英文",
+          "content": "You want to hear me sing? Do you know who our songs are sung for? Usually, it's for the gravely ill."
+        },
+        {
+          "language": "韩文",
+          "content": "시를 듣고 싶다고? 우리 시가 원래 누굴 위해 불리는지 알고 말하는 거야? 일반적으로 중환자한테 불러 주는 거라고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你說想聽我唱歌？你知道我們的詩歌是唱給誰的嗎？一般來說，是重病難醫的人哦。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你又回到这间办公室了，博士，身体和大脑都好好放松过了吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターったらまた執務室に戻ってきちゃって。身体も頭も、ちゃんとリフレッシュした？"
+        },
+        {
+          "language": "英文",
+          "content": "You're back here in your office again, Doctor. Have you refreshed your body and mind well?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 다시 집무실로 돌아왔네. 몸도 머리도, 제대로 재충전한 거야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你又回到這間辦公室了，博士，身體和大腦都好好放鬆過了嗎？"
+        }
+      ]
+    }
+  ]
+}

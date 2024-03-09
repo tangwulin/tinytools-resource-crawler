@@ -1,0 +1,938 @@
+{
+  "name": "红云",
+  "charaKey": "char_190_clour",
+  "images": [
+    "https://prts.wiki/images/3/3d/立绘_红云_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/d/d9/立绘_红云_2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_190_clour"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_190_clour"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_190_clour"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_190_clour"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你叫我来，是有新的狩猎任务吗？哦，没有吗......"
+        },
+        {
+          "language": "日文",
+          "content": "オレを呼んだってことは新しい任務だな？なんだよ、違うのか…。"
+        },
+        {
+          "language": "英文",
+          "content": "Did you call me here for a new hunt? No? Gah…"
+        },
+        {
+          "language": "韩文",
+          "content": "나를 불렀다는 건 새 임무가 있다는 거지? 뭐야, 아닌가……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你叫我來，是有新的狩獵任務嗎？哦，沒有嗎......"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这个爪形吊坠？是我的复仇的纪念品，那些伤害过我同伴的乌萨斯佣兵会把类似的东西当成狗牌，所以我才不会认错他们。"
+        },
+        {
+          "language": "日文",
+          "content": "この爪形の首飾りか？これはオレの復讐の記念品だ。オレの仲間を奪ったウルサスの傭兵共がこれをドッグタグ代わりに身に着けていてな、奴らを絶対に見間違わないようにってオレも持ってんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "This claw pendant? It's a symbol of revenge. The Ursus mercenaries who hurt my people treat these things as dogtags, so there's no mistaking them."
+        },
+        {
+          "language": "韩文",
+          "content": "이 발톱 모양 목걸이? 이건 내 복수의 기념품이야. 내 동료를 앗아간 우르수스 용병들이 이걸 군번줄 대신 몸에 달고 다니더라고. 녀석들을 절대로 착각하지 않도록, 나도 갖고 있는 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這個爪形吊墜？是我復仇的紀念品，那些傷害過我同伴的烏薩斯傭兵會把類似的東西當成狗牌，所以我才不會認錯他們。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的左手是在一次狩猎中被野兽撕碎的，幸好一位机械师帮我制作了义肢，我才能重新拉动弓弦。"
+        },
+        {
+          "language": "日文",
+          "content": "オレの左腕は狩りの最中に野獣に引きちぎられちまったんだ。だが、運がいいことにある機械師が義手を作ってくれてな。おかげで今もこうして弓を引けてるってわけさ。"
+        },
+        {
+          "language": "英文",
+          "content": "A beast took my left hand when I was hunting. Luckily, a mechanic gave me a prosthetic limb, so I can draw my bowstring again."
+        },
+        {
+          "language": "韩文",
+          "content": "내 왼팔은 사냥 도중에 야수한테 뜯겨버렸어. 뭐 근데, 운 좋게도 어떤 기계공이 의수를 만들어 줬거든. 덕분에 지금도 이렇게 활을 쏠 수 있는 거지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我的左手是在一次狩獵中被野獸撕碎的，幸好一位機械師幫我製作了義肢，我才能重新拉動弓弦。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "若是以前，我绝对会把嘲讽我伤痕的家伙一箭一箭地射成筛子！不过现在......呵，为了那种人动手，真是一点都不值得。"
+        },
+        {
+          "language": "日文",
+          "content": "昔はオレの傷跡をあざ笑う奴がいれば絶対針山にしてやってたが……今は、そんな奴には手を出す価値もないんだってわかったよ。"
+        },
+        {
+          "language": "英文",
+          "content": "There was a time when I would've turned anyone who mocked my scars into a pincushion! But if you ask me now... Well, people like that aren't even worth the trouble."
+        },
+        {
+          "language": "韩文",
+          "content": "옛날엔 내 흉터를 비웃는 녀석이 있으면 반드시 고슴도치로 만들어 줬는데…… 지금은 그런 녀석한테는 손 쓸 가치도 없다는 걸 깨달았어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "若是以前，我絕對會把嘲諷我傷痕的傢伙一箭一箭地射成篩子！不過現在……呵，為了那種人動手，真是一點都不值得。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "若是有实在难以决断的事就凭直觉去选择，身体是不会骗人的，这可是资深猎手的经验。"
+        },
+        {
+          "language": "日文",
+          "content": "決断が難しい時は直感で決めちまえばいい。自分の身体は嘘をつかねぇからな。ハンターの経験則ってやつだ。"
+        },
+        {
+          "language": "英文",
+          "content": "If you're ever facing a difficult decision, let your instincts decide for you. Your body won't lie—This is what I've learned after a lifetime of hunts."
+        },
+        {
+          "language": "韩文",
+          "content": "결단을 내리기 어려울 때는 직감으로 정해버리면 돼. 자기 몸은 거짓말을 안 하니까. 이것도 나름 사냥꾼의 경험이라 할 수 있겠지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "若是有實在難以決斷的事就憑直覺去選擇，身體是不會騙人的，這可是資深獵手的經驗。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "自从同伴们逝去之后，我一个人生活很久了，所以这种每天都要和人打交道的日子，我还不太适应......但既然你给了我充分的信任，任用我，那我一定得回报你。"
+        },
+        {
+          "language": "日文",
+          "content": "同胞たちがみんな逝っちまって、一人きりで生活をするようになって長い。だから、今みたいに毎日誰かと接するのにはまだ慣れないんだ……でもあんたはオレのことを信頼してくれてるから、それには絶対応えてみせるぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "I've been living alone ever since my village was wiped out. So, I… I'm still getting used to being around people... But since you trust me and give me important work, I swear I'll return the favor."
+        },
+        {
+          "language": "韩文",
+          "content": "동포들이 모두 죽어버려서, 혼자서 생활한 지는 꽤 됐거든. 그래서, 지금처럼 매일 누군가와 접하는 건 아직 적응이 안 돼…… 하지만 넌 나를 신뢰해 주니까, 거기엔 반드시 보답하도록 할게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "自從同伴們逝去之後，我一個人生活很久了，所以這種每天都要和人打交道的日子，我還不太適應......但既然你給了我充分的信任，任用我，那我一定得回報你。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呃，义肢手指好像被小石子卡住了？讨厌，得去找机械师调整一下......不、不用你帮忙，我一个人也能行！"
+        },
+        {
+          "language": "日文",
+          "content": "うっ、指の関節に小石が入り込んじまったみたい。ちっ、機械師に見てもらわないとな……だ、大丈夫だって、オレ一人でどうにかなる！"
+        },
+        {
+          "language": "英文",
+          "content": "Ehh, a pebble got stuck in my prosthetic finger...? Darn it, I'm going to need a mechanic to fix it... N-No, I don't need you, I can handle this myself!"
+        },
+        {
+          "language": "韩文",
+          "content": "윽, 손가락 관절에 돌멩이가 들어갔나 봐. 쳇, 기계공한테 봐달라고 해야겠네…… 괘, 괜찮다니까, 나 혼자 해결할 수 있어!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "呃，義肢手指好像被小石子卡住了？討厭，得去找機械師調整一下......不、不用你幫忙，我一個人也能行！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你说，今后不会让我再失去同伴了？哼，是不是在说大话，我可是要亲眼见证的！"
+        },
+        {
+          "language": "日文",
+          "content": "「もう同胞を失うことはない」って？ふん、でかい口を叩くのはいいが、この目で確かめるまで信じねぇから覚悟しとけよ！"
+        },
+        {
+          "language": "英文",
+          "content": "You'll make sure I don't ever lose anyone else? Hmph. Big words. But I'll see for myself if you can back those up."
+        },
+        {
+          "language": "韩文",
+          "content": "“이제 동포를 잃을 일은 없다”고? 흥, 큰소리치는 건 좋지만, 내 눈으로 직접 확인할 때까진 못 믿으니까 각오해 두라고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你說，今後不會讓我再失去同伴了？哼，是不是在說大話，我可是要親眼見證的！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里的医生说可以抹去我身上新添的伤疤，但我拒绝了。我要留着它们，因为这是为你战斗时留下的......你，能明白我的意思吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ここの医者にかかれば最近の傷跡ならキレイに取っちまえるらしいが、断っといた。あんたのために戦ってできた傷跡は残しておきたいんだ……オレの言ってる意味、わかるか？"
+        },
+        {
+          "language": "英文",
+          "content": "The doctors here offered to get rid of my more recent scars, but I said no. I want to keep them. They're proof of my work here... You, you understand what I'm getting at?"
+        },
+        {
+          "language": "韩文",
+          "content": "여기 의사가 요즘 생긴 흉터는 깨끗하게 없앨 수 있다 그랬는데, 내가 됐다 그랬어. 널 위해 싸우다 생긴 흉터는 남겨두고 싶거든…… 내가 하는 말, 무슨 뜻인지 알았지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這裡的醫生說可以抹去我身上新添的傷疤，但我拒絕了。我要留著它們，因為這是為你戰鬥時留下的......你，能明白我的意思嗎？"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "睡着了？这个人什么场合都睡得着吗？这种体质倒是挺像我们猎人的......"
+        },
+        {
+          "language": "日文",
+          "content": "寝てんのか？……こいつはどんな状況でも寝れるんだな。ハンターにゃ向いてるかもな……。"
+        },
+        {
+          "language": "英文",
+          "content": "You're sleeping? Looks like this one can fall asleep almost anywhere. Well, that's a trait we hunters share…"
+        },
+        {
+          "language": "韩文",
+          "content": "자는 거야? ……이 녀석은 어떤 상황에서도 잠이 드는구나. 사냥꾼이 체질일지도 모르겠는데……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "睡著了？這個人什麼場合都睡得著嗎？這種體質倒是挺像我們獵人的......"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "红云，猎人。给我工作吧，你不会失望的。"
+        },
+        {
+          "language": "日文",
+          "content": "ヴァーミル、ハンターだ。オレに仕事をくれ、失望はさせねぇからさ。"
+        },
+        {
+          "language": "英文",
+          "content": "Vermeil, hunter. You won't regret giving me work."
+        },
+        {
+          "language": "韩文",
+          "content": "버메일, 사냥꾼이야. 나한테 일을 줘. 실망은 시키지 않을 테니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "紅雲，獵人。給我工作吧，你不會失望的。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "还可以观看更多一些吗？"
+        },
+        {
+          "language": "日文",
+          "content": "もっとたくさん見せてくれるか？"
+        },
+        {
+          "language": "英文",
+          "content": "Can I take another look at that?"
+        },
+        {
+          "language": "韩文",
+          "content": "이런 거, 더 보여줄 수 있어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "還可以觀看更多一些嗎？"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "谢谢你，可......让我这样的人晋升，真的没问题吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ありがてぇが……これでいいのか？オレみたいなのを昇進させて。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you, but... are you sure it's okay to promote someone like me?"
+        },
+        {
+          "language": "韩文",
+          "content": "고맙기는 한데…… 이래도…… 돼? 나 같은 걸 승진시켜도."
+        },
+        {
+          "language": "繁体中文",
+          "content": "謝謝你，可......讓我這樣的人晉升，真的沒問題嗎？"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "矿石病也好，剩下的生命也好，已经全都无所谓了。现在让我最快乐的事，不就是和你一起并肩作战吗？"
+        },
+        {
+          "language": "日文",
+          "content": "鉱石病とか、残りの寿命とか、もうどうでもいいんだ。今のオレが一番楽しいと思えるのは、あんたと肩を並べて戦うことだからな。"
+        },
+        {
+          "language": "英文",
+          "content": "I don't really care about stuff like Oripathy or 'the rest of my life.' Right now, the happiest thing I can imagine is fighting by your side."
+        },
+        {
+          "language": "韩文",
+          "content": "광석병이나 남은 수명 같은 건 이제 아무래도 상관없어. 지금의 나에게 가장 즐거운 건 너와 어깨를 나란히 하고 싸우는 거니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "礦石病也好，剩下的生命也好，已經全都無所謂了。現在讓我最快樂的事，不就是和你一起並肩作戰嗎？"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "来了。"
+        },
+        {
+          "language": "日文",
+          "content": "任せろ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm here."
+        },
+        {
+          "language": "韩文",
+          "content": "맡겨둬."
+        },
+        {
+          "language": "繁体中文",
+          "content": "來了。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要我当队长？我......真的合适吗？"
+        },
+        {
+          "language": "日文",
+          "content": "隊長をオレに任せるだと？オレに……できるか？"
+        },
+        {
+          "language": "英文",
+          "content": "You want me to be the captain? Am I... really cut out for the job?"
+        },
+        {
+          "language": "韩文",
+          "content": "팀장을 나한테 맡긴다고? 내가…… 할 수 있을까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "要我當隊長？我......真的合適嗎？"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大捕猎，即将开幕！"
+        },
+        {
+          "language": "日文",
+          "content": "ワイルドハントを始めようぜ！"
+        },
+        {
+          "language": "英文",
+          "content": "The big game hunt is about to start!"
+        },
+        {
+          "language": "韩文",
+          "content": "와일드 헌트를 시작해 보자고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "大捕獵，即將開幕！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "踏入陷阱的你们，还没明白自己的处境吗？"
+        },
+        {
+          "language": "日文",
+          "content": "お前らはもう罠の中だ。まだ気付かねぇのか？"
+        },
+        {
+          "language": "英文",
+          "content": "You don't seem to understand your situation here. You've fallen into my trap."
+        },
+        {
+          "language": "韩文",
+          "content": "너희는 이미 함정에 빠진 거야. 아직도 모르겠어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "踏入陷阱的你們，還沒明白自己的處境嗎？"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让我上。"
+        },
+        {
+          "language": "日文",
+          "content": "オレにやらせろ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll go ahead."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 하게 해줘."
+        },
+        {
+          "language": "繁体中文",
+          "content": "讓我上。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "下令吧。"
+        },
+        {
+          "language": "日文",
+          "content": "命令をくれ。"
+        },
+        {
+          "language": "英文",
+          "content": "Give me the order."
+        },
+        {
+          "language": "韩文",
+          "content": "명령을 내려줘."
+        },
+        {
+          "language": "繁体中文",
+          "content": "下令吧。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我闻到风中的猎物气味了。"
+        },
+        {
+          "language": "日文",
+          "content": "風に獲物のにおいが混じってる。"
+        },
+        {
+          "language": "英文",
+          "content": "I can smell the game on the wind."
+        },
+        {
+          "language": "韩文",
+          "content": "바람에 사냥감의 냄새가 섞여 있어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我聞到風中的獵物氣味了。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我就在这等着。"
+        },
+        {
+          "language": "日文",
+          "content": "オレはここで待ってる。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll be waiting here."
+        },
+        {
+          "language": "韩文",
+          "content": "나는 여기서 기다릴게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我就在這等著。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "再不逃的话，你就只有一个下场了！"
+        },
+        {
+          "language": "日文",
+          "content": "逃げねぇってんなら、お前らの結末は一つだ！"
+        },
+        {
+          "language": "英文",
+          "content": "You'd better start running, or there's only one way this ends."
+        },
+        {
+          "language": "韩文",
+          "content": "도망치지 않는다면 너희의 결말은 하나다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "再不逃的話，你就只有一個下場了！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别小看荒野的子民！"
+        },
+        {
+          "language": "日文",
+          "content": "荒野育ちをなめんな！"
+        },
+        {
+          "language": "英文",
+          "content": "Don't underestimate the people of the wilderness."
+        },
+        {
+          "language": "韩文",
+          "content": "황야에서 자란 사람을 얕보지 마라!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "別小看荒野的子民！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "再看这一箭！"
+        },
+        {
+          "language": "日文",
+          "content": "この矢を見ろ！"
+        },
+        {
+          "language": "英文",
+          "content": "Watch where this arrow goes!"
+        },
+        {
+          "language": "韩文",
+          "content": "이 화살을 봐라!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "再看這一箭！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这一箭，绝对会射穿你的喉咙！"
+        },
+        {
+          "language": "日文",
+          "content": "この一射でお前の喉を貫く！"
+        },
+        {
+          "language": "英文",
+          "content": "This arrow will find your throat!"
+        },
+        {
+          "language": "韩文",
+          "content": "이 한발로, 네 목을 꿰뚫어주마!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這一箭，絕對會射穿你的喉嚨！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "再强大的猎物，也只是猎物而已。"
+        },
+        {
+          "language": "日文",
+          "content": "どんなに強い獲物だろうと、しょせん獲物だ。"
+        },
+        {
+          "language": "英文",
+          "content": "Strong game is still just game."
+        },
+        {
+          "language": "韩文",
+          "content": "사냥감이 아무리 강해봤자, 결국은 사냥감이지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "再強大的獵物，也只是獵物而已。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真厉害。如果你生在叙拉古，一定会是位技艺超绝的猎人。"
+        },
+        {
+          "language": "日文",
+          "content": "やるじゃねぇか。もしシラクーザに生まれてたら、あんたは間違いなく凄腕のハンターになってたぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "Nice. If you were born in Siracusa, you would've been a great hunter."
+        },
+        {
+          "language": "韩文",
+          "content": "제법이잖아. 만약 시라쿠사에서 태어났다면 넌 틀림없이 굉장한 실력의 사냥꾼이 됐을 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "真厲害。如果你生在敘拉古，一定會是位技藝超絕的獵人。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "猎物逃走了，我去追。"
+        },
+        {
+          "language": "日文",
+          "content": "獲物に逃げられたか。追ってくる。"
+        },
+        {
+          "language": "英文",
+          "content": "The target got away. I'm going after it."
+        },
+        {
+          "language": "韩文",
+          "content": "사냥감이 도망쳤나. 쫓아갈게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "獵物逃走了，我去追。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不能就这样结束......"
+        },
+        {
+          "language": "日文",
+          "content": "こんなんじゃ終われねぇ……。"
+        },
+        {
+          "language": "英文",
+          "content": "We can't let it end like this…"
+        },
+        {
+          "language": "韩文",
+          "content": "이렇게는 못 끝내……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不能就這樣結束......"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有墙和天花板，已经是很棒的屋子了啊。"
+        },
+        {
+          "language": "日文",
+          "content": "壁も天井もあるなんて、いい部屋じゃねぇか。"
+        },
+        {
+          "language": "英文",
+          "content": "This place has walls and a roof… that's enough for me."
+        },
+        {
+          "language": "韩文",
+          "content": "벽에 천장도 있다니… 좋은 방이잖아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "有牆和天花板，已經是很棒的屋子了啊。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呣......"
+        },
+        {
+          "language": "日文",
+          "content": "えっ……"
+        },
+        {
+          "language": "英文",
+          "content": "Wha?"
+        },
+        {
+          "language": "韩文",
+          "content": "앗……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "呣......"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......今天的安排吗？帮你做任务，对着敌人射箭，把箭射光；任务结束，吃饭睡觉。就这么简单。"
+        },
+        {
+          "language": "日文",
+          "content": "……今日の予定？あんたにもらった任務に、敵めがけてありったけの矢をぶっ放す。それが終わったら、メシを食って寝る。それだけ。"
+        },
+        {
+          "language": "英文",
+          "content": "...My plans for the day? Help you with missions. Shoot at enemies. Use up all my arrows. Finish the mission. Eat dinner, go to sleep. Simple enough."
+        },
+        {
+          "language": "韩文",
+          "content": "……오늘 일정? 너한테 받은 임무를 수행하면서, 적을 향해 있는 대로 화살을 날려댈 거야. 그게 끝나면 밥 먹고 잘 거고. 그게 다야."
+        },
+        {
+          "language": "繁体中文",
+          "content": ".......今天的安排嗎？幫你做任務，對著敵人射箭，把箭射光；任務結束，吃飯睡覺。就這麼簡單。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哈，是你啊。"
+        },
+        {
+          "language": "日文",
+          "content": "あぁ、あんたか。"
+        },
+        {
+          "language": "英文",
+          "content": "Ah, it's you."
+        },
+        {
+          "language": "韩文",
+          "content": "아, 너구나."
+        },
+        {
+          "language": "繁体中文",
+          "content": "哈，是你啊。"
+        }
+      ]
+    }
+  ]
+}

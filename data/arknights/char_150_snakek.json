@@ -1,0 +1,939 @@
+{
+  "name": "蛇屠箱",
+  "charaKey": "char_150_snakek",
+  "images": [
+    "https://prts.wiki/images/c/c7/立绘_蛇屠箱_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/e/eb/立绘_蛇屠箱_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/0/08/立绘_蛇屠箱_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_150_snakek"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_150_snakek"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_150_snakek"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_150_snakek"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我来啦！棒球和桌上游戏，挑一个来玩吧？诶？工作中？"
+        },
+        {
+          "language": "日文",
+          "content": "わーい、来たよー！野球とこのボードゲーム、どっちで遊ぶ？……はれ？お仕事中？"
+        },
+        {
+          "language": "英文",
+          "content": "Here I am! What should we play, baseball or board games? Oh, you're working?"
+        },
+        {
+          "language": "韩文",
+          "content": "와~ 나 왔어~! 야구랑 보드게임 중에 뭐 하고 놀까? ……어? 일하는 중?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我來啦！棒球和桌上遊戲，挑一個來玩吧？誒？工作中？"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你问我，我是在哪儿出生的？唔，嗯......不太清楚。管它呢！"
+        },
+        {
+          "language": "日文",
+          "content": "ボクの生まれたとこ？えーと、うーんと……よくわかんない。まぁいっか！"
+        },
+        {
+          "language": "英文",
+          "content": "Where was I born, you ask? Well, umm...no idea. But that doesn't matter, right?"
+        },
+        {
+          "language": "韩文",
+          "content": "내가 태어난 곳? 에… 음…… 잘 모르겠네. 뭐 어때!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你問我，我是在哪兒出生的？唔，嗯......不太清楚。管它呢！"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你好，罗德岛老师！嗯......好像你不是叫这个名字？"
+        },
+        {
+          "language": "日文",
+          "content": "こんにちは、ロドス先生！はれ……こんな名前だっけ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Hello, Professor Rhodes Island! Wait, am I calling you by the right name?..."
+        },
+        {
+          "language": "韩文",
+          "content": "안녕 로도스 아일랜드 선생님! 어라…… 이런 이름이었던가?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你好，羅德島老師！嗯......好像你不是叫這個名字？"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔，我今天的工作是什么来着？是不是要抓一些细长的生物？"
+        },
+        {
+          "language": "日文",
+          "content": "うーんと…。今日のお仕事なんだっけ？細長い生き物を捕まえることかな？"
+        },
+        {
+          "language": "英文",
+          "content": "Hm, what's my assignment today? To capture some long, sleek animals?"
+        },
+        {
+          "language": "韩文",
+          "content": "음…… 오늘 업무 뭐였더라? 길쭉한 생물을 잡는 거였나?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "唔，我今天的工作是什麼來著？是不是要抓一些細長的生物？"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不行！不要敲我的背包！啊，对不起，我不是冲你生气，不小心一点的话，手会受伤的。让我来给你演示一下！"
+        },
+        {
+          "language": "日文",
+          "content": "ダメぇ！背中のリュックは叩かないで！あ、ごめんね。怒ったわけじゃなくて、気をつけないと、怪我しちゃうから。いま見せてあげるね！"
+        },
+        {
+          "language": "英文",
+          "content": "Hey! Don't knock on my backpack! Oh, sorry, I'm not mad, I'm just worried. If you're not careful, you could hurt your hand! Here, let me show you how it's done."
+        },
+        {
+          "language": "韩文",
+          "content": "안돼! 등에 멘 가방은 때리지 마! 아 미안, 화난 건 아니고, 조심하지 않으면 다치니까 그래. 지금 보여줄게!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不行！不要敲我的背包！啊，對不起，我不是對你生氣，不小心一點的話，手會受傷的。讓我來給你演示一下！"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "以后谁要是敢欺负你，我就用球棍扁他们！呃，还、还真有？其实我对打架不太在行，嘿嘿......"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターをいじめる人がいたら、ボクがこのバットでボコってあげるよ！……は、はれ？本当にいたの？あ、あのボク、本当はケンカとかよくわからないんだ。えへへ……。"
+        },
+        {
+          "language": "英文",
+          "content": "If anyone dares to hurt you, I'll smash them with my baseball bat. Oh, uh... so... there really are people who hurt you? Um... actually, I'm not that good at fighting, hehe…"
+        },
+        {
+          "language": "韩文",
+          "content": "박사를 괴롭히는 사람이 있으면, 내가 이 배트로 때려눕혀 줄게! …… 어, 어라? 진짜 있었어? 이, 있잖아 나, 실은 싸움 같은 거 잘 몰라. 에헤헤……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "以後誰要是敢欺負你，我就用球棍扁他們！呃，還、還真有？其實我對打架不太在行，嘿嘿......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我啊，喜欢花一天时间从街头走到街尾，一边晒太阳一边观察行人，然后......然后就迷路啦！"
+        },
+        {
+          "language": "日文",
+          "content": "ボクね、一日かけて街をお散歩するのが好きなの。日向ぼっこして～、歩いてる人を見て～、そしたら……いつのまにか迷子になっちゃうんだ！"
+        },
+        {
+          "language": "英文",
+          "content": "I love spending the whole day just walking down the street. I get to watch the people, enjoy the sunshine, and then… lose my way!"
+        },
+        {
+          "language": "韩文",
+          "content": "난 하루 온종일 거리를 산책하는 걸 좋아해. 햇빛도 쐬고~ 걸어 다니는 사람 구경도 하고~ 그러다 보면…… 어느새 또 미아가 되어버리지만!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我啊，喜歡花一天時間從街頭走到街尾，一邊曬太陽一邊觀察行人，然後......然後就迷路啦！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "帮我看病，还给我住的地方，博士真是个好人......"
+        },
+        {
+          "language": "日文",
+          "content": "ボクの病気を診てくれて、住むところもくれて、ドクターは本当に優しいね……。"
+        },
+        {
+          "language": "英文",
+          "content": "You've been treating my sickness, and you gave me a place to live... you're really so kind..."
+        },
+        {
+          "language": "韩文",
+          "content": "내 병을 진찰해주고, 살 곳도 내어주고, 박사는 정말 상냥하네……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "幫我看病，還給我住的地方，博士真是個好人......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士是我的哥哥？还是姐姐？没关系，哪种都行！......就算你赶我走，我也是不会离开的！反正我也走不了多远嘛。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターはボクのお兄ちゃん？…それともお姉ちゃん？まぁどっちでもいいか！とにかくドクターはボクの一番大切な家族なの！ボク、決めたの。ドクターに出てけって言われても、ボクはここにいるんだ。どうせ遠くまで行きたくても行けないしね。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, are you my big brother? Or big sister?... Well, does't matter! I'm not leaving you, even if you throw me out! It's not like I can walk far anyway."
+        },
+        {
+          "language": "韩文",
+          "content": "박사는 나보다 오빠야? ……아니면 언니야? 뭐 어느 쪽이든 상관없어! 박사가 나가라고 해도, 난 여기 있을 거야. 어차피 멀리 가고 싶어도 못 가긴 하지만."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士是我的哥哥？還是姐姐？沒關係，哪種都行！......就算你趕我走，我也是不會離開的！反正我也走不了多遠嘛。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士没时间理我，我一个人玩会儿吧......"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターがかまってくれないから、ひとりで遊んじゃおっと……。"
+        },
+        {
+          "language": "英文",
+          "content": "Oh, the Doctor is busy. I'll just play by myself then..."
+        },
+        {
+          "language": "韩文",
+          "content": "박사가 안 놀아주니까, 혼자서 놀아야겠다……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士沒時間理我，我一個人玩會兒吧......"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "欸？这里是什么地方？我是谁？"
+        },
+        {
+          "language": "日文",
+          "content": "はれれ？ここはどーこー？ボクはだーれー？？？"
+        },
+        {
+          "language": "英文",
+          "content": "Hm? Where am I? Who am I?"
+        },
+        {
+          "language": "韩文",
+          "content": "어라라? 여긴 어~디? 나는 누~구???"
+        },
+        {
+          "language": "繁体中文",
+          "content": "欸？這裡是什麼地方？我是誰？"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "变硬！除了变硬我什么都不会！"
+        },
+        {
+          "language": "日文",
+          "content": "ガチガチに硬くなるよ！ボク、硬くなることしかできないの！"
+        },
+        {
+          "language": "英文",
+          "content": "I can make myself super tough! It's my only special skill!"
+        },
+        {
+          "language": "韩文",
+          "content": "엄~청 딱딱해질 거야! 나, 딱딱해지는 거 밖에 못하니까!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "變硬！除了變硬我什麼都不會！"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "晋升？我不懂啊......比起这个，再玩一会儿吧，我们两个一起！！"
+        },
+        {
+          "language": "日文",
+          "content": "しょーしん？よくわからない。それより、もうちょっと一緒に遊ぼうよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Promotion? What's a promotion?... Whatever, let's play for a bit longer! You and me, together!"
+        },
+        {
+          "language": "韩文",
+          "content": "승~진? 잘 모르겠다… 그러지 말고, 좀 더 같이 놀자!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "晉升？我不懂啊......比起這個，再玩一會兒吧，我們兩個一起！！"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士博士，我不在乎什么新职位哦，我只要每天都有博士陪伴着我就好了，你能答应我吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、ドクター！ボクえらくなるのとか、別にどうでもいいよ。ドクターがずっと一緒にいてくれればそれでいい。いいよね？"
+        },
+        {
+          "language": "英文",
+          "content": "New position or not, I don't really care. All I want is to be by your side every day. Can you grant this tiny wish of mine?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 박사~! 난 더 높은 자리로 올라가는 거 따윈 아무래도 상관없어. 박사가 늘 함께 있어주면 그걸로 족해. 같이 있어줄 거지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士博士，我不在乎什麼新職位哦，我只要每天都有博士陪伴著我就好了，你能答應我嗎？"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有很多朋友在这里呢！"
+        },
+        {
+          "language": "日文",
+          "content": "お友達がたくさん！"
+        },
+        {
+          "language": "英文",
+          "content": "I've got lots of friends here!"
+        },
+        {
+          "language": "韩文",
+          "content": "친구가 잔뜩!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "有很多朋友在這裡呢！"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大家一起出发吧！"
+        },
+        {
+          "language": "日文",
+          "content": "みんな、ボクと一緒にきて！"
+        },
+        {
+          "language": "英文",
+          "content": "Everybody, let's go!"
+        },
+        {
+          "language": "韩文",
+          "content": "다들, 나랑 같이 가자!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "大家一起出發吧！"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大家一起的话，一定没问题的！"
+        },
+        {
+          "language": "日文",
+          "content": "みんなが一緒なら、大丈夫だよ！"
+        },
+        {
+          "language": "英文",
+          "content": "We'll be fine if we stick together!"
+        },
+        {
+          "language": "韩文",
+          "content": "모두와 함께라면, 괜찮아!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "大家一起的話，一定沒問題的！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大家一起玩吧！"
+        },
+        {
+          "language": "日文",
+          "content": "みんな、一緒に遊ぼう！"
+        },
+        {
+          "language": "英文",
+          "content": "Everyone, let's play!"
+        },
+        {
+          "language": "韩文",
+          "content": "우리 다 같이 놀자!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "大家一起玩吧！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "是——"
+        },
+        {
+          "language": "日文",
+          "content": "はーい。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm here~!"
+        },
+        {
+          "language": "韩文",
+          "content": "네~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "是——"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター！"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士！"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "来吧来吧！"
+        },
+        {
+          "language": "日文",
+          "content": "オラオラー！"
+        },
+        {
+          "language": "英文",
+          "content": "Ora ora!"
+        },
+        {
+          "language": "韩文",
+          "content": "덤벼덤벼!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "來吧來吧！"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们这些笨蛋！我才是你们的对手！"
+        },
+        {
+          "language": "日文",
+          "content": "おバカさんたち！ボクが相手だよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Hey, dummies, bring it on!"
+        },
+        {
+          "language": "韩文",
+          "content": "이 바보들아! 내가 상대해주마!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你們這些笨蛋！我才是你們的對手！"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没用没用没用！"
+        },
+        {
+          "language": "日文",
+          "content": "無駄無駄ー！"
+        },
+        {
+          "language": "英文",
+          "content": "Muda muda muda muda!"
+        },
+        {
+          "language": "韩文",
+          "content": "소용없어~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "沒用沒用沒用！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "来陪我玩玩吧！"
+        },
+        {
+          "language": "日文",
+          "content": "ボクと遊ぼう！"
+        },
+        {
+          "language": "英文",
+          "content": "C'mon, show me what you got!"
+        },
+        {
+          "language": "韩文",
+          "content": "나랑 놀자!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "來陪我玩玩吧！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这是我的主场！"
+        },
+        {
+          "language": "日文",
+          "content": "ここがボクのホームだよ！"
+        },
+        {
+          "language": "英文",
+          "content": "This is my playground!"
+        },
+        {
+          "language": "韩文",
+          "content": "여기가 내 홈이야!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這是我的主場！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "绝对不会后退的！"
+        },
+        {
+          "language": "日文",
+          "content": "一歩も引かないよ！"
+        },
+        {
+          "language": "英文",
+          "content": "I won't back down!"
+        },
+        {
+          "language": "韩文",
+          "content": "한 발자국도 물러서지 않겠어!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "絕對不會後退的！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "很难吗？感觉和平时的战斗也没什么区别啊？"
+        },
+        {
+          "language": "日文",
+          "content": "難しかった？いつもと変わらないよ？"
+        },
+        {
+          "language": "英文",
+          "content": "Was that tough? Didn't feel much different from any other battle."
+        },
+        {
+          "language": "韩文",
+          "content": "어려웠어? 평소랑 똑같은데?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "很難嗎？感覺和平時的戰鬥也沒什麼區別啊？"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "全垒打！！"
+        },
+        {
+          "language": "日文",
+          "content": "ホーーームラーーーン！！"
+        },
+        {
+          "language": "英文",
+          "content": "Homerun!"
+        },
+        {
+          "language": "韩文",
+          "content": "호~옴~러~언~!!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "全壘打！！"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "安打！"
+        },
+        {
+          "language": "日文",
+          "content": "ヒットだよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Safe!"
+        },
+        {
+          "language": "韩文",
+          "content": "안타!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "安打！"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呜啊啊啊啊......出局了...."
+        },
+        {
+          "language": "日文",
+          "content": "うわぁぁぁん……アウトぉ……うう……。"
+        },
+        {
+          "language": "英文",
+          "content": "Aww... struck out…"
+        },
+        {
+          "language": "韩文",
+          "content": "으아아아아…… 아웃…… 으으……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗚啊啊啊啊......出局了...."
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别用火球打我哦？"
+        },
+        {
+          "language": "日文",
+          "content": "火の玉を投げないでね？"
+        },
+        {
+          "language": "英文",
+          "content": "Just don't throw fireballs at me, okay?"
+        },
+        {
+          "language": "韩文",
+          "content": "파이어볼은 던지지 없기다?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "別用火球打我哦？"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哇，好玩！"
+        },
+        {
+          "language": "日文",
+          "content": "わーい、面白～い！"
+        },
+        {
+          "language": "英文",
+          "content": "Wow, fun!"
+        },
+        {
+          "language": "韩文",
+          "content": "와아~ 재밌어~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哇，好玩！"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，博士！再稍微玩一会儿吧？就一小会儿！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、ドクター、もう少しだけ遊ぼう？もう少しだけ！"
+        },
+        {
+          "language": "英文",
+          "content": "Hey Doctor! Can we play a little bit longer? Just a little bit!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 박사~ 좀만 더 놀면 안 돼? 좀만 더어!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，博士！再稍微玩一會兒吧？就一小會兒！"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ！"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士！你好！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター！こんにちは！"
+        },
+        {
+          "language": "英文",
+          "content": "Heya! Doctor!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사! 안녕!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士！你好！"
+        }
+      ]
+    }
+  ]
+}

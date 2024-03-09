@@ -1,0 +1,510 @@
+{
+  "name": "小满",
+  "charaKey": "char_4122_grabds",
+  "images": [
+    "https://prts.wiki/images/9/92/立绘_小满_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/1/1b/立绘_小满_2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4122_grabds"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4122_grabds"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我在大荒城管理那里的牧兽，在这里当然就是管你啦。你要听我指挥，努力工作，定时休息。让我看看......现在就是休息时间，我们该出去玩了！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我当然能听懂牧兽在说什么，大荒城的小兽都会和我说悄悄话的，比如他们今天想吃什么零食，或者喜欢谁，我会偷偷地帮他们一把。这个苹果？当然也是牧兽想吃，我只是替他们尝一下甜不甜。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "左乐是小烛台，录武官是小毛笔，浑身金灿灿的那个是大嗓门，你是聪明脑袋，我还认识高个子墨镜和笑眯眯神箭！我最喜欢阿米娅姐姐，我们约好了，待会儿我要和她再给你起个好听一点的外号。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这支羽兽陶笛是黍姐姐做给我的，只要我一吹，牧兽们就知道他们该回家了。我有时觉得大荒城空荡荡的，就坐在路口吹陶笛。那些人来来去去，我送他们离开，也迎接他们回来。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大荒城社戏是用不同方言唱的，这是为了纪念几百年前来这里救灾的职农们。他们来自炎国各地，耕耘了好几代，才有了今天良田万亩的大荒城。能给社戏伴奏是很值得骄傲的，每年都是我吹笛子哦！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "原先站在大荒城的梯田上能看到水渠，后来田地升起来了，在上面能看到城的边缘；现在黍姐姐带我来这里，在甲板上我能看到天的那一边。大嗓门说总有一天爸爸妈妈会回来的，究竟是什么时候呢？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你能不能帮我画一下身高？......我没踮脚！也没梗着脖子！画好了？看嘛，我就说我长高了，说不定明年就比小禾高了！我给你也画一下吧？减去你的帽子鞋子，你......到我的肩膀！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我心情不好的时候会去坝口吹笛子，那儿有个有点疯的樵夫大叔，我每次去他都赶我，但只要我吹这首曲子，他就会很安静，还会跟着调子哼起来。那是我第一次看到他笑呢！我的笛子果然吹得很好。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "职农们说，牧兽追逐水草而居，羽兽能在天空自在地飞，但最终会落回田里。我知道这话是什么意思，每个人都有一片自己的田地，罗德岛就是你的田地，你也是那只会落回地里的羽兽，是不是？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔......睡着了？......真睡着了？......嘻，给你盖上衣服，多睡一会儿，我要出去玩啦！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "是黍姐姐带我过来玩的！我好像还在要她签字的文件上写了我的名字......？不过黍姐姐说不要紧，签字之后我就可以经常来这里玩！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......啊老师我没有上课打瞌睡！......欸，是你呀。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我自己研究出了“牧兽嗅觉判断食物训练法”，天师府给我发了一个勋章，虽然没有编号，但也说明我很厉害嘛！还有你给我的这个，我要把它们放在一块。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我又长高了点，对不对？等我长到你这么高的时候，大荒城里的人肯定培育出他们想要的种子了，那个时候我邀请你过来玩，我们一起坐在田垄上看稻花！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "又到了除害兽的时候了？抓这些小家伙我最拿手了！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "相信我，我肯定能做得特别好。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "听我指挥，穿好靴子，脚步放轻！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "都准备好了吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "快快快，害兽都要逃走了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我看到它们在那边的草丛里！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "很好，没有被它们发现。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这次谁都别想跑！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嘿，被我抓住咯！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "再过来小心我用笛子敲你们的头！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这下你们跑不快了吧？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "下次可不许再跑来田地里了！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "走走走，快点回去告诉黍姐姐，她肯定会夸我的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明年，后年，大后年......总有一天，我能看到整个大荒城再也不惧怕天灾，不惧怕害兽，神农祭上的庄稼堆得比天还要高。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没事，比这个还厉害的天灾我们都扛过来了，这一点点挫折不算什么，下一季我们再努力就是了！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "出事了......我去找天师们过来帮帮忙！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "舰船停靠的时候我想偷偷溜下去玩，你帮我瞒住黍姐姐好不好？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这两个小鬏鬏不是让你捏的！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "上次教你吹的曲子，你学会了没有呀？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小笼我都准备好了，要不要一起去田里抓泥鳞？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

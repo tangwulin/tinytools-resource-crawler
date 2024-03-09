@@ -1,0 +1,834 @@
+{
+  "name": "米格鲁",
+  "charaKey": "char_122_beagle",
+  "images": [
+    "https://prts.wiki/images/4/44/立绘_米格鲁_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/d/d3/立绘_米格鲁_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_122_beagle"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_122_beagle"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_122_beagle"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_122_beagle"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，今天我来担当您的护卫！放心，不会让可疑的人接近您的！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、今日はわたしが護衛を担当します！怪しいやつなんか、わたしが絶っ対に近寄らせませんから、安心してくださいね！"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, I'm your guard for the day! Don't worry, I won't let any sketchy people near you! Just relax!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 오늘은 제가 호위를 담당할게요! 수상한 놈들이 절대 접근 못 하게 할 테니, 안심해 주세요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，今天我來擔當您的護衛！放心，不會讓可疑的人接近您的！"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我今天的训练成绩单......吗？呃，那个，您还是别看啦......"
+        },
+        {
+          "language": "日文",
+          "content": "今日の訓練の成績表…ですか？えっと…その…み、見ないほうがいいかも…。"
+        },
+        {
+          "language": "英文",
+          "content": "My training score for today...? Um, I mean, we could talk about something else..."
+        },
+        {
+          "language": "韩文",
+          "content": "오늘 훈련 성적표…요? 저기, 그게… 아, 안 보시는 게 좋을 거 같은데…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我今天的訓練成績單......嗎？呃，那個，您還是別看啦......"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "每次战斗前我总是紧张得不得了，害得芬队长也要为我捏一把汗......我该怎么办好呢？博士&gt;&lt;！"
+        },
+        {
+          "language": "日文",
+          "content": "戦いの前はいつも緊張しちゃうんです。そのせいでフェン隊長には、心配ばかりかけてしまって…わたし、どうしたらいいですか？ドクターァ…。"
+        },
+        {
+          "language": "英文",
+          "content": "I can't shake the pre-battle jitters, and that makes Captain Fang really nervous too... What should I do? Doctor!"
+        },
+        {
+          "language": "韩文",
+          "content": "전투에 나가기 전에는 항상 긴장하거든요. 그래서 팽 팀장님한텐 걱정만 끼쳐 드리고… 저, 대체 어떡하면 좋을까요? 박사님……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "每次戰鬥前我總是緊張得不得了，害得芬隊長也要為我捏一把汗......我該怎麼辦好呢？博士&gt;&lt;！"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "芙蓉和炎熔总是来找我抱怨对方，可她们都是我的好朋友，各自的说法也都很有道理......博士，我该怎么办才好啊......？"
+        },
+        {
+          "language": "日文",
+          "content": "ハイビスちゃんもラヴァちゃんもお互いの愚痴を、わたしに言ってくるんです。でもふたりともわたしの親友ですし、どっちの言い分にも一理ありますし…ドクターァ、わたし、どうしたらいいですかぁ…？"
+        },
+        {
+          "language": "英文",
+          "content": "Hibiscus and Lava always complain to me about each other, but both of them are my good friends, and neither of them are wrong... Doctor, what should I do?"
+        },
+        {
+          "language": "韩文",
+          "content": "히비스랑 라바는 늘 저한테 서로 푸념을 늘어놓아요. 근데 둘 다 저랑 친한 친구 사이고… 둘이 하는 말도 다 일리는 있어서… 박사님~ 저, 어떡하면 좋을까요…?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "芙蓉和炎熔總是來找我抱怨對方，可她們都是我的好朋友，各自的說法也都很有道理......博士，我該怎麼辦才好啊......？"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "杜宾老师总是教育我们——“就算新人期结束，实战中也要以保命为优先“——这样的话。呜~不甘心，什么时候才能变成她那样帅气又强大的人呢？"
+        },
+        {
+          "language": "日文",
+          "content": "よくドーベルマン先生に「新米じゃなくても、戦闘中は自分の命を最優先にしなさい」って注意されます。うぅ、悔しいです…いつになったら、あんなかっこよくて強い人になれるんでしょうかぁ？"
+        },
+        {
+          "language": "英文",
+          "content": "Instructor Dobermann always told us, 'Even when after you finish your training, your number one goal on the battlefield is to stay alive.' Urgh... How can I become as strong and awesome as she is?"
+        },
+        {
+          "language": "韩文",
+          "content": "“신입 티를 벗게 되더라도, 전투 중에는 자신의 목숨을 최우선으로 해야 한다”고, 도베르만 선생님한테 매번 혼나요. 으으, 속상해요… 언제쯤 그렇게 멋지고 강한 사람이 될 수 있을까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "杜賓老師總是教育我們——“就算新人期結束，實戰中也要以保命為優先“——這樣的話。嗚~不甘心，什麼時候才能變成她那樣帥氣又強大的人呢？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "作为干员我还是新人，不过我也正在努力不是吗？嘿嘿，如果您也觉得我有进步，希望您能多多夸奖我一下......"
+        },
+        {
+          "language": "日文",
+          "content": "わたし、オペレーターとしてはまだまだ新米ですけど、頑張れてますよね？えへへ、もしそうだったら、もっと褒めてほしいです…。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm still a rookie Operator, but I'm working hard! Hehehe, I'd really love a compliment or two, if you agree."
+        },
+        {
+          "language": "韩文",
+          "content": "저, 오퍼레이터로선 아직 새파란 신참이긴 해도, 꽤 열심히 하고 있지 않나요? 에헤헤… 정말 그렇다면, 좀 더 칭찬해 주셨으면 좋겠네요…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "作為幹員我還是新人，不過我也正在努力不是嗎？嘿嘿，如果您也覺得我有進步，希望您能多多誇獎我一下......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "矿石病吗？已经不是很在意了，因为感觉和以前也没有多大的区别嘛~不过果然还是，希望和大家永远在一起，在病痊愈之前，一直在一起......呜......"
+        },
+        {
+          "language": "日文",
+          "content": "鉱石病ですか？そこまで気にしてませんよ。昔からこんな感じですし。でもやっぱり…これからもみんなとずっと…病気が治るまでずっと一緒にいたいんです…うぅ…。"
+        },
+        {
+          "language": "英文",
+          "content": "My Oripathy? It doesn't bother me all that much, I'm used to it. I just want to be with the people I care about until my disease gets cured... Ughh..."
+        },
+        {
+          "language": "韩文",
+          "content": "광석병이요? 그다지 신경 쓰이진 않아요. 옛날부터 이랬거든요. 그래도 역시… 앞으로도 동료들과 함께… 병이 나을 때까지 늘 함께하고 싶어요…… 으으……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "礦石病嗎？已經不是很在意了，因為感覺和以前也沒有多大的區別嘛~不過果然還是，希望和大家永遠在一起，在病痊癒之前，一直在一起......嗚......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "其实来这里之前，我对自己是没什么自信的......但是现在我能做到保护博士和大家了，真的很高兴！能保护所有人是我的梦想！所以，我也希望，如果这样的日子能一直持续下去就好了。"
+        },
+        {
+          "language": "日文",
+          "content": "ここに来るまでは、あんまり自分に自信がなかったんです…。でも今はドクターとみんなを守ることができて、とっても嬉しいんです！わたし、みんなを守るのが夢でした。だからこんな日々がずっと続いたらいいなぁ…って思ったりもします。"
+        },
+        {
+          "language": "英文",
+          "content": "I didn't have much confidence before I came here, but I'm so glad that I can protect you and everyone on Rhodes Island! It's my dream to protect everyone! I really wish days like these could last forever."
+        },
+        {
+          "language": "韩文",
+          "content": "여기 오기 전까진 저 스스로에게 별로 자신이 없었어요… 하지만 지금은 박사님과 여러분을 지킬 수 있게 돼서 정~말 기뻐요! 전 다른 사람들을 지키는 게 꿈이었거든요! 그래서 이런 날들이 계속 이어지면 얼마나 좋을까~ 막 혼자 이러기도 해요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "其實來這裡之前，我對自己是沒什麼自信的......但是現在我能做到保護博士和大家了，真的很高興！能保護所有人是我的夢想！所以，我也希望，如果這樣的日子能一直持續下去就好了。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......好想在睡着的博士脸上恶作剧啊。"
+        },
+        {
+          "language": "日文",
+          "content": "…眠ってるドクターの顔を見てると…イタズラしたくなるかも…。"
+        },
+        {
+          "language": "英文",
+          "content": "Aww... seeing the Doctor sleeping all vulnerable like that makes me want to doodle something on a certain someone's face..."
+        },
+        {
+          "language": "韩文",
+          "content": "……잠든 박사님의 얼굴을 보고 있으니, 왠지 장난치고 싶은데……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "......好想在睡著的博士臉上惡作劇啊。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我是米格鲁！虽然，招募评定的成绩不太理想，但就算作为实习生我也会努力帮忙的！"
+        },
+        {
+          "language": "日文",
+          "content": "ビーグルっていいます。まぁ、採用テストはギリギリでしたけど、見習いとして頑張ってお役に立ちたいと思います！"
+        },
+        {
+          "language": "英文",
+          "content": "My codename is Beagle! I know I didn't do very well on my assessment, but I'll still do my best at my internship!"
+        },
+        {
+          "language": "韩文",
+          "content": "비글이라고 합니다. 사실… 채용 시험은 아슬아슬했는데요, 수습 오퍼레이터로서 제 몫을 다할 수 있도록, 최선을 다하겠습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我是米格魯！雖然，招募評定的成績不太理想，但就算作為實習生我也會努力幫忙的！"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "做到了！我变得更强啦！"
+        },
+        {
+          "language": "日文",
+          "content": "やりました！もっと強くなれましたよ！"
+        },
+        {
+          "language": "英文",
+          "content": "I did it! I've become stronger!"
+        },
+        {
+          "language": "韩文",
+          "content": "해냈어요! 더 강해졌다고요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "做到了！我變得更強啦！"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这样、这样的话！就不会被人喊“宇宙级新人！”啦！"
+        },
+        {
+          "language": "日文",
+          "content": "これで、これで！もう「宇宙最大級ド新人」なんて呼ばれなくなります！"
+        },
+        {
+          "language": "英文",
+          "content": "Finally, FINALLY! Now nobody's going to call me 'the Rookiest Rookie in the Rookieverse' anymore!"
+        },
+        {
+          "language": "韩文",
+          "content": "드디어, 드디어! '우주 최강 풋내기' 꼬리표를 떼는 날이 왔어요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這樣、這樣的話！就不會被人喊“宇宙級新人！”啦！"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会加油的！"
+        },
+        {
+          "language": "日文",
+          "content": "頑張ります！"
+        },
+        {
+          "language": "英文",
+          "content": "I'll do all I can!"
+        },
+        {
+          "language": "韩文",
+          "content": "열심히 하겠습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我會加油的！"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "欸，我是队长？不是芬做队长真的好吗？"
+        },
+        {
+          "language": "日文",
+          "content": "えっ、わたしが隊長をするんですか？フェン隊長じゃなくていいんですか？"
+        },
+        {
+          "language": "英文",
+          "content": "Huh? I am the leader? I don't feel right about Fang not being the leader..."
+        },
+        {
+          "language": "韩文",
+          "content": "어, 제가 팀장이라고요? 팽 팀장님이 아니라요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "欸，我是隊長？不是芬做隊長真的好嗎？"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "各位，出发了！"
+        },
+        {
+          "language": "日文",
+          "content": "みんな、いきますよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Everyone, let's roll out!"
+        },
+        {
+          "language": "韩文",
+          "content": "여러분, 갑니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "各位，出發了！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "各位，敌人来了哟！"
+        },
+        {
+          "language": "日文",
+          "content": "みんな、敵が来ますよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Everyone, enemies incoming!"
+        },
+        {
+          "language": "韩文",
+          "content": "여러분, 적이 와요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "各位，敵人來了喲！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请给我勇气！"
+        },
+        {
+          "language": "日文",
+          "content": "勇気をください！"
+        },
+        {
+          "language": "英文",
+          "content": "Grant me strength!"
+        },
+        {
+          "language": "韩文",
+          "content": "제게 용기를 주세요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "請給我勇氣！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要我上吗？"
+        },
+        {
+          "language": "日文",
+          "content": "わたしが行くんですね？"
+        },
+        {
+          "language": "英文",
+          "content": "Is it my turn?"
+        },
+        {
+          "language": "韩文",
+          "content": "제가 가는 거죠?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "要我上嗎？"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "抵达目标地点了！"
+        },
+        {
+          "language": "日文",
+          "content": "目標地点に到着しました！"
+        },
+        {
+          "language": "英文",
+          "content": "Target location reached!"
+        },
+        {
+          "language": "韩文",
+          "content": "목표 지점에 도착했습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "抵達目標地點了！"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "就是这里！"
+        },
+        {
+          "language": "日文",
+          "content": "ここです！"
+        },
+        {
+          "language": "英文",
+          "content": "This is the place!"
+        },
+        {
+          "language": "韩文",
+          "content": "여기예요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "就是這裡！"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哈~！"
+        },
+        {
+          "language": "日文",
+          "content": "はぁ～！"
+        },
+        {
+          "language": "英文",
+          "content": "Haah!"
+        },
+        {
+          "language": "韩文",
+          "content": "하앗~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哈~！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看我~的！"
+        },
+        {
+          "language": "日文",
+          "content": "そぉーれっ！"
+        },
+        {
+          "language": "英文",
+          "content": "Watch this!"
+        },
+        {
+          "language": "韩文",
+          "content": "이영차!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "看我~的！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "保护大家是我的使命！不管有什么困难，这个信念都不会动摇！"
+        },
+        {
+          "language": "日文",
+          "content": "みんなを守るんです！それがわたしの使命です。どんなに苦しい戦いでも、この信念だけは貫きます！"
+        },
+        {
+          "language": "英文",
+          "content": "It's my duty to protect everyone! My resolve will never falter, no matter the odds!"
+        },
+        {
+          "language": "韩文",
+          "content": "모두를 지킬 거예요! 그게 제 사명이니까요. 어떤 힘든 전투에서도, 이 신념만큼은 꼭 지키겠습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "保護大家是我的使命！不管有什麼困難，這個信念都不會動搖！"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "敌人一个不漏的全都击溃了！罗德岛的各位是最棒的！"
+        },
+        {
+          "language": "日文",
+          "content": "敵をひとり残らず倒すことができました。ロドスのみんなはやっぱり最高です！"
+        },
+        {
+          "language": "英文",
+          "content": "All enemies have been defeated! We Rhodes Island Operators are the finest!"
+        },
+        {
+          "language": "韩文",
+          "content": "적을 한 명도 남김없이 쓰러뜨렸네요. 로도스 아일랜드 분들은 역시 최고예요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "敵人一個不漏的全都擊潰了！羅德島的各位是最棒的！"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "赢了赢了！不过，还是稍稍放走了几个敌人，欸嘿嘿......"
+        },
+        {
+          "language": "日文",
+          "content": "わーい！勝てましたよ！まぁ、少し敵を逃しちゃいましたけど…えへへ…。"
+        },
+        {
+          "language": "英文",
+          "content": "Hooray, we won! Although a few enemies managed to get away... *sigh*..."
+        },
+        {
+          "language": "韩文",
+          "content": "와아! 이겼어요! 뭐, 적을 조금 놓치긴 했지만요… 에헤헤……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "贏了贏了！不過，還是稍稍放走了幾個敵人，欸嘿嘿......"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "对不起......对不起......"
+        },
+        {
+          "language": "日文",
+          "content": "ごめんなさい…ごめんなさい……。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm sorry... so sorry..."
+        },
+        {
+          "language": "韩文",
+          "content": "죄송해요… 죄송해요…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "對不起......對不起......"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我能帮你什么忙吗？"
+        },
+        {
+          "language": "日文",
+          "content": "何かお手伝いしましょうか？"
+        },
+        {
+          "language": "英文",
+          "content": "What can I do for you?"
+        },
+        {
+          "language": "韩文",
+          "content": "뭔가 도와드릴 일이 있을까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我能幫你什麼忙嗎？"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士！很、很痒的！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター！くっ、くすぐったいです！"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor! Th-That tickles!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님~! 가, 간지러워요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士！很、很癢的！"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我可以每天都去您那里学习吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、毎日勉強しに行ってもいいですか？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, can I come to your place to study every day?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 저 매일 공부하러 가도 되죠?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，我可以每天都去您那裡學習嗎？"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你好呀，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "こんにちは、ドクター！"
+        },
+        {
+          "language": "英文",
+          "content": "Hi, Doctor!"
+        },
+        {
+          "language": "韩文",
+          "content": "안녕하세요, 박사님!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你好呀，博士。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,931 @@
+{
+  "name": "孑",
+  "charaKey": "char_272_strong",
+  "images": [
+    "https://prts.wiki/images/3/37/立绘_孑_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/a/a3/立绘_孑_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/8/83/立绘_孑_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_272_strong"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_272_strong"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "老板，要我做点夜宵吗？"
+        },
+        {
+          "language": "日文",
+          "content": "大将、夜食でもこさえやしょうか？"
+        },
+        {
+          "language": "英文",
+          "content": "Need a midnight snack, Boss?"
+        },
+        {
+          "language": "韩文",
+          "content": "대장, 야식이라도 만들까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "老闆，要我做點宵夜嗎？"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "老板，你要的。还有这个，你之前提过......大家都说我记忆力很好，不过我没什么感觉。"
+        },
+        {
+          "language": "日文",
+          "content": "大将、これどうぞ。あとこれも。前におっしゃってたやつでさぁ。……みんな俺記憶力いいっていいやすが、俺は別にそんなこたぁないと思うんですがね。"
+        },
+        {
+          "language": "英文",
+          "content": "Here you go, Boss. And this. You mentioned it before... Everyone says I have a good memory, but I don't know."
+        },
+        {
+          "language": "韩文",
+          "content": "대장, 이거 받으시죠. 그리고 이것도. 전에 말씀하셨던 거요. ……다들 내가 기억력이 좋다고 하지만, 난 딱히 그런 것 같지는 않더라고요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "老闆，你要的。還有這個，你之前提過......大家都說我記憶力很好，不過我沒什麼感覺。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我没事的时候，会研究厨艺......不止是海鲜。老板喜欢吃什么吗？"
+        },
+        {
+          "language": "日文",
+          "content": "何もないときゃ、料理の研究をしてやす。海鮮だけじゃなくね。大将の好物はなんですかい？"
+        },
+        {
+          "language": "英文",
+          "content": "When I'm off, I practice cooking... Not just seafood. What do you like to eat, Boss?"
+        },
+        {
+          "language": "韩文",
+          "content": "아무 일도 없을 땐 요리 연구를 함다. 해산물만 하는 건 아니고요. 대장은 뭘 좋아하시나?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我沒事的時候，會研究廚藝......不止是海鮮。老闆喜歡吃什麼嗎？"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......老板，难道说，一般需要由我来找话题吗？"
+        },
+        {
+          "language": "日文",
+          "content": "……大将、これは俺のほうから話を振ったほうがいい感じですかね？"
+        },
+        {
+          "language": "英文",
+          "content": "...Boss, is it usually on me to find something to talk about?"
+        },
+        {
+          "language": "韩文",
+          "content": "……대장, 이건 내가 먼저 말을 꺼내는 게 좋을까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "......老闆，難道說，一般需要由我來找話題嗎？"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "老板，你要去龙门夜市的话，我可以带路。那里很热闹，就是不太安全。"
+        },
+        {
+          "language": "日文",
+          "content": "大将、龍門の夜市に行きたいってんなら、俺が案内しやす。賑わってんすが、ちょっと物騒ですから。"
+        },
+        {
+          "language": "英文",
+          "content": "Boss, if you ever want to see a Lungmen night market, I can take you. It's fun, but not exactly safe."
+        },
+        {
+          "language": "韩文",
+          "content": "대장, 용문의 야시장에 가고 싶으시면 내가 안내하겠슴다. 활기차기는 한데, 좀 위험하거든요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "老闆，你要去龍門夜市的話，我可以帶路。那裡很熱鬧，就是不太安全。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "凯尔希大姐特别允许我用罗德岛的渠道来进货，可以尝试一些新东西。老板，有什么特别的要求吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ケルシーさんが特別にロドスのルートを通しての仕入れを許可して下すったんで、いろいろ新しいものに挑戦できやすぜ。大将、なにかとっておきのご注文はありやせんか？"
+        },
+        {
+          "language": "英文",
+          "content": "Boss Lady Kal'tsit gave me permission to use Rhodes Island's special channels to get some new stuff. Any requests, Boss?"
+        },
+        {
+          "language": "韩文",
+          "content": "켈시 씨가 특별히 로도스 아일랜드를 통한 매입을 허가해 주셔서 여러 가지 새로운 것에도 도전할 수 있슴다. 대장, 뭔가 특별한 주문 없슴까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "凱爾希大姐特別允許我用羅德島的管道來進貨，可以嘗試一些新東西。老闆，有什麼特別的要求嗎？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "过去，因为一点原因，我一直被星熊警官盯着......不过，我知道，她和街坊的叔叔婶婶们一样，都是真心为我好。"
+        },
+        {
+          "language": "日文",
+          "content": "昔、ちょっとしたことでホシグマさんに目を付けられやしてね……でも、俺わかってやす。あの人も街のおいちゃんおばちゃんみたいに、親切で俺によくしてくれてるって。"
+        },
+        {
+          "language": "英文",
+          "content": "I had Officer Hoshiguma on me for a while, for a couple of reasons... But I know she was just looking out for me, same as the neighborhood aunties and uncles."
+        },
+        {
+          "language": "韩文",
+          "content": "예전에 사소한 일로 호시구마 씨한테 찍혀버려 가지고…… 하지만 나도 압니다. 그 사람도 동네 아저씨 아줌마들처럼 친절하고 나한테 잘해주고 있다는 걸요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "過去，因為一點原因，我一直被星熊警官盯著......不過，我知道，她和街坊的叔叔嬸嬸們一樣，都是真心為我好。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有人说，以我的刀功和记忆力，还有长相，天生就适合做恶人。我不喜欢，但也不知道怎么办......不过来到罗德岛后，我逐渐知道了，我只要做我想做的事就好。"
+        },
+        {
+          "language": "日文",
+          "content": "誰か言ってたんですがね、俺の包丁さばきと記憶力の良さ、それから見てくれ、俺ぁ天性の悪人面だって。そりゃ良い気はしやせんよ。でもどうすりゃいいのかもわかんなくて……。だけどロドスに来てから分かってきたんす。自分のしたいことをしてりゃいいんだって。"
+        },
+        {
+          "language": "英文",
+          "content": "I've been told that with my looks, plus my knife skills, I was born to be evil. I didn't like that, but what could I do...? After coming to Rhodes Island, I realized I should just do what makes me happy."
+        },
+        {
+          "language": "韩文",
+          "content": "누가 그러더라고요. 내 칼 솜씨랑 좋은 기억력에, 그리고 생긴 것까지 보면, 타고난 악당 상이라고요. 그야 좋은 기분은 아니죠. 근데 어떻게 해야 할지도 모르겠더라고요…… 근데 로도스 아일랜드에 오고서 깨달았슴다. 내가 하고 싶은 걸 하면 된다고요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "有人說，以我的刀功和記憶力，還有長相，天生就適合做惡人。我不喜歡，但也不知道怎麼辦......不過來到羅德島後，我逐漸知道了，我只要做我想做的事就好。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "老板，你觉得，我的记忆力有什么能派上用场的地方吗......以前我从没想过，但是现在，我想，要是能帮上忙就好了。"
+        },
+        {
+          "language": "日文",
+          "content": "大将、俺の記憶力が何か役立てるところはありやすか？……昔はそんなこと考えもしやせんでした。でもいまは、俺思うんでさぁ。もし役に立てたら、いいなって。"
+        },
+        {
+          "language": "英文",
+          "content": "Boss, do you think there's any way to put my memory to good use...? I never thought about it before, but it would be nice if I could help."
+        },
+        {
+          "language": "韩文",
+          "content": "대장, 내 기억력이 뭔가 도움이 되는 곳은 없슴까? ……예전엔 그런 건 생각도 안 했습니다. 근데 지금은… 생각하거든요. 만약 도움이 된다면… 좋겠다고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "老闆，你覺得，我的記憶力有什麼能派上用場的地方嗎......以前我從沒想過，但是現在，我想，要是能幫上忙就好了。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "老......啊，睡着了，那我继续看书。"
+        },
+        {
+          "language": "日文",
+          "content": "たいし……あぁ、寝ちまってら。本の続きでも読むか。"
+        },
+        {
+          "language": "英文",
+          "content": "Bo... Oh, you're asleep. I'll just keep reading."
+        },
+        {
+          "language": "韩文",
+          "content": "대자…… 아아, 잠들었네. 책이나 마저 읽을까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "老......啊，睡著了，那我繼續看書。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "老板好，我叫孑。星熊警官说我更适合在这里做事，我就来了。我懂水产，会做菜，刀功也还可以，应该能帮上忙。"
+        },
+        {
+          "language": "日文",
+          "content": "大将、どうも。ジェイと申しやす。ホシグマさんに勧められてロドスに来やした。海産物は一通りわかりやす。あとは料理と、包丁さばきもまあ悪くないと思うんで、その辺お手伝いできると思いやす。"
+        },
+        {
+          "language": "英文",
+          "content": "Hey, Boss. I'm Jaye. Officer Hoshiguma said I'd be better off working here, so here I am. I know seafood, I can cook, and I'm pretty good with a knife. I think I can help."
+        },
+        {
+          "language": "韩文",
+          "content": "대장, 안녕하십니까. 제이라고 함다. 호시구마 씨한테 권유를 받아 로도스 아일랜드에 왔슴다. 해산물은 대충 알고요. 그리고 요리랑 칼질도 뭐 나쁘지 않으니까요, 그런 쪽으로 도움이 될 수 있을 것 같슴다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "老闆好，我叫孑。星熊警官說我更適合在這裡做事，我就來了。我懂水產，會做菜，刀功也還可以，應該能幫上忙。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "原来如此，战斗和做菜，也差不多。"
+        },
+        {
+          "language": "日文",
+          "content": "なるほど。戦いも料理も、やる事ぁ変わんねぇんだな。"
+        },
+        {
+          "language": "英文",
+          "content": "Huh, so cooking and warfare are pretty much the same."
+        },
+        {
+          "language": "韩文",
+          "content": "그렇구만. 전투도 요리도 하는 일은 다르지 않네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "原來如此，戰鬥和做菜，也差不多。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "老板，这是说，我能把摊开大点的意思吗？"
+        },
+        {
+          "language": "日文",
+          "content": "大将、これってつまり、もっと手広くやっていいってことですか？"
+        },
+        {
+          "language": "英文",
+          "content": "Boss, does this mean I can spread out a bit more?"
+        },
+        {
+          "language": "韩文",
+          "content": "대장, 이건 그러니까 규모를 넓혀도 좋다는 겁니까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "老闆，這是說，我能把攤開大點的意思嗎？"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "老板，我发现，把敌人当食材来看待的话，战斗也挺简单的。"
+        },
+        {
+          "language": "日文",
+          "content": "大将、俺わかりやしたぜ。敵を食材だと思って扱えば、戦闘も簡単だってよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Boss, I figured it out. If you just treat the enemy as food, this battle thing is a lot easier."
+        },
+        {
+          "language": "韩文",
+          "content": "대장, 나 알았슴다. 적을 식자재라고 생각하면서 다루면 전투도 간단하다는 걸요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "老闆，我發現，把敵人當食材來看待的話，戰鬥也挺簡單的。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊，忘了收摊......"
+        },
+        {
+          "language": "日文",
+          "content": "あっ、店閉めるの忘れたな……。"
+        },
+        {
+          "language": "英文",
+          "content": "Oh, I forgot to close up..."
+        },
+        {
+          "language": "韩文",
+          "content": "앗, 가게 닫는 거 깜박했네……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "啊，忘了收攤......"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "带队叉鱼的话，我熟。"
+        },
+        {
+          "language": "日文",
+          "content": "見突き漁だったら慣れてやす。"
+        },
+        {
+          "language": "英文",
+          "content": "I know how to lead a fishing crew."
+        },
+        {
+          "language": "韩文",
+          "content": "작살 낚시라면 익숙함다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "帶隊叉魚的話，我熟。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......嗯？要出发了吗？"
+        },
+        {
+          "language": "日文",
+          "content": "……ん？出発か？"
+        },
+        {
+          "language": "英文",
+          "content": "...Oh? We're going?"
+        },
+        {
+          "language": "韩文",
+          "content": "……음? 출발인가?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "......嗯？要出發了嗎？"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "数量还不少。"
+        },
+        {
+          "language": "日文",
+          "content": "けっこういるなぁ。"
+        },
+        {
+          "language": "英文",
+          "content": "That's a lot."
+        },
+        {
+          "language": "韩文",
+          "content": "꽤 있구만…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "數量還不少。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊？"
+        },
+        {
+          "language": "日文",
+          "content": "はい？"
+        },
+        {
+          "language": "英文",
+          "content": "Yeah, what?"
+        },
+        {
+          "language": "韩文",
+          "content": "네?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "啊？"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在。"
+        },
+        {
+          "language": "日文",
+          "content": "どうしやすか。"
+        },
+        {
+          "language": "英文",
+          "content": "Here."
+        },
+        {
+          "language": "韩文",
+          "content": "어떻게 할까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "在。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我试试。"
+        },
+        {
+          "language": "日文",
+          "content": "やってみやしょう。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll try."
+        },
+        {
+          "language": "韩文",
+          "content": "해보죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我試試。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呼......"
+        },
+        {
+          "language": "日文",
+          "content": "ふぅ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Ughh..."
+        },
+        {
+          "language": "韩文",
+          "content": "후우……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "呼......"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "去鳞。"
+        },
+        {
+          "language": "日文",
+          "content": "鱗取り。"
+        },
+        {
+          "language": "英文",
+          "content": "Scale."
+        },
+        {
+          "language": "韩文",
+          "content": "비늘 제거."
+        },
+        {
+          "language": "繁体中文",
+          "content": "去鱗。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "去内脏。"
+        },
+        {
+          "language": "日文",
+          "content": "ワタ落とし。"
+        },
+        {
+          "language": "英文",
+          "content": "Gut."
+        },
+        {
+          "language": "韩文",
+          "content": "내장 제거."
+        },
+        {
+          "language": "繁体中文",
+          "content": "去內臟。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "洗净。"
+        },
+        {
+          "language": "日文",
+          "content": "水洗い。"
+        },
+        {
+          "language": "英文",
+          "content": "Clean."
+        },
+        {
+          "language": "韩文",
+          "content": "물 세척."
+        },
+        {
+          "language": "繁体中文",
+          "content": "洗淨。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "切块。"
+        },
+        {
+          "language": "日文",
+          "content": "三枚おろし。"
+        },
+        {
+          "language": "英文",
+          "content": "Slice."
+        },
+        {
+          "language": "韩文",
+          "content": "석 장 뜨기."
+        },
+        {
+          "language": "繁体中文",
+          "content": "切塊。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "老板，我们刚才，是不是干了一件不得了的事？"
+        },
+        {
+          "language": "日文",
+          "content": "大将、俺たちゃ大変なことをやってのけたんじゃないですか？"
+        },
+        {
+          "language": "英文",
+          "content": "Boss, did we just do something special?"
+        },
+        {
+          "language": "韩文",
+          "content": "대장, 우리 엄청난 일을 해낸 것 아닙니까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "老闆，我們剛才，是不是幹了一件不得了的事？"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "老板，这就......算完了吗？"
+        },
+        {
+          "language": "日文",
+          "content": "大将、これで……終わりですかね？"
+        },
+        {
+          "language": "英文",
+          "content": "Boss, is it... over?"
+        },
+        {
+          "language": "韩文",
+          "content": "대장, 이걸로…… 끝이겠죠?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "老闆，這就......算完了嗎？"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "老板，要追吗？"
+        },
+        {
+          "language": "日文",
+          "content": "大将、追いやすか？"
+        },
+        {
+          "language": "英文",
+          "content": "Boss, should we go after them?"
+        },
+        {
+          "language": "韩文",
+          "content": "대장, 쫓을까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "老闆，要追嗎？"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "老板，我觉得，跑路比较好。"
+        },
+        {
+          "language": "日文",
+          "content": "大将、俺、逃げるのもいいかな、なんて思っちまいやした。"
+        },
+        {
+          "language": "英文",
+          "content": "Boss, I think we should probably run."
+        },
+        {
+          "language": "韩文",
+          "content": "대장, 나 말입니다, 도망치는 것도 좋겠다고… 그런 생각을 해버렸슴다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "老闆，我覺得，跑路比較好。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不知道有没有适合摆摊的地方......"
+        },
+        {
+          "language": "日文",
+          "content": "どっか店構えるのにいい場所ないですかね……。"
+        },
+        {
+          "language": "英文",
+          "content": "I don't know if there's a suitable place to set up my stall..."
+        },
+        {
+          "language": "韩文",
+          "content": "어디 가게 차리기 좋은 장소 없을까요……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不知道有沒有適合擺攤的地方......"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯？"
+        },
+        {
+          "language": "日文",
+          "content": "んん？"
+        },
+        {
+          "language": "英文",
+          "content": "Hm?"
+        },
+        {
+          "language": "韩文",
+          "content": "응?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不知道老板有没有忌口......"
+        },
+        {
+          "language": "日文",
+          "content": "大将に嫌いなものがないかわかりやせんが……。"
+        },
+        {
+          "language": "英文",
+          "content": "Boss, I don't know if you have any vices..."
+        },
+        {
+          "language": "韩文",
+          "content": "대장이 싫어하는 게 없는진 모르겠지만……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不知道老闆有沒有忌口......"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "老板，今天气色不错啊。"
+        },
+        {
+          "language": "日文",
+          "content": "大将、今日も元気そうでなによりです。"
+        },
+        {
+          "language": "英文",
+          "content": "Hey Boss, the weather's not bad today."
+        },
+        {
+          "language": "韩文",
+          "content": "대장, 오늘도 건강해 보여 다행입니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "老闆，今天氣色不錯啊。"
+        }
+      ]
+    }
+  ]
+}

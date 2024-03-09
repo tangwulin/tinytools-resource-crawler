@@ -1,0 +1,936 @@
+{
+  "name": "宴",
+  "charaKey": "char_337_utage",
+  "images": [
+    "https://prts.wiki/images/d/de/立绘_宴_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/0/05/立绘_宴_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/a/a6/立绘_宴_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/b/bd/立绘_宴_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_337_utage"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_337_utage"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_337_utage"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，准备好工作了吗，不许说没好哦。来，3，2，1，开工！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、仕事の準備はいい？まだとは言わせないからね。よし、三、二、一、スタート！"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, ready to get to work? I won't take no for an answer! C'mon! 3, 2, 1, start!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 일할 준비 다 됐어? 아직 안 됐다고 하기만 해봐. 좋아, 그럼…&nbsp; 3, 2, 1… 시작!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，準備好工作了嗎，不許說沒好哦。來，3，2，1，開工！"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "指甲可是女孩子的魅力点之一，不好好保养怎么行。"
+        },
+        {
+          "language": "日文",
+          "content": "ネイルは女の子のチャームポイントの一つなんだから、ちゃんとケアしないとね。"
+        },
+        {
+          "language": "英文",
+          "content": "Nails are part of a girl's appeal. Gotta take care of them properly."
+        },
+        {
+          "language": "韩文",
+          "content": "네일은 여자들의 매력 포인트 중 하나니까 제대로 관리해야 해."
+        },
+        {
+          "language": "繁体中文",
+          "content": "指甲可是女孩子的魅力點之一，不好好保養怎麼行。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "为什么会叫宴？没什么复杂的原因，就想天天像开宴会一样开心。只要心情好了，什么都会好起来。"
+        },
+        {
+          "language": "日文",
+          "content": "ん？どうして「ウタゲ」なのかって？別に難しい理由はないよ、毎日宴みたいに楽しく過ごせたらなーって。心が晴れやかなら、何事もぜーんぶうまくいくんだから。"
+        },
+        {
+          "language": "英文",
+          "content": "Why do I call myself Utage? Well, it's not that complicated. I just want to be happy as if we were throwing a party every night. As long as I'm in a good mood, everything else is gonna be okay."
+        },
+        {
+          "language": "韩文",
+          "content": "응? 왜 파티라는 뜻의 '우타게'냐고? 딱히 복잡한 이유는 없어. 맨날 파티하는 것처럼, 즐겁게 지내면 좋겠다~ 싶었거든. 늘 기쁜 마음으로 지내면, 무슨 일을 하든 다~ 잘 풀린다잖아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "為什麼會叫宴？沒什麼複雜的原因，就想天天像開宴會一樣開心。只要心情好了，什麼都會好起來。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你看到了啊，博士。那就没办法了——陪我一起去把这张双人优惠券用掉吧。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターに見られちゃったかー。しょうがない、じゃあ――このペア優待券、使うから付き合って。"
+        },
+        {
+          "language": "英文",
+          "content": "You already saw it, Doctor? Well, that's too bad... C'mon, let's use up this two-person discount coupon."
+        },
+        {
+          "language": "韩文",
+          "content": "박사한테 들켰나~ 별수 없네. 자…… 이 2인 할인쿠폰 쓰러 가자."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你看到了啊，博士。那就沒辦法了——陪我一起去把這張雙人優惠券用掉吧。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "患上了矿石病被送到这里来，妈妈怕我受欺负才把家传的狮子王送给我防身。结果嘛，欺负我的人没砍到，坏人倒是割了一茬又一茬。博士你呀，还真是挺会使唤人的。"
+        },
+        {
+          "language": "日文",
+          "content": "鉱石病に感染しちゃってここに送られてきた時、いじめられないか心配だって母さんがこの家宝の「シシオウ」をくれてさ。結局いじめっ子はいなかったけど、悪い奴はザクザクいったね。ドクターってさ、結構人使い荒いよね。"
+        },
+        {
+          "language": "英文",
+          "content": "When I contracted Oripathy and was to be sent here, my mother was afraid I'd be bullied, and gave me the family heirloom, Shishiou, to defend myself with. Didn't find any bullies, but I did manage to cut some pretty nasty folks. Doctor, you really know how to appeal to people."
+        },
+        {
+          "language": "韩文",
+          "content": "광석병에 감염되어 여기로 보내졌을 때, 괴롭힘당할까 봐 걱정이라면서 엄마가 이 가보, '시시오'를 나한테 줬어. 결국 괴롭히는 사람은 없었지만, 나쁜 녀석은 서걱서걱해버렸지. 박사, 솔직히 박사 좀, 사람 부려 먹는 편인 거 알지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "患上了礦石病被送到這裡來，媽媽怕我受欺負才把家傳的獅子王送給我防身。結果嘛，欺負我的人沒砍到，壞人倒是割了一波又一波。博士你呀，還真是挺會使喚人的。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "无论是谁，认真做事的时候都会变得很可怕吧。我是六人份的可怕？呃，有这么吓人吗......"
+        },
+        {
+          "language": "日文",
+          "content": "どんな人でも、本気出す時はわりと怖い雰囲気になるよね。え、あたしの怖さは一人前どころか六人前？そんなに？ウソでしょ……"
+        },
+        {
+          "language": "英文",
+          "content": "Everyone here gets pretty scary when they get serious. I'm as scary as six people combined? Am I really that terrifying...?"
+        },
+        {
+          "language": "韩文",
+          "content": "어떤 사람이든 제대로 할 때는 의외로 무서운 분위기가 되잖아. 뭐? 내 무서움은 한 사람분이 아니라 여섯 명 분이라고? 그렇게나? 에이~ 너무 갔다 그건."
+        },
+        {
+          "language": "繁体中文",
+          "content": "無論是誰，認真做事的時候都會變得很可怕吧。我是六人份的可怕？呃，有這麼嚇人嗎......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明天帮我买十盒限量饼干棒吧，钱从我工资里预支就好。啊？已经预支完了？那......总之，拜托你了，博士，你一定能想到办法的！"
+        },
+        {
+          "language": "日文",
+          "content": "ねぇ、明日限定発売のスティッククッキーを10箱お願い。お金は給料から引いといてくれればいいから。えー？もう残高ゼロ？じゃさ……とにかくお願い！ドクターならなんとかできるでしょー！"
+        },
+        {
+          "language": "英文",
+          "content": "Help me pick up ten boxes of limited-edition cookie sticks tomorrow? Just take the money out of my account. Huh? Preorders are already sold out? Then... c'mon, you've gotta think of a way, Doctor! Please!"
+        },
+        {
+          "language": "韩文",
+          "content": "있잖아, 내일 한정 발매하는 스틱 쿠키 좀 열 상자 부탁할게. 돈은 월급에서 까면 되니까… 뭐어~? 이미 잔고가 텅텅 비었다고? 그럼…… 아~ 그냥 좀 해줘~ 박사라면 어떻게든 할 수 있잖아~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "明天幫我買十盒限量餅乾棒吧，錢從我薪水裡預支就好。啊？已經預支完了？那......總之，拜託你了，博士，你一定能想到辦法的！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士有时候敏锐得要命，有时候又像块木头一样，到底是为什么呢？啊，我懂了，是那个吧，《闺蜜悄悄话指南》之类的，对吧？不愧是博士呢。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターってば、鋭いのか鈍いのかよくわかんないよね。なんでだろ？あーわかった、あれでしょ、『ガールズトーク大全』とか読んでたんじゃない？さっすがドクター～。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, you're razor-sharp some of the time and dull as a piece of wood at others. I don't get why. Oh, I see, right out of 'Flirting Guidebook,' huh? I'd expect nothing less from you, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "박사는 말이야, 예민한 건지 둔한 건지 잘 모르겠단 말이지… 왜 그럴까… 아~ 알았다. 그거네… 《걸즈 토크 대전》 같은 거 따로 읽은 적 있지? 역시 박사라니까~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士有時候敏銳得要命，有時候又像塊木頭一樣，到底是為什麼呢？啊，我懂了，是那個吧，《閨蜜悄悄話指南》之類的，對吧？不愧是博士呢。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "太过依赖一个人不是件好事呢，不过，如果是博士的话......啊博士！不没什么我只是在胡思乱想，您您您找我有什么事吗！"
+        },
+        {
+          "language": "日文",
+          "content": "誰かに頼りすぎるのはダメなんだよね。でもドクターになら……うわっ、ドクターいたの！？い、いやなんでもないよ、適当に考えて適当につぶやいてみただけだって。そ、それであたしになんか用？"
+        },
+        {
+          "language": "英文",
+          "content": "It's not good to rely too much on any single person, but I'll make an exception for... Eek, Doctor! Oh it's nothing, I was just rambling to myself! D-d-did you need anything from me?"
+        },
+        {
+          "language": "韩文",
+          "content": "남한테 너무 기대면 안 좋은데… 근데 박사한테 라면… 으앗 박사, 있었어?! 아, 아니 아무것도 아니야, 그냥 뭐 좀 적당히 생각하다가 적당히 중얼거려 본 것뿐이라니까. 그, 근데 난 왜 찾아 온 거야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "太過依賴一個人不是件好事呢，不過，如果是博士的話......啊博士！不沒什麼我只是在胡思亂想，您您您找我有什麼事嗎！"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "累了就睡吧，别想太多。"
+        },
+        {
+          "language": "日文",
+          "content": "疲れたら寝ればいいよ、深く考えちゃダメ。"
+        },
+        {
+          "language": "英文",
+          "content": "If you're tired, just go to bed. Not that complicated."
+        },
+        {
+          "language": "韩文",
+          "content": "피곤하면 자면 돼. 깊게 생각하면 안 돼."
+        },
+        {
+          "language": "繁体中文",
+          "content": "累了就睡吧，別想太多。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你好呀博士，我是刚当上干员没多久的宴，兴趣是......嗯，不用那么详细吗？那，以后就请您多多关照了哦。"
+        },
+        {
+          "language": "日文",
+          "content": "こんちはードクター、あたしはウタゲ、オペレーターにはまだ成り立てほやほやだけどね。趣味は……え、そこまで言わなくていい？そっか、じゃあ今日からよろしくねー。"
+        },
+        {
+          "language": "英文",
+          "content": "Hey, Doctor. I'm the Operator who just joined recently, Utage. My interests are... Oh, I don't need to go into the details? In that case, I look forward to working with you."
+        },
+        {
+          "language": "韩文",
+          "content": "하이~ 박사, 난 우타게야. 이제 막 오퍼레이터가 된 따끈따끈한 신입이지만, 취미는…… 어? 거기까진 말하지 않아도 된다고? 아 그래… 알았어, 오늘부터 잘 부탁해~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你好呀博士，我是剛當上幹員沒多久的宴，興趣是......嗯，不用那麼詳細嗎？那，以後就請您多多關照了哦。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "放完了？"
+        },
+        {
+          "language": "日文",
+          "content": "もう再生終わったの？"
+        },
+        {
+          "language": "英文",
+          "content": "Is it over?"
+        },
+        {
+          "language": "韩文",
+          "content": "벌써 끝이야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "放完了？"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "升职了的话，能不能少干些活呀。唉，不行吗，好吧......"
+        },
+        {
+          "language": "日文",
+          "content": "昇進できたんだし、仕事減らしてもいいかな？ダメ？そっか……"
+        },
+        {
+          "language": "英文",
+          "content": "Do I get to do less work if I get promoted? No dice? Oh well..."
+        },
+        {
+          "language": "韩文",
+          "content": "승진도 했으니까 일을 줄여도 되겠지? 안된다고? 아 그래……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "升職了的話，能不能少幹些活呀。唉，不行嗎，好吧......"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "该动真格的了。让我们把讨厌的家伙，全部碾碎~"
+        },
+        {
+          "language": "日文",
+          "content": "そろそろ本気出しますかぁ。嫌な奴らぜ～んぶ、潰しに行こ～。"
+        },
+        {
+          "language": "英文",
+          "content": "It's time to move out. Let's crush those nasty folks~"
+        },
+        {
+          "language": "韩文",
+          "content": "슬슬 실력 발휘 해볼까~ 짜증 나는 녀석들 전~부 뭉개버리러 가자~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "該動真格的了。讓我們把討厭的傢伙，全部碾碎~"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好喔，指挥就拜托各位了。"
+        },
+        {
+          "language": "日文",
+          "content": "よーし、指揮はみんなに任せたよー。"
+        },
+        {
+          "language": "英文",
+          "content": "All right everyone, I'll be counting on your orders!"
+        },
+        {
+          "language": "韩文",
+          "content": "좋~았어, 지휘는 여러분한테 맡길게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "好喔，指揮就拜託各位了。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "是队长啊......嗯？我？队长？"
+        },
+        {
+          "language": "日文",
+          "content": "隊長ね……え？あたしが？隊長なの？"
+        },
+        {
+          "language": "英文",
+          "content": "I'm the team leader? ...Eh? Me? Team leader?"
+        },
+        {
+          "language": "韩文",
+          "content": "어, 팀장 말이지…… 에? 내가? 팀장이라고?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "是隊長啊......嗯？我？隊長？"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "出发。"
+        },
+        {
+          "language": "日文",
+          "content": "出発だよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Let's go."
+        },
+        {
+          "language": "韩文",
+          "content": "출발이야!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "出發。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "来吧，来吧，我等不及了。"
+        },
+        {
+          "language": "日文",
+          "content": "キタキター。もう待ちくたびれたよ。"
+        },
+        {
+          "language": "英文",
+          "content": "C'mon, c'mon! I can't wait any longer."
+        },
+        {
+          "language": "韩文",
+          "content": "왔구나 왔어~ 기다리다 목 빠지는 줄 알았네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "來吧，來吧，我等不及了。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯。"
+        },
+        {
+          "language": "日文",
+          "content": "おっす。"
+        },
+        {
+          "language": "英文",
+          "content": "Mhmm."
+        },
+        {
+          "language": "韩文",
+          "content": "알았어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "需要我了吗？"
+        },
+        {
+          "language": "日文",
+          "content": "あたしが必要だね？"
+        },
+        {
+          "language": "英文",
+          "content": "Need me?"
+        },
+        {
+          "language": "韩文",
+          "content": "내가 필요하구나?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "需要我了嗎？"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我开动了~"
+        },
+        {
+          "language": "日文",
+          "content": "いっただきまーす。"
+        },
+        {
+          "language": "英文",
+          "content": "Moving out~"
+        },
+        {
+          "language": "韩文",
+          "content": "잘 먹겠습니다~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我開動了~"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哼哼。"
+        },
+        {
+          "language": "日文",
+          "content": "ふふん～。"
+        },
+        {
+          "language": "英文",
+          "content": "Hehe."
+        },
+        {
+          "language": "韩文",
+          "content": "흐흥~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哼哼。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "切哪儿比较好呢。"
+        },
+        {
+          "language": "日文",
+          "content": "どこ切ればいいのかな。"
+        },
+        {
+          "language": "英文",
+          "content": "Who should I cut?"
+        },
+        {
+          "language": "韩文",
+          "content": "어디를 베면 좋을까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "切哪兒比較好呢。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "捅得准就不会痛了。"
+        },
+        {
+          "language": "日文",
+          "content": "イイとこ突いてれば痛くないからねー。"
+        },
+        {
+          "language": "英文",
+          "content": "It won't hurt if I don't miss."
+        },
+        {
+          "language": "韩文",
+          "content": "찔리는 것도, 잘 찔리면 그렇게 안 아파~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "捅得準就不會痛了。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不要的零件，就送给我吧。"
+        },
+        {
+          "language": "日文",
+          "content": "いらないパーツあったらちょーだい。"
+        },
+        {
+          "language": "英文",
+          "content": "Just send me the leftover parts."
+        },
+        {
+          "language": "韩文",
+          "content": "필요 없는 부품이 있음 좀 줄래?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不要的零件，就送給我吧。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你流泪的样子，还挺可爱的。"
+        },
+        {
+          "language": "日文",
+          "content": "その泣き顔、結構かわいいじゃない。"
+        },
+        {
+          "language": "英文",
+          "content": "You look rather cute when you're crying."
+        },
+        {
+          "language": "韩文",
+          "content": "그렇게 질질 짜는 얼굴, 꽤 귀엽네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你流淚的樣子，還挺可愛的。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊，发泄完了，真开心。博士，我们去吃可丽饼吧。"
+        },
+        {
+          "language": "日文",
+          "content": "あーすっきりした。楽しかったなぁ。ドクター、クレープ食べに行こ？"
+        },
+        {
+          "language": "英文",
+          "content": "Ahh, I'm finally done blowing off steam, how exciting. Doctor, let's get some crepes."
+        },
+        {
+          "language": "韩文",
+          "content": "아~ 개운하다~ 재밌었어~ 박사, 크레이프 먹으러 갈래?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "啊，發洩完了，真開心。博士，我們去吃可麗餅吧。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "很尽兴哦，多谢款待~"
+        },
+        {
+          "language": "日文",
+          "content": "いっぱい楽しませてくれてサンキュー。ごちそうさま～。"
+        },
+        {
+          "language": "英文",
+          "content": "How exciting. Thanks for all the support~"
+        },
+        {
+          "language": "韩文",
+          "content": "잔뜩 즐겁게 해줘서 땡큐~ 잘 먹었습니다~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "很盡興哦，多謝款待~"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "剩下的几个家伙是专门为我而留的吗。那，我就不客气了。"
+        },
+        {
+          "language": "日文",
+          "content": "あたしのためにわざわざあいつら残しといてくれたのー？じゃあ遠慮なくいただくねー。"
+        },
+        {
+          "language": "英文",
+          "content": "You're saving the stragglers for me? Well, I'll dig right in."
+        },
+        {
+          "language": "韩文",
+          "content": "날 위해 일부러 그 녀석들을 남겨두고 간 거야? 그럼, 사양 않고 잘 먹을게~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "剩下的幾個傢伙是專門為我而留的嗎。那，我就不客氣了。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别发呆了博士，快跑起来。"
+        },
+        {
+          "language": "日文",
+          "content": "もうドクター、ボーッとしてないで走るよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, stop spacing out and start running."
+        },
+        {
+          "language": "韩文",
+          "content": "아 쫌…… 박사, 빨리 뛰어 거기 멍하니 있지 말고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "別發呆了博士，快跑起來。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "只要能随时买到新的杂志，住所怎么样其实无所谓的啦。"
+        },
+        {
+          "language": "日文",
+          "content": "雑誌の最新号をいつでも買えるなら、住むところなんてどうだっていいんだよ。"
+        },
+        {
+          "language": "英文",
+          "content": "As long as I can buy the new magazines, it doesn't really matter where I'm staying."
+        },
+        {
+          "language": "韩文",
+          "content": "새로 나오는 잡지를 아무 때나 살 수 있다면, 사는 곳 따위야 아무래도 상관없지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "只要能隨時買到新的雜誌，住所怎麼樣其實無所謂的啦。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯？"
+        },
+        {
+          "language": "日文",
+          "content": "んん？"
+        },
+        {
+          "language": "英文",
+          "content": "Hmm?"
+        },
+        {
+          "language": "韩文",
+          "content": "으응?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一起去唱k吗。"
+        },
+        {
+          "language": "日文",
+          "content": "ねぇ、カラオケ行く～？"
+        },
+        {
+          "language": "英文",
+          "content": "Let's go sing karaoke?"
+        },
+        {
+          "language": "韩文",
+          "content": "저기~ 같이 노래방 갈래~?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "一起去唱k嗎。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "早上好，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "おはよー、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Good morning to you, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "좋은 아침~ 박사."
+        },
+        {
+          "language": "繁体中文",
+          "content": "早上好，博士。"
+        }
+      ]
+    }
+  ]
+}

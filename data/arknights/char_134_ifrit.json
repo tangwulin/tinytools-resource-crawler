@@ -1,0 +1,940 @@
+{
+  "name": "伊芙利特",
+  "charaKey": "char_134_ifrit",
+  "images": [
+    "https://prts.wiki/images/5/53/立绘_伊芙利特_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/f/f2/立绘_伊芙利特_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/3/3d/立绘_伊芙利特_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/0/06/立绘_伊芙利特_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_134_ifrit"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_134_ifrit"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_134_ifrit"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_134_ifrit"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这个办公室怎么这么冷！喂，那个能烧吗？"
+        },
+        {
+          "language": "日文",
+          "content": "なんだよこのクソ寒い部屋！オイ、あれ燃やしていいか？"
+        },
+        {
+          "language": "英文",
+          "content": "Why is this office so damn cold?! Hey, you there! You okay with me using that for kindling?"
+        },
+        {
+          "language": "韩文",
+          "content": "뭐야 이 더럽게 추운 방은! 야, 저거 태워도 돼?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這個辦公室怎麼這麼冷！喂，那個能燒嗎？"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "欸？这本书很贵吗？嘻嘻，叫我一声伊芙利特大人，我就还给你！"
+        },
+        {
+          "language": "日文",
+          "content": "へえ？この本けっこう高いんだ？ヒヒ、イフリータ様って呼ぶなら返してやるよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Oh, How much did you say this book costs? Haha, pricey. Call me Mistress Ifrit and I'll give it back to you."
+        },
+        {
+          "language": "韩文",
+          "content": "호오? 이 책 꽤 비싼가 본데? 히힛, 이프리트 님이라고 부르면 돌려줄게!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "欸？這本書很貴嗎？嘻嘻，叫我一聲伊芙利特大人，我就還給你！"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "什么？要我读这本书？我最讨厌的就是......唔？赫、赫默是这样说的吗？呃......这、这个字怎么念啊？"
+        },
+        {
+          "language": "日文",
+          "content": "はぁ？これだけの本、オレサマに読めって？オレサマが大キライな……ん？サ、サイレンスがそう言ってた？む……こ、この字はなんて読むんだ？"
+        },
+        {
+          "language": "英文",
+          "content": "Huh? You want me to read this book? I hate it when people try to tell me… It's from Silence? Really? Urgh... Wha-what does this word mean here?"
+        },
+        {
+          "language": "韩文",
+          "content": "뭐? 나보고 책을 이만큼이나 읽으라고? 내가 제일 싫어하는… 응? 사, 사일런스가 그러라고 했다고? 에잇… 이, 이 글자는 뭐라고 읽으면 되냐?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "什麼？要我讀這本書？我最討厭的就是......唔？赫、赫默是這樣說的嗎？呃......這、這個字怎麼念啊？"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我最讨厌穿白大褂的家伙盯着我看......就是在说你啊！在说你！别看了，脸转过去！"
+        },
+        {
+          "language": "日文",
+          "content": "白衣のヤツにジロジロ見られんのが一番キライなんだ……オマエのことだよ！オ！マ！エ！見んな！あっち向いてろ！"
+        },
+        {
+          "language": "英文",
+          "content": "I hate it when you white coat creepers stare at me... Yeah, I mean you! What'cha looking at? Go stare at something else!"
+        },
+        {
+          "language": "韩文",
+          "content": "흰옷 입은 녀석이 빤히 쳐다보는 게 제일 싫다고… 너 말이야! 너! 뭘 쳐다봐! 고개 안 돌려?!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我最討厭穿白大褂的傢伙盯著我看......就是在說你啊！在說你！別看了，臉轉過去！"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔呃......我知道啦，不会再用火吓唬大家了。"
+        },
+        {
+          "language": "日文",
+          "content": "むぅ…わかったよ、もう火でみんなを脅かしたりしねーよ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Um... Okay, fine. No more scaring people with fire."
+        },
+        {
+          "language": "韩文",
+          "content": "으으… 알았어. 이제 불로 사람들 안 놀라게 하면 되잖아…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "唔呃......我知道啦，不會再用火嚇唬大家了。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "退后面去！你......靠近我是想干什么？难道你也想把我放到试验台上......？"
+        },
+        {
+          "language": "日文",
+          "content": "近づくな！オマエ……こんなに近づいて何する気だ！まさかオマエもオレサマを実験台に……？"
+        },
+        {
+          "language": "英文",
+          "content": "Back off! You... Why are you coming at me like that? You wanna strap me to a lab table too?"
+        },
+        {
+          "language": "韩文",
+          "content": "가까이 오지 마! 너… 뭐 하려고 이렇게 가까이 오는 건데! 설마… 너도 나를 실험대로 데려가려고 그러는 거야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "退後面去！你......靠近我是想幹什麼？難道你也想把我放到試驗台上......？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "塞雷娅来了吗？让我去见——赫默不准？无所谓的吧？你带我偷偷过去不就好了吗？"
+        },
+        {
+          "language": "日文",
+          "content": "サリアが来てた？オレサマにも会わせ――サイレンスがダメだって？いーじゃん、こっそり連れてってくれよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Saria's&nbsp;here? I want to see her— Silence says no? C'mon, what's the big deal? Just take me to her and keep it off the record!"
+        },
+        {
+          "language": "韩文",
+          "content": "사리아가 왔었다고? 나도 좀 만나보자! ……사일런스가 안 된다고 그랬어? 뭐 어때, 몰래 데려가 주면 되잖아!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "塞雷婭來了嗎？讓我去見——赫默不准？無所謂的吧？你帶我偷偷過去不就好了嗎？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "赫默和塞雷娅，她们究竟为什么吵架？真搞不懂......喂！有没有什么阻止她们的办法？告诉我吧......？"
+        },
+        {
+          "language": "日文",
+          "content": "サイレンスとサリア、なんでケンカしてんの？わけわかんねー……オイ！なんか止める方法ねーのかよ？お、教えてくれって……！"
+        },
+        {
+          "language": "英文",
+          "content": "Why are Silence and Saria arguing all the time? I don't get it... Hey! You gotta know how to get them to make up, right? C'mon, just tell me… I mean, please...?"
+        },
+        {
+          "language": "韩文",
+          "content": "사일런스랑 사리아는 왜 싸우는 걸까? 대체 왜들 그러는지… 야! 뭐 말릴 방법은 없는 거야? 아, 알면 좀 가르쳐 달라고…!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "赫默和塞雷婭，她們究竟為什麼吵架？真搞不懂......喂！有沒有什麼阻止她們的辦法？告訴我吧......？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你怎么对待我都无所谓，对赫默绝对要温柔。她想要什么你都帮她尽力实现！如果你真能做到，从今以后，我就都听你的！"
+        },
+        {
+          "language": "日文",
+          "content": "オレサマはいいけど、サイレンスには絶対優しくしろ。あのヒトがほしいって言ったものは、死に物狂いで手に入れてみせろ！それができたら、オ……オレサマは何でもしてやるからよ！"
+        },
+        {
+          "language": "英文",
+          "content": "I don't care what you think of me, but you'd better be nice to Silence. When she wants something, you go get it for her! Do that, and your wish is my command."
+        },
+        {
+          "language": "韩文",
+          "content": "난 괜찮은데, 사일런스한테는 진짜 잘 해줘야 돼. 그 사람이 원하는 게 있으면, 죽을 각오를 해서라도 구해오라고! 그럴 수 있다면… 나… 난 뭐든지 다 해줄 수 있으니까!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你怎麼對待我都無所謂，對赫默絕對要溫柔。她想要什麼你都幫她盡力實現！如果你真能做到，從今以後，我就都聽你的！"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你这家伙，把我晾在一边一个人睡大觉，胆子很大啊！"
+        },
+        {
+          "language": "日文",
+          "content": "オマエ！オレサマをほったらかして一人で寝るとはいい度胸だな！"
+        },
+        {
+          "language": "英文",
+          "content": "You little...! You've got guts to ignore me and slack off like this!"
+        },
+        {
+          "language": "韩文",
+          "content": "야 임마! 배짱도 참 좋다? 날 내버려 두고 혼자 잠이 오냐!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你這傢伙，把我晾在一邊一個人睡大覺，膽子很大啊！"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我就是伊芙利特！赫默说罗德岛是个好地方，但我不喜欢你们这些穿白大衣的家伙......除了赫默之外。"
+        },
+        {
+          "language": "日文",
+          "content": "オレサマはイフリータ！ロドスは落ち着いて暮らせる場所ってサイレンスは言ってたけど、オマエらみたいな白衣のヤツは大キライなんだよ……。サイレンスは別だけどさ……。"
+        },
+        {
+          "language": "英文",
+          "content": "You stand before the almighty Ifrit! Hmph, Silence says Rhodes Island's a nice place, but there's nothing I hate more than you white-coat science creepers... I mean, except Silence..."
+        },
+        {
+          "language": "韩文",
+          "content": "난 이프리트야. 사일런스가 로도스 아일랜드는 안심하고 살 수 있는 곳이라고 했지만… 너희같이 흰옷 입은 녀석은 정말 꼴도 보기 싫다고… 사일런스는 괜찮지만…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我就是伊芙利特！赫默說羅德島是個好地方，但我不喜歡你們這些穿白大衣的傢伙......除了赫默之外。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "强化？唔，就是我的火焰能烧得更旺，这种感觉？"
+        },
+        {
+          "language": "日文",
+          "content": "強化？んー、オレサマの火がもっと強くなる……ってことか？"
+        },
+        {
+          "language": "英文",
+          "content": "Stronger...? Hmm, that means my flames can burn brighter, right?"
+        },
+        {
+          "language": "韩文",
+          "content": "강화? 음… 내 불이 더 강해진다… 이거지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "強化？唔，就是我的火焰能燒得更旺，這種感覺？"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这是什么？罗德岛干员晋升手册？干什么啊，晋升之后还有这么多麻烦规矩？我才不干！"
+        },
+        {
+          "language": "日文",
+          "content": "なんだコレ？ロドスオペレーター・ショーシンマニュアル？んだよ、ショーシンってこんなめんどいルールがいっぱいあんの？やってらんねー！"
+        },
+        {
+          "language": "英文",
+          "content": "What's this? Promotion Manual for Rhodes Island&nbsp;Operators? Guess I'll give it a peek... What the hell? So many rules even after I get promoted? Nah-uh, pass."
+        },
+        {
+          "language": "韩文",
+          "content": "뭐야 이건? 로도스 아일랜드 오퍼레이터 승진 매뉴얼? 뭐야, 승진 한 번 하는데 뭐 이렇게 귀찮은 규칙이 많아? 못 해 먹겠네~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這是什麼？羅德島幹員晉升手冊？幹什麼啊，晉升之後還有這麼多麻煩規矩？我才不幹！"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嘻嘻，这就对了嘛！那些条条框框我都不懂。反正你需要我的帮助，光这一句就够了！"
+        },
+        {
+          "language": "日文",
+          "content": "ヒヒ。コレでいーんだよ！細かいことなんてわかんねーし、オレサマが必要だって、オレサマがいなきゃダメって言えばいいんだ！"
+        },
+        {
+          "language": "英文",
+          "content": "Haha, that's right! I don't give a damn about all those rules. But, if you say you're counting on me, then that's all the words I need!"
+        },
+        {
+          "language": "韩文",
+          "content": "히힛, 이거면 됐어! 자잘한 건 모르겠고, 그냥 내가 필요하다고, 내가 없으면 안 된다고, 그렇게 말해주면 돼!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嘻嘻，這就對了嘛！那些條條框框我都不懂。反正你需要我的幫助，光這一句就夠了！"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "知道啦知道啦！"
+        },
+        {
+          "language": "日文",
+          "content": "わかったわかった！"
+        },
+        {
+          "language": "英文",
+          "content": "Yeah yeah, I heard ya."
+        },
+        {
+          "language": "韩文",
+          "content": "알았어 알았다고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "知道啦知道啦！"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我是队长？像赫默那样做就行了吗？"
+        },
+        {
+          "language": "日文",
+          "content": "オレサマが隊長？サイレンスみたいにやればいいのか……。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm the captain? So, just do like Silence would, right?"
+        },
+        {
+          "language": "韩文",
+          "content": "내가 팀장이라고? 사일런스처럼 하면 되는 건가……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我是隊長？像赫默那樣做就行了嗎？"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "喂，说好了我是队长，我来下出击命令才对吧！"
+        },
+        {
+          "language": "日文",
+          "content": "オイ、隊長はオレサマなんだから、出撃命令もオレサマの役目だろ！"
+        },
+        {
+          "language": "英文",
+          "content": "Hey! They made me the captain, so I'm the one calling the shots here!"
+        },
+        {
+          "language": "韩文",
+          "content": "야, 팀장은 나니까 출격 명령도 내가 내려야지!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "喂，說好了我是隊長，我來下出擊命令才對吧！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哟，来一次久违的烧烤吧！"
+        },
+        {
+          "language": "日文",
+          "content": "よ！久しぶりにバーベキューやろーぜ！"
+        },
+        {
+          "language": "英文",
+          "content": "Yo! How 'bout another barbecue!"
+        },
+        {
+          "language": "韩文",
+          "content": "야! 간만에 바비큐나 한번 해볼까!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "喲，來一次久違的BBQ吧！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "喂！"
+        },
+        {
+          "language": "日文",
+          "content": "オイ！"
+        },
+        {
+          "language": "英文",
+          "content": "Hey!"
+        },
+        {
+          "language": "韩文",
+          "content": "야 임마!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "喂！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真慢！"
+        },
+        {
+          "language": "日文",
+          "content": "遅ぇ！"
+        },
+        {
+          "language": "英文",
+          "content": "Too slow!"
+        },
+        {
+          "language": "韩文",
+          "content": "느려!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "真慢！"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大地，沸腾吧！"
+        },
+        {
+          "language": "日文",
+          "content": "大地よ、滾れ！"
+        },
+        {
+          "language": "英文",
+          "content": "Let the world BURN!"
+        },
+        {
+          "language": "韩文",
+          "content": "대지여, 용솟음쳐라!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "大地，沸騰吧！"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "地狱，随时填装！"
+        },
+        {
+          "language": "日文",
+          "content": "地獄の業火、いつでもいけるぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "Hellfire, locked and loaded!"
+        },
+        {
+          "language": "韩文",
+          "content": "지옥의 업화, 언제든지 보여줄 수 있어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "地獄，隨時填裝！"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "疼吗？疼吗！"
+        },
+        {
+          "language": "日文",
+          "content": "痛ぇか？痛ぇのか？"
+        },
+        {
+          "language": "英文",
+          "content": "Does it hurt? I bet it does!"
+        },
+        {
+          "language": "韩文",
+          "content": "아프냐? 아프냐고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "疼嗎？疼嗎！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哈哈！再多叫几声！"
+        },
+        {
+          "language": "日文",
+          "content": "ハハッ！もっと声をあげろ！"
+        },
+        {
+          "language": "英文",
+          "content": "Hahaha! Keep screaming!"
+        },
+        {
+          "language": "韩文",
+          "content": "하핫! 왜, 더 소리 질러 봐!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哈哈！再多叫幾聲！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没人在乎你的惨叫！"
+        },
+        {
+          "language": "日文",
+          "content": "オマエの叫びなんて誰にも届かねーよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Shriek all you want! Nobody cares!"
+        },
+        {
+          "language": "韩文",
+          "content": "그렇게 비명 지르면 뭐, 누가 들어주기나 할 거 같아?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "沒人在乎你的慘叫！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "排好队！"
+        },
+        {
+          "language": "日文",
+          "content": "そこに並びやがれ！"
+        },
+        {
+          "language": "英文",
+          "content": "Get in the line of death!"
+        },
+        {
+          "language": "韩文",
+          "content": "거기 한 줄로 서 있어!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "排好隊！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不够！完全不够！根本没人能打败我！"
+        },
+        {
+          "language": "日文",
+          "content": "足んねぇ！足んねぇ！ぜんっぜん足んねぇ！！誰もオレサマには勝てねーんだよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Weak, you're all too weak! I am invincibllllle!"
+        },
+        {
+          "language": "韩文",
+          "content": "부족해! 부족해! 전혀 부족해!! 날 이길 수 있는 녀석은 아무도 없다고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不夠！完全不夠！根本沒人能打敗我！"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这么多废弃物，一把火烧个干净吧？会很暖和的！"
+        },
+        {
+          "language": "日文",
+          "content": "こんなゴミクズども、全部燃やしちまおーぜ？あったまんぞ！"
+        },
+        {
+          "language": "英文",
+          "content": "Why don't we torch all the trash into kindling? It'll be nice and warm!"
+        },
+        {
+          "language": "韩文",
+          "content": "이런 쓰레기 자식들, 그냥 싹 다 태워버리자고! 따뜻해지고 좋겠네!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這麼多廢棄物，一把火燒個乾淨吧？會很暖和的！"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "焦炭，满地焦炭，这种战斗我一个人就足够了。"
+        },
+        {
+          "language": "日文",
+          "content": "ケシズミだよケシズミ。こんなのオレサマ一人で十分だったな。"
+        },
+        {
+          "language": "英文",
+          "content": "Nothing but cinders left now. I could've handled this all by myself!"
+        },
+        {
+          "language": "韩文",
+          "content": "잿더미네 잿더미, 이 정돈 나 혼자서도 충분했는데."
+        },
+        {
+          "language": "繁体中文",
+          "content": "焦炭，滿地焦炭，這種戰鬥我一個人就足夠了。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "可恶......你......都是你的原因，让我出丑！"
+        },
+        {
+          "language": "日文",
+          "content": "クソ……オマエだ……オマエのせいでオレサマは恥をかいたんだ！"
+        },
+        {
+          "language": "英文",
+          "content": "Damn you... You made a fool out of me!"
+        },
+        {
+          "language": "韩文",
+          "content": "젠장… 너 때문이야… 너 때문에 내가 이런 망신을 당한 거라고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "可惡......你......都是你的原因，讓我出醜！"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里是什么地方啊？"
+        },
+        {
+          "language": "日文",
+          "content": "どこだよここ。ああ？"
+        },
+        {
+          "language": "英文",
+          "content": "What kind of place is this? Huh?"
+        },
+        {
+          "language": "韩文",
+          "content": "어디야 여긴, 어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這裡是什麼地方啊？"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "干什么！放开我！"
+        },
+        {
+          "language": "日文",
+          "content": "何すんだよ！放せ！"
+        },
+        {
+          "language": "英文",
+          "content": "The hell are you doing here?"
+        },
+        {
+          "language": "韩文",
+          "content": "뭐 하는 거야! 이거 놔!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "幹什麼！放開我！"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嘻嘻，你这家伙对我还挺好嘛，想和我一起玩吗？"
+        },
+        {
+          "language": "日文",
+          "content": "フフ、オマエ意外といい奴だな。一緒に遊んでやろうか？"
+        },
+        {
+          "language": "英文",
+          "content": "Heheh, you're nicer than I expected. Wanna hang out?"
+        },
+        {
+          "language": "韩文",
+          "content": "히히히… 너, 애가 생각보다 괜찮네. 같이 놀아줄까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嘻嘻，你這傢伙對我還挺好嘛，想和我一起玩嗎？"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊？找我有事吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ああ？オレサマになんか用か？"
+        },
+        {
+          "language": "英文",
+          "content": "You need something?"
+        },
+        {
+          "language": "韩文",
+          "content": "왜, 뭐? 나한테 뭐 볼일 있어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "啊？找我有事嗎？"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,886 @@
+{
+  "name": "梓兰",
+  "charaKey": "char_278_orchid",
+  "images": [
+    "https://prts.wiki/images/b/bb/立绘_梓兰_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/2/21/立绘_梓兰_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_278_orchid"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_278_orchid"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_278_orchid"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_278_orchid"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会把这些都安排好的，交给我吧。"
+        },
+        {
+          "language": "日文",
+          "content": "この手の仕事は私に任せて。うまく片付けておくから。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll make the arrangements. Just leave it to me."
+        },
+        {
+          "language": "韩文",
+          "content": "이런 일은 나한테 맡겨. 잘 처리해 둘 테니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我會把這些都安排好的，交給我吧。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "希望在我忙着处理博士你安排的事务时，组里的其他人不要闹出什么岔子......啊啊啊......一想到这件事，就开始心慌了！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターくんに任された仕事をしてる間くらいは、チームのみんなも大人しくしてくれればいいんだけど……あーあ……気になり出すと仕事が手につかないわ！"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, I certainly hope my teammates won't cause any trouble while I'm here working for you... Aagh, the more I think of it the worse this headache gets..."
+        },
+        {
+          "language": "韩文",
+          "content": "박사가 맡겨준 일을 하는 동안에는 팀원들도 얌전히 있어 주면 좋겠는데… 아아… 신경 쓰기 시작했더니 일이 또 손에 안 잡히네!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "希望在我忙著處理博士你安排的事務時，組裡的其他人不要鬧出什麼岔子......啊啊啊......一想到這件事，就開始心慌了！"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "平静的工作，平静的生活，我想过的也就是这样的日子而已。"
+        },
+        {
+          "language": "日文",
+          "content": "落ち着いた仕事に落ち着いた生活、そんな日々が欲しいだけ。"
+        },
+        {
+          "language": "英文",
+          "content": "An ordinary job, a peaceful life. That's all I ever wanted."
+        },
+        {
+          "language": "韩文",
+          "content": "평온한 일에 평온한 생활, 그런 나날을 원할 뿐이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "平靜的工作，平靜的生活，我想過的也就是這樣的日子而已。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别说了，我不是不擅长和行动预备组A6的其他队员相处，我是看到他们就头疼......"
+        },
+        {
+          "language": "日文",
+          "content": "あのね、A6のメンバーたちとは仲良くできないわけじゃないの、いつも困らされてるだけよ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Yeah, it's not that I don't get along with the other A6 members... I just get a little headache whenever I see them..."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 내가 A6 팀 멤버들이랑 사이좋게 못 지내는 줄 아는 거야? 아니거든? 그냥, 걔네들이 매번 내 속을 썩이니까 그런 거라고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別說了，我不是不擅長和行動預備組A6的其他隊員相處，我是看到他們就頭疼......"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......组里的其他人每天都在惹麻烦，有自闭的，听不懂话的，屡教不改的......要到哪一天大家才会安稳工作啊......"
+        },
+        {
+          "language": "日文",
+          "content": "……面倒事ばかり起こす隊員たちには手を焼いてるわ。コミュ障だし、人の話聞かないし、言われたこともできないし……一体いつになったら落ち着いて仕事ができるようになるのかしら……。"
+        },
+        {
+          "language": "英文",
+          "content": "My group members just bump into new troubles every day. There is the anti-social one, the never listening one, the awfully stubborn one… Just when will they ever settle down and work?..."
+        },
+        {
+          "language": "韩文",
+          "content": "……귀찮은 일만 만드는 팀원들 때문에 정말 돌아버릴 지경이야. 소통 장애에, 말하는 것도 잘 안 듣지, 하라고 한 일도 못 하지…… 대체 언제쯤이면 마음 푹 놓고 일할 수 있게 될까…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "......組裡的其他人每天都在惹麻煩，也有自閉的，聽不懂話的，屢教不改的......要到哪一天大家才會安穩工作啊......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我也不知道自己为什么会被分到这个小组......明明只是想要普普通通地生活的我，为什么要照顾这些问题儿童啊？！不对，月见夜根本不是儿童！"
+        },
+        {
+          "language": "日文",
+          "content": "私もどうしてこのチームに配属されたのか、見当もつかないわ……。私はただ普通に暮らせれば良かっただけなのに、なんでこんな問題児たちの面倒まで見なきゃいけないわけ！？ミッドナイトに至ってはもういい大人なんだから！"
+        },
+        {
+          "language": "英文",
+          "content": "I don't know how I ended up on this team either. All I wanted was an ordinary life. Why did I end up in charge of these... problem children?! Wait a minute, Midnight is a grown man!"
+        },
+        {
+          "language": "韩文",
+          "content": "대체 어쩌다 이 팀에 배치된 건지 영문을 모르겠다니까… 난 그냥 평범하게 살고 싶었는데, 왜 이런 문제아들 뒤치다꺼리까지 해야 되는 건데?! 미드나이트는 심지어 다 큰 어른이잖아!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我也不知道自己為什麼會被分到這個小組......明明只是想要普普通通地生活的我，為什麼要照顧這些問題兒童啊？！不對，月見夜根本不是兒童！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "泡普卡，摸摸她......空爆，绑起来......斑点，别让他生气......月见夜，直接砸晕带走......这样博士你......就也知道怎么去应对A6小组的其他人了......"
+        },
+        {
+          "language": "日文",
+          "content": "ポプカルは撫でてあげて……カタパルトは縛り付けておいて……スポットは怒らせないようにして……ミッドナイトは実力行使で躾ける……これだけ覚えておけば……ドクターくんもA6のお世話係になれるわ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Popukar... gotta pat her on the head. Catapult... gotta tie her up. Spot... never make him mad. As for Midnight, just knock him out. There, Doctor, now you know the proper protocol for dealing with Team A6."
+        },
+        {
+          "language": "韩文",
+          "content": "포푸카는 쓰다듬어주고… 캐터펄트는 어디 묶어놓고… 스팟은 화 안 내게 해주고… 미드나이트는 실력행사로 버릇을 고쳐줘… 이 정도만 기억하면 박사도 A6 팀의 도우미가 될 수 있을 거야…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "泡普卡，摸摸她......空爆，綁起來......斑點，別讓他生氣......月見夜，直接砸暈帶走......這樣博士你......就也知道怎麼去應對A6小組的其他人了......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士要尝尝吗？这些是我自己做的蛋糕，我正准备拿去分给小组里的其他成员，他们最喜欢水果蛋糕了。其实，A6的各位就是群小孩子而已嘛......"
+        },
+        {
+          "language": "日文",
+          "content": "手作りのケーキをチームのみんなに持っていくところよ。ドクターくんも食べてみる？みんなフルーツケーキが大好きなの。A6のメンバーは本当にお子様ばかりね、全く……。"
+        },
+        {
+          "language": "英文",
+          "content": "I made a cake for my teammates. Wanna take a slice, Doctor? Everyone in A6 just love fruitcakes. They really are a bunch of kids, aren't they?"
+        },
+        {
+          "language": "韩文",
+          "content": "직접 만든 케이크를 팀원들한테 가져다주는 길이야. 박사도 먹어 볼래? 다들 과일 케이크를 좋아하거든. A6팀 멤버는 정말이지… 다들 애라니깐…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士要嘗嘗嗎？這些是我自己做的蛋糕，我正準備拿去分給小組裡的其他成員，他們最喜歡水果蛋糕了。其實，A6的各位就是群小孩子而已嘛......"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "今天已经不剩多少时间了，您今天的任务完成了吗？"
+        },
+        {
+          "language": "日文",
+          "content": "もういい時間だわ、今日の仕事は終わったの？ドクターくん。"
+        },
+        {
+          "language": "英文",
+          "content": "Not much time left. Done with your work for the day, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "슬슬 시간이 다 됐네, 오늘 업무는 끝났어? 박사."
+        },
+        {
+          "language": "繁体中文",
+          "content": "今天已經沒剩多少時間了，您今天的任務完成了嗎？"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "预备行动组A6的组长，梓兰，前来报道。您就是博士吗，接下来的工作请多多关照。"
+        },
+        {
+          "language": "日文",
+          "content": "行動予備隊A6の隊長、オーキッドよ。ドクターというのはあなたのことかしら？これからよろしくお願いするわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Captain of Reserve Op Team A6, Orchid, reporting in. Are you the Doctor? I look forward to working with you."
+        },
+        {
+          "language": "韩文",
+          "content": "예비작전팀 A6의 팀장, 오키드야. 당신이 박사 박사지? 앞으로 잘 부탁해."
+        },
+        {
+          "language": "繁体中文",
+          "content": "預備行動組A6的組長，梓蘭，前來報到。您就是博士嗎，接下來的工作請多多關照。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真是让人受益匪浅的录像，我会好好记下来的。"
+        },
+        {
+          "language": "日文",
+          "content": "すごくためになる講習ビデオだったわね、しっかり覚えておくわ。"
+        },
+        {
+          "language": "英文",
+          "content": "I learned a lot from this video. I'll keep it in mind for sure."
+        },
+        {
+          "language": "韩文",
+          "content": "정말 유익한 강습 비디오였어, 꼭 기억해둘게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "真是讓人受益匪淺的錄影，我會好好記下來的。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "十分感谢，之后我也会努力提高自己，为博士争取更好的业绩！"
+        },
+        {
+          "language": "日文",
+          "content": "どうもありがとう。これからももっといい業績をあげられるように、自分磨きに励むわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you so much. I'll work hard to improve my skills from now on and strive for better results for you!"
+        },
+        {
+          "language": "韩文",
+          "content": "고마워. 앞으로도 더 나은 실적을 올릴 수 있도록, 나 자신을 갈고닦는 데 힘쓸게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "十分感謝，之後我也會努力提高自己，為博士爭取更好的業績！"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会好好完成我的任务的。"
+        },
+        {
+          "language": "日文",
+          "content": "与えられた任務は全うするわ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll complete my mission to the best of my ability."
+        },
+        {
+          "language": "韩文",
+          "content": "주어진 임무는 완수하도록 할게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我會好好完成我的任務的。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请各位严格遵循战术手册行事，谢谢配合！"
+        },
+        {
+          "language": "日文",
+          "content": "みんな、戦術マニュアルを厳守すること。よろしく頼むわね！"
+        },
+        {
+          "language": "英文",
+          "content": "Please follow the tactical combat manual closely, everyone. Thank you for your cooperation."
+        },
+        {
+          "language": "韩文",
+          "content": "모두, 전술 매뉴얼을 엄수해줘! 부탁 좀 할게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "請各位嚴格遵循戰術手冊行事，謝謝配合！"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "战斗开始！大家请小心！"
+        },
+        {
+          "language": "日文",
+          "content": "行動開始！みんな、気をつけて！"
+        },
+        {
+          "language": "英文",
+          "content": "The battle has begun! Be careful, everyone!"
+        },
+        {
+          "language": "韩文",
+          "content": "행동 개시! 다들, 조심해!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "戰鬥開始！大家請小心！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请大家务必要按照计划执行任务！全体人员散开！"
+        },
+        {
+          "language": "日文",
+          "content": "作戦通りに動いて頂戴ね！みんな、配置について！"
+        },
+        {
+          "language": "英文",
+          "content": "Please make sure you follow every detail on the plan. Alright, everyone, now spread out!"
+        },
+        {
+          "language": "韩文",
+          "content": "작전대로 움직여줘! 다들 배치 위치로 가 있어!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "請大家務必要按照計畫執行任務！全體人員散開！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请说！"
+        },
+        {
+          "language": "日文",
+          "content": "どうぞ！"
+        },
+        {
+          "language": "英文",
+          "content": "Go ahead."
+        },
+        {
+          "language": "韩文",
+          "content": "얘기해."
+        },
+        {
+          "language": "繁体中文",
+          "content": "請說！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在！"
+        },
+        {
+          "language": "日文",
+          "content": "ええ！"
+        },
+        {
+          "language": "英文",
+          "content": "Here."
+        },
+        {
+          "language": "韩文",
+          "content": "어!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "在！"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "梓兰，准备就绪。"
+        },
+        {
+          "language": "日文",
+          "content": "オーキッド、配置に付いたわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Orchid, ready to move."
+        },
+        {
+          "language": "韩文",
+          "content": "오키드, 배치 장소에 도착했어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "梓蘭，準備就緒。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一切按计划进行。"
+        },
+        {
+          "language": "日文",
+          "content": "手筈通りに。"
+        },
+        {
+          "language": "英文",
+          "content": "Just as planned."
+        },
+        {
+          "language": "韩文",
+          "content": "계획대로."
+        },
+        {
+          "language": "繁体中文",
+          "content": "一切按計劃進行。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "目标锁定！"
+        },
+        {
+          "language": "日文",
+          "content": "目標捕捉！"
+        },
+        {
+          "language": "英文",
+          "content": "Target locked!"
+        },
+        {
+          "language": "韩文",
+          "content": "목표를 포착했다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "目標鎖定！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "阻止敌人的脚步！"
+        },
+        {
+          "language": "日文",
+          "content": "敵の侵攻を食い止めるわ！"
+        },
+        {
+          "language": "英文",
+          "content": "Stop them now!"
+        },
+        {
+          "language": "韩文",
+          "content": "적이 접근하는 걸 막아둘게!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "阻止敵人的腳步！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别烦我！"
+        },
+        {
+          "language": "日文",
+          "content": "邪魔しないで！"
+        },
+        {
+          "language": "英文",
+          "content": "Out of my way!"
+        },
+        {
+          "language": "韩文",
+          "content": "방해하지 마!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "別煩我！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "工作已经够多了！"
+        },
+        {
+          "language": "日文",
+          "content": "もう仕事を増やさないでちょうだい！"
+        },
+        {
+          "language": "英文",
+          "content": "Oh come on, I already have enough work to deal with!"
+        },
+        {
+          "language": "韩文",
+          "content": "이게 진짜… 일을 자꾸 늘리지 좀 말아 줄래?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "工作已經夠多了！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不愧是博士，即使是面对这样的敌人，作战指挥也是如此完美。"
+        },
+        {
+          "language": "日文",
+          "content": "さすがドクターくんね。これだけの敵を相手にしても、完璧に指揮をこなせるなんて。"
+        },
+        {
+          "language": "英文",
+          "content": "Well done, Doctor! Impeccable leadership even against such a tough opponent."
+        },
+        {
+          "language": "韩文",
+          "content": "역시 박사네. 이 정도로 많은 적을 상대해도 완벽하게 지휘할 수 있다니."
+        },
+        {
+          "language": "繁体中文",
+          "content": "不愧是博士，即使是面對這樣的敵人，作戰指揮也是如此完美。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "完美完成了工作！看来今天可以好好休息一下了。"
+        },
+        {
+          "language": "日文",
+          "content": "よし、完璧だわ！今日はゆっくり休めそうね。"
+        },
+        {
+          "language": "英文",
+          "content": "A perfect job! Looks like we can have a good rest today."
+        },
+        {
+          "language": "韩文",
+          "content": "좋아, 완벽해! 오늘은 푹 쉴 수 있겠네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "完美完成了工作！看來今天可以好好休息一下了。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......下次还得更加努力才行。"
+        },
+        {
+          "language": "日文",
+          "content": "……次はもっとしっかりしなきゃ……。"
+        },
+        {
+          "language": "英文",
+          "content": "We need to work harder next time."
+        },
+        {
+          "language": "韩文",
+          "content": "……다음엔 더 정신 차려야겠어……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "......下次還得更加努力才行。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大家都没事吧，我们快离开这里！"
+        },
+        {
+          "language": "日文",
+          "content": "みんな無事ね？さっさと撤退するわよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Is everyone okay? Let's get out of here!"
+        },
+        {
+          "language": "韩文",
+          "content": "다들 무사하지? 어서 철수하자!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "大家都沒事吧，我們快離開這裡！"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真是吵闹的地方......"
+        },
+        {
+          "language": "日文",
+          "content": "騒がしいところね……。"
+        },
+        {
+          "language": "英文",
+          "content": "Oh, What a noisy place..."
+        },
+        {
+          "language": "韩文",
+          "content": "시끌벅적하네…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "真是吵鬧的地方......"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要做什么呀......"
+        },
+        {
+          "language": "日文",
+          "content": "何するのよ……。"
+        },
+        {
+          "language": "英文",
+          "content": "What do you want...?"
+        },
+        {
+          "language": "韩文",
+          "content": "뭐 하는 거야…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "要做什麼呀......"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊啊？还要加班？我就知道——"
+        },
+        {
+          "language": "日文",
+          "content": "はあ？また残業？チッ、そうくると思ってたわ……！"
+        },
+        {
+          "language": "英文",
+          "content": "Huh?! Overtime again?! Ugh, I knew it..."
+        },
+        {
+          "language": "韩文",
+          "content": "뭐? 또 추가 근무라고? 칫, 이렇게 될 줄 알았다니까…!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "啊啊？還要加班？我就知道——"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士你好，今天也好好把计划的任务完成吧。"
+        },
+        {
+          "language": "日文",
+          "content": "おはようドクターくん。今日もしっかり仕事を片付けていきましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "Greetings, Doctor. Let's start today's work just as planned."
+        },
+        {
+          "language": "韩文",
+          "content": "좋은 아침 박사. 오늘도 열심히 일해보자고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士你好，今天也好好把計畫的任務完成吧。"
+        }
+      ]
+    }
+  ]
+}

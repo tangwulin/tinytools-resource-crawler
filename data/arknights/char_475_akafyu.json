@@ -1,0 +1,935 @@
+{
+  "name": "赤冬",
+  "charaKey": "char_475_akafyu",
+  "images": [
+    "https://prts.wiki/images/b/b2/立绘_赤冬_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/0/07/立绘_赤冬_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/7/73/立绘_赤冬_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_475_akafyu"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_475_akafyu"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_475_akafyu"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "叫我来是想干嘛？桌上这么多纸，字密密麻麻的，看着就烦，好想一刀砍翻！"
+        },
+        {
+          "language": "日文",
+          "content": "こんな場所に私を呼んで何がしたいのだ？ああ紙が山積みではないか。しかもどれもまあこんなに字がみっちりと。見ているだけで切り捨てたくなる！"
+        },
+        {
+          "language": "英文",
+          "content": "What did you need me here for? Hah, that's a huge pile of papers on the desk. Filled to the brim with words, too. Just the sight of them makes me want to cut them in half!"
+        },
+        {
+          "language": "韩文",
+          "content": "이런 곳에 날 불러서 뭘 어쩌려는 거지? 종이가 산더미처럼 쌓여있잖아. 심지어 전부 이렇게 글자가 빼곡하게…… 아주 보기만 해도 베어버리고 싶어지네!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "叫我來是想幹嘛？桌上這麼多紙，字密密麻麻的，看著就煩，好想一刀砍翻！"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呼——哈！别吵，我在感受新剑招。思考？不，我不用思考，只需要静心感受。我的招式会在刀锋上自然流淌。"
+        },
+        {
+          "language": "日文",
+          "content": "ふー、はー。騒ぐな、新たな剣技を感じているところだ。技は考案するものではないかとな？いいや、私に思考なぞ不要よ。心静かに感じるだけで事足りる。時が満ちればこの刀が自ずから型をとる。"
+        },
+        {
+          "language": "英文",
+          "content": "Hfph—haah! Leave me alone. I'm trying to feel what my new technique is. Aren't techniques meant to be conceived instead of felt, you say? Hmph, I don't need to think. I just need to quiet down and feel it in my heart, and my technique will naturally unfold on my blade when the time comes."
+        },
+        {
+          "language": "韩文",
+          "content": "후…… 하…… 호들갑 떨지 마라, 새로운 검 기술을 느끼고 있는 중이니까. 기술은 고안하는 것 아니냐고? 아니, 나한테 생각 따윈 필요 없어. 마음을 가라앉히고 느끼는 걸로 충분해. 때가 되면 이 칼이 알아서 형태를 잡지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "呼——哈！別吵，我在感受新劍招。思考？不，我不用思考，只需要靜心感受。我的招式會在刀鋒上自然流淌。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那个忍者......她能躲开你们的视线，但躲不开我的感觉。我不知道她有什么意图。我可以答应你，我不会在此时此地动手。只不过，假如她哪天对我家大人不利——你拦不住我的刀。"
+        },
+        {
+          "language": "日文",
+          "content": "あの忍者……彼奴はお主らの目はごまかせようが、私の感覚は騙せぬぞ。何の意図があるのかは知らぬが、今すぐここで手を下さぬことは約束してやろう。だが、彼奴がお殿様に害をなそうとすることがあれば――私の刀を止めることは叶わぬぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "That ninja... She may be able to stay out of your sight, but she cannot fool my senses. I know not what she's scheming, but I can promise you I shall not engage her right here and now. That said, if I find her trying to do harm to my master—You won't be able to stop my blade."
+        },
+        {
+          "language": "韩文",
+          "content": "그 닌자…… 그자가 그대들의 눈은 속일 수 있을지 몰라도 내 감각은 못 속여. 무슨 의도가 있는 건지는 모르겠지만, 지금 바로 여기서 손을 대진 않겠다고 약속하지. 하지만 그자가 주군께 해를 가하려 한다면…… 내 칼을 멈출 수는 없을 것이다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "那個忍者......她能躲開你們的視線，但躲不開我的感覺。我不知道她有什麼意圖。我可以答應你，我不會在此時此地動手。只不過，假如她哪天對我家大人不利——你攔不住我的刀。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "谁说我看不清了？呵，这体检报告一派胡言。不信的话，尽管来试。多叫几个人来，最壮实的那种，速度要快，一起上。随你们从哪边攻过来，能近我的身就算我输。"
+        },
+        {
+          "language": "日文",
+          "content": "私の目が悪いとな？ハッ、この診断書はでたらめばかりだ。嘘だと思うのなら、試してみるがよい。何人でも呼べばいい。腕が確かで、身軽なのをな。全員でかかってこい。どこからでもよいぞ。僅かなりともこの身に触れることができたのならば、負けを認めてやろう。"
+        },
+        {
+          "language": "英文",
+          "content": "Who says I cannot see? Hmph, this medical report is full of shit. If you don't believe me, just try taking me on. Bring as many men as you want, and bring your strongest, swiftest men. Attack me from whichever direction you wish. If you make it anywhere close to my body, I'll accept defeat."
+        },
+        {
+          "language": "韩文",
+          "content": "내 눈이 나쁘다고? 하, 이 진단서는 온통 엉터리군. 거짓말 같으면 시험해 보도록 해라. 몇 명이든 불러라. 실력이 확실하고 날쌘 사람으로 말이야. 전부 다 덤벼라. 어디서 와도 좋다. 조금이라도 이 몸에 손을 댈 수 있다면 패배를 인정해 주지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "誰說我看不清了？呵，這體檢報告一派胡言。不信的話，儘管來試。多叫幾個人來，最壯實的那種，速度要快，一起上。隨你們從哪邊攻過來，能近我的身就算我輸。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一听大道理，我就头疼，尤其是那种念经似的说个不停的。嘴上说得再好听，等到了利益纷争的时候，骨肉亲情都不顾，还能记得什么理？我这刀，砍的就是伪善之人那层皮！"
+        },
+        {
+          "language": "日文",
+          "content": "もっともらしいものの道理を聞くと頭が痛くなる。特に経でも唱えているように終わりがないものはな。どれほど耳障りがよい言葉を並べようと、利害が絡んだ時には骨肉すら相食むのだ。一体どこにどのような理があると？私のこの一太刀、切るのは彼奴らが被った偽善という名の皮よ！"
+        },
+        {
+          "language": "英文",
+          "content": "It hurts my head when I have to listen to those righteous men and their principles, especially the ones that go on and on like they are preaching their scriptures. It doesn't matter what a feast for the ears their words are. They won't hesitate to stab even their family in the back if it benefits them. How is there any righteousness in what they say? They are hypocrites, and my blade will slice them apart!"
+        },
+        {
+          "language": "韩文",
+          "content": "좀 그럴싸한 도리를 들으면 아주 그냥 머리가 아파 온다니까. 특히 경이라도 읊는 것처럼 끝이 없는 그런 거 말이야. 아무리 듣기 좋은 소리를 늘어놔도 이해관계가 얽혀 있으면 골육상쟁이라고. 도대체 어디에 무슨 이치가 있다는 거야? 내 칼이 베는 건 그 녀석들이 뒤집어쓴 위선이라는 이름의 껍질이라고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "一聽大道理，我就頭疼，尤其是那種念經似的說個不停的。嘴上說得再好聽，等到了利益紛爭的時候，骨肉親情都不顧，還能記得什麼理？我這刀，砍的就是偽善之人那層皮！"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那样的冬天，我见过好几次。雪落到地上，一瞬就成了赤红色。躺着的，坐着的，到处都是。我辨不清他们的脸，也不想看。脸上挺凉，胸口也是，握刀的手倒是热的。啧，我说这些干什么？你不必听着。"
+        },
+        {
+          "language": "日文",
+          "content": "あのような冬の日は、幾度も経験してきたものよ。地に舞い落ちた雪が一瞬で赤に染まる。横たわっている者、座っている者、数え切れぬほどに。誰が誰かも分からぬ、分かりたくもなかった。面は冷えきっていた。胸もだ。ただ刀を握る手だけがどうしてか熱かった。ちっ、つまらぬことを口に出した。お主も聞く必要はないぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "I've seen winters like that many times. The snow fell on the ground and turned red in an instant. They were everywhere, either lying prone or still sitting. I could not make out their faces, nor did I want to figure it out. My face and my chest were frozen cold, though my hands, with my blade held tight, felt hotter than ever. Tsk, why am I even telling you all this? You needn't listen, either."
+        },
+        {
+          "language": "韩文",
+          "content": "그런 겨울날은 몇 번이고 겪어 왔어. 땅에 떨어진 눈이 순식간에 붉게 물들었지. 누워 있는 자, 앉아 있는 자, 셀 수도 없이 말이야. 누가 누군지도 모르고, 알기도 싫었어. 얼굴은 차갑게 식어 있었지. 가슴도 그렇고. 다만, 칼을 쥔 손만은 어째서인지 뜨거웠지…… 쳇, 괜한 소리를 했군. 그대도 들을 필요는 없다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "那樣的冬天，我見過好幾次。雪落到地上，一瞬就成了赤紅色。躺著的，坐著的，到處都是。我辨不清他們的臉，也不想看。臉上挺涼，胸口也是，握刀的手倒是熱的。嘖，我說這些幹什麼？你不必聽著。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯？说了多少次，不要突然站到我跟前！什么，凑上来是为了让我看清楚些？你这人可真古怪，都不必仔细看，我还能分不清你是谁？你以为随便什么人都能离我这么近吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ん？急に私の目の前に立つでないと申しているだろう！何度目だ！なに、近くに寄ったのは私が見えやすいようにとな？ほんにお主はおかしなやつよ。細かく見る必要なぞないわ、お主の姿を間違えるはずがなかろうて。このような距離まで近付くことを、この私が、誰にでも許すと思っているのか？"
+        },
+        {
+          "language": "英文",
+          "content": "Hm? How many times have I told you? Don't stand in front of me without a word! What? You wanted to make yourself more clearly seen? You're a strange fellow. I don't need to look at you to tell you apart from others! You think I just let anybody come this close to me?"
+        },
+        {
+          "language": "韩文",
+          "content": "응? 갑자기 내 눈앞에 서지 말라고 했잖아! 이게 벌써 몇 번째야! 뭐? 가까이 온 건 내가 보기 쉽도록 하기 위해서라고? 그대도 참 이상한 녀석이로군. 자세히 볼 필요 따윈 없다. 그대의 모습을 잘못 볼 리가 없을 테니까. 이런 거리까지 접근하는걸, 내가 아무에게나 허락할 것 같나?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯？說了多少次，不要突然站到我跟前！什麼，湊上來是為了讓我看清楚些？你這人可真古怪，都不必仔細看，我還能分不清你是誰？你以為隨便什麼人都能離我這麼近嗎？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，看你认真起来的样子，倒是和我家大人有几分相似。大概是因为......你与她一样，都会为了远大目标而逼迫自己不断前行吧。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター殿、お主は真面目な顔をしていると、我が殿と似ていなくもないぞ。おそらく……お主はお殿様と同じように、遠大な目標に向けてひたむきに前に進もうと己を追い込んでいるからであろうな。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, you look just like my master when you have such a serious look on you. I suppose... it's because both you and her are forced to go forward in chase of a grand, ambitious goal."
+        },
+        {
+          "language": "韩文",
+          "content": "박사 박사 나리, 그대는 진지한 표정을 지으면 우리 주군과 닮은 것 같단 말이야. 아마…… 그대가 주군처럼 원대한 목표를 향해 그저 나아가려고 자신을 몰아붙이고 있어서겠지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，看你認真起來的樣子，倒是和我家大人有幾分相似。大概是因為......你與她一樣，都會為了遠大目標而逼迫自己不斷前行吧。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大人令我安心待在你们这里，但故土战火未熄，我不可能安心。可是，作为主将，你也值得我尊敬。博士，我既在你麾下，便愿意随你征战，替你斩杀一切！"
+        },
+        {
+          "language": "日文",
+          "content": "お殿様には心安らかにロドスにいろと命じられたが、故郷の戦火はいまだ収まらぬ。安らげるものか。だが、大将としての貴殿が、私の尊敬を得るにふさわしいのもまた事実だ。ドクター殿、貴殿の麾下にある以上、私は貴殿と共に戦に身を投じ、貴殿の刀となって全てを斬り伏せよう。"
+        },
+        {
+          "language": "英文",
+          "content": "My master had me come to Rhodes Island for some peace and quiet, but there is no peace to be had as long as the flames of war rage in my homeland. Nonetheless, as a commander, you have my respect. Doctor, I am under your command. Together, we will take to the battlefield, and I shall slay everyone that stands in our way as your blade!"
+        },
+        {
+          "language": "韩文",
+          "content": "주군께서는 마음 편히 로도스 아일랜드에 있으라고 명령하셨지만, 고향의 전쟁은 아직 끝나지 않았어. 마음이 편할 리 없지. 하지만 대장으로서 그대가 내 존경을 받기 적합한 인물이라는 것도 사실이지. 박사 박사 나리, 그대의 휘하에 있는 이상, 나는 그대와 함께 전장에 몸을 던지고 그대의 칼이 되어 모든 걸 베도록 하겠다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "大人令我安心待在你們這裡，但故土戰火未熄，我不可能安心。可是，作為主將，你也值得我尊敬。博士，我既在你麾下，便也願意隨你征戰，替你斬殺一切！"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这角落挺凉快啊，让让，我也躺下歇一歇。"
+        },
+        {
+          "language": "日文",
+          "content": "このあたりはなかなか涼しいな。ほれちとそちらに寄れ、私もしばし横になるから。"
+        },
+        {
+          "language": "英文",
+          "content": "The air here is nice and cool. Move over a little. Let me lay down a little too."
+        },
+        {
+          "language": "韩文",
+          "content": "이 언저리는 제법 시원하군. 잠깐 저리 비켜 봐라. 나도 잠시 누울 테니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這角落挺涼快啊，讓讓，我也躺下歇一歇。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "赤冬，剑士，最强的那种。我的刀？无论在哪，我都不会放下刀。哈哈，怕了的话躲远一些。"
+        },
+        {
+          "language": "日文",
+          "content": "アカフユ、武士だ。最強というやつだ。この刀が気になると？どこにいようと私が刀を手放すことはないぞ。はは、恐ろしいのならば離れておれ。"
+        },
+        {
+          "language": "英文",
+          "content": "Akafuyu, a swordsman, and the strongest you'll find. Taking a fancy to my katana? I will never set my katana down wheresoever I go. Haha, you better keep your distance if you are scared."
+        },
+        {
+          "language": "韩文",
+          "content": "아카후유, 무사다. 최강이라 이거지. 이 칼이 신경 쓰인다고? 어디에 있든 내가 칼을 놓는 일은 없을 거다. 하하, 그렇게 무서우면 저쪽으로 가 있으라고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "赤冬，劍士，最強的那種。我的刀？無論在哪，我都不會放下刀。哈哈，怕了的話躲遠一些。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "喂喂，我已经够强了！不必浪费这时间！"
+        },
+        {
+          "language": "日文",
+          "content": "おいおい、私はもう十分に強いぞ！わざわざ時間を無駄にすることはない！"
+        },
+        {
+          "language": "英文",
+          "content": "Hey, I'm as strong as it gets already. Stop wasting my time!"
+        },
+        {
+          "language": "韩文",
+          "content": "이봐, 나는 이미 충분히 강하다고! 괜히 시간 낭비하지 마라!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "喂喂，我已經夠強了！不必浪費這時間！"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不需要任何人的认可，但你的好意我会收下。我会拿出我的力量作为回报。"
+        },
+        {
+          "language": "日文",
+          "content": "他人からの肯定なぞ要らぬ。だが、お主の厚意は受け取っておこう。その思いには働きでもって報いようぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "I don't need anyone's acknowledgement, but I appreciate your kindness. I will work to repay the favor."
+        },
+        {
+          "language": "韩文",
+          "content": "남들의 긍정 따윈 필요 없어. 하지만 그대의 호의는 받아 두지. 그 마음에는 공적으로 보답하겠다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我不需要任何人的認可，但你的好意我會收下。我會拿出我的力量作為回報。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呵......要是那帮家伙还在，这时候就该拉我去喝酒庆祝了。这样吧，博士，你陪我去，今天晚上，不醉不休！"
+        },
+        {
+          "language": "日文",
+          "content": "フッ……あの者どもがおったならば、今頃は私を引っ張っていって、祝いだと酒をかっ喰らっているころだ。こうしようドクター殿、お主が付き合え。今夜は潰れるまで呑むぞ！"
+        },
+        {
+          "language": "英文",
+          "content": "Heh... if these guys are still here, they should be dragging me into their celebrations any minute now. How about this, Doctor, come with me! We'll drink till we drop tonight!"
+        },
+        {
+          "language": "韩文",
+          "content": "훗…… 그들이 있었다면 지금쯤 날 끌고 가선 축배라며 술을 퍼마시고 있었겠지. 이렇게 하지, 박사 나리. 그대가 어울려 줘라, 오늘 밤은 쓰러질 때까지 마시자고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "呵......要是那幫傢伙還在，這時候就該拉我去喝酒慶祝了。這樣吧，博士，你陪我去，今天晚上，不醉不休！"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "快点出发，刀都快锈了。"
+        },
+        {
+          "language": "日文",
+          "content": "さっさと出発せぬか、刀が錆びてしまいそうだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Let's get going already. My katana is starting to rust."
+        },
+        {
+          "language": "韩文",
+          "content": "바로 출발하자고, 칼이 녹슬겠어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "快點出發，刀都快鏽了。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你早该这么做了。来啊，都跟我一起上！"
+        },
+        {
+          "language": "日文",
+          "content": "そうこなくてはのう！さあ、皆のもの、私と共に参れ！"
+        },
+        {
+          "language": "英文",
+          "content": "Now we're talking! All of you, come with me!"
+        },
+        {
+          "language": "韩文",
+          "content": "그렇게 나와주셔야지! 자, 모두 나를 따르라!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你早該這麼做了。來啊，都跟我一起上！"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "现在，出击！"
+        },
+        {
+          "language": "日文",
+          "content": "今だ、出撃せよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Now! Sortie!"
+        },
+        {
+          "language": "韩文",
+          "content": "지금이다, 출격하라!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "現在，出擊！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不管是谁，都将被我斩杀于刀下！"
+        },
+        {
+          "language": "日文",
+          "content": "誰であろうと、私の刀の錆になる運命よ！"
+        },
+        {
+          "language": "英文",
+          "content": "No matter who, I shall slay them by my katana!"
+        },
+        {
+          "language": "韩文",
+          "content": "상대가 누가 됐든, 전부 내 칼의 녹이 될 운명이다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不管是誰，都將被我斬殺於刀下！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我在。"
+        },
+        {
+          "language": "日文",
+          "content": "ここにおるぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm here."
+        },
+        {
+          "language": "韩文",
+          "content": "여기 있다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我在。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "等不及出刀了。"
+        },
+        {
+          "language": "日文",
+          "content": "さっさと刀を交えたいものだ。"
+        },
+        {
+          "language": "英文",
+          "content": "I've been waiting to draw my katana."
+        },
+        {
+          "language": "韩文",
+          "content": "빨리 칼을 맞대보고 싶군."
+        },
+        {
+          "language": "繁体中文",
+          "content": "等不及出刀了。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我要上了！"
+        },
+        {
+          "language": "日文",
+          "content": "いざ出陣！"
+        },
+        {
+          "language": "英文",
+          "content": "Let's take to the field!"
+        },
+        {
+          "language": "韩文",
+          "content": "자, 출진이다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我要上了！"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "领教我的剑招吧！"
+        },
+        {
+          "language": "日文",
+          "content": "この刃を受けてみるがよい！"
+        },
+        {
+          "language": "英文",
+          "content": "Try taking on my blade head on!"
+        },
+        {
+          "language": "韩文",
+          "content": "이 칼날을 받아 봐라!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "領教我的劍招吧！"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看好，我要拔刀了——"
+        },
+        {
+          "language": "日文",
+          "content": "見ておれ。抜くぞ――！"
+        },
+        {
+          "language": "英文",
+          "content": "Just watch... Here I go!"
+        },
+        {
+          "language": "韩文",
+          "content": "잘 봐라. 간다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "看好，我要拔刀了——"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "来一个，斩一个，来一千，斩一千！"
+        },
+        {
+          "language": "日文",
+          "content": "一人だろうと千人だろうと変わらん！斬る！"
+        },
+        {
+          "language": "英文",
+          "content": "It doesn't matter whether there's one or a thousand of you! I shall slay all that come my way!"
+        },
+        {
+          "language": "韩文",
+          "content": "한 명이든 천 명이든 똑같다! 베어 주마!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "來一個，斬一個，來一千，斬一千！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不光头颅，杀气亦可斩断！"
+        },
+        {
+          "language": "日文",
+          "content": "反抗する意志すらも叩き斬ってくれるわ！"
+        },
+        {
+          "language": "英文",
+          "content": "I'll slay even your will to fight back!"
+        },
+        {
+          "language": "韩文",
+          "content": "반항할 의지마저 힘껏 베어 주마!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不光頭顱，殺氣亦可斬斷！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的刀知道敌人在哪。"
+        },
+        {
+          "language": "日文",
+          "content": "私の刀が敵の在り処を知っておる。"
+        },
+        {
+          "language": "英文",
+          "content": "My katana knows exactly where my foes are."
+        },
+        {
+          "language": "韩文",
+          "content": "내 칼이 적이 있는 곳을 알고 있다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我的刀知道敵人在哪。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "更强的敌人在哪里？"
+        },
+        {
+          "language": "日文",
+          "content": "もっと強い敵はいずこにおる？"
+        },
+        {
+          "language": "英文",
+          "content": "Where are the foes actually worth fighting?"
+        },
+        {
+          "language": "韩文",
+          "content": "더 강한 적은 어디에 있지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "更強的敵人在哪裡？"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "算不上什么激烈的战斗，我还没出多少汗。"
+        },
+        {
+          "language": "日文",
+          "content": "これしきの戦い、なにほどのものでもない。汗もかかぬわ。"
+        },
+        {
+          "language": "英文",
+          "content": "That was hardly a battle. I didn't so much as break a sweat."
+        },
+        {
+          "language": "韩文",
+          "content": "이런 전투쯤은 아무것도 아니야. 땀도 안 나는군."
+        },
+        {
+          "language": "繁体中文",
+          "content": "算不上什麼激烈的戰鬥，我還沒出多少汗。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有敌人跑了？不，不可能是我没看见。"
+        },
+        {
+          "language": "日文",
+          "content": "逃げた敵がおるのか？違う、見えていなかったわけではない！"
+        },
+        {
+          "language": "英文",
+          "content": "We had enemies slip past us? Impossible. There's no way I didn't see them."
+        },
+        {
+          "language": "韩文",
+          "content": "도망친 적이 있는 건가? 아니, 안 보였던 게 아니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "有敵人跑了？不，不可能是我沒看見。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不会逃。既然刀未折断，我还可以再战！"
+        },
+        {
+          "language": "日文",
+          "content": "私は退かぬぞ。刀が折れておらぬ以上、私はまだ戦える！"
+        },
+        {
+          "language": "英文",
+          "content": "I won't run away. As long as my katana is in one piece, I can still fight!"
+        },
+        {
+          "language": "韩文",
+          "content": "나는 물러서지 않는다. 칼이 부러지지 않은 이상, 아직 싸울 수 있어!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我不會逃。既然刀未折斷，我還可以再戰！"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好小的房间！说好了啊，别让我待太久，我会憋不住拔刀的！"
+        },
+        {
+          "language": "日文",
+          "content": "狭っ苦しい部屋だのう。あまりここに長居させるでないぞ、堪えられずに刀を抜いてしまいそうだ！"
+        },
+        {
+          "language": "英文",
+          "content": "What a small room! Don't keep me waiting in here for too long! I might not be able to keep myself from drawing my katana!"
+        },
+        {
+          "language": "韩文",
+          "content": "방 꼬라지하곤 좁아터지겠네. 여기에 너무 오래 두지 마라. 못 참고 칼을 뽑을 것 같으니까!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "好小的房間！說好了啊，別讓我待太久，我會憋不住拔刀的！"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔......我说啊，你要是敌人的话，已经变成两截了哦？"
+        },
+        {
+          "language": "日文",
+          "content": "フッ……のう、お主が敵であったならば、今頃は真っ二つであるのだからな？"
+        },
+        {
+          "language": "英文",
+          "content": "Hmph... Hey, if you were my enemy, I would already have cut you into two halves."
+        },
+        {
+          "language": "韩文",
+          "content": "훗…… 어이, 그대가 적이었다면 지금쯤 두 동강이 났겠지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "唔......我說啊，你要是敵人的話，已經變成兩截了哦？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "走走走，一块喝酒吃肉去！"
+        },
+        {
+          "language": "日文",
+          "content": "さささ、共に酒と肉を喰らいに行こうぞ！"
+        },
+        {
+          "language": "英文",
+          "content": "Now, now! Let's get ourselves all the ale and meat!"
+        },
+        {
+          "language": "韩文",
+          "content": "자자자, 함께 술과 고기를 즐기러 가자고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "走走走，一塊喝酒吃肉去！"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哟，博士，要陪我练剑吗？"
+        },
+        {
+          "language": "日文",
+          "content": "いよぅ、ドクター殿、共に剣術の稽古をするか？"
+        },
+        {
+          "language": "英文",
+          "content": "Hey, Doctor, how about some sword training together?"
+        },
+        {
+          "language": "韩文",
+          "content": "여, 박사 나리. 같이 검술 연습 안 하겠나?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "喲，博士，要陪我練劍嗎？"
+        }
+      ]
+    }
+  ]
+}

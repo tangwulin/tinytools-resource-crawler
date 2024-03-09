@@ -1,0 +1,935 @@
+{
+  "name": "埃拉托",
+  "charaKey": "char_4043_erato",
+  "images": [
+    "https://prts.wiki/images/f/f2/立绘_埃拉托_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/5/53/立绘_埃拉托_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/c/c6/立绘_埃拉托_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4043_erato"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4043_erato"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4043_erato"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "是想让我陪着你吗？可以哦。"
+        },
+        {
+          "language": "日文",
+          "content": "私（わたくし）に側にいてほしいの？よろしくてよ。"
+        },
+        {
+          "language": "英文",
+          "content": "You want me to be your accompanist? Sure thing."
+        },
+        {
+          "language": "韩文",
+          "content": "제가 곁에 있기를 바라시는 건가요? 좋아요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "是想讓我陪著你嗎？可以哦。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "无论琴艺还是弓术，我的实力在米诺斯都是首屈一指的。看，这是我在勇士大会射箭比赛上赢下的奖牌，漂亮吧？竖琴水平的证明？许多剧团都请我伴奏不算吗？唔......你坐下，我弹给你听。"
+        },
+        {
+          "language": "日文",
+          "content": "竪琴（リラ）の演奏においても、弓術においても、私の実力はミノス屈指のものでしてよ。こちらは私が勇士大会の弓射部門で勝利の栄冠を勝ち取った際の褒章ですの、美しいでしょう？楽士としての腕も証明してほしい？私に伴奏を依頼する劇団が列を成しているのを知りませんこと？そう……ではお掛けになって、今聴かせて差し上げましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "Whether in harpistry or archery, my skill is second to none in all of Minos. Look, this is the medal I won in Hymnic archery. Beautiful, isn't it? Proof of my skills as a harpist? Several troupes have asked me to accompany them, you know~ Hmm... Actually, sit down. I'll play something for you."
+        },
+        {
+          "language": "韩文",
+          "content": "리라 연주든, 궁술이든, 제 실력은 미노스에서 최고랍니다. 보세요, 이건 제가 용사 대회의 궁술 시합에서 따낸 메달이랍니다, 예쁘죠? 리라 실력은 어떻게 증명하냐고요? 제게 연주를 제의하는 극단이 줄을 선 것도 모르시나요? 흐음…… 여기 앉아 보세요, 지금 연주해 드릴 테니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "無論琴藝還是弓術，我的實力在米諾斯都是首屈一指的。看，這是我在勇士大會射箭比賽上贏下的獎牌，漂亮吧？豎琴水準的證明？許多劇團都請我伴奏不算嗎？唔......你坐下，我彈給你聽。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "米诺斯是个浪漫的地方，终日可见哲人辩论、武者较量、伶人排演英雄的戏剧。但那里的酒真是危险的东西，可以让人疯狂，做出危险可怕的事......你问我怎么知道的？才不会告诉你！"
+        },
+        {
+          "language": "日文",
+          "content": "ミノスはロマンチックな場所ですわ。いたるところで、哲学者が議論を交わし、武芸者は腕を競い合い、役者は英雄譚を上演しておりますの。けど、彼の地のお酒はいけませんわ、人を狂わせて、とんでもないことをしでかしてしまうもの……なぜ知ってるかですって？お、教えるものですか！"
+        },
+        {
+          "language": "英文",
+          "content": "Minos is a land of Romance. Day in and day out, you can see philosophers debating, warriors competing, and actors rehearsing grand epics. I will say though, our booze is some dangerous stuff. It's enough to drive one crazy, make one do fearsome things... How do I know? As if I'd tell you!"
+        },
+        {
+          "language": "韩文",
+          "content": "미노스는 낭만이 있는 장소랍니다, 언제든 철학자들이 토론을 벌이고, 무예가들이 무술을 겨루고, 배우들이 영웅담을 연기하는 걸 볼 수 있죠. 하지만 미노스의 술은 정말 위험한 물건이에요. 사람을 미치게 하고, 또 위험하고 무서운 일을 저지르게 만드니까요…… 어떻게 아냐고요? 안 알려 줄 거예요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "米諾斯是個浪漫的地方，終日可見哲人辯論、武者較量、伶人排演英雄的戲劇。但那裡的酒真是危險的東西，可以讓人瘋狂，做出危險可怕的事......你問我怎麼知道的？才不會告訴你！"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "悲剧应当是英雄传说里最耀眼的宝石......虽然很想这么说，但帕拉斯的故事的确令人叹惋。对英雄来说隐姓埋名才是最大的屈辱。“英雄的神话不能有缺陷”，她是这么说的？我不能认同。"
+        },
+        {
+          "language": "日文",
+          "content": "悲劇は、英雄譚の中でもっとも目を引く輝石であるべき……と言いたいところではありますけど、パラス様の物語は確かに嘆息したくなるものですわ。英雄にとって名を隠さねばならぬことこそ最大の屈辱。「英雄譚に瑕疵はあってはならない」って、彼女はそう仰ったの？私は同意致しかねますわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Tragedies are the most dazzling gems among our grand epics... or so I'd like to say, but Pallas's story is one of great disappointment. There is no greater humiliation than for a hero to remain unsung. 'There must be no flaws in a hero's mythos?' She said that? I simply cannot agree."
+        },
+        {
+          "language": "韩文",
+          "content": "비극은 영웅담 중에서도 가장 눈부신 보석 같은 것…… 이라고 말하고는 싶지만, 팔라스 님의 이야기는 참으로 애석할 정도지요. 영웅에게 이름을 숨기는 것 보다 굴욕적인 건 없으니까요. “영웅의 신화에 결함이 있어서는 안 된다”라고 말씀하셨다고요? 전 인정할 수 없어요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "悲劇應當是英雄傳說裡最耀眼的寶石......雖然很想這麼說，但帕拉斯的故事的確令人歎惋。對英雄來說隱姓埋名才是最大的屈辱。“英雄的神話不能有缺陷”，她是這麼說的？我不能認同。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "从米诺斯到玻利瓦尔，从哥伦比亚到莱塔尼亚。每处地方都有不同的风景，不同的浪漫。也正是因为不同，才会有无休止的敌意与纷争吧。但就像蔷薇不会因带刺而折损美貌，这片大地同样值得去爱。"
+        },
+        {
+          "language": "日文",
+          "content": "ミノスからボリバル、そしてクルビアからリターニア。どの場所にも異なる風景があり、異なる風情がございました。正にその相違こそが、止めどなく湧き出でる敵意と終わらぬ紛争の原由となるのでしょう。ですがバラに棘があろうと、花の美しさは損なわれぬように、この大地もまた愛せる場所ですわ。"
+        },
+        {
+          "language": "英文",
+          "content": "From Minos to Bolívar, from Columbia to Leithanien. Each place has its own scenery and its own romance, and it is precisely because of this uniqueness that endless enmity and conflict are inevitable. But just as roses do not lose their beauty simply because they have thorns, this great land is equally worthy of love."
+        },
+        {
+          "language": "韩文",
+          "content": "미노스에서 볼리바르, 그리고 컬럼비아에서 라이타니엔까지. 모두 각각 다른 풍경과 낭만을 품고 있지요. 물론 그토록 다르기에 적개심과 분쟁이 끊이지 않는 것이겠죠. 하지만, 가시가 달린 장미라고 하여 그 아름다움에 흠이 생기지 않는 것처럼, 이 땅도 마찬가지로 사랑받을 가치가 있답니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "從米諾斯到玻利瓦爾，從哥倫比亞到萊塔尼亞。每處地方都有不同的風景，不同的浪漫。也正是因為不同，才會有無休止的敵意與紛爭吧。但就像薔薇不會因帶刺而折損美貌，這片大地同樣值得去愛。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "再强大的英雄也无法独自赢下一场战争，就像诗篇需要有人传唱才有意义，英雄也需要和他人站在一起才能成为英雄。之前我总觉得我的旅程少了些什么，直到来到这里，我才觉得这份空缺被填补了。"
+        },
+        {
+          "language": "日文",
+          "content": "どれほど強大な英雄であろうと、一人で戦に勝利することはできません。詩が誰かに歌い広められてこそ意味を持つように、英雄も他者と共にいて初めて英雄となるんですの。ロドスに来るまでは、私の旅路に何か欠けている気がしていましたけど、今はそれが埋められたと感じていますわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Even the mightiest hero cannot win a war alone. Just as an epic must be passed down to be meaningful, a hero must stand with others to even become a hero. In the past, I always felt as if something was missing from my journey. That 'something' has been found since I came here."
+        },
+        {
+          "language": "韩文",
+          "content": "아무리 강한 영웅이라 할지라도 홀로 싸워 전쟁에서 승리를 거둘 수는 없습니다. 많은 사람들이 읊기 시작해야 의미가 있는 시처럼, 영웅 또한 타인과 함께할 때 진정한 영웅으로 거듭날 수 있죠. 여기에 오기 전까지는 늘 제 여정에 뭔가 부족한 기분이었지만, 지금에 와서는 그 공백이 채워지는 느낌이 드네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "再強大的英雄也無法獨自贏下一場戰爭，就像詩篇需要有人傳唱才有意義，英雄也需要和他人站在一起才能成為英雄。之前我總覺得我的旅程少了些什麼，直到來到這裡，我才覺得這份空缺被填補了。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "至高神在大地上散播下无解的疾病，医神因反对祂而遭到放逐。失去神力的医神坚持用知识为人类解除病痛......啊，这个不是米诺斯神话，是我自己编的故事哦。"
+        },
+        {
+          "language": "日文",
+          "content": "最高神が大地に不治の病を撒き、医神は彼の方に異を唱えて神の庭を追われましたの。神力を失った医神は、それでも残された知識で人類から病の苦しみを取り除こうと奮闘なさいました……あ、このお話はミノス神話ではございませんわよ、私が考えましたの。"
+        },
+        {
+          "language": "英文",
+          "content": "The Supreme One spread an incurable disease across the land, and the Healer was banished for opposing Him. The Healer, stripped of the power of divinity, descended to alleviate humankind's suffering through knowledge... Oh, this isn't Minos mythology or anything, it's just a story I made up."
+        },
+        {
+          "language": "韩文",
+          "content": "지고한 신이 대지에 불치병을 퍼뜨렸을 때, 의술의 신은 그에게 반기를 들어 추방되고 말았습니다. 의술의 신은 신력을 잃었음에도 지식으로 사람들의 고통을 없애려 분투했죠…… 아, 이건 미노스의 신화가 아니라, 제가 지은 이야기랍니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "至高神在大地上散播下無解的疾病，醫神因反對祂而遭到放逐。失去神力的醫神堅持用知識為人類解除病痛......啊，這個不是米諾斯神話，是我自己編的故事哦。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这把武器是弓还是琴？都是哦。弓术和琴艺异曲同工，都需要专注并保持优雅。像这样，轻轻地将手指放在弦上，用心感知指尖传来的震动。要试试吗？不对不对，手势不是这样。把手给我，我教你。"
+        },
+        {
+          "language": "日文",
+          "content": "この武器？竪琴（リラ）でもあり、弓でもありますわよ。演奏も弓術も同工異曲で、どちらも優雅さと集中が必要ですの。このように、指を軽ーく弦に添えて、指の先から伝わる振動を感じるのです。ドクターもやってみませんこと？……違います、そうではありませんわよ。手をお貸しなさい、教えて差し上げます。"
+        },
+        {
+          "language": "英文",
+          "content": "Is this instrument a bow or a harp? Both~ The techniques behind the two are similar, both requiring discipline and elegance. Like this, gently place your fingertips on the strings, and thoughtfully acquaint yourself with the vibration from your fingertips. Want to give it a try? No, no, not like that. Give me your hand, I'll teach you."
+        },
+        {
+          "language": "韩文",
+          "content": "이 무기가 리라인지 활인지 모르겠다고요? 둘 다라고 할 수 있어요. 궁술과 리라 연주 모두 집중력과 우아함을 유지하는 자세가 필요하죠. 손가락을 현 위에 가볍게 올리고, 손끝에서부터 전해져 오는 진동을 마음으로 느끼는 거예요. 한번 해 보시겠어요? 아뇨, 자세가 틀렸어요. 손을 이리 주세요, 제가 가르쳐 드리죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這把武器是弓還是琴？都是哦。弓術和琴藝異曲同工，都需要專注並保持優雅。像這樣，輕輕地將手指放在弦上，用心感知指尖傳來的震動。要試試嗎？不對不對，手勢不是這樣。把手給我，我教你。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我在看什么？这是一本维多利亚的爱情诗集，要听我念念吗？没什么好害羞的，爱和勇气一样，都是理应热烈灼目，毫不需要遮掩的东西。来一起读诗吧，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "これですか？ヴィクトリアの恋愛詩集ですの、読んで差し上げましょうか？恥ずかしがることはございませんわ、愛も勇気と同じく、秘し隠す必要などないもの。目に焼き付いて消えないほど熱いのが当たり前ですから。さ、ドクター、一緒に詩を読みましょう？"
+        },
+        {
+          "language": "英文",
+          "content": "What am I reading? A volume of Victorian love poems. Shall I read some aloud for you? There's no need to be bashful; love and courage are one in the same – they should be red-hot and eye-catching, things that need not be concealed. Come, let's read some poetry together, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "뭘 읽고 있냐고요? 이건 빅토리아의 사랑에 관한 시집이에요. 읽어 드릴까요? 부끄러워하실 것 없어요. 사랑은 용기와도 같이 뜨겁고 눈부신 것이니, 숨길 필요는 전혀 없답니다. 자 박사님, 함께 읽어 볼까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我在看什麼？這是一本維多利亞的愛情詩集，要聽我念念嗎？沒什麼好害羞的，愛和勇氣一樣，都是理應熱烈灼目，毫不需要遮掩的東西。來一起讀詩吧，博士。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，博士？睡着了啊......本来还准备了一首曲子想弹给你听呢......"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、ドクター？眠ってしまいましたのね……一曲弾いてあげようと思って用意していましたのに……"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, Doctor? Oh, you're asleep, huh? I was thinking about playing a little song for you, oh well..."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 박사님? 잠들어 버리셨네요… 한 곡 연주해 드릴 생각이었는데……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，博士？睡著了啊......本來還準備了一首曲子想彈給你聽呢......"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里就是罗德岛吧，终于，终于找到了......不，这一切都是命运指引的相逢，应该说正是时候！叫我埃拉托就好，请问帕拉斯在吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ここがロドスですわよね。やっと、やっと見つけましたわ……いえ、これも全て運命の導きによる邂逅というものですから、正しい時にやってきたと言うべきですわね！私のことはエラトでよろしくてよ。ところでパラス様はいらっしゃるかしら？"
+        },
+        {
+          "language": "英文",
+          "content": "So this is Rhodes Island, huh? At last, at long last... No, all of this was ordained by fate, so I should be saying, it's about time! You can call me Erato. Is Pallas here, may I ask?"
+        },
+        {
+          "language": "韩文",
+          "content": "이곳이 바로 로도스 아일랜드로군요. 드디어, 드디어 찾아냈어요…… 아니요, 모두 운명이 인도한 만남이니, 때가 되어서 도착한 것이라고 말해야겠죠. 에라토라고 불러 주세요. 그런데 혹시, 팔라스 님도 여기 계신가요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這裡就是羅德島吧，終於，終於找到了......不，這一切都是命運指引的相逢，應該說正是時候！叫我埃拉托就好，請問帕拉斯在嗎？"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "原来团队作战还有这么多学问啊......"
+        },
+        {
+          "language": "日文",
+          "content": "集団で作戦を遂行する際には、考えるべきことが沢山ございますのね……"
+        },
+        {
+          "language": "英文",
+          "content": "I didn't realize there was still so much to learn when it comes to team combat..."
+        },
+        {
+          "language": "韩文",
+          "content": "단체 작전이란 것은, 고려해야 할 요소가 많은 일이었군요……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "原來團隊作戰還有這麼多學問啊......"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "职位？晋升？不不不，英雄不该将目光局限在这些事物上。不过我会把这个奖章当作我们信赖的证明收下来的。"
+        },
+        {
+          "language": "日文",
+          "content": "職位？昇進？いえいえ、英雄はそのようなものに拘泥してはなりませんのよ。とはいえ、この褒章は私たちの信頼の証として受け取っておきますわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Rankings? Promotions? No, no, heroes ought not focus their sights on such trivial things. But, I will accept this accolade as proof of our mutual trust."
+        },
+        {
+          "language": "韩文",
+          "content": "직위? 승진이요? 아뇨, 영웅은 이러한 것에 휘둘려서는 안 되는 법이랍니다. 그래도 이 훈장은 박사님과 저 사이의 신뢰의 증거로 받아두겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "職位？晉升？不不不，英雄不該將目光侷限在這些事物上。不過我會把這個獎章當作我們信賴的證明收下來的。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "现在应该弹奏一曲吗，还是算了？我想想该怎么说......嗯，以米诺斯十二英雄的名义在此起誓，我的弓弦托付给你，我的琴声永远陪伴在你身边。"
+        },
+        {
+          "language": "日文",
+          "content": "一曲弾くべき場面かしら、それともやめておく？どう伝えればいいか少し考えますわね……ふう、ミノス十二英雄の名に誓って、この弓弦をあなたに預け、この竪琴（リラ）の音は永遠にあなたと共に。"
+        },
+        {
+          "language": "英文",
+          "content": "Should I celebrate this occasion by playing a song, or no? Let me think about what to say... Hmm, in the name of the Twelve Heroes of Minos, I dedicate my bowstring to thee, and my harp shall accompany thee into the ages."
+        },
+        {
+          "language": "韩文",
+          "content": "한 곡 연주할까요, 아니면 이대로 있을까요? 어떻게 말할지 생각부터 해봐야겠어요…… 후우, 미노스 12영웅의 이름을 걸고 이곳에서 선서합니다. 제 활시위를 당신께 맡기고, 이 리라의 소리는 영원히 당신의 곁에 있을 것을 맹세합니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "現在應該彈奏一曲嗎，還是算了？我想想該怎麼說......嗯，以米諾斯十二英雄的名義在此起誓，我的弓弦託付給你，我的琴聲永遠陪伴在你身邊。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让你们见识一下冠绝米诺斯的弓术。"
+        },
+        {
+          "language": "日文",
+          "content": "ミノスに冠たる弓術をご覧にいれましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "Witness the crown jewel of Minoan archery."
+        },
+        {
+          "language": "韩文",
+          "content": "미노스 최고의 궁술을 보여 드리죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "讓你們見識一下冠絕米諾斯的弓術。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "全都交给我吧。"
+        },
+        {
+          "language": "日文",
+          "content": "私に任せてくださいまし。"
+        },
+        {
+          "language": "英文",
+          "content": "Leave everything to me."
+        },
+        {
+          "language": "韩文",
+          "content": "제게 맡겨 주세요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "全都交給我吧。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的箭矢指向胜利。"
+        },
+        {
+          "language": "日文",
+          "content": "この矢の指し示す方向は勝利ですわ。"
+        },
+        {
+          "language": "英文",
+          "content": "My arrow points toward victory."
+        },
+        {
+          "language": "韩文",
+          "content": "제 화살은 승리를 향한답니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我的箭矢指向勝利。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会见证你们的结局。"
+        },
+        {
+          "language": "日文",
+          "content": "私はみなさまの物語を見届けますわ。"
+        },
+        {
+          "language": "英文",
+          "content": "I shall witness your end."
+        },
+        {
+          "language": "韩文",
+          "content": "당신들의 결말을 지켜보도록 하겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我會見證你們的結局。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如你所愿。"
+        },
+        {
+          "language": "日文",
+          "content": "お望みのままに。"
+        },
+        {
+          "language": "英文",
+          "content": "As you wish."
+        },
+        {
+          "language": "韩文",
+          "content": "당신의 뜻대로."
+        },
+        {
+          "language": "繁体中文",
+          "content": "如你所願。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不负所托。"
+        },
+        {
+          "language": "日文",
+          "content": "叶えて差し上げましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "I will not disappoint."
+        },
+        {
+          "language": "韩文",
+          "content": "기대에 부응하도록 하죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "不負所托。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不错的风景，很适合当作战场。"
+        },
+        {
+          "language": "日文",
+          "content": "美しい風景ですわね、戦いの舞台に相応しいですわ。"
+        },
+        {
+          "language": "英文",
+          "content": "What wonderful scenery. A fine place for a battle."
+        },
+        {
+          "language": "韩文",
+          "content": "나쁘지 않은 풍경이네요, 전장으로는 제격이에요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "不錯的風景，很適合當作戰場。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "命运指引我来到此地。"
+        },
+        {
+          "language": "日文",
+          "content": "運命が私をこの地に導きましたの。"
+        },
+        {
+          "language": "英文",
+          "content": "Fate guides me here."
+        },
+        {
+          "language": "韩文",
+          "content": "운명이 절 이곳으로 이끌었어요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "命運指引我來到此地。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一击毙命。"
+        },
+        {
+          "language": "日文",
+          "content": "一射必殺。"
+        },
+        {
+          "language": "英文",
+          "content": "One shot, one kill."
+        },
+        {
+          "language": "韩文",
+          "content": "일격필살."
+        },
+        {
+          "language": "繁体中文",
+          "content": "一擊斃命。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在这琴声中沉睡吧， 睡眠与死亡本是手足。"
+        },
+        {
+          "language": "日文",
+          "content": "竪琴（リラ）の音色の中で微睡みなさい、死と眠りはもとより近しいもの。"
+        },
+        {
+          "language": "英文",
+          "content": "Sleep to the sound of my harp. Sleep and death are of a kind."
+        },
+        {
+          "language": "韩文",
+          "content": "리라의 소리 속에서 잠들어라. 수면과 죽음은 본디 가까운 존재이니."
+        },
+        {
+          "language": "繁体中文",
+          "content": "在這琴聲中沉睡吧， 睡眠與死亡本是手足。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "聆听这首送给你们的安魂曲。"
+        },
+        {
+          "language": "日文",
+          "content": "あなた方に贈るレクイエムをよく聴きなさい。"
+        },
+        {
+          "language": "英文",
+          "content": "Listen well to the requiem I play for thee."
+        },
+        {
+          "language": "韩文",
+          "content": "그대들에게 전하는 레퀴엠을 잘 들어보도록."
+        },
+        {
+          "language": "繁体中文",
+          "content": "聆聽這首送給你們的安魂曲。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "随风而逝吧！"
+        },
+        {
+          "language": "日文",
+          "content": "風と共に逝きなさい！"
+        },
+        {
+          "language": "英文",
+          "content": "Be scattered upon the wind!"
+        },
+        {
+          "language": "韩文",
+          "content": "바람과 함께 사라지거라!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "隨風而逝吧！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "生命总会终结，但传说流传不朽。博士，我们做到了。"
+        },
+        {
+          "language": "日文",
+          "content": "生命はいずれ流れ落ち失われるものですが、語り継がれる伝説は消えません。ドクター、私たちは成し遂げたのですわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Life must eventually end, but legends live on forever. We've done it, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "생명은 끝이 있기 마련이지만, 전설은 불멸한 법이지요. 박사님, 저희가 해냈습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "生命總會終結，但傳說流傳不朽。博士，我們做到了。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "值得庆祝的胜利，高歌吧！博士，看到我刚才的英姿了吗？"
+        },
+        {
+          "language": "日文",
+          "content": "喜ばしい勝利ですわ、凱歌を歌い上げましょう！ドクター、先程の私の勇姿をご覧いただけまして？"
+        },
+        {
+          "language": "英文",
+          "content": "A victory worth celebrating. Let us sing! Doctor, did you witness my performance?"
+        },
+        {
+          "language": "韩文",
+          "content": "기념할 만한 승리네요, 소리 높여 노래합시다! 박사님, 방금 제 뛰어난 자태를 보셨나요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "值得慶祝的勝利，高歌吧！博士，看到我剛才的英姿了嗎？"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "追逐残敌不该是英雄传说的一部分，随他们去吧。"
+        },
+        {
+          "language": "日文",
+          "content": "敗走する敵を狩るのは英雄譚に相応しくない行いです。行かせてやりましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "Chasing stragglers is scarcely fit for heroes of legend. Let them be."
+        },
+        {
+          "language": "韩文",
+          "content": "도망치는 적들을 쫓는 건, 영웅의 전설에 어울리지 않습니다. 보내 주도록 하죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "追逐殘敵不該是英雄傳說的一部分，隨他們去吧。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "快走......！我们的故事可不能在这里停下！"
+        },
+        {
+          "language": "日文",
+          "content": "離脱しましょう……！私たちの伝説はここで終わってはなりません！"
+        },
+        {
+          "language": "英文",
+          "content": "Hurry, run...! Our story mustn't end here!"
+        },
+        {
+          "language": "韩文",
+          "content": "어서 가시죠……! 우리의 전설은, 이곳에서 끝나서는 안 됩니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "快走......！我們的故事可不能在這裡停下！"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我可以在这里弹琴吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ここで竪琴（リラ）を弾いてもよろしくて？"
+        },
+        {
+          "language": "英文",
+          "content": "Can I play some music here?"
+        },
+        {
+          "language": "韩文",
+          "content": "이곳에서 리라를 연주해도 괜찮을까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我可以在這裡彈琴嗎？"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯？"
+        },
+        {
+          "language": "日文",
+          "content": "あら？"
+        },
+        {
+          "language": "英文",
+          "content": "Hm?"
+        },
+        {
+          "language": "韩文",
+          "content": "어머?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士今天心情不错呢，要共舞一曲吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、ご機嫌は悪くなさそうですわね、一曲踊りませんこと？"
+        },
+        {
+          "language": "英文",
+          "content": "You seem to be in a good mood today, Doctor. Did you want to share a dance?"
+        },
+        {
+          "language": "韩文",
+          "content": "기분이 좋아 보이시네요, 박사님. 함께 한 곡 추시겠어요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士今天心情不錯呢，要共舞一曲嗎？"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，想听我唱首歌吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、私の歌を聴きたい？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, did you want to listen to me sing?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 제 노래가 듣고 싶으신가요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，想聽我唱首歌嗎？"
+        }
+      ]
+    }
+  ]
+}

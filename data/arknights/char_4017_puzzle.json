@@ -1,0 +1,939 @@
+{
+  "name": "谜图",
+  "charaKey": "char_4017_puzzle",
+  "images": [
+    "https://prts.wiki/images/1/1e/立绘_谜图_1.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/d/d7/立绘_谜图_2.png?image_process=format,webp/quality,Q_90",
+    "https://prts.wiki/images/0/0e/立绘_谜图_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4017_puzzle"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4017_puzzle"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4017_puzzle"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_4017_puzzle"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "整理文书、端茶倒水、会议记录？当然可以......说起来，我第一次执行任务时，好像也是以秘书的身份接近目标，一周后我挖走了他手上所有有价值的情报，瓦解了他的势力。"
+        },
+        {
+          "language": "日文",
+          "content": "書類整理にお茶汲み、議事録係ですか？ええ、もちろん構いませんよ。そういえば、私の初任務も、確か秘書としてターゲットに近づくというものだった気がします。その一週間後には、相手の持つ価値ある情報を全て盗み出し、その勢力を瓦解させたなんてこともありましたね。"
+        },
+        {
+          "language": "英文",
+          "content": "Sorting files, serving tea, and transcribing meetings? Of course, I'm at your disposal... Come to think of it, in my first mission, I also approached the target under the guise of a secretary. One week later, I'd hollowed them of all valuable intel, and torn their influence down to rubble."
+        },
+        {
+          "language": "韩文",
+          "content": "서류 정리, 차 따르기, 그리고 회의 기록을 담당해달라고요? 물론 문제없습니다…… 그러고 보니 제 첫 임무에서도, 비서로 위장해 타깃에게 접근했었습니다. 그로부터 일주일 후, 가치 있는 정보들을 전부 빼내고, 그 세력을 와해시켜 버렸죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "整理文書、端茶倒水、會議記錄？當然可以......說起來，我第一次執行任務時，好像也是以秘書的身份接近目標，一周後我挖走了他手上所有有價值的情報，瓦解了他的勢力。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果对我不信任，您可以直接检查我的公文包，确认里面是否夹带了罗德岛的重要资料。《古董收藏鉴定指南》？只是某些身份所需的技能学习，不算个人兴趣。更具体的，恕我无可奉告。"
+        },
+        {
+          "language": "日文",
+          "content": "私のことが信用できないのでしたら、ロドスに係わる重要資料を持ち出していないかどうか、どうぞこのブリーフケースの中身を検めてください。『骨董品収集鑑定指南』？それは単に身分偽装の際に必要なスキルを学ぶための物で、私的な趣味ではありませんよ。これ以上のことは申し上げられませんので、ご容赦を。"
+        },
+        {
+          "language": "英文",
+          "content": "If you don't trust me, you have permission to search my briefcase, and ascertain whether any data inside is critical to Rhodes Island. <i>The Curio Collector's Guide to Antique Appraisal?</i> Learning material for skills required under certain guises—nothing more, certainly not a personal interest. Pardon me if you wanted specifics, but no comment."
+        },
+        {
+          "language": "韩文",
+          "content": "저를 신뢰하기 어려우시다면, 제 서류 가방 안에 로도스 아일랜드에 관한 중요한 자료들이 들어 있는지 직접 확인해 보셔도 됩니다. 《골동품 수집 감정 가이드》 말인가요? 단지 신분을 위장할 때 필요한 기술을 배우기 위해서지, 개인적인 취향은 아닙니다. 이 이상 자세히 말씀드릴 수 없으니, 부디 양해 부탁드립니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "如果對我不信任，您可以直接檢查我的公事包，確認裡面是否夾帶了羅德島的重要資料。《古董收藏鑑定指南》？只是某些身份所需的技能學習，不算個人興趣。更具體的，恕我無可奉告。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那个叫阿赫茉妮的深池菲林，将她复杂的计划几乎推行到完美，可惜还是露出了破绽。再小的失误都可能带来无法挽回的后果——情报工作向来如此残酷。敌人？谈不上了，暴露身份的间谍没有价值。"
+        },
+        {
+          "language": "日文",
+          "content": "アルモニ……あのダブリンのフェリーンですが、あれほど入り組んだ計画をほぼ完璧なまでに遂行できていたというのに、最後の最後でシッポを出すとは実に残念。どれだけ些細なミスでも、取り返しのつかない失敗につながる可能性があります――我々スパイの仕事はいつだってこのように残酷なものです。敵？もうそうとは呼べませんね。正体が露わになったスパイにはもう価値がありませんから。"
+        },
+        {
+          "language": "英文",
+          "content": "The Dublinn Feline, name of Harmonie. Her plan had a lot of moving parts, and almost went off without a hitch—shame she still left an opening. Even your smallest mistake can have irredeemable consequences, such is the cutthroat nature of intelligence work. Yes? Do I consider her an enemy? Hardly; there is no value in a spy whose identity is exposed."
+        },
+        {
+          "language": "韩文",
+          "content": "저 아르모니라는 더블린의 필라인…… 복잡한 계획을 완벽에 가깝게 실행했었습니다만, 아쉽게도 마지막에 틈을 보이고 말았더군요. 아무리 작은 실수라도 돌이킬 수 없는 결과로 이어질 수도 있는 법이죠. 첩보활동은 늘 이렇게 잔인한 법입니다. 적? 이젠 그렇다고 할 수도 없겠죠. 신분이 노출된 스파이에게 가치는 없습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "那個叫阿赫茉妮的深池菲林，將她複雜的計劃幾乎推行到完美，可惜還是露出了破綻。再小的失誤都可能帶來無法挽回的後果——情報工作向來如此殘酷。敵人？談不上了，暴露身份的間諜沒有價值。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......我在拼图。抱歉，请安静一会儿，您的声音吵到这些纸片了。拼图的答案是唯一的，是不断试错，还是冷静分析把握每个细节来完成它？蠢人才会选前者吧。——对了，您找我有事吗？"
+        },
+        {
+          "language": "日文",
+          "content": "……今パズルを解いているところです。このピースたちもうるさく思っていますので、すみませんが暫く静かにしていただけませんか。パズルの解は一つしかありません。そこにたどり着くために、何度も試行錯誤を繰り返すか、それとも冷静に分析して細部まで把握してから動くのか――前者を選ぶのは愚か者の所業ですね。さて、私に何のご用でしょうか？"
+        },
+        {
+          "language": "英文",
+          "content": "I'm working on a puzzle... Sorry, please be quiet for a while; your voice is disturbing the pieces. A puzzle's answer is unique; do you solve it through incessant trial-and-error, or through calm analysis and a hold of every detail? Only morons would elect for the former... Well then, did you need me for something?"
+        },
+        {
+          "language": "韩文",
+          "content": "……퍼즐을 맞추고 있었습니다. 죄송합니다만, 조금 조용히 해 주실 수 있겠습니까. 퍼즐 조각들이 당신을 시끄럽다고 느끼고 있어서 말이죠. 퍼즐의 해답은 한 가지뿐입니다. 그것에 도달하기 위해 하나하나 시도하며 시행착오를 겪을 수도, 침착하게 세부적인 것을 분석하여 해결할 수도 있습니다. 물론 어리석은 자만이 전자를 선택하겠지만요. 아, 혹시 제게 부탁할 일이라도 있으신 겁니까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "......我在拼圖。抱歉，請安靜一會，您的聲音吵到這些紙片了。拼圖的答案是唯一的，是不斷試錯，還是冷靜分析把握每個細節來完成它？蠢人才會選前者吧。——對了，您找我有事嗎？"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在贵族们的宴会厅，你需要留心每一道投在自己身上的目光，彼此刺探或者提防。这是间谍出没的战场，我们必须擅长在这样的战场上游弋，但我想应该没有人真正喜欢。"
+        },
+        {
+          "language": "日文",
+          "content": "貴族たちが列席する宴会場では、自身に注がれる視線の一つ一つ、その全てに注意を払う必要があります。互いに腹の内を探り合い用心し合う――それがスパイたちの戦場の在り方です。我々はこの戦場で自由に立ち回れるようにならなければなりませんが、それを心から好き好む者はいないと思います。"
+        },
+        {
+          "language": "英文",
+          "content": "Inside the aristocrat's ballroom, you need to mind every gaze, to pry into or guard against one another. That is the battlefield the spy roams. It demands of us the proficiency to cruise through it, but I highly doubt anyone truly enjoys it."
+        },
+        {
+          "language": "韩文",
+          "content": "귀족들이 참석하는 연회장에선, 자신에게 쏠리는 시선 하나하나에 주의를 기울여야 합니다. 서로가 서로를 떠보고 경계하는…… 그게 바로 스파이들의 전장입니다. 그리고 우린 이 전장에서 능숙하게 처신할 수 있어야 하죠. 물론 그걸 진심으로 좋아하는 사람은 없을 거라고 생각됩니다만."
+        },
+        {
+          "language": "繁体中文",
+          "content": "在貴族們的宴會廳，你需要留心每一道投在自己身上的目光，彼此刺探或者提防。這是間諜出沒的戰場，我們必須擅長在這樣的戰場上遊弋，但我想應該沒有人真正喜歡。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我很少基于情绪做决定，但那时我的确因为恐惧，救下了一位毫不相干的普通人。这不算失误，博士，它影响不了什么......我已经看见了战争的棱角，它会碾过我们所有的情绪和构想。"
+        },
+        {
+          "language": "日文",
+          "content": "感情任せに決断を下すようなことはめったにしないのですが、あの時は確かに恐怖に駆られて、見ず知らずの一般人に手を差し伸べました。これはミスとは言えませんよ、ドクター。何かに影響を及ぼすほどの出来事ではありませんから……私は既に戦争の一端を目にしたのです。それは我々の感情も計画も、何もかも踏みにじっていくでしょう。"
+        },
+        {
+          "language": "英文",
+          "content": "I rarely make decisions based on emotion, but my saving a completely unrelated civilian was out of fear, it's true. It didn't amount to a mistake, Doctor, and it won't impact anything... War only showed me some of its spiny thorns, but I know It will crush every emotion we feel and every concept we hold"
+        },
+        {
+          "language": "韩文",
+          "content": "감정에 따라 결정을 내리는 일은 거의 없습니다만, 그때 전 두려움에 사로잡혀 일면식도 없는 사람을 구했습니다. 하지만 실수라고는 할 수 없습니다, 박사님. 그 행위가 무언가에 영향을 미칠 정도까지는 아니었으니까요. 전 이미 전쟁의 일각을 목격했습니다. 그것은 우리의 모든 감정과 계획을 짓밟아 버리겠죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我很少基於情緒做決定，但那時我的確因為恐懼，救下了一位毫不相干的普通人。這不算失誤，博士，它影響不了什麼......我已經看見了戰爭的棱角，它會碾過我們所有的情緒和構想。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛的医生频频限制我使用源石技艺，除了确保我的病情不会进一步恶化，无非是担心我会引发一些不可控的意外。放心，我有分寸......不过还是感谢你们的关照。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスの医師からは、しきりにアーツの使用を控えるようにとの助言を受けます。それは私の病状がこれ以上進行しないための処置であるほかに、私が何かしらのアクシデントを起こすことを危惧してのことでしょう。どうかご安心を、加減は心得ていますから……ただ、日頃のお気遣いにはありがたく思っていますよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Rhodes Island's doctors constantly limit my usage of Originium Arts. Aside from ensuring my condition doesn't worsen, they must be concerned that I'll cause some sort of uncontrollable accident... You can put your worries to rest, I know my limits. But nevertheless, thank you for caring."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드의 의사분들이, 제게 오리지늄 아츠 사용을 자제하라는 조언을 하더군요. 병세가 진행되는 걸 막으려는 것도 있겠지만, 행여나 제가 어떤 사고를 일으킬까 걱정하는 마음도 있을 테죠. 안심하세요, 저도 정도는 지킬 줄 압니다. 그래도 걱정해 주시는 여러분께 감사드립니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "羅德島的醫生頻頻限制我使用源石技藝，除了確保我的病情不會進一步惡化，無非是擔心我會引發一些不可控的意外。放心，我有分寸......不過還是感謝你們的關照。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那场爆炸在意料之外，我因此感染了矿石病。任务当然是成功了......为什么当时不躲？博士，与其让某个变量影响整个计划，不如接受它成为计划里新的一环。"
+        },
+        {
+          "language": "日文",
+          "content": "あの爆発が起こったのは実に予想外で、私もそのため鉱石病（オリパシー）に感染しました。任務は無論成功しましたよ……なぜ避難しなかった、ですか？ドクター、不確定要素のために計画を変更させるよりは、それを計画の新たな一環として受け入れてしまった方が賢明ですよ。"
+        },
+        {
+          "language": "英文",
+          "content": "It was on a mission that an unanticipated explosion infected me with Oripathy. Of course, that mission was still a success... Why didn't I take cover? Doctor, a variable like that could impact the entire operation. But we could also accept it, and implement it as part of the plan."
+        },
+        {
+          "language": "韩文",
+          "content": "그 폭발은 예상 밖의 일이었습니다. 그로 인해 전 광석병에 감염되었죠. 물론 임무는 성공적이었지만…… 그때 왜 피하지 않았냐고요? 박사님, 전 변수가 계획에 영향을 주도록 두는 것보단, 그 변수를 새로운 계획의 일환으로 받아들이는 편이 낫다고 생각합니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "那場爆炸在意料之外，我因此感染了礦石病。任務當然是成功了......為什麼當時不躲？博士，與其讓某個變數影響整個計劃，不如接受它成為計劃裡新的一環。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "出于工作原因，我接触过不少和您一样特殊且有趣的人，同样出于工作原因，他们认识的那个“我”，都已经消失了。可惜？不，只是拼一幅新的拼图而已。不过，现在的代号，我暂时不打算扔掉。"
+        },
+        {
+          "language": "日文",
+          "content": "職業柄、貴方のような独特で興味深い方と出会えることも少なくありません。ただ、これまた職業柄で、その方たちの知る「私」はもうどれも存在していません。残念に思う？いいえ、次のパズルを仕上げるだけのことです。とはいえ、今のコードネームは、まだしばらく使い続けるつもりです。"
+        },
+        {
+          "language": "英文",
+          "content": "Thanks to work reasons, I've met quite a few people as unique and interesting as you. And for those same work reasons, the 'me' they got to know has vanished. Is it a shame? No, it's just the piecing of a new puzzle. All that said, I don't plan to ditch my current codename, for the time being."
+        },
+        {
+          "language": "韩文",
+          "content": "직업상, 박사님처럼 특별하고 흥미로운 사람들을 많이 만났습니다. 그리고 같은 이유로, 그들이 알고 있는 '저'라는 사람은, 이젠 존재하지 않죠. 아쉽냐고요? 아뇨, 그건 단지 새로운 퍼즐을 맞추는 것일 뿐이니까요. 아무튼, 지금의 코드네임은 당분간 계속 사용할 예정입니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "出於工作原因，我接觸過不少和您一樣特殊且有趣的人，同樣出於工作原因，他們認識的那個“我”，都已經消失了。可惜？不，只是拼一幅新的拼圖而已。不過，現在的代號，我暫時不打算扔掉。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "暂时没有情报工作需要执行吗......真是难得。"
+        },
+        {
+          "language": "日文",
+          "content": "目下行うべき諜報活動がない、ですか……なんとも貴重なひと時ですね。"
+        },
+        {
+          "language": "英文",
+          "content": "No pending intelligence work for the moment... What a rare break."
+        },
+        {
+          "language": "韩文",
+          "content": "당분간은 해야 할 첩보 활동이 없다는 겁니까…… 이런 경우는 꽤나 오랜만이네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "暫時沒有情報工作需要執行嗎......真是難得。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您应该已经收到了公爵亲署的信函，接下来我会使用“谜图”这个代号驻舰活动。不用费心调查，我会将所有可以公开的个人资料交给您。"
+        },
+        {
+          "language": "日文",
+          "content": "公爵直筆の書簡が届いているかと思いますが、これより、「パズル」というコードネームで艦に留まり活動させていただきます。別途のリサーチは行わずとも結構ですよ。公開できる個人資料は全てお渡ししますから。"
+        },
+        {
+          "language": "英文",
+          "content": "You'll have received personal correspondence from the Duke. I'll be stationed and active aboard under the codename Puzzle. No need to bother investigating me; I've handed you all personal information that's been made public."
+        },
+        {
+          "language": "韩文",
+          "content": "공작의 친필 서한을 이미 받으셨을 거라고 생각됩니다만, 앞으로 '퍼즐'이라는 코드네임으로 로도스 아일랜드에서 활동하겠습니다. 공개할 수 있는 제 모든 개인 프로필은 당신께 넘겨 드릴 테니, 별도의 조사는 하실 필요 없습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "您應該已經收到了公爵親署的信函，接下來我會使用“謎圖”這個代號駐艦活動。不用費心調查，我會將所有可以公開的個人資料交給您。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这样的部署有些疏漏......还是说您对他们的个人能力足够信任？"
+        },
+        {
+          "language": "日文",
+          "content": "このような人員配置ではまだ不安要素が……それとも、各々の能力で十分補えるとのご判断ですか？"
+        },
+        {
+          "language": "英文",
+          "content": "This deployment is somewhat sloppy... or does it speak to your confidence in their individual abilities?"
+        },
+        {
+          "language": "韩文",
+          "content": "이런 방식의 인원 배치에는 불안 요소가 남아 있습니다…… 아니면 개개인의 능력을 신뢰하고 있기에 충분하다는 판단이신가요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這樣的部署有些疏漏......還是說您對他們的個人能力足夠信任？"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，对于情报人员的擢升需要慎重，这有可能会让我们的处境变得更危险......这次就算了，毕竟也是对我工作能力的肯定。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、諜報員の昇進にはくれぐれも慎重に。そのような判断は我々の立場をより危うくしかねませんので……今回はひとまず良しとしましょう。私の仕事能力に対する肯定ではありますからね。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, you need caution when promoting intelligence workers. It may well add danger to your situation... But I'll let this one pass, seeing as you're affirming my work ability with it."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 첩보원의 승진은 신중하게 처리하는 게 좋습니다. 이러한 결정이, 우리의 입장을 더 위험하게 만들 수도 있으니까요…… 하지만 이번엔 넘어가도록 하겠습니다. 이건 제 업무 능력을 인정해 주는 것이기도 하니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，對於情報人員的擢升需要慎重，這有可能會讓我們的處境變得更危險......這次就算了，畢竟也是對我工作能力的肯定。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "上一次擢升还没过去多久......感谢您的信任。当然，如果罗德岛是希望能和我背后的贵族深化合作，我也愿意代为转达。"
+        },
+        {
+          "language": "日文",
+          "content": "前回の昇進からさほど経っていないというのに……ご信頼、感謝します。無論、これがロドス側が私の背後にいる者とより深い関係を結びたいという示しなら、喜んでお伝えしますよ。"
+        },
+        {
+          "language": "英文",
+          "content": "The last promotion wasn't that long ago... I appreciate your trust. Of course, if Rhodes Island is wishing to work on closer terms with any nobility I serve, I'd be willing to pass on the message."
+        },
+        {
+          "language": "韩文",
+          "content": "저번 승진도 얼마 지나지 않았는데…… 신뢰에 감사드립니다. 혹시, 로도스 아일랜드 측에서 저와 제 배후에 있는 귀족들과 함께 더 깊은 협력 관계를 맺고 싶은 것이라면, 기꺼이 전달해 드리겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "上一次擢升還沒過去多久......感謝您的信任。當然，如果羅德島是希望能和我背後的貴族深化合作，我也願意代為轉達。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我在罗德岛的公开活动，还是尽可能少一些比较好。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、私のロドスにおける表立った活動は、なるべく減らした方がよろしいかと。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, my public activity with Rhodes Island is better kept on the minimal end."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 로도스 아일랜드에서 제 공개적인 활동은, 가급적 지양하는 편이 좋을 것 같습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，我在羅德島的公開活動，還是盡可能少一些比較好。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "将一个情报人员放在这样的位置上，并不那么合适......如果您有自己的考量，我自然也没必要拒绝。"
+        },
+        {
+          "language": "日文",
+          "content": "諜報員をこのようなポジションに据えるのはいささか不適切では……貴方なりの考えがあってのご決断なら、無論拒みはしませんがね。"
+        },
+        {
+          "language": "英文",
+          "content": "An intelligence worker in this position is barely a good fit... I have no reason to decline, naturally, if you have your own considerations."
+        },
+        {
+          "language": "韩文",
+          "content": "첩보원을 이런 포지션에 두는 게 그리 적절한 것 같진 않지만…… 박사님 나름대로의 생각이 있으신 거라면, 저도 거절하지는 않겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "將一個情報人員放在這樣的位置上，並不那麼合適......如果您有自己的考量，我自然也沒必要拒絕。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "需要我提醒，你们现在看起来就像一群出来野营的孩子吗？"
+        },
+        {
+          "language": "日文",
+          "content": "まるでキャンプしに来た子供のようで大変結構。皆さんは注意されなければ自覚を持てないのでしょうか？"
+        },
+        {
+          "language": "英文",
+          "content": "Do you need me to tell you all, you seem like a pack of children at a holiday camp?"
+        },
+        {
+          "language": "韩文",
+          "content": "여러분께선 지금 마치 캠핑을 나온 아이들 같습니다. 제가 이런 것까지 주의를 드려야만 하나요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "需要我提醒，你們現在看起來就像一群出來野營的孩子嗎？"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不出所料。"
+        },
+        {
+          "language": "日文",
+          "content": "予想通りですね。"
+        },
+        {
+          "language": "英文",
+          "content": "Within expectations."
+        },
+        {
+          "language": "韩文",
+          "content": "예상대로네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "不出所料。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不妨设计一套暗号。"
+        },
+        {
+          "language": "日文",
+          "content": "合図など考えてはいかがでしょう。"
+        },
+        {
+          "language": "英文",
+          "content": "Let's establish a code."
+        },
+        {
+          "language": "韩文",
+          "content": "암호 같은 걸 설정해 두는 건 어떨까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不妨設計一套暗號。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "情报工作已经提前展开了。"
+        },
+        {
+          "language": "日文",
+          "content": "情報戦はすでに始まっています。"
+        },
+        {
+          "language": "英文",
+          "content": "The intel work began long beforehand."
+        },
+        {
+          "language": "韩文",
+          "content": "정보 수집은 이미 시작하였습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "情報工作已經提前展開了。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会尽快挖出对方的弱点。"
+        },
+        {
+          "language": "日文",
+          "content": "早急に相手側の弱点を探り出します。"
+        },
+        {
+          "language": "英文",
+          "content": "Probing the enemy's weak points, posthaste."
+        },
+        {
+          "language": "韩文",
+          "content": "신속히 상대의 약점을 찾아내겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我會儘快挖出對方的弱點。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请您随时留意我传递回来的消息。"
+        },
+        {
+          "language": "日文",
+          "content": "私からの情報には随時ご留意ください。"
+        },
+        {
+          "language": "英文",
+          "content": "Be ready at a moment's notice for the info I send back."
+        },
+        {
+          "language": "韩文",
+          "content": "제가 드리는 정보를 항상 유의해 주시기 바랍니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "請您隨時留意我傳遞回來的消息。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别把意图写在脸上。"
+        },
+        {
+          "language": "日文",
+          "content": "意図がこうも顔に出るのは感心しませんね。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't leave it written across your face."
+        },
+        {
+          "language": "韩文",
+          "content": "무얼 생각하는지 얼굴에 뻔히 보이는군요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別把意圖寫在臉上。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们的每个眼神都有价值。"
+        },
+        {
+          "language": "日文",
+          "content": "視線の動き一つにも価値があるのですよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Every look you take has value."
+        },
+        {
+          "language": "韩文",
+          "content": "시선의 움직임 하나하나에도 가치가 있습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你們的每個眼神都有價值。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们的每个表情都是破绽。"
+        },
+        {
+          "language": "日文",
+          "content": "表情の動き一つでボロが出るのですよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Every expression you make is an opening."
+        },
+        {
+          "language": "韩文",
+          "content": "표정 하나하나에 허점이 보이는군요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你們的每個表情都是破綻。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们的所有动向我都了如指掌。"
+        },
+        {
+          "language": "日文",
+          "content": "貴方がたの動きは全て手にとるようにわかりますよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I can read you like an open book."
+        },
+        {
+          "language": "韩文",
+          "content": "당신들의 움직임은 모두 제 손바닥 위에 있습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你們的所有動向我都瞭若指掌。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这样的应变和指挥能力......我很庆幸您不是我的任务目标。"
+        },
+        {
+          "language": "日文",
+          "content": "これほどの機転に指揮能力……貴方が私のターゲットでないことをつくづく幸運に思います。"
+        },
+        {
+          "language": "英文",
+          "content": "Such adaptability and command proficiency... I'm all too glad you're not my target."
+        },
+        {
+          "language": "韩文",
+          "content": "이 정도의 순발력과 지휘 능력이라니…… 당신이 제 타깃이 아닌 게 정말 다행이군요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這樣的應變和指揮能力......我很慶幸您不是我的任務目標。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "情报是看不见的脉络，每一场战斗无非是沿着它铺就的方向延伸。得益于我们的前期工作，这样的胜利没什么好意外的，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "情報は目に見えない網です。すべての戦いは敷かれたレールに沿って進んでいるに過ぎません。事前の仕込みがあってこその勝利ですから、驚くこともありませんよ、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Intelligence is the invisible scaffold, each battle merely following whatever course it lays out. With the boon of our preceding work, this victory should come as little surprise, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "정보는 눈에 보이지 않는 그물과도 같습니다. 모든 전투는 그것이 깔려진 방향대로 나아가죠. 우리가 해 온 사전 작업이 있으니, 이런 승리도 놀라울 건 없습니다, 박사님."
+        },
+        {
+          "language": "繁体中文",
+          "content": "情報是看不見的脈絡，每一場戰鬥無非是沿著它鋪就的方向延伸。得益於我們的前期工作，這樣的勝利沒什麼好意外的，博士。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "清点武器遗落，消除一切痕迹，不要让后来的人察觉到这里发生过什么。"
+        },
+        {
+          "language": "日文",
+          "content": "戦場に武器が取り残されていないかよく確認すること。一切の痕跡を消し、あとからやって来た人にはここで何が起こったのか悟らせないように。"
+        },
+        {
+          "language": "英文",
+          "content": "Check for lost weaponry, cover all tracks, don't let anyone in the future discover what happened here."
+        },
+        {
+          "language": "韩文",
+          "content": "전장에 남겨진 무기는 없는지 잘 확인하고, 모든 흔적들을 없애 주십시오. 나중에 온 사람들이 이곳에서 일어난 일을 눈치채지 못하게 해야 합니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "清點武器遺落，消除一切痕跡，不要讓後來的人察覺到這裡發生過什麼。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "完善的计划，必须包括每一步失败后应该如何处理。既然有了准备，请尽快撤离......等等，这些情报需要销毁。"
+        },
+        {
+          "language": "日文",
+          "content": "完全なる計画には、あらゆる失敗への対策を含んでいなければなりません。想定済みの事態ですから、速やかに撤退を……おっと、これらの情報も抹消しなければ。"
+        },
+        {
+          "language": "英文",
+          "content": "A comprehensive plan must include a contingency for failure at every step. We're prepared, so evacuate ASAP... wait, destroy this intel before we leave."
+        },
+        {
+          "language": "韩文",
+          "content": "완벽한 계획은 반드시 실패에 대한 대책도 포함되어야 합니다. 이에 대한 준비가 되었으니 어서 철수를…… 잠깐, 이 정보들은 폐기해야겠군요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "完善的計劃，必須包括每一步失敗後應該如何處理。既然有了準備，請儘快撤離......等等，這些情報需要銷毀。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果维多利亚的一些贵族像您这样布置住所，我的工作难度会上升一倍不止。"
+        },
+        {
+          "language": "日文",
+          "content": "ヴィクトリアの貴族たちの居宅もこのように配置されているのだとしたら、私の仕事の難易度は何倍も跳ね上がることでしょうね。"
+        },
+        {
+          "language": "英文",
+          "content": "If certain Victorian nobles decorated their residences the way you do, my work would be more than twice as difficult."
+        },
+        {
+          "language": "韩文",
+          "content": "빅토리아의 귀족들이 자택의 인테리어를 당신처럼 꾸며 놓았더라면, 제 업무의 난이도는 몇 배나 더 상승했을 겁니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "如果維多利亞的一些貴族像您這樣佈置住所，我的工作難度會上升一倍不止。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真是失礼。"
+        },
+        {
+          "language": "日文",
+          "content": "……なんと失礼な。"
+        },
+        {
+          "language": "英文",
+          "content": "That's extremely rude."
+        },
+        {
+          "language": "韩文",
+          "content": "정말 무례하군요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "真是失禮。"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看来我在这里还能复习几样生疏的技艺。"
+        },
+        {
+          "language": "日文",
+          "content": "こちらにいる間、鈍ってしまったスキルのおさらいをしてみるのも一興です。"
+        },
+        {
+          "language": "英文",
+          "content": "I was out of practice with a few skills—it seems I can revise here."
+        },
+        {
+          "language": "韩文",
+          "content": "여기에 머무는 동안 무뎌졌던 기술들도 다시 복습할 수 있을 것 같군요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "看來我在這裡還能複習幾樣生疏的技藝。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呃，又遇见您了，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "あぁ、またお会いしましたね、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Oh, I see it's you again, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "아, 또 뵙는군요, 박사님."
+        },
+        {
+          "language": "繁体中文",
+          "content": "呃，又遇見您了，博士。"
+        }
+      ]
+    }
+  ]
+}
