@@ -1,0 +1,535 @@
+{
+  "name": "露托",
+  "charaKey": "char_4130_luton",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4130_luton"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4130_luton"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请允许我与您保持一定的距离......不论清洗多少遍，我都无法消去身上那股味道。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这件外套是我从一名士官那里换来的。那时死亡已经光顾，她的表情渐渐放松，喘息越来越弱。我握住了她颤抖的手，等候着......等到她轻轻点头，我帮她合上了眼睛，完成了这笔交易。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您能帮我看看“生卒年月”是这样写的吗？别担心，没有谁过世，这是为我自己做的。要是哪天我丧生了，有人能发现它，我就有一块像样的墓碑了......总好过一块无名的墙砖。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有一名女孩在医疗部和我一起接受治疗，她身上有熟悉的味道，生命的火光比我的更黯淡......可她好像并不在乎，自己开心地哼着歌。是什么力量令她如此坚强？我......很羡慕她。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "从一处纷争之地赶往另一处纷争之地，罗德岛是这样，曾经的我也是这样。不一样的是，我是为了让自己活下去，而你们......是为了让更多的人活下去。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我见到了。一些牺牲的干员......他们的宿舍还是曾经的模样，物品摆放在桌上，仿佛主人只是短暂外出。这艘大船承载了那么多逝去，为什么......你们的航向依然如此明确？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "晓歌小姐今天教我认了书上的字。“温暖的泥土托起雾气，枝桠描摹光的眉目，羽兽在清晨歌唱。”我想知道哪里会有这种风景，就问了晓歌小姐，她却陷入了沉默......也许这只是想象吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有一种极丑陋的羽兽，体型和小孩一般大，叫声很吓人，经常成群来战场寻找食物。小时候我总和它们抢东西，弄得遍体鳞伤。后来我长大了，却不敢再面对它们，尤其怕直视它们的眼睛。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在战场上生活得越久，遗忘的就越多。我已经记不清许多逝者的面容，可每天又会有新的面孔出现在眼前......要是战争能被阻止，我就能记住他们所有人。所以，我愿意为你们的理想奔走。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不喜欢见到人们的睡颜，但......您的心跳很安稳，让我安心。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......不过是一个打扫战场的人。露托......有需要的话，请用这个名字呼唤我吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "原来用这种方法，就能阻止伤亡......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我大概明白“晋升”的意思——士官的大衣会比士兵的更结实，身上值钱的东西也会更多......很感谢您。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请您告诉我，这是不是意味着我能留下来，继续与你们同行......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您的嘱托，我牢记于心......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不会再出现无谓的牺牲了......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "赶在战火延烧之前......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别让眼泪落下......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让我去吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我能做到的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我到了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如您所愿。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会守护你们的生命。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我愿成为你们的壁垒。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我能独自承受。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "直至最后一刻......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这片区域不需要人打扫。回家吧，今夜会做个好梦。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“制止纷争是比哀悼更好的告慰。”......亲身验证后，才能明白这句话的意义。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "逃跑的人自此会害怕流血，这未尝不是好的结局。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我发誓会带大家离开战场。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里很好，干净，安静，就像棺椁里一样......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "是您在喊我吗？我在，一直都在。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊，对不起......我不会再睡在床底下了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "今天发生了什么事吗？大家看起来都很开心......新年？一年一度？原来如此。曾经我不得不把每一天都当作最后一天度过，真没想到，有一天也能庆祝特别的日子......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "愿您珍重。"
+        },
+        {
+          "language": "日文",
+          "content": "どうかご自愛ください。"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "医生说，我的病情有所稳定，外出行动的许可已经批下来了。您说，我是不是该尝试更多类型的工作......不为逝者，但为生者。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

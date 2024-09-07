@@ -1,0 +1,1287 @@
+{
+  "name": "桑葚",
+  "charaKey": "char_473_mberry",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_473_mberry"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_473_mberry"
+    },
+    {
+      "language": "中文-方言",
+      "base": "voice_custom/char_473_mberry_cn_topolect"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_473_mberry"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_473_mberry"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，整理好的资料我放在这里了。欸，不用不用，不必谢，这些我都做惯了的，并不辛苦......那个，您口渴吗，我再给您泡点茶来吧？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、整理が終わった資料をここに置いておきますね。あっ、いえいえ、感謝されることは何もないです。やり慣れていることなので、大変でもないですし……その、喉が乾いていませんか、お茶を淹れてきましょうか？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, I'll leave the files I sorted here. Oh, you don't have to thank me. I am used to it, and it's nothing difficult... Um, are you thirsty perhaps? Should I make you some tea?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 정리 끝난 자료는 여기 둘게요. 아, 아뇨. 감사받을 만한 일은 아니에요. 전에도 하던 일이라 힘들지도 않았고…… 저기, 목 안마르세요? 차라도 좀 내올까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，整理好的資料我放在這裡了。欸，不用不用，不必謝，這些我都做慣了的，並不辛苦......那個，您口渴嗎，我再給您泡點茶來吧？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "博士，整理好的资料俺放在这儿了。欸，不用不用，不用谢，这些俺都习惯了，并不费劲儿......那个，您渴吗，俺再给您泡点茶来吧？"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "博士，整理好的資料俺放在這兒了。欸，不用不用，不用謝，這些俺都習慣了，並不費勁兒......那個，您渴嗎，俺再給您泡點茶來吧？"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我除了炎国话，其他语言都说得很一般，其实最初有点害怕，不太敢开口。但大家都很友好，也有很多炎国的同乡在，呼......真的是松了一口气......"
+        },
+        {
+          "language": "日文",
+          "content": "炎国語以外の言葉はそれなりにしか話せないので、最初は少し怖くて、あまり喋れなかったんです。でも皆さんが良くしてくれて、同郷の方も多くて、ふぅ、肩の力がやっと抜けたんです……"
+        },
+        {
+          "language": "英文",
+          "content": "I'm not very good at speaking any languages other than Yanese. That's why I was a little scared at first and didn't talk much. But everyone's very friendly, and there are a lot of people from Yan here. Phew... it really puts my mind at ease."
+        },
+        {
+          "language": "韩文",
+          "content": "염국어 말고는… 다른 말은 조금밖에 할 줄 몰라서, 처음에는 조금 무서워서 말도 잘 못했어요. 하지만 다들 잘 대해 주시고, 같은 고향 출신인 분도 많아서, 후우, 간신히 긴장을 풀 수 있었죠……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我除了炎國話，其他語言都說的很一般，其實最初有點害怕，不太敢開口。但大家都很友好，也有很多炎國的同鄉在，呼......真的是鬆了一口氣......"
+        },
+        {
+          "language": "中文-方言",
+          "content": "俺除了炎国话，其他语言说得都很一般，其实刚开始有点害怕，不太敢说。但大家都很友好，也有很多炎国的老乡在，呼......真的是松了一口气......"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "俺除了炎國話，其他語言說得都很一般，其實剛開始有點害怕，不太敢說。但大家都很友好，也有很多炎國的老鄉在，呼......真的是鬆了一口氣......"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，打扰一下，请问您知道普罗旺斯小姐她们去哪儿了吗？老家那边寄了点特产来，这段时间受了很多照顾，我想拿去分给大家......啊，博士的份当然也有的，请尝尝吧！"
+        },
+        {
+          "language": "日文",
+          "content": "お邪魔しますドクター、プロヴァンスさんたちがどこにいるのかご存知ですか？実家の方から特産品が送られてきたので、お世話になっている方々に渡そうと……あっ、もちろんドクターの分もあります！是非食べてみてください！"
+        },
+        {
+          "language": "英文",
+          "content": "Sorry to disturb you, Doctor, but would you happen to know where Provence and everyone else went? My family sent me some goodies from back home, and I thought I'd share some with them since they've been taking care of me... Oh, there are some for you too, Doctor. Please have a taste!"
+        },
+        {
+          "language": "韩文",
+          "content": "실례합니다, 박사님. 프로방스 씨랑 다른 분들이 혹시 어디 있는지 아시나요? 본가에서 특산품을 보내 주셨는데, 신세 지고 있는 분들께 드리려고 했거든요…… 아, 물론 박사님께 드릴 것도 있어요! 드셔보세요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，打擾一下，請問您知道普羅旺斯小姐她們去哪了嗎？老家那邊寄了點特產來，這段時間受了很多照顧，我想拿去分給大家......啊，博士的份當然也有的，請嘗嘗吧！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "博士，打扰一下，请问您知道普罗旺斯小姐她们去哪儿了吗？老家那边寄了点特产过来，这段时间受了很多照顾，俺寻思着拿过来分给大家......啊，博士的当然也有，请尝尝吧！"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "博士，打擾一下，請問您知道普羅旺斯小姐她們去哪兒了嗎？老家那邊寄了點特產過來，這段時間受了很多照顧，俺尋思著拿過來分給大家......啊，博士的當然也有，請嘗嘗吧！"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博、博士，可以请您帮我一起找一下我的团子吗？就是那个黑白的小玩偶！明明记得是放在这里的，却怎么也找不着......呜，拜托您了，没有那个的话，晚上会睡不着......"
+        },
+        {
+          "language": "日文",
+          "content": "ド、ドクター、私のお団子ちゃんを一緒に探していただけませんか？白と黒の、あの小さいお人形です。ここに置いていたはずなんですけど、全然見つからなくて……うぅ、お願いします、あれがないと私、夜眠れないんです……"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, could you help me look for my little dumpling? It's the small black-and-white doll. I thought I'd left it here, but I can't find it... *Whimpers*, please, I can't sleep at night without it."
+        },
+        {
+          "language": "韩文",
+          "content": "바, 박사님. 제 ‘경단이’를 같이 찾아 주시겠어요? 흰색하고 검은색이 섞인 작은 인형이에요. 여기 놔두었던 것 같은데, 어디 있는지 안 보여서…… 으으, 부탁드릴게요. 그게 없으면 전 밤에 못 자요……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博、博士，可以請您幫我一起找一下我的團子嗎？就是那個黑白的小玩偶！明明記得是放在這裡的，卻怎麼也找不著......嗚，拜託您了，沒有那個的話，晚上會睡不著......"
+        },
+        {
+          "language": "中文-方言",
+          "content": "博、博士，可以请您帮俺一起找一下俺的团子在哪么？就是那个黑白的小玩偶！俺寻思俺明明放在这儿的，却怎么也找不着......呜，拜托您了，没有那个的话，晚上会睡不着......"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "博、博士，可以請您幫俺一起找一下俺的團子在哪嗎？就是那個黑白的小玩偶！俺尋思俺明明放在這兒的，卻怎麼也找不著......嗚，拜託您了，沒有那個的話，晚上會睡不著......"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "救援队总要和天灾打交道，待得久了，得病也在所难免，大家都不会因此而排斥谁。我的体表结晶位置不太起眼，按上去也不会痛......有的时候，我都要忘了还有这个长在我身上了。"
+        },
+        {
+          "language": "日文",
+          "content": "救援隊は天災とは長い付き合いですし、鉱石病になるのも止むを得ないので、皆さんそのことで差別したりはしません。私の体の結晶は目立たないところにありますし、押しても痛みは感じません……だから時々、結晶があることを忘れそうになるんです。"
+        },
+        {
+          "language": "英文",
+          "content": "The rescue team has to deal with the Catastrophes a lot, so it's only a matter of time for us before we become infected. None of us reject anyone because of that. The crystallization on my body isn't very conspicuous, and it doesn't hurt even if you press down on it... Sometimes, I even forget that I have this on my body."
+        },
+        {
+          "language": "韩文",
+          "content": "구조대는 재앙을 오랫동안 접해 왔고, 광석병에 걸리는 것도 막을 수 없으니까, 다들 그런 걸로 차별하지는 않아요. 제 몸에 있는 결정은 눈에 띄지 않는 곳에 있기도 하고, 눌러도 아프지 않아서요…… 그래서 저도, 가끔 결정이 있다는 걸 깜빡한다니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "救援隊總要和天災打交道，待得久了，得病也在所難免，大家都不會因此而排斥誰。我的體表結晶位置不太起眼，按上去也不會痛......有的時候，我都要忘了還有這個長在我身上了。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "救援队总要和天灾打交道，待久了，得病也在所难免，大家都不会因为这个而排斥谁。俺的体表结晶位置不太起眼，按上去也不会痛......有的时候，俺都快忘了俺身上还长了这个。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "救援隊總要和天災打交道，待久了，得病也在所難免，大家都不會因為這個而排斥誰。俺的體表結晶位置不太起眼，按上去也不會痛......有的時候，俺都快忘了俺身上還長了這個。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "最初到救援队时，不习惯那里的气候，也吃不惯当地的食物，晚上想家睡不着，偷偷哭过好多回。但是，就算是这样，每次看到那些被我们救助的人，我又觉得，好像还能继续努力下去......"
+        },
+        {
+          "language": "日文",
+          "content": "救援隊に入ったばかりの頃は、あちらの気候にも食べ物にも慣れなくて、夜もホームシックで眠れなくて、何回もこっそり泣いてしまったことがあります。それでも、私たちが助けた人々を見ると、まだ頑張れるんじゃないかって思えるんです……"
+        },
+        {
+          "language": "英文",
+          "content": "When I first joined the rescue team, I wasn't very used to the climate or the food there. I'd get too homesick to fall asleep at night, and I cried to myself many, many times, but whenever I see the people we rescued, I start to think that maybe I can keep at it..."
+        },
+        {
+          "language": "韩文",
+          "content": "구조대에 들어간 지 얼마 안 됐을 때, 그곳 날씨나 음식에도 적응 못하고, 밤에는 향수병 때문에 잠도 못 자서 몇 번이고 몰래 울었던 적이 있어요. 그래도 저희가 도와준 사람들을 보면 아직 더 노력할 수 있지 않을까 하는 생각이 들어요……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "最初到救援隊時，不習慣那裡的氣候，也吃不慣當地的食物，晚上想家睡不著，偷偷哭過好多回。但是，就算是這樣，每次看到那些被我們救助的人，我又覺得，好像還能繼續努力下去......"
+        },
+        {
+          "language": "中文-方言",
+          "content": "最初到救援队的时候，不习惯那里的气候，也吃不惯当地的东西，晚上想家睡不着，偷偷哭过好几回。但是，就算是这样，每次看到那些被俺们救助的人，俺又觉得，好像还能继续努力下去......"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "最初到救援隊的時候，不習慣那裡的氣候，也吃不慣當地的東西，晚上想家睡不著，偷偷哭過好幾回。但是，就算是這樣，每次看到那些被俺們救助的人，俺又覺得，好像還能繼續努力下去......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，打扰了......最近我在自学天灾救援时的矿石病感染预防，月禾小姐推荐我来找您咨询......那个......对不起，是不是太麻烦您了？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、お邪魔します……その、最近私、天災救援時の鉱石病感染予防について勉強しているんですが、ツキノギさんがドクターに聞いてきたらどうかって勧めてくれて……あの……すみません、ご迷惑ではありませんか？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, sorry to bother you... I've been studying Oripathy prevention techniques during Catastrophe relief, and Tsukinogi suggested that I come ask for your advice... Um... Sorry, am I being a bother?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 실례합니다…… 그게, 요즘 제가 재앙 구조 시의 광석병 감염 예방에 대한 공부를 하고 있는데요, 츠키노기 씨께서 박사님께 물어보는 게 어떻냐고 말씀하셔서…… 저기…… 죄송합니다, 역시 제가 너무 방해했나요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，打擾了......最近我在自學天災救援時的礦石病感染預防，月禾小姐推薦我來找您諮詢......那個......對不起，是不是太麻煩您了？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "博士，打扰了......最近俺在自学天灾救援时的矿石病感染预防，月禾小姐推荐俺来找您咨询......那个......对不起，是不是太麻烦您了？"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "博士，打擾了......最近俺在自學天災救援時的礦石病感染預防，月禾小姐推薦俺來找您諮詢......那個......對不起，是不是太麻煩您了？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "噫，博士，您怎么站在我背后不出声啊！欸，我拿着的是？啊，这是家里寄来的信，虽然当初擅自离开家的时候，爸妈气得说要和我断绝关系，但我家乡有句老话，叫做血浓于水......"
+        },
+        {
+          "language": "日文",
+          "content": "ひぃっ！ドクター？どうして黙ったまま後ろに立っているんですか！え、何を持っているかって？ああ、これは実家からのお手紙です。私がわがまま言って家を出た時、両親が怒って勘当だって言ってたんですけど、私の故郷には「血は水よりも濃い」っていう古い言葉がありまして……"
+        },
+        {
+          "language": "英文",
+          "content": "Uhh! Doctor, why would you sneak up on me like that? Huh? What am I holding? Oh, this is a letter I got from home. When I made the decision to leave, my parents were so angry that they said they would disown me, but there's a saying where I come from: Blood is thicker than water..."
+        },
+        {
+          "language": "韩文",
+          "content": "히익! 박사님? 왜 뒤에서 가만히 서 계시는 건가요! 네? 뭘 들고 있는 거냐고요? 아, 이건 본가에서 보낸 편지예요. 제가 제멋대로 말하고 집을 나왔을 때, 부모님께서 크게 화내시면서 연을 끊자고 하긴 했지만, 제 고향에는 “피는 물보다 진하다”는 옛말도 있거든요……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "噫，博士，您怎麼站在我背後不出聲啊！欸，我拿著的是？啊，這是家裡寄來的信，雖然當初擅自離開家的時候，爸媽氣得說要和我斷絕關係，但我家鄉有句老話，叫做血濃於水......"
+        },
+        {
+          "language": "中文-方言",
+          "content": "噫，博士，您怎么站在俺背后不出声啊！欸，俺拿着的是？啊，这是家里寄来的信，虽然之前擅自离开家的时候，爸妈气得说要和俺断绝关系，但俺老家有句老话，叫做血浓于水......"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "噫，博士，您怎麼站在俺背後不出聲啊！欸，俺拿著的是？啊，這是家裡寄來的信，雖然之前擅自離開家的時候，爸媽氣得說要和俺斷絕關係，但俺老家有句老話，叫做血濃於水......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "得了矿石病，我知道就不太可能再按照爸妈的期望那样，有个安稳的生活了。不过，我并不后悔......嘿嘿，而且如果我当初没有那样选，今天也不会遇到博士，还有罗德岛的大家了呀。"
+        },
+        {
+          "language": "日文",
+          "content": "鉱石病に罹ってから、両親の期待していたような穏やかな生活はたぶんもう望めないってわかったんです。でも、後悔はしていません……それに、もしあの選択をしていなかったら、今日ここでドクターやロドスの皆さんに会うこともなかったでしょう、えへへ……"
+        },
+        {
+          "language": "英文",
+          "content": "When I got infected with Oripathy, I knew I probably wouldn't be able to live the peaceful life my parents wanted for me. I don't regret it, though... Besides, if I hadn't made my decision, I would never have met you or anyone else from Rhodes Island here and now, hehe."
+        },
+        {
+          "language": "韩文",
+          "content": "광석병에 걸리면서, 이제는 아마도 부모님께서 기대하시던 온화한 생활을 보낼 수 없다는 걸 깨달았어요. 하지만 후회하지는 않아요…… 그리고 만약 그 선택을 하지 않았다면, 오늘 여기서 박사님이나 로도스 아일랜드 분들을 만날 수도 없었겠죠, 에헤헤……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "得了礦石病，我知道就不太可能再按照爸媽的期望那樣，有個安穩的生活了。不過，我並不後悔......嘿嘿，而且如果我當初沒有那樣選，今天也不會遇到博士，還有羅德島的大家了呀。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "得了矿石病，俺觉得就不太可能再按爸妈期望的那样，有安稳的生活了。不过，俺并不后悔......嘿嘿，而且如果俺当初没有那样选，今天也不会遇到博士，还有罗德岛的大家了呀。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "得了礦石病，俺覺得就不太可能再按爸媽期望的那樣，有安穩的生活了。不過，俺並不後悔......嘿嘿，而且如果俺當初沒有那樣選，今天也不會遇到博士，還有羅德島的大家了呀。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，博士？打、打扰了，稍微起来一下，垫上这个垫子再睡吧？现在这样睡下去，报告书上的字会印在脸上的......"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、ドクター？お、お邪魔してすみません、ちょっとお顔を上げていただいて、このクッションを敷いてから寝ませんか？このまま寝ていると、報告書の文字がほっぺについちゃいますよ……"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor? Doctor? Sorry to bother you. Please lift your head up a little and sleep with the cushion. If you fall asleep like this, the letters from the report will get all over your face..."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 박사님? 방해해서 죄송해요. 잠깐 고개 좀 들어주시겠어요?&nbsp; 이 쿠션 베고 주무시면 안 될까요? 이렇게 주무시면 보고서에 쓴 글자들이 뺨에 묻을 텐데……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，博士？打、打擾了，稍微起來一下，墊上這個墊子再睡吧？現在這樣睡下去，報告書上的字會印在臉上的......"
+        },
+        {
+          "language": "中文-方言",
+          "content": "博士，博士？打、打扰了，稍微起来一下，垫上这个垫子再睡吧？再这样睡下去，报告书上的字会印到脸上的......"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "博士，博士？打、打擾了，稍微起來一下，墊上這個墊子再睡吧？再這樣睡下去，報告書上的字會印到臉上的......"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您好，我是炎国灾害救援组织“春乾”派遣来学习的成员，我叫做......啊，对、对不起，这里要用代号的吧？非常抱歉，非常抱歉，请叫我桑葚就好！"
+        },
+        {
+          "language": "日文",
+          "content": "こんにちは、私は炎国災害救援組織「春乾（しゅんけん）」から研修のために派遣されてきました者で、名前は……あ、ご、ごめんなさい、ここではコードネームを使うんでしたよね？すみません、申し訳ないです、私のことはマルベリーと呼んでください！"
+        },
+        {
+          "language": "英文",
+          "content": "Hello, I'm a member of the Yan disaster relief organization 'Chun-qian,' dispatched here as an intern. My name is... Oh, I-I'm sorry. We need to use our codenames here, right? I'm terribly, terribly sorry. Please call me Mulberry."
+        },
+        {
+          "language": "韩文",
+          "content": "안녕하세요, 저는 염국 재해 구호 단체 ‘춘건’에서 연수를 위해 파견된 사람으로, 이름은…… 아, 죄, 죄송합니다. 여기서는 코드네임을 사용한다고 했죠? 죄송합니다, 정말 죄송합니다, 저는 멀베리라고 불러 주세요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "您好，我是炎國災害救援組織“春乾”派遣來學習的成員，我叫做......啊，對、對不起，這裡要用代號的吧？非常抱歉，非常抱歉，請叫我桑葚就好！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "您好，俺是炎国灾害救援组织\"春乾\"派遣来学习的成员，俺叫做......啊，对、对不起，这里要用代号对吧？非常抱歉，非常抱歉，请叫俺桑葚就好！"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "您好，俺是炎國災害救援組織\"春乾\"派遣來學習的成員，俺叫做......啊，對、對不起，這裡要用代號對吧？非常抱歉，非常抱歉，請叫俺桑葚就好！"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "山、山崩地裂......！这真的不是新春电影的特效吗......？"
+        },
+        {
+          "language": "日文",
+          "content": "や、山が崩れて地面にもひび割れが……！これ、話題のアクション映画の特殊効果映像じゃないんですよね……？"
+        },
+        {
+          "language": "英文",
+          "content": "Uhh..The mountain collapsed, and the ground crumbled...! They're not special effects from an action movie, are they?"
+        },
+        {
+          "language": "韩文",
+          "content": "사, 산이 무너지고 땅에 균열이……! 이거, 유명한 액션 영화 같은 데 나오는 특수 효과…… 뭐 그런 건가요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "山、山崩地裂......！這真的不是新春電影的特效嗎......？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "山、山崩地裂......！这真的不是新春电影的特效吗......？"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "山、山崩地裂......！這真的不是新春電影的特效嗎......？"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "欸，升职？真的可以吗？救援队和罗德岛，我能拿两份工资？！......好、好幸福啊。"
+        },
+        {
+          "language": "日文",
+          "content": "えっ、昇進？いいんですか？救援隊とロドス、両方からお給料がもらえる！？……し、幸せ……"
+        },
+        {
+          "language": "英文",
+          "content": "Huh? A promotion? Really? I get a salary from Rhodes Island as well as Chun-qian?! I... I'm so happy...!"
+        },
+        {
+          "language": "韩文",
+          "content": "네, 승진이요? 정말요? 구조대하고 로도스 아일랜드 양쪽에서 월급이 나온다고요?! ……해, 행복해……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "欸，升職？真的可以嗎？救援隊和羅德島，我能拿兩份薪資？！......好、好幸福啊。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "欸，升职？真的可以吗？救援队和罗德岛，俺能拿两份工资？！......好、好幸福啊。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "欸，升職？真的可以嗎？救援隊和羅德島，俺能拿兩份工資？！......好、好幸福啊。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这一次，不是要帮上谁的忙，而是我自己决定要这么做......博士，谢谢您一直鼓励我，现在我很确定，我所做的都是有意义的。"
+        },
+        {
+          "language": "日文",
+          "content": "今回は、誰かの助けになりたいからではなく、自分でこうするって決めたんです……ドクター、ずっと応援してくれてありがとうございます。今の私は、自分のしてきたことにはちゃんと意味があるんだって確信しています。"
+        },
+        {
+          "language": "英文",
+          "content": "This time, I'm not doing this to help someone else, I'm doing it for myself... Doctor, thanks for always being there to cheer me on. Now, I'm sure that everything that I've done is truly meaningful."
+        },
+        {
+          "language": "韩文",
+          "content": "이번에는 누군가를 돕고 싶어서 그런 게 아니라, 제가 하고 싶어서 결정한 거예요…… 박사님. 계속 응원해 주셔서 감사합니다. 지금 전, 제가 했던 일에는 분명히 의미가 있다고 확신하고 있어요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這一次，不是要幫上誰的忙，而是我自己決定要這麼做......博士，謝謝您一直鼓勵我，現在我很確定，我所做的都是有意義的。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "这一次，不是要帮上谁的忙，而是俺自己决定要这么做......博士，谢谢您一直鼓励俺，现在俺很确定，俺所做的都是有意义的。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "這一次，不是要幫上誰的忙，而是俺自己決定要這麼做......博士，謝謝您一直鼓勵俺，現在俺很確定，俺所做的都是有意義的。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会努力协助大家的！"
+        },
+        {
+          "language": "日文",
+          "content": "頑張って皆さんを支援します！"
+        },
+        {
+          "language": "英文",
+          "content": "I'll do my best to support everyone!"
+        },
+        {
+          "language": "韩文",
+          "content": "열심히 모두를 지원할게요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我會努力協助大家的！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "俺会努力协助大家的！"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "俺會努力協助大家的！"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "欸，我当队长？我、我可以吗？"
+        },
+        {
+          "language": "日文",
+          "content": "え、私が隊長ですか？わ、私に務まるでしょうか……？"
+        },
+        {
+          "language": "英文",
+          "content": "Huh? Me as team captain? Ah... Are you sure?"
+        },
+        {
+          "language": "韩文",
+          "content": "네? 제가 팀장이에요? 제, 제가 할 수 있을까요……?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "欸，我當隊長？我、我可以嗎？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "欸，俺当队长？俺、俺可以吗？"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "欸，俺當隊長？俺、俺可以嗎？"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好的，立刻出发。......各位，各自注意安全，结束后再见。"
+        },
+        {
+          "language": "日文",
+          "content": "はい、すぐに出発します。……皆さん、どうかお気をつけて。また後ほどお会いしましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "Okay, we'll head out right away... Everyone, please stay safe. We'll meet again once this is over."
+        },
+        {
+          "language": "韩文",
+          "content": "네, 금방 출발하겠습니다. ……여러분, 부디 조심하세요. 나중에 다시 만나죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "好的，立刻出發。......各位，各自注意安全，結束後再見。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "好嘞，立刻出发。......各位，各自注意安全，结束后再见。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "好嘞，立刻出發。......各位，各自注意安全，結束後再見。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大家小心！前面有动静！"
+        },
+        {
+          "language": "日文",
+          "content": "警戒態勢をとってください！前方に動きあり！"
+        },
+        {
+          "language": "英文",
+          "content": "Watch out, everyone! There's movement up ahead!"
+        },
+        {
+          "language": "韩文",
+          "content": "경계 태세를 갖추세요! 전방에 움직임이 있습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "大家小心！前面有動靜！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "大家小心！前面有动静！"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "大家小心！前面有動靜！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "护目镜......好，戴好了，准备要上了！"
+        },
+        {
+          "language": "日文",
+          "content": "ゴーグルを……よしっ、装着完了、いきますよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Safety goggles... Okay, I have mine on. Let's go!"
+        },
+        {
+          "language": "韩文",
+          "content": "고글을…… 좋아, 장착 완료! 갑니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "護目鏡......好，戴好了，準備要上了！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "护目镜......好，戴好了，准备要上了！"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "護目鏡......好，戴好了，準備要上了！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呼......哈！在！我、我没有紧张！"
+        },
+        {
+          "language": "日文",
+          "content": "ふ～は……あ、はいっ！き、緊張していません！"
+        },
+        {
+          "language": "英文",
+          "content": "Phew... Haah! Oh, I'm here! I-I'm not nervous!"
+        },
+        {
+          "language": "韩文",
+          "content": "후… 하… 아, 네! 기, 긴장한 거 아니에요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "呼......哈！在！我、我沒有緊張！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "呼......哈！在！俺、俺没有紧张！"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "呼......哈！在！俺、俺沒有緊張！"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "开始准备救援......！"
+        },
+        {
+          "language": "日文",
+          "content": "救援準備を始めます……！"
+        },
+        {
+          "language": "英文",
+          "content": "Preparing rescue...!"
+        },
+        {
+          "language": "韩文",
+          "content": "구조 준비를 시작합니다……!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "開始準備救援......！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "开始准备救援......！"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "開始準備救援......！"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "救援小队桑葚，已就位！"
+        },
+        {
+          "language": "日文",
+          "content": "救援小隊マルベリー、待機しています！"
+        },
+        {
+          "language": "英文",
+          "content": "Rescue team Mulberry in position!"
+        },
+        {
+          "language": "韩文",
+          "content": "구조팀 멀베리, 대기 중입니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "救援小隊桑葚，已就位！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "救援小队桑葚，已就位！"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "救援小隊桑葚，已就位！"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "各位请多加小心！"
+        },
+        {
+          "language": "日文",
+          "content": "皆さんどうか気をつけて！"
+        },
+        {
+          "language": "英文",
+          "content": "Everyone, please be careful!"
+        },
+        {
+          "language": "韩文",
+          "content": "여러분, 조심하세요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "各位請多加小心！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "各位请多加小心！"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "各位請多加小心！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我也......能够做到！"
+        },
+        {
+          "language": "日文",
+          "content": "私……私だって！"
+        },
+        {
+          "language": "英文",
+          "content": "I... I can do it too!"
+        },
+        {
+          "language": "韩文",
+          "content": "나…… 나도 할 수 있어!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我也......能夠做到！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "俺也......能够做到！"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "俺也......能夠做到！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您在看哪里，东张西望可是很危险的！"
+        },
+        {
+          "language": "日文",
+          "content": "どこを見てるんですか、きょろきょろするのは危ないですよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Where are you looking? It's dangerous to get distracted!"
+        },
+        {
+          "language": "韩文",
+          "content": "어딜 보고 계시는 거예요? 두리번거리고 계시면 위험해요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "您在看哪裡，東張西望可是很危險的！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "您在往哪儿瞅，东张西望可是很危险的！"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "您在往哪兒瞅，東張西望可是很危險的！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "确保人员安全就是我的工作。"
+        },
+        {
+          "language": "日文",
+          "content": "皆さんの安全を守るのが私の仕事です。"
+        },
+        {
+          "language": "英文",
+          "content": "It's my job to ensure everyone's safety!"
+        },
+        {
+          "language": "韩文",
+          "content": "여러분의 안전을 지키는 게 제 일이에요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "確保人員安全就是我的工作。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "确保人员安全就是俺的工作。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "確保人員安全就是俺的工作。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "报告！区域救援行动已结束，人员疏散及保护顺利进行！太、太好了，没有人受伤......"
+        },
+        {
+          "language": "日文",
+          "content": "報告！エリア内の救援活動は終了、人員の疎開及び保護もつつがなく行っています！よ、良かった、誰も怪我しませんでした……"
+        },
+        {
+          "language": "英文",
+          "content": "Report! All rescue operations in the area have been completed. Evacuation and escort proceeding without issue! Phew, thank goodness nobody's hurt..."
+        },
+        {
+          "language": "韩文",
+          "content": "보고 드립니다! 에리어 내 구조 활동은 종료, 인원의 산개 및 보호도 무사히 진행 중입니다! 다, 다행이에요. 아무도 다치지 않았어요……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "報告！區域救援行動已結束，人員疏散及保護順利進行！太、太好了，沒有人受傷......"
+        },
+        {
+          "language": "中文-方言",
+          "content": "报告！区域救援行动已完事，人员疏散及保护顺利进行！太、太好了，没有人受伤......"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "報告！區域救援行動已完事，人員疏散及保護順利進行！太、太好了，沒有人受傷......"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呼，这样就结束了。博士，我有帮上大家的忙吗......？"
+        },
+        {
+          "language": "日文",
+          "content": "ふう、これで作戦終了です。ドクター、私は皆さんのお役に立てたでしょうか……？"
+        },
+        {
+          "language": "英文",
+          "content": "Phew, that wraps up the operation. Doctor, was I helpful?"
+        },
+        {
+          "language": "韩文",
+          "content": "후우, 이걸로 작전이 끝났네요. 박사님, 제가 다른 분들께 도움이 됐을까요……?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "呼，這樣就結束了。博士，我有幫上大家的忙嗎......？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "呼，这样就完事了。博士，俺有帮上大家的忙吗......？"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "呼，這樣就完事了。博士，俺有幫上大家的忙嗎......？"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请等一下，那些人逃走的方向并不安全......不行，我这就去把他们带回来！"
+        },
+        {
+          "language": "日文",
+          "content": "待ってください、あの人たちが逃げた方向は危ないです……いけない、今すぐ連れて帰ってきます！"
+        },
+        {
+          "language": "英文",
+          "content": "Wait! It's not safe that way... We have to do something. I'll go fetch them right away!"
+        },
+        {
+          "language": "韩文",
+          "content": "기다려 주세요, 저분들이 도망친 방향은 위험해요…… 안 되겠어요, 당장 데려올게요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "請等一下，那些人逃走的方向並不安全......不行，我這就去把他們帶回來！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "请等一下，那些人逃走的方向并不安全......不行，俺这就去把他们带回来！"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "請等一下，那些人逃走的方向並不安全......不行，俺這就去把他們帶回來！"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里很危险！大家请快撤退，博士，请跟紧我！"
+        },
+        {
+          "language": "日文",
+          "content": "ここはとても危険です！皆さん早く撤退してください。ドクター、私についてきてください！"
+        },
+        {
+          "language": "英文",
+          "content": "It's not safe here! Everyone, please evacuate! Doctor, follow me!"
+        },
+        {
+          "language": "韩文",
+          "content": "여긴 너무 위험해요! 여러분, 어서 후퇴하세요. 박사님, 절 따라오세요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這裡很危險！大家請快撤退，博士，請跟緊我！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "这里很危险！大家请快撤退，博士，您紧跟着俺！"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "這裡很危險！大家請快撤退，博士，您緊跟著俺！"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哇，这里就是员工宿舍......请问，需要收租金吗？"
+        },
+        {
+          "language": "日文",
+          "content": "わぁ。ここが宿舎……その、家賃は必要でしょうか？"
+        },
+        {
+          "language": "英文",
+          "content": "Whoa, this is the staff dormitory... Um, will I need to pay rent?"
+        },
+        {
+          "language": "韩文",
+          "content": "우와~ 여기가 숙소로군요…… 저기…… 집세도 내야 하나요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哇，這裡就是員工宿舍......請問，需要收租金嗎？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "哇，这里就是员工宿舍......请问，需要收租金吗？"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "哇，這裡就是員工宿舍......請問，需要收租金嗎？"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "欸，啊，对不起，对不起！"
+        },
+        {
+          "language": "日文",
+          "content": "えっ、あっ、すみません、すみません！"
+        },
+        {
+          "language": "英文",
+          "content": "Huh? Ah! I'm sorry! I'm sorry!"
+        },
+        {
+          "language": "韩文",
+          "content": "어, 앗, 죄송합니다! 죄송합니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "欸，啊，對不起，對不起！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "欸，啊，对不起，对不起！"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "欸，啊，對不起，對不起！"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士！虽然很感谢，但是请不要再偷偷给我挂护身符了......太多了！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター！とてもありがたいのですが、こっそり私にお守りを付けるのはもうやめてください……これ以上は持てません！"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor! I really appreciate it, but please stop trying to sneak any more amulets onto me... I have way too many already!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님! 정말 감사하지만, 저 몰래 부적을 다는 건 그만해주세요…… 더는 달고 다닐 수 없다고요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士！雖然很感謝，但是請不要再偷偷給我掛護身符了......太多了！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "博士！虽然很感谢，但是请不要再偷偷给俺挂护身符了......忒多了！"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "博士！雖然很感謝，但是請不要再偷偷給俺掛護身符了......忒多了！"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "新年快乐，博士。呼......没想到今年会是在罗德岛过这个节日，感觉好新奇。其实，因为工作，我已经好几年没能在这个时候回家了，真想回去看看啊，哪怕就远远地看看也好......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        },
+        {
+          "language": "中文-方言",
+          "content": "新年快乐，博士。呼......没想到今年会是在罗德岛过这个节日，感觉好特别。其实，因为工作俺已经好几年没能在这个时候回家了，真想回去看看啊，哪怕就远远地看着也好啊......"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "辛苦了，博士，今天也要工作吗？"
+        },
+        {
+          "language": "日文",
+          "content": "お疲れ様ですドクター、今日もお仕事ですか？"
+        },
+        {
+          "language": "英文",
+          "content": "Hello, Doctor. Do you have work today too?"
+        },
+        {
+          "language": "韩文",
+          "content": "수고 많으세요, 박사님. 오늘도 일하시나요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "辛苦了，博士，今天也要工作嗎？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "辛苦了，博士，今天也要工作吗？"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "辛苦了，博士，今天也要工作嗎？"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛有很多医生，自己就是感染者呢。作为救护人员却不能保护好自己，也是非常常见的事情......在认清了这一点之后，向灾难走去的决心才更加可贵。希望我们的努力，能让更多人平安。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        },
+        {
+          "language": "中文-方言",
+          "content": "罗德岛有很多医生，自己就是感染者呢。作为救护人员却不能保护好自己，也是非常常见的事情......在认清了这一点后，向灾难走去的决心才更加可贵。希望俺们的努力，能让更多人平安。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

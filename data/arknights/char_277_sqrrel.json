@@ -1,0 +1,991 @@
+{
+  "name": "阿消",
+  "charaKey": "char_277_sqrrel",
+  "images": [
+    "https://media.prts.wiki/c/c6/%E7%AB%8B%E7%BB%98_%E9%98%BF%E6%B6%88_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/e/e1/%E7%AB%8B%E7%BB%98_%E9%98%BF%E6%B6%88_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/5/52/%E7%AB%8B%E7%BB%98_%E9%98%BF%E6%B6%88_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_277_sqrrel"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_277_sqrrel"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_277_sqrrel"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_277_sqrrel"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "已经准备好为您服务了，长官！"
+        },
+        {
+          "language": "日文",
+          "content": "いつでもご指示お待ちしております上官！"
+        },
+        {
+          "language": "英文",
+          "content": "Awaitingorders, readywhenyouare, Chief!"
+        },
+        {
+          "language": "韩文",
+          "content": "언제든 지시를 기다리고 있습니다 상관님!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "已經準備好為您服務了，長官！"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "为了安全起见，正在为您确认逃生路线和消防设备，请稍等片刻！"
+        },
+        {
+          "language": "日文",
+          "content": "みなさんの安全のために避難ルートと消防設備を確認中ですしばらくお待ちください！"
+        },
+        {
+          "language": "英文",
+          "content": "Intheinterestsofsafety, Iaminspectingescaperoutesandfirefightingequipment. Onemomentplease."
+        },
+        {
+          "language": "韩文",
+          "content": "여러분의 안전을 위해 피난 루트와 소방 시설을 확인 중에 있사오니 잠시만 기다려주십시오!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "為了安全起見，正在為您確認逃生路線和消防設備，請稍等片刻！"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "过道内严禁烟火，请各位干员不要在走道吸烟，谢谢配合！"
+        },
+        {
+          "language": "日文",
+          "content": "通路内は火気厳禁ですオペレーターのみなさんここでの喫煙は控えてくださいご協力ありがとうございます！"
+        },
+        {
+          "language": "英文",
+          "content": "Pleasebeaware, itisagainstregulationtolightfiresorsmokecigarettesinthecorridors. Thankyouforyourcooperation, Operators."
+        },
+        {
+          "language": "韩文",
+          "content": "통로 내에서는 화기 엄금입니다 오퍼레이터 여러분 이곳에서 흡연은 삼가주시길 바랍니다 협조에 대단히 감사드립니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "走道內嚴禁煙火，請各位幹員不要在走道吸煙，謝謝配合！"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "为大家科普消防知识也是我职责的一部分就先从您开始吧长官！"
+        },
+        {
+          "language": "日文",
+          "content": "消防知識の周知徹底も小官の仕事の一環ですまずは上官のあなたから知識を深めてもらいましょう！"
+        },
+        {
+          "language": "英文",
+          "content": "Ensuringawarenessoffiresafetyandfirefightingprotocolsisakeypartofmyduties. Allowmetobeginwithyou, Chief."
+        },
+        {
+          "language": "韩文",
+          "content": "소방 지식을 철저히 주지시키는 것도 소관이 맡은 업무의 일환입니다, 우선 상관이신 당신부터 지식을 쌓아 주십시오!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "為大家科普消防知識也是我職責的一部分就先從您開始吧長官！"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别看我个子小，有些任务可是只有我才能完成的。"
+        },
+        {
+          "language": "日文",
+          "content": "チビだからってなめないでくださいね小官にしかできない任務もありますから。"
+        },
+        {
+          "language": "英文",
+          "content": "Iamverysmall, butthatmeansIcandoworknooneelsecan."
+        },
+        {
+          "language": "韩文",
+          "content": "꼬맹이라고 얕보지 말아주십시오 소관밖에 할 수 없는 임무도 있으니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別看我個子小，有些任務可是只有我才能完成的。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "长官，我很紧张，其实......我不擅长说话......谢谢您......的关心！"
+        },
+        {
+          "language": "日文",
+          "content": "あの、じ、実はすごく緊張してます……小官、話すのが苦手で……き、気にかけていただき、ありがとうございます！"
+        },
+        {
+          "language": "英文",
+          "content": "Um, Chief, I'mverynervous… Actually, I'mnotgoodatexpressingmyself… Thankyou, foryourconcern."
+        },
+        {
+          "language": "韩文",
+          "content": "저, 사, 사실은 굉장히 긴장했습니다…… 소관, 말하는 걸 잘 못해서…… 배, 배려해 주셔서, 감사합니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "長官，我很緊張，其實......我不擅長說話......謝謝您......的關心！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有时候，我一张嘴说话就停不下来，长官我会被讨厌吗......呜......"
+        },
+        {
+          "language": "日文",
+          "content": "喋りだすと止まらなくなることが多々ありますが上官はこういうのお嫌いですかぁ……うぅ……。"
+        },
+        {
+          "language": "英文",
+          "content": "WhenIstartspeakingsometimesIcan'tstop. Ihopeyouforgiveme, Chief... *sob*..."
+        },
+        {
+          "language": "韩文",
+          "content": "말하기 시작하면 멈추지 못하는 경우가 자주 있습니다만 상관님께선 이런 거 싫어하십니까아…… 우으으……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "有時候，我一張嘴說話就停不下來，長官我會被討厭嗎......嗚......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "长官，帮我，换下灯泡......我，够不着......啊，亮了。"
+        },
+        {
+          "language": "日文",
+          "content": "上官、この電球を、取り替えていただけますか……あの小官、手が届かなくてですね……あ、ついた。"
+        },
+        {
+          "language": "英文",
+          "content": "Chief, canyoupleasehelpchangethislightbulb... I... can'treachit... Oh, it'sworkingnow. Thankyou."
+        },
+        {
+          "language": "韩文",
+          "content": "상관님, 이 전구를 갈아 끼워 주실 수 있으실까요…… 아...사실 그게 소관은 손이 닿질 않아서…… 아, 켜졌다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "長官，幫我，換下燈泡......我，勾不著......啊，亮了。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "长官，她她她们又开始在房间里烧烤了，您快帮忙制止一下哎呀呀呀！谁把我的灭火器换成伊芙利特的喷火背包了啊啊啊啊！长官您没事吧！"
+        },
+        {
+          "language": "日文",
+          "content": "上官あああああの人たちまた部屋でバーベキューやってますよ早く止めないとうわあああ小官の消火器をイフリータさんの火炎放射器にすり替えたのは誰ですかああああ大丈夫ですか上官！"
+        },
+        {
+          "language": "英文",
+          "content": "Chief... Theythey'rebarbecuinginthedormagain. Canyoupleasestopthemforme! Aaaah! SomeoneswappedmyfireextinguisherwithIfrit'sflamethrower! Areyouokay, Chief?"
+        },
+        {
+          "language": "韩文",
+          "content": "상관님 저저저저저 사람들이 또 방에서 바비큐를 하고 있습니다 빨리 막지 않으면 우와아아아~!! 소관의 소화기를 이프리트 씨의 화염방사기랑 바꿔놓은 건 누구입니까아아아아아 괜찮으십니까 상관님!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "長官，她她她們又開始在房間裡燒烤了，您快幫忙制止一下哎呀呀呀！誰把我的滅火器換成伊芙利特的噴火背包了啊啊啊啊！長官您沒事吧！"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "还有几分钟休息时间就结束了，长官您稍微注意一下。"
+        },
+        {
+          "language": "日文",
+          "content": "あと少しで休憩時間が終わりますのでご注意ください上官。"
+        },
+        {
+          "language": "英文",
+          "content": "Breaktimeendsinafewminutes. Justtoletyouknow, Chief."
+        },
+        {
+          "language": "韩文",
+          "content": "곧 휴식 시간이 끝나니 주의하여 주십시오 상관님."
+        },
+        {
+          "language": "繁体中文",
+          "content": "還有幾分鐘休息時間就結束了，長官您稍微注意一下。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士长官您好，龙门消防署警员阿消向您报到！"
+        },
+        {
+          "language": "日文",
+          "content": "初めまして上官龍門消防署所属のショウですどうぞよろしくお願いします！"
+        },
+        {
+          "language": "英文",
+          "content": "Pleasuretomeetyou, ChiefDoctor. IamShawoftheLungmenFireDepartment, reportingforduty!"
+        },
+        {
+          "language": "韩文",
+          "content": "처음 뵙겠습니다 상관님 용문 소방서 소속 쇼라고 합니다 아무쪼록 잘 부탁드립니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士長官您好，龍門消防署警員阿消向您報到！"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "演习录像也是训练的一部分吗？"
+        },
+        {
+          "language": "日文",
+          "content": "演習ビデオを見るのも訓練になるのですか？"
+        },
+        {
+          "language": "英文",
+          "content": "Exercisevideosarepartofthetraining?"
+        },
+        {
+          "language": "韩文",
+          "content": "연습 비디오를 보는 것도 훈련이 되는 겁니까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "演習錄影也是訓練的一部分嗎？"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "多谢您的提拔，长官！"
+        },
+        {
+          "language": "日文",
+          "content": "ごひいきありがとうございます上官！"
+        },
+        {
+          "language": "英文",
+          "content": "Thankyouforyourtrust, Chief!"
+        },
+        {
+          "language": "韩文",
+          "content": "관심 가져주셔서 감사합니다 상관님!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "多謝您的提拔，長官！"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这是...勋章?嗯，我会......加油的，为了大家，也为了您。"
+        },
+        {
+          "language": "日文",
+          "content": "これは……エリートメダル？は、はい……これからも、み、みなさんのために、上官のために、精進してまいります。"
+        },
+        {
+          "language": "英文",
+          "content": "Thisis... anelitemedal?Thankyou, Chief... Iwillcontinuetodomybestforeveryone, andfortheChief."
+        },
+        {
+          "language": "韩文",
+          "content": "이건…… 정예 메달? 아, 네…… 앞으로도, 모, 모두를 위해, 상관님을 위해, 정진하도록 하겠습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這是...勳章?嗯，我會......加油的，為了大家，也為了您。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "准备就绪。"
+        },
+        {
+          "language": "日文",
+          "content": "準備完了。"
+        },
+        {
+          "language": "英文",
+          "content": "Allready."
+        },
+        {
+          "language": "韩文",
+          "content": "준비 완료."
+        },
+        {
+          "language": "繁体中文",
+          "content": "準備就緒。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "听我指挥。"
+        },
+        {
+          "language": "日文",
+          "content": "小官が指揮します。"
+        },
+        {
+          "language": "英文",
+          "content": "Followmyorders."
+        },
+        {
+          "language": "韩文",
+          "content": "소관이 지휘하겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "聽我指揮。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "出勤！"
+        },
+        {
+          "language": "日文",
+          "content": "出動します！"
+        },
+        {
+          "language": "英文",
+          "content": "Deploying!"
+        },
+        {
+          "language": "韩文",
+          "content": "출동합니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "出勤！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "火来了，大家快做准备！"
+        },
+        {
+          "language": "日文",
+          "content": "こちらに火が来ますみなさん準備してください！"
+        },
+        {
+          "language": "英文",
+          "content": "Thefireisspreadingthisway. Getready!"
+        },
+        {
+          "language": "韩文",
+          "content": "이쪽으로 불길이 오고 있습니다 여러분 준비하여 주십시오!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "火來了，大家快做準備！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在！"
+        },
+        {
+          "language": "日文",
+          "content": "はい！"
+        },
+        {
+          "language": "英文",
+          "content": "Here!"
+        },
+        {
+          "language": "韩文",
+          "content": "네!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "在！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "了解！"
+        },
+        {
+          "language": "日文",
+          "content": "了解！"
+        },
+        {
+          "language": "英文",
+          "content": "Understood!"
+        },
+        {
+          "language": "韩文",
+          "content": "알겠습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "瞭解！"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔唔。"
+        },
+        {
+          "language": "日文",
+          "content": "おっと。"
+        },
+        {
+          "language": "英文",
+          "content": "Uhuh."
+        },
+        {
+          "language": "韩文",
+          "content": "영차!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "唔唔。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哼。"
+        },
+        {
+          "language": "日文",
+          "content": "ふん。"
+        },
+        {
+          "language": "英文",
+          "content": "Hum."
+        },
+        {
+          "language": "韩文",
+          "content": "흣."
+        },
+        {
+          "language": "繁体中文",
+          "content": "哼。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嘿呀！"
+        },
+        {
+          "language": "日文",
+          "content": "はあああ！"
+        },
+        {
+          "language": "英文",
+          "content": "Haah!"
+        },
+        {
+          "language": "韩文",
+          "content": "하아아아!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嘿呀！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "走开走开！"
+        },
+        {
+          "language": "日文",
+          "content": "どいたどいた！"
+        },
+        {
+          "language": "英文",
+          "content": "Outtatheway! Outtatheway!"
+        },
+        {
+          "language": "韩文",
+          "content": "비키세요 비키세요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "走開走開！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "灭火器喷射！"
+        },
+        {
+          "language": "日文",
+          "content": "消火器噴射します！"
+        },
+        {
+          "language": "英文",
+          "content": "Extinguishingflames!"
+        },
+        {
+          "language": "韩文",
+          "content": "소화기 분사하겠습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "滅火器噴射！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "根据消防守则，你这是违禁行为！"
+        },
+        {
+          "language": "日文",
+          "content": "消防規則に則り違反行為として処罰する！"
+        },
+        {
+          "language": "英文",
+          "content": "Youhaveviolatedthefireregulation!"
+        },
+        {
+          "language": "韩文",
+          "content": "소방 규칙에 따라 위반 행위로 처벌한다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "根據消防守則，你這是違禁行為！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这样规模的火灾，也只有靠长官和大家一起努力才能消灭的了。"
+        },
+        {
+          "language": "日文",
+          "content": "こんな大規模な火災は上官とみなさんの努力なしでは消火できなかったと思います。"
+        },
+        {
+          "language": "英文",
+          "content": "AfireofthisscalecouldnotbeextinguishedwithoutthehelpoftheChiefandtheothers."
+        },
+        {
+          "language": "韩文",
+          "content": "이런 대규모의 화재는 상관님과 여러분의 노력 없이는 진압할 수 없었을 거라 생각합니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這樣規模的火災，也只有靠長官和大家一起努力才能消滅的了。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大火已经完全扑灭了，随时可以收队。"
+        },
+        {
+          "language": "日文",
+          "content": "消火は完了しましたいつでも撤収できます。"
+        },
+        {
+          "language": "英文",
+          "content": "Thefireisextinguished. Readytoreturntobase."
+        },
+        {
+          "language": "韩文",
+          "content": "소화를 완료했습니다 언제든지 철수 가능합니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "大火已經完全撲滅了，隨時可以收隊。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "火情已经基本得到控制了！需要我进行善后处理吗。"
+        },
+        {
+          "language": "日文",
+          "content": "火の勢いはほぼ収まりましたが小官は残って事後処理を行うべきでしょうか？"
+        },
+        {
+          "language": "英文",
+          "content": "Thefireisbasiclyundercontrol. ShouldIbeginthedamagecontrolprocess?"
+        },
+        {
+          "language": "韩文",
+          "content": "불기운은 거의 수그러들었습니다만 소관은 남아서 사후 처리를 해야 할까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "火情已經基本得到控制了！需要我進行善後處理嗎。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "糟，糟糕......大火烧过来了！"
+        },
+        {
+          "language": "日文",
+          "content": "ま、まずい……こちらに火が来ます！"
+        },
+        {
+          "language": "英文",
+          "content": "O-ohno! Thefireisspreadinginthisdirection!"
+        },
+        {
+          "language": "韩文",
+          "content": "이, 이런… 이쪽으로 불길이 옵니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "糟，糟糕......大火燒過來了！"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "以后我就住这儿了对吧。"
+        },
+        {
+          "language": "日文",
+          "content": "ここが小官の居宅ですね。"
+        },
+        {
+          "language": "英文",
+          "content": "Iwillstayherefromnowonthen?"
+        },
+        {
+          "language": "韩文",
+          "content": "여기가 소관의 살 곳이군요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "以後我就住這兒了對吧。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔......"
+        },
+        {
+          "language": "日文",
+          "content": "ううっ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Um..."
+        },
+        {
+          "language": "韩文",
+          "content": "우읏……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "唔......"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "脸要被捏扁了啦！"
+        },
+        {
+          "language": "日文",
+          "content": "がおがずむれるぅ……！"
+        },
+        {
+          "language": "英文",
+          "content": "Aablublublu!"
+        },
+        {
+          "language": "韩文",
+          "content": "얼굴이 찌그러집니다…!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "臉要被捏扁了啦！"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "新年快乐长官，新的一年也请多多配合我的工作哦！等一下我好像闻到了烟花的味道这一批有经过我的检查吗啊啊啊不许点火不许放——"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有事吗长官！"
+        },
+        {
+          "language": "日文",
+          "content": "任務ですか上官！"
+        },
+        {
+          "language": "英文",
+          "content": "Needsomething, Chief?"
+        },
+        {
+          "language": "韩文",
+          "content": "임무입니까 상관님!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "有事嗎長官！"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "报告长官，宴会烤肉要使用的炭火炉已经全部替换成电磁炉，庆典随时可以开始！接下来我也一定会让每一位干员都更加了解火灾的可怕之处的！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

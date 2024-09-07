@@ -1,0 +1,823 @@
+{
+  "name": "莱伊",
+  "charaKey": "char_4117_ray",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4117_ray"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4117_ray"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4117_ray"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_4117_ray"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这本动物图册很漂亮。嗯，从书架上拿的，我洗过手了，不会弄脏书页......对，这里是你的办公室。怎么了？"
+        },
+        {
+          "language": "日文",
+          "content": "この動物図鑑きれい。うん、本棚から持ってきたよ。手は洗ったから、汚れたりはしないから平気……そうだよ、ここはドクターの執務室で合ってる。どうしたの？"
+        },
+        {
+          "language": "英文",
+          "content": "This animal almanac's a beauty. Right, from the bookshelves. I've washed my hands, so the pages'll be fine... Yeah, this is your office. Something wrong?"
+        },
+        {
+          "language": "韩文",
+          "content": "이 동물 도감 예쁘네. 응, 책장에서 꺼냈어. 손은 씻었으니까 책이 더러워지거나 하지는 않을 거야…… 맞아, 여긴 박사의 사무실이지. 그게 왜?"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有爆炸声。稍等，我去下层检查。排气扇声音正常，后续——不，不对。我现在搭乘的是罗德岛，管道里不会掉出源石虫，那个声音是工程部在做武器试验。不好意思，把你的门撞坏了。"
+        },
+        {
+          "language": "日文",
+          "content": "爆発音だ。待っててね、下の階を見てくる。換気扇の音は正常で、あとは――ん？違うや。ここはロドスだった。パイプからオリジムシがころんって出てくることもないし、さっきのもエンジニア部が武器のテストをしてる音だよね。ごめんなさい、ドクターのドア壊しちゃった。"
+        },
+        {
+          "language": "英文",
+          "content": "I hear explosions. One min, I'll head down to check. Exhaust fans sound normal, then next is... No, right. Forgot I'm riding with Rhodes Island now. You don't get Originium slugs in the pipes here. Um... Must be Engineering running weapon tests. Sorry about that, breaking your door down."
+        },
+        {
+          "language": "韩文",
+          "content": "폭발음이야. 기다려, 내가 내려가서 확인해 보고 올게. 환풍기 소리는 정상이고, 그리고…… 아니, 아니지. 여긴 로도스 아일랜드였지. 파이프에서 원석충이 나올 일도 없고, 아까 소리도 엔지니어링 부에서 무기 테스트를 하는 소리였구나. 미안, 문을 망가뜨려 버렸네."
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "沙地兽的背扇，能反映环境空气状况，所以探井人大都会带上一只，如果中毒死掉......就买新的。不过，这只不是我买来的。它不属于我，所以我没给它拴上项圈。"
+        },
+        {
+          "language": "日文",
+          "content": "サンドビーストの背びれは、空気環境によって変化するんだよ。だから探査員はみんなお供に連れてるんだ。毒にやられて死んじゃったら……また新しいのを買う。でも、この子は買ってきたわけじゃないよ。うちのものじゃないから、首輪もしてないんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "You can tell how the air's doing from a sandbeast's back, so that's why you see pitsinkers bring one down. If there's poison and it keels over... you buy a new one. But this one wasn't from the shop. I don't even own it, so I don't keep it on a leash."
+        },
+        {
+          "language": "韩文",
+          "content": "샌드비스트의 등지느러미는 공기의 상황을 나타내. 그래서 광산에서 일하는 탐사자들은 모두 한 마리씩 데리고 다니곤 하지. 만약 샌드비스트가 중독되어 죽어버리면…… 다시 한 마리를 새로 사지. 근데 이 녀석은 내가 산 게 아니야. 내 게 아니니까, 목줄도 안 채웠어."
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这些灵异传说录像带，我不太喜欢，但......脊背发凉？不会。黑暗是热的。越是往矿井深处去，越是热得喘不过气。升降机把人拉上去，要花很长时间。我就望着头顶的光亮，等待着。"
+        },
+        {
+          "language": "日文",
+          "content": "こういうオカルトのビデオはあまり好きじゃないんだ。でも……背筋が冷たくなる？それはないかな。暗闇の中は暑いんだ。坑道の奥へ行けば行くほど、息ができないほど暑くなる。そこから昇降機に乗って、地上に戻るまですごく時間がかかる。うちはいつも頭の上の光を見ながら、待ってるんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Tales of the supernatural, these tapes said. Didn't really like watching them, but I do feel... Chills, from these? No. It's <i>hot</i> in the dark. The deeper down the pit, the hotter, harder to breathe. Always took yonks for the lift to bring us back up. I'd just stare at the lights in the ceiling, waiting."
+        },
+        {
+          "language": "韩文",
+          "content": "이런 오컬트 비디오는 별로 안 좋아해. 하지만…… 등이 서늘해진다고? 아니, 어둠 속은 더워. 광산 깊은 곳으로 들어갈수록 점점 더워져서 숨을 쉬기 힘들어지지. 승강기가 사람을 지상 위로 올릴 때까진 시간이 엄청 많이 걸려. 그럼 난 머리 위의 불빛을 보면서, 기다릴 뿐이야."
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "兰娜是把我赶出工作间了，但她没生气，只是拽着我去找医生，然后让我监督小锅盖，也监督我自己爱惜身体。那天她问我感染矿石病的经历，可我只记得自己对着井下的感染生物想，我们更像了。"
+        },
+        {
+          "language": "日文",
+          "content": "ランナはうちを仕事場から追い出したけど、怒ってたわけじゃなくて。医者のとこまで連れてってくれて、それから鍋蓋ちゃんの監督役を頼まれたの。あと自分の体も大事にしろって言ってた。あの日ランナに鉱石病に感染した経緯を聞かれたけど、頭に残ってるのは、坑道の地下にいた感染生物を見て、自分は前よりもこの子たちに似てるって思ったことだけだよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Got shooed out of the workshop by Lanns. She wasn't pissed though, just hauled me along to a doctor, then had me on Potlid-watching duty. And watching I love my own body more... That day she asked me what life was like catching Oripathy. But all that came to mind was being down in the pit, staring at the Infected creatures and thinking, 'we're more alike now.'"
+        },
+        {
+          "language": "韩文",
+          "content": "라나가 날 작업장에서 쫓아낸 건 맞는데, 화를 내진 않았어. 그냥 날 의사한테 끌고 간 다음, 냄비 뚜껑이를 지켜보라고 했고, 내 몸도 소중히 여기라고 말했을 뿐이야. 그날 라나가 나한테 광석병에 감염된 이유를 물어봤는데, 사실 내가 기억하는 게 많지 않아서…… 그저, 갱도 지하에 있는 감염 생물을 보며, 이제 그들과 '더 닮아가는구나'라고 생각했던 것뿐이야."
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我申请救助感染者很积极？......那时，你们让我清理伤口，血渍、尘沙、源石碎屑、沙地兽的绒毛，都粘在棉球上，我才意识到，我离开矿井，走了这么远，感觉这么刺痛。我，还在后怕吗？"
+        },
+        {
+          "language": "日文",
+          "content": "うちは感染者の救助申請に積極的？……あの時、傷口を処理するように言われて、血とか、砂とか、源石の破片とか、サンドビーストの毛とかが、全部コットンについてるのを見たら、不意に鉱山から離れてこんな遠くに来たんだなって思って、痛みを感じたんだ。うちは、まだあの時のことを怖く感じてるかな？"
+        },
+        {
+          "language": "英文",
+          "content": "Proactive? Is this about me applying to rescue Infected...? Remember when you had me treat my wounds? So I have my cotton wads, and they're getting covered in bloodstains, and dust, and Originium shards, and sandbeast fur, and it struck me then: the pit's behind me, a million miles behind, and it's like I'm still being stabbed. Do you think I'm... still carrying the fear?"
+        },
+        {
+          "language": "韩文",
+          "content": "내가 감염자 구조 신청에 적극적이라고? ……그때 있잖아, 너희가 나한테 상처를 닦아내라고 했었지. 피, 모래, 오리지늄 파편, 그리고 샌드비스트의 털 같은 게 솜뭉치에 묻어 있는 걸 보며, 그제서야 그런 생각이 들었어. 광산을 떠나 이렇게 멀리 왔는데, 여전히 이렇게 아프구나 하고 말이야. 난, 아직도 두려워하고 있는 걸까?"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "九十七，九十八......啊，这是第一次在训练场见到你，你平时也是凌晨四点来训练吗？不是？有干员说我在这里练了一夜射击很吓人？......宿舍的灯坏了，我想待在明亮的地方。"
+        },
+        {
+          "language": "日文",
+          "content": "九十七、九十八……あれ、訓練場で会うのは初めてだね。ドクターって、いつも朝の四時訓練に来てるの？違う？うちが一晩中ここで射撃の練習をしてて怖いって言ってくる人がいたの？……宿舎のライトが壊れたから。うち、明るい場所にいたいんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Ninety-seven, ninety-eight... Oh, first time seeing you at the training grounds. You always train at four in the morning too? That's not it? An op said I scared them target practicing here all night...?  But the light went kaput in my accommodation. I wanted to be somewhere lit-up."
+        },
+        {
+          "language": "韩文",
+          "content": "97, 98…… 아, 훈련장에선 박사 처음 보네. 박사는 평소 새벽 네 시에 훈련을 하는 거야? 아니라고? 내가 밤새 사격 연습을 해서 무서워한 오퍼레이터가 있다고? ……숙소 전등이 망가져서, 그냥 밝은 곳에 있고 싶었어."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "阿米娅好像在照顾我，隐瞒着什么不肯告诉我。但我能想到，童年沙尘里的庞大影子，也许是我看错了。我一直都有想到。博士，帮我把这些萝卜派转交给她好吗？她总是很忙，我也想照顾她。"
+        },
+        {
+          "language": "日文",
+          "content": "アーミヤがうちに気を遣って、隠し事をしてるみたいなんだよね。でも、子供の頃に砂ぼこりの中で見た、あの大きな影は見間違いだったのかもしれない。ずっと知ってたよ。ドクター、このキャロットパイをアーミヤに渡してくれる？あの子すごく忙しいし、うちも何かしてあげたい。"
+        },
+        {
+          "language": "英文",
+          "content": "I think Amiya's being nice to me. Hiding something and she won't tell me what. But it does occur to me, you know. The giant shadow I saw in a sandstorm as a kid. I might've mistook it. But it's always occurred to me... Doctor, give her these carrot pies for me, would you? She's always so busy and all, I want to be nice back, and care for her."
+        },
+        {
+          "language": "韩文",
+          "content": "아미야가 날 신경 써서, 일부러 뭔가를 숨기고 안 알려주는 것 같아. 있지, 어릴 적에 모래먼지 속에서 본 그 거대한 그림자는, 어쩌면 내 착각일지도 모른다는 생각이 들곤 해. 그냥 계속 그런 생각을 했었어. 박사, 이 당근 파이를 아미야한테 전해줄래? 아미야는 항상 바쁘잖아, 나도 아미야에게 뭔가 해 주고 싶어."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我考虑过了，把罗德岛开走不太好，但把你带走，这艘船又可能运转不了......嗯？资料库里的传说故事很有意思，有些东西我想亲眼看看，还想让你同行。这就是我找到的新目标，怎么了？"
+        },
+        {
+          "language": "日文",
+          "content": "うち考えたんだ。ロドスを勝手に移動させるのは良くないし、ドクターだけを連れて行っても、この船は運行できなくなっちゃうかもしれないから……ん？データベースにあった伝説がすごく面白かったから、いくつか直接見てみたくなって、できればドクターも一緒がいいなって。これがうちの見つけた新しい目標だよ。どうしたの？"
+        },
+        {
+          "language": "英文",
+          "content": "I've given it some thought. Hijacking Rhodes Island sounds unideal, but dragging you off might leave the whole ship out of order... Hm? Oh, it's just there's some great tales in your database. A few I wanna see with my own eyes, and it'd be nice if you come with. That's the new goal I found. What's wrong?"
+        },
+        {
+          "language": "韩文",
+          "content": "생각해 봤는데 박사. 로도스 아일랜드를 마음대로 움직일 수는 없고, 그렇다고 박사만 데리고 가자니, 이 함선 운행에 지장이 있을 것 같네…… 응? 데이터베이스에서 본 전설 이야기가 엄청 재밌길래, 직접 가서 보고 싶어졌거든. 박사도 함께 갔으면 해. 이게 바로 내가 찾은 새로운 목표인데, 왜 그래?"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别把博士挠醒了。走吧，我们去甲板上散步。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターのお昼寝の邪魔しちゃだめだよ。デッキにお散歩行こ。"
+        },
+        {
+          "language": "英文",
+          "content": "No scratching, you'll wake the Doctor. C'mon, let's go walkies on the deck."
+        },
+        {
+          "language": "韩文",
+          "content": "박사를 깨우면 안 돼. 자, 갑판에서 산책이라도 하자."
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我通过干员测试了，博士，谢谢你们的邀请。那趟追寻之旅结束了，但我想在这艘船上找到新的目标。"
+        },
+        {
+          "language": "日文",
+          "content": "オペレーター試験に合格したよ。ドクター、ロドスからのお誘いありがとう。あの探究の旅は終わったけど、次はこの船で新しい目標を見つけようと思ってるんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "I passed the Operator tests, Doctor, so thanks for all of you inviting me. That whole chase is over with, but I'm thinking I'll find my new goal on this ship."
+        },
+        {
+          "language": "韩文",
+          "content": "오퍼레이터 테스트는 통과했어, 박사. 날 초대해 줘서 고마워. 그 탐험은 끝났지만, 나 이 함선에서 새로운 목표를 찾고 싶어."
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我现在还应对不了这样的危险。"
+        },
+        {
+          "language": "日文",
+          "content": "今のうちは、まだこういう危険な状況に対処できない。"
+        },
+        {
+          "language": "英文",
+          "content": "That's not danger I can cope with yet."
+        },
+        {
+          "language": "韩文",
+          "content": "난 아직 이런 위험에 대처할 수 없어."
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "以前好像也有人想给我发专业技能证明，结果，那张纸被钳兽抢走了，丢在了矿道深处......我还能干点别的，这艘船还需要什么？"
+        },
+        {
+          "language": "日文",
+          "content": "前にも誰かが専門技能証明書をくれたことがあったけど、あれ鉗獣に持っていかれちゃって、坑道の深いところで失くしちゃったっけ……うち、他にもできることあるよ。ロドスが必要としてるのは何？"
+        },
+        {
+          "language": "英文",
+          "content": "You know, they wanted to certify me for my professional skills before. Gloompincer made off with the paper that time. Lost to the mineshaft depths... Anyway, there's a few extra things I can do. What's this ship need?"
+        },
+        {
+          "language": "韩文",
+          "content": "전에도 누가 나한테 전문 기술 자격증을 준다고 했었는데, 글룸핀서가 그걸 가져가 버리는 바람에, 갱도 깊은 곳 어딘가에서 잃어버렸어…… 나 다른 일도 할 수 있어, 혹시 이 함선에 더 필요한 거라도 있어?"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果眼前不再只有一小片天空，人们就不想追逐日月了吗？"
+        },
+        {
+          "language": "日文",
+          "content": "もし、もっと空が広かったら、みんな太陽と月を追いかけなくなるのかな。"
+        },
+        {
+          "language": "英文",
+          "content": "If that tiny patch of sky opened wide... wouldn't people want to chase the sun and the moons?"
+        },
+        {
+          "language": "韩文",
+          "content": "만약 눈앞에 보이는 게 비좁은 하늘이 아니었대도, 사람들은 해와 달을 추구했을까?"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "过来，沙地兽，我们要出发了。"
+        },
+        {
+          "language": "日文",
+          "content": "サンドビースト、おいで。出発するよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Here, Sandbeast, we need to get going."
+        },
+        {
+          "language": "韩文",
+          "content": "이리로 와, 샌드비스트. 우리도 출발하자."
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我还是走最前面。"
+        },
+        {
+          "language": "日文",
+          "content": "やっぱりうちが一番前に行くね。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll take the very front, as always."
+        },
+        {
+          "language": "韩文",
+          "content": "이번에도 내가 앞장설게."
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "气流的声音，动物的足迹......我会小心这个方向。"
+        },
+        {
+          "language": "日文",
+          "content": "空気の流れ、動物の足跡……こっちの方向には気をつけないと。"
+        },
+        {
+          "language": "英文",
+          "content": "Sound of muddy air, tracks of animal... I'll keep a watch that way."
+        },
+        {
+          "language": "韩文",
+          "content": "공기의 흐름, 동물의 발자국…… 이쪽 방향은 조심하는 게 좋겠어."
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "视野很好，能看到的不止是危险。"
+        },
+        {
+          "language": "日文",
+          "content": "視野は良好だね。危険だけじゃなくて色々見えるよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Fine visibility. I can see more than just danger."
+        },
+        {
+          "language": "韩文",
+          "content": "시야는 양호해. 위험 말고도 여러가지가 보여."
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "弩箭已经装好了。"
+        },
+        {
+          "language": "日文",
+          "content": "矢はもうつがえたよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Got my bolts kitted."
+        },
+        {
+          "language": "韩文",
+          "content": "화살은 준비됐어."
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要清理哪个区域？"
+        },
+        {
+          "language": "日文",
+          "content": "どのエリアを片付けるの？"
+        },
+        {
+          "language": "英文",
+          "content": "Point where I'm cleaning up?"
+        },
+        {
+          "language": "韩文",
+          "content": "어느 구역을 정리해줄까?"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯，我会随时报告情况。"
+        },
+        {
+          "language": "日文",
+          "content": "うん、随時状況を報告するね。"
+        },
+        {
+          "language": "英文",
+          "content": "Yeah, you'll hear from me as needed."
+        },
+        {
+          "language": "韩文",
+          "content": "응, 수시로 상황을 보고할게."
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果有危险，你们不要下来。"
+        },
+        {
+          "language": "日文",
+          "content": "もし下が危険だったら、みんなは降りて来ないでね。"
+        },
+        {
+          "language": "英文",
+          "content": "You lot stay up there if it gets risky."
+        },
+        {
+          "language": "韩文",
+          "content": "만약 위험해 보이면, 너희는 내려오지 마."
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我所在的方位有威胁——啊，马上就没有了。"
+        },
+        {
+          "language": "日文",
+          "content": "うちがいる方向に敵がいるよ――あっ、もう消える。"
+        },
+        {
+          "language": "英文",
+          "content": "Threat at my position—yeah, not anymore soon."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 위치한 방향에 위협이…… 아, 이제 곧 사라질 거야."
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我听见了移动的声音。"
+        },
+        {
+          "language": "日文",
+          "content": "移動する音が聞こえる。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm hearing movement."
+        },
+        {
+          "language": "韩文",
+          "content": "움직이는 소리가 들려."
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你只能走到这里了。"
+        },
+        {
+          "language": "日文",
+          "content": "これ以上は進めないよ。"
+        },
+        {
+          "language": "英文",
+          "content": "And that's as far as you go."
+        },
+        {
+          "language": "韩文",
+          "content": "더 이상은 못 지나가."
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不想......留在黑暗之中。"
+        },
+        {
+          "language": "日文",
+          "content": "うち……暗闇にいたくない。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm done rambling in the dark."
+        },
+        {
+          "language": "韩文",
+          "content": "난…… 어둠 속에 남고 싶지 않아."
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......太阳出来了。真漂亮。沙地兽，我们回去吧。"
+        },
+        {
+          "language": "日文",
+          "content": "……太陽が出てきたね。きれい。サンドビースト、帰ろっか。"
+        },
+        {
+          "language": "英文",
+          "content": "Sun's out. What a beauty… Sandbeast, let's get home."
+        },
+        {
+          "language": "韩文",
+          "content": "……해가 나왔네, 예쁘다. 샌드비스트, 이만 돌아가자."
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这片区域暂时没有危险了。你一直都是这样吗？什么问题都能摆平？"
+        },
+        {
+          "language": "日文",
+          "content": "このエリアはひとまず安全になったよ。君っていつもこうなの？どんな問題でもちゃちゃって解決できちゃう？"
+        },
+        {
+          "language": "英文",
+          "content": "This area's clear of danger for now. Doctor, you always been like this? Any problem, you'll solve it?"
+        },
+        {
+          "language": "韩文",
+          "content": "이 구역은 당분간 안전해졌어. 넌 항상 이래 왔던 거야? 어떤 문제라도 해결할 수 있는 거야?"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "后续开采......医疗工作先推迟一下，我去处理潜在威胁。"
+        },
+        {
+          "language": "日文",
+          "content": "この後の採掘……治療は後にして。先に潜在的な脅威を排除してくるから。"
+        },
+        {
+          "language": "英文",
+          "content": "We'll have to expand the mine out... Hold the treatment for now. Got a lurking threat to handle."
+        },
+        {
+          "language": "韩文",
+          "content": "후속 채굴은…… 치료는 잠시 미뤄 줘, 남은 위협을 제거하고 올게."
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们快走。通讯有可能中断，如果情况严峻，我会尽力留下可识别的标记。"
+        },
+        {
+          "language": "日文",
+          "content": "みんなは早く逃げて。通信が途中で切れる可能性があるから、もし状況が厳しかったら、識別できるマークをなるべく残すね。"
+        },
+        {
+          "language": "英文",
+          "content": "You all leg it. Comms might cut out. If things get grim, I'll leave the most discernible signs I can."
+        },
+        {
+          "language": "韩文",
+          "content": "어서 가. 통신이 끊길 수도 있으니까, 상황이 안 좋게 흘러가면 최대한 식별할 만한 표식을 남겨 둘게."
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "奇怪，我听过这艘船在砂石上航行的声音吗？"
+        },
+        {
+          "language": "日文",
+          "content": "おかしいな。この船が砂利の上を進む音を、前に聞いたことあるかも？"
+        },
+        {
+          "language": "英文",
+          "content": "Ship's sailing on sandstone… That's strange. Like I've heard it somewhere before?"
+        },
+        {
+          "language": "韩文",
+          "content": "이상하네. 이 배가 자갈 위에서 항행하는 소리를 들은 적이 있었나?"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你不想让我躲开？好的，我不动，你再拍我一次。"
+        },
+        {
+          "language": "日文",
+          "content": "避けてほしくないの？分かった。動かないからもう一回叩いてみて。"
+        },
+        {
+          "language": "英文",
+          "content": "Was I not meant to dodge that? Okay, I'll stay put. You tap me again."
+        },
+        {
+          "language": "韩文",
+          "content": "피하지 않았으면 좋겠다고? 알았어. 가만히 있을 테니, 다시 건드려 봐."
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这种弧形背扇的沙地兽，就应该生活在沙漠里......它为什么要跟着我跑出来呢？过来，试试新的饲料。"
+        },
+        {
+          "language": "日文",
+          "content": "こういう背びれが弧を描いてるサンドビーストは、砂漠で暮らすべきなんだけど……どうしてうちにくっついてきちゃったんだろう？おいで、前とは違うごはんだよ、食べてみて。"
+        },
+        {
+          "language": "英文",
+          "content": "Sandbeasts with arcing backs like this should be living in the desert... Wonder why this bugger came with me? Here, got you new food to try."
+        },
+        {
+          "language": "韩文",
+          "content": "이런 곡선의 등지느러미가 난 샌드비스트는 사막에서 지내야 할 텐데…… 어째서 날 따라왔을까? 자, 새 사료니까 먹어 봐."
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这是短时间离舰申请。现在罗德岛停泊的地方，应该能猎到沙地兽的食物，我出去半天就回来。大家都不在办公室，还好我遇到了你......是的，今天是新年，新年快乐。然后呢？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "外面的天气很好。没有沙尘，也看不到天灾云。"
+        },
+        {
+          "language": "日文",
+          "content": "外はいい天気だよ。砂ぼこりもないし、天災雲も見えないんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Weather's fine outside. No dust cloud, and not a Catastrophe billow in sight."
+        },
+        {
+          "language": "韩文",
+          "content": "밖에 날씨가 좋네. 모래먼지도 없고, 재앙 구름도 보이지 않아."
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“痴人说梦”——我听到也有人这么形容罗德岛。我的目的地和这艘船的截然不同，也无法相比，只是，我都能因你们触碰到自己的梦，你们一定也能实现自己的梦。一定。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

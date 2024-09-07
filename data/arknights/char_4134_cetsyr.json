@@ -1,0 +1,535 @@
+{
+  "name": "魔王",
+  "charaKey": "char_4134_cetsyr",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4134_cetsyr"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4134_cetsyr"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我还记得这间会议室。这是专门为特蕾西娅空着的位置吗？不......我并不需要。"
+        },
+        {
+          "language": "日文",
+          "content": "この会議室のことは覚えているわ。この席はテレジアのために開けられるのかしら。いいえ……私はいらないわ。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "特蕾西娅已经永远离开了，现在留在这里的我，只是一个存在于“魔王”之中的程序。因为阿米娅的情感，我才会以这副模样显现。不要将我当作特蕾西娅，尽管我记得过去的一切。"
+        },
+        {
+          "language": "日文",
+          "content": "テレジアはもう戻らぬ旅路に着いたわ、残された私は、運命の存続の中に存在するプログラムでしかない。アーミヤの思いがあったからこそ、私はこの姿で現れたの。テレジアとは別人よ、例え私にかつての記憶が全てあったとしてもよ。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会陪在阿米娅身边，也会陪着罗德岛的大家，虽然这也算不上对过去时光的补偿......博士，我不是PRTS那样的程序哦，你看，虽然这个身体没有温度，可我也是会笑的。"
+        },
+        {
+          "language": "日文",
+          "content": "これからはアーミヤの傍にいるし、ロドスのみんなとも共に過ごすつもりよ、こんなことではとても過去の埋め合わせにはならないけれどね。ドクター、私はPRTSのようなプログラムではないの、ほら、この体に体温はないけれど、笑ったりはするわ。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛跨过了战争，该沿着她原本的航线出发了。就从改善后勤保障做起如何？有几间会议室是不是可以腾出来改成病房呢......征求我的意见？博士，我说过的，不要将我当作特蕾西娅。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“罗德岛制药公司”，注册地是阿米娅的故乡呢。这些药物都是凯尔希研制的吗......怎么会遗憾？巴别塔的使命已经完成了，罗德岛会继续航行，治愈病痛。特蕾西娅也一定会很欣慰吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我从不后悔曾经的选择。我们做了可以做的一切，然后将希望留给未来。时间会弥合伤口，爱意会抚平疤痕。漫漫长夜后，罗德岛会迎来黎明。许多人在途中离去了，我会留在这里，见证那个结局。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "阿米娅看上去还是这么瘦弱，这个年纪的孩子，个子是不是应该更高一点才对？她到底有没有好好吃饭呢......她多想看到阿米娅现在的样子，多想陪她再长大一点。她本该看到的......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "凯尔希还是不愿与我讲话，向这顶王冠询问的时候，她都在回避我的眼睛。“魔王”记得她的过去，我可以体谅她的孤独，却不能为她解开枷锁。博士，或许有一天，你可以陪她找到存在的意义。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，你的眼里常怀愧疚。可你说，记忆能够决定一个人是谁吗？失去了记忆的你，和只是拥有她记忆的我，又如何解开那个结呢？多去陪陪阿米娅和凯尔希吧，停留在过去的有她就够了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，累了吗？那就休息吧。每个人都有平静入梦的权利，你也一样。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......我在。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......我是不是在作战画面里看到了阿米娅？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我还记得亲手交出去的每一块勋章，这样的仪式也是一种承诺。罗德岛不会放弃理想，不会辜负牺牲，不会遗忘同行的人。我们依然行走在最初所希望的路上。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我知道，还有许多人需要我。不用着急，这一次我不会离开了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你会再次带领我们走向胜利吗，博士？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会与罗德岛的战士们站在一起。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛的战士们，愿你们凯旋。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我能听到你们所有人的悲伤。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我相信你的指挥。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别怕，我在。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "阿米娅，站到我身后来。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我在这儿呢，我会一直陪着你。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会记住你们每一个人。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们的信念，同样可敬。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "继续向前走吧，我会陪在你身边。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别哭，很快就结束了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "终有一天，我们可以点起火焰，燃尽一切腐朽。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你总是可以计算得很清楚，让一切都依照你的计划进行，对吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果没有你，我们的伤亡可能会更加严重......谢谢你，博士。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们一定可以跨过这些伤痛，罗德岛不会在此停下。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "新的安保系统，还认识我吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哈！被吓到了吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我在注视着你，博士。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "新年快乐，博士。罗德岛比过去要热闹很多呢。虽然还有那么多未完成的事情，但是这一时半刻的安宁也弥足珍贵。博士，可以替我把这些故事书和玩偶送给孩子们吗？特蕾西娅总是会这么做。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "程序启动，访问人，博士——博士，早上好。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“罗德岛”，这个名字给人一种很柔软的感觉。念出这个名字的时候，想到的一定是很温柔的回忆。我希望罗德岛可以一直一直，带着许多人的期望行驶下去。在将来，她也会成为更多人的家吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

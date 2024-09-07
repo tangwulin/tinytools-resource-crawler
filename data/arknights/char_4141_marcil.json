@@ -1,0 +1,535 @@
+{
+  "name": "玛露西尔",
+  "charaKey": "char_4141_marcil",
+  "images": [
+    "https://media.prts.wiki/c/c0/%E7%AB%8B%E7%BB%98_%E7%8E%9B%E9%9C%B2%E8%A5%BF%E5%B0%94_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/4/48/%E7%AB%8B%E7%BB%98_%E7%8E%9B%E9%9C%B2%E8%A5%BF%E5%B0%94_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/2/2d/%E7%AB%8B%E7%BB%98_%E7%8E%9B%E9%9C%B2%E8%A5%BF%E5%B0%94_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "联动",
+      "base": "voice/char_4141_marcil"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "和我在魔法学校时要做的事差不多嘛，你这里的魔法器具我也都学会怎么用了，放心交给我好了！......把源石手电筒用炸了的人？咳，那不是我！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "沙虫罐头？柠檬折耳根晌午茶？恐鱼干？......不要——！不要不要，绝对不要！绝对不要！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "给，治愈术和恢复疗愈系法术的对比总结。嗯？没想到我能这么快做完？哼哼，我在学校开发新治愈术时，每天要看的材料也有这么多。下次要是有这种工作，也都交给我吧！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“第七夜苏醒魔君”“东夜魔王”？你们这里真的有这种传说中的人物吗？在血与黑暗的盛宴中苏醒，一轮孤月照亮他血红的眸子，身边围绕着无数......欸？那个被揪住耳朵带走的男人是谁？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔，好新鲜的蔬菜！没有土只有水，没想到这种装置真的能种出菜来，要是迷宫里也有就好了！......需要电力支持......？我愿意一直蹬发电机给它供电！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "制造使魔确实是危险魔法......但是医疗部的孩子们很少能够看到这样的景象。我能召唤出这种小东西陪他们玩，你看，他们多喜欢啊。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......我刚刚看到莱欧斯又在吃一个我没见过的魔物，半人高，浑身带刺，还会喷毒液。博士，食物中毒的症状多久会表现出来？算了，我还是去医疗部问问吧......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这是我在手工课上学的草编蚂蚱，我要把它带回去送给法琳。我们第一次一起玩时她就捉了蚂蚱，还带我去看了真正的迷宫，吃了木莓......那是我们成为朋友的第一天，我一直记得的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，你能教我用那个叫作照相机的东西吗？我想和你们还有莱欧斯他们拍一张照片，等哪天我们回去了，就用这张照片向法琳介绍你们。是、是这样用吗？莱欧斯你再凑近点，三、二、一——笑~"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......不知道我的睡袋还在不在地下五层......还有那块很贵的肥皂......呼......呼......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "谢谢你们愿意帮我们找回去的方法！对了，我的队友其实都是很好的人来着，要是他们做了一些奇怪的事情，呃，拜托你们包涵一下......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这难道就是重现时光的魔法？还能这样大批量地进行？是怎么做到的？能不能教教我？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "也就是说，我有更多的权限可以去借阅那些高级源石技艺理论书了？多谢！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要是和法琳讲我们一路以来发生的这些事，她肯定会很高兴的......所以，我们一定要回去把她救出来！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "魔法书、法杖、修补工具......嗯，东西都准备好了，随时可以出发。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "欸？我们的队长一直是莱欧斯呀。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "走吧，只要有作战计划，我都能执行。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别担心，我刚刚吃饱了饭，现在魔力很充沛。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "交给我你就放心好啦。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "需要我提前准备魔法阵吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好多没见过的魔物......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "就是那些吧？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "上次操控使魔后，我的胳膊一直酸到现在......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们退后，交给我吧！全部歼灭！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "魔力耗尽很危险的，你可要谨慎规划战术啊。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我看到魔物了，等我瞄准它们......！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哼哼，有我在还不错吧？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明明罗德岛有正常的料理，为什么莱欧斯和森西还要把刚刚打倒的魔物做来吃？！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "还好还好，差点就要成为魔物的盘中餐了......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊啊啊！快跑啊！！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里面真的很像一个迷宫啊......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呜哇！......吓死我了，我还以为是食人植物！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你也要去图书室吗？好啊，一起走吧！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真没想到我在这里居然已经待了这么久了，上次你教我的照相机我已经会用了，今天我们再拍一张吧！还有那些我认识的新朋友们，我们一起拍张大合照，法琳肯定愿意听我们的这段故事~"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，昨晚睡得怎么样？要是一直做噩梦的话，就去检查一下枕头里有没有梦魔吧——在迷宫里我们就是这么做的！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我在魔法学校从事疾病和外伤原理的研究，除此之外也负责开发治愈术，我很清楚与难以攻克的疾病做抗争是一件非常辛苦的事情。博士，如果你们需要的话，我很愿意提供力所能及的帮助。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

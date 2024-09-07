@@ -1,0 +1,1287 @@
+{
+  "name": "令",
+  "charaKey": "char_2023_ling",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_2023_ling"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_2023_ling"
+    },
+    {
+      "language": "中文-方言",
+      "base": "voice_custom/char_2023_ling_cn_topolect"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_2023_ling"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_2023_ling"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真让人怀念，很多年前，我也曾如今天这般走入那谋臣似雨的阁楼。"
+        },
+        {
+          "language": "日文",
+          "content": "どうも懐旧の情が催されるね。ずいぶん昔にもね、私は今日と同じように、志士たちがひしめく楼閣に足を踏み入れたことがあるんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Evocative&nbsp;so.&nbsp;Years&nbsp;and&nbsp;an&nbsp;age&nbsp;ago,&nbsp;the&nbsp;very&nbsp;palace&nbsp;rained&nbsp;and&nbsp;drizzled&nbsp;in&nbsp;the&nbsp;whisperers&nbsp;of&nbsp;consultants."
+        },
+        {
+          "language": "韩文",
+          "content": "어쩐지 회고의 정이 느껴지네. 꽤 옛날에도, 난 오늘처럼 문관들로 붐비는 누각에 발을 들인 적이 있어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "真讓人懷念，很多年前，我也曾如今天這般走入那謀臣似雨的閣樓。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "真让人怀念，很多年前，我也曾如今儿这般走入那谋臣似雨的阁楼。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "真讓人懷念，很多年前，我也曾如今兒這般走入那謀臣似雨的閣樓。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没错，大炎学士口中的“岁”，既是“我们”，也是“祂”。这倒没什么好藏掖的，我也不担心年所担心的。毕竟我只是我，死了也只是死了，只可惜了这杯中物和这天地，我终究是喜欢的。"
+        },
+        {
+          "language": "日文",
+          "content": "然り、大炎の学士が口にする「歳」とは「吾々」であり、「カミ」でもある。秘匿するほどのことではないさ。ニェンちゃんが懸念していること、私は気にしていないよ。どうしたって、私は私でしかなく、終わる時は終わるのさ。ただ、この杯のうちにあるものや、この天地が惜しいかな。結句、私は好んでやまないのだから。"
+        },
+        {
+          "language": "英文",
+          "content": "Yea, when Yan scholars speak of Sui, that is us, and It too. Facts hardly worth covering up; Nian's worries are not mine. After all, I am only me, and my death, no more than death is. The only shames would be this wine and world, for at day's end I love them long."
+        },
+        {
+          "language": "韩文",
+          "content": "맞아, 염국의 학자들이 말하는 '쉐이'는 '우리'이기도 하고, '신'이기도 해. 숨길 것도 없지. 니엔이 걱정하는 건, 나는 신경 안 써. 어쨌든 나는 나일 뿐이고, 끝날 때는 끝나는 거야. 그저 이 잔 안에 있는 것이나, 이 천지가 아까울지도 모르겠네. 결국 난 계속 즐기는 것뿐이니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "沒錯，大炎學士口中的“歲”，既是“我們”，也是“祂”。這倒沒什麼好藏掖的，我也不擔心年所擔心的。畢竟我只是我，死了也只是死了，只可惜了這杯中物和這天地，我終究是喜歡的。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "没错，大炎学士口中的“岁”，既是“我们”，也是“祂”。这倒是没有撒好藏掖的，我也不担心年所担心的。毕竟我只是我，死了也只是死了，只可惜了这杯中物跟这天地，我终究是喜欢的。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "沒錯，大炎學士口中的“歲”，既是“我們”，也是“祂”。這倒是沒有撒好藏掖的，我也不擔心年所擔心的。畢竟我只是我，死了也只是死了，只可惜了這杯中物跟這天地，我終究是喜歡的。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "本以为总算能遇见一位故人，说不定，还是故知，不曾想，你却是如今这般模样。不知我是我，与大梦何异？不过博士，就当你自己也无妨，我与我周旋久，宁做我。"
+        },
+        {
+          "language": "日文",
+          "content": "ようやく古い知り合いに、ともすれば旧友に会えるものと思っていたんだけど、まさか貴君がこんな風になっていたとは、ふっ。我を我と知らぬのなら、それは夢と何が違うんだろうね？しかし、貴君。貴君でいてもいいんだよ。我と我の問答に終わりなく、なれば我で在る方がいいさ。"
+        },
+        {
+          "language": "英文",
+          "content": "I was of the mind I would finally meet someone past, an old friend. Never did I think this is how you now present yourself. From knowing not one is one, isn't this like a dream? However, Doctor. It is fine to be as yourself. Long have I contended with myself; myself I shall prefer to act."
+        },
+        {
+          "language": "韩文",
+          "content": "드디어 옛 지인을, 잘하면 옛 친구를 만날 수 있을 거라 생각했는데. 설마 그대가 이렇게 됐을 줄이야, 훗. 내가 나를 알지 못한다면, 그건 꿈과 뭐가 다른 걸까? 하지만, 그대는 그대로 있어도 되는 거야. 나와 나의 문답이 끝나지 않는다면, 나로 존재하는 편이 좋지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "本以為總算能遇見一位故人，說不定，還是故知，不曾想，你卻是如今這般模樣。不知我是我，與大夢何異？不過博士，就當你自己也無妨，我與我周旋久，寧做我。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "本以为总算能遇见一位故人，说不定，还是故知，不曾想，你却是如今这般模样。不知我是我，与大梦何异？不过博士，就当你自己也无妨，我与我周旋久，宁做我。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "本以為總算能遇見一位故人，說不定，還是故知，不曾想，你卻是如今這般模樣。不知我是我，與大夢何異？不過博士，就當你自己也無妨，我與我周旋久，寧做我。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在心为志，发言为诗，若满腔胸臆，气象万千，不写出来岂不是愧对自己？嗯？尾巴？呵呵，笔自然也是用的，但毕竟是外物，不方便嘛，我身既是逍遥身，谁说用尾巴就不行？"
+        },
+        {
+          "language": "日文",
+          "content": "心に在るを志となし、言に発するを詩となす。胸の内に渾々と湧いて尽きぬ泉を抱えているなら、書き出さない方が己に失礼というものだよ。ん？しっぽ？ははっ、もちろん筆も使うよ。しかし所詮は身外の物だからね、不便な時だってある。この身は逍遥自在なれば、しっぽを使っちゃだめだなんてことはないよね？"
+        },
+        {
+          "language": "英文",
+          "content": "Where the heart is as will, and its utterance is as verse. If wells your chest with depths manifold, wouldn't failing their writing be shame to meet yourself? Hm? My tail? Ah, so too do I make use of a common brush, naturally. But it is at times inconvenient, as an extremity would be. My body is an unfettered one; who says I can't use my tail?"
+        },
+        {
+          "language": "韩文",
+          "content": "마음에 있는 것을 뜻이라 하고, 말로 내뱉는 것을 시라 하지. 가슴 속에 콸콸 솟아 나오는 끝없는 샘을 품었다면, 써내지 않는 게 자신에게 실례인 거야. 응, 꼬리? 하하, 물론 붓도 사용하지. 하지만 결국 내 몸이 아니니까, 불편한 때는 있어. 내 몸은 자유로운데, 꼬리를 쓰면 안 된다는 법은 없잖아?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "在心為志，發言為詩，若滿腔胸臆，氣象萬千，不寫出來豈不是愧對自己？嗯？尾巴？呵呵，筆自然也是用的，但畢竟是外物，不方便嘛，我身既是逍遙身，誰說用尾巴就不行？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "在心为志，发言为诗，若满腔胸臆，气象万千，不写出来岂不是愧对自己？撒？尾巴？呵呵，笔自然也是用的，但毕竟是外物，不方便嘛，我身既是逍遥身，谁说用尾巴就不行？"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "在心為志，發言為詩，若滿腔胸臆，氣象萬千，不寫出來豈不是愧對自己？撒？尾巴？呵呵，筆自然也是用的，但畢竟是外物，不方便嘛，我身既是逍遙身，誰說用尾巴就不行？"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "诗词歌赋，虽然各不相同，却又有相通之处。可惜如今的人呐，大都耐不下性子，听一首曲，读一首诗，我倒是不以为然，就是苦了些当今文人。"
+        },
+        {
+          "language": "日文",
+          "content": "詩詞歌賦、形こそそれぞれ異なるのだけど、相通ずるところもあるんだよ。惜しむらくは、今の子たち、堪え性がないからね。曲を聴くのも、詩を読むのも。私にしたらなんの苦にもならないことだけど、文士たちは少し不憫かな。"
+        },
+        {
+          "language": "英文",
+          "content": "Poetry, speech, lyric, essay. Though they all differ as their own, they are common in places. A pity the people of now are, by and large unable to exercise patience. To listen to a song, to read a poem. I take no objection to it, but how must our present scholars suffer."
+        },
+        {
+          "language": "韩文",
+          "content": "시사가부의 형태는 각자 다르지만, 상통하는 부분도 있지. 안타깝게도, 요즘 아이들은 참을성이 없어서 말이야. 곡을 듣는 것도, 시를 읽는 것도. 내게는 아무 어려움도 없지만, 문인들은 조금 불쌍할지도 모르겠어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "詩詞歌賦，雖然各不相同，卻又有相通之處。可惜如今的人呐，大都耐不下性子，聽一首曲，讀一首詩，我倒是不以為然，就是苦了些當今文人。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "诗词歌赋，虽然各不相同，却又有相通之处。可惜如今的人呐，大都耐不下性子，听一首曲，读一首诗，我倒是不以为然，就是苦了些当今文人。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "詩詞歌賦，雖然各不相同，卻又有相通之處。可惜如今的人呐，大都耐不下性子，聽一首曲，讀一首詩，我倒是不以為然，就是苦了些當今文人。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "年太急躁，夕又胆小，可看她俩如今的模样，又好像已经知道自己喜欢什么，想做什么。那又何必纠结于什么真真假假，你你我我呢？每天吵架拌嘴，喜怒哀乐，不就是人心吗。"
+        },
+        {
+          "language": "日文",
+          "content": "ニェンちゃんはせっかちだし、シーちゃんは肝が小さいけど、あの子らの今の様子を見るに、好きなものも、したいことも既に見つけたようだ。さすれば、真偽だの自他の差異だのに拘泥する必要がどこにあるんだろう。日々の他愛ない口喧嘩や喜怒哀楽、それこそが人じゃない？"
+        },
+        {
+          "language": "英文",
+          "content": "Nian is too impetuous, Dusk timid, yet to see the two as they are now, it seems they already know what they like, and want to do. So why probe at veracity or falsity or object or subject? To bicker and squabble every day, knowing emotion's gamut, is that not what a person is?"
+        },
+        {
+          "language": "韩文",
+          "content": "니엔은 성급하고 시는 겁이 많지만, 그 아이들의 지금 모습을 보면, 좋아하는 것도 하고 싶은 것도 이미 발견한 것 같아. 그렇다면 진실과 거짓, 자신과 남의 차이에 구애될 필요는 어디에도 없겠지. 매일 반복하는 시시한 말다툼이나 희로애락, 그것이 바로 사람의 마음 아닐까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "年太急躁，夕又膽小，可看她倆如今的模樣，又好像已經知道自己喜歡什麼，想做什麼。那又何必糾結於什麼真真假假，你你我我呢？每天吵架拌嘴，喜怒哀樂，不就是人心嗎。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "年太急躁，夕又胆小，可看她俩如今的模样，又好像已经知道自个儿喜欢撒，想做撒。我又何必纠结于撒真真假假，你你我我呢？成天吵架拌嘴，喜怒哀乐，不就是人心吗。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "年太急躁，夕又膽小，可看她倆如今的模樣，又好像已經知道自個兒喜歡撒，想做撒。我又何必糾結於撒真真假假，你你我我呢？成天吵架拌嘴，喜怒哀樂，不就是人心嗎。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，想不想让我为你题首诗？嗯？没有，只是来了兴致。不用写，也不用记下来。等等，若是谱曲倒也不差！不过要舞一曲，恐怕要做些准备，好！你先坐着，等我片刻。"
+        },
+        {
+          "language": "日文",
+          "content": "貴君、自分のための詩を、私に詠ませてみたいと思わない？ん？なに、ただ興が乗ったんだ。筆を走らせるまでもないし、記録なんてのも野暮だよ。おっと待てよ、もし曲にすれば……それも一興！とはいえ一差し舞うには準備を要しそうだ。よし！貴君は腰掛けててくれ、半刻で戻るよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, would you want for me to compose you a verse? Hm? Nay, I'm simply in the mood. I need not write it, nor record it. Ah, wait, if it were a song... that would be quite good too! But to dance a song, I fear I would need some preparation. Good! You sit there, and await me a short while."
+        },
+        {
+          "language": "韩文",
+          "content": "그대는 자신을 위한 시를 내게 읊게 하고 싶다는 생각은 안 해? 응? 뭐, 그냥 흥이 올라서. 붓을 휘두를 것도 없고, 기록하는 것도 풍류가 없지. 앗 잠깐, 혹시 노래로 한다면… 그것도 재미있겠네! 그렇지만 한 곡 추려면 준비가 필요해. 좋아! 그대는 앉아 있어, 금방 돌아올게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，想不想讓我為你題首詩？嗯？沒有，只是來了興致。不用寫，也不用記下來。等等，若是譜曲倒也不差！不過要舞一曲，恐怕要做些準備，好！你先坐著，等我片刻。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "博士，想不想叫我为你题首诗？撒？没有，只是来了兴致。不用写，也不用记下来。等等，若是谱曲倒也不差！不过要舞一曲，恐怕要做些准备，好！你先坐哈，等我一会儿。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "博士，想不想叫我為你題首詩？撒？沒有，只是來了興致。不用寫，也不用記下來。等等，若是譜曲倒也不差！不過要舞一曲，恐怕要做些準備，好！你先坐哈，等我一會兒。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "醉了？呵......尚未见天开月明，海走冰散，真等到世人皆醒，也不过枯枝一新芽，真要大醉一场，还为时尚早......博士呀，你怎么能说我醉了呢？"
+        },
+        {
+          "language": "日文",
+          "content": "私が酔ってる？ふっ……我なおいまだ、天開かる、月明ける、海走る、氷散るを見ず。世の人間がみな素面になるのを待ったところで、それもまた枯れ枝に新芽が一つ、ついただけ。心置きなく酔い耽るには、尚早きにすぎる……貴君よ、どうして私が酔っているなんて言える？"
+        },
+        {
+          "language": "英文",
+          "content": "I am drunk? Hah... I have not yet seen the sky throw wide, moon rise, seas race, ice break, to wait true for all the world's sobriety would be but the withering of a bud, to want true for deep intoxication would be far too early still... Doctor, now, why do you say I am drunk?"
+        },
+        {
+          "language": "韩文",
+          "content": "내가 취했다고? 훗… 나는 아직 하늘이 열리며 달이 밝고, 바다가 달리며 얼음이 흩어지는 걸 보지 못했어. 세상의 인간이 모두 술에서 깨어나는 것을 기다리는데, 이제 나뭇가지에 새싹 하나 피어올랐을 뿐이지. 마음 놓고 취하기엔 시기상조이거늘… 그대여, 어찌 내가 취했다고 할 수 있겠어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "醉了？呵......尚未見天開月明，海走冰散，真等到世人皆醒，也不過枯枝一新芽，真要大醉一場，還為時尚早......博士呀，你怎麼能說我醉了呢？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "醉了？呵......尚未见天开月明，海走冰散，真等到世人皆醒，也不过枯枝一新芽，真要大醉一场，还为时尚早......博士呀，你咋能说我醉了呢？"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "醉了？呵......尚未見天開月明，海走冰散，真等到世人皆醒，也不過枯枝一新芽，真要大醉一場，還為時尚早......博士呀，你咋能說我醉了呢？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "昨夜我梦见了你，不！兴许是你梦见了我。唔，记不得了？可惜，那般得意，却不能与人同享。得意什么？呵，八千年为春，八千年为冬，梦见的那些，也不过短短几个秋，如此罢了。"
+        },
+        {
+          "language": "日文",
+          "content": "昨夜貴君の夢を見た。否、本当は貴君が私の夢を見ていたのかもしれないね。うん？覚えていない？残念、あの痛快さを分かち合えないなんて。どういうことかって？ふっ、八千年を春とし、また八千年を冬として過ごす一巡り、夢に見たのも、そのうちほんの短い秋のこと、それだけだよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Last night I dreamt of you. Nay! Perhaps it's you who dreamt of me. Oh, can you not recall? A shame; it delighted me so, yet I cannot share this revelry. Delighted how? Hmm. That eight thousand years of springs, eight thousand of winters, all dreamt, were no more than a brief handful of autumns. That is all."
+        },
+        {
+          "language": "韩文",
+          "content": "어젯밤에 그대의 꿈을 꿨어. 아니, 어쩌면 그대가 내 꿈을 꿨을지도 몰라. 응? 기억 안 나? 아쉬워라, 그 뿌듯함을 함께 나누지 못하다니. 무슨 소리냐고? 훗, 팔천 년의 봄과 또 팔천 년의 겨울을 보낸들, 꿈에서 본 건 단지 짧디짧은 몇 번의 가을뿐이었어. 단지 그뿐이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "昨夜我夢見了你，不！興許是你夢見了我。唔，記不得了？可惜，那般得意，卻不能與人同享。得意什麼？呵，八千年為春，八千年為冬，夢見的那些，也不過短短幾個秋，如此罷了。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "夜黑我梦见了你，不！兴许是你梦见了我。撒，记不得了？可惜，那般的得意，却不能与人同享。得意撒？呵，八千年为春，八千年为冬，梦见的那些，也不过短儿短儿几个秋，如此罢了。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "夜黑我夢見了你，不！興許是你夢見了我。撒，記不得了？可惜，那般的得意，卻不能與人同享。得意撒？呵，八千年為春，八千年為冬，夢見的那些，也不過短兒短兒幾個秋，如此罷了。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "云峦波涛，千里枯路，江山故人我，晚秋行舟。"
+        },
+        {
+          "language": "日文",
+          "content": "雲巒波濤、千里枯路、江山の故人たる我は、晩秋の行舟なり。"
+        },
+        {
+          "language": "英文",
+          "content": "Clouds ranged as billows, distant-run roads withered. I, departed of the vistas, sailed a ferry in late autumn."
+        },
+        {
+          "language": "韩文",
+          "content": "구름과 산의 파도, 메마른 천 리 길, 강산의 고인인 나는, 늦가을 떠다니는 배로구나."
+        },
+        {
+          "language": "繁体中文",
+          "content": "雲巒波濤，千里枯路，江山故人我，晚秋行舟。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "云峦波涛，千里枯路，江山故人我，晚秋行舟。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "雲巒波濤，千里枯路，江山故人我，晚秋行舟。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "令，如此称呼我就好，我那两个麻烦妹妹没给您添麻烦吧？唔？见过我？啊......也许是在梦中吧。"
+        },
+        {
+          "language": "日文",
+          "content": "リィンと呼んでくれたらいいよ。うちの面倒な妹二人がお世話になってるらしいけど、迷惑かけてない？ん？私に見覚えがあるの？ああ……夢の中でかもしれないね。"
+        },
+        {
+          "language": "英文",
+          "content": "Ling, you can call me. Have my two troublemaking sisters vexed you any? Hm? You've seen me before? Ah... perhaps so, in a dream."
+        },
+        {
+          "language": "韩文",
+          "content": "링이라 불러 줘. 우리 성가신 동생 둘이 신세 지고 있는 것 같은데, 폐를 끼치고 있지는 않지? 응? 나를 본 적이 있어? 아아… 꿈속에서일지도 모르겠네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "令，如此稱呼我就好，我那兩個麻煩妹妹沒給您添麻煩吧？唔？見過我？啊......也許是在夢中吧。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "令，如此称呼我就好，我那两个瓜妹妹莫给你添麻嗒吧？唔？撒？见过我？啊......兴许是在梦里头吧。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "令，如此稱呼我就好，我那兩個瓜妹妹莫給你添麻嗒吧？唔？撒？見過我？啊......興許是在夢裡頭吧。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "虽大相径庭，可气象相近。"
+        },
+        {
+          "language": "日文",
+          "content": "見た目はちっともかかずらわないほど離れているのに、性質はどうも近いね。"
+        },
+        {
+          "language": "英文",
+          "content": "Though antithetical at a glance, your nature is quite similar."
+        },
+        {
+          "language": "韩文",
+          "content": "겉보기에는 전혀 상관없을 정도로 다른데, 성질은 아무래도 비슷하네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "雖大相徑庭，可氣象相近。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "虽大相径庭，可气象相近。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "雖大相徑庭，可氣象相近。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯......是不是该说“末将得令”？哈哈，别当真，只是你若真是将领，那我重新当个谋士，好像也不坏。"
+        },
+        {
+          "language": "日文",
+          "content": "ん……「末将令を得たり」、と言うべきかな？ははっ、冗談だよ、本気にしないで。ただ貴君が本当に将として立つのであれば、私が再び知謀でもって佐けるのも、悪くはないように思うよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Hm... 'General, I heed thy order,' should I say? Ha, do not take it seriously. I only suppose that if you were truly a field marshal, then I may not mind once again serving as a strategist."
+        },
+        {
+          "language": "韩文",
+          "content": "음… '소장이 명을 받들겠습니다'라고 해야 하나? 하핫, 농담이야. 진지하게 받아들이지 마. 단지 그대가 진짜 장수로 나서는 거라면, 내가 다시 책사로 보좌하는 것도 나쁘지는 않을 것 같아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯......是不是該說“末將得令”？哈哈，別當真，只是你若真是將領，那我重新當個謀士，好像也不壞。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "嗯......是不是该说“末将得令”？哈哈，别当真，只是你若真是将领，那我重新当个谋士，好像也不坏。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "嗯......是不是該說“末將得令”？哈哈，別當真，只是你若真是將領，那我重新當個謀士，好像也不壞。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "年说的不错，这场千秋大梦，本就该醒了。"
+        },
+        {
+          "language": "日文",
+          "content": "ニェンちゃんの言った通りだ。この永く荒唐無稽な夢は、とっくに覚めてしかるべきだよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Nian was not wrong. This farcical dream of a thousand autumns is only right to wake from."
+        },
+        {
+          "language": "韩文",
+          "content": "니엔의 말 대로야. 이 길고 황당무계한 꿈은, 이미 깨어났어야 해."
+        },
+        {
+          "language": "繁体中文",
+          "content": "年說的不錯，這場千秋大夢，本就該醒了。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "年说的不错，这场千秋大梦，本就该醒了。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "年說的不錯，這場千秋大夢，本就該醒了。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "长河千嶂，大荒孤城，历历在目。"
+        },
+        {
+          "language": "日文",
+          "content": "長河千嶂、大荒孤城、歴々と目に在り。"
+        },
+        {
+          "language": "英文",
+          "content": "The river bends a thousand times, a city lone in desolation, vivid in the mind's eye."
+        },
+        {
+          "language": "韩文",
+          "content": "긴 강과 무수한 산봉우리, 드넓은 황야와 고성, 눈에 역력하구나."
+        },
+        {
+          "language": "繁体中文",
+          "content": "長河千嶂，大荒孤城，歷歷在目。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "长河千嶂，大荒孤城，历历在目。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "長河千嶂，大荒孤城，歷歷在目。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "满酹杯中物，天下共余愁。"
+        },
+        {
+          "language": "日文",
+          "content": "杯を反そう、この小さな器に満ちたものがせめて、大地にありて慰めとなるように。"
+        },
+        {
+          "language": "英文",
+          "content": "To&nbsp;scatter&nbsp;the&nbsp;fill&nbsp;of&nbsp;a&nbsp;brimming&nbsp;cup,&nbsp;to&nbsp;share&nbsp;the&nbsp;sip&nbsp;for&nbsp;a&nbsp;soothed&nbsp;sorrow."
+        },
+        {
+          "language": "韩文",
+          "content": "술잔을 뒤집자. 이 작은 그릇에 차 있던 것이, 적어도 이 대지에 위안이 되도록."
+        },
+        {
+          "language": "繁体中文",
+          "content": "滿酹杯中物，天下共餘愁。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "满酹杯中物，天下共余愁。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "滿酹杯中物，天下共餘愁。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "兵戈伐谋，千古不易。"
+        },
+        {
+          "language": "日文",
+          "content": "血で血を洗う争いに謀、古来より変わらないね。"
+        },
+        {
+          "language": "英文",
+          "content": "Plotted&nbsp;schemes,&nbsp;waged&nbsp;wars,&nbsp;crossed&nbsp;arms,&nbsp;shed&nbsp;blood.&nbsp;An&nbsp;eternity,&nbsp;unaltered&nbsp;and&nbsp;unfailing&nbsp;in&nbsp;its&nbsp;challenge."
+        },
+        {
+          "language": "韩文",
+          "content": "피를 피로 씻는 싸움에 모략, 예로부터 변하지 않으니."
+        },
+        {
+          "language": "繁体中文",
+          "content": "兵戈伐謀，千古不易。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "兵戈伐谋，千古不易。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "兵戈伐謀，千古不易。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "凭栏望火，不知其热。"
+        },
+        {
+          "language": "日文",
+          "content": "遠くに火を望んだところで、熱さは分からないさ。"
+        },
+        {
+          "language": "英文",
+          "content": "To gaze the fire from afar, knowing not its heat."
+        },
+        {
+          "language": "韩文",
+          "content": "멀리서 불을 바라본들, 뜨거움은 알 수 없으리."
+        },
+        {
+          "language": "繁体中文",
+          "content": "憑欄望火，不知其熱。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "凭栏望火，不知其热。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "憑欄望火，不知其熱。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "轮到我了吗？"
+        },
+        {
+          "language": "日文",
+          "content": "私に巡ってきたのかな？"
+        },
+        {
+          "language": "英文",
+          "content": "Has it come to my turn?"
+        },
+        {
+          "language": "韩文",
+          "content": "내 차례가 돌아온 걸까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "輪到我了嗎？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "轮到我了吗？"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "輪到我了嗎？"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真让人怀念。"
+        },
+        {
+          "language": "日文",
+          "content": "懐旧の情が催されるね。"
+        },
+        {
+          "language": "英文",
+          "content": "Truly evocative."
+        },
+        {
+          "language": "韩文",
+          "content": "회고의 정이 느껴지네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "真讓人懷念。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "真叫人怀念。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "真叫人懷念。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "此刻便算入秋了。"
+        },
+        {
+          "language": "日文",
+          "content": "この時より、秋だ。"
+        },
+        {
+          "language": "英文",
+          "content": "And&nbsp;thus&nbsp;has&nbsp;autumn&nbsp;made&nbsp;reckoned&nbsp;her&nbsp;arrival."
+        },
+        {
+          "language": "韩文",
+          "content": "이 순간부터, 가을이로다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "此刻便算入秋了。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "此刻便算入秋了。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "此刻便算入秋了。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一曲战歌，一首悲词。"
+        },
+        {
+          "language": "日文",
+          "content": "戦（いくさ）のための歌、悲（かなしみ）を紡ぐ詩。"
+        },
+        {
+          "language": "英文",
+          "content": "For&nbsp;the&nbsp;marching,&nbsp;a&nbsp;warsong.&nbsp;For&nbsp;the&nbsp;fallen,&nbsp;a&nbsp;lament."
+        },
+        {
+          "language": "韩文",
+          "content": "전쟁을 위한 노래, 슬픔을 자아내는 가사."
+        },
+        {
+          "language": "繁体中文",
+          "content": "一曲戰歌，一首悲詞。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "一曲战歌，一首悲词。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "一曲戰歌，一首悲詞。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "折戟沉沙，壮志未酬。"
+        },
+        {
+          "language": "日文",
+          "content": "折戟砂に沈みて、壮志未だ酬いず。"
+        },
+        {
+          "language": "英文",
+          "content": "The split halberd sinks in the sand, great aspirations unrecompensed."
+        },
+        {
+          "language": "韩文",
+          "content": "꺾인 창은 모래에 가라앉고, 큰 뜻은 아직도 실현되지 않았네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "折戟沉沙，壯志未酬。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "折戟沉沙，壮志未酬。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "折戟沉沙，壯志未酬。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "万物一言，方有大气象。"
+        },
+        {
+          "language": "日文",
+          "content": "万物を一言に収むるは、洒々落々の境地にこそあれ。"
+        },
+        {
+          "language": "英文",
+          "content": "One&nbsp;word&nbsp;to&nbsp;address&nbsp;all&nbsp;beneath&nbsp;the&nbsp;heaven,&nbsp;one&nbsp;scope&nbsp;to&nbsp;spare&nbsp;none&nbsp;upon&nbsp;the&nbsp;earth."
+        },
+        {
+          "language": "韩文",
+          "content": "세상을 한마디 말에 담는 것, 큰 그릇이란 그리해야 하느니."
+        },
+        {
+          "language": "繁体中文",
+          "content": "萬物一言，方有大氣象。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "万物一言，方有大气象。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "萬物一言，方有大氣象。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "沙场埋恨何时绝？"
+        },
+        {
+          "language": "日文",
+          "content": "戦場（いくさば）に積もる恨みはいつか散らむ。"
+        },
+        {
+          "language": "英文",
+          "content": "When will the hate sunk beneath the battlefield disperse?"
+        },
+        {
+          "language": "韩文",
+          "content": "전쟁터에 쌓인 한은 언제쯤 흩어질까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "沙場埋恨何時絕？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "沙场埋恨何时绝？"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "沙場埋恨何時絕？"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "直抒胸臆，酣畅淋漓。"
+        },
+        {
+          "language": "日文",
+          "content": "胸臆を直抒すれば、酣暢淋漓たり。"
+        },
+        {
+          "language": "英文",
+          "content": "Speak as your heart wills, and be as your intoxication wishes."
+        },
+        {
+          "language": "韩文",
+          "content": "심정을 털어내면, 마음이 후련해지네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "直抒胸臆，酣暢淋漓。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "直抒胸臆，酣畅淋漓。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "直抒胸臆，酣暢淋漓。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "又一曲，韵意磅礴。博士，兴许你我确是知音。"
+        },
+        {
+          "language": "日文",
+          "content": "また一曲、素晴らしいものができた。ドクター、私たちは確かによく通じ合っているのかもしれないよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Another song, sublime and majestic. Doctor, perhaps you and I truly are as two entwined friends."
+        },
+        {
+          "language": "韩文",
+          "content": "또 멋진 한 곡이 만들어졌어. 박사, 우리는 분명 잘 통하는 건가 봐."
+        },
+        {
+          "language": "繁体中文",
+          "content": "又一曲，韻意磅礴。博士，興許你我確是知音。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "又一曲，韵意磅礴。博士，兴许你我确是知音。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "又一曲，韻意磅礴。博士，興許你我確是知音。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "志得意满，如杯满盈，还是要戒骄戒躁，不过......还是该称赞称赞你呀，做得不赖。"
+        },
+        {
+          "language": "日文",
+          "content": "志かなって得意満面といったところかな。貴君よ、しかれども驕ることなかれ、だ。とはいえ……褒めるべきは褒めねばならないかな。よくやったね。"
+        },
+        {
+          "language": "英文",
+          "content": "Duly satisfying, as a cup filled to the brim. We should remain level and humble, yet... we ought to sing your praises, yes. You did well."
+        },
+        {
+          "language": "韩文",
+          "content": "잔이 가득 차도, 뜻이 전부 이뤄진대도, 그대는 교만하지 말지어다. 그래도… 칭찬할 건 칭찬해야겠지. 잘했어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "志得意滿，如杯滿盈，還是要戒驕戒躁，不過......還是該稱讚稱讚你呀，做得不賴。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "志得意满，如杯满盈，还是要戒骄戒躁，不过......还是该夸哈子你呀，做得不赖。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "志得意滿，如杯滿盈，還是要戒驕戒躁，不過......還是該誇哈子你呀，做得不賴。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔......偶尔失意，你也不必太过自责，剩下的就交给我吧。"
+        },
+        {
+          "language": "日文",
+          "content": "ん……たまにはこういうこともあるさ、自分を責めすぎないで、あとは私に任せなさい。"
+        },
+        {
+          "language": "英文",
+          "content": "Mm... things disappoint on occasion; there's no need to blame yourself too hard. Leave the rest to me."
+        },
+        {
+          "language": "韩文",
+          "content": "음… 가끔 이런 일도 있는 거지. 자신을 너무 책망하지 마. 나머지는 내게 맡겨."
+        },
+        {
+          "language": "繁体中文",
+          "content": "唔......偶爾失意，你也不必太過自責，剩下的就交給我吧。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "唔......偶尔失意，你也不必太过自责，剩下的就交给我吧。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "唔......偶爾失意，你也不必太過自責，剩下的就交給我吧。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "胜败乃兵家常事，既然能进退自如，便不算完败。"
+        },
+        {
+          "language": "日文",
+          "content": "勝つも負けるも兵法家の常さ、時機を逸せず進退を見極められているなら、まだ終わりではないよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Victory and defeat are commonplace in war. As we have freedom to maneuver, this is not a complete loss."
+        },
+        {
+          "language": "韩文",
+          "content": "승패는 병가지상사거늘, 진격도 철수도 자유로울 수만 있다면 그건 완패가 아니야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "勝敗乃兵家常事，既然能進退自如，便不算完敗。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "胜败乃兵家常事，既然能进退自如，便算不了完败。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "勝敗乃兵家常事，既然能進退自如，便算不了完敗。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛的内部啊......真不知道该说怀念还是好奇。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスの中は……懐かしいと言えばいいか、興味深いと言えばいいか迷うところだね。"
+        },
+        {
+          "language": "英文",
+          "content": "Rhodes Island's interior... I'm lost as to whether I should say it's reminiscent or curious."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드 안은… 그립다고 해야 할지, 흥미롭다고 해야 할지 고민 중이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "羅德島的內部啊......真不知道該說懷念還是好奇。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "罗德岛的内部啊......真不知道该说怀念还是好奇。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "羅德島的內部啊......真不知道該說懷念還是好奇。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔？找我有事吗？"
+        },
+        {
+          "language": "日文",
+          "content": "うん？私に用かな？"
+        },
+        {
+          "language": "英文",
+          "content": "Hm? Do you need me?"
+        },
+        {
+          "language": "韩文",
+          "content": "응? 나한테 무슨 일이야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "唔？找我有事嗎？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "唔？寻我有事吗？"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "唔？尋我有事嗎？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "怎么？来喝一杯吗？不了？可惜。"
+        },
+        {
+          "language": "日文",
+          "content": "どうしたの？こっちで一献傾けていく？遠慮するって？残念だね。"
+        },
+        {
+          "language": "英文",
+          "content": "What is it? Would you like a cup? You wouldn't? What a shame."
+        },
+        {
+          "language": "韩文",
+          "content": "왜 그래? 여기서 술 한잔할래? 사양한다고? 아쉽네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "怎麼？來喝一杯嗎？不了？可惜。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "咋咧？来喝一杯吗？不了？可惜。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "咋咧？來喝一杯嗎？不了？可惜。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "年爱热闹就算了，夕自己不声不响的，倒是把她那些画卷里的造物拿去陪孩子们玩了，呵呵，可真能闹腾。有这点人之常情在，我们兄弟姐妹各自活着，也算有些生趣。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        },
+        {
+          "language": "中文-方言",
+          "content": "年爱热闹就算了，夕自个儿不声不响的，倒是把她那些画里头的东西拿去陪娃们耍了，呵呵，可真能闹腾。有这点人之常情在，俺兄弟姐妹各自活着，也算有点意思。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "还好吗？博士？"
+        },
+        {
+          "language": "日文",
+          "content": "やあ、調子はいかがかな、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Why, how are you, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "안녕, 상태는 괜찮아? 박사."
+        },
+        {
+          "language": "繁体中文",
+          "content": "還好嗎？博士？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "还好着吗？博士？"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "還好著嗎？博士？"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没错，墙上那些是我写的，放在你们宴会的酒席间，倒也不坏。你问为何而写？有什么值得写？只是酒过三巡，兴致起了。这样说来，你来得正好，罗德岛的事我还想多问问你。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        },
+        {
+          "language": "中文-方言",
+          "content": "没错，墙上那些是我写的，放在你们宴会的酒席间，倒也不差。你问为啥而写？有啥值得写？就是酒过三巡，兴致起了。这样说来，你来得正好，罗德岛的事我还想多问问你。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

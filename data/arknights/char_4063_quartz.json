@@ -1,0 +1,990 @@
+{
+  "name": "石英",
+  "charaKey": "char_4063_quartz",
+  "images": [
+    "https://media.prts.wiki/d/da/%E7%AB%8B%E7%BB%98_%E7%9F%B3%E8%8B%B1_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/7/78/%E7%AB%8B%E7%BB%98_%E7%9F%B3%E8%8B%B1_2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4063_quartz"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4063_quartz"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4063_quartz"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_4063_quartz"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "文书工作我不太在行，但如果只是陪在您身边，帮着安排和把控处理各项事务的时间，我想我可以试试看。"
+        },
+        {
+          "language": "日文",
+          "content": "机仕事はあまり得意じゃない。が、あなたに付き添って、業務スケジュールの作成や管理を手伝うだけなら、やれなくもないと思う。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm not so good at desk work, but if all you need is someone to stay by your side and help you arrange your tasks and schedule... I can give it a shot, perhaps."
+        },
+        {
+          "language": "韩文",
+          "content": "서류 업무는 그다지 잘하는 편이 아니지만, 당신 옆에서 스케줄 배정이나 관리를 돕는 정도라면, 해 볼 수 있을 것 같아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "文書工作我不太在行，但如果只是陪在您身邊，幫著安排和把控處理各項事務的時間，我想我可以試試看。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这块怀表吗？是爸爸离开家之前留给我的，不是什么值钱玩意，但走时很准，只是需要定期保养机芯、清洁表盘......博士，罗德岛上有精通钟表修理的人吗？"
+        },
+        {
+          "language": "日文",
+          "content": "この懐中時計が気になるのか？これは父が家を出る前に私にくれた物だ。大した値打ちはないが、時間は正確なんだ。ただ、やはり定期的なオーバーホールは必要だし、ケースのクリーニングも……というわけでドクター、ロドスに時計の修理が得意な者はいるか？"
+        },
+        {
+          "language": "英文",
+          "content": "This pocket watch? My father gave it to me before he left home. It's nothing fancy, but it keeps time if you keep the movement and dial maintained… Uh, Doctor, is there anyone at Rhodes Island who can fix watches?"
+        },
+        {
+          "language": "韩文",
+          "content": "이 회중시계……? 이건 아버지가 집을 떠나기 전에 주신 거야. 돈이 되는 물건은 아니지만, 시간은 정확하지. 다만 정기적으로 점검이 필요하고, 케이스 청소도 해야 돼…… 그래서 말인데 박사, 로도스 아일랜드에 혹시 시계 수리에 대해 잘 아는 사람 있어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這塊懷錶嗎？是爸爸離開家之前留給我的，不是什麼值錢玩意，但走時很準，只是需要定期保養機芯、清潔錶盤......博士，羅德島上有精通鐘錶修理的人嗎？"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在野外执行任务的话，做饭的事情可以交给我，以前在哥伦比亚荒野的时候，一直是我在负责这个。不保证有多美味，但绝不会拉肚子。"
+        },
+        {
+          "language": "日文",
+          "content": "野外任務なら、賄いは私に任せてもいいぞ。クルビアの荒野にいた頃は、チームの炊事を担っていたからな。味はそこまで保証できないが、腹を壊すようなことは決してない。"
+        },
+        {
+          "language": "英文",
+          "content": "Out in the field, you can leave the cooking to me. That's what they had me doing back in the Columbian barrenlands. I can't promise, you know that, it's gonna taste very good… But at least it won't give you a stomachache."
+        },
+        {
+          "language": "韩文",
+          "content": "야외 임무라면, 취사는 나한테 맡겨. 컬럼비아의 황야에 있을 땐 내가 취사 담당이었으니까. 맛은 보장 못 해도, 배탈이 나는 일은 절대 없을 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "在野外執行任務的話，做飯的事情可以交給我，以前在哥倫比亞荒野的時候，一直是我在負責這個。不保證有多美味，但絕不會拉肚子。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "拓荒队的补给被克扣，我们和公司起了冲突，逃进了荒野，这道伤便是当时留下的。它并非耻辱，也不算什么荣耀，它只是哥伦比亚普通人常有的“不好的”遭遇，不过在显眼的位置罢了。"
+        },
+        {
+          "language": "日文",
+          "content": "開拓隊にいた頃、補給物資が不当な中抜きをされていて揉め事になり、荒野へ逃げ延びた。この目の傷はその時に残したものだ。恥の象徴というほどではないが、誇るべきものでもない。クルビアの一般市民にとってはありふれた、「良くない」巡り合わせの証さ……たまたま目立つ場所にあるだけのな。"
+        },
+        {
+          "language": "英文",
+          "content": "Back when I was with the Pioneer Team, the company left us undersupplied, and we did not take that sitting down. We ended up escaping into the barrelands. That's when I got this scar on my eye. It's not a disgrace, but it's not a badge of honor either. It's just the kind of bad luck that us regular Columbians deal with all the time. Mine's just a little more obvious than others."
+        },
+        {
+          "language": "韩文",
+          "content": "개척팀에 있었을 때 회사가 보급 물자를 떼먹어서 트러블이 생겼었어. 그래서 황야로 도망치게 됐던 거고, 이 상처는 그때 생긴 거야. 이런 건 컬럼비아인들이 흔히 겪는 '나쁜'일에 불과하니까 딱히 수치스럽지도, 자랑스럽지도 않아. 그냥 어쩌다 보니 상처가 눈에 띄는 곳에 생겼을 뿐이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "拓荒隊的補給被克扣，我們和公司起了衝突，逃進了荒野，這道傷便是當時留下的。它並非恥辱，也不算什麼榮耀，它只是哥倫比亞普通人常有的“不好的”遭遇，不過在顯眼的位置罷了。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "规划时间和规划人生是两码事。讨生活的人不得不把每一秒钟都利用起来，连发个呆都要掐着表，而规划人生，恰恰需要足够多的时间去思考和感受。两者并不矛盾，只是后者对于多数人来说更奢侈。"
+        },
+        {
+          "language": "日文",
+          "content": "時間管理と人生設計は、全くの別物だ。今日を生きるのに精いっぱいな者は一秒たりとも無駄にできない。手を止めてぼうっとする時も、じっと時計を見ながらだ。しかし一方、人生の方向性を定めるに必要なのは、じっくり考え、多く経験するための時間なんだ。両者は矛盾こそしないが、ただ後者は多くの人にとっては贅沢に思えるだろう。"
+        },
+        {
+          "language": "英文",
+          "content": "Planning your time and planning your life couldn't be more different. When you're eking out a living, you've got no choice but to use every last second. Even when you space out, you have to keep an eye on the clock. On the other hand, to plan out your life, you need enough time to think and feel. Those aren't contradictory. It's just the second one's more of a luxury to most people."
+        },
+        {
+          "language": "韩文",
+          "content": "시간을 관리하는 거랑 인생을 계획하는 건 별개의 문제야. 오늘을 살기 위해 1초도 허투루 쓸 수 없는 사람은 멍때릴 시간조차 없겠지만, 인생을 계획하려면 오랜 시간을 들여 생각과 경험을 쌓아야 하지. 이 두 가지가 서로 모순되진 않지만, 후자는 아마 많은 사람들에겐 사치일 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "規劃時間和規劃人生是兩碼事。討生活的人不得不把每一秒鐘都利用起來，連發個呆都要掐著錶，而規劃人生，恰恰需要足夠多的時間去思考和感受。兩者並不矛盾，只是後者對於多數人來說更奢侈。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您问这柄剑重不重？当然重了。但我需要这么一柄剑，去保护我的同伴，捍卫迟来的自由。背负的重量越真实，挥动它的时候也就越有力......当然受伤的时候，也更方便当作拐杖。"
+        },
+        {
+          "language": "日文",
+          "content": "この剣が重くないかって？重いに決まってるさ。だが私には必要な重さだ。仲間を守るためにも、やっと得られたこの自由を守り抜くためにもな。それらの重みを背に感じることで、より力強く剣を振り下ろせる……もちろん、ケガした時は杖にも使えるよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Is my sword heavy? You bet it is. But I need a heavy one to protect my friends and defend our overdue freedom. The truer the weight I carry is, the mightier I can wield it... And when I'm hurt, it also comes in handy as a walking stick."
+        },
+        {
+          "language": "韩文",
+          "content": "이 검이 무겁지 않냐고? 당연히 무거워. 하지만 내 동료들, 그리고 뒤늦게 얻은 자유를 지키기 위해서라도, 이 검은 꼭 필요한 존재야. 짊어진 것들의 무게를 느끼는 것만으로도, 더 강하게 검을 휘두를 수 있어…… 물론, 다쳤을 땐 지팡이로도 사용할 수 있고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "您問這柄劍重不重？當然重了。但我需要這麼一柄劍，去保護我的同伴，捍衛遲來的自由。背負的重量越真實，揮動它的時候也就越有力......當然受傷的時候，也更方便當作拐杖。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "妈妈去世时，我甚至顾不上难过，毕竟还有巨额的医疗费用等着我去结清。为什么加入拓荒队，为什么成为自由佣兵？因为没有别的选择。当然，来罗德岛，是我自己慎重考虑后的决定。"
+        },
+        {
+          "language": "日文",
+          "content": "母が亡くなった時は、悲しむ余裕すらなかった。巨額の医療費の支払いが迫っていたからな。なぜ開拓隊に入ったのか、そしてフリーの傭兵になったのか。それは、ほかに選択肢がなかったからだ。でも、ロドスに来たのは、ちゃんと慎重に考えた末に出した結論だよ。"
+        },
+        {
+          "language": "英文",
+          "content": "When my mother died, I didn't even get to mourn her. I had a huge pile of medical debt waiting for me to pay off. Why did I join the Pioneer Team, and why did I become a merc? It's not like I had other options. But I came to Rhodes Island after giving it serious thought."
+        },
+        {
+          "language": "韩文",
+          "content": "어머니가 돌아가셨을 때, 난 슬퍼할 겨를조차 없었어. 거액의 의료비를 지불해야 했었거든. 왜 개척대에 들어가고, 자유 용병이 됐었냐고? 그야 다른 선택지가 없었거든. 그래도 로도스 아일랜드에 오기로 한 건, 신중하게 고민하고 내린 결정이었어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "媽媽去世時，我甚至顧不上難過，畢竟還有巨額的醫療費用等著我去結清。為什麼加入拓荒隊，為什麼成為自由傭兵？因為沒有別的選擇。當然，來羅德島，是我自己慎重考慮後的決定。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "自由佣兵只接自己认为有价值的任务。晚上，我在火堆边将收集来的兽牙装在剑上，同伴们都睡着了，只有这块表在嘀嗒嘀嗒地走着。我以前就很在意时间，但那是我第一次真切感受到它的流逝。"
+        },
+        {
+          "language": "日文",
+          "content": "フリーの傭兵は、やる価値があると認識した任務しか引き受けない。ある晩、私は篝火の傍に座って、集めた獣の牙を剣に取り付けていた。仲間は皆眠りについて、この時計だけがチクタクと時を刻んでいた……私は昔から時間を気にするタチではあったが、流れゆく時を明確に感じたのは、その時が初めてだったよ。"
+        },
+        {
+          "language": "英文",
+          "content": "A free mercenary only takes a mission she thinks is worth the time. There was this one night when I was sitting by the fire, affixing some beast teeth to my sword. My friends were sleeping, and the only sound in the air was my watch ticking away. Time is always on my mind, but that was the first time I really felt its passing."
+        },
+        {
+          "language": "韩文",
+          "content": "자유 용병은 수행할 가치가 있다고 여기는 임무만 받아. 횃불 옆에 앉아 모아온 짐승의 이빨을 검에 달고 있었던 어느 날 밤, 동료들은 전부 잠들었고, 오직 이 시계만이 째깍째깍 움직이고 있었지. 예전부터 난 시간을 신경 쓰는 편이긴 했지만, 시간의 흐름을 명확하게 느꼈던 건 그때가 처음이었어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "自由傭兵只接自己認為有價值的任務。晚上，我在火堆邊將收集來的獸牙裝在劍上，同伴們都睡著了，只有這塊錶在滴答滴答地走著。我以前就很在意時間，但那是我第一次真切感受到它的流逝。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "解散是必然的，没有明确的目标，也没有严格的纪律，佣兵队很难在荒野上生存下去......也许只有像罗德岛这样的组织，才能真正守护一些美好的东西，我很幸运能来到这里。"
+        },
+        {
+          "language": "日文",
+          "content": "解散は必然だった。明確な目標もなければ、厳格な規律もなかった。そんな傭兵の集まりが荒野を生き抜くのは所詮無理な話だ……きっと、ロドスみたいな組織でもない限り、真に美しいものは守り抜けないだろう。ここに来れて、つくづく幸運に感じているんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "The mercenary crew I joined was doomed to disband, sooner or later. Without a clear goal and strict discipline, you can't survive in the wilderness… Maybe only an organization like Rhodes Island can really protect what's beautiful out there. I'm thankful that I could come here."
+        },
+        {
+          "language": "韩文",
+          "content": "해산은 피할 수 없었어. 뚜렷한 목표도 엄격한 규율도 없는 용병단이 황야에서 살아남기란 매우 힘든 일이었으니까. 아마도 로도스 아일랜드 같은 조직만이 이 아름다운 것들을 지켜낼 수 있을지도 몰라. 이곳에 오게 된 건 정말 행운이라고 생각해."
+        },
+        {
+          "language": "繁体中文",
+          "content": "解散是必然的，沒有明確的目標，也沒有嚴格的紀律，傭兵隊很難在荒野上生存下去......也許只有像羅德島這樣的組織，才能真正守護一些美好的東西，我很幸運能來到這裡。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，没什么事儿的话，我发会儿呆......您可以随时叫我。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、特に用がないなら少しぼんやりしていようと思うが……何かあればいつでも呼んでくれて構わないよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, if you don't need anything from me, I'll just zone out here for a bit... Feel free to talk to me anytime you need me."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 시킬 일이 없다면 잠깐 멍하니 있을까 하는데…… 무슨 일 있으면 언제든 불러 줘."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，沒什麼事的話，我發會呆......您可以隨時叫我。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士您好，我是石英......我应该没有迟到。"
+        },
+        {
+          "language": "日文",
+          "content": "はじめてお目にかかります、ドクター。私はクォーツという者で……失礼、この時計通りならば、遅刻はしていないですよね。"
+        },
+        {
+          "language": "英文",
+          "content": "Hello, Doctor. I'm Quartz... I think I'm on time."
+        },
+        {
+          "language": "韩文",
+          "content": "처음 뵙겠습니다, 박사. 전 쿼츠라고 합니다…… 실례지만, 시계 대로라면 지각을 한 건 아니겠군요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士您好，我是石英......我應該沒有遲到。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果当时我们的队伍也能像这样战斗就好了。"
+        },
+        {
+          "language": "日文",
+          "content": "私のいた傭兵部隊も、このように戦えていたらな……"
+        },
+        {
+          "language": "英文",
+          "content": "I wish our squad could've fought like this back there."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 있었던 용병단도 이렇게 싸울 수 있었다면 좋았을 텐데."
+        },
+        {
+          "language": "繁体中文",
+          "content": "如果當時我們的隊伍也能像這樣戰鬥就好了。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "非常感谢您的肯定，如果我有什么做得不好的地方，也请告诉我。"
+        },
+        {
+          "language": "日文",
+          "content": "認めてくれてとても嬉しく思う。もし何か足りないところがあれば、遠慮せず言ってほしい。"
+        },
+        {
+          "language": "英文",
+          "content": "Thanks for your recognition, but remember to tell me if there's anything I can improve on."
+        },
+        {
+          "language": "韩文",
+          "content": "인정해 줘서 고마워. 혹시 내게 부족한 부분이 있다면, 바로 얘기해 줬으면 좋겠어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "非常感謝您的肯定，如果我有什麼做得不好的地方，也請告訴我。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛的晋升过程和标准都很透明，能做到这点真不容易。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスの昇進は過程も基準も透明性が高い。なかなかできることではないよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Rhodes Island's promotion process and standards are pretty transparent. That's not easy to do."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드의 승진은 기준과 과정이 모두 투명해. 이건 쉽게 할 수 있는 일은 아니지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "羅德島的晉升過程和標準都很透明，能做到這點真不容易。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "希望我能帮得上忙。"
+        },
+        {
+          "language": "日文",
+          "content": "お役に立てれば。"
+        },
+        {
+          "language": "英文",
+          "content": "Hope I can help."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 도움이 됐으면 좋겠네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "希望我能幫得上忙。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请您放心，我会谨慎地做决定的。"
+        },
+        {
+          "language": "日文",
+          "content": "心配はいらない。判断は慎重に行う。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't worry. I think my decisions through."
+        },
+        {
+          "language": "韩文",
+          "content": "안심해, 신중하게 판단할 테니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "請您放心，我會謹慎地做決定的。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我建议行动定在整点开始，这样方便把控时间。"
+        },
+        {
+          "language": "日文",
+          "content": "行動開始は正時にすることを提案する。そのほうが時間を把握しやすい。"
+        },
+        {
+          "language": "英文",
+          "content": "I propose we begin our operation at the top of the hour. It'll be easier to keep track of time."
+        },
+        {
+          "language": "韩文",
+          "content": "정각에 작전을 개시하는 걸 제안한다. 그러는 편이 시간을 파악하기 쉬워."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我建議行動定在整點開始，這樣方便把控時間。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "隐蔽。记得熄灭做饭的火堆！"
+        },
+        {
+          "language": "日文",
+          "content": "さあ、各自に隠れて。炊事用の焚き火もしっかり消しておくように。"
+        },
+        {
+          "language": "英文",
+          "content": "Hide, and make sure to put out the cooking fire."
+        },
+        {
+          "language": "韩文",
+          "content": "자, 다들 숨어. 취사용 모닥불 끄는 것도 잊지 말고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "隱蔽。記得熄滅做飯的火堆！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我就位了，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "位置についたぞ、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, I'm in position."
+        },
+        {
+          "language": "韩文",
+          "content": "위치에 도착했다, 박사."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我就位了，博士。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "需要暂时收起自己的武器吗？那我的剑......"
+        },
+        {
+          "language": "日文",
+          "content": "ここは一旦武器を収めた方がいいか？しかし私の剣は……"
+        },
+        {
+          "language": "英文",
+          "content": "Sheathe my weapon for the time being? Then my sword…"
+        },
+        {
+          "language": "韩文",
+          "content": "일단 무기를 거둬야 하나? 하지만 내 검은……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "需要暫時收起自己的武器嗎？那我的劍......"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "时间刚刚好！"
+        },
+        {
+          "language": "日文",
+          "content": "時間通りだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Perfect timing!"
+        },
+        {
+          "language": "韩文",
+          "content": "시간을 딱 맞췄군."
+        },
+        {
+          "language": "繁体中文",
+          "content": "時間剛剛好！"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "慢了一些，但是问题不大。"
+        },
+        {
+          "language": "日文",
+          "content": "少しだけ遅れた。だが問題はない。"
+        },
+        {
+          "language": "英文",
+          "content": "A bit late, not a big problem."
+        },
+        {
+          "language": "韩文",
+          "content": "조금 늦었지만 문제없다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "慢了一些，但是問題不大。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "比起力道，重要的是出剑的时机。"
+        },
+        {
+          "language": "日文",
+          "content": "力よりも、攻撃のタイミングが重要だ。"
+        },
+        {
+          "language": "英文",
+          "content": "Time your strike. It's more important than brute strength."
+        },
+        {
+          "language": "韩文",
+          "content": "힘보다는 타이밍이 더 중요하다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "比起力道，重要的是出劍的時機。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "和我保持距离，小心被误伤。"
+        },
+        {
+          "language": "日文",
+          "content": "私に近付きすぎないでくれ。味方を誤って傷つけたくない。"
+        },
+        {
+          "language": "英文",
+          "content": "Keep your distance. I only want to strike the enemy."
+        },
+        {
+          "language": "韩文",
+          "content": "다칠 수도 있으니까, 너무 가까이 오지는 마."
+        },
+        {
+          "language": "繁体中文",
+          "content": "和我保持距離，小心被誤傷。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "盯着我的眼罩看，会暴露很多东西的。"
+        },
+        {
+          "language": "日文",
+          "content": "この眼帯に気を取られているようでは、逆に見透かされるぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "You're staring at my eyepatch, it reveals a lot."
+        },
+        {
+          "language": "韩文",
+          "content": "이 안대에 정신이 팔렸다간, 오히려 간파당하고 말 걸."
+        },
+        {
+          "language": "繁体中文",
+          "content": "盯著我的眼罩看，會暴露很多東西的。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "就这一击！"
+        },
+        {
+          "language": "日文",
+          "content": "この一撃で決める！"
+        },
+        {
+          "language": "英文",
+          "content": "Take this!"
+        },
+        {
+          "language": "韩文",
+          "content": "이 일격으로 끝낸다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "就這一擊！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "每个环节都像指针转动般精确，那胜利自然会准时到来。"
+        },
+        {
+          "language": "日文",
+          "content": "時計の針のように正確な作戦遂行ができれば、勝利は自ずと訪れるものだ。"
+        },
+        {
+          "language": "英文",
+          "content": "When every phase of the mission proceeds with watchlike precision, victory is assured."
+        },
+        {
+          "language": "韩文",
+          "content": "시곗바늘처럼 정확한 작전 수행을 할 수 있다면, 승리는 저절로 따라오기 마련이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "每個環節都像指針轉動般精確，那勝利自然會準時到來。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "值得庆祝......回到罗德岛后，大家就可以不用吃我做的饭了。"
+        },
+        {
+          "language": "日文",
+          "content": "祝うべき勝利だ……ロドスへ帰還したら、皆ももう私の料理など食べずに済むしな。"
+        },
+        {
+          "language": "英文",
+          "content": "This is worth celebrating... When we get back to Rhodes Island, we won't have to eat my cooking anymore."
+        },
+        {
+          "language": "韩文",
+          "content": "축하할 만한 승리야…… 로도스 아일랜드에 돌아갈 테니, 다들 내가 만든 요리를 더 이상 먹지 않아도 되겠어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "值得慶祝......回到羅德島後，大家就可以不用吃我做的飯了。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "再精密的钟表偶尔也会有失准的时候，您不必太苛求完美。"
+        },
+        {
+          "language": "日文",
+          "content": "いくら精密な時計でも、時には狂うこともある。そこまで完璧さに拘ることもないよ、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Even the most accurate of watches isn't always accurate. Don't be so fixated on perfection"
+        },
+        {
+          "language": "韩文",
+          "content": "아무리 정밀한 시계라도 가끔은 어긋나기도 하지. 그러니까 너무 완벽함에 연연할 필요 없어, 박사."
+        },
+        {
+          "language": "繁体中文",
+          "content": "再精密的鐘錶偶爾也會有失準的時候，您不必太苛求完美。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "抱歉，博士，我的表坏了，安排上出了一些问题。您先走，后面的事情交给我。"
+        },
+        {
+          "language": "日文",
+          "content": "すまない、ドクター、私の時計が壊れたようだ。作戦の段取りにおいてミスをしてしまった……後始末は私に任せて、先に行ってくれ。"
+        },
+        {
+          "language": "英文",
+          "content": "Sorry, Doctor, we had a few problems with the plan because my watch is broken. Go, and leave the rest to me."
+        },
+        {
+          "language": "韩文",
+          "content": "미안해, 박사. 시계가 고장 나서 작전 순서에 문제가 생긴 것 같아. 뒤처리는 나한테 맡기고 먼저 가."
+        },
+        {
+          "language": "繁体中文",
+          "content": "抱歉，博士，我的錶壞了，安排上出了一些問題。您先走，後面的事情交給我。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里比荒野上的帐篷可舒适多了......会安排人守夜吗？"
+        },
+        {
+          "language": "日文",
+          "content": "荒野のテント暮らしよりは全然快適だ……誰かが夜番しなくていいのか？"
+        },
+        {
+          "language": "英文",
+          "content": "This is much more comfortable than a tent in the wilderness... Will someone stand watch at night?"
+        },
+        {
+          "language": "韩文",
+          "content": "황야 위의 텐트보다는 훨씬 쾌적하네…… 누군가가 불침번을 설 필요는 없는 건가?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這裡比荒野上的帳篷可舒適多了......會安排人守夜嗎？"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊，是博士，怎么了？"
+        },
+        {
+          "language": "日文",
+          "content": "ん？ドクターか、どうした？"
+        },
+        {
+          "language": "英文",
+          "content": "Oh, Doctor. What's the matter?"
+        },
+        {
+          "language": "韩文",
+          "content": "어, 박사, 무슨 일이지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "啊，是博士，怎麼了？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一起发会呆吧，博士。发呆当然没有时间限制......那已经是很早以前的事情了。"
+        },
+        {
+          "language": "日文",
+          "content": "一緒に一息つくか、ドクター――ぼうっとするのに時間を気にする必要はない……あれはもう、遠い昔のことだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Let's space out together, Doctor. We can chill for as long as we need... No need to watch the clock like we used to."
+        },
+        {
+          "language": "韩文",
+          "content": "같이 한숨 돌리자, 박사. 멍때리는 데 시간제한 같은 건 없어…… 그런 건 이미, 오래전 일이 됐으니까 말이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "一起發會呆吧，博士。發呆當然沒有時間限制......那已經是很早以前的事情了。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，新年好。对了，待会儿发表祝福感言的时候记得控制下时长，大家都在等着切蛋糕。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士您好。小心，您差点撞在我的剑上了。"
+        },
+        {
+          "language": "日文",
+          "content": "こんにちは、ドクター。気をつけて。危うく私の剣にぶつかるところだったぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "Hello, Doctor. Careful. You almost bumped into my sword."
+        },
+        {
+          "language": "韩文",
+          "content": "안녕, 박사. 조심해, 하마터면 내 검에 부딪힐 뻔했잖아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士您好。小心，您差點撞在我的劍上了。"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果没有遇见罗德岛，我是会一个人继续在荒野上游荡，还是最终回到城市接受惩罚......我不知道，也不需要那个答案了，我现在正在罗德岛，和您站在一起。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

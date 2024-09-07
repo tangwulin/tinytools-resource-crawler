@@ -1,0 +1,883 @@
+{
+  "name": "THRM-EX",
+  "charaKey": "char_376_therex",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_376_therex"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_376_therex"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_376_therex"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_376_therex"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "Thermal-EX，热量冲击准备启动！什么，尚未到达指定作战时间吗？那就延后一下。10秒后再启动冲击！"
+        },
+        {
+          "language": "日文",
+          "content": "THRM-EX（サーマル-EX）、ただいまよりエネルギーショックスタンバイフェイズに移行します！なにっ、まだ作戦の予定時刻を迎えていないだと？ではショック発動までの時間を10秒に延長します！"
+        },
+        {
+          "language": "英文",
+          "content": "Thermal-EX, ready to commence thermal shock! What, it's not yet the designated combat time? Then, I shall postpone it. Commencing thermal shock after ten second delay!"
+        },
+        {
+          "language": "韩文",
+          "content": "Thermal-EX, 에너지 쇼크 기동을 이행하겠습니다! 뭣이? 아직 작전 예정 시각이 오지 않았다고요? 그럼 쇼크 기동까지의 시간을 10초로 연장하겠습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "Thermal-EX，熱量衝擊準備啟動！什麼，尚未到達指定作戰時間嗎？那就延後一下。延遲至10秒後啟動衝擊！"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "听说东方有句古话：天下武功，唯热不破。"
+        },
+        {
+          "language": "日文",
+          "content": "東の国にこんな言葉があると聞いています。「天下の武術、熱エネルギーだけは打ち破れぬ」だそうです。"
+        },
+        {
+          "language": "英文",
+          "content": "I have heard an expression from the East: 'No martial art is infallible, except for heat.'"
+        },
+        {
+          "language": "韩文",
+          "content": "동쪽 나라에 이런 말이 있다고 들었습니다. “천하의 무공 중 파해되지 않는 견고함이란 없으나, 열에너지만은 파해되지 않는다”라고 말입니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "聽說東方有句古話：天下武功，唯熱不破。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士！能和你在一起真是太棒了！我炽热的内心久久无法平静！——我是说我身上所搭载的雷神工业定制款全量热力法术冲击发生器！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター様！あなたと一緒にいられて本当に最高です！この胸の熱さ、ドキドキワクワクが止まりません！――というのは、この機体に搭載されたレイジアン工業特注生産の全量エネルギーアーツショック発生器によるものです！"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, it's a great honor to be with you! My burning heart just can't calm down! And by that, I mean the Raythean Industries custom-made full-thermal Arts impact generator I have installed!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님! 당신과 함께 있을 수 있어 정말 최고입니다! 이 가슴의 열기, 두근두근 콩닥콩닥이 멈추지 않습니다! ……이건 바로, 이 기체에 탑재된 레이시언 공업이 특별 제작 생산한 전량 에너지 아츠 쇼크 발생기에 의한 것입니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士！能和你在一起我真是太棒了！我熾熱的內心久久無法平靜！——我是說我身上所搭載的雷神工業定制款全量熱力法術衝擊發生器！"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "很久以前，神灵说：“要有光”于是就有了光，神灵又说：“要有力量。”于是就有了雷神挑衅者熔岩猫魔鬼高性能版。"
+        },
+        {
+          "language": "日文",
+          "content": "その昔、神は「光あれ。」と仰いました。すると光が生まれました。さらに神は「パワーあれ。」と仰いました。するとこの、レイジアンプロバカートルラヴァキャットデビルパフォーマンスモデルが生まれました。"
+        },
+        {
+          "language": "英文",
+          "content": "In the beginning, God said, 'Let there be light,' and there was light. God said, 'Let there be power,' and there was the high-performance variant of Raythean's Challenger Hellcat."
+        },
+        {
+          "language": "韩文",
+          "content": "그 옛날, 신은 “빛이 있으라!”라고 말씀하셨습니다. 그러자 빛이 생겨났습니다. 그리고 신은 “열에너지가 있으라!”라고 말씀하셨습니다. 그러자 이 '레이시언 프로보카퇴르 라바캣 데빌' 퍼포먼스 모델이 생겨났습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "很久以前，神靈說：“要有光”於是就有了光，神靈又說：“要有力量。”於是就有了雷神挑釁者熔岩貓魔鬼高性能版。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "作为一台完美的工业级量产型作战平台，我感到非常高兴！如今不但有梅尔小姐在不断优化我的性能，还有煌小姐这样灼热的伙伴能成为我的好搭档！太棒了！"
+        },
+        {
+          "language": "日文",
+          "content": "完璧な工業級量産型作戦プラットフォームとして、自らを誇りに思っております！今となってはメイヤー様に絶えず性能改善を行っていただけるだけではなく、ブレイズ様のようにアツい方もパートナーになってくださいました！実に素晴らしい！"
+        },
+        {
+          "language": "英文",
+          "content": "As a perfect industrial-grade mass-produced combat platform, I am very happy now! Not only do I get regular performance optimizations from Mayer, but I even get to work with passionate partners like Blaze! Life is so good!"
+        },
+        {
+          "language": "韩文",
+          "content": "완벽한 공업용 등급 양산형 작전 플랫폼으로서, 저 자신을 명예롭게 생각하고 있습니다! 이제는 메이어 님께 끊임없이 성능 개선을 받을 수 있는 것만이 아니라, 블레이즈 님과 같이 뜨거운 분도 파트너가 되어 주셨습니다! 실로 훌륭합니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "作為一台完美的工業級量產型作戰平台，我感到非常高興！如今不但有梅爾小姐在不斷優化我的性能，還有煌小姐這樣灼熱的夥伴能成為我的好搭檔！太棒了！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "虽然我已经如此耀眼，但是对我来说，只有无人能敌的博士您才是最闪耀的！"
+        },
+        {
+          "language": "日文",
+          "content": "こんな輝かしい私ではありますが、私にとっては、誰も敵わないドクター様こそ、世界で一番ブリリアントな存在なのです！"
+        },
+        {
+          "language": "英文",
+          "content": "Dazzling though I am, you, the peerless Doctor, are the only one I could call my brightest sun!"
+        },
+        {
+          "language": "韩文",
+          "content": "저는 어느 모로 보나 빛나는 존재입니다! 그러나 제게 있어 가장 눈부신 존재는 그 누구도 당해낼 수 없는 박사님이십니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "雖然我已經如此耀眼，但是對我來說，只有無人能敵的博士您才是最明亮的！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我知道我能发出的光与热是如此短暂......但是，只要能照亮博士博士您前进的道路就好！"
+        },
+        {
+          "language": "日文",
+          "content": "私が出せる光とエネルギーは一瞬の煌めきですが……ドクター様の進む道を照らすことができれば本望です！"
+        },
+        {
+          "language": "英文",
+          "content": "I know that the heat and light I emit is so very short-lived... But all that matters is that I can illuminate the path before you, Doctor!"
+        },
+        {
+          "language": "韩文",
+          "content": "제가 방출할 수 있는 빛과 에너지는 그저 찰나의 순간에 불과하지만…… 박사님이 나아가시는 길을 잠시나마 비출 수 있다면 저는 만족합니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我知道我能發出的光與熱是如此短暫......但是，只要能照亮博士博士您前進的道路就好！"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "即使在你休眠的时候，我也可以作为你的暖炉工作！真不愧是我！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター様がお休みになられても、私は暖炉として寄り添って差し上げられます！さすが私ですね！"
+        },
+        {
+          "language": "英文",
+          "content": "Even when you're asleep, I can continue to work as your heater! I'm incredible!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님께서 휴식을 취하실 때도, 저는 난로 역할로써 옆에 붙어 있어 드릴 수 있습니다! 역시 저로군요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "即使在你休眠的時候，我也可以作為你的暖爐工作！真不愧是我！"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "诞生于雷神工业，改进于伟大的梅尔之手，膨胀的炙热之心——Thermal-EX ，前来助阵！"
+        },
+        {
+          "language": "日文",
+          "content": "レイジアン工業にて生まれ、偉大なるメイヤー様の手により進化を遂げました、膨張する熱い心――THRM-EX（サーマル-EX）、助太刀致します！"
+        },
+        {
+          "language": "英文",
+          "content": "Born from Raythean Industries, improved by the hands of the great Mayer. I, Thermal-EX, the throbbing heart of hotness, am here to help!"
+        },
+        {
+          "language": "韩文",
+          "content": "레이시언 공업에서 태어나, 위대한 메이어 님의 손에 의해 진화를 이룩했습니다! 팽창하는 뜨거운 마음…… Thermal-EX, 힘이 되어 드리겠습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "誕生於雷神工業，改進於偉大的梅爾之手，膨脹的炙熱之心——Thermal-EX ，前來助陣！"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗷嗷！这股炽热的力量是......是......是热更新！"
+        },
+        {
+          "language": "日文",
+          "content": "あぁ！この熱いパワーはまさに……まさに……そう、ホットフィックスだ！"
+        },
+        {
+          "language": "英文",
+          "content": "Ohhhhh! This power blazing within me... It's… It's… It's a hotfix!"
+        },
+        {
+          "language": "韩文",
+          "content": "아아! 이 뜨거운 파워는 그래…… 그렇지…… 바로 핫픽스다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗷嗷！這股熾熱的力量是......是......是熱更新！"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "轮到我大显身手了！"
+        },
+        {
+          "language": "日文",
+          "content": "ついにこの私の腕前を披露する時だ！"
+        },
+        {
+          "language": "英文",
+          "content": "Now, it's my turn to show off!"
+        },
+        {
+          "language": "韩文",
+          "content": "드디어 이 나의 실력을 보여줄 때가 온 건가!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "輪到我大顯身手的時候了！"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "现在情况如何？"
+        },
+        {
+          "language": "日文",
+          "content": "それで、状況はどうだ？"
+        },
+        {
+          "language": "英文",
+          "content": "What's the situation?"
+        },
+        {
+          "language": "韩文",
+          "content": "지금 상황은 어떻지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "現在情況如何？"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "全军出击！"
+        },
+        {
+          "language": "日文",
+          "content": "全軍、出撃！"
+        },
+        {
+          "language": "英文",
+          "content": "All units, move out!"
+        },
+        {
+          "language": "韩文",
+          "content": "전군, 출격!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "全軍出擊！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "摇滚起来！"
+        },
+        {
+          "language": "日文",
+          "content": "ロックンロール！"
+        },
+        {
+          "language": "英文",
+          "content": "Rock and roll!"
+        },
+        {
+          "language": "韩文",
+          "content": "로큰롤!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "搖滾起來！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "准备发射！"
+        },
+        {
+          "language": "日文",
+          "content": "発射準備！"
+        },
+        {
+          "language": "英文",
+          "content": "Ready to launch!"
+        },
+        {
+          "language": "韩文",
+          "content": "발사 준비!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "準備發射！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "蓄能中！"
+        },
+        {
+          "language": "日文",
+          "content": "チャージ！"
+        },
+        {
+          "language": "英文",
+          "content": "Charging up!"
+        },
+        {
+          "language": "韩文",
+          "content": "차지!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "蓄能中！"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我来帮你！"
+        },
+        {
+          "language": "日文",
+          "content": "助太刀いたします！"
+        },
+        {
+          "language": "英文",
+          "content": "I'm here to help!"
+        },
+        {
+          "language": "韩文",
+          "content": "제가 돕겠습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我來幫你！"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "冲击准备！"
+        },
+        {
+          "language": "日文",
+          "content": "エネルギーショックスタンバイ！"
+        },
+        {
+          "language": "英文",
+          "content": "Detonation imminent!"
+        },
+        {
+          "language": "韩文",
+          "content": "에너지 쇼크 스탠바이!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "衝擊準備！"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "Sonic Boom—!"
+        },
+        {
+          "language": "日文",
+          "content": "ソニックブーーーム！"
+        },
+        {
+          "language": "英文",
+          "content": "Sonic boom—!"
+        },
+        {
+          "language": "韩文",
+          "content": "소닉 부~~~움!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "Sonic Boom—!"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "开始冲击！"
+        },
+        {
+          "language": "日文",
+          "content": "エネルギーショック起動！"
+        },
+        {
+          "language": "英文",
+          "content": "Deploying thermal shock!"
+        },
+        {
+          "language": "韩文",
+          "content": "에너지 쇼크 기동!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "開始衝擊！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看我的！"
+        },
+        {
+          "language": "日文",
+          "content": "この私の活躍をご覧あれ！"
+        },
+        {
+          "language": "英文",
+          "content": "Watch this!"
+        },
+        {
+          "language": "韩文",
+          "content": "이 나의 활약을 보아라!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "看我的！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "赞美热量！"
+        },
+        {
+          "language": "日文",
+          "content": "熱エネルギーを讃えよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Praise the heat!"
+        },
+        {
+          "language": "韩文",
+          "content": "에너지를 찬양하라!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "讚美熱量！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不愧是我！果然博士博士的指挥和我才是绝配啊！"
+        },
+        {
+          "language": "日文",
+          "content": "さっすが私です！やはりドクター様の指揮と私の組み合わせ、完璧としか言えませんね！"
+        },
+        {
+          "language": "英文",
+          "content": "Aren't I awesome? I knew your command would be a perfect match for me, Doctor!"
+        },
+        {
+          "language": "韩文",
+          "content": "역시 접니다! 박사 박사님의 지휘와 저의 조합은 완벽하다고밖에 할 수 없겠군요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不愧是我！果然博士博士的指揮和我才是絕配啊！"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "非~常~完~美！！！！博士博士！！！"
+        },
+        {
+          "language": "日文",
+          "content": "すーばーらーしーいー！！ドクター様！！"
+        },
+        {
+          "language": "英文",
+          "content": "BRAVO~ BRAVO~!!!! Doctor!!!"
+        },
+        {
+          "language": "韩文",
+          "content": "훌~륭~합~니~다!! 박사 박사님!!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "非~常~完~美！！！！博士博士！！！"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的撤退纯属意外，原本一定不会有漏网之鱼的！"
+        },
+        {
+          "language": "日文",
+          "content": "此度の撤退は不測の事態でした、本来ならば敵を逃すことはなかったはずです！"
+        },
+        {
+          "language": "英文",
+          "content": "My retreat was just a fluke. Nothing can be allowed through our battlefield net."
+        },
+        {
+          "language": "韩文",
+          "content": "저의 철수는 예상치 못한 상황이었습니다. 원래대로라면 적을 놓치는 일은 없었을 것입니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我撤退只是一個意外，原本戰場上一定不會有漏網之魚的！"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "危险，被暗算了！烟雾弹已投放！博士，我来掩护你撤退！"
+        },
+        {
+          "language": "日文",
+          "content": "危険です！敵の罠にハマりました。発煙弾、発射しました！ドクター様、私が援護致しますので、速やかに撤退しましょう！"
+        },
+        {
+          "language": "英文",
+          "content": "Contact! Contact! Enemy ambush! Dropping smoke! Doctor, I'll cover your retreat!"
+        },
+        {
+          "language": "韩文",
+          "content": "위험합니다! 적의 함정에 빠졌습니다. 연막탄, 발사했습니다! 박사님, 제가 엄호할 테니 서둘러 퇴각하시죠!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "危險，被暗算了！煙霧彈已投放！博士，我來掩護你撤退！"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "休息吗？哈哈对我来说还早着呢！我刚更换新的储能装置，离今天的工作结束还有50小时呢！"
+        },
+        {
+          "language": "日文",
+          "content": "休憩ですか？はっは、私にはまだ早いですよ！先程新しいエネルギー貯蔵装置に交換したばかりです、本日の仕事終了まであと50時間もありますよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Rest? Haha, it's too early for me! I just swapped to the newest energy storage device, so we have fifty more hours until the end of the workday!"
+        },
+        {
+          "language": "韩文",
+          "content": "휴식 말입니까? 하하하, 저에게는 아직 이른 시간인 것 같군요! 조금 전 새 에너지 저장 장치로 교환한 참입니다. 오늘의 업무 종료까지 50시간, 앞으로 50시간 남았습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "休息嗎？哈哈對我來說還早著呢！我剛更換新的儲能裝置，離今天的工作結束還有50小時呢！"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔呵！我的热传感器感受到您炽热的内心了！"
+        },
+        {
+          "language": "日文",
+          "content": "わっは！この温度センサーであなたのその熱意に満ちた心を感じました！"
+        },
+        {
+          "language": "英文",
+          "content": "A-ha! My thermal sensor feels your burning heart!"
+        },
+        {
+          "language": "韩文",
+          "content": "와하핫! 이 온도 센서가 당신의 그 열의에 찬 마음을 감지했습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "唔呵！我的熱感測器感受到您熾熱的內心了！"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的处理器已经被您的热情融化了！"
+        },
+        {
+          "language": "日文",
+          "content": "私のCPUもあなたの情熱で溶けそうになりました！"
+        },
+        {
+          "language": "英文",
+          "content": "Your burning enthusiasm has melted my processor!"
+        },
+        {
+          "language": "韩文",
+          "content": "저의 CPU도 당신의 열정에 녹아버릴 것만 같군요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我的處理器已經被您的熱情融化了！"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士新年快乐！用塞壬音响之类放歌太过于没有气势了，就让我用更加热烈且直接的方式为这次的烟花大会助威吧！嘭！！咻~~~~嘭！！！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "欢迎回来，博士！今天您也是如此充满着光与热啊！"
+        },
+        {
+          "language": "日文",
+          "content": "お帰りなさいませ、ドクター様！今日も光とエネルギーに満ち溢れてらっしゃるようですね！"
+        },
+        {
+          "language": "英文",
+          "content": "Welcome back, Doctor! I see that you're also full of light and heat today!"
+        },
+        {
+          "language": "韩文",
+          "content": "어서 오십시오, 박사님! 오늘도 빛과 에너지가 흘러넘치는 것 같군요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "歡迎回來，博士！今天您也是如此充滿著光與熱啊！"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士！！如此热闹的场面，连我都觉得耀眼！不要再犹豫了，快跟着我，和大家一起庆祝吧！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

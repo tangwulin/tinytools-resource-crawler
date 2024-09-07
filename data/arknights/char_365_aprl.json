@@ -1,0 +1,987 @@
+{
+  "name": "四月",
+  "charaKey": "char_365_aprl",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_365_aprl"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_365_aprl"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_365_aprl"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_365_aprl"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，需要我帮你做什么？"
+        },
+        {
+          "language": "日文",
+          "content": "ハ～イドクター、何か手伝うことある？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, anything I can help with?"
+        },
+        {
+          "language": "韩文",
+          "content": "하이~ 박사, 뭐 도와줄 일 있어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，需要我幫你做什麼？"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哈......每天能洗热水澡真是太好了......自从得了感染病后，我就很少洗真正的热水澡了，因为换了住处之后条件不允许呢。而且这里食物也很干净，啊，我爱罗德岛~"
+        },
+        {
+          "language": "日文",
+          "content": "はぁ～……毎日あったかいお風呂に入れるなんて幸せすぎる……感染者になってからは、あまりちゃんとしたお風呂に入れなかったからさ、移住先の都合でね。それにここの食べ物は衛生的だし、あ～あ、ロドスって最高～。"
+        },
+        {
+          "language": "英文",
+          "content": "Ahhh... A hot shower every day is a blessing... After I got infected and had to move all over the place, it was hard for me to take a hot shower. Besides, the food here is decent. Oh, I just love Rhodes Island!"
+        },
+        {
+          "language": "韩文",
+          "content": "하아~ 매일 따뜻한 욕조에서 씻을 수 있다니 너무 행복해~ 감염자가 되고 나서는 제대로 목욕을 거의 못 했는데. 이주한 곳 상황이 좀 그랬거든. 게다가 여기 음식은 위생적이기까지 해, 아~ 로도스 아일랜드 최고~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哈......每天能洗熱水澡真是太好了......自從得了礦石病後，我就很少洗真正的熱水澡了，因為換了住處之後條件不允許呢。而且這裡食物也很乾淨，啊，我愛羅德島~"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "《四月》啊？《四月》是一首关于春天的歌，歌词的内容大概是在春天那种温暖的天气里，躺在草地上看着天空想东想西这样一种悠哉的感觉，博士你要听吗？你一定会喜欢的~"
+        },
+        {
+          "language": "日文",
+          "content": "『エイプリル』？『エイプリル』は春を歌った曲だよ。暖かい日に芝生に寝転がって、空を見上げながら色んなことを想像する、そんなのんびりした感じの歌詞なんだ。ドクターも聴いてみる？きっと気に入ると思うよ～。"
+        },
+        {
+          "language": "英文",
+          "content": "'April'? 'April' is a song about spring. The lyrics describe the feeling of lying on the grass on a warm spring day, looking up at the sky and letting your mind wander. Wanna hear it, Doctor? I'm sure you'll love it."
+        },
+        {
+          "language": "韩文",
+          "content": "《에이프릴》? 《에이프릴》은 봄에 관한 노래야. 따뜻한 날에 잔디밭에 누워서 하늘을 올려다보고 여러 상상을 하는, 그런 느긋함이 느껴지는 노래 가사인데, 박사도 들어 볼래? 분명 마음에 들걸."
+        },
+        {
+          "language": "繁体中文",
+          "content": "《四月》啊？《四月》是一首關於春天的歌，歌詞的內容大概是在春天那種溫暖的天氣裡，躺在草地上看著天空想東想西這樣一種悠哉的感覺，博士你要聽嗎？你一定會喜歡的~"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "咦，我的唇釉呢......啊，想起来了，之前借给暗索了。嗯？啊，因为我说要教她化妆呢。她底子很好的，打扮一下就可爱多了。"
+        },
+        {
+          "language": "日文",
+          "content": "あれ、リップグロスどこにやったっけ……あ、思い出した、この前ロープちゃんに貸したままだった。え？うん、メイクを教えてあげるって約束したから。あの子は素材がいいから、ちょっとおめかしすればめちゃくちゃ可愛く見えるんだよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Strange, where's my lip gloss...? Oh, right. I lent it to Rope. Nah yeah, I was gonna teach her to do makeup. She's a fine looking girl. I bet she'll be even cuter after a little sprucing up."
+        },
+        {
+          "language": "韩文",
+          "content": "어라, 립글로스를 어디 뒀더라…… 아, 맞다, 저번에 로프한테 빌려줬었지. 어? 아, 저번에 화장하는 법 가르쳐 준다 그러다 빌려줬었어. 로프는 본판이 예뻐서 조금만 꾸며도 엄청 귀여워 보이거든."
+        },
+        {
+          "language": "繁体中文",
+          "content": "咦，我的唇釉呢......啊，想起來了，之前借給暗索了。嗯？啊，因為我說要教她化妝呢。她底子很好的，打扮一下就可愛多了。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在雷姆必拓，虽然公司说对感染者有补助金，但这笔钱其实到手上就很少，而且工作机会也少了许多......看到罗德岛的广告来试试真是正确的选择呢，在这里能感觉到自己被当人看。"
+        },
+        {
+          "language": "日文",
+          "content": "レム・ビリトンでは、会社からは感染者に補助金が出るって言われてたけど、実際にもらえるお金は少なかったし、仕事だって減っちゃってさ……ロドスの広告を見て試しに応募してみて良かったよ。ここでは、人として見てもらえてるって感じがするから。"
+        },
+        {
+          "language": "英文",
+          "content": "Back in Rim Billiton, the companies promise a pension for the Infected, but you only get scraps in the end. And it's hard to find a job... Good thing I decided to try Rhodes Island as soon as I saw the ad. I feel appreciated around here."
+        },
+        {
+          "language": "韩文",
+          "content": "림 빌리턴에서는 회사에서 감염자한테 보조금을 준다고 들었는데, 실제로 받는 돈은 너무 적더라고, 게다가 일거리도 줄었고…… 로도스 아일랜드가 광고하는 걸 보고 시험 삼아 응모하길 정말 잘했지 뭐야. 여기선 사람 취급받는다는 느낌이 들거든."
+        },
+        {
+          "language": "繁体中文",
+          "content": "在雷姆必拓，雖然公司說對感染者有補助金，但這筆錢其實到手上就很少，而且工作機會也少了許多......看到羅德島的廣告來試試真是正確的選擇呢，在這裡能感覺到自己被當人看。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "得了矿石病后，我偶尔也会被人说，感染者穿得这么鲜艳干什么，感染者听什么音乐......对于这样的人，我的回答永远都是——因为我喜欢~"
+        },
+        {
+          "language": "日文",
+          "content": "感染者になってから、感染者のくせにおしゃれしてどうするんだとか、感染者風情が何で音楽を聴くんだとか、たまに言われるけど……そういう人にはいつも同じ答えを返すようにしてる。「好きだから」ってね。"
+        },
+        {
+          "language": "英文",
+          "content": "After I got infected, people started asking me things like 'what's an Infected wearing such bright colors for' and 'what's an Infected listening to music for'... And my answer's always the same: 'It's what I like.'"
+        },
+        {
+          "language": "韩文",
+          "content": "감염자가 되고 나선, 감염자인 주제에 꾸며서 어쩔 거냐, 감염자 따위가 왜 음악을 듣냐, 가끔 이런 이야기를 듣지만…… 그런 사람한테는 '좋아하니까' 그런다고 항상 똑같이 대답하고 있어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "得了礦石病後，我偶爾也會被人說，感染者穿得這麼鮮豔幹什麼，感染者聽什麼音樂......對於這樣的人，我的回答永遠都是——因為我喜歡~"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在雷姆必拓时，我原本的职业是猎人，负责驱赶城市周围的野兽以及护卫公司的队伍。但是感染矿石病后我就失业了，一直靠自己打猎维生，那段日子真是不好过呢......"
+        },
+        {
+          "language": "日文",
+          "content": "レム・ビリトンでは元々ハンターをやってたんだ。都市周囲の獣を駆除したり、会社の採掘隊の警護をしたりね。でも鉱石病になってクビにされて、それからは狩りをしてなんとか生きながらえてたんだ。あの頃は本当にキツかったよ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Back in Rim Billiton, I was a professional hunter. I had to keep the beasts away from the city and sometimes escort company people. But… after I got Oripathy, I lost my job and had to hunt on my own for a living. It was real rough…"
+        },
+        {
+          "language": "韩文",
+          "content": "림 빌리턴에서는 원래 사냥꾼을 했었어. 도시 주변에 있는 야수를 처치하거나, 회사에 있는 채굴대 사람들 경호를 맡거나 뭐 그런 일을 했었는데, 그러다가 광석병에 걸려서 잘렸거든. 그때부턴 사냥하면서 어떻게든 먹고 살았지. 그때는 정말 힘들었는데……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "在雷姆必拓時，我原本的職業是獵人，負責驅趕城市周圍的野獸以及護衛公司的隊伍。但是感染礦石病後我就失業了，一直靠自己打獵維生，那段日子真是不好過呢......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的父母在我很小的时候就因为矿难去世了，我是靠公司的补助长大的，所以其实我一直对公司还是很感激的，觉得感染矿石病是我自己不小心什么的......但是其实不是这样的，对吧，博士？"
+        },
+        {
+          "language": "日文",
+          "content": "あたしの両親は小さい頃に鉱山事故で死んじゃって、あたしは会社からの補助金で生活してたの。だから会社にはずっと感謝してたし、感染したのも自分の不注意のせいだって思ってたけど……本当はそうじゃないんだよね。そうでしょ、ドクター？"
+        },
+        {
+          "language": "英文",
+          "content": "My parents died in a mining accident when I was little, and I grew up on a company pension, so I was always real grateful to the company. I figured getting Oripathy was my own dumb fault... But there's more to it than that, isn't there, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "부모님은 어릴 적에 광산 사고로 돌아가셔서, 난 회사에서 보조금을 받아 가며 살았었어. 그래서 회사에는 항상 감사한 마음이 있었지. 감염된 것도 내가 조심하지 못해서라고 생각했고…… 근데 사실은 그게 아니었던 거지? 그렇지, 박사?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我的父母在我很小的時候就因為礦難去世了，我是靠公司的補助長大的，所以其實我一直對公司還是很感激的，覺得感染礦石病是我自己不小心什麼的......但是其實不是這樣的，對吧，博士？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "为了感染者做些什么......以前我从来没有想过呢，毕竟让自己能够活下去已经很困难了。不过来到罗德岛后，我开始想要试一试了，不只是为自己，而是为所有遭受同样苦难的人做些什么。"
+        },
+        {
+          "language": "日文",
+          "content": "感染者のために何ができるか……そんなことは考えたこともなかった、自分が生きていくだけで精一杯だったからね。でもロドスに来てからは、やってみようって思えるようになったんだ。自分のためだけじゃなく、同じように辛い思いをしてきた人たちに何かしてあげられたらってね。"
+        },
+        {
+          "language": "英文",
+          "content": "Doing something for the Infected... I never thought about it before. I mean, it's hard enough to keep yourself alive. But after coming to Rhodes Island, I decided I wanted to try to do something not just for myself, but for everyone who suffers like me."
+        },
+        {
+          "language": "韩文",
+          "content": "감염자를 위해 뭘 할 수 있을까…… 그런 건 여태까지 생각해 본 적도 없었어, 나 사는 거 하나만으로도 버거웠으니까. 그래도 로도스 아일랜드에 온 후로는 한번 해봐야겠다 생각하게 됐어. 나만을 위해서가 아니라, 같은 아픔을 가진 사람들에게 뭔가 해줄 수 있다면 좋겠다고 말이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "為了感染者做些什麼......以前我從來沒有想過呢，畢竟讓自己能夠活下去已經很困難了。不過來到羅德島後，我開始想要試一試了，不只是為自己，而是為所有遭受同樣苦難的人做些什麼。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，你要睡一会儿的话，我把我的耳塞借你吧。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、お昼寝するなら、あたしの耳栓貸してあげようか。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, if you wanna nap, I can lend you my earplugs."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 낮잠 잘 거면 내가 귀마개 빌려줄까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，你要睡一會兒的話，我把我的耳塞借你吧。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛的设施和待遇竟然这么好......啊，抱歉，博士，我只是有些吃惊。我的代号就叫四月吧，嗯，来源是我最喜欢的一首歌哦。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスは設備も整ってるし待遇もこんなにいいんだね……あ、ごめんねドクター、ちょっとびっくりしただけ。あたしのコードネームは「エイプリル」にするね。うん、あたしの一番好きな曲の名前から取ったんだ～。"
+        },
+        {
+          "language": "英文",
+          "content": "Gosh, Rhodes Island has great pay and benefits… Oh, sorry, Doctor, I'm just a little shocked. My codename is April. Nah yeah, it's the name of my favorite song."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드는 설비도 이렇게 좋은데, 대우도 이렇게까지 해주는구나! 앗, 미안, 박사. 별건 아니고 그냥 조금 놀라서. 내 코드네임은 '에이프릴'로 할게. 응, 내가 가장 좋아하는 노래 제목에서 따온 거야~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "羅德島的設施和待遇竟然這麼好......啊，抱歉，博士，我只是有些吃驚。我的代號就叫四月吧，嗯，來源是我最喜歡的一首歌哦。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "专业人士真是厉害呢......"
+        },
+        {
+          "language": "日文",
+          "content": "プロってすごいね……"
+        },
+        {
+          "language": "英文",
+          "content": "Wow, the professionals here are really something."
+        },
+        {
+          "language": "韩文",
+          "content": "역시 프로는 대단하네……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "專業人士真是厲害呢......"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "诶？加薪？......啊，我不是不满意，不如说，我很满意，我只是在想，自己的工作得到别人承认这种事，真是很久没有过了呢。"
+        },
+        {
+          "language": "日文",
+          "content": "え？昇給？……いや、不満なんてないよ、というかむしろ大満足だよ。ただ、人から仕事を認められたのは久しぶりだなって思っただけ。"
+        },
+        {
+          "language": "英文",
+          "content": "Wha? A raise...? Oh, it's not that I'm disappointed, I'm stoked! It's just been a long, long time since anyone told me I was doing a good job."
+        },
+        {
+          "language": "韩文",
+          "content": "어? 급여 인상? ……아니야, 불만은 무슨, 오히려 너무 만족스러운걸. 그냥 다른 사람한테 일로 인정받은 거 진짜 오랜만인 것 같아서."
+        },
+        {
+          "language": "繁体中文",
+          "content": "誒？加薪？......啊，我不是不滿意，不如說，我很滿意，我只是在想，自己的工作得到別人承認這種事，真是很久沒有過了呢。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在雷姆必拓时，我喜欢坐在高楼的屋顶听歌，那里可以看到整座城市的景色。而现在，在罗德岛的舰桥上我可以看到更多的景色。得病也不全是坏事呢，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "レム・ビリトンでは、高いビルの屋上で歌を聴くのが大好きだったんだ。あそこからは街全体の景色が見えたんだよ。でも今は、ロドスのブリッジからもっと素敵な景色が見られる。病気になるのも悪いことばっかりじゃないね、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Back in Rim Billiton, I liked to sit on the roof and listen to my music while I watched the whole city go by. Now, I can see even more from the bridge of Rhodes Island. I'd call that a silver lining after getting infected, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "림 빌리턴에서는 높은 빌딩 옥상에서 노래 듣는 걸 좋아했어. 거기서는 마을 전체의 경치를 볼 수 있었거든. 그래도 지금은, 로도스 아일랜드 브릿지에서 더 멋진 경치를 볼 수 있어! 병에 걸리는 것도 나쁜 점만 있는 건 아니네, 박사."
+        },
+        {
+          "language": "繁体中文",
+          "content": "在雷姆必拓時，我喜歡坐在高樓的屋頂聽歌，那裡可以看到整座城市的景色。而現在，在羅德島的艦橋上我可以看到更多的景色。得病也不全是壞事呢，博士。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "来啦~"
+        },
+        {
+          "language": "日文",
+          "content": "はいよ～。"
+        },
+        {
+          "language": "英文",
+          "content": "All righty!"
+        },
+        {
+          "language": "韩文",
+          "content": "갑니다~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "來啦~"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大家跟紧我哦！"
+        },
+        {
+          "language": "日文",
+          "content": "みんな、ちゃんとついてきてね！"
+        },
+        {
+          "language": "英文",
+          "content": "Follow close now, everyone!"
+        },
+        {
+          "language": "韩文",
+          "content": "다들, 잘 따라와!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "大家跟緊我哦！"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让我们出发吧！"
+        },
+        {
+          "language": "日文",
+          "content": "出発しよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Here we go!"
+        },
+        {
+          "language": "韩文",
+          "content": "출발하자!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "讓我們出發吧！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "戴上耳机，开始行动吧~"
+        },
+        {
+          "language": "日文",
+          "content": "イヤホンオッケー、行動開始～。"
+        },
+        {
+          "language": "英文",
+          "content": "Earphones on, let's get started!"
+        },
+        {
+          "language": "韩文",
+          "content": "이어폰 챙겼고~ 작전 개시~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "戴上耳機，開始行動吧~"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的弓已经准备好了~"
+        },
+        {
+          "language": "日文",
+          "content": "弓の準備はできてるよ～。"
+        },
+        {
+          "language": "英文",
+          "content": "My bow is ready!"
+        },
+        {
+          "language": "韩文",
+          "content": "활은 준비 다 돼 있어~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我的弓已經準備好了~"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要射谁？"
+        },
+        {
+          "language": "日文",
+          "content": "ターゲットは誰？"
+        },
+        {
+          "language": "英文",
+          "content": "Who's the target?"
+        },
+        {
+          "language": "韩文",
+          "content": "타겟은 누구야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "要射誰？"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "视野不错~"
+        },
+        {
+          "language": "日文",
+          "content": "視界良好～。"
+        },
+        {
+          "language": "英文",
+          "content": "Nice visibility."
+        },
+        {
+          "language": "韩文",
+          "content": "시야 양호~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "視野不錯~"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "交给我吧~"
+        },
+        {
+          "language": "日文",
+          "content": "あたしに任せて～。"
+        },
+        {
+          "language": "英文",
+          "content": "Leave it to me."
+        },
+        {
+          "language": "韩文",
+          "content": "나한테 맡겨~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "交給我吧~"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "来首动感的音乐吧。"
+        },
+        {
+          "language": "日文",
+          "content": "ノリノリの曲でいくよ～。"
+        },
+        {
+          "language": "英文",
+          "content": "Let's put on some Billy Bounce."
+        },
+        {
+          "language": "韩文",
+          "content": "신나는 곡으로 가자~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "來首動感的音樂吧。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这个节奏正适合现在！"
+        },
+        {
+          "language": "日文",
+          "content": "このリズムは今にピッタリ！"
+        },
+        {
+          "language": "英文",
+          "content": "Now this is a good rhythm!"
+        },
+        {
+          "language": "韩文",
+          "content": "이 리듬이 지금이랑 딱 맞아!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這個節奏正適合現在！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我已经锁定你们了~"
+        },
+        {
+          "language": "日文",
+          "content": "狙いはバッチリ～。"
+        },
+        {
+          "language": "英文",
+          "content": "I've got a lock on you."
+        },
+        {
+          "language": "韩文",
+          "content": "조준은 확실하게~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我已經鎖定你們了~"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这一箭感觉不会偏！"
+        },
+        {
+          "language": "日文",
+          "content": "この矢は外れない気がする！"
+        },
+        {
+          "language": "英文",
+          "content": "This one won't miss!"
+        },
+        {
+          "language": "韩文",
+          "content": "이 화살은 빗나가지 않을 것 같은데!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這一箭感覺不會偏！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，要不要听点舒缓的音乐放松一下？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、ゆったりした曲でも聴いてリラックスしよ？"
+        },
+        {
+          "language": "英文",
+          "content": "Such a tough battle! Doctor, need some slow music to calm your nerves?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 좀 쉴까? 잔잔한 음악이라도 들으면서."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，要不要聽點舒緩的音樂放鬆一下？"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一个都没有漏掉哦~"
+        },
+        {
+          "language": "日文",
+          "content": "一人も逃さなかったよ～。"
+        },
+        {
+          "language": "英文",
+          "content": "Didn't miss a single one."
+        },
+        {
+          "language": "韩文",
+          "content": "한 명도 안 놓쳤어~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "一個都沒有漏掉哦~"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，有几个逃掉了呢，要去追吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、何人か逃げちゃったよ。追いかける？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, a few got away, should we chase them?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 몇 명 도망쳤는데, 쫓아갈까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，有幾個逃掉了呢，要去追嗎？"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我来掩护你！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、あたしが援護するね！"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, go, I'll cover you!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 내가 엄호할게!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，我來掩護你！"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "逛几次都觉得罗德岛真大呢。"
+        },
+        {
+          "language": "日文",
+          "content": "何回周ってみても、ロドスって広いね。"
+        },
+        {
+          "language": "英文",
+          "content": "No matter how much I wander around Rhodes Island, it still feels so big."
+        },
+        {
+          "language": "韩文",
+          "content": "몇 번이나 돌아봤지만, 로도스 아일랜드는 진짜 넓구나."
+        },
+        {
+          "language": "繁体中文",
+          "content": "逛幾次都覺得羅德島真大呢。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "诶诶？"
+        },
+        {
+          "language": "日文",
+          "content": "ええ？"
+        },
+        {
+          "language": "英文",
+          "content": "Huh?"
+        },
+        {
+          "language": "韩文",
+          "content": "에에?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "誒誒？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士应该在办公室吧？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターって執務室にいるはずだよね？"
+        },
+        {
+          "language": "英文",
+          "content": "Hmm, the Doctor should be in the office right now..."
+        },
+        {
+          "language": "韩文",
+          "content": "박사는 집무실에 있어야 되는 거 아니야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士應該在辦公室吧？"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "往年这个时候，我可能正在荒野上，一个人靠着篝火取暖。看到远处城市里升起烟花，就知道新年到了。虽然也很刺激，但还是更喜欢和大家一起跨年呢。新年快乐博士，新的一年也请多关照啦。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，要听歌吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、音楽でも聴く？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, wanna hear some tunes?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 음악 들을래?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，要聽歌嗎？"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "虽然成为了感染者，但我的打猎本领可没有半点生疏，原来的公司因为矿石病而开除我，其实是他们的损失吧。现在能加入罗德岛，我还是很幸运的呀。我也希望更多的感染者，能和我一样幸运。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

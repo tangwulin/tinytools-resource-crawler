@@ -1,0 +1,991 @@
+{
+  "name": "铅踝",
+  "charaKey": "char_4062_totter",
+  "images": [
+    "https://media.prts.wiki/4/42/%E7%AB%8B%E7%BB%98_%E9%93%85%E8%B8%9D_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/c/c7/%E7%AB%8B%E7%BB%98_%E9%93%85%E8%B8%9D_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/e/ef/%E7%AB%8B%E7%BB%98_%E9%93%85%E8%B8%9D_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4062_totter"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4062_totter"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4062_totter"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_4062_totter"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在这么乱的地方你居然还能找到东西，唉，也算是种本事了。"
+        },
+        {
+          "language": "日文",
+          "content": "こんな散らばってる中でも物を見つけられるのか……やれやれ、ある意味これも特技と言えるかな。"
+        },
+        {
+          "language": "英文",
+          "content": "You keep the place so messy but find what you need anyway? *sigh* Well, that's also a talent, I guess."
+        },
+        {
+          "language": "韩文",
+          "content": "이렇게 어질러 놓고서도 물건을 찾을 수 있다니, 하아. 이런 것도 재주라고 봐야 하나."
+        },
+        {
+          "language": "繁体中文",
+          "content": "在這麼亂的地方你居然還能找到東西，唉，也算是種本事了。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我可以申请免去文书工作吗？我远视有些严重，看字很费劲，也很容易疲劳。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、ものは相談なんだが、書類仕事は免除してもらえないだろうか？俺はこの通り遠視が強いせいで、細かい字は読みづらいし、目も疲れやすくてな。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, am I able to file for exemption from paperwork? I have a bad case of farsightedness. It's a lot of strain to read, and fatigue strikes easily."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 혹시 서류 작업을 면제시켜 줄 수 없겠나? 원시가 조금 심하다 보니, 글을 읽는 게 힘들고 눈이 쉽게 피로해져서 말이지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，我可以申請免去文書工作嗎？我遠視有些嚴重，看字很費勁，也很容易疲勞。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我性格闷，不爱讲话，如果觉得无聊，你就先回去吧。不是，我没有赶你的意思，只是......"
+        },
+        {
+          "language": "日文",
+          "content": "俺は社交的な性格でもないし、話が上手いわけでもない。退屈してるのなら先に戻ってくれても……いや、追っ払ってるわけじゃないんだが、その……"
+        },
+        {
+          "language": "英文",
+          "content": "I'm a repressed sort, not talkative. If you're not entertained, you can head out for now. No, I don't mean to drive you off, I just..."
+        },
+        {
+          "language": "韩文",
+          "content": "난 무뚝뚝하고 말도 없는 편이니, 지루하다면 먼저 돌아가도 된다. 아니, 쫓아내려는 건 아니고, 그냥……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我性格悶，不愛講話，如果覺得無聊，你就先回去吧。不是，我沒有趕你的意思，只是......"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不必再为我配备瞄准镜了。在弩箭的杀伤距离内，我肉眼就已经足够看清楚。"
+        },
+        {
+          "language": "日文",
+          "content": "スコープの手配は不要だ。このクロスボウが届く範囲内なら、肉眼で十分だからな。"
+        },
+        {
+          "language": "英文",
+          "content": "I don't need to be issued a scope. In my crossbow's killing range, my naked eye sees clearly enough."
+        },
+        {
+          "language": "韩文",
+          "content": "스코프를 준비할 필요는 없어. 석궁의 유효 사거리 내에서라면, 맨눈으로도 충분히 잘 보이니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "不必再為我配備瞄準鏡了。在弩箭的殺傷距離內，我肉眼就已經足夠看清楚。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的箭头是特制的，破甲的同时还能在短时间内让敌人大量失血，箭头原型是萨尔贡的猎人们专用来狩猎大型猛兽的，来到维多利亚后我进行了改造，更轻盈，杀伤力也更强。"
+        },
+        {
+          "language": "日文",
+          "content": "俺の使ってる矢じりは特別製なんだ。貫通性が高く、短時間で大量失血させることだって可能だ。元はサルゴンの狩人たちが大型の野獣を狩る時に使われるもので、ヴィクトリアに来てから俺が改良した。今はより軽く、殺傷力を増した形になっているんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "My bolt points are a custom make. They pierce armor and cause massive blood loss in a short time. They're based on what Sargon hunters specially use to hunt big beasts, then I made modifications after coming to Victoria. Now they fly lighter, and kill harder."
+        },
+        {
+          "language": "韩文",
+          "content": "내 특제 화살촉은 관통력이 뛰어난 데다 대량의 출혈도 유발할 수 있다. 원래는 사르곤 사냥꾼들이 대형 맹수를 사냥할 때 쓰던 건데, 빅토리아에 온 뒤로 내가 개조를 해서 위력은 더 강해지고, 무게도 더 가벼워졌지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我的箭頭是特製的，破甲的同時還能在短時間內讓敵人大量失血，箭頭原型是薩爾貢的獵人們專用來狩獵大型猛獸的，來到維多利亞後我進行了改造，更輕盈，殺傷力也更強。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "佣兵这行当然辛苦，有时在雪地中一守就是一天，任务结束脚都冻麻了。你倒也不用露出这样的表情，还好，冻麻了左脚就没有那么痛了。"
+        },
+        {
+          "language": "日文",
+          "content": "傭兵稼業はもちろん大変さ。雪原の中で一日中潜伏して、任務が終わる頃に足の感覚がなくなってることもある。ああ、そんな顔しなくても、どうってことはない。感覚がなくなれば、この左足の痛みも減るしな。"
+        },
+        {
+          "language": "英文",
+          "content": "The merc business is tough, absolutely. Sometimes I'd be in the snow and an entire day would pass on my watch, and my feet would be frostbitten by the end. I appreciate your look of concern, but it was fine. Even lucky. My left foot hurt less when it was frozen."
+        },
+        {
+          "language": "韩文",
+          "content": "용병은 힘든 직업이지, 한 번은 눈 속에서 하루 종일 잠복을 하다가 발의 감각이 마비된 적도 있었어. 그런 표정 지을 필요 없어. 감각이 마비되면, 이 왼발의 통증도 줄어드니까 나쁘지 않거든."
+        },
+        {
+          "language": "繁体中文",
+          "content": "傭兵這行當然辛苦，有時在雪地中一守就是一天，任務結束腳都凍麻了。你倒也不用露出這樣的表情，還好，凍麻了左腳就沒有那麼痛了。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你问我喜欢雪的原因？让我想想......以前在萨尔贡没见过算吗？呵，其实也不必深究，人总有些爱好会来得莫名其妙。"
+        },
+        {
+          "language": "日文",
+          "content": "なぜ雪が好きなのかって？そうだな……サルゴンにいた頃に見たことがなかった、というのは理由になるだろうか？フッ、そんな決まりのいいものはないんだ。誰にだって理由もなく好きなことはあるだろう。"
+        },
+        {
+          "language": "英文",
+          "content": "Why I like snow, you wonder? Let me think... Does never seeing it in Sargon count? Heh, it's not really that deep. People always have their inexplicable fancies."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 눈을 좋아하는 이유? 그러게…… 사르곤에서는 본 적이 없어서, 이려나? 훗, 사실 깊게 생각할 만한 건 아니야. 취향이란 건 가끔 아무 이유도 없이 생겨나기도 하잖아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你問我喜歡雪的原因？讓我想想......以前在薩爾貢沒見過雪嗎？呵，其實也不必深究，人總有些愛好會來得莫名其妙。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......有个不情之请，可以拜托博士你帮我念下这书上的诗吗？真理小姐借给我的，据说是首很美的诗，写的是圣骏堡的冬天。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、すまないが、ここに書かれている詩を読み上げてもらえないだろうか。イースチナさんが貸してくれた本なんだが、冬のサンクト・グリファーブルクを書いた美しい詩だそうだ。"
+        },
+        {
+          "language": "英文",
+          "content": "...If it's alright for me to ask, could you read the poem in this book to me, Doctor? I borrowed it from Istina. She says it's a fine poem, about winter in Deity Grypherburg."
+        },
+        {
+          "language": "韩文",
+          "content": "박사…… 미안하지만, 괜찮다면 이 책에 적힌 시를 읽어 줄 수 있겠나? 이스티나 양이 빌려준 건데, 디에티 그라이퍼부르크의 겨울을 노래하는 아름다운 시라더군."
+        },
+        {
+          "language": "繁体中文",
+          "content": "......有個不情之請，可以拜託博士你幫我念下這書上的詩嗎？真理小姐借給我的，據說是首很美的詩，寫的是聖駿堡的冬天。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你知道什么是最珍贵的吗？一个可以一起安静看雪的人。或许曾经我也遇到过吧，但是谁知道呢？大雪刮起来，所有踪迹都会被覆盖，包括远去的脚印。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、一番得がたいものは何だか知っているか？俺にとって、共に雪を静かに眺められる人がそうだ。かつて巡り合った中にはそういう相手もいたかもしれないが、どうなんだろうな？しんしんと降る雪は、全ての痕跡を消してしまう……遠くへと離れていった、あの足跡さえも。"
+        },
+        {
+          "language": "英文",
+          "content": "Do you know what's most precious? Someone to peacefully watch the snow with. Maybe I've met one at some point before, but who knows? Once the snow descends, it covers all traces of anything, including the fading footprints."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 가장 소중한 게 뭔지 알고 있나? 나는 함께 조용히 눈을 구경할 수 있는 사람이라고 생각해. 나도 예전에는 그런 사람이 있었을지도 몰라. 하지만, 눈이 소복이 내리면 떠나가 버린 발자국과…… 모든 것을 뒤덮어 버리니…… 이제는 알 길이 없겠지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你知道什麼是最珍貴的嗎？一個可以一起安靜看雪的人。或許曾經我也遇到過吧，但是誰知道呢？大雪刮起來，所有蹤跡都會被覆蓋，包括遠去的腳印。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我倒杯热水给你？你看着脸色不太好。"
+        },
+        {
+          "language": "日文",
+          "content": "白湯をいれてこようか？顔色があまり良くないんだが。"
+        },
+        {
+          "language": "英文",
+          "content": "How about a mug of hot water? You seem a little pale."
+        },
+        {
+          "language": "韩文",
+          "content": "안색이 안 좋아 보이는데, 뜨거운 물이라도 한 잔 따라줄까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我倒杯熱水給你？你看著臉色不太好。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士你好，我是铅踝，擅长远距离狙击，工作日内若有大小任务都可以交付给我。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、世話になる。俺はトターと言う。遠距離射撃が得意だ。就業中であれば、大小構わず、どんな任務でも任せてくれ。"
+        },
+        {
+          "language": "英文",
+          "content": "Hello, Doctor, I'm Totter. Long-range sniping's my specialty. You can leave any task to me as long as it's a workday."
+        },
+        {
+          "language": "韩文",
+          "content": "만나서 반갑군, 박사. 나는 토터라고 한다. 원거리 저격이 특기지. 근무 중에는 어떤 임무라도 맡겨도 된다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士你好，我是鉛踝，擅長遠距離狙擊，工作日內若有大小任務都可以交付給我。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "稍等，博士，距离太近了，我戴个眼镜再看。"
+        },
+        {
+          "language": "日文",
+          "content": "一度映像を止めてもらってもいいか、ドクター。近すぎてよく見えないから、眼鏡をかけねば。"
+        },
+        {
+          "language": "英文",
+          "content": "Hold on, Doctor, it's too close. Let me put on my glasses and try again."
+        },
+        {
+          "language": "韩文",
+          "content": "잠깐, 박사. 너무 가까워서 잘 안 보이니 안경을 쓰고 다시 보도록 하지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "稍等，博士，距離太近了，我戴個眼鏡再看。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你对我的工作成果感到满意，那是再好不过了。"
+        },
+        {
+          "language": "日文",
+          "content": "俺の仕事にご満足いただけたなら、何よりだ。"
+        },
+        {
+          "language": "英文",
+          "content": "If you're pleased with my work, then I couldn't ask for more."
+        },
+        {
+          "language": "韩文",
+          "content": "내 업무 결과에 만족한다니, 그것참 기쁜 이야기군."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你對我的工作成果感到滿意，那是再好不過了。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "谢谢你，博士，但你的赏识反而让我觉得不知所措。唉，实话说，工作上我不是个有大志向的人。"
+        },
+        {
+          "language": "日文",
+          "content": "ありがとう、ドクター。ただそこまで期待されると、逆にどうすればいいのかわからなくなるな……いや、正直に言うと、俺は仕事に対してはあまり大きな目標があるタイプではなくてな。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you, Doctor, but your appreciation actually leaves me at a loss. Err. If I'm being honest, I don't have big dreams for my work."
+        },
+        {
+          "language": "韩文",
+          "content": "고맙다, 박사. 하지만 이렇게까지 높이 평가해 주니 조금 부담스럽기도 하군. 하아, 솔직히 말하자면, 난 딱히 일에 큰 야망이 있는 사람은 아니라서 말이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "謝謝你，博士，但你的賞識反而讓我覺得不知所措。唉，實話說，工作上我不是個有大志向的人。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请尽快下达指令。"
+        },
+        {
+          "language": "日文",
+          "content": "さあ、指示をくれ。"
+        },
+        {
+          "language": "英文",
+          "content": "Orders ASAP, please."
+        },
+        {
+          "language": "韩文",
+          "content": "어서 지시를 내려 주도록."
+        },
+        {
+          "language": "繁体中文",
+          "content": "請儘快下達指令。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "劳烦各位配合，辛苦了。"
+        },
+        {
+          "language": "日文",
+          "content": "すまないが、指示通りの行動をよろしく頼む。"
+        },
+        {
+          "language": "英文",
+          "content": "Everyone, please coordinate. Thanks in advance."
+        },
+        {
+          "language": "韩文",
+          "content": "미안하지만, 다들 협조 부탁한다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "勞煩各位配合，辛苦了。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "出发吧，时不待人。"
+        },
+        {
+          "language": "日文",
+          "content": "出発だ。時間は待ってくれないぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "Let's move. Time waits for nobody."
+        },
+        {
+          "language": "韩文",
+          "content": "시간이 계속 흐르니, 출발하지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "出發吧，時不待人。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "虽然移动得很迅速，但我还是能捕捉踪迹。"
+        },
+        {
+          "language": "日文",
+          "content": "奴らの移動速度は速いが、俺には追跡可能だ。"
+        },
+        {
+          "language": "英文",
+          "content": "They're fast on the move, but I can still read their tracks."
+        },
+        {
+          "language": "韩文",
+          "content": "그들의 이동 속도가 빠르긴 하지만, 추적에는 문제없다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "雖然移動得很迅速，但我還是能捕捉蹤跡。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "坏运气，今天有雾。"
+        },
+        {
+          "language": "日文",
+          "content": "霧が出てる。今日はツイてないな。"
+        },
+        {
+          "language": "英文",
+          "content": "Foggy today. Bad luck."
+        },
+        {
+          "language": "韩文",
+          "content": "안개가 꼈군, 오늘은 운이 별로네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "壞運氣，今天有霧。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "顺风，今天运气很好。"
+        },
+        {
+          "language": "日文",
+          "content": "追い風が吹いてるな。今日はツイてるぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "Great luck. Got a tail wind today."
+        },
+        {
+          "language": "韩文",
+          "content": "순풍이 부는군, 오늘은 운이 좋네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "順風，今天運氣很好。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有白汽冒出，雪地中可能有敌人。"
+        },
+        {
+          "language": "日文",
+          "content": "白い息が見える、雪原に敵が潜んでる可能性あり。"
+        },
+        {
+          "language": "英文",
+          "content": "I see clouds rising. Probable hostiles in the snow."
+        },
+        {
+          "language": "韩文",
+          "content": "하얀 김이 포착된다. 설원에 적이 숨어 있을 수도 있다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "有白氣冒出，雪地中可能有敵人。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有羽兽飞出，草丛中可能有埋伏。"
+        },
+        {
+          "language": "日文",
+          "content": "羽獣が飛び立った、草むらに待ち伏せの可能性あり。"
+        },
+        {
+          "language": "英文",
+          "content": "I see fowl taking off. Probable ambush in the grass."
+        },
+        {
+          "language": "韩文",
+          "content": "파울 비스트가 날아올랐다. 풀숲에 적이 매복하고 있을 수도 있다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "有羽獸飛出，草叢中可能有埋伏。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别躲了。"
+        },
+        {
+          "language": "日文",
+          "content": "隠れても無駄だ。"
+        },
+        {
+          "language": "英文",
+          "content": "Come out. Stop hiding!"
+        },
+        {
+          "language": "韩文",
+          "content": "숨어도 소용없다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別躲了。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我都看到了。"
+        },
+        {
+          "language": "日文",
+          "content": "全て見えているぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "I see you."
+        },
+        {
+          "language": "韩文",
+          "content": "전부 보인다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我都看到了。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别动了。"
+        },
+        {
+          "language": "日文",
+          "content": "動くな。"
+        },
+        {
+          "language": "英文",
+          "content": "Stop moving."
+        },
+        {
+          "language": "韩文",
+          "content": "움직이지 마라."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別動了。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不会有用的。"
+        },
+        {
+          "language": "日文",
+          "content": "足掻いたところで意味ないぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "It won't be any use."
+        },
+        {
+          "language": "韩文",
+          "content": "부질없는 행동이다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "不會有用的。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一击毙命最好，对方不会很痛苦。"
+        },
+        {
+          "language": "日文",
+          "content": "一撃で仕留めるのがベストだ。苦しませずに死なせられる。"
+        },
+        {
+          "language": "英文",
+          "content": "The best kills are one-shot. Less pain for them."
+        },
+        {
+          "language": "韩文",
+          "content": "일격에 숨통을 끊는 게 최선이다. 그래야 고통스럽지 않게 끝낼 수 있으니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "一擊斃命最好，對方不會很痛苦。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "目标已清除，任务顺利完成。"
+        },
+        {
+          "language": "日文",
+          "content": "ターゲット、クリア。無事に任務完了した。"
+        },
+        {
+          "language": "英文",
+          "content": "Target down. Mission clear, no setbacks."
+        },
+        {
+          "language": "韩文",
+          "content": "타깃, 클리어. 무사히 임무를 완수했다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "目標已清除，任務順利完成。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啧，偏了点。"
+        },
+        {
+          "language": "日文",
+          "content": "チッ、少し外れたか。"
+        },
+        {
+          "language": "英文",
+          "content": "*Tut*, not my best shot."
+        },
+        {
+          "language": "韩文",
+          "content": "쳇, 조금 빗나갔나."
+        },
+        {
+          "language": "繁体中文",
+          "content": "嘖，偏了點。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "抱歉，博士，目标已在狙击范围之外，我无法击杀。"
+        },
+        {
+          "language": "日文",
+          "content": "すまない、ドクター。ターゲットは射程圏内から外れた。狙撃はもう不可能だ。"
+        },
+        {
+          "language": "英文",
+          "content": "Sorry, Doctor, target's out of range. I can't hit them."
+        },
+        {
+          "language": "韩文",
+          "content": "미안하군, 박사. 타깃이 저격 범위를 벗어나 잡아낼 수 없었다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "抱歉，博士，目標已在狙擊範圍之外，我無法擊殺。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "挺好的，比起我的安全屋，这里称得上豪华。"
+        },
+        {
+          "language": "日文",
+          "content": "いいじゃないか。俺のセーフハウスに比べれば豪華なもんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Nice. Luxurious compared to my safehouse."
+        },
+        {
+          "language": "韩文",
+          "content": "훌륭하군, 내 나무집에 비하면 호화로운 수준이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "挺好的，比起我的安全屋，這裡稱得上豪華。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你说，我在听。"
+        },
+        {
+          "language": "日文",
+          "content": "ん？続けて、聞いている。"
+        },
+        {
+          "language": "英文",
+          "content": "Speak. I'm all ears."
+        },
+        {
+          "language": "韩文",
+          "content": "듣고 있으니 말해도 된다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你說，我在聽。"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，是你吗？虽然看不清，但你的脚步声很独特，我能识别。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、そこにいるのか？姿はよく見えないが、あなたの足音は独特だから聞き分けられるんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, is that you? You're blurry, but you've got distinct footsteps. I can tell them apart."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 당신인가? 잘 안 보여도, 발소리가 독특해서 알아차릴 수 있거든."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，是你嗎？雖然看不清，但你的腳步聲很獨特，我能識別。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "今天来时发现外面下了很大的雪，甲板上白茫茫一片，很漂亮，你也可以去看看。哦，对了，新年快乐。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你好。"
+        },
+        {
+          "language": "日文",
+          "content": "どうも。"
+        },
+        {
+          "language": "英文",
+          "content": "Hello."
+        },
+        {
+          "language": "韩文",
+          "content": "안녕."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你好。"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我离开家乡的原因没有那么复杂，当年只是想找一个冬天下雪的地方住下来而已。你呢，博士？奔波这些年，想要的得到了吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

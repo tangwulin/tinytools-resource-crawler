@@ -1,0 +1,538 @@
+{
+  "name": "莎草",
+  "charaKey": "char_4139_papyrs",
+  "images": [
+    "https://media.prts.wiki/5/51/%E7%AB%8B%E7%BB%98_%E8%8E%8E%E8%8D%89_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/b/b6/%E7%AB%8B%E7%BB%98_%E8%8E%8E%E8%8D%89_2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4139_papyrs"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4139_papyrs"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，给文件建档分类正是我的专长，请放心，我会确保您需要的资料就在您的手边。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嘶——没事，博士，我只是被纸划到了。您不用担心，已经不流血了。以前佩佩总笑话我容易莫名受伤，就算一直待在室内也——啊！没事，只是被热咖啡烫到了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这个吗？只是一本笔记，用来记录我在博物馆的工作。上面不是乏味的会议记录，就是单调的布展流程......还有些乱七八糟的，比如这只经常落在我窗外的羽兽，我把它的照片夹在里面了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "记得小时候，佩佩和缇缇来找我玩，我被父亲关禁闭，她们就隔着窗子，用手比画出各种各样的小动物，惟妙惟肖，特别厉害。长大后大家虽不常见面，但偶尔看向窗外，就会回想起当时的情景。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，不瞒您说，从升学到工作，我一直都顺从着父亲的安排，不曾想过离开家乡。我对此没有怨言，他确实为我选择了一条坦途，但我还是会想，如果由我自己选择，生活又会是什么模样？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，世上有两种羽兽，一种展翅遨游天际，四处迁徙；一种翅膀很短，只能生活在林中，享受树的荫庇与因树叶遮蔽而斑驳的蓝天。我是哪种？唔，我不想做羽兽，想做一棵不会遮挡天空的树。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "咦，博士，您今天也在？我？哦，每周这天我都会来医疗部看看住院的小朋友，给他们讲讲故事，陪他们聊聊天。这么小的孩子，却不得不一直待在病房里，他们的难受我很能体会。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小时候犯错，父亲会将我关在房间里一整天。待得无聊了，我就会把书架上的书一本本拿出来，再按不同的顺序重新排列，一遍又一遍。现在想想，我与档案学还挺有缘分的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您问我最喜欢的展品？这怎么选得出来？私心......好吧，是一颗古老的种子——它在黑暗中被封存了数百年，却依然存活，经过培植后更是很快绽放了花朵，让人不由得心生钦佩。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，办公室空气干燥，记得及时补充水分。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您好，佩佩和我说，如果准备好走出办公室，开始旅行，就到这里来找一位博士......她没说具体是哪个专业的博士，只说我见了就知道了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "果然，只有走出办公室才能见识到更多东西......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "都是分内之事，不足挂齿。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "非常感谢您对我工作的认可......这些绶带与勋章家父应该会喜欢的，我倒是无所谓。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我已为此次任务做好了全程规划，随时可以出发。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "各位，这次出行由我负责指挥，请按照分发给大家的任务手册行动，一定要注意安全。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "还是多带一个本子吧，说不定会遇到很多值得记下的事。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没关系，敌方情况我早有预料，都已经详细地列出来了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "稍等，我、我还需要再准备下......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呼......我准、准备好了，请让我试一下！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在这里的话......应该可以照看到所有人吧？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "千万不要出岔子哇。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不用急，应对方式我的笔记里都有。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "咦，我到底记在哪一页了？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "完蛋了......完全找不到......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊啊啊——！随机应变了！！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "太好了，大家都平安无事......多亏您的临场反应，博士！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真好，此次行动按计划顺利完成了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要是我能做出更有前瞻性的计划就好了......我会吸取这次的教训。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "计划失败了......请下达撤退命令吧，博士！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，听我解释，我带这么多书来不是为了忙里偷闲！我午休的时候喜欢枕着一摞书，就像这样把头放上去，很舒服的......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔！别、别捉弄我呀......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，可以拜托您捏一下我的耳朵吗？我焦虑的时候......朋友都会这样安慰我。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "以前过新年，家父会将一整天的行程都安排妥当，走亲访友，宴饮聚会，事情挨着事情，几乎没有空闲时间。今年我想过得随性一点......要不，晚上多玩个半小时？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，下一次出行是在什么时候呢？我是否可以一同前往？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "与您一起去了那么多地方，才知道一段旅程往往起始就是终点。无论去哪里游历，走得多远，最终都要回到出发的地方，与曾分别的人一一重聚......然后，等待下一次出发。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

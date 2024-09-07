@@ -1,0 +1,987 @@
+{
+  "name": "截云",
+  "charaKey": "char_4078_bdhkgt",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4078_bdhkgt"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4078_bdhkgt"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4078_bdhkgt"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_4078_bdhkgt"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会保护好你，我答应过的事一定会做到。但这些文件的字......我还需要一段时间才能认全，嗯，我会的。"
+        },
+        {
+          "language": "日文",
+          "content": "あなたのことは守るよ。そう約束したから。ただ、これらの紙に書いてあることは……全部理解するにはちょっと時間がかかるけど。うん、頑張るよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll protect you, as I've promised. But...it'll take some time before I can read all the words on these documents... Don't worry, I'll get there."
+        },
+        {
+          "language": "韩文",
+          "content": "당신을 지키겠어, 그렇게 약속했으니까. 근데 이 문서에 쓰여있는 글씨들을…… 이해하려면 아직 시간이 더 필요할 것 같지만, 뭐, 열심히 할게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我會保護好你，我答應過的事一定會做到。但這些文件的字......我還需要一段時間才能認全，嗯，我會的。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在荒野上生活总是要小心些，无论什么时候，身上都要备着两块火石，一件可以防身的兵刃，还有用来过滤水的棉料......易燃品不能带进办公室？可是，这里停电的话该怎么办？"
+        },
+        {
+          "language": "日文",
+          "content": "荒野での生活には、用心が必要なんだ。火打ち石は二つ、それに身を守るための武器と、水を濾すための綿は常に持っていないと……燃えやすいものは執務室に持ち込み禁止？でも、停電したらどうするの？"
+        },
+        {
+          "language": "英文",
+          "content": "You have to be prepared, out in the wastelands. Always carry flint for starting fires, a weapon for self-defense, and fabric to use as a water filter... no flammable items in the office? But, what if there's a power outage?"
+        },
+        {
+          "language": "韩文",
+          "content": "황야에서 생활하려면 언제나 조심해야 해. 부싯돌은 늘 두 개씩 챙기고, 호신용 검 한 자루랑 물을 정화하기 위한 천도 항상 가지고 다녀야 하지…… 불에 타기 쉬운 물건은 사무실에 들일 수 없다고? 하지만 정전이라도 되면 어쩌려고?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "在荒野上生活總是要小心些，無論什麼時候，身上都要備著兩塊火石，一件可以防身的兵刃，還有用來過濾水的棉料......易燃品不能帶進辦公室？可是，這裡停電的話該怎麼辦？"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "师父教会了我们武功，教会了我们躲避天灾、耕种囤粮，不再逐水草而流浪......师父好像什么都懂，像博士你一样。我没法成为你们这样的人，但我可以保护你们，让你们去帮助更多人。"
+        },
+        {
+          "language": "日文",
+          "content": "師匠は私たち部族に武術や天災から逃げる方法や、畑を作って食料を蓄えることを教えてくれて、流浪しなくてもいい生活への道を開いてくれた……何でも知ってる人で、ドクターのようだったよ。私はそういう人にはなれっこないけど、あなたたちをしっかり守って、もっとたくさんの人を救う手助けはできるよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Shifu taught us how to fight, how to avoid Catastrophes, how to farm and store food. Now we don't have to drift around in search of water and pasture anymore... Just like you, Doctor, Shifu seemed to know everything. I can't be like you and my Shifu, but I can protect you, so you can help people."
+        },
+        {
+          "language": "韩文",
+          "content": "사부님은 우리에게 무술을 가르쳐 주셨고, 재앙을 피해 밭을 일궈 식량을 비축하는 방법을 가르쳐 주셨어. 덕분에 우린 더 이상 떠돌아다니며 생활하지 않아도 되게 됐지…… 사부님은 뭐든지 다 알고 있는 사람 같았어, 박사처럼 말이야. 난 사부님이나 박사 같은 사람이 될 순 없겠지만, 그래도 너희를 지키고 더 많은 사람들을 돕고 싶어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "師父教會了我們武功，教會了我們躲避天災、耕種囤糧，不再逐水草而流浪......師父好像什麼都懂，像博士你一樣。我沒法成為你們這樣的人，但我可以保護你們，讓你們去幫助更多人。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "每当部族需要迁移的时候，大家都会担心能否找到合适的居住地。但那些移动城市里的人，却一点都不害怕......是不是对他们来说，那样的迁移，不是在寻找家园，而是在带着家园流浪？"
+        },
+        {
+          "language": "日文",
+          "content": "部族で大移動する時は、ちゃんと暮らせる場所を見つけられるか、みんな不安になるんだ。でも移動都市の人々は、全く怖くないみたいだ……彼らにとっての移動は、住める場所を探すことじゃなくて、家と一緒に放浪している感覚なのか？"
+        },
+        {
+          "language": "英文",
+          "content": "Whenever the tribe is on the move, everyone worries whether we'll find a good place to settle down. But people in nomadic cities don't seem concerned at all... Maybe for them, they're not moving in search of a new home, but drifting with the home they have?"
+        },
+        {
+          "language": "韩文",
+          "content": "부족 대이동을 할 때가 되면, 정말로 살기 좋은 곳을 찾을 수 있을지 다들 불안해했어. 하지만 이동 도시에 사는 사람들은 하나도 무서워하지 않는 거 같아…… 그들에게 있어 이동이란, 새로운 고향을 찾는 게 아니라 고향과 함께 방랑하는 느낌이려나?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "每當部族需要遷移的時候，大家都會擔心能否找到合適的居住地。但那些移動城市裡的人，卻一點都不害怕......是不是對他們來說，那樣的遷移，不是在尋找家園，而是在帶著家園流浪？"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "矿石病，在我们的部落里并不少见。我们只是觉得，身上长出的石头，和在荒地上挖出来的宝石很像......这世上已经有那么多事物会轻易夺走生命，人为什么还要因为一种疾病去迫害其他人？"
+        },
+        {
+          "language": "日文",
+          "content": "鉱石病はうちの部族でもよくあったよ。でも私たちは、体に生えた石が、地面から掘り出した宝石とよく似ていると思ったくらいで……世の中には、命を簡単に奪い去るものがごまんとあるのに、どうして人はそのうち一つの病だけを理由に、他の人を傷つけるんだ？"
+        },
+        {
+          "language": "英文",
+          "content": "Oripathy is not a rare sight in my tribe. We only think the stones that grow from the skin, they look like the stones we dig out of the earth… There are already so many things that can kill you; why persecute someone for a disease?"
+        },
+        {
+          "language": "韩文",
+          "content": "광석병은 우리 부족에서도 흔했어. 우린 그냥 몸에 난 돌이 황야에서 파낸 보석이랑 많이 닮았다고만 생각했는데…… 이 세상엔 이미 사람의 생명을 쉬이 앗아가는 것들이 많은데, 어째서 사람들은 하나의 병을 이유로 타인을 해치려는 걸까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "礦石病，在我們的部落裡並不少見。我們只是覺得，身上長出的石頭，和在荒地上挖出來的寶石很像......這世上已經有那麼多事物會輕易奪走生命，人為什麼還要因為一種疾病去迫害其他人？"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“阿纳萨”，是无根之人的意思。族人说，没有放不下的东西，自然就不会有烦恼。可是当我离开部落，却发现遇到的每个人都有放不下的执念。我？你是说，想要报恩也算是执念吗？唔......"
+        },
+        {
+          "language": "日文",
+          "content": "「アナサ」とは、根なし草という意味。部族のみんなは、心が囚われるものがなければ、煩悩も生じることはないって言うんだ。でも、村を離れてから出会った人はみんな、何かしらの執念を抱えているように見えるんだ。私？恩に報いたい気持ちも執念だっていうの？それは……"
+        },
+        {
+          "language": "英文",
+          "content": "The name 'Anasa' means 'one without roots.' My people say that if you have no attachments, there's nothing that can trouble you. But everyone I've met since I left has something that they are attached to. Me? You mean I'm the same, in how I want to repay my debt? Hmm..."
+        },
+        {
+          "language": "韩文",
+          "content": "'아나사'는 뿌리 없는 사람이란 뜻이야. 부족 사람들은, 내려놓지 못할 게 없다면 자연스레 번뇌에 사로잡히는 일도 없을 거라고 말했어. 하지만 부족을 떠나 내가 만났던 모든 사람들은 다들 어떤 집념을 가지고 있는 듯했지. 나? 은혜를 갚고 싶은 마음도 집념이라는 거야? 으음……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“阿納薩”，是無根之人的意思。族人說，沒有放不下的東西，自然就不會有煩惱。可是當我離開部落，卻發現遇到的每個人都有放不下的執念。我？你是說，想要報恩也算是執念嗎？唔......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“云动千里雨，截在此山晴。”这是师父教我的第一句炎国诗，也是我名字的来源。意思是飘了很久的云彩，终于被一座山拦住，不用再漂泊无依......“人应该有一个可以称为家的地方。”"
+        },
+        {
+          "language": "日文",
+          "content": "「雲動けば千里雨降るも、截てば此の山にて晴るるに在り。」――これは師匠が初めて教えてくれた詩で、私の名前「截雲」もここからきてるんだ。長く旅した雲も、最後には留まる山を見つけて、二度と行く当てもなく彷徨うことはなくなった、という意味で……「人は誰しも家と呼べる場所が必要だ」と、師匠が言ってたんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "My name comes from the first Yanese poem my Shifu taught me. It tells of a cloud, 'Yun' in Yanese, that has been drifting for a thousand li, raining across the land, until it finally finds a mountain to rest upon. 'Jie' is the end of that long journey. After all, 'everyone should have a place to call home.'"
+        },
+        {
+          "language": "韩文",
+          "content": "'천 리에 비를 뿌리던 구름도, 이 산에 막혀 날이 갰구나.' 이건 사부님께서 처음 가르쳐 준 염국의 시야. 내 이름의 유래이기도 하지. 오랜 시간 떠다녔던 구름이 마침내 산에 가로막혀서, 더 이상 갈 곳 없이 떠돌지 않게 됐다는 의미야…… '사람은 누구나 집이라고 부를만한 곳이 필요하다'라고 사부님이 말씀하셨어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "“雲動千里雨，截在此山晴。”這是師父教我的第一句炎國詩，也是我名字的來源。意思是飄了很久的雲彩，終於被一座山攔住，不用再漂泊無依......“人應該有一個可以稱為家的地方。”"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那个武功很厉害的人也在这里......之前，我以为他是一个薄情寡义的人。后来才明白，一个活了很久，又要走很远的人，没有办法带着太多东西。师父应该，也是这样想的......"
+        },
+        {
+          "language": "日文",
+          "content": "あの武術の達人もここにいるんだね……前の私は、彼が薄情な人だと思ってた。でもやっとわかったんだ。長く生きて、長く歩かないといけない人が抱えられる荷は、思ったより少ないんだよ。師匠もきっと、それに気づいてたんだと思う……"
+        },
+        {
+          "language": "英文",
+          "content": "That martial arts master is here too... I thought he was cold and heartless, but now I kind of understand him... a man who has lived for so long and traveled so far can only carry so much. That must be what Shifu thought as well."
+        },
+        {
+          "language": "韩文",
+          "content": "그 무공이 엄청난 사람도 여기 있구나…… 예전에는 정말 매정하고 의리 없는 사람이라고 생각했는데, 나중에야 깨달았어. 오랜 시간 살았어도, 아직 갈 길이 먼 사람은 많은 것들을 짊어지고 갈 수 없다는 걸 말이야. 사부님도 아마 그렇게 생각했을 테지……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "那個武功很厲害的人也在這裡......之前，我以為他是一個薄情寡義的人。後來才明白，一個活了很久，又要走很遠的人，沒有辦法帶著太多東西。師父應該，也是這樣想的......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有时候，远处的天灾过去，可以看到干净的夜空。风吹过很远很远的地方，星星低得好像伸手就能碰到。篝火让野兽不敢靠近，唱歌也可以抵御寒冷。荒野很危险，但荒野并不可怕。"
+        },
+        {
+          "language": "日文",
+          "content": "時々、遠くの天災が去った後に、澄んだ夜空が見える……風がどこまでも遠くに走っていって、星はまるで手で触れられるくらいに近く見えるんだ。焚き火をすれば獣は近づいてこないし、歌うことで寒さも紛れるんだ。荒野は危険だけど、怖くなんかないんだよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Sometimes you see the clear night sky after a Catastrophe has passed in the distance. Wind blows toward the horizon, and the stars seem so close you could touch them. A bonfire keeps the beasts away, while singing keeps you warm. The wastes are dangerous, but they are not terrible."
+        },
+        {
+          "language": "韩文",
+          "content": "가끔 멀리서 재앙이 지나가면 깨끗한 밤하늘을 볼 수 있어. 먼 곳에서부터 바람도 불어오고, 별은 마치 손을 뻗으면 닿을 것처럼 가까워 보이지. 모닥불을 피우면 짐승들도 다가오지 않고, 노래를 부르다 보면 추위도 잊을 수 있어. 황야는 위험하지만, 무섭진 않아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "有時候，遠處的天災過去，可以看到乾淨的夜空。風吹過很遠很遠的地方，星星低得好像伸手就能碰到。篝火讓野獸不敢靠近，唱歌也可以抵禦寒冷。荒野很危險，但荒野並不可怕。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士要休息了吗？那我来负责守夜吧。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、もう休むの？なら私が夜番をする。"
+        },
+        {
+          "language": "英文",
+          "content": "Are you retiring for the night? I'll stand watch."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 이제 쉬는 거야? 그럼 불침번은 내가 서도록 할게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士要休息了嗎？那我來負責守夜吧。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你问我原本的名字吗？博士，难道你能听懂阿纳萨的语言......但我还是希望在罗德岛能继续用“截云”这个名字。这是师父取的，我很喜欢。"
+        },
+        {
+          "language": "日文",
+          "content": "私の本名？まさかドクター、アナサの言葉が分かるの……でも、ロドスではやっぱり「ジエユン」の名を使いたい。師匠が付けてくれた名で、とても気に入ってるんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "My birth name? Doctor, you understand the Anasa language...? But I would rather continue to use the name 'Jieyun.' Shifu gave me this name, and I like it."
+        },
+        {
+          "language": "韩文",
+          "content": "내 원래 이름 말이야? 혹시 박사는 아나사의 말을 이해할 수 있는 거야? ……그래도 로도스 아일랜드에선 계속 '지에윈'이라는 이름을 쓰고 싶어. 난 사부님이 지어준 이 이름이 마음에 들거든."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你問我原本的名字嗎？博士，難道你能聽懂阿納薩的語言......但我還是希望在羅德島能繼續用“截雲”這個名字。這是師父取的，我很喜歡。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "打仗的道理，都是大同小异。"
+        },
+        {
+          "language": "日文",
+          "content": "戦の理屈なんて、大体変わらない。"
+        },
+        {
+          "language": "英文",
+          "content": "The reasons to fight never change much."
+        },
+        {
+          "language": "韩文",
+          "content": "전쟁의 이치는 어디서나 변치 않는 법이지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "打仗的道理，都是大同小異。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "离开了那片荒野，许多东西我都在慢慢熟悉。如果你相信我的话，我也愿意做更多的事情。“一诺千金”，我明白。"
+        },
+        {
+          "language": "日文",
+          "content": "長く暮らした荒野を離れて、色んなことに慣れているところなんだ。もし私のことを信じてくれるなら、もっとたくさんのことを頑張れるよ。「一諾千金」、この言葉の通りに。"
+        },
+        {
+          "language": "英文",
+          "content": "I still have a lot to learn after leaving the wastes. I'm willing to do more, if you trust me to. As the Yanese expression goes: a promise is worth a thousand taels of gold."
+        },
+        {
+          "language": "韩文",
+          "content": "익숙했던 황야를 떠나 나도 점점 많은 것들에 익숙해지고 있어. 네가 날 신뢰하고 있다면, 나도 더 많은 것들을 해 보고 싶어. '일낙천금'이라는 말처럼 말이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "離開了那片荒野，許多東西我都在慢慢熟悉。如果你相信我的話，我也願意做更多的事情。“一諾千金”，我明白。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "世事无常，我还没有想清楚自己将来该怎么样，但是罗德岛，或许可以成为许多人的家。博士，谢谢你。"
+        },
+        {
+          "language": "日文",
+          "content": "この世は、何もかもすぐに変わってしまう。自分がこの先どうすべきかはまだわからないけど、ロドスは、多くの人にとっての家になるかもしれない。ドクター、ありがとう。"
+        },
+        {
+          "language": "英文",
+          "content": "I haven't thought much about what I will become, but Rhodes Island could become home to many. Thank you, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "세상일은 알 수 없는 법이니까, 나도 앞으로 어떻게 해야 할지에 대해선 아직 고민해 본 적 없어. 하지만 로도스 아일랜드라면 분명, 많은 이들의 집이 되어 줄 수 있겠지. 고마워, 박사."
+        },
+        {
+          "language": "繁体中文",
+          "content": "世事無常，我還沒有想清楚自己將來該怎麼樣，但是羅德島，或許可以成為許多人的家。博士，謝謝你。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "交给我的事，我一定做到。"
+        },
+        {
+          "language": "日文",
+          "content": "任されたことは、必ずやり遂げる。"
+        },
+        {
+          "language": "英文",
+          "content": "Yes, I will complete the task you gave me."
+        },
+        {
+          "language": "韩文",
+          "content": "맡은 일은 반드시 해낼 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "交給我的事，我一定做到。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "跟紧我，在荒野上迷路的话，会很危险。"
+        },
+        {
+          "language": "日文",
+          "content": "はぐれないよう、しっかりついてきて。荒野で迷子になるのは、すごく危険だ。"
+        },
+        {
+          "language": "英文",
+          "content": "Stay close. The wastelands are a dangerous place to get lost."
+        },
+        {
+          "language": "韩文",
+          "content": "놓치지 않게 잘 따라와, 황야에서 길을 잃으면 아주 위험하니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "跟緊我，在荒野上迷路的話，會很危險。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大家一定要平安回来。"
+        },
+        {
+          "language": "日文",
+          "content": "全員無事に帰ってこよう。"
+        },
+        {
+          "language": "英文",
+          "content": "We're bringing everyone home, safe and sound."
+        },
+        {
+          "language": "韩文",
+          "content": "모두 무사히 돌아오도록 하자."
+        },
+        {
+          "language": "繁体中文",
+          "content": "大家一定要平安回來。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "风沙不会抹去所有痕迹，这里果然不对劲。"
+        },
+        {
+          "language": "日文",
+          "content": "風砂が全ての跡を消すことはないよ。ここはおかしい。"
+        },
+        {
+          "language": "英文",
+          "content": "The wind and sand don't cover all tracks. Something's not right here."
+        },
+        {
+          "language": "韩文",
+          "content": "모래바람이 모든 흔적을 지울 순 없지, 여긴 뭔가 의심스러워"
+        },
+        {
+          "language": "繁体中文",
+          "content": "風沙不會抹去所有痕跡，這裡果然不對勁。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯，你吩咐的我都记住了。"
+        },
+        {
+          "language": "日文",
+          "content": "うん、言いつけは全部覚えた。"
+        },
+        {
+          "language": "英文",
+          "content": "Yes, I remember your instructions."
+        },
+        {
+          "language": "韩文",
+          "content": "알겠어, 네가 말한 건 전부 기억해 뒀어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯，你吩咐的我都記住了。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让我去吧。"
+        },
+        {
+          "language": "日文",
+          "content": "私に行かせて。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll go."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 가게 해 줘."
+        },
+        {
+          "language": "繁体中文",
+          "content": "讓我去吧。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "记住那几株胡杨的位置，就不会迷路。"
+        },
+        {
+          "language": "日文",
+          "content": "胡楊たちの場所を覚えていれば、迷うことはない。"
+        },
+        {
+          "language": "英文",
+          "content": "Remember those poplars, and you'll always find your way."
+        },
+        {
+          "language": "韩文",
+          "content": "사시나무들의 위치를 기억해 두면, 길을 잃지 않을 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "記住那幾株胡楊的位置，就不會迷路。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会用石头在附近垒一些标记。"
+        },
+        {
+          "language": "日文",
+          "content": "石を積んで目印を作っておくよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll pile some stones here to mark the trail."
+        },
+        {
+          "language": "韩文",
+          "content": "근처에 돌을 쌓아 표시를 남길게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我會用石頭在附近壘一些標記。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们输了就会罢手吗？"
+        },
+        {
+          "language": "日文",
+          "content": "お前たちは、負けたら諦める？"
+        },
+        {
+          "language": "英文",
+          "content": "Would you give up after a loss?"
+        },
+        {
+          "language": "韩文",
+          "content": "너희들은, 패배하면 바로 포기하는 거냐?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你們輸了就會罷手嗎？"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们入侵了别人的家园......"
+        },
+        {
+          "language": "日文",
+          "content": "勝手に他人の家に攻め入るなんて……"
+        },
+        {
+          "language": "英文",
+          "content": "You have invaded someone else's home..."
+        },
+        {
+          "language": "韩文",
+          "content": "멋대로 남의 집에 쳐들어오다니……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你們入侵了別人的家園......"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "回不去的话，你们的家人也会伤心的。"
+        },
+        {
+          "language": "日文",
+          "content": "もし帰れなかったら、お前たちの家族も悲しむよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Your families will be sad if they never see you again."
+        },
+        {
+          "language": "韩文",
+          "content": "돌아갈 수 없다면, 너희 가족들도 슬퍼할 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "回不去的話，你們的家人也會傷心的。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "荒野上，又要多几座小丘。"
+        },
+        {
+          "language": "日文",
+          "content": "荒野に、盛り土がまた増えるね。"
+        },
+        {
+          "language": "英文",
+          "content": "A few more cairns on the barrens."
+        },
+        {
+          "language": "韩文",
+          "content": "황야에 작은 언덕들이 또 늘어나겠네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "荒野上，又要多幾座小丘。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "风沙掩埋这一切的时候，还会有人记得他们吗？"
+        },
+        {
+          "language": "日文",
+          "content": "全てが風砂に埋まったその時、彼らを覚えていられる人はいるかな。"
+        },
+        {
+          "language": "英文",
+          "content": "Will anyone remember them when all this is buried beneath the sand?"
+        },
+        {
+          "language": "韩文",
+          "content": "모든 것이 모래바람에 묻히고 나면, 저들을 기억해 줄 사람이 있을까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "風沙掩埋這一切的時候，還會有人記得他們嗎？"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果我也能学会博士这样的本领，一定可以保护好族人的家园。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターのような技量を身につけることができたら、きっと部族のみんなの家を守れるね。"
+        },
+        {
+          "language": "英文",
+          "content": "If I could learn from you, Doctor, I could protect my people's lands."
+        },
+        {
+          "language": "韩文",
+          "content": "나도 박사의 전술을 배울 수 있다면, 분명 부족 사람들의 집을 지킬 수 있겠지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "如果我也能學會博士這樣的本領，一定可以保護好族人的家園。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "师父说，一件事重要的不是你有没有做成，而是有没有逃避，有没有尽全力。博士，我们已经做得很好了。"
+        },
+        {
+          "language": "日文",
+          "content": "どんなことでも、重要なのはできたかどうかじゃなくて、逃げずに向き合ったかどうか、それから全力を出したかどうかだって師匠が言ってた。ドクター、私たちは十分に戦ったよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Shifu says it isn't important whether or not you achieved what you set out to do, but whether you gave your best without running away. We've done well, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "사부님은 무슨 일이든지 해냈느냐 보단 그 일로부터 도망치지 않고 최선을 다했는지가 더 중요하다고 했어. 박사, 우린 이미 충분히 잘 싸웠다고 생각해."
+        },
+        {
+          "language": "繁体中文",
+          "content": "師父說，一件事重要的不是你有沒有做成，而是有沒有逃避，有沒有盡全力。博士，我們已經做得很好了。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不......不要怕，我记下了来时的路，我们来得及撤退。"
+        },
+        {
+          "language": "日文",
+          "content": "あ、安心して……来た道は覚えてるから、撤退はまだ間に合うよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't worry, I remember the way that we came. There's time to retreat."
+        },
+        {
+          "language": "韩文",
+          "content": "거…… 걱정하지 마, 돌아가는 길은 기억하고 있으니까. 지금 철수해도 늦진 않을 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "不......不要怕，我記下了來時的路，我們來得及撤退。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "黑暗的环境我也可以适应......啊，亮了。"
+        },
+        {
+          "language": "日文",
+          "content": "暗いところでも頑張れば慣れ……あ、明かりがついた。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm used to the darkness... oh, there's the light."
+        },
+        {
+          "language": "韩文",
+          "content": "어두운 곳도 계속 있다 보면 적응할 만…… 어, 밝아졌다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "黑暗的環境我也可以適應......啊，亮了。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小心点博士，你会被当作偷袭的野兽的。"
+        },
+        {
+          "language": "日文",
+          "content": "気をつけてドクター、こっちを狙ってる獣だと勘違いしちゃうから。"
+        },
+        {
+          "language": "英文",
+          "content": "Be careful, Doctor. You don't want to be mistaken for an attacking beast."
+        },
+        {
+          "language": "韩文",
+          "content": "조심해, 박사. 날 노리는 짐승으로 착각할 뻔했잖아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "小心點博士，你會被當作偷襲的野獸的。"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我听得出你的脚步声。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、あなたの足音は分かるんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "I recognize your footsteps, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 네 발소리는 잘 알고 있어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，我聽得出你的腳步聲。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们那里的新年，不是一个固定的节日。当春天快要来临时，我们在荒野上发现第一株发芽的植物，就把那一天当作新年的开始。然后我们饮酒，唱歌，庆祝......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，要去外面吹吹风吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、外に散歩に行かない？"
+        },
+        {
+          "language": "英文",
+          "content": "Would you like to go out for some fresh air, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 바람 쐬러 가지 않을래?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，要去外面吹吹風嗎？"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "阿纳萨看惯了生老病死，但在罗德岛，我见到的是许多人难以接受的生离死别。或许只有找到那一样放不下的事物，才能找到“家”吧。我好像，有点明白了......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

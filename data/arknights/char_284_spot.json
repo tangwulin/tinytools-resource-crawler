@@ -1,0 +1,935 @@
+{
+  "name": "斑点",
+  "charaKey": "char_284_spot",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_284_spot"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_284_spot"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_284_spot"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_284_spot"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "工作就像是陷阱，你得主动跳进去才行。"
+        },
+        {
+          "language": "日文",
+          "content": "仕事なんて罠みたいなもんだとわかってるけど、それでも俺たちは飛び込むことしかできないんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Work's kinda like a trap, and you just fling yourself into it."
+        },
+        {
+          "language": "韩文",
+          "content": "일은 함정 같은 거라는 걸 알고 있긴 하지만, 우리는 그래도, 뛰어드는 수밖에 없어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "工作就像是陷阱，你得主動跳進去才行。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不说话只是因为不想，没有看不起谁的意思。"
+        },
+        {
+          "language": "日文",
+          "content": "俺があまり喋らないのは、話したいことがないからだ。別に誰かを嫌ったり見下しているわけではない。"
+        },
+        {
+          "language": "英文",
+          "content": "I don't talk much 'cause I don't want to. Not 'cause I'm looking down on anyone."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 말을 별로 하지 않는 건, 그냥 말하고 싶은 게 없어서야. 딱히 누굴 싫어하거나 깔보고 있는 게 아니라."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我不說話只是因為不想，沒有看不起誰的意思。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "月见夜又做什么了，他是不是终于因为在走廊上搭讪遭人讨厌甚至被送进医务室了？没有？真是遗憾。"
+        },
+        {
+          "language": "日文",
+          "content": "ミッドナイトがまた何かやったのか？廊下でナンパに失敗してやっと痛い目見たとか？なんだ、違うのか。残念だ。"
+        },
+        {
+          "language": "英文",
+          "content": "What did Midnight do this time? Did he finally end up in Medical after hitting on one too many ladies in the hallway? No? Too bad."
+        },
+        {
+          "language": "韩文",
+          "content": "미드나이트가 또 뭐 사고라도 쳤나? 복도에서 작업 걸다 실패해서 혼쭐이 났다든지? 뭐야, 아니라고? 아쉽네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "月見夜又做什麼了，他是不是終於因為在走廊上搭訕遭人討厭甚至被送進醫務室了？沒有？真是遺憾。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有事吗，博士？我大概能帮上点忙。不过，要是能不占用我用来看漫画的休息时间，当然会更好。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、何か仕事はあるか？少しぐらいなら手伝うが。漫画を読む時間だけは残しておいてくれると助かる。"
+        },
+        {
+          "language": "英文",
+          "content": "Got something, Doctor? I could probably lend a hand. But I'd rather not eat up too much of my time. I got a lot of comics to read."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 뭐 할 일 없어? 조금이라면 도와주겠지만, 만화책 볼 시간 정도는 남겨줬으면 좋겠네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "有事嗎，博士？我大概能幫上點忙。不過，要是能不佔用我用來看漫畫的休息時間，當然會更好。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "虽然有时候我说话很直接，但该做的事情，我一定会做好。这不关职业道德什么事，只是我觉得连任务都没法完成的人，一定没有用心去做。"
+        },
+        {
+          "language": "日文",
+          "content": "俺は言葉に思いやりが足りないかもしれないけど、やることはちゃんとやる。プロ意識なんて立派なものじゃない。引き受けた任務すらまともにできないやつは、適当な人間だって思ってるだけだ。"
+        },
+        {
+          "language": "英文",
+          "content": "I know I speak a little too bluntly sometimes, but I always get my work done. It's not like I got professional pride or anything, I just can't respect somebody who doesn't finish his work."
+        },
+        {
+          "language": "韩文",
+          "content": "나는 말에 배려가 부족할지도 모르지만, 할 일은 제대로 해. 프로 의식 같은 대단한 게 아니야. 그냥… 맡은 임무도 제대로 못 하는 녀석은 대충 사는 인간이라고 생각할 뿐이지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "雖然有時候我說話很直接，但該做的事情，我一定會做好。這不關職業道德什麼事，只是我覺得連任務都沒法完成的人，一定沒有用心去做。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛是个奇怪的地方。这里的人有什么情绪都会说出来，有什么需要帮忙的地方就自然会有人伸出援手。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスって組織は本当に変わってる。ここではみんな思ってることをストレートに言うし、困ったら必ず誰かが助けてくれる。"
+        },
+        {
+          "language": "英文",
+          "content": "Rhodes Island is a strange place. The people here just say whatever they're thinking, and somebody's always there to help when someone needs it."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드라는 조직은 참 특이해. 여기에는 모두가 생각하는 걸 직설적으로 말하고, 곤란한 상황에 처하면 반드시 누군가가 도와주잖아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "羅德島是個奇怪的地方。這裡的人有什麼情緒都會說出來，有什麼需要幫忙的地方就自然會有人伸出援手。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "虽然A6行动预备组的各位，不是每天摆着张臭脸就是没有自控能力，要么自我意识过剩或者根本是颗移动炸弹，但我依然觉得他们很可靠。因为他们真的在努力，哪怕是偷偷的。"
+        },
+        {
+          "language": "日文",
+          "content": "A6のメンバーは、いつも不貞腐れてたり、自分を抑えることを知らなかったり、自意識過剰だったり、歩く爆弾みたいな存在だったり、そういうやつばかりだけど、頼りになる仲間だとは思ってる。あいつら、ああ見えて意外と努力家なんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Reserve Op Team A6 is a real diverse crowd. We have Lady Stinky-face, Miss Lacking-self-confrol, Narcissist Kun, and a little walking time bomb. But still, I do think I can trust them. They work hard, even if they don't show it."
+        },
+        {
+          "language": "韩文",
+          "content": "A6 팀 멤버들은 맨날 심통이 나 있거나, 자아조절 하는 법을 모르거나, 자의식 과잉이거나, 걸어 다니는 폭탄 같은 존재거나, 그런 녀석들뿐이지만… 믿음직한 동료라고는 생각하고 있어. 그 녀석들, 보기엔 그래도… 의외로 노력파 거든."
+        },
+        {
+          "language": "繁体中文",
+          "content": "雖然A6行動預備組的各位，不是每天擺著張臭臉就是沒有自控能力，要麼自我意識過剩或者根本是顆移動炸彈，但我依然覺得他們很可靠。因為他們真的在努力，哪怕是偷偷的。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我以前也是个像诸位罗德岛干员一样自由自在的人，我的家庭却觉得那样的我是个怪胎。也许这里是个怪胎集合地也说不定，但至少，大家都很快乐。这样也不错。"
+        },
+        {
+          "language": "日文",
+          "content": "昔の俺も、ロドスのみんなと同じように思うがままに生きてた。家族のみんなはそんな俺を異端児の様な目で見てたんだ。でもロドスはそんなやつばっかりだし、世界中から変わり者が集ってるのかもな。まあそれでも、いつも楽しそうにしているみんなを、俺は悪くないと思ってる。"
+        },
+        {
+          "language": "英文",
+          "content": "I used to live free and easy like everyone else at Rhodes Island, but my family thought I was a freak. This place may be a freakshow, but at least everyone's happy, and that's pretty good."
+        },
+        {
+          "language": "韩文",
+          "content": "난 예전에도, 로도스 아일랜드 사람들처럼 내키는 대로 살아왔었어. 가족들은 그런 날 이단아 취급했었지. 근데, 로도스 아일랜드엔 그런 녀석들밖에 없잖아. 전 세계에서 이상한 녀석들이 모여든 걸지도 모르겠네. 뭐 그래도, 언제나 즐거워 보이는 모두가… 난 나쁘지 않다고 봐."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我以前也是個像各個羅德島幹員一樣自由自在的人，我的家庭卻覺得那樣的我是個怪胎。也許這裡是個怪胎集合地也說不定，但至少，大家都很快樂。這樣也不錯。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我可以先回宿舍吗？"
+        },
+        {
+          "language": "日文",
+          "content": "もう部屋に戻ってもいいか？"
+        },
+        {
+          "language": "英文",
+          "content": "Can I go back to my room now?"
+        },
+        {
+          "language": "韩文",
+          "content": "이제 방으로 돌아가도 될까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我可以先回宿舍嗎？"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你好，我是隶属行动预备组A6的斑点，职责大概是保护预备组每天都在闹腾的另外几个家伙。"
+        },
+        {
+          "language": "日文",
+          "content": "……どうも。行動予備隊A6のスポットだ。俺の仕事は、いつも無茶するメンバー達を守ってやること……だと思う。"
+        },
+        {
+          "language": "英文",
+          "content": "Hi, I'm Spot from Operation Reserve Team A6. My job is to protect the other troublemakers on my team, I guess."
+        },
+        {
+          "language": "韩文",
+          "content": "……안녕. 예비작전팀 A6 소속, 스팟이야. 내 일은 언제나 터무니없는 짓을 하고 다니는 멤버들을 지키는 거… 라고 생각해."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你好，我是隸屬行動預備組A6的斑點，職責大概是保護預備組每天都在鬧騰的另外幾個傢伙。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这场战斗我看过，敌人都完蛋了。"
+        },
+        {
+          "language": "日文",
+          "content": "この戦闘記録なら見たことがある。見事なもんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "I've seen this battle before. Bad guys got their asses kicked."
+        },
+        {
+          "language": "韩文",
+          "content": "이 전투 기록이라면 전에 본 적 있어. 대단하더라고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這場戰鬥我看過，敵人都完蛋了。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会加倍努力工作的，从0.1到0.2的水平吧。"
+        },
+        {
+          "language": "日文",
+          "content": "それじゃ今の倍以上働くとしよう。0.1が0.2になる程度かもしれないが。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm gonna work twice as hard. I'll bump it up from a 0.1 to a 0.2, I think."
+        },
+        {
+          "language": "韩文",
+          "content": "그럼… 지금의 배 이상으로 일하도록 하지. 0.1이… 0.2가 되는 정도일지도 모르겠지만."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我會加倍努力工作的，從0.1到0.2的水準吧。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我就不询问这次作战的意义了。"
+        },
+        {
+          "language": "日文",
+          "content": "作戦の意味なんて興味ない、黙ってやるだけだ。"
+        },
+        {
+          "language": "英文",
+          "content": "I won't ask about the meaning of this mission then."
+        },
+        {
+          "language": "韩文",
+          "content": "작전의 의미 같은 거엔 관심 없어. 그냥 입 닫고 하는 거지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我就不詢問這次作戰的意義了。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我想回宿舍了。"
+        },
+        {
+          "language": "日文",
+          "content": "寮に戻りたいんだが。"
+        },
+        {
+          "language": "英文",
+          "content": "I wanna get back to my dorm."
+        },
+        {
+          "language": "韩文",
+          "content": "숙소로 돌아가고 싶은데…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我想回宿舍了。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "知道了。"
+        },
+        {
+          "language": "日文",
+          "content": "わかった。"
+        },
+        {
+          "language": "英文",
+          "content": "Got it."
+        },
+        {
+          "language": "韩文",
+          "content": "알았어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "知道了。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们直接投降能节约我很多时间。"
+        },
+        {
+          "language": "日文",
+          "content": "さっさと降参してくれれば、こちらも時間を無駄にせずに済むんだけどな。"
+        },
+        {
+          "language": "英文",
+          "content": "Save us a lot of time if you just surrender."
+        },
+        {
+          "language": "韩文",
+          "content": "그냥 빨리 항복해 주면, 이쪽도 시간 낭비 안 하고 끝낼 수 있을 텐데 말이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你們直接投降能節約我很多時間。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "怎么样都行。"
+        },
+        {
+          "language": "日文",
+          "content": "任せる。"
+        },
+        {
+          "language": "英文",
+          "content": "Whatever you say."
+        },
+        {
+          "language": "韩文",
+          "content": "알아서 해."
+        },
+        {
+          "language": "繁体中文",
+          "content": "怎麼樣都行。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我随便。"
+        },
+        {
+          "language": "日文",
+          "content": "俺は別になんでもいい。"
+        },
+        {
+          "language": "英文",
+          "content": "Doesn't matter to me."
+        },
+        {
+          "language": "韩文",
+          "content": "난 딱히 다 괜찮아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我隨便。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "就这样吧。"
+        },
+        {
+          "language": "日文",
+          "content": "このままいこう。"
+        },
+        {
+          "language": "英文",
+          "content": "Alright then."
+        },
+        {
+          "language": "韩文",
+          "content": "이대로 가자."
+        },
+        {
+          "language": "繁体中文",
+          "content": "就這樣吧。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "挺好的。"
+        },
+        {
+          "language": "日文",
+          "content": "これでいいだろう。"
+        },
+        {
+          "language": "英文",
+          "content": "Yeah, yeah, fine."
+        },
+        {
+          "language": "韩文",
+          "content": "이걸로 됐겠지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "挺好的。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "试试这个。"
+        },
+        {
+          "language": "日文",
+          "content": "これでどうだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Hey, catch."
+        },
+        {
+          "language": "韩文",
+          "content": "이건 어떠냐."
+        },
+        {
+          "language": "繁体中文",
+          "content": "試試這個。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "应该不会伤到队友。"
+        },
+        {
+          "language": "日文",
+          "content": "仲間には当たらないはずだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't see any harm in this."
+        },
+        {
+          "language": "韩文",
+          "content": "동료들이 맞진 않을 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "應該不會傷到隊友。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "破绽太多了。"
+        },
+        {
+          "language": "日文",
+          "content": "隙だらけ。"
+        },
+        {
+          "language": "英文",
+          "content": "So many weaknesses."
+        },
+        {
+          "language": "韩文",
+          "content": "빈틈투성이네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "破綻太多了。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "举盾也是很累的。"
+        },
+        {
+          "language": "日文",
+          "content": "盾を持ってるのも疲れるんだが…。"
+        },
+        {
+          "language": "英文",
+          "content": "Holding this shield is tiring, pal."
+        },
+        {
+          "language": "韩文",
+          "content": "방패 들고 있는 것도 지치네…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "舉盾也是很累的。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "每当你觉得一场战斗很轻松的时候，就最好再来一次。"
+        },
+        {
+          "language": "日文",
+          "content": "楽しかった？もう一回やるか？"
+        },
+        {
+          "language": "英文",
+          "content": "Been through an easy battle, you say? Then better do it all over again."
+        },
+        {
+          "language": "韩文",
+          "content": "재밌었어? 한 번 더 할까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "每當你覺得一場戰鬥很輕鬆的時候，就最好再來一次。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "只要肯努力，就算大脑空空也能做好。"
+        },
+        {
+          "language": "日文",
+          "content": "努力すれば、頭が空っぽのやつだって役に立てるんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "With hard work, even an idiot can get the job done."
+        },
+        {
+          "language": "韩文",
+          "content": "노력이란 걸 하면, 머리가 텅 빈 녀석이라도 도움이 될 수 있다고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "只要肯努力，就算大腦空空也能做好。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "瑕疵是一种必然，从结果来说。"
+        },
+        {
+          "language": "日文",
+          "content": "結果から見れば、100点とは言えないか。"
+        },
+        {
+          "language": "英文",
+          "content": "Perfection is for suckers, you know."
+        },
+        {
+          "language": "韩文",
+          "content": "결과만 놓고 보자면, 100점이라곤 못 하겠네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "瑕疵是一種必然，從結果來說。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别紧张，你这样没事。"
+        },
+        {
+          "language": "日文",
+          "content": "気にするな、あんたはこのままでいい。"
+        },
+        {
+          "language": "英文",
+          "content": "Relax, you're doing fine."
+        },
+        {
+          "language": "韩文",
+          "content": "신경쓰지 마, 넌 이대로도 괜찮으니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別緊張，你這樣沒事。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这样也可以。"
+        },
+        {
+          "language": "日文",
+          "content": "これでいい。"
+        },
+        {
+          "language": "英文",
+          "content": "Yeah sure."
+        },
+        {
+          "language": "韩文",
+          "content": "이거면 됐어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這樣也可以。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哦。"
+        },
+        {
+          "language": "日文",
+          "content": "ああ。"
+        },
+        {
+          "language": "英文",
+          "content": "Ah."
+        },
+        {
+          "language": "韩文",
+          "content": "어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "哦。"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你这样摸，我的毛会打结的。"
+        },
+        {
+          "language": "日文",
+          "content": "あんまりモフられると、ダマになるだろ。"
+        },
+        {
+          "language": "英文",
+          "content": "If you keep petting me like that, my hair's gonna get tangled."
+        },
+        {
+          "language": "韩文",
+          "content": "너무 만지면 털이 뭉쳐버리잖아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你這樣摸，我的毛會打結的。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "新的一年开始了。你要是指望时间能改变些什么，我会劝你别想了。人的改变要付出数十倍于日常的努力，如果做得到，就证明给大家看看吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターか。"
+        },
+        {
+          "language": "英文",
+          "content": "Hey Doctor..."
+        },
+        {
+          "language": "韩文",
+          "content": "박사구나."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士。"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "像我这种人，实在是没法说出“发自内心地认同罗德岛的理念”这种话。保护A6这几个麻烦的家伙，就是我举盾的全部理由了。博士，让我们都适当努力，尽量在麻烦里活下来吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

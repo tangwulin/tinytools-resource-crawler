@@ -1,0 +1,991 @@
+{
+  "name": "白雪",
+  "charaKey": "char_118_yuki",
+  "images": [
+    "https://media.prts.wiki/1/10/%E7%AB%8B%E7%BB%98_%E7%99%BD%E9%9B%AA_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/4/40/%E7%AB%8B%E7%BB%98_%E7%99%BD%E9%9B%AA_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/6/6f/%E7%AB%8B%E7%BB%98_%E7%99%BD%E9%9B%AA_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_118_yuki"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_118_yuki"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_118_yuki"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_118_yuki"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "白雪，随时守候。"
+        },
+        {
+          "language": "日文",
+          "content": "シラユキ、御前に。"
+        },
+        {
+          "language": "英文",
+          "content": "Shirayuki, at your service."
+        },
+        {
+          "language": "韩文",
+          "content": "시라유키, 대령했네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "白雪，隨時守候。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "文月公主是我的主上，你是我的雇主。"
+        },
+        {
+          "language": "日文",
+          "content": "姫こそが我が主。御身は我が雇い主。"
+        },
+        {
+          "language": "英文",
+          "content": "Princess Fumizuki is my master, and you're my employer."
+        },
+        {
+          "language": "韩文",
+          "content": "후미즈키 공주님이야말로 나의 주인님. 당신은 나의 고용주지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "文月公主是我的主上，你是我的雇主。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "爱好？海岬，看雪。"
+        },
+        {
+          "language": "日文",
+          "content": "趣味？岬より雪を眺めること。"
+        },
+        {
+          "language": "英文",
+          "content": "My hobby? Standing on the coast, watching the snow fall."
+        },
+        {
+          "language": "韩文",
+          "content": "취미? 곶에서 눈을 바라보는 것."
+        },
+        {
+          "language": "繁体中文",
+          "content": "愛好？海岬，看雪。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "所属？机密。"
+        },
+        {
+          "language": "日文",
+          "content": "所属？言えぬ。"
+        },
+        {
+          "language": "英文",
+          "content": "My affiliation? Secret."
+        },
+        {
+          "language": "韩文",
+          "content": "소속? 말할 수 없네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "所屬？機密。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "出身？东国。"
+        },
+        {
+          "language": "日文",
+          "content": "出身？極東の国。"
+        },
+        {
+          "language": "英文",
+          "content": "My birthplace? Higashi."
+        },
+        {
+          "language": "韩文",
+          "content": "출신? 극동의 나라."
+        },
+        {
+          "language": "繁体中文",
+          "content": "出身？東國。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "武器？手里剑·银风，东方重工制造。"
+        },
+        {
+          "language": "日文",
+          "content": "武器？手裏剣のシルバーウィンド。東方重工製。"
+        },
+        {
+          "language": "英文",
+          "content": "My weapon? A shuriken, the Silver Wind, made by Eastern Heavy Industries."
+        },
+        {
+          "language": "韩文",
+          "content": "무기? 수리검 실버윈드. 동방 중공업 제품."
+        },
+        {
+          "language": "繁体中文",
+          "content": "武器？手裏劍·銀風，東方重工製造。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "喜欢的食物？鮨。"
+        },
+        {
+          "language": "日文",
+          "content": "食の好み？寿司。"
+        },
+        {
+          "language": "英文",
+          "content": "Favorite food? Sushi."
+        },
+        {
+          "language": "韩文",
+          "content": "좋아하는 음식? 초밥."
+        },
+        {
+          "language": "繁体中文",
+          "content": "喜歡的食物？鮨。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "年龄？无可奉告。"
+        },
+        {
+          "language": "日文",
+          "content": "歳？教えられぬ。"
+        },
+        {
+          "language": "英文",
+          "content": "My age? Confidential."
+        },
+        {
+          "language": "韩文",
+          "content": "나이? 말해줄 수 없네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "年齡？無可奉告。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "职责？保护你。"
+        },
+        {
+          "language": "日文",
+          "content": "職務？御身の護衛。"
+        },
+        {
+          "language": "英文",
+          "content": "My duty? Protecting you."
+        },
+        {
+          "language": "韩文",
+          "content": "직무? 당신의 호위."
+        },
+        {
+          "language": "繁体中文",
+          "content": "職責？保護你。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......寂静。"
+        },
+        {
+          "language": "日文",
+          "content": "……静かだ。"
+        },
+        {
+          "language": "英文",
+          "content": "How tranquil..."
+        },
+        {
+          "language": "韩文",
+          "content": "…조용하군."
+        },
+        {
+          "language": "繁体中文",
+          "content": "......寂靜。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "白雪，依照文月公主的嘱托，协助陈小姐行动，并听从你的差遣。"
+        },
+        {
+          "language": "日文",
+          "content": "我が名はシラユキ、姫の命によりチェン殿の補佐に参上した。御身の指示にも従おう。"
+        },
+        {
+          "language": "英文",
+          "content": "I am Shirayuki. Princess Fumizuki told me to assist Miss Ch'en and follow all your orders."
+        },
+        {
+          "language": "韩文",
+          "content": "이 몸은 시라유키. 후미즈키 공주님의 명을 받아 첸 공의 보좌를 맡고 있네. 당신의 지시에도 따르도록 하지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "白雪，依照文月公主的囑託，協助陳小姐行動，並聽從你的差遣。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "感谢。"
+        },
+        {
+          "language": "日文",
+          "content": "感謝する。"
+        },
+        {
+          "language": "英文",
+          "content": "You have my gratitude."
+        },
+        {
+          "language": "韩文",
+          "content": "고맙네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "感謝。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "晋升？白雪领命。"
+        },
+        {
+          "language": "日文",
+          "content": "昇進？シラユキ、拝命致す。"
+        },
+        {
+          "language": "英文",
+          "content": "A promotion? I, Shirayuki, am honored."
+        },
+        {
+          "language": "韩文",
+          "content": "승진? 시라유키, 명을 받들겠네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "晉升？白雪領命。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "白雪，愿为你献上更多力量。"
+        },
+        {
+          "language": "日文",
+          "content": "シラユキ、さらなる力を捧げよう。"
+        },
+        {
+          "language": "英文",
+          "content": "I, Shirayuki, may devote greater strength to you."
+        },
+        {
+          "language": "韩文",
+          "content": "시라유키, 더 강한 힘을 바치도록 하지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "白雪，願為你獻上更多力量。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明白。"
+        },
+        {
+          "language": "日文",
+          "content": "承知した。"
+        },
+        {
+          "language": "英文",
+          "content": "Understood."
+        },
+        {
+          "language": "韩文",
+          "content": "알겠네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明白。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "领命。"
+        },
+        {
+          "language": "日文",
+          "content": "拝命する。"
+        },
+        {
+          "language": "英文",
+          "content": "Orders received."
+        },
+        {
+          "language": "韩文",
+          "content": "명을 받들겠네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "領命。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "行动开始。"
+        },
+        {
+          "language": "日文",
+          "content": "行動を開始する。"
+        },
+        {
+          "language": "英文",
+          "content": "Commencing operation."
+        },
+        {
+          "language": "韩文",
+          "content": "작전을 시작하지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "行動開始。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "风雪将掩埋这片战场。"
+        },
+        {
+          "language": "日文",
+          "content": "雪嵐の如く戦場で吹雪いてみせよう。"
+        },
+        {
+          "language": "英文",
+          "content": "A snowstorm will bury this battlefield."
+        },
+        {
+          "language": "韩文",
+          "content": "눈보라가 곧 이 전장에 휘몰아칠 것이다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "風雪將掩埋這片戰場。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好。"
+        },
+        {
+          "language": "日文",
+          "content": "うむ。"
+        },
+        {
+          "language": "英文",
+          "content": "Very well."
+        },
+        {
+          "language": "韩文",
+          "content": "음."
+        },
+        {
+          "language": "繁体中文",
+          "content": "好。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "准备。"
+        },
+        {
+          "language": "日文",
+          "content": "用意。"
+        },
+        {
+          "language": "英文",
+          "content": "Ready."
+        },
+        {
+          "language": "韩文",
+          "content": "준비."
+        },
+        {
+          "language": "繁体中文",
+          "content": "準備。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "了解。"
+        },
+        {
+          "language": "日文",
+          "content": "了解。"
+        },
+        {
+          "language": "英文",
+          "content": "Roger."
+        },
+        {
+          "language": "韩文",
+          "content": "알았다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "瞭解。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明白。"
+        },
+        {
+          "language": "日文",
+          "content": "承知した。"
+        },
+        {
+          "language": "英文",
+          "content": "Understood."
+        },
+        {
+          "language": "韩文",
+          "content": "알겠네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明白。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "入灭。"
+        },
+        {
+          "language": "日文",
+          "content": "滅せよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Exterminate."
+        },
+        {
+          "language": "韩文",
+          "content": "멸하라."
+        },
+        {
+          "language": "繁体中文",
+          "content": "入滅。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "破碎。"
+        },
+        {
+          "language": "日文",
+          "content": "破砕する。"
+        },
+        {
+          "language": "英文",
+          "content": "Shatter."
+        },
+        {
+          "language": "韩文",
+          "content": "부순다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "破碎。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "无常之风。"
+        },
+        {
+          "language": "日文",
+          "content": "無常の風よ。"
+        },
+        {
+          "language": "英文",
+          "content": "All ends on the wind."
+        },
+        {
+          "language": "韩文",
+          "content": "무상의 바람이여."
+        },
+        {
+          "language": "繁体中文",
+          "content": "無常之風。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "断绝。"
+        },
+        {
+          "language": "日文",
+          "content": "断絶せよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Sever."
+        },
+        {
+          "language": "韩文",
+          "content": "절단하라."
+        },
+        {
+          "language": "繁体中文",
+          "content": "斷絕。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "敌尽则我进，我进则敌尽。"
+        },
+        {
+          "language": "日文",
+          "content": "我が前進、即ち敵の全滅なり。"
+        },
+        {
+          "language": "英文",
+          "content": "The enemy dies, I advance. I advance, the enemy dies."
+        },
+        {
+          "language": "韩文",
+          "content": "이 몸의 전진은 곧, 적의 전멸일지니."
+        },
+        {
+          "language": "繁体中文",
+          "content": "敵盡則我進，我進則敵盡。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "无人生还，大胜。"
+        },
+        {
+          "language": "日文",
+          "content": "敵を殲滅。完勝す。"
+        },
+        {
+          "language": "英文",
+          "content": "The enemy has fallen. Total victory."
+        },
+        {
+          "language": "韩文",
+          "content": "적 섬멸, 완승이로군."
+        },
+        {
+          "language": "繁体中文",
+          "content": "無人生還，大勝。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "还有漏网之鱼，不可大意。"
+        },
+        {
+          "language": "日文",
+          "content": "逃れし敵あり。油断大敵。"
+        },
+        {
+          "language": "英文",
+          "content": "Of their ranks, some flee. Wariness, a must."
+        },
+        {
+          "language": "韩文",
+          "content": "놓친 적이 있다, 방심은 금물이다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "還有漏網之魚，不可大意。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "若再战，必将百倍奉还。"
+        },
+        {
+          "language": "日文",
+          "content": "再戦の日来たらば、この借り百倍にて返さん。"
+        },
+        {
+          "language": "英文",
+          "content": "Should we fight again, we will return the favor one hundredfold."
+        },
+        {
+          "language": "韩文",
+          "content": "다시 싸울 그날이 오면, 이 빚은 백배로 갚아주마."
+        },
+        {
+          "language": "繁体中文",
+          "content": "若再戰，必將百倍奉還。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一间很棒的屋子。"
+        },
+        {
+          "language": "日文",
+          "content": "良き部屋である。"
+        },
+        {
+          "language": "英文",
+          "content": "A very nice room."
+        },
+        {
+          "language": "韩文",
+          "content": "좋은 방이로구나."
+        },
+        {
+          "language": "繁体中文",
+          "content": "一間很棒的屋子。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "是。"
+        },
+        {
+          "language": "日文",
+          "content": "うむ。"
+        },
+        {
+          "language": "英文",
+          "content": "Here."
+        },
+        {
+          "language": "韩文",
+          "content": "음."
+        },
+        {
+          "language": "繁体中文",
+          "content": "是。"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你的关照，白雪定会铭记于心。"
+        },
+        {
+          "language": "日文",
+          "content": "御身の気遣い、このシラユキ、肝に銘ずる。"
+        },
+        {
+          "language": "英文",
+          "content": "Your consideration, I, Shirayuki, will engrave upon my heart."
+        },
+        {
+          "language": "韩文",
+          "content": "당신의 그 배려… 나, 시라유키의 마음속 깊이 새겨두겠네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你的關照，白雪定會銘記於心。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "新年快乐，诸事如意。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "雇主，你好。"
+        },
+        {
+          "language": "日文",
+          "content": "ふむ、御身か。"
+        },
+        {
+          "language": "英文",
+          "content": "Yes, employer?"
+        },
+        {
+          "language": "韩文",
+          "content": "흠, 당신인가."
+        },
+        {
+          "language": "繁体中文",
+          "content": "雇主，你好。"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "白雪，永远在此守候。职责所在，情义所在。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

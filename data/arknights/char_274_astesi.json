@@ -1,0 +1,987 @@
+{
+  "name": "星极",
+  "charaKey": "char_274_astesi",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_274_astesi"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_274_astesi"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_274_astesi"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_274_astesi"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "工作流程已经制定完成了，要好好执行哦。"
+        },
+        {
+          "language": "日文",
+          "content": "業務フローの作成ができたわ。この通りに進めてちょうだい。"
+        },
+        {
+          "language": "英文",
+          "content": "I drew up the work schedule for you. Please kindly follow."
+        },
+        {
+          "language": "韩文",
+          "content": "워크플로우 작성이 끝났어. 이대로 진행해 줘."
+        },
+        {
+          "language": "繁体中文",
+          "content": "工作流程已經制定完成了，要好好執行哦。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "天球仪的制造技术是个秘密，但就像您所知道的那样，世间万物都能用等价的东西来交换。所以，只要您的出价合适，我愿意将这秘密转让给你。"
+        },
+        {
+          "language": "日文",
+          "content": "天球儀の製造技術は企業秘密よ。でもご存知の通り、この世の全てはそれ相応の対価を払うことで手に入れることができる。つまりドクターの提示する金額が妥当であれば、企業秘密であろうと教えてあげてもいいわ。"
+        },
+        {
+          "language": "英文",
+          "content": "How to make a celestial globe is a secret, but as we know, anything can be on the table for a fair price. I'd be happy to reveal my trick of the trade as long as your price is right."
+        },
+        {
+          "language": "韩文",
+          "content": "천구의 제조 기술은 비밀이야. 하지만 알다시피 이 세상의 모든 것은 그에 상응하는 대가를 지불하면 손에 넣을 수 있어. 그러니까 박사가 제시하는 금액이 합당하면 이 비밀을 가르쳐 줄 수도 있어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "天球儀的製造技術是個秘密，但就像您所知道的那樣，世間萬物都能用等價的東西來交換。所以，只要您的出價合適，我願意將這秘密轉讓給你。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "每天都要观测星体脖子好酸，不知道医疗部的同事有什么好办法......今天的当班医师是华法琳小姐？呃，还是过段时间再看吧。"
+        },
+        {
+          "language": "日文",
+          "content": "毎日の天体観測で首のコリがひどくて……医療チームの皆さんに何か対処法がないか聞いてみようかしら……。え、今日の当番医はワルファリンさんですって？ええっと、また今度にしておくわ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Observing the stars everyday makes my neck sore. Wonder if the medics would have any suggestions for that... What, Miss. Warfarin is the physician on duty today? Um... I'll check again another day."
+        },
+        {
+          "language": "韩文",
+          "content": "매일 천체관측을 하느라 목이 너무 뻐근해…… 의료부 분들께 뭔가 좋은 방법이 없는지 물어볼까…… 응? 오늘 담당의는 와파린 씨라고? 저기 그럼…… 다음에 물어볼게……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "每天都要觀測星體脖子好酸，不知道醫療部的同事有什麼好辦法......今天的當班醫師是華法琳小姐？呃，還是過段時間再看吧。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "从星辰排列中获取现在与未来的消息，这就是占星，可能和占卜不太一样，但结果总是不变的。所以——您想试试看吗？免费的哦。"
+        },
+        {
+          "language": "日文",
+          "content": "星の並びをもとに現在と未来を読み解く、それが星占いよ。ほかの占いとはちょっと違うけど、導き出される結果は同じよ。というわけで、ドクターも試してみる？今なら無料で占ってあげるわよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Astrology is learning about the present and the future from celestial alignments. It's not quite divination, but with the same result. So, would you like to give it a try, Doctor? It's free of charge!"
+        },
+        {
+          "language": "韩文",
+          "content": "별의 배열을 바탕으로 현재와 미래를 해독하는 것, 그게 점성술이야. 다른 점술과는 조금 다르지만, 도출되는 결과는 같아. 그래서 말인데, 박사도 한번 해볼래? 지금이라면 무료로 봐줄게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "從星辰排列中獲取現在與未來的消息，這就是占星，可能和占卜不太一樣，但結果總是不變的。所以——您想試試看嗎？免費的哦。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“血亲间，趋同的基因，导致，呃，源石产生，共鸣性的，并发......”这才是真正的神秘学，完全理解不了......博士，能麻烦您帮我解读一下体检报告吗。"
+        },
+        {
+          "language": "日文",
+          "content": "「血縁関係の収斂性を有する、DNAにより、うーん……源石が、共鳴性の併発を、もたらす……」神秘学とはまさにこのことね、全く理解できないわ……。ドクター、この健康診断の結果報告書を、少し解説してもらえるかしら？"
+        },
+        {
+          "language": "英文",
+          "content": "'Similar genes, among blood relatives, causes, uh, reverberations of Originium...' I can barely understand a word in this work of an occultist. Doctor, Can you interpret the medical report for me?"
+        },
+        {
+          "language": "韩文",
+          "content": "“혈연관계의 수렴성을 가지는 DNA로 인해, 으음…… 오리지늄이 공명성 병발을 일으킨다……” 이런 게 진짜 신비학이라는 걸까? 전혀 이해를 못 하겠어…… 박사, 이 건강진단 결과 보고서를 조금 해석해 줄 수 있을까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“血親間，趨同的基因，導致，呃，源石產生，共鳴性的，併發.......”這才是真正的神秘學，完全理解不了......博士，能麻煩您幫我解讀一下體檢報告嗎。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "从受到矿石病感染开始，星辰对我的回应已经越来越微弱了。一定要在力量尽失前想到补救的办法，不然我......博士，您愿意帮助我吗？"
+        },
+        {
+          "language": "日文",
+          "content": "鉱石病に感染してから、星が私の声に応えてくれなくなってきているわ……。この力を完全に失ってしまう前に、なんとかする方法を見つけないと……ドクター、力を貸してもらえないかしら？"
+        },
+        {
+          "language": "英文",
+          "content": "Ever since my Oripathic infection, the stars have diminished their responses to me. I must find a way to reverse it before I lose all my power. Otherwise I'l… Could you help me, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "광석병에 감염된 후로 별들이 내 목소리에 점점 대답해 주지 않고 있어…… 이 힘을 완전히 잃어버리기 전에 어떻게든 방법을 찾아야 하는데…… 박사, 힘을 빌려줄 수 있을까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "從受到礦石病感染開始，星辰對我的回應已經越來越微弱了。一定要在力量盡失前想到補救的辦法，不然我......博士，您願意幫助我嗎？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您想要了解我加入的那个组织？抱歉......我什么都不能说。既是因为誓言所限，也和那些东西绝不能公开言说有关。如果您无论如何想要知道一些，那就......请把它想象成一个与世无争的茶会吧。"
+        },
+        {
+          "language": "日文",
+          "content": "私が加入している組織のことを知りたい？ごめんなさい……それに関しては何も言えないわ。絶対に公にすべきものではないし、私自身が誓いに背かないためでもある。もしどうしても知りたいと言うのなら……浮世離れしたお茶会みたいなものと想像してくれればいいわ。"
+        },
+        {
+          "language": "英文",
+          "content": "You want to know more about the organization I'm with? Sorry, I took an oath not to divulge anything, and it's not for public knowledge, anyway. If you're curious, just think of it as a completely neutral community."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 가입한 조직에 대해 알고 싶다고? 미안해…… 난 아무것도 말할 수 없어. 공개할 수 있는 그런 것도 아니고 또 맹세를 어기지 않기 위해서이기도 해. 혹시 뭐라도 알고 싶은 거라면…… 그냥 속세와 상관없는 차모임이라고 생각하면 될 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "您想要瞭解我加入的那個組織？抱歉......我什麼都不能說。既是因為誓言所限，也和那些東西絕不能公開言說有關。如果您無論如何想要知道一些，那就......請把它想像成一個與世無爭的茶會吧。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有时候，真的很羡慕星......不，现在该称呼她为埃琳娜了。我身上缺失的一切，似乎都在她身上。咦，是这样吗，博士？也是呢，因为相异，所以相依，这就是姐妹间的关系吧。"
+        },
+        {
+          "language": "日文",
+          "content": "時々アス……いえ、今はエレナと呼ぶべきね。時々彼女のことを羨ましく思ってしまう自分がいるわ。私にないものを、全部あの子が持っている気がして……。まあでもドクターの言う通りかもね、お互いに足りない部分があって、助け合うのが姉妹ってものね。"
+        },
+        {
+          "language": "英文",
+          "content": "Sometimes, I envy Astgenne...  Ah, guess I should call her Elena now. She has everything I'm missing... But like you said, Doctor, we relied on each other because we complement each other, that's why we're sisters."
+        },
+        {
+          "language": "韩文",
+          "content": "가끔 아스…… 아니, 이젠 엘레나라고 불러야 하지. 가끔 그 애가 부러울 때가 있어. 내겐 없는걸 그 아이는 전부 가지고 있는 것 같아서…… 응, 뭐 하지만 박사가 말한 대로일지도 몰라. 서로 다르기에 서로 의지하는, 이런 게 자매라는 거겠지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "有時候，真的很羨慕星......不，現在該稱呼她為埃琳娜了。我身上缺失的一切，似乎都在她身上。咦，是這樣嗎，博士？也是呢，因為相異，所以相依，這就是姐妹間的關係吧。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "夜晚总会结束，群星也终将落幕，如果这就是一切的尽头，那我该做些有意义的事情了。比如？唔......博士，您介意我每天清晨叫醒您吗？"
+        },
+        {
+          "language": "日文",
+          "content": "夜はいつか明け、星も消えゆく。それが私の占い師としての役目が終わる合図なら、その後の私はもっと有意義なことをなさなければいけない。例えば？うーん……ドクター、毎日私が朝起こしに来るってのは嫌かしら？"
+        },
+        {
+          "language": "英文",
+          "content": "As the nights bid us farewell, so do the starlights fade and quell. If this is the end that awaits us ahead, I should be picking up something more meaningful to do. Such as? Umm... Doctor, do you mind me waking you up every morning?"
+        },
+        {
+          "language": "韩文",
+          "content": "밤은 언젠가 밝아지고, 별도 언젠간 사라져. 만약 이게 모든 것들의 운명이라면, 나도 더 의미 있는 일을 해야 해. 예를 들면? 음…… 내가 아침마다 깨우러 가면 박사가 싫어하려나?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "夜晚總會結束，群星也終將落幕，如果這就是一切的盡頭，那我該做些有意義的事情了。比如？唔......博士，您介意我每天清晨叫醒您嗎？"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "茶已经备好了，放松一下吧。"
+        },
+        {
+          "language": "日文",
+          "content": "お茶を淹れたわ。少しはリラックスしたら？"
+        },
+        {
+          "language": "英文",
+          "content": "The tea's ready, Doctor. Time for a little break."
+        },
+        {
+          "language": "韩文",
+          "content": "차 끓여왔어. 조금 쉬는 게 어때?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "茶已經備好了，放鬆一下吧。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "星象学者，星极，以近卫干员身份任职，今后就由您差遣了，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "アステシア、天文学者兼占い師よ。前衛オペレーターとしてお世話になるわ。よろしく、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Astesia, astrologer, reporting for guard duty. I'm yours to command, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "아스테시아, 천문학자 겸 점성술사야. 가드 오퍼레이터로서 신세 좀 질게. 잘 부탁해, 박사."
+        },
+        {
+          "language": "繁体中文",
+          "content": "星象學者，星極，以近衛幹員身份任職，今後就由您差遣了，博士。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看完后不用写心得吗？"
+        },
+        {
+          "language": "日文",
+          "content": "感想文は書かなくて良いかしら？"
+        },
+        {
+          "language": "英文",
+          "content": "No report after viewing?"
+        },
+        {
+          "language": "韩文",
+          "content": "감상문은 안 써도 괜찮아?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "看完後不用寫心得嗎？"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "晋升勋章？很精致的饰品，我会好好保管它的。"
+        },
+        {
+          "language": "日文",
+          "content": "これがエリートメダル？なかなか綺麗ね、大切にするわ。"
+        },
+        {
+          "language": "英文",
+          "content": "A promotion medal? How exquisite. I'll treasure it well."
+        },
+        {
+          "language": "韩文",
+          "content": "이게 정예 메달이야? 너무 예쁘다, 소중히 간직할게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "晉升勳章？很精緻的飾品，我會好好保管它的。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "群星闪耀，见证过往。"
+        },
+        {
+          "language": "日文",
+          "content": "群星の煌めきが、過去の証人となる。"
+        },
+        {
+          "language": "英文",
+          "content": "Stars shine bright, bearing witness of our past nights."
+        },
+        {
+          "language": "韩文",
+          "content": "수많은 별의 반짝임이 과거의 증인이 된다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "群星閃耀，見證過往。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我在这里，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "任せて、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm over here, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "맡겨줘, 박사."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我在這裡，博士。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让我成为众人的星光吧。"
+        },
+        {
+          "language": "日文",
+          "content": "私が皆を導く星となる。"
+        },
+        {
+          "language": "英文",
+          "content": "Let me be the guiding star for all."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 모두를 이끄는 별이 되겠어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "讓我成為眾人的星光吧。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我明白，已经没有回旋的余地了。"
+        },
+        {
+          "language": "日文",
+          "content": "もう引き返せないのね。わかってるわ。"
+        },
+        {
+          "language": "英文",
+          "content": "There's no turning back now."
+        },
+        {
+          "language": "韩文",
+          "content": "알고 있어, 이젠 되돌아갈 수 없다는걸."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我明白，已經沒有迴旋的餘地了。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "群星为我们照亮前路。"
+        },
+        {
+          "language": "日文",
+          "content": "星が私たちの進む道を照らしてくれるわ。"
+        },
+        {
+          "language": "英文",
+          "content": "The stars will light our way."
+        },
+        {
+          "language": "韩文",
+          "content": "별이 우리가 나아갈 길을 비춰줄 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "群星為我們照亮前路。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我准备好了。"
+        },
+        {
+          "language": "日文",
+          "content": "準備はできているわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Ready for action."
+        },
+        {
+          "language": "韩文",
+          "content": "준비는 되어 있어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我準備好了。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "该我了吗，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "私の出番かしら。"
+        },
+        {
+          "language": "英文",
+          "content": "Is it my turn, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "내가 나설 차례야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "該我了嗎，博士。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别慌，星极，像平常那样来就行。"
+        },
+        {
+          "language": "日文",
+          "content": "アステシア、落ち着いて、いつも通りにやればいい。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't panic, Astesia. Do it like you usually do."
+        },
+        {
+          "language": "韩文",
+          "content": "아스테시아, 침착하게 평소대로 하면 돼."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別慌，星極，像平常那樣來就行。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "该证明自己了。"
+        },
+        {
+          "language": "日文",
+          "content": "自分を証明してみせるわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Time to prove myself."
+        },
+        {
+          "language": "韩文",
+          "content": "나를 증명해 보이겠어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "該證明自己了。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "敦实的坚牛，同我一起守护。"
+        },
+        {
+          "language": "日文",
+          "content": "フォルフェスト！私たちの盾となれ。"
+        },
+        {
+          "language": "英文",
+          "content": "Defend with me, steadfast Taurus."
+        },
+        {
+          "language": "韩文",
+          "content": "포르페스트! 우리의 방패가 되어라."
+        },
+        {
+          "language": "繁体中文",
+          "content": "敦實的堅牛，同我一起守護。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "游禽翱翔星海，借您羽翼一用！"
+        },
+        {
+          "language": "日文",
+          "content": "フレリーベ！翼を貸して！"
+        },
+        {
+          "language": "英文",
+          "content": "Lend me your wings, avians among the stars!"
+        },
+        {
+          "language": "韩文",
+          "content": "프리리베! 날개를 빌려줘!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "游禽翱翔星海，借您羽翼一用！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "悍蛟已至，还想挣脱么。"
+        },
+        {
+          "language": "日文",
+          "content": "アグリーヴル！逃さないわ。"
+        },
+        {
+          "language": "英文",
+          "content": "The serpent has brought about your end."
+        },
+        {
+          "language": "韩文",
+          "content": "아그리브르! 놓치지 않을 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "悍蛟已至，還想掙脫嗎。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我之剑光，即为星光！"
+        },
+        {
+          "language": "日文",
+          "content": "この剣の輝きは、星の煌めき！"
+        },
+        {
+          "language": "英文",
+          "content": "The light of stars shall be my blade!"
+        },
+        {
+          "language": "韩文",
+          "content": "이 검의 반짝임은 별의 반짝임!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我之劍光，即為星光！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这就是，星辰都无法昭示的，“我们”的力量......"
+        },
+        {
+          "language": "日文",
+          "content": "これが星にすら予測できない「私たち」の力よ……。"
+        },
+        {
+          "language": "英文",
+          "content": "So this is 'our' power, a power even the stars failed to foresee..."
+        },
+        {
+          "language": "韩文",
+          "content": "이게 바로 별조차 예측할 수 없는 '우리'의 힘이야……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這就是，星辰都無法昭示的，“我們”的力量......"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "辛苦了博士，早早休息吧。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、お疲れ様。帰ってしっかり休みましょ。"
+        },
+        {
+          "language": "英文",
+          "content": "Fantastic results, Doctor. But don't overwork yourself, be sure to rest up well."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 수고했어. 돌아가서 푹 쉬자."
+        },
+        {
+          "language": "繁体中文",
+          "content": "辛苦了博士，早早休息吧。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果我再加把劲，结果能变得更好吗？"
+        },
+        {
+          "language": "日文",
+          "content": "もっと努力していれば、結果も変わっていたかしら……？"
+        },
+        {
+          "language": "英文",
+          "content": "If I put in more effort, maybe the outcome could be better…"
+        },
+        {
+          "language": "韩文",
+          "content": "더 노력했다면 결과도 달라졌을까……?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "如果我再加把勁，結果能變得更好嗎？"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好累......但是，还不能倒下......"
+        },
+        {
+          "language": "日文",
+          "content": "力が入らない……でも、まだ倒れるわけには……。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm dead on my feet... but it's not time to quit yet"
+        },
+        {
+          "language": "韩文",
+          "content": "힘이 안 들어가…… 하지만 아직 쓰러질 수는……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "好累......但是，還不能倒下......"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我看看，家具的摆放......嗯，没有问题，并不会招来奇怪的东西。"
+        },
+        {
+          "language": "日文",
+          "content": "家具の向きは……大丈夫そうね。悪いものを引き寄せることはなさそうだわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Let me see... Yes, the layout's good. The furniture won't attract any unwanted spirits this way."
+        },
+        {
+          "language": "韩文",
+          "content": "가구의 배치는…… 응, 괜찮은 것 같네. 나쁜 것을 끌어당기진 않을 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我看看，傢俱的擺放......嗯，沒有問題，並不會招來奇怪的東西。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "等，等等！"
+        },
+        {
+          "language": "日文",
+          "content": "ちょ、ちょっと！"
+        },
+        {
+          "language": "英文",
+          "content": "W-Wait!"
+        },
+        {
+          "language": "韩文",
+          "content": "자, 잠깐!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "等，等等！"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "怎，怎么了，我脸上有什么吗？"
+        },
+        {
+          "language": "日文",
+          "content": "な、なに？私の顔に何かついてるの？"
+        },
+        {
+          "language": "英文",
+          "content": "W-What's that... something on my face?"
+        },
+        {
+          "language": "韩文",
+          "content": "왜, 왜 그래? 내 얼굴에 뭐가 묻었어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "怎，怎麼了，我臉上有什麼嗎？"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一年伊始，又要开始新的轮回了。在星辰对我的回应消失之前，博士要来试着通过我向它们许个愿吗？今天许下的愿望，可是最容易成真的。来，看着天球仪......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "早安，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "おはよう、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Good morning, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "안녕, 박사."
+        },
+        {
+          "language": "繁体中文",
+          "content": "早安，博士。"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我很感激罗德岛帮助了我和妹妹，矿石病带给我的身体上的痛苦，远不及我那时对于自己毕生所学的怀疑......不过医疗部还在帮我找寻我失去力量的原因，一切都还有希望，不是吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

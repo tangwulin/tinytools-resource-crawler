@@ -1,0 +1,1139 @@
+{
+  "name": "阿",
+  "charaKey": "char_225_haak",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_225_haak"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_225_haak"
+    },
+    {
+      "language": "中文-方言",
+      "base": "voice_custom/char_225_haak_cn_topolect"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_225_haak"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_225_haak"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "对了，老板，你叫我的时候记得拖一下长音，不然我不一定能听得出来你在叫我。"
+        },
+        {
+          "language": "日文",
+          "content": "そーいえば旦那、俺を呼ぶ時は後ろをちょっと伸ばして「アー」って呼んでくれよ、でないと呼ばれてるって気付かないかもしれないからな。"
+        },
+        {
+          "language": "英文",
+          "content": "Oh yeah, my dude, when you're callin' my name to get my attention, don't forget to stress the K at the end. Or else I might assume you're stammering or somethin'."
+        },
+        {
+          "language": "韩文",
+          "content": "있잖아 나리, 날 부를 땐, 뒤를 살~짝 늘려서 '아~'라고 불러줘. 안 그럼, 날 부르고 있다는 걸 모를 수도 있거든."
+        },
+        {
+          "language": "繁体中文",
+          "content": "對了，老闆，你叫我的時候記得拖一下長音，不然我不一定能聽得出來你在叫我。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "对了，老板，你叫我的时候记得要拖下长音，不然我未必听得出来你在叫我。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "喂喂喂，不是吧，那个血魔小姐，难道她就是“血先生”？！嗯......上次的医术对决还没个结果呢，现在不正是最好的机会吗？不过试验品就要重新准备一下了，嘿嘿嘿。"
+        },
+        {
+          "language": "日文",
+          "content": "おいおい待ってくれよ、あのブラッドブルードの姉ちゃん、まさか「ブラッドさん」か？むむ……こないだの医術対決にゃまだ勝負は付いてねぇ、今がチャンスじゃねーか！あとで実験用の備品をもう一回用意しないとな、うふふふ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Whoa, whoa, hold up! Is that vampire lady none other than 'Mr. Blood'?! Man, we've still not settled that medical score we had a while back, and this is the perfect opportunity! I'll have to set up my experiment equipment later... Heheheheh!"
+        },
+        {
+          "language": "韩文",
+          "content": "아니 잠깐만, 저 뱀파이어 누님, 설마 '미스터 블러드'야?! 으음…… 얼마 전에 했던 의술 대결은 아직 결판이 안 났으니까, 지금이 기회잖아! 나중에 실험용 비품을 한 번 더 준비해야겠는데… 으흐흐흐……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "喂喂喂，不是吧，那個血魔小姐，難道她就是“血先生”？！嗯......上次的醫術對決還沒有結果呢，現在不是最好的機會嗎？不過試驗品就要重新準備一下了，嘿嘿嘿。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "喂喂喂，不是吧，那个血魔小姐，难道就是“血先生”？！嗯......上次那场医术对决还未有结果，现在不就是最好的机会吗？不过试验品呢要重新准备下先得喇，嘿嘿嘿。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "吽那家伙，又说了啥让你看住我之类的话吧。照顾？啊，确实是他会用的词儿。老板，我看得出你和我一样，是那种随心所欲的人。别听那些傻话，只要你愿意，我们有很多有趣的事能做哦？"
+        },
+        {
+          "language": "日文",
+          "content": "ウンのやつ、また俺のこと見張ってろとか抜かしたんだろ。見張るじゃなくて面倒を見る？あー、あいつならそう言いそうだな。旦那さ、俺分かってるよ、あんただって俺と同じ気ままに生きたい人種だろ？くだらねぇ話は放っといてさ、あんたさえその気なら、俺らで楽しいことはいくらでもできるぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "Lemme guess, Hung's still tellin' you to watch out around me, ain't he? Oh, just to 'look after me'? Yeah, that sounds like him all right. But listen, Boss, I know your type. You're like me, and you just wanna do whatever you want, right? Then just ignore that guy. We can do whatever fun stuff we like."
+        },
+        {
+          "language": "韩文",
+          "content": "훔 녀석, 또 나를 감시하라는 둥…… 뭐 그딴 소리 했지? 감시하는 게 아니라 돌봐주라 그랬다고? 아~ 그 녀석이라면 그딴 식으로 말할 줄 알았어. 나리, 난 알고 있다고. 당신도 나처럼 마음 가는 대로 살고 싶은 인종이잖아? 남들이 쓸데없는 얘기 하는 건 듣지 마. 당신이 마음만 먹으면…… 우린 얼마든지 즐거운 일을 할 수 있을 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "吽那傢伙，又是說了些讓你看管我之類的話吧。照顧？啊，確實是他會用的詞兒。老闆，我看得出你和我一樣，是那種隨心所欲的人吧？只要你願意，別聽那些傻話，我們有很多有趣的事能做哦？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "吽那家伙，肯定又和你说了什么看住我之类的吧。照顾？哈，确实是他会用的字眼。老板，我看得出你同我一样，是那种随心所欲的人。别管别人说什么，只要你肯，我们有大把得意东西可以试个哦？"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "试剂、药物、手术和培菌，嗯，这些都是我的兴趣，当然，也仅仅只是兴趣。医生？不建议那么叫我哦，我没什么救人的本事。让人意识到生命的意义才叫拯救，我只是不让他们死。"
+        },
+        {
+          "language": "日文",
+          "content": "試薬、薬物、手術、細菌の培養……まぁ、好きだけど、ただの趣味かな。「先生」？そんな風に呼ばれる道理はねーよ、別に人救ったりとかはできねぇから。救うってのはそいつに命の意味を分からせることなんだよ。俺にできるのはせいぜい死なせないことくらいだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Yeah, I develop new drugs, do surgery, and nurture bacteria cultures, but those are all just fun hobbies to me. Doc. Aak? Nah, don't call me that. I don't save anyone, 'cuz I can't teach them the value of their lives. All I can do is just prevent 'em from dying."
+        },
+        {
+          "language": "韩文",
+          "content": "시약, 약물, 수술, 세균 배양…… 뭐…… 좋아하긴 하지만, 다 그냥 취미지 뭐. '의사 선생님'? 딱히 사람을 구하거나 하는 것도 아닌데 의사 선생은 무슨…… 구한다는 건 그 녀석에게 생명의 의미를 알게 해주는 거야. 내가 할 수 있는 건 고작 죽지 않게 하는 것 정도지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "試劑、藥物、手術和培菌，嗯，這些都是我的興趣，當然，也僅僅只是興趣。醫生？不建議那麼叫我哦，我沒什麼救人的本事。讓人意識到生命的意義才叫拯救，我只是不讓他們死。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "试剂、药物、手术同培菌，嗯，全部都是我的兴趣，当然，亦都只不过是兴趣。医生？我建议你唔好那么叫我，我冇什么救人的本事。可以令人意识到生命的意义才称得上拯救，而我只不过是令他们唔使死。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "医疗部的人找我？别了吧，我不怎么喜欢专业医生的。坚信自己的职业很高尚，因为能够拯救别人而满足......信念一旦破碎，是会死的。总是看着这种事发生，我有些难过，真的。"
+        },
+        {
+          "language": "日文",
+          "content": "医療部の奴が呼んでる？ヤメとくよ、ああいういかにも「お医者様」って感じのあんまり好きじゃねーんだ。医者が崇高な仕事だと信じ込んで、人を救って満足してる……信念ってもんは一回崩れたら終わりだ。そういう奴らを何度も見てきたから。正直、ちょっと辛ぇんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "The medical department guys are askin' for me? Man, give me a break. I don't dig those professional physicians. They firmly believe that being a doctor's this noble job, and are content with saving more lives... before everything just comes crashing down when their faith got shattered. I've seen that happen time and time again. Honestly, it makes me sad."
+        },
+        {
+          "language": "韩文",
+          "content": "의료부 녀석이 부른다고? 에이…… 안 갈래. 그렇게 어딜 보나 '의사 선생' 같은 느낌이 팍 나는 녀석은 별로거든. 의사가 숭고한 일이라고 믿어 의심치 않고, 사람을 구하며 만족한다…… 뭐 이런 신념 같은 거 말이야, 한 번 무너지면 바로 끝이야. 난 여태까지 그런 녀석들을 몇 번이고 봐 왔거든. 이러는 거, 솔직히…… 좀 힘들긴 해."
+        },
+        {
+          "language": "繁体中文",
+          "content": "醫療部的人找我？別了吧，我不怎麼喜歡專業醫生的。堅信自己的職業的高尚，為了拯救別人而感到滿足......信念一旦破碎，是會死的。總是看著這種事發生，我有些難過，真的。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "医疗部的人找我？别了吧，我唔多钟意那些专业医生。他们坚信自己的职业好高尚，会因为拯救别人而满足......但是信念一旦破碎，是会冇命的。成日看着这种事发生，我有点难过，真的。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不讨厌罗德岛，相反，我觉得你们很专业。这片大地上每时每刻都有人死去，光是缩起来行医制药，直到泰拉毁灭也不会有什么效果的。没多少人明白这一点，但你们心里很清楚，嗯嗯，真好！"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスは嫌いじゃない、いや、むしろさすがだなって思ってる。世の中じゃこうしてる間にも人は死んでる、どっかで隠れて治療したり薬を作ってるだけじゃ、何の役にも立てずにテラが滅ぶ日を迎えちまう。それに気づく奴はあんまいないけど、あんたらはよくわかってる。うん、いいじゃねぇか！"
+        },
+        {
+          "language": "英文",
+          "content": "I don't dislike Rhodes Island. Instead, I think you guys are doing your job just fine. People are dyin' in the world right as we speak, and with all those doctors cooping up in labs, waiting for patients to knock on their clinics' doors, diseases ain't rid themselves of these lands. Hardly anyone gets it, but you people seem to have it in mind... Keep up the good stuff, will ya?"
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드는 싫지 않아. 아니, 오히려 역시 로도스 아일랜드구나…… 싶다니까? 이 세상엔 이러고 있는 동안에도 사람이 죽어 나가고 있어. 어딘가에 숨어서 치료하거나, 약을 만드는 것만으로는 아무 도움도 되지 못하고 테라가 망하는 날을 맞이하게 될 거야. 그걸 알아차린 녀석은 별로 없지만, 당신들은 잘 알고 있어. 응, 좋잖아 이런 거!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我不討厭羅德島，相反，我覺得你們很專業。這片大地上每時每刻都有人在死，光是縮起來醫療製藥，直到泰拉毀滅也不會發揮什麼效果的。沒多少人明白這一點，但你們心裡很清楚，嗯嗯，真好！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "我唔讨厌罗德岛，相反，我觉得你们好专业。这片大地每时每刻都有人死，只是缩起来行医制药的话，直到泰拉毁灭也改变唔到啲咩。明白这一点的人冇几个，但是你们就好清楚，嗯嗯，唔错！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嘲笑，讨厌？没有啦老板，我只是感觉所有人的命运都很悲惨。伤痛当然可怕，但只要创造它们的人还在，医学又有什么意义？哪个医生能拯救即将被杀死的人？泰拉需要的并不是医生，老板。"
+        },
+        {
+          "language": "日文",
+          "content": "皮肉に嫌味？そうじゃねーよ旦那、ただ誰も彼も悲惨な運命を背負ってるなって思ってな。痛みは怖いが、それを生み出す奴らがいる限り、医学に何の意味があるって言うんだ？その医学で殺されようとしてる奴は救えんのか？テラに必要なのは医者じゃねーんだ、旦那。"
+        },
+        {
+          "language": "英文",
+          "content": "Me, a cynic? You got me wrong, my dude. I simply pity all the people on this land. Everyone's got their own hardships to deal with, and I know that. But what's the point of curing pains and sufferings when we can't cure their source? What medicine saves a man who's being murdered? Terra doesn't need more doctors in suits, my dude."
+        },
+        {
+          "language": "韩文",
+          "content": "빈정대고 아니꼽게 군다고? 그런 게 아니야, 나리. 그저 너나 할 거 없이 비참한 운명을 짊어지고 있구나 해서. 고통이란 게 무섭긴 하지만, 그걸 만들어 내는 녀석들이 있는 한 의학에 무슨 의미가 있겠어? 그 의학으로 살해당할지도 모르는 녀석을 구할 수 있는 것도 아니잖아? 테라에 필요한 건 의사가 아니야, 나리."
+        },
+        {
+          "language": "繁体中文",
+          "content": "嘲笑，討厭？沒有啦老闆，我只是感覺所有人的命運都很悲慘。傷痛當然可怕，但只要創造它們的人還在，醫學又有什麼意義？誰能拯救要被殺的人？泰拉需要的並不是醫生，老闆。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "嘲笑，讨厌？哪有这种事啊老板，我只是觉每个人的命运都好惨。伤痛当然可怕，但是只要创造它们的人还在，医学又有咩意义？又有哪个医生救得到就快被人杀死的人？泰拉需要的唔系医生啊，老板。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我爸，也算是很厉害的医生了，天天把救死扶伤挂在嘴边。然而他被侮蔑、排挤加上陷害，一下就成了个黑医生，无恶不作那种。我也不觉得这种事有多稀奇啦，真的，虽然它也算改变了我的人生吧。"
+        },
+        {
+          "language": "日文",
+          "content": "親父はな、一応すごい医者だったよ、人命救助が口癖でさ。でも嘲られて、除け者にされて、そんではめられて、急転直下で極悪の道にまっしぐらだったよ。ま、それほど珍しいことだとは思わないけどさ、ホントに。でもそれが俺の人生を変えたってのは認めるぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "My pops was an amazing doctor, and he was all about saving people's lives. But his colleagues slandered him, sidelined him, and framed him. That's how he ended up as a underground doctor, the nastiest among the wicked. Stuff like that ain't so unusual, but I'll admit, what happened to him really changed my own life."
+        },
+        {
+          "language": "韩文",
+          "content": "아버지는 말이야, 일단은 대단한 의사였어. 인명구조가 입버릇이었지. 그런데 조롱당하고, 따돌림당하고…… 그러다가 속아 넘어가선, 갑자기 확 유턴을 하더니, 나쁜 길로 빠지더라고. 뭐, 딱히 드문 일이라고는 생각하지 않거든 솔직히? 근데 이거 하난 인정해, 그게 내 인생을 바꾸었다는 거."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我爸，也算是很厲害的醫生了，天天把救死扶傷掛在嘴邊。然而他被侮蔑、排擠加上陷害，一下就成了個黑醫生，無惡不作那種。我也不覺得這種事有多稀奇啦，真的，雖然它也算改變了我的人生吧。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "我老豆，也算是个好犀利的医生，日日开口埋口救死扶伤。但是他被人侮蔑、排挤还有陷害，一下子就变成了黑医生，无恶不作那种。不过我唔觉得这种事好罕见，真的，虽然也算改变了我的人生。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "槐琥姐和吽出去了吗？出去了？那太好了，就让我在你办公室里浪费下时间吧。其实啊，他们才是能让这片大地变好的人。而老板你，我猜猜，其实我们两个更相近些，是不是？"
+        },
+        {
+          "language": "日文",
+          "content": "ワイフー姉とウンは出てったか？もういない？よし。執務室ちょっと借りるな。本当はさ、世界を良くできるのはああいう奴らなんだろうな。あんたはなぁ、どうかな、どっちかと言えば俺側の人間なんじゃねぇか？"
+        },
+        {
+          "language": "英文",
+          "content": "Have Waai Fu and Hung left? Really? Aight, I'm gonna hang out in your office for a while then. Y'know, if anyone can make this land a better place, it's gotta be people like them. You, meanwhile... Well, guess we are simply two peas in a pod, aren't we?"
+        },
+        {
+          "language": "韩文",
+          "content": "와이후 누나랑 훔은 나갔지? 지금 여기 없는 거 맞지? 잘 됐다. 집무실 좀 빌릴게? 사실은 말이야, 세상을 좋게 만드는 건 그런 녀석들일 거야. 그쪽은, 글쎄……? 굳이 어느 쪽이냐 따지자면, 나랑 비슷한 부류 아니야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "槐琥姐和吽出去了嗎？出去了？那太好了，就讓我在你辦公室裡浪費下時間吧。其實啊，他們才是能讓大地變好的人。而老闆你，我猜猜，其實我們兩個更相近些，是不是？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "槐琥姐同吽出去了吗？真出去了？好耶，就让我在你办公室消磨时间吧。其实啊，他们才是可以让这片大地变好的人。而老板你呢，我估下先，其实我们两个更加相似，是不是？"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "欸，你很累吗？要不要我给你个新配方，免费的哦。"
+        },
+        {
+          "language": "日文",
+          "content": "え、疲れてんの？新しい調合薬を試してみるか？タダでいいって。"
+        },
+        {
+          "language": "英文",
+          "content": "Aha! You Feelin' tired? Then come try this new compound I made! Free of charge, of course!"
+        },
+        {
+          "language": "韩文",
+          "content": "뭐야, 피곤해? 새로 조합한 약인데, 한번 써볼래? 에이 괜찮아~ 공짜로 해준다니까~?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "欸，你很累嗎？要不要我給你個新配方，免費的哦。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "欸，你好累吗？要不要我给你个新配方，免费的哦。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你就是博士吧？幸会幸会。我叫阿，对，就是阿——的阿。事务所在罗德岛有些事情要处理，所以我就来了。事先问问，你对医疗事故敏感吗？"
+        },
+        {
+          "language": "日文",
+          "content": "あんたがドクターだよな？会えて嬉しいぜ。俺はアってんだ、そう、あーのアだ。事務所がロドスに用があるって言うんで来たのさ。一応確認しとくけど、医療事故って聞いてビリビリする方か？"
+        },
+        {
+          "language": "英文",
+          "content": "So you're the Doctor, eh? Nice to meet'cha. My name's Aak. That's right, two A's with a K. Anyway, I'm here 'cause the agency got some business here at Rhodes Island. A quick question before we start: does the phrase 'medical mishap' put you off?"
+        },
+        {
+          "language": "韩文",
+          "content": "그쪽이 박사지? 만나서 반가워. 난 '아'라고 해. 그래, 아~ 할 때 그 '아' 말이야. 사무소에서 로도스 아일랜드에 일이 있다길래 왔어. 일단 확인차 물어보기만 하는 건데, '의료 사고'라는 말을 들으면 확 예민해지고, 막 그런 편……은 아니지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你就是博士吧？幸會幸會。我叫阿，對，就是阿——的阿。事務所在羅德島有些事情要處理，所以我就來了。事先問問，你對醫療事故敏感嗎？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "你就是博士对吧？幸会幸会。我叫阿，冇错，就是阿——那个阿。事务所在罗德岛有些事情要处理，所以我就来了。我事先问下，你对医疗事故敏唔敏感？"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯，你是想说，我可以在这种战斗里帮上忙吗？不能吧？"
+        },
+        {
+          "language": "日文",
+          "content": "うーん、もしかして、こういう戦いに俺が出るのもアリって言いたいの？ないよな？"
+        },
+        {
+          "language": "英文",
+          "content": "Huh... Does this mean I might get involved in combat scenarios like this? Surely not, right?"
+        },
+        {
+          "language": "韩文",
+          "content": "으음~ 혹시 이런 전투에 내가 나갈 수도 있다고 말하고 싶은 거야? 아니지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯，你是想說，我可以在這種戰鬥裡幫上忙嗎？不能吧？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "嗯，你的意思是，我可以在这种战斗里帮到手？冇可能吧？"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "升职？还有这样的好事，果然事务所是在压榨我的劳动力吧，是吧。"
+        },
+        {
+          "language": "日文",
+          "content": "昇進？まさかこんないい話があるなんてな。やっぱ俺、事務所に搾取されてんじゃね？なぁ？"
+        },
+        {
+          "language": "英文",
+          "content": "A promotion? Almost too good to be true, man. I knew my agency has been exploiting me all along!"
+        },
+        {
+          "language": "韩文",
+          "content": "승진? 설마 이렇게 좋은 일이 있을 줄은 몰랐네? 나 설마…… 사무소에 착취당하고 있는 건 아니지? 그렇지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "升職？還有這樣的好事，果然事務所是在壓榨我的勞動力吧，是吧。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "升职？还有这样的好事，事务所果然是在压榨我的劳动力啊，你说呢。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我其实不清楚自己算不算是个有用的人啦。毕竟在我看来，有用的人得是好人才行，我嘛，还是有自知之明的。不过，你要是得病了，记得找我哦。"
+        },
+        {
+          "language": "日文",
+          "content": "正直、俺は自分が役に立つ人間かどうかもわっかんねぇ。俺の認識ではそういう奴は「いい人」じゃないとダメなんだけど、自分がどんな奴かくらい自分でも知ってる。でもな、あんたが病気になったときは頼ってくれよ？"
+        },
+        {
+          "language": "英文",
+          "content": "Honestly, I dunno if I'm helpful or not. The way I see it, you've gotta be nice to be helpful, and I'm not blind to how people perceive me. But in any case, if you ever get sick, you know who to call."
+        },
+        {
+          "language": "韩文",
+          "content": "솔직히 난, 내가 도움이 되는 인간인지 어떤지도 모르겠어. 내가 알고 있는 한 그런 녀석은 다들 '좋은 사람'인데, 난 내가 어떤 녀석인지 잘 알고 있거든. 그래도…… 그쪽이 아플 땐, 언제든 나한테 기대줘."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我其實不清楚自己算不算是個有用的人啦。畢竟在我看來，有用的人應該是好人才行，我嘛，還是有自知之明的。不過，你要是得病了，記得找我哦。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "其实我唔多清楚自己算唔算一个有用的人啦。因为我觉得，有用的人一定要是个好人，而我呢，都算有点自知之明。不过，如果你得病了，记得来找我哦。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "任务吗？好啊，走吧。"
+        },
+        {
+          "language": "日文",
+          "content": "任務か？いいよ、行くか。"
+        },
+        {
+          "language": "英文",
+          "content": "We goin' on a mission? Sure, let's do it."
+        },
+        {
+          "language": "韩文",
+          "content": "임무야? 좋아, 갈까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "任務嗎？好啊，走吧。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "任务吗？好啊，行啦。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那新药的效果，就拜托各位之后告诉我咯。"
+        },
+        {
+          "language": "日文",
+          "content": "んじゃみんな、あとで新薬の感想を聞かせろよ？"
+        },
+        {
+          "language": "英文",
+          "content": "All right, team, gimme your thoughts on my new meds after this is done."
+        },
+        {
+          "language": "韩文",
+          "content": "그럼 다들, 나중에 신약이 어땠는지 감상 꼭 들려줘야 한다?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "那新藥的效果，就拜託各位之後告訴我囉。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "那种新药的效果，就拜托各位之后告诉我咯。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一旦我开始动手术，可就没人能阻止我了。"
+        },
+        {
+          "language": "日文",
+          "content": "俺がオペを始めたら、もう誰にも止めらんねぇぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "Once I start an operation, there's no stoppin' it."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 한 번 수술 시작했다 하면, 그땐 아무도 못 막는 줄 알고 있으라고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "一旦我開始動手術，可就沒人能阻止我了。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "一旦我开始做手术，就冇人能阻止我了。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "放心，有我在，你们想死都难。"
+        },
+        {
+          "language": "日文",
+          "content": "安心しとけ、俺がいるからには死にたくても死ねねぇから。"
+        },
+        {
+          "language": "英文",
+          "content": "Relax, guys. You just can't die with me by your side."
+        },
+        {
+          "language": "韩文",
+          "content": "안심해. 내가 있는 한은, 죽고 싶어도 못 죽을 테니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "放心，有我在，你們想死都難。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "放心，有我在，你们想死都难。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我下的药可不轻。"
+        },
+        {
+          "language": "日文",
+          "content": "俺の処方は軽くないぜぇ。"
+        },
+        {
+          "language": "英文",
+          "content": "When prescribing, I always go double-down on the dosage."
+        },
+        {
+          "language": "韩文",
+          "content": "괜찮겠어? 내 처방은 좀 센 편인데."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我下的藥可不輕。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "我下药还挺重的。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "战场不适合我，但治疗实在是很快乐啊。"
+        },
+        {
+          "language": "日文",
+          "content": "戦場は俺に合わねぇけど、治療は楽しいからな。"
+        },
+        {
+          "language": "英文",
+          "content": "I ain't one for battle, but treating peole is so much fun!"
+        },
+        {
+          "language": "韩文",
+          "content": "전장은 나한텐 안 맞긴 하지만, 치료하는 건 또 즐거우니까 뭐……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "戰場不適合我，但治療實在是很快樂啊。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "战场不适合我，不过治疗真的够快乐啊。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "就让我们临床实验一下新成果吧。"
+        },
+        {
+          "language": "日文",
+          "content": "新薬の臨床試験といこうじゃねーか。"
+        },
+        {
+          "language": "英文",
+          "content": "Time for a clinical test of my new meds."
+        },
+        {
+          "language": "韩文",
+          "content": "그럼, 신약의 임상시험을 시작해 볼까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "就讓我們臨床實驗一下新成果吧。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "就让我们来临床实验一下新成果啦。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "平时不好好善待自己，出问题的时候可是会超级痛的哦。"
+        },
+        {
+          "language": "日文",
+          "content": "不摂生してるといざという時痛い目見るぜ？"
+        },
+        {
+          "language": "英文",
+          "content": "Learn to treat yourself with kindness, or regret when sickness treats you."
+        },
+        {
+          "language": "韩文",
+          "content": "평소에 몸 잘 안 챙기고 그러면, 여차할 때 호되게 고생할걸?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "平時不好好善待自己，出問題的時候可是會超級痛的哦。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "平时唔好好善待自己，出问题的话会痛到入心入肺㖞。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "所有生命都是平等的，但你的好像有点例外。"
+        },
+        {
+          "language": "日文",
+          "content": "命に貴賤無しさ。あぁ、おまえは例外みたいだな。"
+        },
+        {
+          "language": "英文",
+          "content": "All lives are equal... while yours is a deviation."
+        },
+        {
+          "language": "韩文",
+          "content": "목숨에 귀천이 어딨어? 아아~ 근데 넌 좀 예외겠다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "所有的生命都平等，但你的好像有點例外。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "所有生命都是平等的，不过你的好似有点特别。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这管试剂打下去，你就知道厉害了。"
+        },
+        {
+          "language": "日文",
+          "content": "使ってみればこの薬の凄さが分かるぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "Just take the shot. You will be <i>amazed</i>."
+        },
+        {
+          "language": "韩文",
+          "content": "그니까 일단 한 번 써보라니까? 그럼 이 약이 얼마나 끝내주는지 바로 감이 올 걸?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這管試劑打下去，你就知道厲害了。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "这管试剂打下去，你就知有几劲。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我这种药水，说不定能让坏人重新做人。"
+        },
+        {
+          "language": "日文",
+          "content": "この薬、悪い奴を更生させる効果がありそうだぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "My potion might give the bad guys a new leaf to turn over!"
+        },
+        {
+          "language": "韩文",
+          "content": "이 약 말이야, 나쁜 녀석을 갱생시키는 효과가…… 있는 거 같지 않아?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我這種藥水，說不定能讓壞人重新做人。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "我这只药水，说不定能令坏人重新做人。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "医学，就是一旦打开就没法关上的恶毒匣子。"
+        },
+        {
+          "language": "日文",
+          "content": "医学は開けたら二度と閉じらんねぇ呪いの箱みたいなものなのさ。"
+        },
+        {
+          "language": "英文",
+          "content": "Medicine, a box you wish you've never opened!"
+        },
+        {
+          "language": "韩文",
+          "content": "의학이란 건 말야, 한 번 열면…… 두 번 다신 못 닫는 저주받은 상자 같은 거라고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "醫學，就是一旦打開就沒法關上的惡毒匣子。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "医学，就是一旦打开了就关唔到的恶毒之盒。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "也许我的技术不能让这片大地变得更好，但你我合起来，能让它变得没那么坏。"
+        },
+        {
+          "language": "日文",
+          "content": "俺の腕じゃあこの世を良くはできないかもしれねぇ。でもあんたと一緒なら、これ以上悪くならないようにはできる。"
+        },
+        {
+          "language": "英文",
+          "content": "I doubt I can make the world a better place on my own, but at least I can stop it from gettin' any worse with your help."
+        },
+        {
+          "language": "韩文",
+          "content": "내 실력으로는 이 세상을 좋게 만들진 못할지도 몰라. 하지만 그쪽이랑 함께라면, 이 이상 나빠지지 않게는 할 수 있어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "也許我的技術不能讓這片大地變得更好，但你我合起來，能讓它變得沒那麼壞。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "我的技术可能冇办法让这片大地变得更加好，但是你和我搭档，可以令它变得没那么差。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "只要没人看见，抓走敌人做实验就不会违反公约啦，放心放心。"
+        },
+        {
+          "language": "日文",
+          "content": "人に見られなきゃ、敵を捕まえて実験体にしても公約違反にはあたらねぇ、心配いらないって。"
+        },
+        {
+          "language": "英文",
+          "content": "Could we capture some enemies for a little experimenting? It's not violating ethics as long as no one sees it. Not a chance? Aww."
+        },
+        {
+          "language": "韩文",
+          "content": "들키지만 않으면, 적을 붙잡아서 실험체로 삼아도 공약 위반에는 안 걸려. 걱정할 필요 없다니까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "只要沒人看見，抓走敵人做實驗就不會違反公約啦，放心放心。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "只要冇人看见，抓敌人做实验是唔会违反公约的，大可以放心。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你真仁慈啊，居然就这样放他们走掉了。"
+        },
+        {
+          "language": "日文",
+          "content": "あんたってお人好しだな、あのまま見逃すなんてさ。"
+        },
+        {
+          "language": "英文",
+          "content": "Letting 'em get away like that? You are a saint."
+        },
+        {
+          "language": "韩文",
+          "content": "그쪽도 가만 보면 사람 참 좋아. 저대로 놓아주게?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你真仁慈啊，居然就這樣放他們走掉了。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "你真是好仁慈呢，居然就这样放他们走。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别紧张，老板，只要没死，我都救得回来。"
+        },
+        {
+          "language": "日文",
+          "content": "大丈夫だ旦那、生きてさえいれば、俺が全部治してやるよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't worry, my dude. I can fix any injury as long as the patient's still breathing."
+        },
+        {
+          "language": "韩文",
+          "content": "괜찮아, 나리. 살아있기만 하면, 치료는 전부 내가 해줄 테니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別緊張，老闆，只要沒死，我都救得回來。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "别紧张，老板，只要未死，我都能救回来。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看看，我的新实验室会在哪里呢？"
+        },
+        {
+          "language": "日文",
+          "content": "どれどれ、俺の新しいラボはどの部屋だー？"
+        },
+        {
+          "language": "英文",
+          "content": "Now, now, let's see. Which of these rooms is my new lab?"
+        },
+        {
+          "language": "韩文",
+          "content": "어디 보자~ 내 새 실험실이~ 어느 방이었더라~?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "看看，我的新實驗室會在哪裡呢？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "看看，我的新实验室会在哪里呢？"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊？"
+        },
+        {
+          "language": "日文",
+          "content": "あー？"
+        },
+        {
+          "language": "英文",
+          "content": "Ah?"
+        },
+        {
+          "language": "韩文",
+          "content": "어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "啊？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "啊？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "老板，找到新试验品了吗？"
+        },
+        {
+          "language": "日文",
+          "content": "おい旦那、新しい実験サンプルは見つけてくれたか？"
+        },
+        {
+          "language": "英文",
+          "content": "Yo, my dude! Found any new experiment samples for me?"
+        },
+        {
+          "language": "韩文",
+          "content": "어~ 나리. 새 실험 샘플은 찾았어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "老闆，找到新試驗品了嗎？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "老板，找到新试验品了吗？"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "新年快乐啊，老板。吽刚炒了几个菜，尝了没有？我倒不怎么在意过节，吵吵闹闹，又没什么用，不如在这里坐着吹吹风。不过，要吃糖水吗？我从餐桌上拿的，味道还真不错。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        },
+        {
+          "language": "中文-方言",
+          "content": "新年快乐啊，老板。吽刚刚炒了几个菜，有冇试过？其实我对过节没什么兴趣，嘈喧巴闭，浪费时间，还不如坐在这里吹吹风。不过，食唔食糖水啊？我从餐桌拿过来的，又真系几好食㗎。"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "老板，今天身体还好吧？"
+        },
+        {
+          "language": "日文",
+          "content": "旦那、今日の具合は？"
+        },
+        {
+          "language": "英文",
+          "content": "Hey, my dude. What's cookin'?"
+        },
+        {
+          "language": "韩文",
+          "content": "나리, 오늘 컨디션은 좀 어때?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "老闆，今天身體還好吧？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "老板，今日身体几好吗？"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "很重要吗？我倒不是真的很在意自己到底要成为一个什么样的人，只是槐琥姐和吽他们好像总是在期待着什么，罗德岛又比我想的要好那么一点，我当然愿意跟着你们继续做。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        },
+        {
+          "language": "中文-方言",
+          "content": "好重要吗？我其实不太在意自己究竟要成为一个怎样的人，只不过槐琥姐和吽他们好像总是在期待什么，而罗德岛又好过我当初想的那么一点，那么我当然愿意跟着你们做下去。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,983 @@
+{
+  "name": "豆苗",
+  "charaKey": "char_452_bstalk",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_452_bstalk"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_452_bstalk"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_452_bstalk"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "想要我帮忙？哼哼，如果给小家伙们提供三天高级饵食的话，我就考虑一下！怎么样，是不是挺划算......哎，等等，我开玩笑的，你别走啊！"
+        },
+        {
+          "language": "日文",
+          "content": "あたしに手伝ってほしいの？うーん、うちの子たちに高級飼料を三日分プレゼントしてくれれば、考えてあげてもいいかな！どう、美味しい話でしょ……ってちょっと、行かないでよ、冗談だってば！"
+        },
+        {
+          "language": "英文",
+          "content": "Want my help? Hehe, I'll think about it if you give my buddies three days of luxury pet food! How about it, sounds like a deal, isn't... Hey, wait up! I'm just kidding! Don't go!"
+        },
+        {
+          "language": "韩文",
+          "content": "내가 좀 도와줄까? 흠~ 우리 애들한테 고급 사료 사흘 치를 선물해 준다면, 한번 생각해 볼게! 어때, 괜찮은 조건이지? ……자 잠깐, 가지 마~! 농담이라구!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "想要我幫忙？哼哼，如果給小傢伙們提供三天高級餌食的話，我就考慮一下！怎麼樣，是不是挺划算......哎，等等，我開玩笑的，你別走啊！"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让一让，让一让，现在是豆苗培育中心的散步时间，请各位注意脚下，避免踩踏~"
+        },
+        {
+          "language": "日文",
+          "content": "どいたどいたー、ビーンストーク飼育センターのお散歩タイムだよ。うちの子たちを踏んじゃわないように、足元には気をつけてね～。"
+        },
+        {
+          "language": "英文",
+          "content": "Outta the way, outta the way~ Beanstalk Breeding Center coming right through! Watch your feet! Careful not to step on any of us~"
+        },
+        {
+          "language": "韩文",
+          "content": "자자 비키세요~ 빈스토크 육성 센터의 산책 시간이야. 우리 애들 밟지 않게, 발밑 조심해 줘~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "讓一讓，讓一讓，現在是豆苗培育中心的散步時間，請各位注意腳下，避免踩踏~"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哇！博士你怎么没告诉我那个卡达小姐也在罗德岛上啊！我可喜欢她的户外视频了！她还夸豆豆可爱，说下次摄影要带上豆豆呢！"
+        },
+        {
+          "language": "日文",
+          "content": "ちょっとドクター！あのカシャさんがロドスにいるなんて聞いてないんだけど！あの人のアウトドア動画、あたし大好きなの！しかもぴーちゃんを可愛いって褒めてくれたんだよ、今度の撮影にも連れてってくれるみたい！"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor! Click is here at Rhodes Island? I can't believe you haven't ever told me! I'm a huge fan of her outdoorsy videos! She called Pea cute, and she even said she'll bring Pea along the next time she goes on a shoot!"
+        },
+        {
+          "language": "韩文",
+          "content": "잠깐, 박사! 클릭 씨가 로도스 아일랜드에 있단 얘길 왜 안 해줬던 거야! 내가 그 사람 야방을 얼마나 좋아하는데! 게다가 콩이 보고 귀엽다고 칭찬도 해줬는걸! 다음 촬영에도 데려가 준다나 봐!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哇！博士你怎麼沒告訴我那個卡達小姐也在羅德島上啊！我太喜歡她的戶外影片了！她還誇豆豆可愛，說下次攝影要帶上豆豆呢！"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "现在好多人嚷嚷着要去淘矿，在荒野里乱挖一通就算了，还把大家住的地方挖得一团糟！要是再被我抓到那些乱来的混蛋，我一定要拿弩射他们的屁股！"
+        },
+        {
+          "language": "日文",
+          "content": "最近は採鉱に行きたいって鼻息を荒くして、荒野をそこら中掘り返すって人がいっぱいいるけど、みんなのお家までめちゃくちゃにするなんて！次に好き放題するお馬鹿たちを捕まえたら、今度こそクロスボウでお尻に穴を開けてやるんだから！"
+        },
+        {
+          "language": "英文",
+          "content": "There's been all these morons saying they'd go mining and then dug up a bunch of holes out in the wilderness. Fine, but how dare they make a mess of everyone's home! If I ever catch those bastards, I'm blowing a hole in their asses with my crossbow!"
+        },
+        {
+          "language": "韩文",
+          "content": "요즘 채광하러 가고 싶다며 난리 치면서 황야를 여기저기 파헤치는 사람이 잔뜩 있다던데, 다른 사람들 집까지 엉망진창으로 만들어 버린다지 뭐야?! 다음에 그 제멋대로 구는 바보들을 붙잡으면, 그땐 크로스보우로 엉덩이에 구멍을 뚫어줄 거야!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "現在好多人吵著要去淘礦，在荒野裡亂挖一通就算了，還把大家住的地方挖得一團糟！要是再被我抓到那些亂來的混蛋，我一定要拿弩射他們的屁股！"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，这次的培育计划书我写完啦，你看看吧！欸？经费算多了？......嘁，被发现了。啊呀，对不起，可能是我算错了吧！我再改一改~"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、今回の飼育計画書ができたよ、チェックよろしく！え？経費が多く計上されてる？……チッ、バレたか。いやー、ごめんね、たぶん計算ミスだと思う！直してくるねー。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, I'm done with my breeding proposal. Take a look, will ya? Huh? The budget doesn't add up...? Tsk, he found out, huh? Oh, my bad! I probably got the numbers messed up somewhere! I'll get it fixed right away~"
+        },
+        {
+          "language": "韩文",
+          "content": "박사~ 이번 사육 계획서를 완성했어, 검토 부탁해! 어? 경비가 많이 올랐다고? 쳇, 들켰나…… 아니야~ 미안해~ 어디 계산이 잘못됐나 보다! 고쳐올게~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，這次的培育計畫書我寫完啦，你看看吧！欸？經費算多了？......嘁，被發現了。啊呀，對不起，可能是我算錯了吧！我再改一改~"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "来罗德岛前，我也给不少公司投了不少简历，但都被拒绝了。可是博士你看，我的小家伙们既可以上战场又能做后勤运输，还有好多其他地方能帮上忙，拒绝我完全是那些老板没眼光，他们亏大了！"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスに来る前にもいろんな会社に応募したんだけど、全部落ちちゃったんだよね。でもほら、うちの子たちは戦場でも活躍するし、後方支援なら運搬なんか得意だし、あたしを落とすなんてあのお偉いさんたちはホンット見る目ないよ。大損だってわかんないのかな！"
+        },
+        {
+          "language": "英文",
+          "content": "Before I came to Rhodes Island, I sent my resume to so many companies out there, and they all turned me down. Well, just look at how helpful my little buddies are now, both in the battlefield and in logistics. Those big shots only have themselves to blame. It's their loss!"
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드에 오기 전에도 여러 회사에 지원했었지만, 전부 떨어졌어. 그렇지만 봐봐, 우리 애들은 전장에서도 활약하고, 후방 지원이라면 운반도 잘하는데…… 거기 높으신 분들은 정말 보는 눈이 없어도 너무 없다니까, 날 떨어뜨리는 건 엄청난 손해란 걸 모르나?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "來羅德島前，我也給不少公司投了不少簡歷，但都被拒絕了。可是博士你看，我的小傢伙們既可以上戰場又能在後勤運輸，還有好多其他地方幫上忙，拒絕我完全是那些老闆沒眼光，他們虧大了！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "豆豆呢，是我带来的这群磐蟹里最小也最聪明的一只，将来肯定会变得特别厉害~我的小家伙们和其他的普通磐蟹不一样，它们可聪明了，才不会被人随便操控呢！"
+        },
+        {
+          "language": "日文",
+          "content": "ぴーちゃんはね、あたしが連れてきたハガネガニの中では一番ちっちゃいけど、その分一番賢い子なんだよ。将来きっとすーごい子になると思う！他の子たちも普通のハガネガニと違ってみんな賢いから、そう簡単に操られたりなんかしないよ！"
+        },
+        {
+          "language": "英文",
+          "content": "You see, Pea may be the smallest of the Metal Crabs I brought with me, but she's also the brightest of the bunch! She's gonna be so amazing in the future~! My little buddies are nothing like the normal Metal Crabs out there. They're so smart! They won't be controlled by anyone out there so easily!"
+        },
+        {
+          "language": "韩文",
+          "content": "콩이는 있잖아, 내가 데려온 메탈 크랩 중에서는 가장 작지만, 그만큼 가장 똑똑한 아이야. 나중엔 분명 대단한 아이가 될 거야! 다른 애들도 평범한 메탈 크랩이랑은 다르게 모두 똑똑하니까, 그렇게 쉽게 조종할 순 없을걸!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "豆豆呢，是我帶來的這群磐蟹裡最小也最聰明的一隻，將來肯定會變得特別厲害~我的小傢伙們和其他的普通磐蟹不一樣，它們可聰明了，才不會被人隨便操控呢！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一、二、一、二，列队！防御，阻挡！......好，大家表现不错，这是奖励，吃吧吃吧~接下来换攻击动作——哇啊，博士，你什么时候来的，怎么走路都没声音的啊！"
+        },
+        {
+          "language": "日文",
+          "content": "一、二、一、二、全たーい、整列！防御体制、ブロック！……よし、みんなよくできたね！ご褒美だよ、たくさーん食べて～。よし、じゃあ次は攻撃体制――うわっ、ドクター、いつの間に来てたの！？足音なんて全然聞こえなかったよ！"
+        },
+        {
+          "language": "英文",
+          "content": "1, 2! 1, 2! Line up! Defense position, and block! Okay! All of you are doing amazing! Here's your reward. Eat up~! Let's switch it up now. Attac—Whoa, Doctor, how long've you been here? How come you're always so quiet when you walk?!"
+        },
+        {
+          "language": "韩文",
+          "content": "하나, 둘, 하나, 둘, 모두~ 정렬! 방어 태세, 저지하기! 좋아! 다들 잘했어! 상이야, 많이 먹어~ 좋아, 그럼 다음은 공격 태세…… 으앗, 박사, 언제 온 거야?! 발소리도 전혀 안 들렸어!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "一、二、一、二，列隊！防禦，阻擋！......好，大家表現不錯，這是獎勵，吃吧吃吧~接下來換攻擊動作——哇啊，博士，你什麼時候來的，怎麼走路都沒聲音的啊！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我家老爹不太赞成我养着这些小家伙们，嫌弃它们没用，不如养驮兽能赚钱。哼，我绝对会带着小家伙们闯出点名堂，到时候老爹一定也没话可说了！博士，要考虑一下投资我吗，包赚不亏哦~"
+        },
+        {
+          "language": "日文",
+          "content": "うちの父ちゃんは、この子たちを飼うことにあんまり賛成してくれなかったんだ。役に立たないから儲かる駄獣でも飼えってね。ふーんだ、あたしは絶対この子たちと一緒に名を上げて、父ちゃんも黙らせてやるんだから！ねぇドクター、あたしに投資なんてどうかな、儲けは保証するよ～。"
+        },
+        {
+          "language": "英文",
+          "content": "My old man doesn't really support me raising my little pals. He says they're useless, and that I'd be better off raising burdenbeasts. Hmph, I'm show him. I'll make it big with my buddies, and we'll see if he has anything to say then! Hey, Doctor, have you ever thought of investing in me? I guarantee you you'll be raking in lots of money!"
+        },
+        {
+          "language": "韩文",
+          "content": "우리 아빠는 이 아이들을 키우는 걸 그다지 찬성하진 않았어. “그런 건 도움도 안 되니까, 그냥 돈이 되는 버든비스트나 키워”, 막 이러면서 말이야. 흥! 나는 반드시 이 애들이랑 같이 유명해져서, 아빠도 아무 말 못 하게 만들 거야! 있잖아, 박사. 나한테 투자하는 건 어때? 수익은 확실히 난다니까~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我家老爹不太贊成我養著這些小傢伙們，嫌棄它們沒用，不如養馱獸能賺錢。哼，我絕對會帶著小傢伙們闖出點名堂，到時候老爹一定也沒話可說了！博士，要考慮一下投資我嗎，穩賺不虧哦~"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哎，回神了回神了，博士，工作时间不许开小差，要和豆豆一样做个乖孩子哦。"
+        },
+        {
+          "language": "日文",
+          "content": "はい、集中集中ー。ドクター、仕事中はぼーっとしちゃダメだよ。ぴーちゃんみたいにいい子にしないとね。"
+        },
+        {
+          "language": "英文",
+          "content": "Alright, focus! Doctor, you can't just space out while you're working. Take a look at what a good girl Pea is. Be more like her."
+        },
+        {
+          "language": "韩文",
+          "content": "자, 집중해, 집중~ 박사, 일하는 중에 멍하니 있으면 안 돼. 콩이처럼 착한 아이가 되어야지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "欸，回神了回神了，博士，工作時間不許偷懶，要和豆豆一樣做個乖孩子哦。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你好，博士，我是豆苗，从今天起加入......欸，包里？啊，这个小家伙叫豌豆黄。来，豆豆，和博士打个招呼吧。"
+        },
+        {
+          "language": "日文",
+          "content": "はじめまして、ドクター。あたしはビーンストーク、今日からここで……えっ、このケースの中身？ああ、この子はピーケーキっていうんだ。ほらぴーちゃん、ドクターに挨拶して。"
+        },
+        {
+          "language": "英文",
+          "content": "Hello, Doctor. My name's Beanstalk. Starting today, I'll be... Eh? What's in my case? Oh, this is Peacake. Here, Pea, say hi to the Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "반가워, 박사. 나는 빈스토크, 오늘부터 여기서… 어? 이 케이스 안에 뭐가 있냐고? 아, 이 아이는 콩떡이라고 해, 줄여서 콩이라 부르고 있어. 자~ 콩아, 박사한테 인사해야지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你好，博士，我是豆苗，從今天起加入......欸，包裡？啊，這個小傢伙叫豌豆黃。來，豆豆，和博士打個招呼吧。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哇哦帅欸！豆豆，看到没，要好好学习哦！"
+        },
+        {
+          "language": "日文",
+          "content": "わぁ、かっこいいね！ぴーちゃん、今の見た？ちゃんと覚えるんだよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Aha! That was awesome! Did you see that, Pea?"
+        },
+        {
+          "language": "韩文",
+          "content": "우와~ 멋있다~! 콩아, 지금 거 봤지? 제대로 기억해야 된다?!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哇哦帥欸！豆豆，看到沒，要好好學習哦！"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嘿，一定是因为上次作战时我们的表现太好，所以才给我们升职，对吧！"
+        },
+        {
+          "language": "日文",
+          "content": "へへ、やっぱりこないだの作戦で大活躍したから、昇進させてくれたんだね！"
+        },
+        {
+          "language": "英文",
+          "content": "Ehe, you're promoting us because of how well we did in the last operation, right?"
+        },
+        {
+          "language": "韩文",
+          "content": "헤헹~ 역시 얼마 전 작전에서 크게 활약했으니까, 그거 때문에 승진시켜 준 거지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嘿，一定是因為上次作戰時我們的表現太好，所以才給我們升職，對吧！"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，谢谢你愿意给我还有小家伙们证明自己的机会！客套话我就不多说啦，今后豆豆它们还会变得更厉害，一定会让你吃惊的！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、あたしとこの子たちに自分の価値を証明するチャンスをくれてありがとう！ご挨拶はこの辺にしといて、これからもぴーちゃんたちはもっともっとスゴくなって、ドクターを驚かせてあげるよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, thanks for giving me and my buddies a chance to prove ourselves! I'll cut the formalities. We'll get even more amazing than this! You're in for a surprise!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 나랑 이 애들한테 자기 가치를 증명할 기회를 줘서 고마워! 그럼 인사는 이쯤 해둘까? 앞으로도 콩이네 아이들은 더욱더 대단해져서, 박사를 놀라게 해줄 거야!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，謝謝你願意給我還有小傢伙們證明自己的機會！客套話我就不多說啦，今後豆豆它們還會變得更厲害，一定會讓你吃驚的！"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看我们大显身手~"
+        },
+        {
+          "language": "日文",
+          "content": "あたしたちの見せ場だ！"
+        },
+        {
+          "language": "英文",
+          "content": "It's our time to shine~"
+        },
+        {
+          "language": "韩文",
+          "content": "우리가 활약할 차례야!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "看我們大顯身手~"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好！这次大家都听我的！"
+        },
+        {
+          "language": "日文",
+          "content": "よし！みんな、あたしの言うことを聞いてもらうよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Alright! Everyone, do what I say!"
+        },
+        {
+          "language": "韩文",
+          "content": "좋아! 다들 내 말 잘 들어줘!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "好！這次大家都聽我的！"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "豆苗作战小队，出动！"
+        },
+        {
+          "language": "日文",
+          "content": "ビーンストーク小隊、出発！"
+        },
+        {
+          "language": "英文",
+          "content": "Team Beanstalk, here we go!"
+        },
+        {
+          "language": "韩文",
+          "content": "빈스토크 팀, 출발!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "豆苗作戰小隊，出動！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊呀，那些家伙就是这次的敌人？"
+        },
+        {
+          "language": "日文",
+          "content": "あれ、あの人たちが今回の敵？"
+        },
+        {
+          "language": "英文",
+          "content": "Huh? Are these who we're up against?"
+        },
+        {
+          "language": "韩文",
+          "content": "그러니까… 저 사람들이 이번 적이야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "啊呀，那些傢伙就是這次的敵人？"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "来了来了。"
+        },
+        {
+          "language": "日文",
+          "content": "きたきた。"
+        },
+        {
+          "language": "英文",
+          "content": "Here you are."
+        },
+        {
+          "language": "韩文",
+          "content": "왔다, 왔어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "來了來了。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "准备着呢~"
+        },
+        {
+          "language": "日文",
+          "content": "準備万端だよ～。"
+        },
+        {
+          "language": "英文",
+          "content": "All ready to go~"
+        },
+        {
+          "language": "韩文",
+          "content": "준비 완료야~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "準備著呢~"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "去吧，让他们见识一下我们的实力！"
+        },
+        {
+          "language": "日文",
+          "content": "行け！あたしたちの実力を見せてあげよう！"
+        },
+        {
+          "language": "英文",
+          "content": "Go! Show them what we've got!"
+        },
+        {
+          "language": "韩文",
+          "content": "가자! 우리의 실력을 보여주는 거야!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "去吧，讓他們見識一下我們的實力！"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "上了哦！"
+        },
+        {
+          "language": "日文",
+          "content": "行くよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Let's go!"
+        },
+        {
+          "language": "韩文",
+          "content": "간다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "上了哦！"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嘿嘿，打不着我~"
+        },
+        {
+          "language": "日文",
+          "content": "へへ、あたらないよー！"
+        },
+        {
+          "language": "英文",
+          "content": "Hehe, you can't hit me~"
+        },
+        {
+          "language": "韩文",
+          "content": "헤헹~ 안 맞지롱~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嘿嘿，打不到我~"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "拦住他们！"
+        },
+        {
+          "language": "日文",
+          "content": "あいつらを止めて！"
+        },
+        {
+          "language": "英文",
+          "content": "Stop them!"
+        },
+        {
+          "language": "韩文",
+          "content": "저 녀석들을 막아!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "攔住他們！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不会让你们过去的！"
+        },
+        {
+          "language": "日文",
+          "content": "ここは通さないよ！"
+        },
+        {
+          "language": "英文",
+          "content": "I won't let you get past us!"
+        },
+        {
+          "language": "韩文",
+          "content": "여기는 못 지나가!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不會讓你們過去的！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "混蛋，不许欺负我的小家伙们！"
+        },
+        {
+          "language": "日文",
+          "content": "このお馬鹿！うちの子たちをいじめないで！"
+        },
+        {
+          "language": "英文",
+          "content": "You assholes! I won't let you hurt my buddies!"
+        },
+        {
+          "language": "韩文",
+          "content": "이 멍청아! 우리 아이들 괴롭히지 마!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "混蛋，不許欺負我的小傢伙們！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哼哼，全都不是我们的对手~"
+        },
+        {
+          "language": "日文",
+          "content": "ふふん、あんなのあたしたちの敵じゃないよ～。"
+        },
+        {
+          "language": "英文",
+          "content": "Hehe, you guys are no match for us~"
+        },
+        {
+          "language": "韩文",
+          "content": "후훗, 저런 건 우리들의 적이 아니지~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哼哼，全都不是我們的對手~"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "任务完成~怎么样，我的小家伙们表现不错吧！"
+        },
+        {
+          "language": "日文",
+          "content": "任務完了～どう、うちの子たちもよくやったでしょ！"
+        },
+        {
+          "language": "英文",
+          "content": "Mission complete~! How's that? My buddies did great, huh?"
+        },
+        {
+          "language": "韩文",
+          "content": "임무 완료~ 어때, 우리 애들도 되게 잘했지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "任務完成~怎麼樣，我的小傢伙們表現不錯吧！"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊，有人跑了！博士你等等，我现在就去追！"
+        },
+        {
+          "language": "日文",
+          "content": "あー、逃げた奴がいる！待っててドクター、今追いかけるから！"
+        },
+        {
+          "language": "英文",
+          "content": "Oh, some of them got through! Wait here, Doctor. I'll go after them!"
+        },
+        {
+          "language": "韩文",
+          "content": "아! 도망간 녀석이 있어! 기다려 박사, 지금 쫓아갈 테니까!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "啊，有人跑了！博士你等等，我現在就去追！"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呜，大家不哭，下次我一定帮你们揍那些混蛋！"
+        },
+        {
+          "language": "日文",
+          "content": "うぅ、泣かないでみんな、今度は絶対あのお馬鹿たちをぶん殴ってあげるから！"
+        },
+        {
+          "language": "英文",
+          "content": "*Sob*. It's okay, everyone. Don't cry. I'll beat those jackasses up next time!"
+        },
+        {
+          "language": "韩文",
+          "content": "으으, 다들 울지마…… 다음엔 반드시 저 멍청이들을 두들겨 패 줄 테니까!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗚，大家不哭，下次我一定幫你們揍那些混蛋！"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我随便住哪儿都行，培育室呢？培育室在哪里？"
+        },
+        {
+          "language": "日文",
+          "content": "あたしの寝るとこはどこでもいいけど、飼育室は？飼育室はどこ？"
+        },
+        {
+          "language": "英文",
+          "content": "I don't mind sleeping anywhere. Where's the breeding room, though?"
+        },
+        {
+          "language": "韩文",
+          "content": "내가 자는 곳은 어디라도 상관없지만, 사육실은? 사육실은 어디야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我隨便住哪裡都行，培育室呢？培育室在哪裡？"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "干嘛，别扯我的发带呀！"
+        },
+        {
+          "language": "日文",
+          "content": "何すんの、リボンを引っ張らないでよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Why'd you do that? Stop pulling my ribbon!"
+        },
+        {
+          "language": "韩文",
+          "content": "뭐 하는 거야, 리본 잡아당기지 마!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "幹嘛，別扯我的髮帶呀！"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯？怎么啦，要摸摸豆豆吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ん？どうしたの、もしかしてぴーちゃんに触りたい？"
+        },
+        {
+          "language": "英文",
+          "content": "Hm? What's up? Wanna pet Pea?"
+        },
+        {
+          "language": "韩文",
+          "content": "응? 왜? 혹시…… 콩이 만져보고 싶어서 그래?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯？怎麼啦，要摸摸豆豆嗎？"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "新年快乐哦博士。我的新年愿望是，豆苗培育公司在今年顺利成立！如果博士可以给予我一点小小的帮助的话，我工作时也会更努力的！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哟~在干嘛呢，博士？"
+        },
+        {
+          "language": "日文",
+          "content": "やほードクター、何してるの？"
+        },
+        {
+          "language": "英文",
+          "content": "Yo~ Whatcha doing, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "야호~ 박사, 뭐 하고 있어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "喲~在幹嘛呢，博士？"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛的宴会一如既往地热闹呢，可是什么时候能在罗德岛举办宠物大赛呢？比比谁的宠物能做到更多事，或者单纯的人气比拼这样。宠物对战？博士！你的想法太暴力啦！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

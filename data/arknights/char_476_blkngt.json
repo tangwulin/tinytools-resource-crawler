@@ -1,0 +1,987 @@
+{
+  "name": "夜半",
+  "charaKey": "char_476_blkngt",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_476_blkngt"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_476_blkngt"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_476_blkngt"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_476_blkngt"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "资料都整理好了。嗯？很快吗？上回你干活的时候，我又没在打瞌睡。你的工作习惯，我都记在脑子里了。"
+        },
+        {
+          "language": "日文",
+          "content": "資料のまとめ、全部できたよ。え？早い？こないだ君が仕事してる時、こっちだって寝てたわけじゃないんだから。君のワークフローくらい全部頭に入ってるって。"
+        },
+        {
+          "language": "英文",
+          "content": "Your files are all fully sorted. Hm? Was that fast? I wasn't dozing off on your last shift, after all. I have your whole workflow noted right inside my head."
+        },
+        {
+          "language": "韩文",
+          "content": "자료 정리, 전부 끝났어. 응? 빠르다고? 저번에 네가 일할 때, 나도 졸고만 있던 건 아니니까. 네 업무 습관 정도는 전부 머리에 들어 있거든."
+        },
+        {
+          "language": "繁体中文",
+          "content": "資料都整理好了。嗯？很快嗎？上回你幹活的時候，我又沒在打瞌睡。你的工作習慣，我都記在腦子裡了。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别动！你碰到我的机关了，再动一下，这箭就会射穿你的脑袋。想知道一堆机关围着怎么睡觉？奇怪的问题，要是没了这些宝贝，我才睡不着。"
+        },
+        {
+          "language": "日文",
+          "content": "ストップ！仕掛けに触れちゃってる、それ以上動けば脳天貫かれるよ。これだけの仕掛けに囲まれながらどうやって寝てるのかって？何その質問。この子たちがいなきゃ私は逆に眠れないよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Stop! You're triggering one of my traps. Move any further, and a bolt will blow your brains out. How could I fall asleep surrounded by traps? That's a strange question. I couldn't sleep at all without these little trinkets around me."
+        },
+        {
+          "language": "韩文",
+          "content": "스톱! 트랩에 닿았잖아. 그 이상 움직이면 화살에 정수리가 꿰뚫릴 거야. 이 정도나 되는 트랩에 둘러싸여서 어떻게 자냐고? 무슨 질문이 그래. 난 오히려 얘네들이 없으면 잠이 안 온다고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別動！你碰到我的機關了，再動一下，這箭就會射穿你的腦袋。想知道一堆機關圍著怎麼睡覺？奇怪的問題，要是沒了這些寶貝，我才睡不著。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们从莱塔尼亚贵族老爷们手里抢走的，本来就是他们从这片土地上攫取的。我们是荒地的孩子，但也懂点道理。龙门商队会行好事，叙拉古人讲规矩，我都管着大家不去碰。"
+        },
+        {
+          "language": "日文",
+          "content": "私たちがリターニアの貴族サマから奪い取ったのは、元々あいつらがこの大地から掠め取ったものだよ。私たちは荒野育ちだけど、道理くらいわきまえてる。龍門人は人情に篤いし、シラクーザ人は掟を守るから、そういう人たちには手を出さないように私が目を光らせてるよ。"
+        },
+        {
+          "language": "英文",
+          "content": "What we stole from the Leithanian nobles, they plundered from the land before that. We're the children of the wilds, but we are not unreasonable. Lungmen traders do good to others, and Siracusans keep to the rules, so I told my team not to lay a finger on them."
+        },
+        {
+          "language": "韩文",
+          "content": "우리가 라이타니엔의 귀족 나리에게 훔쳐 온 건, 원래 놈들이 이 땅에서 훔쳐간 거야. 우리는 황야에서 자랐지만, 도리 정도는 구분할 줄 안다고. 용문 사람은 정이 많고, 시라쿠사 사람은 규칙을 지키니까, 그런 사람들에겐 손대지 않게 내가 눈 똑바로 뜨고 지켜보고 있어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我們從萊塔尼亞貴族老爺們手裡搶走的，本來就是他們從這片土地上攫取的。我們是荒地的孩子，但也懂點道理。龍門商隊會行好事，敘拉古人講規矩，我都管著大家不去碰。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那个叫老鲤的，也在你们这里？上回不小心着了他的道，我想再跟他比划比划。放心，你告诉他，我对他身上那些叮呤咣啷的玩意都没兴趣。"
+        },
+        {
+          "language": "日文",
+          "content": "あのリーって奴も、ここにいるの？前にうっかりしてやられたから、リベンジしたいんだけど。ああ安心して、私はあいつが身につけてるチャラチャラしたものには興味ないから。あいつにも伝えといて。"
+        },
+        {
+          "language": "英文",
+          "content": "Is that Lee guy here too? He got me when I was careless, and now I want a rematch. No, no need to worry, none of the trinkets he carries interest me. You go tell him as much."
+        },
+        {
+          "language": "韩文",
+          "content": "그 리라는 녀석도, 여기 있는 거야? 전에 이상한 수법에 걸린 바람에 져버려서, 다시 겨뤄보고 싶은데. 아아 안심해, 나는 그 녀석 몸에 걸친 짤랑거리는 것은 관심 없다고 전해 둬."
+        },
+        {
+          "language": "繁体中文",
+          "content": "那個叫老鯉的，也在你們這裡？上回不小心著了他的道，我想再跟他比劃比劃。放心，你告訴他，我對他身上那些叮呤咣啷的玩意都沒興趣。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "感染者？只有城市里的人才会这么称呼自己。在那片广阔又危险的荒原上，无论是野兽还是我们，只要能活下来，就都是强者。"
+        },
+        {
+          "language": "日文",
+          "content": "感染者？そんな風に名乗るのは都会の人だけでしょ。どこまでも広がる危険な荒野じゃ、野獣だって人間だって、生き残った奴はみんな強者って呼ばれるんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Infected? Only city people would call themselves that. In the endless and cutthroat wilds, whether beast or human, survival means you can call yourself the strongest."
+        },
+        {
+          "language": "韩文",
+          "content": "감염자? 그런 식으로 이름 붙이는 건 도시 사람 뿐이잖아. 끝도 없는 위험이 도사리는 황야에선 야수든 사람이든, 살아남는 놈은 모두 강자라고 불려."
+        },
+        {
+          "language": "繁体中文",
+          "content": "感染者？只有城市裡的人才會這麼稱呼自己。在那片廣闊又危險的荒原上，無論是野獸還是我們，只要能活下來，就都是強者。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "荒原对很多人来说是很恐怖的地方，对我来说却是家。我犯过一个错误，家也因此散了，只剩下眠兽们陪着我流浪。同样的错误，我绝不会犯第二次。"
+        },
+        {
+          "language": "日文",
+          "content": "荒野は怖いところって思ってる人は多いけど、私にとっては帰る家なんだ。だけどたった一度の失敗で、私はその家を失って、眠獣たちと共に流浪の旅に出ることを余儀なくされた。同じような過ちは、もう二度と犯さないよ。"
+        },
+        {
+          "language": "英文",
+          "content": "There's plenty who think the wilds are a frightening place, but to me, they were my home. I made a mistake once. It torn my family apart,  and these slumberfoots are the only ones left to roam with me. I'll never make a mistake like it again."
+        },
+        {
+          "language": "韩文",
+          "content": "황야가 무서운 곳이라고 생각하는 사람은 많지만, 내게는 돌아갈 집이야. 하지만 단 한 번의 실패로 나는 그 집을 잃었고, 어쩔 수 없이 슬럼버풋들과 함께 유랑의 길을 떠나게 됐지. 같은 실수는, 이제 두번 다시 저지르지 않아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "荒原對很多人來說是很恐怖的地方，對我來說卻是家。我犯過一個錯誤，家也因此散了，只剩下眠獸們陪著我流浪。同樣的錯誤，我絕不會犯第二次。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "夜半这个名字，是一个炎国说书人给我起的。过去我们总在入夜后行动，趁商队的人昏昏欲睡，打他们一个措手不及。我和我的眠兽们，取走了他们的钱财，也“吃”掉了他们的梦。"
+        },
+        {
+          "language": "日文",
+          "content": "ブラックナイトって名前は、炎国の講談師がつけてくれたんだ。昔はいつも夜中に行動して、商隊がぐっすり寝てる間に不意打ちを仕掛けてたから。私と眠獣たちであいつらを追い剥ぎして、夢まで「喰らって」やってたんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "The name Blacknight was given to me by a Yan storyteller. I always used to do my work at night, pulling the floor from under them when those merchants were drowsy. Me and my slumberfoots would take away their wealth, and 'devour' their dreams too."
+        },
+        {
+          "language": "韩文",
+          "content": "블랙 나이트란 이름은, 염국의 이야기꾼이 지어준 거야. 옛날엔 모두 한밤중에 행동해서, 상인들이 푹 잠든 틈에 기습했으니까. 나도 슬럼버풋들로 녀석들을 털고, 꿈까지 '잡아먹어' 버렸지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "夜半這個名字，是一個炎國說書人給我起的。過去我們總在入夜後行動，趁商隊的人昏昏欲睡，打他們一個措手不及。我和我的眠獸們，取走了他們的錢財，也“吃”掉了他們的夢。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别对我这么好......指不定什么时候我的弩就会顶在你脑袋上。怎么，你不信我是这样的人？不信就不信吧，我是没什么兴趣对付你这种身上没钱的好人。"
+        },
+        {
+          "language": "日文",
+          "content": "私に、そんな親切にしないで……いつ君の頭にこのクロスボウを突きつけるかわからないんだから。そういう人だとは思えない？思えないなら思えないでいいよ、こっちだって君みたいに貧乏なお人好しに付き合う趣味はないから。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't act so nice to me... you never know when my crossbow will be aimed at your head. You don't believe I'm like that? Up to you, then. I've got no interest in dealing with a penniless good guy."
+        },
+        {
+          "language": "韩文",
+          "content": "내게, 그렇게 친절하게 굴지마…… 언제 네 머리에 이 크로스보우를 들이댈지 모르니까. 그럴 만한 사람이라고 생각 안 해? 아니라면 그걸로 됐어, 나도 너처럼 빈곤하고 선량한 사람과 어울리는 취미는 없으니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別對我這麼好......指不定什麼時候我的弩就會頂在你腦袋上。怎麼，你不信我是這樣的人？不信就不信吧，我是沒什麼興趣對付你這種身上沒錢的好人。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "他们叫我一声老大，我就会保护他们，让他们有饭吃，有地方睡。而只要我一天没有赢过你，你就始终是我老大，我会护你性命，供你差遣。"
+        },
+        {
+          "language": "日文",
+          "content": "あいつらにボスって呼ばれたから、私はボスとしてあいつらを守って、食事や寝床も確保してあげてたんだ。だけど今は、君に勝たない限り私のボスは君だよ。命を守ってあげるのはもちろん、命令にだって従うから。"
+        },
+        {
+          "language": "英文",
+          "content": "They called me their boss. So I protected them, gave them food and a place to rest. But now, for as long as I haven't beaten you, you're my boss. I'll protect you, and I'll follow your orders."
+        },
+        {
+          "language": "韩文",
+          "content": "녀석들이 보스라 불러줬으니까, 나는 보스로서 녀석들을 지켜주고, 식사나 잠자리도 확보해 줬지. 그래도 지금은, 널 이기기 전까지 내 보스는 너야. 목숨을 지켜주는 건 물론, 명령에도 따를 거라고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "他們叫我一聲老大，我就會保護他們，讓他們有飯吃，有地方睡。而只要我一天沒有贏過你，你就始終是我老大，我會護你性命，供你差遣。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......抱着小帽睡着了？阿灯，把毯子取过来，动静小一些。"
+        },
+        {
+          "language": "日文",
+          "content": "……メットを抱きながら寝ちゃったの？ライト、毛布取ってきて。物音立てないようにね。"
+        },
+        {
+          "language": "英文",
+          "content": "...Fell asleep hugging Helmet? Light, bring a blanket over. Keep your movements low."
+        },
+        {
+          "language": "韩文",
+          "content": "……헬멧을 안고 잠든 거야? 라이트, 모포 가져다 줘. 소리 안 나게 조심하고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "......抱著小帽睡著了？阿燈，把毯子取過來，動靜小一些。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你就是罗德岛上最强的战术家？我叫夜半，麻烦跟我较量一下。要是我输了的话，以后你就是我老大，要负责好好教我的。"
+        },
+        {
+          "language": "日文",
+          "content": "君がロドス最強の戦術家？私はブラックナイト、早速だけど対決してちょうだい。もしこっちが負けたら、君はその時点から私のボス。しっかり鍛えてもらうよ。"
+        },
+        {
+          "language": "英文",
+          "content": "You're the best tactician on Rhodes Island? I'm Blacknight, and excuse me but we're going to need a showdown. If I lose, you'll be my boss from then on, and I ask to be trained properly."
+        },
+        {
+          "language": "韩文",
+          "content": "네가 로도스 아일랜드 최강의 전술가야? 나는 블랙 나이트, 갑작스럽지만 나와 대결해줘. 혹시 내가 진다면, 너는 그 시점부터 내 보스야. 그땐 책임지고 잘 가르쳐 줘."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你就是羅德島上最強的戰術家？我叫夜半，麻煩跟我較量一下。要是我輸了的話，以後你就是我老大，要負責好好教我的。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯，都记住了。还有别的吗？"
+        },
+        {
+          "language": "日文",
+          "content": "うん、全部覚えた。まだ他にある？"
+        },
+        {
+          "language": "英文",
+          "content": "Mm, all memorized. Anything else?"
+        },
+        {
+          "language": "韩文",
+          "content": "응, 전부 기억했어. 다른 거 더 있어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯，都記住了。還有別的嗎？"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不怕我拿了赏钱就跑？开玩笑的。再说了，就你们这勋章，看起来也不值几个钱啊。"
+        },
+        {
+          "language": "日文",
+          "content": "私が昇進祝いだけ受け取って消えるかもって思わないの？はぁ、冗談だよ。それに、こんなメダルなんてどう見ても大した金にならないでしょ。"
+        },
+        {
+          "language": "英文",
+          "content": "You're not worried I'll take the bonus and run? I'm joking. For that matter, a badge like this won't fetch any real money anyway."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 승진 축하만 받고 사라질 수도 있다고 생각 안 해? 하아, 농담이야. 게다가, 이런 메달 같은 건 아무리 봐도 별로 돈이 안 되잖아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "不怕我拿了賞錢就跑？開玩笑的。再說了，就你們這勳章，看起來也不值幾個錢啊。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "干活拿钱，我爸妈过去在雷姆必拓过的也是这样的日子吧？挺好的，不过，我不会让我的弩生锈。"
+        },
+        {
+          "language": "日文",
+          "content": "働いて生計を立てる――私の両親も昔レム・ビリトンでそういう生活をしてたのかな？悪くないけど、私のクロスボウを錆びさせるわけにはいかないよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Work and earn a living. I wonder if my parents lived a life like this in Rim Billiton? It's fine, but I'm not letting my crossbow rust."
+        },
+        {
+          "language": "韩文",
+          "content": "일해서 생계를 유지한다…… 내 부모님도 예전 림 빌리턴에서 그런 생활을 했던 걸까? 나쁘진 않지만, 내 크로스보우를 녹슬게 할 수는 없어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "幹活拿錢，我爸媽過去在雷姆必拓過的也是這樣的日子吧？挺好的，不過，我不會讓我的弩生銹。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "刚好，我也不想闲着。"
+        },
+        {
+          "language": "日文",
+          "content": "ちょうどよかった、暇してるところだったから。"
+        },
+        {
+          "language": "英文",
+          "content": "Good timing. I need something to do."
+        },
+        {
+          "language": "韩文",
+          "content": "마침 잘됐네, 한가한 참이었거든."
+        },
+        {
+          "language": "繁体中文",
+          "content": "剛好，我也不想閒著。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让我带队？那就等着看我的表现吧。"
+        },
+        {
+          "language": "日文",
+          "content": "私が引率？じゃあまぁ見といて。"
+        },
+        {
+          "language": "英文",
+          "content": "You want me leading? Then you'll want to watch how I do it."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 인솔하라고? 뭐 그러면 잘 봐 둬."
+        },
+        {
+          "language": "繁体中文",
+          "content": "讓我帶隊？那就等著看我的表現吧。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "听好了，小家伙们，待会上了战场，你们也要听博士的。"
+        },
+        {
+          "language": "日文",
+          "content": "いい、ちびっ子たち。戦場ではあんたたちもドクターに従うようにね。"
+        },
+        {
+          "language": "英文",
+          "content": "Listen up, darlings. Once we're on the battlefield, you need to listen to the Doctor too."
+        },
+        {
+          "language": "韩文",
+          "content": "좋아, 꼬맹이들. 전장에선 너희들도 박사를 따르도록 해."
+        },
+        {
+          "language": "繁体中文",
+          "content": "聽好了，小傢伙們，待會上了戰場，你們也要聽博士的。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "想跑吗？跑之前，记得把值钱的东西留下。"
+        },
+        {
+          "language": "日文",
+          "content": "逃げたい？じゃその前に金目の物は置いてってもらうよ。"
+        },
+        {
+          "language": "英文",
+          "content": "You want to run? Before you do, remember to leave your valuables behind."
+        },
+        {
+          "language": "韩文",
+          "content": "도망치고 싶어? 그럼 그 전에 돈 되는 건 놔두고 가."
+        },
+        {
+          "language": "繁体中文",
+          "content": "想跑嗎？跑之前，記得把值錢的東西留下。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我在你旁边，别出声。"
+        },
+        {
+          "language": "日文",
+          "content": "すぐ側にいる、声を出さないで。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm right by you. Don't make a sound."
+        },
+        {
+          "language": "韩文",
+          "content": "바로 옆에 있어, 소리 내지 마."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我在你旁邊，別出聲。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明白，按之前说好的来。"
+        },
+        {
+          "language": "日文",
+          "content": "了解、じゃあ計画通りに。"
+        },
+        {
+          "language": "英文",
+          "content": "Understood. Just as planned, then."
+        },
+        {
+          "language": "韩文",
+          "content": "확인, 그럼 계획대로 가자."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明白，按之前說好的來。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我去那边。"
+        },
+        {
+          "language": "日文",
+          "content": "あっちに行く。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm heading that way."
+        },
+        {
+          "language": "韩文",
+          "content": "저쪽으로 갈게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我去那邊。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "先解决这一路。"
+        },
+        {
+          "language": "日文",
+          "content": "まずはこっちを片付ける。"
+        },
+        {
+          "language": "英文",
+          "content": "Let's clear this path up first."
+        },
+        {
+          "language": "韩文",
+          "content": "우선 여기를 정리하겠어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "先解決這一路。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小帽，左路诱敌！"
+        },
+        {
+          "language": "日文",
+          "content": "メット、敵を左に引きつけて！"
+        },
+        {
+          "language": "英文",
+          "content": "Helmet, lure the enemy left!"
+        },
+        {
+          "language": "韩文",
+          "content": "헬멧, 적을 왼쪽으로 유인해!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "小帽，左路誘敵！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "阿灯，骚扰最近的敌人！"
+        },
+        {
+          "language": "日文",
+          "content": "ライト、付近の敵を妨害！"
+        },
+        {
+          "language": "英文",
+          "content": "Light, harass the closest enemy!"
+        },
+        {
+          "language": "韩文",
+          "content": "라이트, 근처의 적을 방해해!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "阿燈，騷擾最近的敵人！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "车车，把雷送到草丛里去！"
+        },
+        {
+          "language": "日文",
+          "content": "カート、草むらに地雷を仕掛けて！"
+        },
+        {
+          "language": "英文",
+          "content": "Cart, set mines in the bushes!"
+        },
+        {
+          "language": "韩文",
+          "content": "카트, 풀숲에 지뢰를 설치해!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "車車，把雷送到草叢裡去！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "钻头，开洞！"
+        },
+        {
+          "language": "日文",
+          "content": "ドリル、穴を開けて！"
+        },
+        {
+          "language": "英文",
+          "content": "Drill, open a hole!"
+        },
+        {
+          "language": "韩文",
+          "content": "드릴, 구멍을 뚫어!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "鑽頭，開洞！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我和小家伙们干得怎么样？你就不想表扬我一下吗？"
+        },
+        {
+          "language": "日文",
+          "content": "私とちびっ子たちの戦いっぷりはどうだった？褒めてくれないの？"
+        },
+        {
+          "language": "英文",
+          "content": "How'd me and the darlings do? No compliments for us?"
+        },
+        {
+          "language": "韩文",
+          "content": "나랑 꼬맹이들이 싸우는 모습은 어땠어? 칭찬 안 해 주는 거야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我和小傢伙們幹得怎麼樣？你就不想表揚我一下嗎？"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不错嘛，我又学到了几招。"
+        },
+        {
+          "language": "日文",
+          "content": "いいね、また勉強になったよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Not bad! I've learned some more moves."
+        },
+        {
+          "language": "韩文",
+          "content": "좋네, 또 공부가 됐어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "不錯嘛，我又學到了幾招。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我带人去下一个路口，争取收拾干净。"
+        },
+        {
+          "language": "日文",
+          "content": "仲間を連れて次の路地まで追ってみる、綺麗に片付けなきゃ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll take a few to the next crossing. We need to get this cleaned up."
+        },
+        {
+          "language": "韩文",
+          "content": "동료를 데리고 다음 골목까지 쫓아가 볼게, 깨끗하게 청소해야 하니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我帶人去下一個路口，爭取收拾乾淨。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不行，你得离开这里！听我的，别中敌人圈套，我们回去想个更好的对策再来......"
+        },
+        {
+          "language": "日文",
+          "content": "まずい、君はここから離れて！いいから、このままだと敵の思うつぼだよ。リベンジは戻ってもっといい対策を考えてから……"
+        },
+        {
+          "language": "英文",
+          "content": "No, you have to get out of here! Do as I said, or the enemy will have you trapped. We'll retreat for now and think of a better way to fight back."
+        },
+        {
+          "language": "韩文",
+          "content": "안돼, 넌 여기서 물러나! 내 말을 들어, 이대로라면 적이 의도한 대로야, 돌아가서 더 좋은 대책을 생각하고 다시 오자……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不行，你得離開這裡！聽我的，別中敵人圈套，我們回去想個更好的對策再來......"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "憋在屋子里，果然不如头顶夜空来得自在啊。"
+        },
+        {
+          "language": "日文",
+          "content": "部屋にこもってるより、やっぱり夜空の下にいる方が開放感があるね。"
+        },
+        {
+          "language": "英文",
+          "content": "Roaming under the night sky is just one hundred times better than getting shut in here."
+        },
+        {
+          "language": "韩文",
+          "content": "방에 틀어박혀 있는 것 보다, 역시 밤하늘 아래 있는 편이 개방감이 있네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "憋在屋子裡，果然不如頭頂夜空來得自在啊。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "谁？！"
+        },
+        {
+          "language": "日文",
+          "content": "誰だっ！？"
+        },
+        {
+          "language": "英文",
+          "content": "Who was that?!"
+        },
+        {
+          "language": "韩文",
+          "content": "누구야!?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "誰？！"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "累了？小帽借你抱一会儿，明天早上记得还给我。"
+        },
+        {
+          "language": "日文",
+          "content": "疲れた？じゃあメットを貸してあげるから抱いて寝るといいよ。明日の朝には返してね。"
+        },
+        {
+          "language": "英文",
+          "content": "Tired? You can have Helmet to hug for a little bit, then. At least until tomorrow."
+        },
+        {
+          "language": "韩文",
+          "content": "지쳤어? 그럼 헬멧을 빌려줄 테니까 안고 자도 돼. 내일 아침에 돌려줘."
+        },
+        {
+          "language": "繁体中文",
+          "content": "累了？小帽借你抱一會兒，明天早上記得還給我。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "今天是新年啊，等冬天过去，商道上的队伍又会变多，换作往常，我们就该做一单大的，让贵族老爷们支援点好吃的好喝的，来庆祝一下了。现在这么舒服，不知道什么时候才能把那群孩子都接来。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "喂，小帽，不准在走廊上乱跑！别以为蹿进别人怀里我就会看不见......好吧，看在博士的分上，饶你一次。"
+        },
+        {
+          "language": "日文",
+          "content": "ちょっとメット、通路で暴れ回らないで！人の懐に潜り込んで隠れるなんて甘い……って、まあいいや、ドクターの顔に免じて許してあげる。"
+        },
+        {
+          "language": "英文",
+          "content": "Hey, Helmet, no running about in the corridor! Don't think I can't see you just because you're hiding in someone's arms... oh, fine, I'll let you off, for Doctor's sake."
+        },
+        {
+          "language": "韩文",
+          "content": "잠깐만 헬멧, 통로에서 날뛰지 마! 사람 품에 몰래 들어가서 숨다니 어설프…… 아니, 뭐 됐어, 박사의 얼굴을 봐서 용서해 줄게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "喂，小帽，不准在走廊上亂跑！別以為躥進別人懷裡我就會看不見......好吧，看在博士的份上，饒你一次。"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我还记得小时候家里的炉火，妈妈的怀抱，爸爸送的手工小兽。后来我离开了荒地，再一次失去了自己的家。我知道在能力变得更强之前，我无法保护好我想守护的人，所以，我不会停下自己的脚步。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

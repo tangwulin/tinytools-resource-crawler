@@ -1,0 +1,823 @@
+{
+  "name": "深律",
+  "charaKey": "char_4109_baslin",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4109_baslin"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4109_baslin"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4109_baslin"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_4109_baslin"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "文件已经堆这么高了。您如果在纠结该怎么处理，我可以帮忙......抱歉，我应该待在旁边，等您有需要的时候叫我。"
+        },
+        {
+          "language": "日文",
+          "content": "書類がこんなにうず高く積み上がって……もし処理にお困りなら、僕が代わりに――失礼、黙って待機しているべきでしたね。必要になればお声がけください。"
+        },
+        {
+          "language": "英文",
+          "content": "That's a huge stack of documents... I can lend you a hand if you're struggling to clear them, Doctor… Oh, sorry. I should be on standby waiting for your request."
+        },
+        {
+          "language": "韩文",
+          "content": "문서들이 이렇게 잔뜩 쌓여 있다니. 정리가 힘드신 거라면 제가 도와드릴…… 이런, 실례했습니다, 옆에 있을 테니 제가 필요한 일이 있다면 언제든 불러 주세요."
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "赫琳玛特并不介意莱塔尼亚人怎样看她，我也不是替她矫饰的文官，只是待在一起的时间长了，能在非正式的场合，替她说一些她不方便说的话，见一些她不方便见的人。"
+        },
+        {
+          "language": "日文",
+          "content": "グリムマハトはリターニア人からどう見られているのかなど気にしていませんし、僕も彼女の体面を取り繕うための文官ではありません。ただ、一緒に過ごす時間が長いので、非公式の場では便宜のために代弁を務めたり、面会を代行したりしているだけです。"
+        },
+        {
+          "language": "英文",
+          "content": "Hildegard doesn't care how Leithanians think of her, and I'm not some civil servant mincing words for her. It's just that we've been together for a long time now, so I'm able to stand in for her on unofficial occasions, to speak words she's not at liberty to speak, or meet people unsuitable for her to see."
+        },
+        {
+          "language": "韩文",
+          "content": "그리마흐트 님은 라이타니엔 사람들이 자신을 어떻게 생각하는지 신경 쓰지 않아요. 저도 그 사람의 평판을 관리하는 문관 같은 게 아니었고요. 다만 함께 지낸 시간이 길어지다 보니, 비공식적인 자리에서 할 말을 대신해 주거나 만나기 불편한 사람을 대신 만나주게 된 것뿐이에요."
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "刚刚过去的是费德里科吧......他也是那种好好说话仿佛会有害健康的人。但相处久了，你其实能明白他们在困惑什么、追求什么。我的经验是，冷场的次数多了就习惯了。"
+        },
+        {
+          "language": "日文",
+          "content": "今通りかかったのはフェデリコさんでしょうか……彼もまた、余計な言葉は身体に毒だと思ってそうなお人ですよね。しかし、そういった方たちでも付き合いが長くなれば、本人たちが内心で何に戸惑い、何を求めているのか分かってくるものです。僕の経験則では、何度か場をしらけさせられていれば、そのうちコツが掴めますよ。"
+        },
+        {
+          "language": "英文",
+          "content": "That must have been Federico earlier... He's also the type to think of normal conversation as stepping on glass. But once you know them long enough, you'll be able to understand what they're perplexed with, or what they're chasing after. My advice? Get used to awkward silence."
+        },
+        {
+          "language": "韩文",
+          "content": "방금 지나가신 분은 페데리코 씨죠? 저분도 불필요한 말은 오히려 독이 된다고 여기는 분이시던데…… 하지만 저런 분들과 오래 교류하다 보면 나중엔 그들이 어떤 고민을 안고 있는지, 또 어떤 생각을 가지고 있는지 알 수 있게 돼요. 제 경험상…… 어색함도 여러 번 마주치다 보면 익숙해지더라고요."
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "刚才听到有人在讨论我的年纪。其实没什么吧。我在崔林特尔梅结识过一个病弱的家伙，比我还小几个月，却因为伯爵身份而如履薄冰......我起码不用担心自己的安危。"
+        },
+        {
+          "language": "日文",
+          "content": "先程、僕の年齢について議論されているのを耳にしましたが、問題視に値するほどのことでもないと思います。ツヴィリングトゥルムに病弱な知り合いがいて、僕よりも数ヶ月年下なのに、伯爵の身分のせいで、いつも危険な状況に置かれているんです……彼に比べて、僕は少なくとも身の危険を心配する必要はありませんから。"
+        },
+        {
+          "language": "英文",
+          "content": "I just heard some people discussing my age, but I don't see the issue, really. I met a sickly fellow in Zwillingstürme. He was younger than me by a few months, but he's skating on thin ice every day due to his status as Graf... Well, at least I don't have to worry about my own safety like that."
+        },
+        {
+          "language": "韩文",
+          "content": "방금 누군가 제 나이에 대해 얘기하는 걸 들었어요. 사실 그렇게까지 신경 쓰고 있지는 않아요. 전에 츠빌링슈튀르메에서 병약한 사람 한 명을 알게 되었는데, 그는 저보다도 몇 개월 어렸지만 백작이라는 신분 때문에 늘 위험에 처해 있었죠…… 그에 비하면 적어도 전 신변의 위험을 걱정할 필요는 없으니까요."
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“沃尔夫冈，你的一言一行都将关系到鲁珀坎的未来。”我当时这么告诫自己。我的答卷很工整，问题在于，不是所有事情都需要当成考试......唔，我现在也很紧绷吗？"
+        },
+        {
+          "language": "日文",
+          "content": "「ヴォルフガング、お前の一挙手一投足にはループカーンの未来がかかってるんだ。」当時の僕は、自分にそう言い聞かせていました。僕の答案は完璧だったのですが、問題は、全てのことを試験として捉える必要がなかったということ……え、今でもそんなに、肩に力が入っているように見えますか？"
+        },
+        {
+          "language": "英文",
+          "content": "'Wolfgang, everything you say and do will affect Wulfsburg's future.' That's what I told myself back then. My life is my answer sheet, which I keep neat. But the problem is... maybe not everything has to be treated as an exam... Um, I still seem tense, even now?"
+        },
+        {
+          "language": "韩文",
+          "content": "“볼프강, 너의 일거수일투족에 루푸카른의 미래가 달려 있어.” 그때 전 이렇게 제 자신을 타일렀어요. 제 답은 완벽했지만, 문제는 세상 모든 일을 그렇게 시험처럼 생각할 필요는 없었다는 거예요…… 으음, 지금도 제가 그렇게 긴장돼 보이나요?"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "感谢您的好心，但我并不在意赫琳玛特的失踪。她说过，建起战争的围场，是为了将来能毫无顾虑地拆掉它。她那天肯定有所察觉，但......也就是说，我的任务还没结束，我仍是她的密使。"
+        },
+        {
+          "language": "日文",
+          "content": "お気遣いには感謝しますが、グリムマハトの失踪に関してはあまり気に留めてはいません。彼女は言っていました、狩場を設けて戦争をするのは、全てが済んだ後に気兼ねなく取り潰せるからだと。あの日もきっと何かを予感していたのでしょう。ただ……何はともあれ、僕の役目は終わっていませんし、僕は今でもあの人の密偵です。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you for your concern, but I don't mind Hildegard's disappearance at all. She told me the enclosure of war was built so that it could be torn down in the future without any worries. She must have been somewhat aware of it that day, but she still... Anyway, my mission isn't over yet, and I remain her envoy still."
+        },
+        {
+          "language": "韩文",
+          "content": "신경 써 주셔서 감사하지만, 그리마흐트의 실종에 대해선 저도 별로 신경 쓰지 않고 있습니다. 그녀는 사낭터를 만들어 전쟁을 일으킨 건, 나중에 모든 것이 끝나더라도 아무런 부담 없이 그걸 없애버릴 수 있기 때문이라고 말한 적이 있어요. 그날도 분명 어느 정도 예상하고 있었겠죠. 다만…… 제 임무는 아직 끝나지 않았고, 여전히 전 그 사람의 밀사입니다."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，为什么羽兽飞得再高，也永远无法碰到星星？啊不，我只是习惯了在太安静的时候说点什么，您不用理会。呃，答案不重要吧......因为星星会闪。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、どうして羽獣はいくら高く羽ばたいても、星には手が届かないのでしょう？……あっいえ、周りが静かすぎるとつい何か話したくなってしまうんですよね。気にしないでください。えっと、考え込まなくていいですよ……だって、羽獣には手がありませんから。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, why are fowlbeasts unable to touch the stars no matter how far they fly? Uh, no, I'm just used to breaking the silence when it gets too quiet. Please pay me no heed. I don't think the answer's that important...? It's because they can't even fly right when they're... Ahem, seeing stars."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 왜 파울비스트가 높게 날아도 별에 닿을 수 없는지 아세요? 아, 아뇨, 그냥 주변이 너무 조용하면 아무 얘기나 꺼내는 게 습관 같은 거라, 너무 신경 쓰지 않으셔도 돼요. 으음, 굳이 답을 생각하실 필요는 없는데…… 정답은, 파울비스트가 별 볼 일 없기 때문이에요."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明明用法术隔音了呀......这块响板是初次觐见时莉泽洛特赏赐的礼物，在高塔的时候，我经常用它把房间里的书一本本踢下来，天亮前再一本本摆回去。我这个年纪幼稚点很正常吧？"
+        },
+        {
+          "language": "日文",
+          "content": "アーツでちゃんと防音対策してたのに……このカスタネットは、リーゼロッテに初めて謁見した時に賜った物です。高塔にいた頃は、よくこいつで部屋の本を一冊ずつ蹴り落として、夜明け前にまた元通りに並べていました。幼稚だと思いますか？僕の場合、それが年相応というものでしょう。"
+        },
+        {
+          "language": "英文",
+          "content": "Didn't I soundproof the room with Arts...? This castanet? It's a gift from Lieselotte, given during my first audience with her. When I was living in the Spire, I would kick it at the books in my room. Knocking them down one by one, then put them back before the sun came up. It's normal for me to be childish at my age, isn't it?"
+        },
+        {
+          "language": "韩文",
+          "content": "분명 아츠로 방음을 해 뒀을 텐데…… 이 캐스터네츠는 제가 리젤로테를 처음 알현했을 때 받았던 물건이에요. 고탑에 있을 때, 전 이 캐스터네츠로 방 안의 책들을 한 권 한 권 차서 떨어뜨린 다음, 날이 밝기 전에 다시 제자리에 되돌려 놓곤 했었어요. 제 나이에 이 정도 유치한 건 괜찮잖아요?"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们很像......抱歉，博士，突然说话吵到您了......我只是觉得您和赫琳玛特很像，明明承担了许多，又从不对谁说起，我却看不到你们的苦闷。我能帮助您吗？您能帮助我吗？"
+        },
+        {
+          "language": "日文",
+          "content": "やはりよく似ている……すみません、急に喋って驚かせてしまいましたよね……単に、ドクターとグリムマハトがよく似ていると思いまして。たくさん背負っているのに、誰にも話さず、その心のうちに秘める苦しみを見せようとしない。僕であなたの助けになりますか？あなたは、僕を助けてくれますか？"
+        },
+        {
+          "language": "英文",
+          "content": "You two are so similar... Sorry for disturbing you with my sudden words, Doctor... I was just thinking about how you and Hildegard are so alike. Both of you shoulder so many responsibilities in silence, and I can't tell when to step in. Can I help you? Or... can you help me?"
+        },
+        {
+          "language": "韩文",
+          "content": "정말 많이 닮았네요…… 아, 죄송합니다…… 왠지 박사님께서 그리마흐트랑 정말 닮은 거 같아서요. 많은 걸 짊어지고 있으면서도 누구에게도 얘기하지 않고, 마음속에 괴로움을 숨겨 두는 모습이 정말 비슷하네요. 제가 박사님의 도움이 될 수 있을까요? 박사님은 절 도와주실 수 있나요?"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这支低音号？当然是能吹响的......对了，您会弹钢琴吗？趁有时间，能陪我练习一下吗？"
+        },
+        {
+          "language": "日文",
+          "content": "このチューバですか？もちろん吹けますよ……そうだ、ドクターはピアノが弾けますか？時間があるうちに、僕の練習に付き合っていただけませんか？"
+        },
+        {
+          "language": "英文",
+          "content": "My tuba? Of course I can play it... Speaking of which, can you play the piano? Can you practice with me when you're free?"
+        },
+        {
+          "language": "韩文",
+          "content": "이 튜바요? 당연히 연주할 수 있죠…… 아, 박사님 혹시 피아노 칠 줄 아세요? 그럼 시간 나실 때 제 연습을 도와주실 수 있으신가요?"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我受莱塔尼亚女皇赫琳玛特所托来此，希望接下来能与您保持友好交流。我可以做您的信使，也可以做您的乐手。"
+        },
+        {
+          "language": "日文",
+          "content": "リターニアの女帝、グリムマハトの命に従い参上致しました。ドクターとは友好的な関係を築いていけたらと思いますので、今後ともどうぞよろしくお願いします。専属のトランスポーターでも、楽師でも、何なりとお申し付けください。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, I am here at the behest of Empress Hildegard of Leithanien, and I hope to maintain friendly relations with you. I can act as a your Messenger, and perform music for you as well."
+        },
+        {
+          "language": "韩文",
+          "content": "안녕하십니까 박사님. 저는 라이타니엔의 여황, 그리마흐트 님의 명에 따라 이곳으로 오게 되었습니다. 박사님과 지속적으로 우호적인 관계를 유지할 수 있기를 바라니 앞으로 잘 부탁드립니다. 박사님의 전달자로든 악사로든 전부 가능하니, 뭐든 말씀해 주세요."
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我已经看过了......您等等，我随身带着往年女皇庆典的录像，要一起看看吗？"
+        },
+        {
+          "language": "日文",
+          "content": "それはもう拝見しましたが……ちょっと待ってください。例年の女帝の祭典の映像を持ってきてるんですよ。よかったら見てみませんか？"
+        },
+        {
+          "language": "英文",
+          "content": "I've already seen this... Hold on, I have some old recordings of the annual Kaiserinnensfest. Would you like to watch them together with me?"
+        },
+        {
+          "language": "韩文",
+          "content": "그건 이미 본 건데…… 잠시만요, 저한테 예전에 치렀던 여황 축제 영상이 있는데, 같이 보시겠어요?"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呼，看来没有让您失望......呃，博士，我是不是应该表现得更宠辱不惊些？"
+        },
+        {
+          "language": "日文",
+          "content": "ふぁ、どうやら失望はさせなかったようですね……あっ、もっと動じずに堂々とする感じがよかったですかね？"
+        },
+        {
+          "language": "英文",
+          "content": "Phew... Seems like I haven't disappointed you. Uh, Doctor. Should I be acting more nonchalant about this?"
+        },
+        {
+          "language": "韩文",
+          "content": "휴우, 다행히 박사님을 실망시키지 않은 모양이네요…… 아, 방금은 좀 더 담담하게 받아들이는 편이 나았을까요?"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯......幸不辱命。"
+        },
+        {
+          "language": "日文",
+          "content": "はい……ご期待に添えることができたようで幸いです。"
+        },
+        {
+          "language": "英文",
+          "content": "Mm... I'm glad to have met your expectations."
+        },
+        {
+          "language": "韩文",
+          "content": "네…… 기대에 부응한 것 같아서 정말 다행이에요."
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在此期间，我愿随您的指挥棒行动。"
+        },
+        {
+          "language": "日文",
+          "content": "作戦中は、あなたのタクトの指し示すままに。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll follow your baton for the time being."
+        },
+        {
+          "language": "韩文",
+          "content": "작전 수행 중에는 박사님의 지휘에 따르겠습니다."
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我知道，您懒得出面，所以我去跑腿......这种感觉很熟悉。"
+        },
+        {
+          "language": "日文",
+          "content": "はいはい、ご自分で向われるのが面倒だから、代わりに僕をけしかけると……いいですよ、こういうのには慣れっこですから。"
+        },
+        {
+          "language": "英文",
+          "content": "I knew you were too lazy to show up, so I went to run some errands... I'm very much used to this."
+        },
+        {
+          "language": "韩文",
+          "content": "네네, 직접 나서기 귀찮으시면 제가 박사님 대신에 나가 드려야죠…… 이런 일은 익숙하니까요."
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "乐谱或者作战计划，总得给我一样吧。"
+        },
+        {
+          "language": "日文",
+          "content": "楽譜か作戦プランか、どちらかはいただかないと。"
+        },
+        {
+          "language": "英文",
+          "content": "A music score or a battle plan—you have to give me one of those at least."
+        },
+        {
+          "language": "韩文",
+          "content": "악보든 작전 계획서든, 둘 중 하나는 저한테 주셔야 하는 거 아닌가요?"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔，不和谐音。"
+        },
+        {
+          "language": "日文",
+          "content": "うっ、不協和音が……"
+        },
+        {
+          "language": "英文",
+          "content": "Hm. Dissonances."
+        },
+        {
+          "language": "韩文",
+          "content": "으윽, 불협화음이……"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "以低音号开场吗？很少有这样的编排。"
+        },
+        {
+          "language": "日文",
+          "content": "イントロにチューバを持ってくるんですか？珍しい編成ですね。"
+        },
+        {
+          "language": "英文",
+          "content": "Opening with a tuba? A rare arrangement."
+        },
+        {
+          "language": "韩文",
+          "content": "시작을 튜바로요? 꽤나 특이한 구성이네요."
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您的乐团里只有我一支低音号吗？"
+        },
+        {
+          "language": "日文",
+          "content": "あなたの楽団でチューバ奏者は僕だけですか？"
+        },
+        {
+          "language": "英文",
+          "content": "Am I the only tuba in your band?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님의 악단에서 튜바를 연주하는 건 저뿐인가요?"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我先活动下手指。"
+        },
+        {
+          "language": "日文",
+          "content": "まずは指の運動です。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll warm up my fingers first."
+        },
+        {
+          "language": "韩文",
+          "content": "일단 손가락부터 풀게요."
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会在合适的段落加入演奏。"
+        },
+        {
+          "language": "日文",
+          "content": "適切なタイミングで演奏に加わりますよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll join in the performance at the right section."
+        },
+        {
+          "language": "韩文",
+          "content": "적절한 마디에 같이 연주할게요."
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "听见了吗？这强奏的恢弘气势。"
+        },
+        {
+          "language": "日文",
+          "content": "聞こえますか？この重厚なフォルティッシモが。"
+        },
+        {
+          "language": "英文",
+          "content": "Can you hear it, the restorative vigor of that fortissimo?"
+        },
+        {
+          "language": "韩文",
+          "content": "들리시나요? 이 중후한 포르티시모가!"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "感受到了吗？这弱奏的悠扬思绪。"
+        },
+        {
+          "language": "日文",
+          "content": "感じますか？この情緒溢れるピアニッシモを。"
+        },
+        {
+          "language": "英文",
+          "content": "Can you feel it, the melodious emotions of that pianissimo?"
+        },
+        {
+          "language": "韩文",
+          "content": "느껴지시나요? 이 감성적인 피아니시모가!"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "凄厉的嚎叫？吹奏失误就会这样。"
+        },
+        {
+          "language": "日文",
+          "content": "けたたましい悲鳴？ピッチが狂った結果です。"
+        },
+        {
+          "language": "英文",
+          "content": "A shrill howl? That's what happens when you mess up while performing."
+        },
+        {
+          "language": "韩文",
+          "content": "처절한 울음소리? 연주할 때 실수하면 나는 소리예요."
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "再不走，我就用喇叭口杵你们的脸。"
+        },
+        {
+          "language": "日文",
+          "content": "早く退かないと、ベルで顔面を殴りますよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Out of my way, or I'll shove your head up this tuba."
+        },
+        {
+          "language": "韩文",
+          "content": "빨리 물러서지 않으면 벨로 얼굴을 때릴 거예요."
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "低音号是最难演奏的乐器之一，我有自信，假以时日能有一些造诣。但您像是生来就精通百种乐器的乐手......真不公平啊。"
+        },
+        {
+          "language": "日文",
+          "content": "チューバは演奏するのが最も難しい楽器の一つとされていますが、いつかはある程度の造詣を得られる自信はあります。しかし、あなたはと言えば、まるで生まれながらにしてどんな楽器にも精通しているかのよう……実に不公平ですね。"
+        },
+        {
+          "language": "英文",
+          "content": "While the tuba is one of the most difficult instruments to play, I'm sure I'll get somewhat proficient at it in time. But you, you seem like a musician who was born proficient with all kinds of instruments... Life is so unfair."
+        },
+        {
+          "language": "韩文",
+          "content": "튜바는 연주하기 어려운 악기로 손꼽히지만, 시간을 들이면 저도 이 악기에 대한 조예를 깊이 쌓을 수 있을 거라는 자신이 있어요. 그런데 박사님은 마치 태어날 때부터 모든 악기에 능통한 사람처럼 느껴지네요…… 정말이지 불공평해요."
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您是最具想象力的指挥。"
+        },
+        {
+          "language": "日文",
+          "content": "あなたは、最も素晴らしい想像力を持った指揮者です。"
+        },
+        {
+          "language": "英文",
+          "content": "Your ingenuity put to shame any conductor I've seen."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님께선 최고의 상상력을 가진 지휘자세요."
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "怎样让乐感保持在最佳状态？练习。演奏有瑕疵只能说明练习得还不够。"
+        },
+        {
+          "language": "日文",
+          "content": "音楽のセンスを磨くには、練習のみです。演奏にほころびが出るのは、まさに練習不足の証拠です。"
+        },
+        {
+          "language": "英文",
+          "content": "How does one keep their musicality in tip-top shape? Practice. A flawed performance simply means you haven't practiced enough."
+        },
+        {
+          "language": "韩文",
+          "content": "어떻게 하면 연주 실력을 항상 최고의 상태로 유지할 수 있냐고요? 연습이죠. 연주 중에 실수를 한다는 건, 연습이 부족하다는 뜻이에요."
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们失败了吗？我不觉得。你们这样的人，会将失败也纳入计划，对吧？"
+        },
+        {
+          "language": "日文",
+          "content": "失敗？僕にはそうとは思えません。あなた方であれば、失敗も込みで計画を立てるに違いない、そうでしょう？"
+        },
+        {
+          "language": "英文",
+          "content": "Did we fail? I don't think so. People like you usually factor failure into your plans, yes?"
+        },
+        {
+          "language": "韩文",
+          "content": "실패라고요? 전 그렇게 생각하지 않아요. 여러분이라면 분명 실패도 계획의 일부로 포함시켜두셨겠죠, 그렇죠?"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里的隔音效果，应该还不错吧？"
+        },
+        {
+          "language": "日文",
+          "content": "ここの防音は大丈夫かな？"
+        },
+        {
+          "language": "英文",
+          "content": "The soundproofing here should be decent...?"
+        },
+        {
+          "language": "韩文",
+          "content": "여기 방음은 괜찮으려나?"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊~您吓到我了。"
+        },
+        {
+          "language": "日文",
+          "content": "わー、びっくりしましたー。"
+        },
+        {
+          "language": "英文",
+          "content": "Ahh... you gave me a fright."
+        },
+        {
+          "language": "韩文",
+          "content": "아이고~ 깜짝이야."
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我正准备更换低音号的喇叭口，帮我一下。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、今ちょうどベルを交換しているところです。よかったら少し手伝っていただけますか？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, I'm just about to replace the bell on my tuba. Can you lend me a hand?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 튜바의 벨을 교체하고 싶은데 도와주실 수 있나요?"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "当时离开鲁珀坎的时候，离新年只有一个月了。他们说要尽快启程觐见女皇陛下，这样还能赶得上崔林特尔梅的庆典。一路上我都在练习......其实我很喜欢那首曲子。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，休息得还好吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、ちゃんと休めていますか？"
+        },
+        {
+          "language": "英文",
+          "content": "Are you resting well, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 잘 쉬셨나요?"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "每年的女皇庆典阵仗都很惊人，皇家乐团向万民演出，以双子女皇在廊桥上的盛大合奏谢幕。庆典的本质，是让所有人相信脚下的道路。罗德岛没有这样隆重的庆典，但你们依然走得很坚定。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

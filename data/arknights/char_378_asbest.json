@@ -1,0 +1,983 @@
+{
+  "name": "石棉",
+  "charaKey": "char_378_asbest",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_378_asbest"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_378_asbest"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_378_asbest"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有事快说，有屁快放，姑奶奶忙得很，没多少时间应付你。"
+        },
+        {
+          "language": "日文",
+          "content": "用があんならさっさと言え。あたしゃ忙しんだ、お前なんかに付き合ってる暇はねぇんだよ。"
+        },
+        {
+          "language": "英文",
+          "content": "If you've got something to say, spit it out. If you wanna pass gas, just make it quick. I'm busy as hell and don't have time for you."
+        },
+        {
+          "language": "韩文",
+          "content": "용건 있으면 빨리 말해. 나 바빠, 너 따위랑 어울려줄 시간은 없다고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "有事快說，有屁快放，姑奶奶忙得很，沒多少時間應付你。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呀！......混账东西，谁允许你碰我的尾巴的，小心我把你扇飞！还有，忘掉我刚才的声音，忘不掉我可以帮你物理遗忘。"
+        },
+        {
+          "language": "日文",
+          "content": "ひゃっ！……ば、馬鹿野郎！誰がしっぽ触っていいって言ったんだ！ぶっ飛ばすぞ！あと今聞いた声も忘れろよ。できないってんなら手伝ってやってもいいぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "Hey! ...You asshole, who gave you permission to touch my tail? Watch it or I'll punt your sorry ass! And, forget all about that sound I made just now, I'll help you forget it physically."
+        },
+        {
+          "language": "韩文",
+          "content": "꺄악! ……이, 빌어먹을 녀석이! 누가 꼬리 만져도 된다 그랬어! 확 까버릴까 보다! 그리고, 방금 들은 목소리도 잊어. 못 잊겠으면, 내가 직접 잊어버리게 해줄 테니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "呀！......混帳東西，誰允許你碰我的尾巴的，小心我把你搧飛！還有，忘掉我剛才的聲音，忘不掉我可以幫你物理遺忘。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我这块门板？看也知道吧，我自己做的，多功能。建议你别乱碰，会出人命的。"
+        },
+        {
+          "language": "日文",
+          "content": "このドアか？見りゃ分かんだろ、あたしが自分で作ったんだよ、色々できんだぜ。言っとくけど、好き勝手触んじゃねぇぞ。死にたくなけりゃな。"
+        },
+        {
+          "language": "英文",
+          "content": "This ol' door I have here? Can't you tell? I made it myself, it's multifunctional. I'd advise you not to touch it, or you might get yourself killed."
+        },
+        {
+          "language": "韩文",
+          "content": "이 문 말이야? 보면 알잖아. 내가 직접 만든 거라고. 여러모로 요긴하게 쓰이고 있지. 미리 말해두는데, 괜히 멋대로 만지지 마라. 죽기 싫으면."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我這塊門板？看也知道吧，我自己做的，多功能。建議你別亂碰，會出人命的。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不得不说，罗德岛反正也要到处跑，我跟着你们的轨迹四处探险好像比我自己走路要快点，嗯，不错，稍微对你们改观了。"
+        },
+        {
+          "language": "日文",
+          "content": "そうだな、どうせロドスはそこらじゅう行ったり来たりすんだ、お前たちにくっついて探検すりゃ自分で歩くより早えーかもな。ああ、悪くねぇ。少しはお前たちを見直したぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "I've gotta say, since Rhodes Island is gonna be traveling all over anyway, it's faster for me to follow you as I explore than going around on my own. Mm, yeah, I guess I've changed my view towards you guys a little."
+        },
+        {
+          "language": "韩文",
+          "content": "그렇지, 어차피 로도스 아일랜드는 여기저기 왔다 갔다 하잖아. 너희한테 딱 달라붙어서 탐험하면, 직접 걸어 다니는 것보다 빠를지도 모르겠네. 그래, 나쁘지 않아. 너희, 조금은 다시 봤어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "不得不說，羅德島反正也要到處跑，我跟著你們的軌跡四處探險好像比我自己走路要快點，嗯，不錯，稍微對你們改觀了。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别把我和麦哲伦相提并论，我可不是什么探险家，我只是为了追求刺激才在这片大地上到处跑的。为后人开辟道路？姑奶奶可没那么高尚。"
+        },
+        {
+          "language": "日文",
+          "content": "あたしとマゼランを一緒に語んじゃねぇよ。あたしゃ探検家なんかじゃねぇ、ただ刺激を求めてこの大地を駆けずり回ってるだけだ。後世のために道を切り開くなんざ、そんな崇高なもんじゃねぇよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't compare me to Magallan. I'm no professional explorer, I just run around the world chasing thrills. Trailblazing for those who come after me? I sure as hell ain't that noble."
+        },
+        {
+          "language": "韩文",
+          "content": "나랑 마젤란을 같이 엮지 마. 난 탐험가 같은 게 아니야. 그저 자극이 땡겨서 이 땅을 뛰어다니고 있는 거 뿐이지. 후세를 위해 길을 개척하는 그런 숭고한 게 아니라고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別把我和麥哲倫相提並論，我可不是什麼探險家，我只是為了追求刺激才在這片大地上到處跑的。為後人開闢道路？姑奶奶可沒那麼高尚。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "越是危险我越要去，越是疯狂我越享受，要是不这样，那人生又有什么意思。"
+        },
+        {
+          "language": "日文",
+          "content": "ヤバけりゃヤバイところほど行ってみてぇ、イカれてりゃイカれてるほど楽しめんだ。そうじゃなきゃ、人生に何の楽しみがあんだ？"
+        },
+        {
+          "language": "英文",
+          "content": "The more dangerous it is, the more I wanna go. The crazier it is, the more I wanna cut loose. Otherwise, life has no meaning."
+        },
+        {
+          "language": "韩文",
+          "content": "위험하면 위험할수록 가보고 싶어. 미쳐있으면 미쳐있을수록 즐길 수 있거든. 안 그럼, 인생에 무슨 낙이 있겠어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "越是危險我越要去，越是瘋狂我越享受，要是不這樣，那人生又有什麼意思。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "麦哲伦？我跟这个自来熟的小丫头片子是在黑流树海认识的，那可真是姑奶奶有生以来最吵闹的一次探险了。不过这丫头确实有点水平，这我承认。"
+        },
+        {
+          "language": "日文",
+          "content": "マゼランか？あの馴れ馴れしいガキンチョとは黒流樹海で知り合ったんだ。あたしの人生で一番騒がしい探検だったな。だがあいつはアレでなかなかやんだよ、そこは認めとく。"
+        },
+        {
+          "language": "英文",
+          "content": "Magallan? Me and this shrimpy, overzealous videographer girl I got to know her at the Black Flow. Y'know, that's the wildest, craziest adventure I've ever been on. But, that shrimp's got some real skills, I'll be the first to admit."
+        },
+        {
+          "language": "韩文",
+          "content": "마젤란? 그 붙임성 좋은 꼬맹이랑은 블랙 플로우에서 알게 된 사이야. 내 인생에서 가장 소란스러운 탐험이었지. 그래도 그 녀석, 실력이 꽤 제법이야. 그건 인정해 두지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "麥哲倫？我跟這個自來熟的小丫頭是在黑流樹海認識的，那可真是姑奶奶有生以來最吵鬧的一次探險了。不過這丫頭確實有點水準，這我承認。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "朋友？谁要那玩意，姑奶奶的人生目标就是做个混账东西，最好谁也别喜欢我，我也没空去喜欢别人。比起这个，今晚喝一杯？给个准话。"
+        },
+        {
+          "language": "日文",
+          "content": "友達？そんなもんいらねぇよ、あたしの生涯の目標はろくでもねー奴になることなんだ。誰にも好かれないのが一番いい、あたしだって他人を好いてる暇なんてねーからな。それより、今夜一杯どうだ？うだうだしてねーではっきり答えろ。"
+        },
+        {
+          "language": "英文",
+          "content": "Friends? Who the hell needs those? My life goal here is to just be an absolute jerk to everyone. So, best not try to get chummy with me, since I'm not gonna return the favor. Rather, how 'bout we go out for a drink instead? Give it to me straight."
+        },
+        {
+          "language": "韩文",
+          "content": "친구? 그딴 건 필요 없어. 내 장래희망은 못된 녀석이 되는 거야. 누구한테도 호감 안 사는 게 제일 좋아. 나도 다른 사람 좋아할 여유 따윈 없으니까. 그건 그렇고, 오늘 밤 한잔 어때? 똑바로 대답해 웅얼웅얼대지 말고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "朋友？誰要那玩意，姑奶奶的人生目標就是做個混帳東西，最好誰也別喜歡我，我也沒空去喜歡別人。比起這個，今晚喝一杯？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的病？我知道挺严重的，但是只要没给别人添麻烦，怎么对待是我的自由。我的想法很简单，死在旅途上又没什么不好，你要真有本事可以试试到时候把我救回来。加油啊，博士，我不看好你。"
+        },
+        {
+          "language": "日文",
+          "content": "あたしの病気か？かなりキテんのは知ってるよ。でも周りに迷惑さえかけなきゃどうしようがあたしの勝手だろ。あたしの考えは簡単だ、道半ばで死ぬのも悪くねぇ。もしお前がそのつもりなら、そん時にあたしを助けられるかやってみりゃいい。頑張れよドクター、まぁお前に期待はしてねぇけどな。"
+        },
+        {
+          "language": "英文",
+          "content": "My illness? I know it's pretty serious, but as long as I don't cause trouble for anyone, how I deal with it is up to me. And that's an easy one - there's nothing wrong with dying on a journey. If you think you're hot shit, you can try to bring me back. Do your worst, Doctor. I'm expecting nothing from you."
+        },
+        {
+          "language": "韩文",
+          "content": "내 병 말이야? 꽤 진행되었다는 건 알아. 그래도 주위에 폐만 안 끼치면, 어떻게 하든 내 맘이잖아. 내 생각은 간단해. 탐험 길에서 죽는다 해도 나쁠 건 없지. 만약 네가 진짜 실력이 있다면 그때 날 구할 수 있을지 한번 해봐. 힘내, 박사. 뭐, 너한테 기대는 안 하지만."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我的病？我知道挺嚴重的，但是只要沒給別人添麻煩，怎麼對待是我的自由。我的想法很簡單，死在旅途上又沒什麼不好，你要真有本事可以試試到時候把我救回來。加油啊，博士，我不看好你。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "睡着了？很好，让我来制造一点噪音吧，哈哈。"
+        },
+        {
+          "language": "日文",
+          "content": "眠ってやがんのか？いいじゃねぇか、ちょっとうるさくしてやる、へへっ。"
+        },
+        {
+          "language": "英文",
+          "content": "Sleeping, huh? Good, time to make some noise. Ahaha!"
+        },
+        {
+          "language": "韩文",
+          "content": "잠들었나? 잘 됐네, 살짝 시끄럽게 해주지. 헤헤!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "睡著了？很好，讓我來製造一點噪音吧，哈哈。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "虽然我一年里至少有一半时间在外探险，但工资我要正常待遇，也要给我留一间宿舍，你要这样的员工？......要了？哈？啧，神经。"
+        },
+        {
+          "language": "日文",
+          "content": "あたしゃ一年の大半を外で探検して過ごすけど、給料は通常通りもらうし、宿舎も一部屋空けといてもらうぜ。そんな奴を雇いてぇか？……決まり？はぁ？チッ、あったまおかしいのか。"
+        },
+        {
+          "language": "英文",
+          "content": "Even though out exploring for a better portion of the year, you still plan to have me on the payroll and even assign me a dorm? And you seriously want an operator like that? ...Oh, you do? Huh? Tsk, something wrong with your head?"
+        },
+        {
+          "language": "韩文",
+          "content": "난 일 년의 대부분을 밖에서 탐험하면서 보내면서도, 급여는 원래대로 받을 거고 숙소도 하나 비워달라 할 거야. 그런 녀석을 고용하고 싶어? ……이미 정했다고? 뭐? 칫, 머리가 어떻게 된 거 아니야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "雖然我一年裡至少有一半時間在外探險，但薪資我要正常待遇，也要給我留一間宿舍，你要這樣的員工？......要了？哈？嘖，神經。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "算了，就当学点防身术......"
+        },
+        {
+          "language": "日文",
+          "content": "まぁいいや、護身術ってことで……。"
+        },
+        {
+          "language": "英文",
+          "content": "Well, whatever. Guess I'll learn some self-defense."
+        },
+        {
+          "language": "韩文",
+          "content": "뭐, 됐어. 호신술이라고 치자......"
+        },
+        {
+          "language": "繁体中文",
+          "content": "算了，就當學點防身術......"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“罗德岛科考队名誉队长”？我？哈？"
+        },
+        {
+          "language": "日文",
+          "content": "「ロドス科学観測隊名誉隊長」？あたしが？はぁ？"
+        },
+        {
+          "language": "英文",
+          "content": "'Honorary Captain of the Rhodes Island Research Team?' Me? Hah?"
+        },
+        {
+          "language": "韩文",
+          "content": "'로도스 아일랜드 과학관측대 명예 대장'? 내가? 뭐?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“羅德島科考隊名譽隊長”？我？哈？"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不会给你任何我能为罗德岛做什么的保证，这不是姑奶奶的风格。不过如果你想知道这片大地的未解之谜，那就由我来为你揭开吧！"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスのためにできることなんて何も保証しねーぜ、そんなのあたしのやり方じゃないからな。でももしお前がこの大地の未開の謎を解きてーんなら、あたしがそれを暴いてやるよ！"
+        },
+        {
+          "language": "英文",
+          "content": "I can't guarantee that I'll be able to do anything for Rhodes Island, since that's not my style. However, if there are any mysteries of this world you'd like to uncover, I'll be the one to get the job done."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드를 위해 뭘 해줄 수 있다 약속할 수 있는 건 아무것도 없어. 그런 건 내 방식이 아니니까. 그래도, 만약 네가 이 땅의 알려지지 않은 수수께끼를 풀고 싶어 한다면, 내가 그걸 파헤쳐 주지!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我不會給你任何我能為羅德島做什麼的保證，這不是姑奶奶的風格。不過如果你想知道這片大地的未解之謎，那就由我來為你揭開吧！"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "团队行动？饶了我吧......"
+        },
+        {
+          "language": "日文",
+          "content": "チームワーク？勘弁しろよ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Teamwork? Give me a break..."
+        },
+        {
+          "language": "韩文",
+          "content": "팀 워크? 가만히 좀 냅두라고 제발……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "團隊行動？饒了我吧......"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啧，博士，你想为难我就直说。"
+        },
+        {
+          "language": "日文",
+          "content": "チッ、ドクター、あたしをいびりてーんならはっきり言えよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Tsk... If you wanna make my life hard, just say it to my face."
+        },
+        {
+          "language": "韩文",
+          "content": "칫…… 박사, 지금 나 엿 먹이려 그러는 거 맞지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嘖，博士，你想為難我就直說。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "跟不上就自个找点事做吧。"
+        },
+        {
+          "language": "日文",
+          "content": "付いてこれねぇなら勝手にやってな。"
+        },
+        {
+          "language": "英文",
+          "content": "If you can't keep up, just find something to keep yourself busy."
+        },
+        {
+          "language": "韩文",
+          "content": "못 따라오겠으면 그냥 알아서 움직여."
+        },
+        {
+          "language": "繁体中文",
+          "content": "跟不上就自己找點事做吧。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啧，麻烦。"
+        },
+        {
+          "language": "日文",
+          "content": "チッ、めんどくせぇ。"
+        },
+        {
+          "language": "英文",
+          "content": "Tsk... What a pain in the ass."
+        },
+        {
+          "language": "韩文",
+          "content": "칫, 귀찮게시리……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嘖，麻煩。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "是是是。"
+        },
+        {
+          "language": "日文",
+          "content": "はいはい。"
+        },
+        {
+          "language": "英文",
+          "content": "Yeah, yeah."
+        },
+        {
+          "language": "韩文",
+          "content": "어, 어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "是是是。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在在在。"
+        },
+        {
+          "language": "日文",
+          "content": "いるいる。"
+        },
+        {
+          "language": "英文",
+          "content": "Here, here."
+        },
+        {
+          "language": "韩文",
+          "content": "여기, 여기."
+        },
+        {
+          "language": "繁体中文",
+          "content": "在在在。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好好好。"
+        },
+        {
+          "language": "日文",
+          "content": "わーったわーった。"
+        },
+        {
+          "language": "英文",
+          "content": "Yeah, got it."
+        },
+        {
+          "language": "韩文",
+          "content": "알았어, 알았다고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "好好好。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "行行行。"
+        },
+        {
+          "language": "日文",
+          "content": "了解了解。"
+        },
+        {
+          "language": "英文",
+          "content": "Sure, whatever."
+        },
+        {
+          "language": "韩文",
+          "content": "그래, 그래."
+        },
+        {
+          "language": "繁体中文",
+          "content": "行行行。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "吃屎去吧。"
+        },
+        {
+          "language": "日文",
+          "content": "くそくらえ。"
+        },
+        {
+          "language": "英文",
+          "content": "Eat shit."
+        },
+        {
+          "language": "韩文",
+          "content": "엿이나 처 먹어라."
+        },
+        {
+          "language": "繁体中文",
+          "content": "吃屎去吧。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "赏你们一门板。"
+        },
+        {
+          "language": "日文",
+          "content": "ドアをぶちかましてやるぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "Here's a door for you."
+        },
+        {
+          "language": "韩文",
+          "content": "문으로 한 방 먹여주마."
+        },
+        {
+          "language": "繁体中文",
+          "content": "賞你們一門板。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊，好无聊。"
+        },
+        {
+          "language": "日文",
+          "content": "あーあくっだらねぇ。"
+        },
+        {
+          "language": "英文",
+          "content": "Hah... Boring as hell."
+        },
+        {
+          "language": "韩文",
+          "content": "아아~ 시시하구만!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "啊，好無聊。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "怎么没完没了的！"
+        },
+        {
+          "language": "日文",
+          "content": "どいつもこいつも！"
+        },
+        {
+          "language": "英文",
+          "content": "Piss off already!"
+        },
+        {
+          "language": "韩文",
+          "content": "하여튼 이놈이고, 저놈이고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "怎麼沒完沒了的！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "姑奶奶见惯了大风大浪，这点程度还不算什么。"
+        },
+        {
+          "language": "日文",
+          "content": "あたしゃ大嵐はもう見慣れてんだ、こんなのなんともねぇよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I've braved the winds and the waves. Something like this ain't worth shit."
+        },
+        {
+          "language": "韩文",
+          "content": "난 큰 폭풍은 이미 익숙하다고. 이런 건 아무렇지도 않아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "姑奶奶見慣了大風大浪，這點程度還不算什麼。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唉，没劲，我去附近逛逛。"
+        },
+        {
+          "language": "日文",
+          "content": "はぁ、つまんねぇ。ちょっとこの辺回ってくるわ。"
+        },
+        {
+          "language": "英文",
+          "content": "*sigh* ...How boring. I'm gonna take a look around."
+        },
+        {
+          "language": "韩文",
+          "content": "하아, 따분해. 잠깐 이 주변 좀 돌고 올게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "唉，沒勁，我去附近逛逛。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "差不多得了。"
+        },
+        {
+          "language": "日文",
+          "content": "こんくらいにしとけ。"
+        },
+        {
+          "language": "英文",
+          "content": "Good enough."
+        },
+        {
+          "language": "韩文",
+          "content": "이 정도로 해둬."
+        },
+        {
+          "language": "繁体中文",
+          "content": "差不多得了。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啧......难道现在我必须安慰一下这家伙吗......"
+        },
+        {
+          "language": "日文",
+          "content": "チッ……まさかあたしがこいつを慰めてやんなきゃいけねぇのか……。"
+        },
+        {
+          "language": "英文",
+          "content": "Tsk... Am I supposed to comfort this bastard now...?"
+        },
+        {
+          "language": "韩文",
+          "content": "칫…… 설마 내가 이 녀석을 위로해 줘야 하는 건가……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嘖......難道現在我必須安慰一下這傢伙嗎......"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "该回宿舍睡觉了。"
+        },
+        {
+          "language": "日文",
+          "content": "部屋に戻って寝るか。"
+        },
+        {
+          "language": "英文",
+          "content": "Time to head back to the dorms and crash."
+        },
+        {
+          "language": "韩文",
+          "content": "방으로 돌아가서 잠이나 잘까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "該回宿舍睡覺了。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯？！"
+        },
+        {
+          "language": "日文",
+          "content": "んっ！？"
+        },
+        {
+          "language": "英文",
+          "content": "Huh?!"
+        },
+        {
+          "language": "韩文",
+          "content": "응?!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯？！"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "对了，要先去趟博士的办公室......"
+        },
+        {
+          "language": "日文",
+          "content": "そいやドクターの執務室に行っとかねぇと……。"
+        },
+        {
+          "language": "英文",
+          "content": "Oh right, gotta take a trip to the Doctor's office first."
+        },
+        {
+          "language": "韩文",
+          "content": "그러고 보니까, 박사 집무실에 한 번 들러야 되는데……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "對了，要先去趟博士的辦公室......"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要命，忘了今天是新年了，不该这时候回来的，姑奶奶最烦这种一大群人聚在一起......啧，之前在萨尔贡遇到的那群阿达克利斯人都没你们能闹。还拉着我干什么？手放开！我要回房！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你很闲吗？"
+        },
+        {
+          "language": "日文",
+          "content": "暇かよお前？"
+        },
+        {
+          "language": "英文",
+          "content": "You got a lot of free time?"
+        },
+        {
+          "language": "韩文",
+          "content": "한가하냐 너?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你很閒嗎？"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大意了，没想到除了新年罗德岛居然还有这么一个节日，我可真是会挑时间回来。打住！想和姑奶奶多说话可以，喝几杯不？要不就安静。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

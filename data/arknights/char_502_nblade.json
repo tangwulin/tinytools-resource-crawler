@@ -1,0 +1,885 @@
+{
+  "name": "夜刀",
+  "charaKey": "char_502_nblade",
+  "images": [
+    "https://media.prts.wiki/a/ad/%E7%AB%8B%E7%BB%98_%E5%A4%9C%E5%88%80_1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_502_nblade"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_502_nblade"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_502_nblade"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_502_nblade"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，只要告诉我今天的工作内容就行了。"
+        },
+        {
+          "language": "日文",
+          "content": "やあ、ドクター。今日の仕事内容だけ教えてもらえると助かる。"
+        },
+        {
+          "language": "英文",
+          "content": "Hey, Doctor. Do me a favor and just tell me what you need done."
+        },
+        {
+          "language": "韩文",
+          "content": "어, 박사. 오늘 업무 내용만 알려주면 고맙겠는데."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，只要告訴我今天的工作內容就行了。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "即使在工作之外的时间里，我也会注意您的状况。"
+        },
+        {
+          "language": "日文",
+          "content": "勤務時間外でも、ドクターの状況を気にかけておこう。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll be watching you even when I'm off duty."
+        },
+        {
+          "language": "韩文",
+          "content": "근무 시간 외에도 박사의 상황을 주시하도록 할게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "即使在工作之外的時間裡，我也會注意您的狀況。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯？有什么事吗？"
+        },
+        {
+          "language": "日文",
+          "content": "うん？何か用か？"
+        },
+        {
+          "language": "英文",
+          "content": "Hm? Do you need something?"
+        },
+        {
+          "language": "韩文",
+          "content": "응? 무슨 일이지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯？有什麼事嗎？"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的皮肤对阳光的抵抗力非常弱，所以我希望您尽可能地把夜间行动的任务安排给我。"
+        },
+        {
+          "language": "日文",
+          "content": "私の肌は日差しに相当弱いので、できるだけ夜の任務につかせてほしい。"
+        },
+        {
+          "language": "英文",
+          "content": "My skin is sensitive to sunlight. So please assign me to nighttime missions, whenever you can."
+        },
+        {
+          "language": "韩文",
+          "content": "내 피부는 햇빛에 상당히 약하니까, 될 수 있는 한 야간 임무에 넣어줬으면 좋겠어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我的皮膚對陽光的抵抗力非常弱，所以我希望您盡可能地把夜間行動的任務安排給我。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "虽然我们能做到的事有限，但我还是希望能帮忙减轻您的负担。"
+        },
+        {
+          "language": "日文",
+          "content": "私たちにできることは限られているが、それでも、もっとドクターの負担を軽減してあげられるようになりたいものだ。"
+        },
+        {
+          "language": "英文",
+          "content": "There's limits to what I'm capable of, but even so, I want to help ease the burden you carry, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "우리가 할 수 있는 일엔 한계가 있지만, 그래도 박사의 부담을 더 덜어주고 싶어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "雖然我們能做到的事有限，但我還是希望能幫忙減輕您的負擔。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "每当我看到其他小队的干员们的活跃表现，总是会特别羡慕......"
+        },
+        {
+          "language": "日文",
+          "content": "ほかのオペレーターたちの活躍を見てると、なんだか羨ましく思ってしまうんだ……。"
+        },
+        {
+          "language": "英文",
+          "content": "I can't help but feel just a little envious when I see how the other Operators fight..."
+        },
+        {
+          "language": "韩文",
+          "content": "다른 오퍼레이터들의 활약을 보고 있으면, 왠지 부럽게 느껴져…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "每當我看到其他小隊的幹員們的活躍表現，總是會特別羨慕......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我想为博士出战的心情，是不需要理由的。希望总有一天，我们也能活跃在日常战斗的最前线......"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターのために戦いたいという気持ちに、理由なんてないさ。いつか、私たちにも最前線で活躍できる日が来るといいな……。"
+        },
+        {
+          "language": "英文",
+          "content": "I need no particular reason to fight for you, Doctor. I hope to see an exciting frontline battle someday..."
+        },
+        {
+          "language": "韩文",
+          "content": "박사를 위해 싸우고 싶다는 마음에 이유 따윈 없어. 언젠가는, 우리에게도 최전선에서 활약할 수 있는 날이 왔으면 좋겠네…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我想為博士出戰的心情，是不需要理由的。希望總有一天，我們也能活躍在日常戰鬥的最前線......"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，让我今后也一直守护着您吧。"
+        },
+        {
+          "language": "日文",
+          "content": "……ドクター、これからもずっとあなたを守らせてくれ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, let me be your guardian, now and forever..."
+        },
+        {
+          "language": "韩文",
+          "content": "……박사, 앞으로도 계속 당신을 지키게 해줘."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，讓我今後也一直守護著您吧。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "先锋干员夜刀，你——就是我要保护的人吗？"
+        },
+        {
+          "language": "日文",
+          "content": "先鋒オペレーターのヤトウだ。あなたが――私の守るべき人なのか？"
+        },
+        {
+          "language": "英文",
+          "content": "Vanguard Yato here. Are you the one I'm protecting?"
+        },
+        {
+          "language": "韩文",
+          "content": "뱅가드 오퍼레이터 야토라고 한다. 당신이… 내가 지켜야 하는 사람인가?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "先鋒幹員夜刀，你——就是我要保護的人嗎？"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "非常感谢。"
+        },
+        {
+          "language": "日文",
+          "content": "感謝する。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you."
+        },
+        {
+          "language": "韩文",
+          "content": "고마워."
+        },
+        {
+          "language": "繁体中文",
+          "content": "非常感謝。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "夜刀，入队。"
+        },
+        {
+          "language": "日文",
+          "content": "ヤトウ、入隊する。"
+        },
+        {
+          "language": "英文",
+          "content": "Yato has joined the team."
+        },
+        {
+          "language": "韩文",
+          "content": "야토, 팀에 들어가겠다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "夜刀，入隊。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "各位都会配合您的战术的，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "皆には、ドクターの作戦に合わせて行動させる。"
+        },
+        {
+          "language": "英文",
+          "content": "We're ready to execute your plans, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "팀원들은 박사의 작전에 맞춰 행동하도록."
+        },
+        {
+          "language": "繁体中文",
+          "content": "各位都會配合您的戰術的，博士。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "全队，从现在起进入警戒模式。"
+        },
+        {
+          "language": "日文",
+          "content": "全隊、警戒態勢に入る。"
+        },
+        {
+          "language": "英文",
+          "content": "All Operators, be on alert."
+        },
+        {
+          "language": "韩文",
+          "content": "전 팀원, 경계 태세에 들어간다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "全隊，從現在起進入警戒模式。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "目标出现了，做好战斗准备。"
+        },
+        {
+          "language": "日文",
+          "content": "目標出現、戦闘準備を。"
+        },
+        {
+          "language": "英文",
+          "content": "Targets spotted. Get ready for battle."
+        },
+        {
+          "language": "韩文",
+          "content": "목표 출현, 전투 준비!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "目標出現了，做好戰鬥準備。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "是。"
+        },
+        {
+          "language": "日文",
+          "content": "はい。"
+        },
+        {
+          "language": "英文",
+          "content": "Here."
+        },
+        {
+          "language": "韩文",
+          "content": "그래."
+        },
+        {
+          "language": "繁体中文",
+          "content": "是。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请说。"
+        },
+        {
+          "language": "日文",
+          "content": "どうぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "Go ahead."
+        },
+        {
+          "language": "韩文",
+          "content": "얘기 해."
+        },
+        {
+          "language": "繁体中文",
+          "content": "請說。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我知道了。"
+        },
+        {
+          "language": "日文",
+          "content": "わかった。"
+        },
+        {
+          "language": "英文",
+          "content": "Got it."
+        },
+        {
+          "language": "韩文",
+          "content": "알았어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我知道了。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我明白。"
+        },
+        {
+          "language": "日文",
+          "content": "了解。"
+        },
+        {
+          "language": "英文",
+          "content": "Understood!"
+        },
+        {
+          "language": "韩文",
+          "content": "알겠다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我明白。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一闪！"
+        },
+        {
+          "language": "日文",
+          "content": "一閃！"
+        },
+        {
+          "language": "英文",
+          "content": "In a blink of eye!"
+        },
+        {
+          "language": "韩文",
+          "content": "일섬!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "一閃！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "觉悟吧！"
+        },
+        {
+          "language": "日文",
+          "content": "覚悟しろ。"
+        },
+        {
+          "language": "英文",
+          "content": "Prepare yourself!"
+        },
+        {
+          "language": "韩文",
+          "content": "각오해라."
+        },
+        {
+          "language": "繁体中文",
+          "content": "覺悟吧！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哈......"
+        },
+        {
+          "language": "日文",
+          "content": "はあああ……！"
+        },
+        {
+          "language": "英文",
+          "content": "Haaaaghhh!"
+        },
+        {
+          "language": "韩文",
+          "content": "하아아아…!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哈......"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "斩！"
+        },
+        {
+          "language": "日文",
+          "content": "斬る！"
+        },
+        {
+          "language": "英文",
+          "content": "Slash you down!"
+        },
+        {
+          "language": "韩文",
+          "content": "베어주마!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "斬！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "只要我们将博士的战术坚持到底，就绝不会发生任何问题。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターの作戦通りに最後まで動けば、この通り何も問題は起きない。"
+        },
+        {
+          "language": "英文",
+          "content": "As long as we follow the Doctor's orders, we won't have any problems."
+        },
+        {
+          "language": "韩文",
+          "content": "박사의 작전대로 마지막까지 움직이면, 지금처럼 아무런 문제도 일어나지 않는구나."
+        },
+        {
+          "language": "繁体中文",
+          "content": "只要我們將博士的戰術堅持到底，就絕不會發生任何問題。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士完美的指挥，是开启这场胜利的钥匙。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターの完璧な指揮が、勝利の決め手となったな。"
+        },
+        {
+          "language": "英文",
+          "content": "The Doctor's brilliant command was the key to victory."
+        },
+        {
+          "language": "韩文",
+          "content": "박사의 완벽한 지시가, 우릴 승리로 이끈 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士完美的指揮，是開啟這場勝利的鑰匙。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "胜利就是最好的消息。"
+        },
+        {
+          "language": "日文",
+          "content": "勝利は一番の吉報だ。"
+        },
+        {
+          "language": "英文",
+          "content": "Victory is the most welcome news."
+        },
+        {
+          "language": "韩文",
+          "content": "승리는 제일 좋은 소식이지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "勝利就是最好的消息。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "对不起，是我没有执行好您的战术......"
+        },
+        {
+          "language": "日文",
+          "content": "すまない、ドクターの作戦通りに、動くことができなかった……。"
+        },
+        {
+          "language": "英文",
+          "content": "I apologize... We failed to execute your plan, Doctor..."
+        },
+        {
+          "language": "韩文",
+          "content": "미안, 박사의 작전대로 움직일 수 없었어…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "對不起，是我沒有執行好您的戰術......"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请让我去一个照射不到阳光的地方。"
+        },
+        {
+          "language": "日文",
+          "content": "太陽の光が届かない、隅っこにいさせてほしい。"
+        },
+        {
+          "language": "英文",
+          "content": "Please send me somewhere that sunlight can never touch."
+        },
+        {
+          "language": "韩文",
+          "content": "햇빛이 닿지 않는, 구석에 있게 해줬으면 좋겠는데."
+        },
+        {
+          "language": "繁体中文",
+          "content": "請讓我去一個照射不到陽光的地方。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔。"
+        },
+        {
+          "language": "日文",
+          "content": "うう。"
+        },
+        {
+          "language": "英文",
+          "content": "*Gasp*!"
+        },
+        {
+          "language": "韩文",
+          "content": "으윽."
+        },
+        {
+          "language": "繁体中文",
+          "content": "唔。"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，谢谢您一直守护着我们。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、いつも私たちのこと見守ってくれてありがとう。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, thank you for always taking care of us."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 언제나 우릴 지켜봐 줘서 고마워."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，謝謝您一直守護著我們。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，节日快乐。一年来的工作辛苦了，新的一年也请继续带领我们。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，由我来保护。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、私が守る。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, I will be your shield."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 내가 지켜줄게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，由我來保護。"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "刀需要有鞘，是安身之所，也是归处。对我来说，罗德岛就是这样的鞘。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

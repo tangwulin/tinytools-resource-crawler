@@ -1,0 +1,991 @@
+{
+  "name": "霜叶",
+  "charaKey": "char_193_frostl",
+  "images": [
+    "https://media.prts.wiki/5/50/%E7%AB%8B%E7%BB%98_%E9%9C%9C%E5%8F%B6_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/7/7a/%E7%AB%8B%E7%BB%98_%E9%9C%9C%E5%8F%B6_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/8/8c/%E7%AB%8B%E7%BB%98_%E9%9C%9C%E5%8F%B6_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_193_frostl"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_193_frostl"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_193_frostl"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_193_frostl"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要听点音乐吗？我的耳机就借你一会儿吧。"
+        },
+        {
+          "language": "日文",
+          "content": "音楽、聴くか？少しだけなら私のヘッドホンを貸してやってもいい。"
+        },
+        {
+          "language": "英文",
+          "content": "Want to listen to some music? I'll lend you my headphones."
+        },
+        {
+          "language": "韩文",
+          "content": "음악… 들을래? 잠깐만 듣는 거라면, 내 헤드폰으로 듣던가."
+        },
+        {
+          "language": "繁体中文",
+          "content": "要聽點音樂嗎？我的耳機就借你一會兒吧。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "抱歉，请和我保持一点距离。"
+        },
+        {
+          "language": "日文",
+          "content": "すまない、少し離れてくれ。"
+        },
+        {
+          "language": "英文",
+          "content": "Sorry, please keep a little distance from me."
+        },
+        {
+          "language": "韩文",
+          "content": "미안, 조금 떨어져 줘."
+        },
+        {
+          "language": "繁体中文",
+          "content": "抱歉，請和我保持一點距離。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我从没想过，自己会有从事救援工作的这一天。"
+        },
+        {
+          "language": "日文",
+          "content": "自分が救援活動にあたることになるとは、思ってもみなかった。"
+        },
+        {
+          "language": "英文",
+          "content": "I never imagined that I'd have the chance to become a rescue worker."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 구조작업을 하게 될 줄은, 꿈에도 생각 못 했어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我從沒想過，自己會有從事救援工作的這一天。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "挥舞这把斧头的时间，说不定比我识字的时间都长。"
+        },
+        {
+          "language": "日文",
+          "content": "読み書きを学ぶ前から、この斧を握っていた。"
+        },
+        {
+          "language": "英文",
+          "content": "I picked up this axe a long time ago, maybe even before I learned to read."
+        },
+        {
+          "language": "韩文",
+          "content": "난, 읽고 쓰기를 배우기도 전부터 이 도끼를 쥐고 있었어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "揮舞這把斧頭的時間，說不定比我識字的時間都長。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我喜欢的歌，应该也不怎么流行吧。这些歌只适合独处的时候哼给自己听。"
+        },
+        {
+          "language": "日文",
+          "content": "私が好きな歌は、世間では流行らないだろうな。一人でいるときに口ずさみたくなる、孤独な曲ばかりだ。"
+        },
+        {
+          "language": "英文",
+          "content": "The songs I like are probably not so popular. They're only good for humming to myself when I'm alone."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 좋아하는 노래는 별로 인기가 없을 거야. 이 노래들은 혼자 있을 때 흥얼거리기 좋을 뿐이거든."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我喜歡的歌，應該也不怎麼流行吧。這些歌只適合獨處的時候哼給自己聽。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不要眨眼。见证这战技的机会，只有这一瞬间。"
+        },
+        {
+          "language": "日文",
+          "content": "まばたきするなよ。この技が見られるのは、一瞬だけだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't blink—you have but one moment to witness this epic move."
+        },
+        {
+          "language": "韩文",
+          "content": "눈 똑바로 뜨고 봐. 이 기술을 볼 수 있는 건 한순간뿐이니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "不要眨眼。見證這戰技的機會，只有這一瞬間。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "喝点吗，我请。工作结束之后，还是稍微放松一会儿比较好。"
+        },
+        {
+          "language": "日文",
+          "content": "一杯どうだ。私がおごろう。仕事のあとは息抜きも必要だろう。"
+        },
+        {
+          "language": "英文",
+          "content": "Want something to drink? My treat. You should relax a bit after work, you know."
+        },
+        {
+          "language": "韩文",
+          "content": "한 잔 어때, 내가 살게. 일이 끝나면 좀 쉬기도 해야지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "喝點嗎，我請。工作結束之後，還是稍微放鬆一會兒比較好。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "直到身边的人接连逝去，我才意识到作为人去活着的可贵。很讽刺吧？呵，我也觉得。"
+        },
+        {
+          "language": "日文",
+          "content": "周りの人たちがみな過去のものになってしまってから、人として生きることの大切さを知った。笑えるだろう、フフフ…。"
+        },
+        {
+          "language": "英文",
+          "content": "I only realized how precious life is after everyone around me died, one by one. Ironic, huh? I think so, too."
+        },
+        {
+          "language": "韩文",
+          "content": "주변 사람들이 모두… 과거의 존재가 되고 나서야, 사람으로 산다는 것의 소중함을 알았어. 웃기지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "直到身邊的人接連逝去，我才意識到作為人去活著的可貴。很諷刺吧？呵，我也覺得。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "佣兵不过是种工作，出于什么目的、造成什么后果，并不由我决定。以后，这种“我该担负什么责任”的考量，就交给你了。"
+        },
+        {
+          "language": "日文",
+          "content": "傭兵はしょせん雇われだ。任務の目的や、それによる結果を考えることは私の仕事ではない。今後はお前がそれを決めるといい。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm a mercenary. I just do my job. As for the purpose of my mission and its consequences, I don't have a say in any of that. So, from now on, all my responsibilities are your concern."
+        },
+        {
+          "language": "韩文",
+          "content": "용병은 어차피 고용되는 존재지. 임무의 목적이나 그에 따른 결과를 생각하는 건 내 일이 아니야. 앞으로는, 네가 그걸 정하면 돼."
+        },
+        {
+          "language": "繁体中文",
+          "content": "傭兵不過是種工作，出於什麼目的、造成什麼後果，並不由我決定。以後，這種“我該擔負什麼責任”的考量，就交給你了。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哼——哼哼♪哼......哼哼......♪"
+        },
+        {
+          "language": "日文",
+          "content": "♪～♪♪～♪……♪"
+        },
+        {
+          "language": "英文",
+          "content": "Dun... dun dun♪dun... dun dun...♪"
+        },
+        {
+          "language": "韩文",
+          "content": "♪～♪♪～♪…… ♪"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哼——哼哼♪哼......哼哼......♪"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "霜叶，前佣兵，现在，是你的干员。随意调遣我吧，我什么都能做。"
+        },
+        {
+          "language": "日文",
+          "content": "フロストリーフ。傭兵をやっていたが、今はお前に命を預ける。命令とあらば、何でも従おう。"
+        },
+        {
+          "language": "英文",
+          "content": "Frostleaf, former mercenary. From now on, I'm your operator. Assign me any job you want, I can do pretty much anything."
+        },
+        {
+          "language": "韩文",
+          "content": "프로스트리프. 용병을 했었지만, 지금은 너에게 목숨을 바치겠다. 명령이라면 뭐든지 따르도록 하지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "霜葉，前傭兵，現在，是你的幹員。隨意調遣我吧，我什麼都能做。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "谢谢。"
+        },
+        {
+          "language": "日文",
+          "content": "感謝する。"
+        },
+        {
+          "language": "英文",
+          "content": "Thanks."
+        },
+        {
+          "language": "韩文",
+          "content": "고맙다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "謝謝。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "提上正轨了。"
+        },
+        {
+          "language": "日文",
+          "content": "軌道に乗ってきたな。"
+        },
+        {
+          "language": "英文",
+          "content": "Things are on the right track now."
+        },
+        {
+          "language": "韩文",
+          "content": "드디어 궤도에 올라섰군."
+        },
+        {
+          "language": "繁体中文",
+          "content": "提上正軌了。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呼......也不错。久违的充实感。"
+        },
+        {
+          "language": "日文",
+          "content": "ふう……悪くない。久々の充実感だ。"
+        },
+        {
+          "language": "英文",
+          "content": "Whew... not bad. Feeling fulfilled for the first time in a while."
+        },
+        {
+          "language": "韩文",
+          "content": "후우…… 나쁘지 않아. 오랜만에 느끼는 충실감이다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "呼......也不錯。久違的充實感。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会履行自己的义务。"
+        },
+        {
+          "language": "日文",
+          "content": "責任は果たすさ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll do my job."
+        },
+        {
+          "language": "韩文",
+          "content": "책임은 다할 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我會履行自己的義務。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "各行其道，各尽其职。"
+        },
+        {
+          "language": "日文",
+          "content": "自分のやれることをやるだけだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Go your own ways and do your own jobs."
+        },
+        {
+          "language": "韩文",
+          "content": "모두 각자의 위치에서 각자의 역할을 다하도록."
+        },
+        {
+          "language": "繁体中文",
+          "content": "各行其道，各盡其職。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "正好，我也想活动下身体了。"
+        },
+        {
+          "language": "日文",
+          "content": "ちょうど身体を動かしたかったところだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Great, I feel like some exercise."
+        },
+        {
+          "language": "韩文",
+          "content": "마침 몸을 좀 풀려던 참이었어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "正好，我也想活動下身體了。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "支离破碎吧——！"
+        },
+        {
+          "language": "日文",
+          "content": "砕け散れ――！"
+        },
+        {
+          "language": "英文",
+          "content": "You will shatter."
+        },
+        {
+          "language": "韩文",
+          "content": "박살을 내주마!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "支離破碎吧——！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯？"
+        },
+        {
+          "language": "日文",
+          "content": "ん？"
+        },
+        {
+          "language": "英文",
+          "content": "Hmm?"
+        },
+        {
+          "language": "韩文",
+          "content": "응?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯？"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有什么命令？"
+        },
+        {
+          "language": "日文",
+          "content": "命令は？"
+        },
+        {
+          "language": "英文",
+          "content": "Your orders?"
+        },
+        {
+          "language": "韩文",
+          "content": "명령은?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "有什麼命令？"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这样就可以了。"
+        },
+        {
+          "language": "日文",
+          "content": "このまま行くぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "This should work."
+        },
+        {
+          "language": "韩文",
+          "content": "이대로 간다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這樣就可以了。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔，可以。"
+        },
+        {
+          "language": "日文",
+          "content": "ああ、わかった。"
+        },
+        {
+          "language": "英文",
+          "content": "Hm, okay."
+        },
+        {
+          "language": "韩文",
+          "content": "응, 알았어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "唔，可以。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "寒冷，不止我的体液。"
+        },
+        {
+          "language": "日文",
+          "content": "凍り付け、私の血のごとく！"
+        },
+        {
+          "language": "英文",
+          "content": "My bodily fluids aren't the only thing that's chilling."
+        },
+        {
+          "language": "韩文",
+          "content": "얼어붙어라, 내 피와 같이!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "寒冷，不止我的體液。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "延伸我的锋芒吧——！"
+        },
+        {
+          "language": "日文",
+          "content": "この切っ先で貫く！"
+        },
+        {
+          "language": "英文",
+          "content": "Extend my edge!"
+        },
+        {
+          "language": "韩文",
+          "content": "칼날이여, 먼 곳의 적들을 베어라."
+        },
+        {
+          "language": "繁体中文",
+          "content": "延伸我的鋒芒吧——！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "凡有生气，尽都如草。"
+        },
+        {
+          "language": "日文",
+          "content": "ゴミのように、惨めに果てろ！"
+        },
+        {
+          "language": "英文",
+          "content": "Life, brittle as frost, fragile like leaves."
+        },
+        {
+          "language": "韩文",
+          "content": "너희 목숨은 쓰레기나 다름없다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "凡有生氣，盡都如草。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让头脑清醒点吧。"
+        },
+        {
+          "language": "日文",
+          "content": "少し頭を冷やせ。"
+        },
+        {
+          "language": "英文",
+          "content": "Let's chill down some hot heads."
+        },
+        {
+          "language": "韩文",
+          "content": "조금 머리를 식혀라."
+        },
+        {
+          "language": "繁体中文",
+          "content": "讓頭腦清醒點吧。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "战争尽头的荒芒，已不知道经历了多少次。"
+        },
+        {
+          "language": "日文",
+          "content": "戦いの果ての荒れ地、もう何度見たかわからないな。"
+        },
+        {
+          "language": "英文",
+          "content": "I've been through countless battles... seen the carnage, witnessed the silent nothingness at the end."
+        },
+        {
+          "language": "韩文",
+          "content": "싸움의 끝난 후의 황폐해진 땅… 이젠 몇 번이나 봤는지도 모르겠어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "戰爭盡頭的荒芒，已不知道經歷了多少次。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我记得每一个敌人。一个逃走的也没有。"
+        },
+        {
+          "language": "日文",
+          "content": "敵の顔は覚えている。一人残らず倒した。"
+        },
+        {
+          "language": "英文",
+          "content": "I remember every enemy I fought. Not a single one escapes."
+        },
+        {
+          "language": "韩文",
+          "content": "적의 얼굴은 기억하고 있어. 한 명도 남김없이 쓰러뜨렸다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我記得每一個敵人。一個逃走的也沒有。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没有损失人手吧。"
+        },
+        {
+          "language": "日文",
+          "content": "怪我人はいないか？"
+        },
+        {
+          "language": "英文",
+          "content": "We didn't lose anyone, did we?"
+        },
+        {
+          "language": "韩文",
+          "content": "부상자는 없나?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "沒有損失人手吧。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我来断后......！"
+        },
+        {
+          "language": "日文",
+          "content": "私が後始末をつけよう……！"
+        },
+        {
+          "language": "英文",
+          "content": "I'll hold up the rear."
+        },
+        {
+          "language": "韩文",
+          "content": "뒤는 내가 맡겠다……!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我來斷後......！"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "想要比较......私人一点的空间呢。"
+        },
+        {
+          "language": "日文",
+          "content": "プライベートな空間が……欲しいな。"
+        },
+        {
+          "language": "英文",
+          "content": "I'd like... a more private space."
+        },
+        {
+          "language": "韩文",
+          "content": "사적인 공간이… 있으면 좋겠는데."
+        },
+        {
+          "language": "繁体中文",
+          "content": "想要比較......私人一點的空間呢。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔呀。"
+        },
+        {
+          "language": "日文",
+          "content": "おっと。"
+        },
+        {
+          "language": "英文",
+          "content": "Ow."
+        },
+        {
+          "language": "韩文",
+          "content": "엇."
+        },
+        {
+          "language": "繁体中文",
+          "content": "唔呀。"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一起去喝一杯吧？"
+        },
+        {
+          "language": "日文",
+          "content": "一杯やろうか？"
+        },
+        {
+          "language": "英文",
+          "content": "How about a drink?"
+        },
+        {
+          "language": "韩文",
+          "content": "한잔할까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "一起去喝一杯吧？"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在来罗德岛之前，我从来没有庆祝过这样的节日。新年？即便没有工作，也不会有这样温暖安全的房间。我可以自己先听一会儿音乐吗？等我一下......待会儿会来找你的，博士。谢谢。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor..."
+        },
+        {
+          "language": "韩文",
+          "content": "박사."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士。"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不用那么担心，以前的经历不全是坏事，它足以让我知晓那些不正确的活法。以及，罗德岛的这些时光让我更加想用现在这种全新的眼光，去探寻这片大地更多的未知的地方。博士，要和我一起。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

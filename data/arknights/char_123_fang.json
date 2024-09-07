@@ -1,0 +1,886 @@
+{
+  "name": "芬",
+  "charaKey": "char_123_fang",
+  "images": [
+    "https://media.prts.wiki/a/af/%E7%AB%8B%E7%BB%98_%E8%8A%AC_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/d/de/%E7%AB%8B%E7%BB%98_%E8%8A%AC_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_123_fang"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_123_fang"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_123_fang"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_123_fang"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，有什么我能做的事吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、何か私にできることはありませんか？"
+        },
+        {
+          "language": "英文",
+          "content": "Is there anything I can help you with, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 제가 할 만한 일은 없습니까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，有什麼我能做的事嗎？"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "谢谢您的信任！今后我也会继续加油的。"
+        },
+        {
+          "language": "日文",
+          "content": "ご信頼いただき、ありがとうございます！これからも頑張ります……。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you for believing in me! I'll keep up my work!"
+        },
+        {
+          "language": "韩文",
+          "content": "믿고 맡겨주셔서 감사합니다! 앞으로도 더 노력하겠습니다……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "謝謝您的信任！今後我也會繼續加油的。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "芙蓉和炎熔又吵架了，真让我头疼。明明是亲生姐妹啊，为什么会变成现在这样呢......"
+        },
+        {
+          "language": "日文",
+          "content": "ハイビスとラヴァ、またケンカを……まったく困ったものです。姉妹なのに、どうしてこうなるんでしょう……。"
+        },
+        {
+          "language": "英文",
+          "content": "Hibiscus and Lava are fighting again... What a pain. Why are they like this? They're sisters."
+        },
+        {
+          "language": "韩文",
+          "content": "히비스와 라바가 또 싸웠군요…… 정말 골치가 아프네요. 자매 사이에 대체 왜 그러는 건지……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "芙蓉和炎熔又吵架了，真讓我頭疼。明明是親生姐妹啊，為什麼會變成現在這樣呢......"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们和杜宾老师经常进行模拟比赛，不过我完全摸不透老师的技巧。如果博士和阿米娅有时间来参观训练的话，可以亲自指导我们吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ドーベルマン先生とは模擬戦をよくやるのですが……先生の技はまったく捉えられません。ドクターとアーミヤさんも、お暇な時に私たちの訓練を見ていただいて、ご指導いただけませんか？"
+        },
+        {
+          "language": "英文",
+          "content": "Instructor Dobermann puts us through mock battles a lot, but I can never get a handle on her skill. Doctor, next time you and Amiya observe our training, would you please give us some notes?"
+        },
+        {
+          "language": "韩文",
+          "content": "도베르만 선생님과는 모의 전투를 자주 하고 있습니다만…… 도베르만 선생님의 기술은 도무지 따라잡을 수 없네요. 박사님과 아미야 씨도 언제 시간이 되시면, 저희가 훈련할 때 오셔서 지도해 주실 수 있을까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我們和杜賓老師經常進行模擬比賽，不過我完全摸不透老師的技巧。如果博士和阿米婭有時間來參觀訓練的話，可以親自指導我們嗎？"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊，我知道了，我的小队里又有人迟到了对吧。我会想办法解决的。"
+        },
+        {
+          "language": "日文",
+          "content": "私をずーっと見て、何か言い出しづらいことでもあるのでしょうか……？あ、わかりました。またチームの誰かが遅刻したんですね。私がなんとかします。"
+        },
+        {
+          "language": "英文",
+          "content": "Someone on my team is late again, huh? I'll make sure that gets fixed."
+        },
+        {
+          "language": "韩文",
+          "content": "절 계속 쳐다보시는 걸 보니, 뭔가 꺼내기 어려운 말씀이라도 있으신 건가요…? 아, 알 것 같습니다. 팀원 중에 또 지각 한 사람이 있는 모양이군요. 제가 한마디 해 두겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "啊，我知道了，我的小隊裡又有人遲到了對吧。我會想辦法解決的。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我也是感染者，但并没能像炎熔那样觉醒法术天赋......"
+        },
+        {
+          "language": "日文",
+          "content": "私も感染者ですが、ラヴァのような強いアーツの素質は得られませんでした……。"
+        },
+        {
+          "language": "英文",
+          "content": "Lava and I are both Infected, but I didn't get a talent for Arts like she did..."
+        },
+        {
+          "language": "韩文",
+          "content": "저도 감염자입니다만… 라바처럼 강력한 아츠의 소질이 생겨나진 않더군요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我也是感染者，但並沒能像炎熔那樣覺醒法術天賦......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛给了我们容身之地，博士，所以就算拼上自己的生命，我也一定要保护好所有人。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスは私たちの居場所ですよ、ドクター。命をかけても、みんなの無事を守ります。"
+        },
+        {
+          "language": "英文",
+          "content": "Rhodes Island is our home and shelter, Doctor. I will protect everyone here with my life."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드는 저희 삶의 터전입니다. 박사님, 목숨을 걸고서라도, 모두를 안전하게 지키겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "羅德島給了我們容身之地，博士，所以就算拼上自己的生命，我也一定要保護好所有人。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "米格鲁诚实可靠，克洛丝洞察力强，炎熔很聪明，芙蓉充满活力，我一直很喜欢组里的大家......只要芙蓉不再强迫我吃她新创作的可怕料理就好......"
+        },
+        {
+          "language": "日文",
+          "content": "ビーグルは素直で頼れるし、クルースは感覚が鋭い、ラヴァは賢くて、ハイビスはいつも元気。このチーム全員、私は大好きです。……ハイビスが無理やり食べさせてくる地獄のような料理さえなければ……。"
+        },
+        {
+          "language": "英文",
+          "content": "The ever-honest and reliable Beagle, the perceptive Kroos, the resourceful Lava and the energetic Hibiscus. I like everyone in this team... as long as Hibiscus doesn't force her health food innovations on me."
+        },
+        {
+          "language": "韩文",
+          "content": "비글은 솔직한 데다 듬직하고, 크루스는 감이 좋고, 라바는 똑똑하고, 히비스는 늘 기운이 넘칩니다. 저희 팀원 모두가 저는 너무 좋습니다…… 히비스가 억지로 먹여대는 지옥 같은 요리만 빼면 말이죠…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "米格魯誠實可靠，克洛絲洞察力強，炎熔很聰明，芙蓉充滿活力，我一直很喜歡組裡的大家......只要芙蓉不再強迫我吃她新創作的可怕料理就好......"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......嘘，别打扰博士休息，有事我们到外面说。"
+        },
+        {
+          "language": "日文",
+          "content": "……しーっ、ドクターは休憩中だよ。邪魔しないように、用があるなら外で話しましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "Shhh! The Doctor's resting. We can talk outside."
+        },
+        {
+          "language": "韩文",
+          "content": "…쉿, 박사님께선 지금 휴식 중이셔. 혹시 용무가 있는 거라면, 방해되면 안 되니까 밖에서 얘기할까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "......噓，別打擾博士休息，有事我們到外面說。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我是芬，长枪手，现在正担任着行动预备组A1的队长一职。我和我的小队一定会竭尽全力，成为罗德岛可靠的战力。"
+        },
+        {
+          "language": "日文",
+          "content": "私はフェン、槍使いです。新米チームの隊長もしています。ロドスの力になれるよう、チームメンバーと共に全力を尽くす覚悟です。"
+        },
+        {
+          "language": "英文",
+          "content": "Lancer Fang, captain of Reserve Op Team A1. My team and I will do our best to serve Rhodes Island."
+        },
+        {
+          "language": "韩文",
+          "content": "제 이름은 팽, 창병입니다. 예비작전팀 A1의 팀장을 맡고 있습니다. 로도스 아일랜드에 보탬이 될 수 있도록, 팀원들과 함께 최선을 다하겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我是芬，長槍手，現在正擔任著行動預備組A1的隊長一職。我和我的小隊一定會竭盡全力，成為羅德島可靠的戰力。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "感谢您的指导。"
+        },
+        {
+          "language": "日文",
+          "content": "ご指導、ありがとうございます。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you for your guidance."
+        },
+        {
+          "language": "韩文",
+          "content": "지도해주셔서 감사합니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "感謝您的指導。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您的提拔是对我努力的最好肯定。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターからの任命は、私の努力に対する最高の評価だと思ってます。"
+        },
+        {
+          "language": "英文",
+          "content": "Your&nbsp;approval&nbsp;means&nbsp;so&nbsp;much&nbsp;to&nbsp;me,&nbsp;Doctor.&nbsp;This&nbsp;promotion&nbsp;proves&nbsp;my&nbsp;hard&nbsp;work&nbsp;is&nbsp;paying&nbsp;off."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님께서 이렇게 임명해주신 건, 제 노력에 대한 최고의 평가라고 생각합니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "您的提拔是對我努力的最好肯定。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请交给我。"
+        },
+        {
+          "language": "日文",
+          "content": "お任せください。"
+        },
+        {
+          "language": "英文",
+          "content": "Leave it to me."
+        },
+        {
+          "language": "韩文",
+          "content": "맡겨만 주십시오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "請交給我。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没问题，我很了解队长该做什么。"
+        },
+        {
+          "language": "日文",
+          "content": "隊長の役目はよく理解しているつもりです。大丈夫です。"
+        },
+        {
+          "language": "英文",
+          "content": "I know the captain's duty well. Rest easy."
+        },
+        {
+          "language": "韩文",
+          "content": "팀장으로서 해야 할 일은 숙지하고 있습니다. 걱정마십시오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "沒問題，我很瞭解隊長該做什麼。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "全体人员，出发前务必要检查随身装备是否备齐了。"
+        },
+        {
+          "language": "日文",
+          "content": "総員、出発前に装備品のチェックを。"
+        },
+        {
+          "language": "英文",
+          "content": "Team, check your gear before departing."
+        },
+        {
+          "language": "韩文",
+          "content": "모두, 출발 전에 장비를 점검하도록."
+        },
+        {
+          "language": "繁体中文",
+          "content": "全體人員，出發前務必要檢查隨身裝備是否備齊了。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "发现敌方单位。准备作战！"
+        },
+        {
+          "language": "日文",
+          "content": "敵部隊捕捉。作戦準備！"
+        },
+        {
+          "language": "英文",
+          "content": "Enemy spotted. Prepare to fight!"
+        },
+        {
+          "language": "韩文",
+          "content": "적 부대 발견, 작전 준비!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "發現敵方單位。準備作戰！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "准备行动。"
+        },
+        {
+          "language": "日文",
+          "content": "準備完了。"
+        },
+        {
+          "language": "英文",
+          "content": "Ready for action."
+        },
+        {
+          "language": "韩文",
+          "content": "준비 완료."
+        },
+        {
+          "language": "繁体中文",
+          "content": "準備行動。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "准备万全。"
+        },
+        {
+          "language": "日文",
+          "content": "備えは万全です。"
+        },
+        {
+          "language": "英文",
+          "content": "On standby."
+        },
+        {
+          "language": "韩文",
+          "content": "준비는 전부 마쳐두었습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "準備萬全。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "各就各位。"
+        },
+        {
+          "language": "日文",
+          "content": "各自、配置につけ。"
+        },
+        {
+          "language": "英文",
+          "content": "In position."
+        },
+        {
+          "language": "韩文",
+          "content": "각자, 위치로."
+        },
+        {
+          "language": "繁体中文",
+          "content": "各就各位。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请交给我们。"
+        },
+        {
+          "language": "日文",
+          "content": "私たちにお任せください。"
+        },
+        {
+          "language": "英文",
+          "content": "Leave it to us."
+        },
+        {
+          "language": "韩文",
+          "content": "저희에게 맡겨 주십시오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "請交給我們。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "刺穿。"
+        },
+        {
+          "language": "日文",
+          "content": "貫く！"
+        },
+        {
+          "language": "英文",
+          "content": "Thrust!"
+        },
+        {
+          "language": "韩文",
+          "content": "꿰뚫어버려주마!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "刺穿。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大家跟着我！"
+        },
+        {
+          "language": "日文",
+          "content": "みんな、私に続け！"
+        },
+        {
+          "language": "英文",
+          "content": "Everyone, follow me!"
+        },
+        {
+          "language": "韩文",
+          "content": "모두, 날 따라오도록!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "大家跟著我！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "只要有正确合理的作战计划，就算是我们这样的新手，也能赢下这样艰难的战斗！"
+        },
+        {
+          "language": "日文",
+          "content": "正確かつ合理的な作戦プランがあれば、私達のような新米でもこんな戦いに勝つことができるんですね！"
+        },
+        {
+          "language": "英文",
+          "content": "With the right plan, even rookies like us can win a tough fight!"
+        },
+        {
+          "language": "韩文",
+          "content": "정확하고 합리적인 작전 계획이 있으면, 저희도 이렇게 전투에서 승리할 수 있는 거군요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "只要有正確合理的作戰計畫，就算是我們這樣的新手，也能贏下這樣艱難的戰鬥！"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们按照预定目标，完成了此次作战。"
+        },
+        {
+          "language": "日文",
+          "content": "作戦目標、予定通り完遂しました。"
+        },
+        {
+          "language": "英文",
+          "content": "We have accomplished our objective as planned."
+        },
+        {
+          "language": "韩文",
+          "content": "작전 목표, 예정대로 완수했습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我們按照預定目標，完成了此次作戰。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "只要放走一个敌人，作战就不能说是成功的。米格鲁，下次我们也要加油。"
+        },
+        {
+          "language": "日文",
+          "content": "一人でも逃せば、作戦は成功とは言えない。ビーグル、次も頑張ろうね。"
+        },
+        {
+          "language": "英文",
+          "content": "We can't call a mission complete if we let even a single enemy get through. Beagle, let's do better on the next one."
+        },
+        {
+          "language": "韩文",
+          "content": "적을 한 명이라도 놓쳤다면 그 작전은 성공했다고 할 수 없어. 비글, 다음엔 더 잘하자."
+        },
+        {
+          "language": "繁体中文",
+          "content": "只要放走一個敵人，作戰就不能說是成功的。米格魯，下次我們也要加油。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "非常抱歉，杜宾老师......"
+        },
+        {
+          "language": "日文",
+          "content": "申し訳ありません、ドーベルマン先生……。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm sorry I failed you, Instructor Dobermann..."
+        },
+        {
+          "language": "韩文",
+          "content": "면목 없습니다, 도베르만 선생님……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "非常抱歉，杜賓老師......"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "是的，我回来了。克洛丝也在这里吗？"
+        },
+        {
+          "language": "日文",
+          "content": "はい、ただいま……クルースもここにいるんですか。"
+        },
+        {
+          "language": "英文",
+          "content": "Yes. I'm back. Is Kroos here too?"
+        },
+        {
+          "language": "韩文",
+          "content": "네, 다녀왔습니다…… 크루스도 여기 있습니까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "是的，我回來了。克洛絲也在這裡嗎？"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊！"
+        },
+        {
+          "language": "日文",
+          "content": "あっ！"
+        },
+        {
+          "language": "英文",
+          "content": "Ahh...!"
+        },
+        {
+          "language": "韩文",
+          "content": "앗!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "啊！"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我帮上您的忙了吗？"
+        },
+        {
+          "language": "日文",
+          "content": "お力になれましたか？"
+        },
+        {
+          "language": "英文",
+          "content": "Am I helping?"
+        },
+        {
+          "language": "韩文",
+          "content": "도움이 되었습니까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我幫上您的忙了嗎？"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "新年快乐，博士，我们小队准备去聚餐，正准备去邀请杜宾老师，您也一起来吗？我也还有一些战斗上的问题......啊，抱歉，已经是节日了，我不应该再提工作的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我随时都可以，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "いつでもいけます、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm ready whenever you need me, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "언제든지 준비되어 있습니다, 박사님."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我隨時都可以，博士。"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "按照既定目标，我已经完成了要做的所有训练，小队的其他人也在杜宾老师的训练下进步了很多，我们在战斗方面已经磨合得越来越好。博士，我会成为更好的队长的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

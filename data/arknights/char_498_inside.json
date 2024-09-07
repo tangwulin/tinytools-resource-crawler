@@ -1,0 +1,839 @@
+{
+  "name": "隐现",
+  "charaKey": "char_498_inside",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_498_inside"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_498_inside"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_498_inside"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_498_inside"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "工作太多了需要帮忙？哈哈，罗德岛的内部事务让我插手不太合适吧......没问题？呃，真的？"
+        },
+        {
+          "language": "日文",
+          "content": "仕事が多すぎて天使の手も借りたいってか？はは、ロドスの内部事務によそ者が関わるのは流石にまずい……って大丈夫？え、本気で言ってんのか？"
+        },
+        {
+          "language": "英文",
+          "content": "You need my help with your mountain of work? Haha, I'm not sure if I should be <i>intervening</i> in Rhodes Island's internal affairs though...? It's no problem? Uh, really?"
+        },
+        {
+          "language": "韩文",
+          "content": "업무가 너무 많아서 도움이 필요하다고? 하하, 로도스 아일랜드의 내부 일에 내가 개입하는 건 적절하지 않은 것 같은데…… 괜찮다고? 어, 정말?"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们的条律无法完美地解决所有的争端，哪怕是圣徒，很多时候也无能为力。就像是修道院的那位主教阁下，我会尊敬他那样的人，只是很遗憾，我本人没有那种崇高的信念。"
+        },
+        {
+          "language": "日文",
+          "content": "俺たちの法はあらゆる争いを完璧に解決できるわけじゃないし、聖徒もお手上げって状況も多い。それこそ修道院のあの司教殿でも同じだと思うぜ。俺はああいう人のことは尊敬するけど、残念ながら崇高な信念なんて持ち合わせちゃいないんでね。"
+        },
+        {
+          "language": "英文",
+          "content": "Our laws are incapable of perfectly solving every dispute. There are many situations where even the saints can't help. I must admit, I have a deep respect for people like the bishop from that monastery, considering the problems he faced. Too bad I don't have such lofty faith."
+        },
+        {
+          "language": "韩文",
+          "content": "우리의 법이 모든 분쟁을 완벽하게 해결할 수는 없어. 성도라고 해도 속수무책인 때도 많아. 그 수도원의 주교님이 마주했던 상황이 그런 경우라 할 수 있지. 내가 그런 사람들을 존경하긴 하지만 아쉽게도 나한테 그런 숭고한 신념은 없어."
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那是芳汀那臭小子？他什么时候变得听话了......都是博士你教的？嚯，真是了不起！不过也是，虽然那小子心眼不少，但人年纪还轻着呢，要糊弄一下不难......嗯？不是糊弄？"
+        },
+        {
+          "language": "日文",
+          "content": "ありゃアレーンのきかん坊か？いつの間にあんなに落ち着いたんだ……ドクターが躾けた？へぇ、大したもんだなぁ！まぁそれもそうか。いくらずる賢くてもまだまだガキだし、言いくるめるのはそんなに難しくないはず……え？言いくるめたわけじゃない？"
+        },
+        {
+          "language": "英文",
+          "content": "Was that Arene earlier? Now when did that punk learn some manners...? You taught him? Wow, now that's impressive! I guess even a devious boy like him is still just a boy. Easy enough to trick him onto the right track... Huh...? You didn't trick him?"
+        },
+        {
+          "language": "韩文",
+          "content": "저거 설마 아렌이야? 언제 저렇게 어른스러워졌대…… 박사가 가르친 거야? 이야, 정말 대단한데! 하긴, 꼼수를 잘 부리긴 해도 아직은 어린애니까, 얼렁뚱땅 속여 넘기는 건 어렵지 않았겠지…… 어? 속인 게 아니라고?"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哟，博士，安比尔他们举办了甜品大会，我准备做点甜甜圈带去，能帮忙尝尝口味吗？怎么样，味道......哎哎慢点喝水，小心呛到！太甜、太腻了？奇怪，我觉得糖度正好啊......"
+        },
+        {
+          "language": "日文",
+          "content": "よっ、ドクター。アンブリエルたちがスイーツ大会をやるってんで、俺もドーナツ作って参加しようと思ってるんだけど、ちょっと試食してくれるか？どうだ？味は……っておい、そんな水をがぶ飲みしたらむせるぞ！甘すぎてくどい？おかしいな、ちょうどいい甘さだと思ったんだけど……"
+        },
+        {
+          "language": "英文",
+          "content": "Yo, Doctor! Ambriel and the others are doing a dessert potluck, and I'm bringing donuts. Mind helping me taste test? Okay, so what do you think—Whoa whoa, slow down on the water! It's too sweet and greasy? Strange, I thought the sugar level was just right..."
+        },
+        {
+          "language": "韩文",
+          "content": "여어, 박사. 엠브리엘이랑 친구들이 디저트 대회를 연다고 해서, 도넛을 가져갈까 하는데, 맛 좀 봐줄래? 어때? ……이봐, 물 좀 천천히 마셔, 그러다가 사레들리겠다! 너무 달고, 느끼하다고? 이상하네, 나한텐 딱 적당히 달던데……"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别误会，博士，“我是公证所代表”的意思是，大家都很好奇，什么样的地方居然能让那个费德里科开口推荐，而我就是那个被推出来看看的代表。公证所相关的问题，我说了可不算，别找我啊。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、「俺は公証人役場の代表」とは言ったけど、変な誤解はしないでくれよ。あのフェデリコがオススメするほどの会社がどんなところかってみんな興味津々でな、それを確かめるために選ばれた代表が俺ってだけだ。役場に関する質問なんてされても、俺の答えはあてにならないから聞くなよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't get me wrong, Doctor, yes, I was elected as 'a representative of the Notarial Hall', but that's just because everyone's curious about what magical place could  Federico endorse, and they needed someone out to take a look for them. In other words, they picked me to come take a look-see here. I've got no say on any matters relating to the Notarial Hall, so don't ask me about that sort of thing, okay?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, '내가 공증소 대표'라고는 말했지만, 이상한 오해는 하지 말아 줘. 그 페데리코가 추천할 정도의 회사가 어떤 곳인지 다들 궁금해해서, 그걸 확인하기 위해 선택된 대표가 나라는 것뿐이야. 공증소와 관련된 문제는 내겐 결정권이 없으니까 나한테 묻지 말라고."
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "身为一个拉特兰人是件幸运的事。不，博士，我们的幸运不在于萨科塔的光环，而在于我们物质富足，也还算有点实力。你也有你心中理想的罗德岛？要追逐理想可不容易，嗯......祝你顺利？"
+        },
+        {
+          "language": "日文",
+          "content": "ラテラーノ人に生まれたのは幸せなことだぜ。いやいや、サンクタの光輪を授ったからじゃなくて、豊かな環境に恵まれて、それなりの力を持つ国に生まれられたからだ。あんたにも理想のロドス像があったりすんのか？理想を追い求めるのはしんどいぜ。まぁ……上手くいくといいな。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm lucky I was born a Lateran. No, Doctor, our good fortune does not lie in our halos, but in our material abundance and strong state. You have an ideal Rhodes Island of your own? It's not easy, chasing your dreams, but... good luck I guess?"
+        },
+        {
+          "language": "韩文",
+          "content": "라테라노인으로 태어난 건 행복한 일이야. 아니, 박사, 산크타의 광륜 때문에 그렇다는 게 아니라, 라테라노는 물질적으로 풍족하고, 나름대로 힘을 가진 나라잖아. 박사 네 마음속에도 이상적인 로도스 아일랜드가 있겠지? 이상을 추구하는 건 쉬운 일이 아니지만, 음…… 부디 잘 되길 바랄게."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "注意姿势，保持弩身方向，身体稍微侧一些......对，就是这样，然后扣下扳机！嗯，很好，正中靶心！不不，不用谢，只是帮忙纠正一下姿势，不算是我的功劳，博士本身就很有天赋。"
+        },
+        {
+          "language": "日文",
+          "content": "姿勢を意識して、クロスボウの向きがブレないように少し体をひねって……そうだ、いいぞ。じゃあ引き金を引いてみな。よーし、ど真ん中だ！いやいや、お礼なんていいよ。ちょっと姿勢を指導しただけだから、俺のおかげじゃなくてドクターのスジがよかったのさ。"
+        },
+        {
+          "language": "英文",
+          "content": "Take note of your posture, keep your crossbow aimed straight ahead, turn your body slightly... Yes, just like that, and then pull the trigger! Wow, bullseye! Very nice! Oh no, no need to thank me, I just helped correct your posture, that's all. You're very talented, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "자세에 주의하고, 크로스보우의 방향은 유지하면서, 몸은 약간 옆으로 비틀어…… 응, 바로 그거야. 이제 방아쇠를 당겨! 잘했어, 아주 좋은데. 과녁 정중앙에 맞았네! 아니, 고마워할 필요는 없어, 난 그냥 자세만 바로잡아 줬을 뿐이잖아. 내 덕이 아니라 박사가 재능이 있는 거라고."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "来，博士，坐这儿，有件事想和你商量。我认识一些萨卡兹人，还算能打，罗德岛的任务还需不需要帮手？哈哈，是啊，我是不喜欢自找麻烦，但......你就当我脑子进水了，总之考虑一下？"
+        },
+        {
+          "language": "日文",
+          "content": "ほらドクター、ここに座ってくれ。ちょっと相談したいことがあるんだ。そこそこやり手のサルカズを何人か知ってるんだけど、ロドスに人手は必要かと思ってさ。はは、そうだな、面倒事に首を突っ込むのは嫌いだけど、まぁ……俺の頭がイカれちまったとでも思ってくれりゃいい。とにかく考えといてくれよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Come sit over here, Doctor. I have something to discuss with you. There's a bunch of Sarkaz I know, and they're pretty good in a fight, so if Rhodes Island ever needs a few helping hands... Haha, yes, I'm not eager to make trouble for myself, but... Well, I might be going too soft, but why not consider it?"
+        },
+        {
+          "language": "韩文",
+          "content": "잠깐, 박사, 여기 좀 앉아 봐. 너랑 의논하고 싶은 게 있어. 내가 실력 좋은 살카즈 몇 명 아는데, 혹시 로도스 아일랜드의 임무 수행에 일손이 더 필요하진 않아? 하하, 그래, 솔직히 귀찮은 일을 사서 하는 걸 좋아하진 않지만…… 그냥 내 머리가 어떻게 됐나 보다라고 생각해도 괜찮으니까, 한번 생각해 봐줘."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我觉得你应该也会为这种麻烦头疼，所以我替你处理了，这是任务报告。场面不好看，不适合附上照片，但我是按照你笔记里的名单执行的，一个也没有落下。博士，怎么这副表情？有哪里不舒服吗？"
+        },
+        {
+          "language": "日文",
+          "content": "あんたもこういう厄介事にゃ手を焼くかと思って、代わりに片付けといたぜ。これが報告書な。ひでえ有様だったから写真は添付してないけど、あんたのメモ書きのリスト通りに一人残らず執行したからな。うん？ドクター、なんだその顔？具合でも悪いのか？"
+        },
+        {
+          "language": "英文",
+          "content": "I thought you might have found this business annoying, so I dealt with it in your place, and here's the mission report. The scene was something of an eyesore, so I didn't attach any photos. I executed every last name in your notes, no exceptions.   What's with the look, Doctor? Do you feel unwell?"
+        },
+        {
+          "language": "韩文",
+          "content": "이런 골칫거리 때문에 괴로워하고 있을 것 같아서 내가 대신 해결해 뒀어. 자, 이건 임무 보고서야. 별로 아름다운 장면은 아니라서 사진을 첨부하진 않았어. 그래도 너의 메모에 있던 리스트대로 하나도 빠짐없이 집행했으니까…… 어, 박사, 왜 그런 표정이야? 혹시 어디 아파?"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，你醒了......嗯？求我别告诉凯尔希医生和阿米娅你工作时偷懒？啊哈哈，有谁工作时间偷懒了吗？我可什么都没看到。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、目が覚めたか……え？サボってたことはケルシー先生とアーミヤにはチクらないでくれって？はは、サボってる奴なんかいたっけなー？俺は何も見てないぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "Oh, Doctor, you're awake… What? Please don't tell Dr. Kal'tsit and Amiya you were napping at work? Ahaha, what napping?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 깼어……? 뭐? 켈시 선생님과 아미야한테 네가 업무 중에 게으름을 피웠다고 말하지 말아 달라고? 하하, 근무 시간에 게으름을 피운 사람이 있었나? 나는 모르겠는데."
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "拉特兰公证所外派人员，隐现，这是合作相关文件。请问接下来我需要去哪个办公室？事关罗德岛对我的第一印象，我可千万不能出什么差错啊。"
+        },
+        {
+          "language": "日文",
+          "content": "ラテラーノ公証人役場からこちらに派遣されました、インサイダーと申します。こちらが契約関連の書類です。次はどちらのオフィスへ向かえばよいでしょうか？ロドスに好印象を与えられるように、些細なミスも気をつけないとですね。"
+        },
+        {
+          "language": "英文",
+          "content": "Liaison from the Lateran Notarial Hall, Insider. Here's the paperwork for our collaboration. May I ask which office I should be heading to next? I'm making my first impression here at Rhodes Island, so I want to do this perfectly."
+        },
+        {
+          "language": "韩文",
+          "content": "라테라노 공증소에서 파견된 인사이더라고 합니다. 이건 계약 관련 서류입니다. 이제 어느 사무실로 가면 되죠? 로도스 아일랜드에 좋은 인상을 남길 수 있도록 실수하지 않게 조심해야겠네요."
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让我看看啊，艾泽尔这小子，作战时还是留手了吧......嘶，费德里科下手真不留情啊！"
+        },
+        {
+          "language": "日文",
+          "content": "どれどれ……エゼルの野郎、やっぱり手加減してやがるな……うわっ、フェデリコの方は慈悲の欠片もねえなぁ！"
+        },
+        {
+          "language": "英文",
+          "content": "Let's see... Ezell is still so merciful in battle, huh... Sheesh, Federico is the exact opposite!"
+        },
+        {
+          "language": "韩文",
+          "content": "어디 보자, 에젤 이 녀석, 작전 때 또 상대를 봐줬잖아…… 우와, 역시 페데리코는 무자비하네."
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "晋升？谢谢你的肯定，博士。不过，这是不是意味着，接下来有什么更棘手的事情得要我去处理了？"
+        },
+        {
+          "language": "日文",
+          "content": "昇進？認めてくれてありがとな、ドクター。だけどこれって、今後はもっと厄介な仕事を任されるってことじゃないのか？"
+        },
+        {
+          "language": "英文",
+          "content": "Promotion? Thank you for your affirmation, Doctor. However, does this mean I'm going to have to handle even more difficult work in the future?"
+        },
+        {
+          "language": "韩文",
+          "content": "승진? 인정해 줘서 고마워, 박사. 근데 설마 이거, 앞으로 더 성가신 일을 처리해야 한다는 뜻은 아니겠지?"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "多谢，我会把罗德岛有意深化合作的消息报告给公证所的......这是对我个人的表彰？哈哈，那可真是太荣幸了。"
+        },
+        {
+          "language": "日文",
+          "content": "サンキュー。ロドスにはもっと深い協力関係を築く意向があるって役場に報告しとくよ……これは俺個人への表彰？あはは、そいつは光栄極まりないな。"
+        },
+        {
+          "language": "英文",
+          "content": "Many thanks. I will report that Rhodes Island intends to deepen the level of cooperation with the Notarial Hall... Wait, this is a personal commendation for me? Haha, what an honor."
+        },
+        {
+          "language": "韩文",
+          "content": "고마워. 로도스 아일랜드가 더 깊은 협력 관계를 구축할 의향이 있다고 공증소에 보고해 둘게…… 이건 내 개인 표창이라고? 하하, 그렇다면 정말 영광이네."
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没问题，既然你判断当前情况必须动用武力，我当然相信你啦。"
+        },
+        {
+          "language": "日文",
+          "content": "了解。あんたが武力行使するしかないって判断したんなら、俺は信じるぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "Got it. You've determined that use of force is required in the current situation, and I'll trust you on that."
+        },
+        {
+          "language": "韩文",
+          "content": "알겠어, 네가 무력을 사용할 수밖에 없다고 판단한 거면 그런 거겠지, 난 널 믿어."
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我说了算？那我喜欢各人都尽情自由发挥的做法，嗯，然后各人对自己的行动负责。"
+        },
+        {
+          "language": "日文",
+          "content": "俺が決めていいのか？じゃあみんな好きにやってもらうのがいいな。ああ、そんで各自自分の行動には責任を持ってもらうんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm in charge? Alright then, I would like everyone to act freely as they wish. And everyone is responsible for their own actions."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 팀장이라고? 그럼 난 다들 알아서 하라고 할래. 음, 그리고 자신의 행동에 대해서도 스스로 책임지라 할 거야."
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "铳械已准备。"
+        },
+        {
+          "language": "日文",
+          "content": "銃の準備はできてるぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "Firearm, check."
+        },
+        {
+          "language": "韩文",
+          "content": "총은 준비됐어."
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在我举起铳处理问题之前，各位最好先冷静一下。"
+        },
+        {
+          "language": "日文",
+          "content": "私がこの銃で問題解決にあたる前に、皆さん少し冷静になっていただけませんか。"
+        },
+        {
+          "language": "英文",
+          "content": "I wish everyone could just calm down, before I raise my gun to settle things."
+        },
+        {
+          "language": "韩文",
+          "content": "제가 총으로 문제를 해결하기 전에 여러분이 먼저 진정해 주실 수 있으신가요?"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好的，接受任务。"
+        },
+        {
+          "language": "日文",
+          "content": "OK、任務は承ったぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "Alright, mission accepted."
+        },
+        {
+          "language": "韩文",
+          "content": "오케이, 임무를 수락할게."
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "子弹很快，但解决争端的效率不一定高。"
+        },
+        {
+          "language": "日文",
+          "content": "弾丸は速いけど、同じ速さで問題を解決できるとは限らないぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "Bullets may be fast, but they aren't always so quick to solve disputes."
+        },
+        {
+          "language": "韩文",
+          "content": "총알은 빠르지만, 분쟁 해결이 그만큼 빨라진다곤 장담 못 해."
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "各位，别误会，我只是想来了解一下情况。"
+        },
+        {
+          "language": "日文",
+          "content": "あー皆さん、どうか誤解なきよう。私は状況を把握したいだけですので。"
+        },
+        {
+          "language": "英文",
+          "content": "Chill, everyone, I'm just here for a few questions."
+        },
+        {
+          "language": "韩文",
+          "content": "여러분 오해하지 마세요. 전 상황을 파악하러 온 것뿐이라고요."
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们真的这么固执的话......准备执行。"
+        },
+        {
+          "language": "日文",
+          "content": "あんたらがそこまで頑ななら……執行準備。"
+        },
+        {
+          "language": "英文",
+          "content": "If you insist on being so stubborn, then... prepare for execution."
+        },
+        {
+          "language": "韩文",
+          "content": "당신들, 정말 이렇게까지 막무가내로 나온다면…… 집행 준비."
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "比起射击，其实我更擅长格斗，嗯，事后处理会比较轻松。"
+        },
+        {
+          "language": "日文",
+          "content": "実は射撃よりも格闘の方が得意なんだ。ああ、後片付けもそっちの方が楽だしな。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm actually better at wrestling than shooting. Makes the cleanup easier."
+        },
+        {
+          "language": "韩文",
+          "content": "사실 난 사격보다 격투를 더 잘해, 음, 뒷정리도 그게 더 편하잖아."
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我调整一下武器，给你喊疼的时间。"
+        },
+        {
+          "language": "日文",
+          "content": "ちょっくら武器を調整して、悲鳴を上げる時間を作ってやるからな。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll give you some time to cry out in pain while I adjust my weapon."
+        },
+        {
+          "language": "韩文",
+          "content": "잠깐 무기 좀 조정할 테니까, 아프면 비명 질러도 돼."
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呃，我其实不想这么做的。"
+        },
+        {
+          "language": "日文",
+          "content": "はぁ、ホントはこんなことしたくないんだけどな。"
+        },
+        {
+          "language": "英文",
+          "content": "I was really hoping it wouldn't turn out like this."
+        },
+        {
+          "language": "韩文",
+          "content": "하아, 사실 나도 이러고 싶지 않아."
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "当前状况......全部清除就是最有效率的做法。"
+        },
+        {
+          "language": "日文",
+          "content": "現状……全員片付けるのが一番効率的だな。"
+        },
+        {
+          "language": "英文",
+          "content": "In our current situation... A complete sweep would be the most efficient solution."
+        },
+        {
+          "language": "韩文",
+          "content": "현재 상황으로선…… 모두 제거하는 게 가장 효율적이겠네."
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我来这里真是自找麻烦，还好有你在，博士。不然，我真想不出那么复杂的冲突要如何化解。"
+        },
+        {
+          "language": "日文",
+          "content": "また余計なことに首を突っ込んだかと思ったけど、ドクターがいてくれてよかったよ。じゃなきゃこんなこじれた衝突の解決策なんて浮かびっこなかったぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "I knew I was getting into trouble coming here, but thankfully I've got you, Doctor. I wouldn't have figured out how to resolve such a complicated conflict by myself."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 또 귀찮은 일을 사서 한 줄 알았는데, 박사가 있어서 정말 다행이야. 박사가 아니었으면 이렇게 복잡한 갈등을 어떻게 풀어야 할지 감도 안 잡혔을 거야."
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯，铳可以收起来了。任务已完成，博士，既然是和计划一致的胜利，那应该也不需要什么善后工作了吧？"
+        },
+        {
+          "language": "日文",
+          "content": "よし、銃はもうしまってもよさそうだな。任務完了だ、ドクター。計画通りの大勝利だし、特に後始末はいらないよな？"
+        },
+        {
+          "language": "英文",
+          "content": "Alright, time to pack up my gun. Mission complete, Doctor. We achieved victory just as planned, so there shouldn't be any post mortem work required, right?"
+        },
+        {
+          "language": "韩文",
+          "content": "좋았어, 총은 이제 넣어도 되겠다. 임무 완료야, 박사. 계획대로의 승리니까, 뒷수습 같은 건 필요 없겠지?"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "什么，有人溜走了吗？哎，我闭着一只眼睛在瞄准，可能刚好没看到吧。"
+        },
+        {
+          "language": "日文",
+          "content": "マジかよ、逃げた奴がいんのか？はぁ、片目を閉じて照準を合わせてたから、見逃しちまったのかもな。"
+        },
+        {
+          "language": "英文",
+          "content": "What, did some of them escape? Ah, I had one eye closed while aiming my shots, so maybe they happened to be out of my sight."
+        },
+        {
+          "language": "韩文",
+          "content": "뭐? 도망간 녀석이 있다고? 하아, 한쪽 눈을 감고 조준하느라 못 봤나 보네."
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "很显然，我们需要重新考虑方案。"
+        },
+        {
+          "language": "日文",
+          "content": "言うまでもないけど、作戦を練り直す必要がありそうだ。"
+        },
+        {
+          "language": "英文",
+          "content": "It's clear we need to overhaul our plans."
+        },
+        {
+          "language": "韩文",
+          "content": "당연한 말이지만, 우리 작전을 다시 짜야 할 것 같아."
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这么好的住宿条件？在我执行过的外派任务里，这环境算是顶尖啦。"
+        },
+        {
+          "language": "日文",
+          "content": "こんないい住まいを提供してもらえんのか？これまでの派遣任務の中じゃ、ここの環境はトップクラスだよ。"
+        },
+        {
+          "language": "英文",
+          "content": "You have such good accommodation here? This place is top-notch in all the foreign posting I've had."
+        },
+        {
+          "language": "韩文",
+          "content": "이렇게 좋은 숙소를 제공한다고? 지금까지 맡은 파견 임무 중에서 여기 환경이 제일 완벽해!"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哈哈，博士，你这样是吓不到我的。"
+        },
+        {
+          "language": "日文",
+          "content": "はは、ドクター。そんなんじゃ俺はビビらないぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "Haha, Doctor. You're not scaring me that easily."
+        },
+        {
+          "language": "韩文",
+          "content": "하하, 박사, 이런다고 날 놀래킬 수는 없어."
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "偶尔在这种室内走廊上休息也挺惬意的，毕竟，拉特兰的长椅基本都在室外嘛。"
+        },
+        {
+          "language": "日文",
+          "content": "たまにはこうやって通路でくつろぐのも乙なもんだな。ラテラーノのベンチはだいたい屋外にあるからさ。"
+        },
+        {
+          "language": "英文",
+          "content": "It's nice to occasionally get some rest in places like this corridor. After all, most of Laterano's benches are found only outdoors."
+        },
+        {
+          "language": "韩文",
+          "content": "가끔은 이렇게 실내 복도에서 휴식을 취하는 것도 나쁘지 않네. 라테라노의 벤치는 대부분 실외에 있거든."
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "新年快乐，博士！新年往往意味着成倍的棘手事件，不知道罗德岛这边怎么样......我这会儿怎么不在拉特兰处理事务？啊哈哈，外派任务也是很重要的嘛。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你也可以选择先休息一下，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "いったん休憩ってのも悪くないんじゃないか、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "You can take a break first, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "일단 쉬는 것도 나쁘지 않은 선택이야, 박사."
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哎，现在的气氛好像只适合说严肃的话？好吧，说真的，博士，本来我对罗德岛的好奇心没有其他执行者那么强，但现在我很佩服你们的本领。总是朝着冲突前进，而不是避开它，这可不容易。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

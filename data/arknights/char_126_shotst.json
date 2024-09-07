@@ -1,0 +1,992 @@
+{
+  "name": "流星",
+  "charaKey": "char_126_shotst",
+  "images": [
+    "https://media.prts.wiki/b/be/%E7%AB%8B%E7%BB%98_%E6%B5%81%E6%98%9F_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/b/ba/%E7%AB%8B%E7%BB%98_%E6%B5%81%E6%98%9F_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/a/a3/%E7%AB%8B%E7%BB%98_%E6%B5%81%E6%98%9F_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/6/67/%E7%AB%8B%E7%BB%98_%E6%B5%81%E6%98%9F_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_126_shotst"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_126_shotst"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_126_shotst"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_126_shotst"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好怀念的气息啊。这里是......？"
+        },
+        {
+          "language": "日文",
+          "content": "懐かしい匂いがするわ。ここは……？"
+        },
+        {
+          "language": "英文",
+          "content": "I sense something familiar in the wind. Where are we?"
+        },
+        {
+          "language": "韩文",
+          "content": "아련한 향기가 나네. 여긴…?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "好懷念的氣息啊。這裡是......？"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "来自卡西米尔的风，您感受到了吗？"
+        },
+        {
+          "language": "日文",
+          "content": "カジミエーシュからの風、感じてもらえるかしら。"
+        },
+        {
+          "language": "英文",
+          "content": "Do you feel the wind from Kazimierz?"
+        },
+        {
+          "language": "韩文",
+          "content": "카시미어에서 불어오는 바람을 느껴봐."
+        },
+        {
+          "language": "繁体中文",
+          "content": "來自卡西米爾的風，您感受到了嗎？"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛和我待过的地方不一样，这里没有可以点起篝火的地方，真遗憾。不知道在甲板上能不能行，我想给大家创造一个近距离说话聊天的场所。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスは昔いたトコと違って、焚き火ができる場所がないのが残念ね。甲板の上とかでもいいから、みんなと話し合える場所がほしいわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Rhodes Island is very different from the places I used to live. There's nowhere to start a campfire here... too bad. Maybe on the deck? I'd like to create a space where everyone can talk and grow closer together."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드엔 예전에 있던 곳처럼 모닥불을 피울 만한 장소가 없어서 아쉬워. 갑판 위라도 좋으니까, 다 함께 얘기 나눌 수 있는 곳이 있으면 좋겠는데."
+        },
+        {
+          "language": "繁体中文",
+          "content": "羅德島和我待過的地方不一樣，這裡沒有可以點起篝火的地方，真遺憾。不知道在甲板上行不行，我想給大家創造一個近距離說話聊天的場所。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这个任务登记系统......？呃，要怎么操作呢？我对电子设备真的不怎么在行......"
+        },
+        {
+          "language": "日文",
+          "content": "この任務を登録するソフト？は、どうやって使うのかしら？私、パソコンっていうのは本当にもう……。"
+        },
+        {
+          "language": "英文",
+          "content": "Umm, how does this mission signup system actually work? I'm really bad at electronics…"
+        },
+        {
+          "language": "韩文",
+          "content": "이 임무를 등록하는… 소프트웨어라고 하나? 이거, 어떻게 쓰는 거지? 난 이 컴퓨터… 라는 걸 잘 몰라서…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這個任務登記系統......？呃，要怎麼操作呢？我對電子設備真的不怎麼在行......"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "最近罗德岛增加了许多新面孔啊。为了让他们更顺利地融入罗德岛，必要的时候我会去帮助他们的。"
+        },
+        {
+          "language": "日文",
+          "content": "最近、新しいメンバーがいっぱい増えたのね。ロドスにうまく馴染めるように、必要なら私が相談に乗るわ。"
+        },
+        {
+          "language": "英文",
+          "content": "There have been lots of new faces at Rhodes Island. I'll gladly help them adjust to the environment."
+        },
+        {
+          "language": "韩文",
+          "content": "요즘 새로운 멤버가 많이 늘었네. 로도스 아일랜드에 적응할 수 있도록 내가 잘 챙겨줄게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "最近羅德島增加了許多新面孔啊。為了讓他們更順利地融入羅德島，必要的時候我會去幫助他們的。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那位卡西米尔骑士......嗯，我没认错，我以前就认识她，那时候她还是个喜欢读书的内向女孩呢。变化可真大啊。"
+        },
+        {
+          "language": "日文",
+          "content": "あのカジミエーシュの騎士……そうね、昔からよく知ってる子だわ。あの頃は人見知りで、本ばかり読んでいたのに……。こんなに変わったんだね。"
+        },
+        {
+          "language": "英文",
+          "content": "That Kazimierzian knight... Oh, it's her. I knew that girl years ago. She used to be a shy, bookish type. I wonder what made her change so much."
+        },
+        {
+          "language": "韩文",
+          "content": "저 카시미어의 기사… 그래, 전부터 알던 애야. 그땐 낯도 많이 가리고 책만 들여다보던 아이가… 이렇게 변했구나."
+        },
+        {
+          "language": "繁体中文",
+          "content": "那位卡西米爾騎士......嗯，我沒認錯，我以前就認識她，那時候她還是個喜歡讀書的內向女孩呢。變化可真大啊。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嘘——看，我发现了什么，这儿有一位落单的博士，我们可以尝试捕捉他！吓到您了吗？呵呵~"
+        },
+        {
+          "language": "日文",
+          "content": "しーっ…あら、こんなところにぼっちなドクター発見……。捕まえよっと。びっくりした？ははっ。"
+        },
+        {
+          "language": "英文",
+          "content": "Shh... look what I found! A solitary Doctor... gotta catch this one! Oh, did I scare you? Haha…"
+        },
+        {
+          "language": "韩文",
+          "content": "(쉿… 어머, 이런 곳에 박사 혼자 있네… 어디 장난 좀 쳐 볼까?) 놀랐어? 하하."
+        },
+        {
+          "language": "繁体中文",
+          "content": "噓——看，我發現了什麼，這兒有一位落單的博士，我們可以嘗試捕捉他！嚇到您了嗎？呵呵~"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "偶尔的，我会想起在森林中的故乡时度过的日子。每年都有各种各样的竞赛可以参加，真怀念啊。不知道，我的故乡现在又变成什么样了呢。"
+        },
+        {
+          "language": "日文",
+          "content": "たまに故郷の森で過ごした日々を思い出すわ。毎年あったいろんな競技会なんかも懐かしいわね。いまはどうなってるのかしら……。"
+        },
+        {
+          "language": "英文",
+          "content": "I sometimes recall the time back home in the forest. We had lots of different competitions every year…ah, the good old days. I wonder what my hometown is like now."
+        },
+        {
+          "language": "韩文",
+          "content": "가끔 고향 숲에서 지내던 날들이 떠올라. 매년 열렸던 다양한 대회도 그립고. 지금은 어떻게 되었으려나…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "偶爾的，我會想起在森林中的故鄉時度過的日子。每年都有各種各樣的競賽可以參加，真懷念啊。不知道，我的故鄉現在又變成什麼樣了呢。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士的背后，无论什么时候都可以放心地交给我。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターの背中は、いつでも預かるわ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll always have your back, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "박사의 뒤는 언제나 내가 책임질게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士的背後，無論什麼時候都可以放心地交給我。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士也会这样毫无防备地睡着啊，呵呵。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターもこんな無防備な寝顔するんだ…フフ。"
+        },
+        {
+          "language": "英文",
+          "content": "So you can fall asleep without a care, just like that? Heheh..."
+        },
+        {
+          "language": "韩文",
+          "content": "박사도… 잘 때는 이렇게 무방비한 표정을 짓는구나… 후후."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士也會這樣毫無防備地睡著啊，呵呵。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你好，我是流星，来自森林的弓箭手。您需要擅长远程援护的干员吗？"
+        },
+        {
+          "language": "日文",
+          "content": "どうも、私はメテオ。森の弓使いよ。遠距離支援はいかが？"
+        },
+        {
+          "language": "英文",
+          "content": "Hello, I'm Meteor, the archer from the woods. Do you need an Operator who excels in long-distance support?"
+        },
+        {
+          "language": "韩文",
+          "content": "안녕, 난 메테오라고 해. 숲에서 온 궁수지. 원거리 지원이 필요해?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你好，我是流星，來自森林的弓箭手。您需要擅長遠程援護的幹員嗎？"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "弓术的练习，哪怕一天也不能松懈呀。"
+        },
+        {
+          "language": "日文",
+          "content": "弓の修行ってね、一日でも気を抜いたらダメなの。"
+        },
+        {
+          "language": "英文",
+          "content": "Archery requires constant practice. No one can afford to slack off for even one day."
+        },
+        {
+          "language": "韩文",
+          "content": "활쏘기 연습은 하루라도 빼먹으면 안 돼."
+        },
+        {
+          "language": "繁体中文",
+          "content": "弓術的練習，哪怕一天也不能鬆懈呀。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我很荣幸获得这次晋升机会。"
+        },
+        {
+          "language": "日文",
+          "content": "昇進ね。光栄だわ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm honored to receive this promotion."
+        },
+        {
+          "language": "韩文",
+          "content": "승진했구나, 영광이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我很榮幸獲得這次晉升機會。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "谢谢博士的认可。今后就让我继续为博士贡献自己的力量吧。"
+        },
+        {
+          "language": "日文",
+          "content": "認めてくれてありがとう。これからもドクターの力になるわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you, Doctor, for recognizing my skill. I'll continue to do my best to serve you."
+        },
+        {
+          "language": "韩文",
+          "content": "날 인정해줘서 고마워. 앞으로도 박사의 힘이 될게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "謝謝博士的認可。今後就讓我繼續為博士貢獻自己的力量吧。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "远程援护就交给我吧。"
+        },
+        {
+          "language": "日文",
+          "content": "遠距離支援は任せて。"
+        },
+        {
+          "language": "英文",
+          "content": "Leave the long-distance support to me."
+        },
+        {
+          "language": "韩文",
+          "content": "원거리 지원이라면 맡겨줘."
+        },
+        {
+          "language": "繁体中文",
+          "content": "遠程援護就交給我吧。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会照顾好大家的。"
+        },
+        {
+          "language": "日文",
+          "content": "みんなの面倒は、ちゃんと見てあげるわ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll keep everyone safe."
+        },
+        {
+          "language": "韩文",
+          "content": "팀원들은 내가 잘 돌봐줄게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我會照顧好大家的。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "伙伴们，出发。"
+        },
+        {
+          "language": "日文",
+          "content": "みんな、行くわよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Everybody, let's go."
+        },
+        {
+          "language": "韩文",
+          "content": "얘들아, 가자."
+        },
+        {
+          "language": "繁体中文",
+          "content": "夥伴們，出發。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "展示我们力量的时候到了。"
+        },
+        {
+          "language": "日文",
+          "content": "私たちの力の見せどころよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Time to show them what we can do."
+        },
+        {
+          "language": "韩文",
+          "content": "우리의 힘을 보여줄 때야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "展示我們力量的時候到了。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请您下令。"
+        },
+        {
+          "language": "日文",
+          "content": "ご命令を。"
+        },
+        {
+          "language": "英文",
+          "content": "Awaiting your orders."
+        },
+        {
+          "language": "韩文",
+          "content": "명령을 내려줘."
+        },
+        {
+          "language": "繁体中文",
+          "content": "請您下令。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我已等候多时。"
+        },
+        {
+          "language": "日文",
+          "content": "この瞬間を待っていたわ。"
+        },
+        {
+          "language": "英文",
+          "content": "I've been waiting for a while."
+        },
+        {
+          "language": "韩文",
+          "content": "이 순간을 기다리고 있었어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我已等候多時。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "风吹向了正确的地方。"
+        },
+        {
+          "language": "日文",
+          "content": "いい風が吹いているわ。"
+        },
+        {
+          "language": "英文",
+          "content": "The wind is blowing in the right direction."
+        },
+        {
+          "language": "韩文",
+          "content": "좋은 바람이 불고 있어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "風吹向了正確的地方。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会保持警戒。"
+        },
+        {
+          "language": "日文",
+          "content": "警戒は怠らないわよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll stay vigilant."
+        },
+        {
+          "language": "韩文",
+          "content": "경계를 늦추지 않겠어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我會保持警戒。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有破绽！"
+        },
+        {
+          "language": "日文",
+          "content": "隙あり！"
+        },
+        {
+          "language": "英文",
+          "content": "Perfect chance!"
+        },
+        {
+          "language": "韩文",
+          "content": "빈틈 발견!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "有破綻！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "风！"
+        },
+        {
+          "language": "日文",
+          "content": "風よ！"
+        },
+        {
+          "language": "英文",
+          "content": "Feel the wind."
+        },
+        {
+          "language": "韩文",
+          "content": "바람이여!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "風！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "就是这一箭！"
+        },
+        {
+          "language": "日文",
+          "content": "この一撃で！"
+        },
+        {
+          "language": "英文",
+          "content": "This is the shot!"
+        },
+        {
+          "language": "韩文",
+          "content": "이 일격으로 끝내주마!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "就是這一箭！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "致命一击。"
+        },
+        {
+          "language": "日文",
+          "content": "トドメよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Critical hit."
+        },
+        {
+          "language": "韩文",
+          "content": "마무리다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "致命一擊。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不管是什么样的难关，只要我们齐心协力，就一定能克服过去。"
+        },
+        {
+          "language": "日文",
+          "content": "どんな難関が待っていようと、私たちが一緒なら、必ず乗り越えられるわ。"
+        },
+        {
+          "language": "英文",
+          "content": "No matter how difficult the battle, we can handle it, as long as we work together as one."
+        },
+        {
+          "language": "韩文",
+          "content": "어떤 난관이 기다리고 있다 해도, 우리가 함께하면 반드시 극복할 수 있을 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "不管是什麼樣的難關，只要我們齊心協力，就一定能克服過去。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "干的漂亮，大家都是最棒的。"
+        },
+        {
+          "language": "日文",
+          "content": "よくやったわ。みんな最高よ。"
+        },
+        {
+          "language": "英文",
+          "content": "Perfect! You all did well."
+        },
+        {
+          "language": "韩文",
+          "content": "잘했어. 다들 최고야!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "幹的漂亮，大家都是最棒的。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请伤者留在原地，别乱动，我马上就去帮你。"
+        },
+        {
+          "language": "日文",
+          "content": "負傷者はその場で待機して。今すぐ助けにいくわよ！"
+        },
+        {
+          "language": "英文",
+          "content": "All injured personnel, please stay put, don't move. I'll be right there."
+        },
+        {
+          "language": "韩文",
+          "content": "부상자는 그 자리에서 대기해. 지금 바로 도와주러 갈 테니까!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "請傷者留在原地，別亂動，我馬上就去幫你。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "抱歉，不应该是这样的......"
+        },
+        {
+          "language": "日文",
+          "content": "ごめんなさい。こんなはずではなかったの……。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm sorry... I didn't want it to end up like this..."
+        },
+        {
+          "language": "韩文",
+          "content": "미안해, 이렇게 될 리 없었는데…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "抱歉，不應該是這樣的......"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我还是不太习惯这么狭小的房间啊。"
+        },
+        {
+          "language": "日文",
+          "content": "こういう狭い部屋は、やはり慣れないわ……。"
+        },
+        {
+          "language": "英文",
+          "content": "It's hard to get used to such a small room."
+        },
+        {
+          "language": "韩文",
+          "content": "이런 좁은 방은 역시 적응이 안 된다니까…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我還是不太習慣這麼狹小的房間啊。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哎呀？有什么事吗？"
+        },
+        {
+          "language": "日文",
+          "content": "あら？何か用かしら？"
+        },
+        {
+          "language": "英文",
+          "content": "Oh? Need anything?"
+        },
+        {
+          "language": "韩文",
+          "content": "어, 무슨 일이야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哎呀？有什麼事嗎？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "和博士在一起的时光，就像沐浴在春天的阳光里一样温暖，很舒服。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターと一緒にいる時間は、春の陽射しのように暖かくて、気持ちいいわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Being by your side feels like basking in the spring sunshine. So warm, so comfy."
+        },
+        {
+          "language": "韩文",
+          "content": "박사와 함께하는 시간은 봄볕처럼 포근해서 기분이 좋아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "和博士在一起的時光，就像沐浴在春天的陽光裡一樣溫暖，很舒服。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "又是一年了，森林是不是还和我当初离去时一样呢？虽然我仍旧有些不习惯现代生活，人们对矿石病的恐惧也似乎并没有减少，但是，新年的到来让这片大地重新焕发生机，万事都还是有希望的吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，您好。"
+        },
+        {
+          "language": "日文",
+          "content": "あら、ドクター。こんにちは。"
+        },
+        {
+          "language": "英文",
+          "content": "Hello, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "아, 박사. 좋은 아침."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，您好。"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哎呀，电子器械还是让人有些头疼呢......不过我也已经进步很多了吧？有些东西还是你们口中说的“老旧”的更适合我一些，就像这把弓，用了这么多年，我只信任它。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,983 @@
+{
+  "name": "布洛卡",
+  "charaKey": "char_356_broca",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_356_broca"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_356_broca"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_356_broca"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "护卫？......啧，我知道了。"
+        },
+        {
+          "language": "日文",
+          "content": "護衛？……チッ、わかったよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Stand guard? ...Tch, fine."
+        },
+        {
+          "language": "韩文",
+          "content": "호위? ……쳇, 알았어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "護衛？......嘖，我知道了。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那个叫阿米娅的小女孩也是这里的领导者？罗德岛到底是什么黑心公司。"
+        },
+        {
+          "language": "日文",
+          "content": "あのアーミヤって小娘がここのリーダーの一人だと？とんだブラック企業なんだな、ロドスって。"
+        },
+        {
+          "language": "英文",
+          "content": "That Amiya girl is one of this place's leaders? What a black-hearted organization Rhodes Island is."
+        },
+        {
+          "language": "韩文",
+          "content": "저 아미야라는 꼬맹이가 여기 리더 중 하나라고? 말도 안 되는 악덕 기업이군, 로도스 아일랜드는."
+        },
+        {
+          "language": "繁体中文",
+          "content": "那個叫阿米婭的小女孩也是這裡的領導者？羅德島到底是什麼黑心公司。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不喜欢吃白食，有什么体力活需要我，可以找我。"
+        },
+        {
+          "language": "日文",
+          "content": "タダ飯は性に合わない。力仕事があればいつでも声をかけてくれ。"
+        },
+        {
+          "language": "英文",
+          "content": "I have no intent on being a freeloader. If you need any manual labor done, just let me know."
+        },
+        {
+          "language": "韩文",
+          "content": "공짜 밥은 성미에 안 맞아. 힘쓰는 일이 있으면 언제든 말해줘."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我不喜歡吃白食，有什麼體力活需要我，可以找我。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不讨厌被命令，但我讨厌不知道自己在为什么战斗的感觉。"
+        },
+        {
+          "language": "日文",
+          "content": "命令されること自体は別にいいが、理由も知らないまま戦わされるのは気に入らないな。"
+        },
+        {
+          "language": "英文",
+          "content": "I have nothing against taking orders, but I don't like fighting without knowing why I'm doing it."
+        },
+        {
+          "language": "韩文",
+          "content": "명령받는 것 자체는 딱히 상관없는데, 이유도 모르는 채 싸우는 건 마음에 들지 않아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我不討厭被命令，但我討厭不知道自己在為什麼戰鬥的感覺。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "兴趣？为什么我要告诉你？......啧，别用那种眼神看我，告诉你行了吧，我喜欢自己做各种改造。"
+        },
+        {
+          "language": "日文",
+          "content": "俺の趣味？教える義理はないな。……ったく、その目やめろ、言えばいいんだろ言えば。……色んなもんを改造するのが好きなんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "My hobbies? I have no reason to tell you, do I? ...Good grief, stop making that face. You'll leave me alone if I tell you, right... I like modifying various things."
+        },
+        {
+          "language": "韩文",
+          "content": "내 취미? 가르쳐 줄 의무는 없는데. 나 참…… 그렇게 보지 마. 말하면 되잖아, 말하면…… 난 이것저것 개조하는 걸 좋아한다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "興趣？為什麼我要告訴你？......嘖，別用那種眼神看我，告訴你行了吧，我喜歡自己做各種改造。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果没有贾维和奥斯塔，我已经死在那天那条小巷子里了。所以，我这条命是他们的，无论他们想做什么，我都会帮他们。"
+        },
+        {
+          "language": "日文",
+          "content": "あの日、もしキアーベとアオスタがいなかったら、俺は間違いなくあの路地裏で野垂れ死んでた。だからこの命はもうあの二人のものなんだ。あいつらが何をする時も、俺は力を貸すだけだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Back then, had it not been for Chiave and Aosta, I would've been dead in that alley. So, my life belongs to them. No matter what they want me to do, I will do it without hesitation."
+        },
+        {
+          "language": "韩文",
+          "content": "그날, 키아베와 아오스타가 없었으면 난 틀림없이 그 뒷골목에서 객사했을 거야. 그러니까 이 목숨은 이미 그 두 사람 것이지. 그 녀석들이 뭘 하려 하든, 난 그 녀석들을 도울 거다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "如果沒有賈維和奧斯塔，我已經死在那天那條小巷子裡了。所以，我這條命是他們的，無論他們想做什麼，我都會幫他們。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不讨厌你，但我......无法完全信任你。"
+        },
+        {
+          "language": "日文",
+          "content": "お前のことは嫌いじゃない。が、心から信頼するのはまだ難しい。"
+        },
+        {
+          "language": "英文",
+          "content": "I don't hate you, but... I find it difficult to fully trust you."
+        },
+        {
+          "language": "韩文",
+          "content": "널 싫어하는 건 아니지만, 아직 진심으로 신뢰하긴 어려워."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我不討厭你，但我......無法完全信任你。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好好做事，好好赚钱，好好生活，曾经，我的想法就这么简单......不过，奥斯塔说得对，在叙拉古这个地方，这样的想法，应该叫梦想。"
+        },
+        {
+          "language": "日文",
+          "content": "ちゃんと働いて、ちゃんと稼いで、ちゃんと生きていく。昔はそれだけでいいって思ってた……でも、そうだな、アオスタの言葉を借りると、シラクーザって国じゃ、そんな願いですら、「夢」になっちまうんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Work hard, make money, and continue surviving. I used to think that was all there was to life. However, Aosta was right. In a country like Siracusa, something like that is nothing more than a pipe dream."
+        },
+        {
+          "language": "韩文",
+          "content": "제대로 일하고, 제대로 벌어서, 제대로 살아간다. 옛날엔 그것만으로도 충분하다고 생각했다…… 하지만…… 그래, 아오스타의 말을 빌리자면 '시라쿠사'라는 나라에서는, 그런 바람조차 '꿈'이 되어 버리지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "好好做事，好好賺錢，好好生活，曾經，我的想法就這麼簡單......不過，奧斯塔說得對，在敘拉古這個地方，這樣的想法，應該叫夢想。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我承认，你这家伙作为领导者来说还可以......但是，奥斯塔说过，一个组织的腐化，有时候就是从掉以轻心的时候开始的，我会盯紧你。"
+        },
+        {
+          "language": "日文",
+          "content": "お前のリーダーとしての資質は認めよう。だが……「組織の腐敗はほんの些細な怠慢から始まる」ってアオスタが言ってた。そうならないように俺が見張ってやることにしよう。"
+        },
+        {
+          "language": "英文",
+          "content": "I acknowledge your right to lead.... However, Aosta once said that corruption begins to seep into an organization the moment you let your guard down. To prevent that from happening, I'll be keeping a close eye on you."
+        },
+        {
+          "language": "韩文",
+          "content": "너의 리더로서의 자질은 인정하지. 하지만…… “조직의 부패는 아주 사소한 태만에서 시작된다”고…… 아오스타가 그랬다. 그렇게 되지 않도록, 내가 감시해 주도록 하지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我承認，你這傢伙作為領導者來說還可以......但是，奧斯塔說過，一個組織的腐化，有時候就是從掉以輕心的時候開始的，我會盯緊你。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "睡着了吗，真是悠哉的家伙。啧，毯子放哪儿去了......"
+        },
+        {
+          "language": "日文",
+          "content": "寝てる？ったく、呑気な奴。チッ、毛布はどこにやったっけ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Asleep? Good grief, what a carefree fellow... Tch, where'd the blanket go..."
+        },
+        {
+          "language": "韩文",
+          "content": "자나? 정말이지 느긋한 녀석이군…… 쳇, 담요를 어디다 뒀더라……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "睡著了嗎，真是悠哉的傢伙。嘖，毯子放哪兒去了......"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "既然贾维决定加入你们，我也没什么好说的。你可以叫我布洛卡，我会听你的命令，但别指望我做多余的事，我对你们这样的大组织可没有好感。"
+        },
+        {
+          "language": "日文",
+          "content": "キアーベがここに入るって決めたからには、俺に文句なんてないさ。俺のことはブローカと呼べばいい。お前の指示には従うが、それ以上のことは期待しないでくれ。お前たちのような大きい組織にはいい印象なんてひとつもないからな。"
+        },
+        {
+          "language": "英文",
+          "content": "Since Chiave decided for me to join you, I don't have much else to say. You can call me Broca. I will listen to your orders, but don't count on me to do anything extra. I have no love for large organizations like yours."
+        },
+        {
+          "language": "韩文",
+          "content": "키아베가 여기에 들어가겠다고 결정한 이상, 나한테 불만 같은 건 없어. 나는 브로카라고 부르면 된다. 네 지시에는 따르겠지만, 그 이상은 기대하지 마라. 너희들 같은 커다란 조직은 좋게 생각 안 하니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "既然賈維決定加入你們，我也沒什麼好說的。你可以叫我布洛卡，我會聽你的命令，但別指望我做多餘的事，我對你們這樣的大組織可沒有好感。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......谢谢。"
+        },
+        {
+          "language": "日文",
+          "content": "……どうも。"
+        },
+        {
+          "language": "英文",
+          "content": "...Thanks."
+        },
+        {
+          "language": "韩文",
+          "content": "……고맙다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "......謝謝。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "加薪？......我不是很需要。"
+        },
+        {
+          "language": "日文",
+          "content": "昇給？……別に必要ない。"
+        },
+        {
+          "language": "英文",
+          "content": "A raise? ...Don't particularly need it."
+        },
+        {
+          "language": "韩文",
+          "content": "승진? ……딱히 필요 없어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "加薪？......我不是很需要。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "或许奥斯塔是对的，罗德岛可以信任。这样的话，那我......"
+        },
+        {
+          "language": "日文",
+          "content": "アオスタが言ってた通り、ロドスは信用できるかもしれない。だとすれば、俺は……。"
+        },
+        {
+          "language": "英文",
+          "content": "Maybe Aosta was right, maybe Rhodes Island is trustworthy. If that's the case, I..."
+        },
+        {
+          "language": "韩文",
+          "content": "아오스타가 말한 대로, 로도스 아일랜드는 믿을 수 있을지도 몰라. 그렇다면 난……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "或許奧斯塔是對的，羅德島可以信任。這樣的話，那我......"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好。"
+        },
+        {
+          "language": "日文",
+          "content": "ああ。"
+        },
+        {
+          "language": "英文",
+          "content": "Very well."
+        },
+        {
+          "language": "韩文",
+          "content": "그래."
+        },
+        {
+          "language": "繁体中文",
+          "content": "好。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......我不擅长带队。"
+        },
+        {
+          "language": "日文",
+          "content": "……人の指揮をとるのは苦手だが。"
+        },
+        {
+          "language": "英文",
+          "content": "...I'm not good at leading."
+        },
+        {
+          "language": "韩文",
+          "content": "……다른 사람을 지휘하는 건 서툰데."
+        },
+        {
+          "language": "繁体中文",
+          "content": "......我不擅長帶隊。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "走吧。"
+        },
+        {
+          "language": "日文",
+          "content": "行くぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "Let's go."
+        },
+        {
+          "language": "韩文",
+          "content": "간다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "走吧。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "该打架了。"
+        },
+        {
+          "language": "日文",
+          "content": "さて、ケンカの時間だ。"
+        },
+        {
+          "language": "英文",
+          "content": "Well then, time to fight."
+        },
+        {
+          "language": "韩文",
+          "content": "자, 싸울 시간이다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "該打架了。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别对我指手画脚。"
+        },
+        {
+          "language": "日文",
+          "content": "指図するな。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't try to micromanage me."
+        },
+        {
+          "language": "韩文",
+          "content": "지시하지 마."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別對我指手畫腳。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啧，我知道了。"
+        },
+        {
+          "language": "日文",
+          "content": "チッ、わかったよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Tch... Got it."
+        },
+        {
+          "language": "韩文",
+          "content": "쳇, 알았어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "嘖，我知道了。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那些就是敌人？"
+        },
+        {
+          "language": "日文",
+          "content": "あれが敵か。"
+        },
+        {
+          "language": "英文",
+          "content": "Are those the enemies?"
+        },
+        {
+          "language": "韩文",
+          "content": "저게 적인가."
+        },
+        {
+          "language": "繁体中文",
+          "content": "那些就是敵人？"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我能应付。"
+        },
+        {
+          "language": "日文",
+          "content": "俺が何とかする。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll figure something out."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 어떻게든 하지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我能應付。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不会很疼。"
+        },
+        {
+          "language": "日文",
+          "content": "痛みは抑えてやる。"
+        },
+        {
+          "language": "英文",
+          "content": "This won't hurt for long."
+        },
+        {
+          "language": "韩文",
+          "content": "고통은 억눌러 주마."
+        },
+        {
+          "language": "繁体中文",
+          "content": "不會很疼。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "快点结束吧。"
+        },
+        {
+          "language": "日文",
+          "content": "さっさと終わらせるぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "Let's get this over with."
+        },
+        {
+          "language": "韩文",
+          "content": "빨리 끝내자."
+        },
+        {
+          "language": "繁体中文",
+          "content": "快點結束吧。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "去死。"
+        },
+        {
+          "language": "日文",
+          "content": "くたばれ。"
+        },
+        {
+          "language": "英文",
+          "content": "Drop dead."
+        },
+        {
+          "language": "韩文",
+          "content": "죽어라."
+        },
+        {
+          "language": "繁体中文",
+          "content": "去死。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "闭嘴。"
+        },
+        {
+          "language": "日文",
+          "content": "黙れ。"
+        },
+        {
+          "language": "英文",
+          "content": "Shut up."
+        },
+        {
+          "language": "韩文",
+          "content": "닥쳐."
+        },
+        {
+          "language": "繁体中文",
+          "content": "閉嘴。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......你这家伙，还挺厉害。"
+        },
+        {
+          "language": "日文",
+          "content": "……お前、意外とすごいんだな。"
+        },
+        {
+          "language": "英文",
+          "content": "You... aren't half bad."
+        },
+        {
+          "language": "韩文",
+          "content": "……너, 의외로 굉장하구나."
+        },
+        {
+          "language": "繁体中文",
+          "content": "......你這傢伙，還挺厲害。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "都搞定了。"
+        },
+        {
+          "language": "日文",
+          "content": "全部片付けた。"
+        },
+        {
+          "language": "英文",
+          "content": "They've all been taken care of."
+        },
+        {
+          "language": "韩文",
+          "content": "전부 정리했다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "都搞定了。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我去追？"
+        },
+        {
+          "language": "日文",
+          "content": "俺が追おうか？"
+        },
+        {
+          "language": "英文",
+          "content": "Need me to go after them?"
+        },
+        {
+          "language": "韩文",
+          "content": "내가 쫓아갈까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我去追？"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别慌，你努力了，奥斯塔也会有失手的时候。"
+        },
+        {
+          "language": "日文",
+          "content": "努力したんならいまさら慌ててもしょうがない。アオスタだってミスをすることもある。"
+        },
+        {
+          "language": "英文",
+          "content": "No need to panic. You did what you could. Even Aosta makes mistakes."
+        },
+        {
+          "language": "韩文",
+          "content": "충분히 노력했으니 당황할 필요 없어. 아오스타도 실수할 때가 있으니."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別慌，你努力了，奧斯塔也會有失手的時候。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我随便走走。"
+        },
+        {
+          "language": "日文",
+          "content": "適当に回ってくる。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll take a look around."
+        },
+        {
+          "language": "韩文",
+          "content": "적당히 둘러보고 오지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我隨便走走。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你......！"
+        },
+        {
+          "language": "日文",
+          "content": "おいっ……！"
+        },
+        {
+          "language": "英文",
+          "content": "Oy...!"
+        },
+        {
+          "language": "韩文",
+          "content": "이봐……?!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你......！"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，你很烦。"
+        },
+        {
+          "language": "日文",
+          "content": "お前、しつこいぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "You're rather rude."
+        },
+        {
+          "language": "韩文",
+          "content": "하지 말라 했을 텐데."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，你很煩。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "新年快乐，博士......干什么，寄人篱下，这点礼数我还是懂的。而且，和之前在叙拉古相比，这种场面，我想都不敢想，罗德岛挺好的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "早。"
+        },
+        {
+          "language": "日文",
+          "content": "おはよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Morning."
+        },
+        {
+          "language": "韩文",
+          "content": "좋은 아침이다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "早。"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没想到在这里遇到了，我刚清理完自己的工具台，最近武器制作的单子还挺多的。我怎么不监督你了？因为目前来看，你似乎没有什么堕落的倾向，更何况我已经认同了你的目标，一起努力吧，博士。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

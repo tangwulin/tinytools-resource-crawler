@@ -1,0 +1,992 @@
+{
+  "name": "狮蝎",
+  "charaKey": "char_215_mantic",
+  "images": [
+    "https://media.prts.wiki/9/98/%E7%AB%8B%E7%BB%98_%E7%8B%AE%E8%9D%8E_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/6/61/%E7%AB%8B%E7%BB%98_%E7%8B%AE%E8%9D%8E_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/1/16/%E7%AB%8B%E7%BB%98_%E7%8B%AE%E8%9D%8E_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/4/4d/%E7%AB%8B%E7%BB%98_%E7%8B%AE%E8%9D%8E_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_215_mantic"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_215_mantic"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_215_mantic"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_215_mantic"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那个......我两个小时前，就已经......待在这里了......"
+        },
+        {
+          "language": "日文",
+          "content": "あの……わたし……二時間前から、ここにいたけど……。"
+        },
+        {
+          "language": "英文",
+          "content": "Umm, excuse me… I've been waiting here... for two hours…"
+        },
+        {
+          "language": "韩文",
+          "content": "저기…… 나…… 두 시간 전부터 여기 있었는데……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "那個......我兩個小時前，就已經......待在這裡了......"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "对不起，我确实很没有存在感......但这个，并不是我能力的原因呀......"
+        },
+        {
+          "language": "日文",
+          "content": "ごめんなさい、わたし、存在感がない……でもこれ、能力じゃない……。"
+        },
+        {
+          "language": "英文",
+          "content": "Sorry… I know people keep ignoring me... But... my Arts aren't to blame…"
+        },
+        {
+          "language": "韩文",
+          "content": "미안해, 나, 존재감이 없어서…… 근데 이거 능력은 아니고……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "對不起，我確實很沒有存在感......但這個，並不是我能力的原因呀......"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的能力，实际上是......进入特定的环境后，让别人，意识不到我的存在......"
+        },
+        {
+          "language": "日文",
+          "content": "わたしの能力……特定の環境下で、相手に気づかれないようにすること……。"
+        },
+        {
+          "language": "英文",
+          "content": "My Arts... make me undetectable to people... in certain environments…"
+        },
+        {
+          "language": "韩文",
+          "content": "내 능력은… 특정 환경에서 상대에게 들키지 않는 거야……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我的能力，實際上是......進入的特定環境後，讓別人，意識不到我的存在......"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我......一直交不到朋友。一个没法被注意到的朋友，谁会想要呢......"
+        },
+        {
+          "language": "日文",
+          "content": "わたし……ずっと友達いない……うん……存在に、気づくこともできない、友達なんて……いらないよね……。"
+        },
+        {
+          "language": "英文",
+          "content": "I… I've never had any friends... S-surely no one wants a friend that…  they can't even notice… right?"
+        },
+        {
+          "language": "韩文",
+          "content": "나…… 줄곧 친구가 없었어… 응… 내가 있는지 눈치도 못 채는 친구 같은 거… 필요 없겠지…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我......一直交不到朋友。一個沒法被注意到的朋友，誰會想要呢......"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "尾巴......不战斗的时候，会卷起来......所以，请别那么害怕......"
+        },
+        {
+          "language": "日文",
+          "content": "尻尾……普段は、しまっておくから……怖がらないで……。"
+        },
+        {
+          "language": "英文",
+          "content": "My tail... It curls up when I'm not fighting... So please, don't be afraid…"
+        },
+        {
+          "language": "韩文",
+          "content": "꼬리…… 평소에는 넣어둘 테니까…… 무서워하지 말아줘……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "尾巴......不戰鬥的時候，會卷起來......所以，請別那麼害怕......"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，让我去做，那些危险的任务吧。毕竟，我的能力......非常合适......"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、危ない任務、わたしにやらせて。わたしの能力、向いてるから……。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor... you can leave the dangerous work to me... After all... my Arts were made for that…"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 위험한 임무는 나한테 맡겨줘. 내 능력, 그거에 맞으니까……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，讓我去做，那些危險的任務吧。畢竟，我的能力......非常合適......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "放在胸前的，这些身份牌，是我捡到的。把人们存在过的痕迹，收集起来，我很喜欢......"
+        },
+        {
+          "language": "日文",
+          "content": "胸につけてる、このIDタグは、拾ったもの……。人が存在していた証、集めるの、好き……。"
+        },
+        {
+          "language": "英文",
+          "content": "These ID tags around my neck… I collected them... I like holding onto evidence... that someone once existed..."
+        },
+        {
+          "language": "韩文",
+          "content": "가슴에 달고 있는 이 ID 태그는, 주운 거야… 사람이 존재하고 있었다는 증거잖아, 이런 거 모으는 거… 좋아해…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "放在胸前的，這些身份牌，是我撿到的。把人們存在過的痕跡，收集起來，我很喜歡......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那个叫“夜魔”的人，请别让她，靠近我......！那个，她，很危险......我的能力，对她不管用，为什么......"
+        },
+        {
+          "language": "日文",
+          "content": "ナイトメアという人、わたしに近づけないで！あれは、危険……。わたしの能力も、効かない。どうして……。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't let that 'Nightmare' girl near me!... She's dangerous... My Arts don't work on her... Why…?"
+        },
+        {
+          "language": "韩文",
+          "content": "나이트메어라는 사람, 나한테 못 오게 해줘! 그 사람은, 위험해… 내 능력이 통하지 않아. 어째서……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "那個叫“夜魔”的人，請別讓她，靠近我......！那個，她，很危險......我的能力，對她不管用，為什麼......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我......其实，想要把病治好的。但是，如果，真的治好了，是不是，会失去现在的能力......那样的我，还有价值吗......？"
+        },
+        {
+          "language": "日文",
+          "content": "わたし……本当は……病気治したい……。でも、治ったら、能力なくなる……。それでもわたし、価値、ある……？"
+        },
+        {
+          "language": "英文",
+          "content": "I… I really want to cure my Oripathy. But if it's cured... what's going to happen to my Arts?... If they're gone, will I... still be of any use...?"
+        },
+        {
+          "language": "韩文",
+          "content": "나… 사실은… 병을 고치고 싶어…… 그치만, 고쳐지면, 능력이 사라져…… 그래도 나, 가치가 있을까……?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我......其實，想要把病治好的。但是，如果，真的治好了，是不是，會失去現在的能力......那樣的我，還有價值嗎......？"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......被博士丢在一边不管了......这种感觉，我，好讨厌......"
+        },
+        {
+          "language": "日文",
+          "content": "……放っておかれた……この感じ、嫌……。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor's ignoring me… I don't like it, hmph..."
+        },
+        {
+          "language": "韩文",
+          "content": "……날 내버려뒀어…… 이런 느낌, 싫어……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "......被博士丟在一邊不管了......這種感覺，我，好討厭......"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我是狮蝎，能力是，悄无声息地夺走别人的生命......请别害怕，这次的目标，不是你......"
+        },
+        {
+          "language": "日文",
+          "content": "マンティコア、能力は、こっそり殺す……。怖がらないで、あなたは、ターゲットじゃ、ない……。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm Manticore... My Arts can take out lives silently... Please don't be scared, you're not my target…"
+        },
+        {
+          "language": "韩文",
+          "content": "맨티코어라고 해. 능력은, 몰래 죽이는 거야…… 무서워하지 마, 당신은, 타겟이 아니니까……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我是獅蠍，能力是，悄無聲息地奪走別人的生命......請別害怕，這次的目標，不是你......"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯，谢谢。还有，请多关照......"
+        },
+        {
+          "language": "日文",
+          "content": "うん、ありがと。まだまだ、よろしく……。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you... I-I'm looking forward to you teaching me... more..."
+        },
+        {
+          "language": "韩文",
+          "content": "응, 고마워. 앞으로도, 잘 부탁해……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯，謝謝。還有，請多關照......"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "晋升，我，我终于等到了......我一直以为......是因为我的表现，不够好，所以您一直没有提拔我......"
+        },
+        {
+          "language": "日文",
+          "content": "任命されるの、待ってた。わたしの力、足りないと、ずっと思ってた……。"
+        },
+        {
+          "language": "英文",
+          "content": "Finally, I got a promotion... I always thought I wasn't good enough… so you didn't promote me…"
+        },
+        {
+          "language": "韩文",
+          "content": "임명되는 거, 기다렸어. 내 힘, 부족하다고, 계속 생각하고 있었어……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "晉升，我，我終於等到了......我一直以為......是因為我的表現，不夠好，所以您一直沒有提拔我......"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我帮上您的忙了，对吧......？没有去处的我，这里，这个罗德岛......就是我的家。今后也请和我，一起守护这里......！"
+        },
+        {
+          "language": "日文",
+          "content": "わたし、役に立った、よね……？わたし、帰るとこ、ないから……ここ、ロドスがお家……これからも、この場所を、守らせて……！"
+        },
+        {
+          "language": "英文",
+          "content": "Did I... manage to help you? I don't have anywhere else to go... My home is here... at&nbsp;Rhodes Island... So please, let me protect it with you..."
+        },
+        {
+          "language": "韩文",
+          "content": "나, 도움 됐지……? 나, 돌아갈 곳, 없으니까…… 여기, 로도스 아일랜드가 내 집…… 앞으로도, 이 장소를, 지키게 해줘……!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我幫上您的忙了，對吧......？沒有去處的我，這裡，這個羅德島......就是我的家。今後也請和我，一起守護這裡......！"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我知道了。"
+        },
+        {
+          "language": "日文",
+          "content": "わかった。"
+        },
+        {
+          "language": "英文",
+          "content": "Okay..."
+        },
+        {
+          "language": "韩文",
+          "content": "알았어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我知道了。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我这样的队长，会被大家讨厌的......"
+        },
+        {
+          "language": "日文",
+          "content": "こんな隊長、嫌われる……。"
+        },
+        {
+          "language": "英文",
+          "content": "Nobody will like me... as their captain..."
+        },
+        {
+          "language": "韩文",
+          "content": "이런 팀장, 싫어할 텐데……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我這樣的隊長，會被大家討厭的......"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别把我丢下......"
+        },
+        {
+          "language": "日文",
+          "content": "見捨てないで……。"
+        },
+        {
+          "language": "英文",
+          "content": "Please don't leave me behind…"
+        },
+        {
+          "language": "韩文",
+          "content": "내버려두지 마……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "別把我丟下......"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请依据我的能力，指定战术吧......就算是比较阴暗的，也没关系......"
+        },
+        {
+          "language": "日文",
+          "content": "能力を、生かした戦術で、お願い……。卑怯なやつでも、いい……。"
+        },
+        {
+          "language": "英文",
+          "content": "Please choose tactics that make use of my Arts... even if it's something crafty and underhanded... I won't mind..."
+        },
+        {
+          "language": "韩文",
+          "content": "능력을, 살린 전술로, 부탁해…… 비겁한 거라도, 괜찮아……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "請依據我的能力，指定戰術吧......就算是比較陰暗的，也沒關係......"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "准备好了......"
+        },
+        {
+          "language": "日文",
+          "content": "じ、準備、できた。"
+        },
+        {
+          "language": "英文",
+          "content": "I-I'm ready..."
+        },
+        {
+          "language": "韩文",
+          "content": "주, 준비, 다 됐어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "準備好了......"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我在这里......"
+        },
+        {
+          "language": "日文",
+          "content": "わたし、ここ……。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm…right here…"
+        },
+        {
+          "language": "韩文",
+          "content": "나, 여기야……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我在這裡......"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "潜伏，开始......"
+        },
+        {
+          "language": "日文",
+          "content": "潜伏、開始……。"
+        },
+        {
+          "language": "英文",
+          "content": "Manticore… going dark…"
+        },
+        {
+          "language": "韩文",
+          "content": "잠복, 개시……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "潛伏，開始......"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "伏击，准备......"
+        },
+        {
+          "language": "日文",
+          "content": "待ち伏せ、準備、できた……。"
+        },
+        {
+          "language": "英文",
+          "content": "Ready... to ambush..."
+        },
+        {
+          "language": "韩文",
+          "content": "기습, 준비, 됐어……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "伏擊，準備......"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "很痛苦吧......"
+        },
+        {
+          "language": "日文",
+          "content": "苦しい、よね……。"
+        },
+        {
+          "language": "英文",
+          "content": "That must... really hurt…"
+        },
+        {
+          "language": "韩文",
+          "content": "괴롭, 지……?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "很痛苦吧......"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别过来......"
+        },
+        {
+          "language": "日文",
+          "content": "来ないで……。"
+        },
+        {
+          "language": "英文",
+          "content": "Please, Don't come close…"
+        },
+        {
+          "language": "韩文",
+          "content": "오지 마……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "別過來......"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我也，讨厌，这样做......"
+        },
+        {
+          "language": "日文",
+          "content": "わたしも、こんなの、嫌だよ……。"
+        },
+        {
+          "language": "英文",
+          "content": "I don't like this... either..."
+        },
+        {
+          "language": "韩文",
+          "content": "나도, 이런 거, 싫어……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我也，討厭，這樣做......"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "永别了......"
+        },
+        {
+          "language": "日文",
+          "content": "さよなら……。"
+        },
+        {
+          "language": "英文",
+          "content": "Farewell…"
+        },
+        {
+          "language": "韩文",
+          "content": "잘 가……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "永別了......"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "就算，是这样可怕的战场，您的判断力、集中力，一点都没有受到影响。博士，好帅气......"
+        },
+        {
+          "language": "日文",
+          "content": "こんなに、怖い戦場でも、判断力、集中力、切れなかった。ドクター、かっこいい……。"
+        },
+        {
+          "language": "英文",
+          "content": "Even in such terrible battles… your judgement and decisions didn't seem to waver… You're incredible, Doctor…"
+        },
+        {
+          "language": "韩文",
+          "content": "이렇게, 무서운 전장에서도, 판단력, 집중력, 끊기지 않았어. 박사, 멋있어……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "就算，是這樣可怕的戰場，您的判斷力、集中力，一點都沒有受到影響。博士，好帥氣......"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "为了胜利，我们什么都得做，只是......"
+        },
+        {
+          "language": "日文",
+          "content": "勝つためなら、何でもやる、けど……。"
+        },
+        {
+          "language": "英文",
+          "content": "A victory by all means... Still..."
+        },
+        {
+          "language": "韩文",
+          "content": "이기기 위해서라면, 뭐든지, 하겠지만……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "為了勝利，我們什麼都得做，只是......"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要抓住，逃走的人的话，请交给我......"
+        },
+        {
+          "language": "日文",
+          "content": "逃げた人、捕まえるなら、わたしに、まかせて……。"
+        },
+        {
+          "language": "英文",
+          "content": "I can handle the runaways... if you wish..."
+        },
+        {
+          "language": "韩文",
+          "content": "도망친 사람, 잡으려면, 나한테, 맡겨……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "要抓住，逃走的人的話，請交給我......"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "对不起......都是我没做好......"
+        },
+        {
+          "language": "日文",
+          "content": "ごめんなさい……できそこないで……。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm sorry... It's all my fault..."
+        },
+        {
+          "language": "韩文",
+          "content": "미안해…… 내가 모자라서……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "對不起......都是我沒做好......"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我去角落里，坐着......"
+        },
+        {
+          "language": "日文",
+          "content": "隅っこ、座ろ……。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll sit... in the corner..."
+        },
+        {
+          "language": "韩文",
+          "content": "구석에, 앉을래……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我去角落裡，坐著......"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "欸欸欸？？？"
+        },
+        {
+          "language": "日文",
+          "content": "えええ……？"
+        },
+        {
+          "language": "英文",
+          "content": "Eeeeeek!"
+        },
+        {
+          "language": "韩文",
+          "content": "에에에……?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "欸欸欸？？？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那个，您经常关注着我，虽然这是您的职责，我也......非常开心......"
+        },
+        {
+          "language": "日文",
+          "content": "あの、いつも、気にかけてくれて……それが、ドクターの、職務でも……うれしい……。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you for paying attention to me... I know it's your job... but it still makes me happy…"
+        },
+        {
+          "language": "韩文",
+          "content": "저기, 언제나, 신경 써줘서…… 그게, 박사의, 직무라 해도…… 기뻐……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "那個，您經常關注著我，雖然這是您的職責，我也......非常開心......"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "新年快乐......过去一年，注意到我的人，变多了......我有点害怕，但是，温柔的人，也很多......所以，我会努力去适应的......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士......你好......"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター……こんにちは……。"
+        },
+        {
+          "language": "英文",
+          "content": "Hello... Doctor..."
+        },
+        {
+          "language": "韩文",
+          "content": "박사…… 안녕……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士......你好......"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "失去同伴的感觉，我再也不想体会了......我一定会拼上性命，来保护大家。哪怕是在大家看不到的地方......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

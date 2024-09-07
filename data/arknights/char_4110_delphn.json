@@ -1,0 +1,839 @@
+{
+  "name": "戴菲恩",
+  "charaKey": "char_4110_delphn",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4110_delphn"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4110_delphn"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4110_delphn"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_4110_delphn"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "放轻松，我不会再让任何刺客在我面前得手。"
+        },
+        {
+          "language": "日文",
+          "content": "安心してください。二度と刺客に遅れは取りません。"
+        },
+        {
+          "language": "英文",
+          "content": "Be at ease. I won't let another assassin do his work right in front of me, ever again."
+        },
+        {
+          "language": "韩文",
+          "content": "안심하세요. 다시는 제 앞에서 자객이 멋대로 손을 쓰게 두진 않을 겁니다."
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "维多利亚的历史轨迹不会因为任何事情发生偏移，特雷西斯做不到，公爵们也做不到。无非是换不同的人在同一个泥坑里打滚。我的真实想法？呵，躲远点，小心泥点子溅你身上。"
+        },
+        {
+          "language": "日文",
+          "content": "ヴィクトリアの歩む道は何者にも歪めることはできません。テレシスにも、公爵たちにも。ぬかるみの中でもがく人が変わるだけの話でしかないです。私の本当の考え？フッ、離れておいたほうがいいですよ。はねた泥で汚れちゃいますから。"
+        },
+        {
+          "language": "英文",
+          "content": "There's nothing that can derail the historical trajectory of Victoria, not even Theresis, or even the dukes. It's nothing but different people taking turns to wallow in the same puddle of mud. You want my honest opinion? Heh. Stay back, lest you get mud splashed on you."
+        },
+        {
+          "language": "韩文",
+          "content": "그 무엇도 빅토리아가 나아가는 길을 방해할 순 없습니다. 테레시스는 물론, 공작도 마찬가지입니다. 달라지는 건 그저 진흙탕 속에서 발버둥치는 사람 정도겠죠. 제 본심이요? 훗, 멀리 떨어지시는 게 좋을 겁니다. 박사님의 몸에 진흙이 튈 수도 있으니까요."
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我曾陪妈妈在她常年驻守的边境生活了很长一段时间，在那里可完全看不到伦蒂尼姆的参天塔楼......我竟然从来没问过，让她甘心在边境操劳多年的东西到底是什么？"
+        },
+        {
+          "language": "日文",
+          "content": "昔母が常駐していた辺境で、それなりに長く一緒に暮らしていました。ロンディニウムの天高くそびえる塔楼なんて全く見えないくらい遠い場所……思えば、私は一度も聞かなかったんですよ。母が長年辺境の守護を甘んじて続けた理由は、一体何だったのかを。"
+        },
+        {
+          "language": "英文",
+          "content": "I lived with Mum for a long time when she was stationed on the border all year round, and the towers of Londinium were never in sight... I never so much as asked her. Just what it was that made her so willing to toil away all those years, out on the border?"
+        },
+        {
+          "language": "韩文",
+          "content": "전 어머니께서 계시던 변방에서 꽤 오랫동안 살았습니다. 그곳에선 런디니움의 마천루 같은 건 보이지도 않았었죠…… 돌이켜 보면, 어머니께서 무엇을 위해 그렇게 오랜 세월 동안 변방을 지켜오셨던 건지 한 번도 물어본 적이 없었네요."
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哦，听说亚历山德莉娜殿下又收拢了更多的拥护者？维娜迟早要面对与我相同的抉择，不过卸下一顶王冠的阻碍可比放弃公爵之名大得多。有机会替我转告，祝她一切顺利。"
+        },
+        {
+          "language": "日文",
+          "content": "そういえば、「アレクサンドリナ殿下」はまた支持者を増やしたとか？ヴィーナは遅かれ早かれ、私と同じ選択を迫られる時が来ると思います。王冠を脱ぐのは、公爵の名を捨てるよりもずっと難しいでしょうけどね。機会があったら代わりに伝えておいてくれませんか？彼女の未来に幸があるよう願っていますと。"
+        },
+        {
+          "language": "英文",
+          "content": "Say. I hear Her Royal Highness Alexandrina is continuing to gather more supporters? Very well... Sooner or later, Vina will have to face the same choice as I did. Though all told, taking off a crown invites far more obstacles than giving up a dukedom. If you get the chance, do tell her I wish her all the best."
+        },
+        {
+          "language": "韩文",
+          "content": "그러고 보니 알렉산드리나 전하께서 이번에는 더 많은 지지자를 얻으셨다죠? 조만간 비나에게도 제가 그랬던 것처럼 선택의 순간이 오겠군요. 물론 왕관을 내려놓는다는 건 공작의 이름을 포기하는 것과는 비교할 수도 없이 어렵겠지만요. 나중에 기회가 된다면 그녀에게 전달해 주세요, 행운을 빈다고."
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "时刻挥舞手中出鞘的剑是弱者的行为，所以自小妈妈教我剑术，逼我练习最多的反而是藏锋。想要继承她的位置，很多事情就不能通过仗剑恃强来解决......但我讨厌这种感觉。"
+        },
+        {
+          "language": "日文",
+          "content": "常に抜き身の剣を振り回すのは、弱者の行いです。だから私に幼い頃から剣術を仕込んだ母が一番練習させたのは、むしろ刃を隠すことでした。あの人の地位を継承しようものなら、剣と力だけで解決できないことも多いですからね……でも、私はああいうのが嫌いだったんです。"
+        },
+        {
+          "language": "英文",
+          "content": "The sword brandished and never sheathed is the sword of the weak. Even though my mum taught me swordplay from a young age, more than anything, she made me practice the art of stowing my blade. If I'm to inherit her position, then I can't be daggers drawn for most issues that greet me... And just knowing that chafes."
+        },
+        {
+          "language": "韩文",
+          "content": "검을 과시하며 휘두르는 건 약자의 행동이나 다름없습니다. 어머니께서 제게 검을 가르쳐 주실 때, 가장 많이 연습시켰던 건 오히려 칼날을 숨기는 것이었습니다. 어머니의 자리를 물려받으려면 검으로 해결할 수 없는 일도 많았으니까요…… 하지만 전, 그런 걸 별로 좋아하진 않았습니다."
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "公理和正义？身居高位的大贵族为了国家的存续与荣耀而苟合是不是公理？食不果腹的感染者为了自己的一线生机而掠夺无辜者是不是正义？我不会放弃寻找问题的答案。"
+        },
+        {
+          "language": "日文",
+          "content": "公理と正義？高い地位を有する大貴族が、国の存続と繁栄のために魂を売ることは公理なのでしょうか？飢えに苛まれた感染者が、生きるために罪なき者から奪うのは正義だと言えるでしょうか？私は、こうした問いの答えを探すことを諦めたりしません。"
+        },
+        {
+          "language": "英文",
+          "content": "'Self-evident?' 'Just?' Great nobles in their ivory towers, engaging in nefarious deeds so that their country endures and prospers, is that self-evident? The starving Infected robbing the innocent in a desperate attempt to live another day, is that just? These are questions I won't give up on finding the answers to."
+        },
+        {
+          "language": "韩文",
+          "content": "공정과 정의요? 높은 지위의 대귀족들이 국가의 존속과 번영을 핑계로 내통하는 걸 공정이라 할 수 있을까요? 또, 굶주림에 시달리는 감염자들이 살기 위해 무고한 이들을 약탈하는 걸 과연 정의라고 부를 수 있을까요? 전 이 물음에 대한 답을 찾기 전까지, 포기하지 않을 겁니다."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛已经向我证明了你们的诚意，尽管她......不在了，但我们的交易依旧成立。当然，前提是博士你不嫌弃我现在并无任何权位的身份。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスは私に誠意を示してくれました。たとえあの人がもう……いなくても、私たちの取引は成立しています。もちろん、ドクターが何の地位もない今の私を認めてくれるならの話ですが。"
+        },
+        {
+          "language": "英文",
+          "content": "Rhodes Island has shown its sincerity to me, so even though she's... no longer with us, our deal still stands true. Of course, this is as long as you don't mind my currently utterly powerless status, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드는 이미 제게 충분한 성의를 보여 주셨습니다. 비록 그녀는 이제…… 없지만, 그래도 우리의 거래는 여전히 성립됩니다. 물론 박사님께서 아무런 지위도 없는 절 인정해 주신다는 전제하에 말이죠."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这些都是博士你从那个录像厅里找回来的？本来是我特意为贝尔德精选的影片，但她总是瞧不上，嫌它们聒噪......现在用不上了，留给你吧。都是些蓝卡坞的经典喜剧，任何人都不应该错过。"
+        },
+        {
+          "language": "日文",
+          "content": "これ、全部ドクターがあのビデオシアターで見つけてきたものですか？元はベアードのために厳選した映画ですが、彼女は騒がしいから興味ないって……もう持っていても意味がないですし、ドクターにあげます。どれもランクウッドの名作コメディなので、みんな観るべきものですしね。"
+        },
+        {
+          "language": "英文",
+          "content": "Did you find these... at the video shop? I actually picked these out just for Baird, but she never gave them the time of day, saying they were just so noisy... They're useless now, so you can have them. These are some of Wrankwood's must-watch comedy classics."
+        },
+        {
+          "language": "韩文",
+          "content": "이걸 전부 다 그 비디오룸에서 가져오신 건가요? 이건 제가 베어드를 위해 엄선했던 영화들인데, 베어드는 시끄럽다면서 눈길도 주지 않았죠…… 지금은 필요 없으니, 전부 박사님께 드리겠습니다. 놓치면 아쉬운 랭크우드의 코미디 명작입니다."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我思考过无数种可能去挽回妈妈被刺杀的局面，但结果都一样......她强大到从来不需要质疑自己的决定。眼泪？哈，博士看错了吧，我早学着不哭了。"
+        },
+        {
+          "language": "日文",
+          "content": "何度も何度も母が殺されたあの場面を変えられたかもしれない可能性を考えたんですが、結果はどれも同じでした……あの人は自分の決定を疑う必要なんてないくらい強い人だったので……涙？ハッ、見間違いですよ。私はとっくに涙をこらえることを覚えています。"
+        },
+        {
+          "language": "英文",
+          "content": "There's countless scenarios I've thought of to prevent my mum from being assassinated, and always, always, the result is the same... She was so strong, she never had a need to question her own decisions. Tears? Hah, you must be mistaken, Doctor. I learned long ago to never cry."
+        },
+        {
+          "language": "韩文",
+          "content": "어머니께서 살해당하는 그 결과를 바꾸기 위해 몇 번이고 수없이 생각해 봤지만, 결과는 달라지지 않더군요…… 어머니께선 자신의 결정을 의심할 필요도 없을 정도로 강인한 분이셨으니까요. 눈물이요? 하하, 박사님이 잘못 보신 겁니다. 전 이미 오래전부터 울지 않기로 했거든요."
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "安心睡吧，我在。能在战场上偷闲打盹的机会可不多。"
+        },
+        {
+          "language": "日文",
+          "content": "安心して眠ってください、私がそばにいます。戦場だとうたた寝できる機会は滅多にないですから。"
+        },
+        {
+          "language": "英文",
+          "content": "You can rest easy, I'll be here. There aren't many chances to take a nap on the battlefield."
+        },
+        {
+          "language": "韩文",
+          "content": "제가 곁에 있으니 안심하고 주무세요. 전장에서 이렇게 휴식할 기회는 흔치 않으니까요."
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们互相省下自我介绍的工夫吧，我会把这份合同视作你认可我们合作方式的信物。我现在可以回去工作了吗，博士？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、お互い自己紹介の手間は省きましょうか。この契約書をあなたが私たちの協力関係を認めてくれた証として受け取ります。では、もう仕事に戻ってもいいですか？"
+        },
+        {
+          "language": "英文",
+          "content": "We can save each other the trouble of introducing ourselves, and I'll treat this contract as a token of you approving how we cooperate. Can I get back to work now, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "서로 자기소개는 필요 없을 거 같은데요, 박사님. 이 계약서를 박사님께서 우리의 협력 관계를 인정한 증표로 받아들이겠습니다. 그럼 이제 일하러 가봐도 되겠습니까?"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这份作战记录完美得像我在录像厅里看过的那些蓝卡坞动作大片。"
+        },
+        {
+          "language": "日文",
+          "content": "この作戦記録、シアターで観たランクウッドのアクション大作映画みたいに完璧ですね。"
+        },
+        {
+          "language": "英文",
+          "content": "This battle record is a five out of five. It's as good as the Wrankwood action blockbusters I used to watch at the video shop."
+        },
+        {
+          "language": "韩文",
+          "content": "이 작전 기록은 비디오룸에서 봤던 랭크우드 액션 영화처럼 완벽하군요."
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有意思，一家“医疗机构”竟然会采用如此标准且军事化的晋升系统？我已经开始期待某些人因为轻视你们而吃亏了。"
+        },
+        {
+          "language": "日文",
+          "content": "面白いですね。いわゆる「医療機関」が、ここまでスタンダードな軍隊式の昇進システムを採用しているなんて。あなたたちを侮った連中がそのうち痛い目を見ることを、ちょっと期待しちゃいます。"
+        },
+        {
+          "language": "英文",
+          "content": "Interesting. A 'medical organization,' employing a standard military promotion system...? Hmm. I can already see certain people getting their just desserts for underestimating you."
+        },
+        {
+          "language": "韩文",
+          "content": "흥미롭네요. 소위 말하는 '의료 기관'에서 이렇게까지 표준적인 군대식 승진 시스템을 적용하고 있다니. 당신들을 무시했던 사람들이 어떤 꼴이 될지 벌써부터 기대되는군요."
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "更高的职位往往意味着承担更多的责任，但我已经厌倦高位者拿责任当作自己私心的挡箭牌，希望这里会不一样。不管怎么说，至少现在，我们的合作的确又进了一步。"
+        },
+        {
+          "language": "日文",
+          "content": "高い地位には、相応の責任が伴うものです。でも、私は高位の者が責任という名目で私情を優先する振る舞いがもう、うんざりなんですよ。ロドスはそうじゃないと願っています。なんにせよ、少なくともこれで私たちの協力関係はより盤石になりましたね。"
+        },
+        {
+          "language": "英文",
+          "content": "A higher position often means taking more responsibilities, but I'm sick of people in those positions using responsibility as a shield for their own selfishness, so I hope things will be different here. In any case, our partnership has at least for now, taken another step forward."
+        },
+        {
+          "language": "韩文",
+          "content": "높은 지위에는 그만한 책임이 따르기 마련이죠. 하지만 전 그동안 높은 자리에 있는 사람들이 책임을 방패 삼아 자신의 사리사욕이나 채우는 모습을 숱하게 봐 왔습니다. 로도스 아일랜드는 그렇지 않았으면 좋겠군요. 어쨌든, 적어도 지금은 저와 로도스 아일랜드 사이의 관계가 더욱 끈끈해지게 되었네요."
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会时刻配合行动。"
+        },
+        {
+          "language": "日文",
+          "content": "いつでも作戦に協力しますよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll cooperate at all times."
+        },
+        {
+          "language": "韩文",
+          "content": "언제든 작전에 협력하겠습니다."
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会确保小队每一位成员的安全，不必担心。"
+        },
+        {
+          "language": "日文",
+          "content": "全員の安全には配慮するから、心配しないでください。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't worry. I'll make sure everyone on the squad is safe."
+        },
+        {
+          "language": "韩文",
+          "content": "제가 모두의 안전을 확보하겠습니다, 걱정하지 마세요."
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "忘掉你们各自为战的习惯！"
+        },
+        {
+          "language": "日文",
+          "content": "好き勝手に動く癖は忘れてください！"
+        },
+        {
+          "language": "英文",
+          "content": "Bury the habit of fighting each to your own!"
+        },
+        {
+          "language": "韩文",
+          "content": "각개전투하는 습관은 모두 버리세요!"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "勘察地形，扫清那些卑鄙的埋伏者。"
+        },
+        {
+          "language": "日文",
+          "content": "地形をよく観て、潜伏している卑怯者を一掃しましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "Survey the terrain, and clear out those despicables in hiding."
+        },
+        {
+          "language": "韩文",
+          "content": "지형을 잘 살피고, 비겁하게 숨어 있는 복병들을 제거해 보도록 하죠."
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "犹豫是大忌！"
+        },
+        {
+          "language": "日文",
+          "content": "躊躇は命取りになります！"
+        },
+        {
+          "language": "英文",
+          "content": "Hesitancy is forbidden on the battlefield!"
+        },
+        {
+          "language": "韩文",
+          "content": "망설임은 금물입니다!"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "可以拔剑了吗？"
+        },
+        {
+          "language": "日文",
+          "content": "もう剣を抜いてもいいですか？"
+        },
+        {
+          "language": "英文",
+          "content": "May I draw my sword now?"
+        },
+        {
+          "language": "韩文",
+          "content": "이제 검을 뽑아도 되겠습니까?"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "激进的战略，但我能处理。"
+        },
+        {
+          "language": "日文",
+          "content": "過激な作戦だけど、私ならこなせます。"
+        },
+        {
+          "language": "英文",
+          "content": "A radical strategy, but I can work with it."
+        },
+        {
+          "language": "韩文",
+          "content": "꽤나 과격한 작전이지만, 저라면 충분히 해낼 수 있습니다."
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "以貌取人的对手会付出代价。"
+        },
+        {
+          "language": "日文",
+          "content": "見た目で人を判断する奴は痛い目を見ますよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Judge by appearance, and suffer the consequences."
+        },
+        {
+          "language": "韩文",
+          "content": "겉모습으로 사람을 판단하다간 큰코다치게 될 겁니다."
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不许无视我！"
+        },
+        {
+          "language": "日文",
+          "content": "こっちを見なさい！"
+        },
+        {
+          "language": "英文",
+          "content": "Do not disregard me!"
+        },
+        {
+          "language": "韩文",
+          "content": "무시하지 마세요!"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们挑错了对手！"
+        },
+        {
+          "language": "日文",
+          "content": "相手を間違えましたね！"
+        },
+        {
+          "language": "英文",
+          "content": "You picked the wrong foe!"
+        },
+        {
+          "language": "韩文",
+          "content": "상대를 잘못 고르셨군요!"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "合适的时机。"
+        },
+        {
+          "language": "日文",
+          "content": "機は熟しました。"
+        },
+        {
+          "language": "英文",
+          "content": "A fine opportunity."
+        },
+        {
+          "language": "韩文",
+          "content": "때가 무르익었군요."
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "无需留手。"
+        },
+        {
+          "language": "日文",
+          "content": "情けは不要です。"
+        },
+        {
+          "language": "英文",
+          "content": "No need to hold back."
+        },
+        {
+          "language": "韩文",
+          "content": "자비는 필요 없습니다."
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "利落的指挥，离我们预计完成行动的时间还剩一小会儿，你该抓紧时间想想怎么奖励自己。"
+        },
+        {
+          "language": "日文",
+          "content": "見事な指揮でした。予定した作戦終了時間まで少し空いていますし、自分にどんなご褒美をあげるか考えておくといいですよ。"
+        },
+        {
+          "language": "英文",
+          "content": "That was some clean commanding. We have a bit of time before our mission is estimated to end, so you should grab the chance to think about how to reward yourself."
+        },
+        {
+          "language": "韩文",
+          "content": "훌륭한 지휘였습니다. 예정된 작전 종료 시간까지 아직 여유가 있으니, 스스로에게 어떤 보상을 줄지 한번 생각해 보시죠."
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "情理之中的结果，如果这都做不到，我会很怀疑你是否真的有能力实现你的抱负。"
+        },
+        {
+          "language": "日文",
+          "content": "想定の範囲内の結果ですね。これくらいのこともできないようじゃ、あなたが理想を実現する能力を持っているか疑いたくなります。"
+        },
+        {
+          "language": "英文",
+          "content": "A reasonable result. I'd doubt your ability to achieve your ambitions, if coping with this was beyond you."
+        },
+        {
+          "language": "韩文",
+          "content": "예상 범위 내의 결과네요. 이 정도도 해내지 못하셨다면, 박사님께서 정말로 이상을 실현할 능력이 있을지 의심이 들었을 겁니다."
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们无法保证每次都不留遗憾，博士......接受现实就好。"
+        },
+        {
+          "language": "日文",
+          "content": "一度も後悔しないで生きることはできませんよ、ドクター……現実を受け入れればいいんです。"
+        },
+        {
+          "language": "英文",
+          "content": "It's not for us to leave without regrets, Doctor... Let's accept reality."
+        },
+        {
+          "language": "韩文",
+          "content": "단 한 번도 후회하지 않고 살 수는 없습니다, 박사님…… 중요한 건 지금의 현실을 받아들이는 겁니다."
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我......还是做不到吗？"
+        },
+        {
+          "language": "日文",
+          "content": "私は……やっぱり届かないのでしょうか。"
+        },
+        {
+          "language": "英文",
+          "content": "Am I... still not good enough?"
+        },
+        {
+          "language": "韩文",
+          "content": "저로선…… 아직 역부족이었던 걸까요?"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这风格，很符合我对你的想象。"
+        },
+        {
+          "language": "日文",
+          "content": "このスタイル、私が思うあなたのイメージ通りですね。"
+        },
+        {
+          "language": "英文",
+          "content": "This style... it fits my impression of you."
+        },
+        {
+          "language": "韩文",
+          "content": "이 스타일…… 제가 생각했던 박사님의 이미지 그대로군요."
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这不礼貌。"
+        },
+        {
+          "language": "日文",
+          "content": "失礼ですよ。"
+        },
+        {
+          "language": "英文",
+          "content": "That's rude."
+        },
+        {
+          "language": "韩文",
+          "content": "무례하시네요."
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "想吃罐头吗？甜的，会发胖哦。"
+        },
+        {
+          "language": "日文",
+          "content": "缶詰食べますか？甘いものなので、太りますけどね。"
+        },
+        {
+          "language": "英文",
+          "content": "Want some canned food? The sugar will get you fat though."
+        },
+        {
+          "language": "韩文",
+          "content": "통조림 드시겠습니까? 단 거라 살이 찔 수도 있겠지만요."
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "新年快乐，博士......欸，大家邀请我去聚会？我不知道......以往都是单独和妈妈一起过的。不管了，反正也没其他事情好做了，走吧，博士。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好久不见，博士，准备好行动了吗？"
+        },
+        {
+          "language": "日文",
+          "content": "久しぶりですね、ドクター。作戦の準備はいいですか？"
+        },
+        {
+          "language": "英文",
+          "content": "It's been a while, Doctor. Ready to move out?"
+        },
+        {
+          "language": "韩文",
+          "content": "오랜만입니다, 박사님. 작전 준비는 되셨나요?"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那次意外发生时我们都在场......我至今忘不掉那时的无力感。随着你们被越来越多的势力关注到，同样的事情只会更加频繁地发生在你们身上。面对无法抵抗的灾祸时，你们还能坚持下去吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

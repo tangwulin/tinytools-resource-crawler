@@ -1,0 +1,823 @@
+{
+  "name": "红隼",
+  "charaKey": "char_4023_rfalcn",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4023_rfalcn"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4023_rfalcn"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4023_rfalcn"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_4023_rfalcn"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这一摞文件放在这里，没有其他的事情我就先走了......那份文件上的污渍？咳咳，昨天喝得尽兴，不小心把酒瓶子打翻了。唉，真是，怎么夹在中间也能被你发现？"
+        },
+        {
+          "language": "日文",
+          "content": "ファイルは全部ここに置いとくよ。他に用がないなら俺はこれで……あん？ファイルにシミがついてる？あ…その、昨日飲んでる時調子に乗っちゃって、うっかり瓶をひっくり返しちまったんだ。はは…ったく、間に挟んでたってのに、それでも見つけんの？"
+        },
+        {
+          "language": "英文",
+          "content": "Here are the documents. If that's all, I'll be going... The stain on that sheet? Oh, that's, uh... I guess I did spill something when I was having a couple of drinks last night. Haha... Damn, I put it in the middle of the stack, how'd you catch it...?"
+        },
+        {
+          "language": "韩文",
+          "content": "문서는 전부 여기에 넣어 둘게. 다른 볼일 없으면 난 이만…… 응? 서류에 묻은 얼룩? 아, 크흠. 어제 술 마시다 흥이 올라오는 바람에 실수로 병을 엎었거든. 하아, 정말이지. 중간에 끼워 놨는데 대체 어떻게 알아챈 거야?"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们这种文化人能不能喝？走，一起喝一杯，越过黑夜中的高山，独自走过狂风中的黄沙，我与我的朋友正站在绿洲中痛饮美酒......嗝呃——！让我、我们回到家乡......"
+        },
+        {
+          "language": "日文",
+          "content": "お前らみたいなとっぽいひょろ助連中って、酒はイケる口なの？来なよ、一緒に飲みに行こうぜ。明けない夜に山を越えるぅ～、大風荒ぶ砂原を行くぅ、オアシスで友と酒を飲むぅ……ひっく。帰ろ、帰ろう故郷に……"
+        },
+        {
+          "language": "英文",
+          "content": "Do cultured folks like you even drink? Come, come, let's take a swig together, okay? Climb the hills in the dark, cross the desert in a storm. Now we gather in the oasis, drinking all the finest booze… Hehehe, oh, my friend, let's return to our homeland…"
+        },
+        {
+          "language": "韩文",
+          "content": "너희같이 배운 사람들도 술을 잘 마시나? 자, 그럼 같이 한잔하러 가자고. 어두운 밤을 지나 높은 산도 넘고~ 거센 바람이 몰아치는 모래사막을 지나~ 오아시스에서 술을 마시며…… 꺼윽…… 돌아가자, 돌아가자 우리의 고향으로……"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "又不冷，穿得那么严实干什么？一会儿打起来会热得出汗。哎，那边的小朋友，不要拘谨，脱掉你的棉衣，真正的战士不会吝于展示苦训在身体上留下的痕迹。"
+        },
+        {
+          "language": "日文",
+          "content": "寒くもないのに、そんなしっかり着込んでどうすんの？このあと戦うことになったら汗だくになるよ。おい、そっちのチビちゃん、恥ずかしがらないで上着を脱ぎな。本物の戦士は、訓練が残した跡をケチケチ隠したりしないもんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Why are you all wrapped up like that on such a warm day? You'll be drenched in sweat. Hey you! Yes, you! Why don't you take off that jacket? A true warrior isn't afraid to show the results of hard training!"
+        },
+        {
+          "language": "韩文",
+          "content": "별로 춥지도 않은데 왜 그렇게 껴입고 있는 거야? 이따가 한바탕 싸우고 나면 땀에 절을걸? 이봐, 거기 꼬맹이. 그렇게 딱딱하게 굴지 말고 겉옷은 벗어버려. 진정한 전사는 몸에 남은 고된 훈련의 흔적을 부끄러워하지 않는 법이야."
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“干员”？不，我是罗德岛的战士。你放心，我不是放不下过去那一切，我只是想守护现在拥有的。我会为你们培养出新的战士......就像以前她们在黄沙与流浪中收留我、培养我那样。"
+        },
+        {
+          "language": "日文",
+          "content": "「オペレーター」？いいや。俺はロドスの戦士だ。安心しな、昔のことを引きずってるわけじゃなくて、今あるものを守るって言いたいだけだ。お前らのために、新しい戦士を育ててやるさ……あの頃彼女たちが砂原で流浪する中で、俺を拾って育ててくれたみたいにね。"
+        },
+        {
+          "language": "英文",
+          "content": "Operator'? No, I'm a warrior of Rhodes Island. Don't worry, it's not because I can't let go of the past, but because I want to defend the present. I'll train new warriors for you... same as I was taken in and raised back on the sands."
+        },
+        {
+          "language": "韩文",
+          "content": "'오퍼레이터'? 아니, 난 로도스 아일랜드의 전사다. 안심해, 난 과거를 내려놓지 못하는 게 아니야. 난 단지 현재 내가 가진 것들을 지키고 싶을 뿐이지. 내가 너희를 위해 새로운 전사들을 키워 내겠어…… 마치 예전에 그들이 모래사막을 헤매며 떠돌아다니던 날 거두어주고 가르쳐 준 것처럼."
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我曾收留过一群因战争失去一切的孩子，他们为了复仇，恳求我将刀法传授给他们，我答应了，他们也成功了，不过是以生命为代价......首领当年教我用刀，明明只是为了守护。"
+        },
+        {
+          "language": "日文",
+          "content": "昔、戦争で全部失くした子供らを拾ったことがあるんだ。復讐のために刀の振り方を教えてくれって頼まれて、それで教えたら、あいつらは成功した――命と引き換えに。お頭が俺に刀を教えたのは、ただ守るためだったのにね。"
+        },
+        {
+          "language": "英文",
+          "content": "I once took in some war orphans. They begged me to teach them how to use a sword to get revenge. I agreed, and they succeeded, but at the cost of their lives… Many years ago, the chief taught me that the sword is only for protection."
+        },
+        {
+          "language": "韩文",
+          "content": "예전에 전쟁으로 모든 것을 잃은 아이들을 거둔 적이 있어. 그 아이들은 복수를 위해 칼을 휘두르는 법을 가르쳐 달라고 했고, 난 그 부탁대로 가르쳤지. 결국 아이들은 복수에 성공했지만, 복수의 대가는 자신들의 목숨이었어…… 우리 두목이 나한테 칼을 가르친 건, 무언가를 지키기 위해서였는데……"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那场战争夺走了几乎所有族人的命，战友用脊背挡住攻击，首领的血滴在我的额头上......之后，我和其他孩子选择踏上复仇之路，最后，只有我活了下来，什么也不剩，只有我。"
+        },
+        {
+          "language": "日文",
+          "content": "あの戦いは、部族ほぼ全員の命を持ってっちまった。戦友が背中で攻撃から庇ってくれて、お頭の血が俺のおでこに落ちてきて……その後、みんなと復讐の道を選んだが、結局、生き残ったのは俺だけさ。何もかもそっくり消えちまったよ。俺だけが、残されたんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "The war took the lives of everyone in my tribe. My friends blocked blows with their bodies, and the chief's blood dripped onto my head... Me and the other children set out on a path of revenge. I'm the only one left. No one and nothing else. Only me."
+        },
+        {
+          "language": "韩文",
+          "content": "그 전투는 거의 모든 부족민의 목숨을 앗아갔어. 전우와 등을 맞댄 채 공격을 막았고, 두목의 피가 내 이마로 떨어졌었지…… 그 후, 부족의 모두가 복수의 길을 선택했지만, 살아남은 건 오직 나 혼자뿐이었어. 모든 게 사라지고, 나 홀로…… 나만 남겨진 거야."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你问我画在你小臂上的花纹？是“齿痕”。喏，我也有一个，是首领亲手刻在我皮肤上的。她说，经受住血液与疼痛洗礼的人会成长为最勇敢的战士，它会带给我们力量。"
+        },
+        {
+          "language": "日文",
+          "content": "お前の腕に描いた紋様？こいつは「歯形」だ。ほら、俺にもあるよ。お頭が直々に彫ってくれたんだ。血と痛みの洗礼を耐えた奴は勇敢な戦士になる、そしてこの紋様は俺らに力をくれるって言ってた。"
+        },
+        {
+          "language": "英文",
+          "content": "The mark I'm drawing on your forearm? It's a 'bite mark'. Look, I have one too. The chief carved it into my skin herself. She said that those who have undergone the trial of blood and pain become the bravest warriors. The mark brings us strength."
+        },
+        {
+          "language": "韩文",
+          "content": "네 팔에 그린 문양? 이건 '이빨 자국'이야. 봐, 나에게도 있어. 이건 두목이 직접 새겨 준 거야. 두목은 피와 고통의 세례를 견뎌 낸 자만이 용감한 전사가 될 수 있으며, 이 문양이 우리에게 힘을 줄 거라고 했어."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "虽然我在战场和矿上都受过很多伤，但愈合后却没留下什么痕迹。小时候觉得是幸运，但现在却觉得遗憾，我想留下些伤疤去纪念一些人和事。送死换不回什么，我要活着，自己守住它们。"
+        },
+        {
+          "language": "日文",
+          "content": "俺は戦場でも鉱山でも結構怪我したけど、治るとそんなに跡は残んなかったんだ。小さい頃は運が良いって感じてたけど、今は残念に思うよ。傷跡を残して、人とか思い出の記念にしたいからね。死んだとこで何にもならないから、俺はその思い出を守るために生きてくんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "I've taken plenty of hits both in battle and in the mines, but not many left marks. I used to think I was lucky, but now I wish I wasn't. I want the scars to help me remember certain people and things. Death brings back nothing, you know. I have to stay alive, and carry them myself."
+        },
+        {
+          "language": "韩文",
+          "content": "전장이나 광산에서 꽤 여러 번 다쳤거든? 근데 다 낫고 나면 흉터가 안 남더라고. 어릴 땐 이게 행운이라고 생각했었는데, 지금 돌이켜보면 약간 아쉽기도 해. 흉터가 남으면 그걸 볼 때마다 함께했던 사람이나 그때 겪었던 일들을 추억할 수 있잖아. 죽으면 다 끝이야, 그래서 난 살아남을 거야, 그 추억들을 지키기 위해서라도."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那边山顶是在下雪吗？......我昨晚做了个梦，梦到刚被捡来时我睡在首领的怀里，她抚摸着我的额头，手掌像被阳光暴晒过的沙子，炽热又粗糙——她们从没见过下雪，我今天替她们见到了。"
+        },
+        {
+          "language": "日文",
+          "content": "あっちの山頂はもしかして雪が降ってんの？……ゆうべ、拾われたばっかりの時の夢を見たんだ。お頭の懐の中で寝ていて、おでこを撫でられたんだけど、手のひらが太陽の下でずっと熱せられた砂みたいに、熱くてざらざらで――お頭たちは雪を見たことないんだ。今日俺があいつらに代わって見たよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Is it snowing on that peak...? Ohh... Guess what, Doctor? I had a dream last night about sleeping in the chief's arms when I was first taken in. She stroked my forehead gently, and her palm was like the sun-scorched sand, warm and rough. They've never seen the snow. Now I see it for them."
+        },
+        {
+          "language": "韩文",
+          "content": "저쪽 산꼭대기, 지금 눈 내리고 있는 거야? ……어제 꿈에서 부족에게 거둬진 그날, 두목의 품에서 곤히 자고 있는 나를 봤어. 두목이 내 이마를 어루만졌는데, 얼마나 뜨겁고 거칠던지, 태양에 달궈진 모래알 같더라. 그들은 눈을 본 적이 없었다고 했었는데, 오늘 내가 대신 봤네."
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "今天阳光很好，难得睡了个懒觉，做了个好梦。"
+        },
+        {
+          "language": "日文",
+          "content": "いい天気だね。久しぶりにゆっくり寝ていい夢見たぁ。"
+        },
+        {
+          "language": "英文",
+          "content": "It's a beautiful day out there. I had a good nap, and a good dream, for once."
+        },
+        {
+          "language": "韩文",
+          "content": "오늘은 날씨가 좋네. 간만에 늦잠도 자고 좋은 꿈도 꿨어."
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "既然我选择站在这里，那脚下这片土地就是我新的家园。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスを選んだからには、今立ってるここが俺の新しい家だよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I choose to stand here, and so the land beneath my feet is my home."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 로도스 아일랜드를 선택한 이상, 내가 서 있는 이곳이 바로 나의 새로운 집이야."
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不用了，我想直接去训练场拿起武器与盾牌。"
+        },
+        {
+          "language": "日文",
+          "content": "そんなもんより、俺は武器を持って訓練場行きたい。"
+        },
+        {
+          "language": "英文",
+          "content": "No need, I'll grab my weapon and shield and head to the training grounds."
+        },
+        {
+          "language": "韩文",
+          "content": "됐어, 안 볼래. 난 그런 것보단 훈련장에서 직접 무기랑 방패를 들어보는 게 나아."
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "只是战士的职责，你太客气了......哼，脸红？不可能的，我晒得这么黑，你怎么可能看得出来？"
+        },
+        {
+          "language": "日文",
+          "content": "戦士として当たり前のことしただけなのに、水臭いって……へ、顔が赤い？まさか。こんなに肌が焼けてんのに、赤いのが分かるわけないだろ？"
+        },
+        {
+          "language": "英文",
+          "content": "It's a warrior's duty, no need to thank me... Wha? blushing? Of course I'm not blushing. How could can you even tell I'm blushing through my tan?"
+        },
+        {
+          "language": "韩文",
+          "content": "전사로서 당연한 일을 했을 뿐인데 뭘, 이러니까 내가 다 어색하다…… 얼굴이 빨개졌다고? 그럴 리가, 이렇게 피부가 탔는데, 빨간 게 보일 리가 없잖아!"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "谢谢你，博士......我会把这枚勋章带回故乡去。虽然那里的泉水已经干涸了，但它仍会祝福我，她们也会知道我仍然在战斗。"
+        },
+        {
+          "language": "日文",
+          "content": "ありがとね、ドクター……このメダルは故郷に持って行くよ。あそこの泉は枯れちまったけど、俺のことを祝福してくれるだろう。そこに眠ってるみんなも、俺がまだ戦ってることを知るんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Thanks, Doctor... I'll take this medal back to my homeland. The spring there has dried up, but it will continue to bless me, and they will know that I'm still fighting."
+        },
+        {
+          "language": "韩文",
+          "content": "고마워, 박사…… 이 훈장은 고향에도 가져갈게. 비록 고향의 샘은 말라 없어졌지만, 분명 날 축복해 줄 거야. 그럼 거기에 잠들어 있는 모두도, 내가 아직 싸우고 있다는 걸 알게 될 테지."
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "爱人、战友、家园，战士一生为了这些而活着。"
+        },
+        {
+          "language": "日文",
+          "content": "愛する人、戦友、故郷――戦士はこいつらのために生きてるんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Love, friends, hearth. That's what a warrior lives for."
+        },
+        {
+          "language": "韩文",
+          "content": "사랑하는 이, 전우, 고향. 전사는 한평생 이것들을 위해 살아가는 거야."
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "战士们，你们的勇气将会迎来荣耀。"
+        },
+        {
+          "language": "日文",
+          "content": "戦士よ、お前らの勇気は栄光を呼ぶぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "Warriors! Your courage will bring glory."
+        },
+        {
+          "language": "韩文",
+          "content": "전사들이여, 너희의 용기에 영광이 보답할 것이다."
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "战斗前不要吃太饱，小心一会儿吐出来。"
+        },
+        {
+          "language": "日文",
+          "content": "戦いの前に腹いっぱい食いすぎるなよ。後で吐くからな。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't eat too much before a battle, unless you want to throw it all up."
+        },
+        {
+          "language": "韩文",
+          "content": "전투 전에 너무 배부르게 먹지 마. 자칫하면 토할 수도 있거든."
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那就战斗吧！"
+        },
+        {
+          "language": "日文",
+          "content": "それじゃ、やるか！"
+        },
+        {
+          "language": "英文",
+          "content": "Now we fight!"
+        },
+        {
+          "language": "韩文",
+          "content": "어디 그럼 싸워 볼까!"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "已做好准备。"
+        },
+        {
+          "language": "日文",
+          "content": "準備はできてるぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm well prepared!"
+        },
+        {
+          "language": "韩文",
+          "content": "준비는 끝났어."
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的刀已经磨亮了。"
+        },
+        {
+          "language": "日文",
+          "content": "刀はぴかぴかに研いであるよ。"
+        },
+        {
+          "language": "英文",
+          "content": "My sword is honed."
+        },
+        {
+          "language": "韩文",
+          "content": "칼은 이미 갈아 뒀어."
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一步不退。"
+        },
+        {
+          "language": "日文",
+          "content": "一歩も退かない。"
+        },
+        {
+          "language": "英文",
+          "content": "You're not getting past me!"
+        },
+        {
+          "language": "韩文",
+          "content": "한 발짝도 물러서지 않겠다."
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我看到他们了。"
+        },
+        {
+          "language": "日文",
+          "content": "敵さんが見えたぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "I see them."
+        },
+        {
+          "language": "韩文",
+          "content": "적을 발견했다."
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "战斗，或是死亡！"
+        },
+        {
+          "language": "日文",
+          "content": "戦え、さもなくば死ね！"
+        },
+        {
+          "language": "英文",
+          "content": "Victory or death!"
+        },
+        {
+          "language": "韩文",
+          "content": "싸워라! 싸우지 않겠다면 죽어라!"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们的墙，我们来守护！"
+        },
+        {
+          "language": "日文",
+          "content": "俺らの壁は俺らが守る！"
+        },
+        {
+          "language": "英文",
+          "content": "We will defend our home!"
+        },
+        {
+          "language": "韩文",
+          "content": "우리의 벽은 우리가 지킨다!"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "绝不能被敌人看到我们的后背！"
+        },
+        {
+          "language": "日文",
+          "content": "敵に背中を見せるんじゃないよ！"
+        },
+        {
+          "language": "英文",
+          "content": "The enemy will never see our backs!"
+        },
+        {
+          "language": "韩文",
+          "content": "적에게 등을 보이지 마!"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "举起你的刀和盾，一步不退！"
+        },
+        {
+          "language": "日文",
+          "content": "刀と盾を掲げて、一歩も退くな！"
+        },
+        {
+          "language": "英文",
+          "content": "Raise your weapons and shields! Not one step back!"
+        },
+        {
+          "language": "韩文",
+          "content": "칼과 방패를 들고, 한 발짝도 물러서지 마라!"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这是我们镇守的家园，也是他们丧命的地方。"
+        },
+        {
+          "language": "日文",
+          "content": "ここは俺らが守る家で、敵の死に場でもある。"
+        },
+        {
+          "language": "英文",
+          "content": "This is the home that we defend. This is where they die."
+        },
+        {
+          "language": "韩文",
+          "content": "이곳은 우리가 지키는 고향이자, 저들이 죽을 장소다."
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "他们挥舞的锋刃最终会刺中自己的喉咙，这就是入侵者的结局。"
+        },
+        {
+          "language": "日文",
+          "content": "奴らが振るう刃は、最後にゃ自分の喉を刺すんだ。それが侵入者の結末だよ。"
+        },
+        {
+          "language": "英文",
+          "content": "The invaders' swords cut their own throats. An end they deserve."
+        },
+        {
+          "language": "韩文",
+          "content": "저들이 휘두르는 칼날은 결국 자신의 목을 찌르게 될 거야. 그게 바로 침략자의 최후야."
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果能够死在守卫家园的战场上，那是我的荣幸。"
+        },
+        {
+          "language": "日文",
+          "content": "故郷を守る戦場で死ねるなら、本望だ。"
+        },
+        {
+          "language": "英文",
+          "content": "Haha, it is an honor to die defending my home."
+        },
+        {
+          "language": "韩文",
+          "content": "고향을 지키는 전쟁에서 죽는다는 건 내겐 너무나도 명예로운 일이다."
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......我的家园，我的战友，我的挚爱......等着我。"
+        },
+        {
+          "language": "日文",
+          "content": "……俺の故郷、俺の戦友、俺の愛する人……待っててくれ。"
+        },
+        {
+          "language": "英文",
+          "content": "My homeland, my friends, my love... they're all waiting for me."
+        },
+        {
+          "language": "韩文",
+          "content": "……나의 고향, 나의 전우, 그리고 내가 사랑하는 이들이여…… 조금만 더 기다려 줘."
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这个地方禁止饮酒啊......啊，你问我杯子里装的是什么？是大麦气泡果汁。"
+        },
+        {
+          "language": "日文",
+          "content": "なんだ、ここは酒禁止かよ……あ？このコップの中身？大麦の発泡ジュースだよ。"
+        },
+        {
+          "language": "英文",
+          "content": "The heck? No alcohol here...? Huh? What's that in my mug? It's just some b… umm... bubbly barley juice."
+        },
+        {
+          "language": "韩文",
+          "content": "뭐야, 여기선 술 금지라고? ……아, 컵에 들어 있는 거? 보리맛 탄산 음료지."
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别动我！"
+        },
+        {
+          "language": "日文",
+          "content": "っ！触んな！"
+        },
+        {
+          "language": "英文",
+          "content": "Hey! Hands off."
+        },
+        {
+          "language": "韩文",
+          "content": "윽, 만지지 마!"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哈哈哈——！呃，其实我很怕痒......"
+        },
+        {
+          "language": "日文",
+          "content": "ははは。いやぁ、実はくすぐったいのが苦手でね……"
+        },
+        {
+          "language": "英文",
+          "content": "Hahaha! Oh, I hate being tickled…"
+        },
+        {
+          "language": "韩文",
+          "content": "하하하! 으읏, 사실 내가 간지럼에 약해서……"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "最烈的酒献给最勇猛的战士，所以博士——这杯酒是我的了。或者还有一种方式，也可以让我把酒让给你——吃下这一整头烤得金黄的猎物，你就是今天的部族英雄！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "说真的，你每天都不需要晒太阳的吗？"
+        },
+        {
+          "language": "日文",
+          "content": "マジな話、お前って毎日日にも当たらないで平気なの？"
+        },
+        {
+          "language": "英文",
+          "content": "Yo, Doctor, you sure you don't need to sun a bit?"
+        },
+        {
+          "language": "韩文",
+          "content": "진심으로 하는 말인데, 너 진짜 매일 햇빛 안 쬐도 괜찮은 거야?"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我有几次在办事处看到罗德岛远远地驶过，舰船轰鸣，黄沙颤动。很难形容那一刻我心里的感觉......就像是首领突然通过这一切告诉我：你已经找到了值得你再次为之战斗的地方。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

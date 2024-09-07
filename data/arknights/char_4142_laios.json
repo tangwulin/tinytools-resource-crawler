@@ -1,0 +1,492 @@
+{
+  "name": "莱欧斯",
+  "charaKey": "char_4142_laios",
+  "images": [
+    "https://media.prts.wiki/2/2c/%E7%AB%8B%E7%BB%98_%E8%8E%B1%E6%AC%A7%E6%96%AF_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/e/e3/%E7%AB%8B%E7%BB%98_%E8%8E%B1%E6%AC%A7%E6%96%AF_2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "联动",
+      "base": "voice/char_4142_laios"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哦！这机器能把人的声音直接传过来，我还能和那边的人对话；那个“复印机”能把纸上的图画一模一样地印出来——我的工作就是使用这些机器吗？好想知道它们是怎么做到的！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小刻，这个生腌沙虫好吃吗？那这个钳兽蘑菇酱呢？也好吃？还有蒜拌鳞肠，你也喜欢？能在这里遇到你真好！走吧，我们再去找新的魔——呃啊啊？火神小姐？干什么，你要带我去哪儿？！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士！我在这个小房间里！帮帮我，Mon3tr肯定病了，我给它什么它都不吃，你有什么办法吗？嗯？凯尔希医生让我待在这里，不许出去，不是看我和它关系好让我照顾它吗？不是吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "梓兰小姐说管理队友就是给不听话的狠狠来一下，芬小姐则很认真地告诉我管理队友是要承担起队长的责任。她们还拉着我讨论做队长最重要的是什么，我其实觉得，大家互相信任，就是最重要的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "魔物为了捕猎会长出利爪，为了迷惑冒险者会生出可爱的外表。观察魔物的行为就能了解它们，它们总是会坦诚地呈现自己的全部，但人类完全不一样......我还是更喜欢魔物。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小时候我被灵附身，是法琳把它赶走的，她却因此被村里人排挤，被赶去远方的学校。后来她从学校离开，跟着我去迷宫，我却没能保护好她，害她被炎龙吃掉了......我一定会把她救回来的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小心，这是极境拜托我孵化的黎博利的蛋，他说这几天就会破壳了——哦哦，真的裂开了，孵出了一只湿漉漉的小鸟！黎博利小时候长这样吗？博士你笑什么？......你说极境他骗我？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "玛露西尔根本不喜欢吃魔物，齐尔查克不会出于同情而接工作......本来我已经决定一个人去救法琳了，他们却还是愿意陪我一起，我很感谢他们。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我没想到除了森西外还会有那么多干员对魔物感兴趣，他们还想跟着我们去迷宫里看看。要是真的能够在这里和迷宫间来回，法琳肯定也想过来，认识你们这群朋友，然后我们一起走遍泰拉！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔，剑助好像也睡着了......我也该睡一睡了......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我刚才注意到了，你其实对魔物料理也挺感兴趣的，对吧？这是用沙虫和针蚤做的肉丸，你尝尝？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这些魔物真是越看越有趣啊......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "谢谢你们的认可！不过博士，为什么我最近都没怎么碰到干员们？收集了太多大家的羽毛和绒毛被投诉说很奇怪？我、我只是想做成标本收藏——"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我现在很清楚在这里要如何与大家来往了，肯定能和干员们融洽相处。这是我做的一批超级无敌七头魔物模型，待会儿就作为赔礼送过去。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "武器防具、药品食物、炊具铺盖......不需要铺盖吗？哦哦。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明白，我会承担起相应的责任的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯，肚子很饱，这次绝对没问题。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔，剑助震动了！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们这里的魔物长什么样？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要是能遇到新品种就好了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "先看看有没有食肉魔物的粪便......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里的地形和迷宫里的区别很大呢......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "咯————咯咯，咯咯咯！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊啊，今天的收获等下一定都要记下来，泰拉的魔物真是多种多样啊......！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "森西，刚刚那些魔物能吃吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别灰心，博士，我们下次一定会成功的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没有吃饱就战斗的话，可能会团灭啊......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好，让齐尔查克做一份这里的地图吧！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......剑助？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小磐蟹没办法自己翻身，真好玩。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "刚刚玛露西尔拍照的时候还在身边给法琳留了个位子，我在想我要给法琳带什么回去作为礼物。你觉得这瓶针蚤肉酱怎么样？怎么了，不好吗？这可是用异世界的魔物做的啊。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的嘴在发光......？嗯，我刚才吃了荧壳源石虫软糖。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "听说只要击败了迷宫的狂乱魔法师，就能获得那里的一切。我之前去迷宫深处时并没有仔细考虑自己为什么想去，又或是想要得到什么。但是认识你们后我才知道，有目标的人生，原来是这样的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

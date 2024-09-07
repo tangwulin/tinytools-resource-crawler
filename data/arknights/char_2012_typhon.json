@@ -1,0 +1,839 @@
+{
+  "name": "提丰",
+  "charaKey": "char_2012_typhon",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_2012_typhon"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_2012_typhon"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_2012_typhon"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_2012_typhon"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "闭上眼睛。感觉有点热是正常的，别急着睁开......嗯？是一些揉碎的植物，能让你的眼睛放松一点。你肯定也在死死地盯着某种危险，这种事我很有经验，听我的。"
+        },
+        {
+          "language": "日文",
+          "content": "目を瞑れ。少し熱く感じるのは普通だ、まだ開けるなよ……ん？ああ、これは細かくほぐした植物だ。目をリラックスさせる効果がある。何か危険なものに睨みを利かせているのだろう？わたしにはよく分かる。いいから任せておけ。"
+        },
+        {
+          "language": "英文",
+          "content": "Close your eyes, don't rush to open them. They may feel slightly hot, that's normal... Shh, stay calm, I crushed some herbs to help your eyes relax. You must have been staring at some dangerous thing. I do that a lot, trust me."
+        },
+        {
+          "language": "韩文",
+          "content": "눈을 감아봐. 조금 뜨거운 건 정상이니까, 아직 뜨지 말고…… 응? 아, 잘게 다진 약초야. 눈의 긴장을 풀어 주는 효과가 있어. 또 뭔가 위험한 게 있나 계속 노려보고 있었던 거지? 이런 건 익숙하니까, 나한테 맡겨."
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "向导啊......好吧，西蒙娜确实更适合，她和我一样长期四处狩猎，我可以放心把你们交给她，而且由于误会，有些部族我没办法带你们进去......要是你听到有人说我会吃人，不要信。"
+        },
+        {
+          "language": "日文",
+          "content": "案内人、か……そうだな、確かにシモーネの方が適任だろう。わたしと同じくらい狩りの経験が豊富だから、安心して任せられる。それに、ちょっとした事情で、わたしが案内できない部族もあるからな……この先でわたしが人を食らうなんて話を聞いたら、絶対に信じるなよ。"
+        },
+        {
+          "language": "英文",
+          "content": "A guide...? I guess Simone is a better fit for the job. She's also a veteran hunter like me, so I know you'll be in good hands, and won't get into... trouble. There have been some misunderstandings and a few tribes now turn me away. Just remember, if anyone tells you I'm a man eater, they're lying."
+        },
+        {
+          "language": "韩文",
+          "content": "가이드라…… 그래, 확실히 시몬이 더 적합하겠지. 나처럼 사냥 경험이 풍부하니까, 안심하고 너희들을 맡길 수 있어. 그리고 오해가 있어 내가 안내할 수 없는 부족이 있기도 하고…… 혹시 나중에 내가 사람을 잡아먹는다는 얘기를 들어도, 절대 믿지 마."
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别碰。我说过，谁都不能碰我的弓，那些铁匠不行，你也不行。你们没有反过来狩猎它的本领，就不要被萨米深处的影子发现。你这种人我见得可多了，没关系，我会再说一遍，再说一遍，再说一遍！"
+        },
+        {
+          "language": "日文",
+          "content": "触るな。言ったはずだ。わたしの弓は誰にも触らせない。鍛冶職人はもちろん、お前もダメだ。狩られる前に仕留めるような技量がなければ、サーミの深くに潜む影に気取られてはいけない。お前みたいなのはたくさん見てきた。別にいいさ。わたしが何度でも、何度でも何度でも言い聞かせてやるからな。"
+        },
+        {
+          "language": "英文",
+          "content": "Hands off. I've told you before, no one gets to touch my bow. Not you, not the smiths. You don't have the skills to hunt shadows in the depth of Sami, so you shouldn't draw their attention. I know your kind, I know you're curious. I'll just repeat myself over, over, and over again until I get through to you."
+        },
+        {
+          "language": "韩文",
+          "content": "만지지 마. 말했을 텐데, 내 활은 그 누구도 만져선 안 된다고. 대장장이들은 물론이고, 너도 안 돼. 사냥당하기 전에 죽일 실력이 없다면, 사미 깊숙이 숨어 있는 그림자에게 들켜선 안 돼. 너 같은 사람들은 많이 봐 왔어. 괜찮아. 내가 몇 번이고, 몇 번이고 다시 말해 줄게."
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你找找之前科考队的记录。这是幼小的角兽，是好朋友；这种雪要法术才能控制，遇到的话要向我求救。对，给这些照片做个笔记，你真聪明——你那是什么表情，难道我会用电子设备很奇怪吗？"
+        },
+        {
+          "language": "日文",
+          "content": "以前の調査隊の記録を確認するといい。たとえば、こいつは角獣の幼体で、お友達だ。あと、こういう雪はアーツでしか制御できない。もし遭遇したら、わたしを呼ぶんだ。そうだ、写真の下にメモを残すとわかりやすい。お前、賢いな――なんだ、その顔は。わたしが電子機器を使えるのがそんなにおかしいか？"
+        },
+        {
+          "language": "英文",
+          "content": "Check the logs from the research teams. See? These little hornbeasts are friends, they're harmless. And this kind of snow needs Arts to control, so call me if you run into some. Good, go ahead and add some notes to these pictures, you're pretty clever. Why the look? Is it so strange that I know how to use electronics?"
+        },
+        {
+          "language": "韩文",
+          "content": "이전 탐사대의 기록을 확인해 봐. 음, 이건 어린 혼비스트인데 우리의 친구야. 아, 그리고 이런 눈은 아츠로밖에 제어할 수 없으니까, 혹시 마주치게 되면 꼭 날 불러. 그래, 사진 밑에 메모를 남겨두는 게 좋을 거야. 너 꽤 똑똑하잖아…… 뭐야, 그 표정은. 내가 전자 기기를 쓰는 게 그렇게 신기해?"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们真的和麦哲伦一样是怪人，硬要用另一种方式理解这片土地，这么努力，应该总有一天能梦见完整的萨米吧。但是现在的你们还不行，唉，我真的很不放心。既然是合作，你们一定要听我的。"
+        },
+        {
+          "language": "日文",
+          "content": "お前たちは本当にマゼランと同じように変わってるな。そうやって無理やり異なった理を当てはめて、この地を理解しようとする。まあ、その懸命さがあれば、いつかは真のサーミの姿が夢に出てくるかもしれないな。今のお前たちじゃ無理だろうけど。はあ、まったく心配だな……ともかく、協力関係を結ぶというなら、わたしの言うことはちゃんと聞いてもらうぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "You all are strange, just like Magallan, insisting on comprehending the land on your own terms. I've seen your hard work, you'll come to know the whole of Sami as you see her in your dreams someday. But now? You aren't there yet. I'm worried about you, but since we're working together, just listen to me and you'll be fine."
+        },
+        {
+          "language": "韩文",
+          "content": "너희들은 참 마젤란만큼 이상하다니까. 굳이 다른 방식으로 이 대지를 이해하려고 하잖아. 뭐, 그 정도 노력이라면 언젠가는 진정한 사미의 모습을 꿈꿀 수 있을지도 모르겠네. 지금의 너희에겐 무리겠지만 말이야. 하아, 진짜 걱정이라니까. 아무튼 협력 관계를 맺었으니, 내 말에 잘 따라줘야 해."
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "把导航仪器放下，你不是专业人员，背这个肯定很累。我带着你走就行了，以前艾尔启就是这么带着我的。她总说困境和死地也是命运的指引，但后来我发现，顺着风声和树的枝桠，自然就走到了。"
+        },
+        {
+          "language": "日文",
+          "content": "そのナビ用の機器は置いていけ。体力仕事はお前にとっては専門外だろう？背負ったまま歩いたらきっとすぐに疲れてしまう。案内はわたしに任せておけ。昔はよく、アルゲスとこうやって歩いたものだ。あの人はいつも苦境や死地も運命の導きだとかつぶやいてたけど、あとになって気付いたんだ。風の音や木の枝に沿って進めば、自ずと行きたい場所にたどり着けるんだって。"
+        },
+        {
+          "language": "英文",
+          "content": "Put that navigation instrument down, you're no professional, it's wearing you out just carrying it around. Let me lead the way, just like Arges used to do for me. She always says pitfalls and pains guide you to destiny, but I find I can get where I want by just following the sound of the breeze and the twigs in the trees."
+        },
+        {
+          "language": "韩文",
+          "content": "그 내비게이션 장치는 내려놔. 전문가도 아니면서 그런 걸 지면 금방 지쳐버리고 말 거야. 안내는 나한테 맡겨. 예전에는 아르게스가 이렇게 날 이끌어 줬었어. 고난과 역경도 운명의 길잡이라고 말하곤 했는데 나중에야 알게 됐어. 바람 소리와 나뭇가지를 따라가다 보면 자연스럽게 원하는 곳에 도달할 수 있다는 걸 말이야."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你没试过睡在岩洞的地面上吗？藤床呢？你应该试试，我听不到萨米的心跳就会睡不好觉。要是异象发生时我不能立刻醒过来，我怎么可以闭上眼睛休息呢？......我是经常做噩梦，怎么了吗？"
+        },
+        {
+          "language": "日文",
+          "content": "岩窟の地べたで寝たことはないのか？藤のツルの上は？一度は試してみた方がいいぞ。わたしなんて、サーミの鼓動が聞こえてこないと熟睡もできない。というより、異常を察知したらすぐに対応できる身構えでもしていないと、安心して眠れないだろう？……ああ、確かによく悪夢を見るが、それがどうかしたのか？"
+        },
+        {
+          "language": "英文",
+          "content": "You've never tried sleeping on a cave floor before? What about a bed made of vines? You should give it a try, I can't get a good night's sleep if I don't hear the heartbeat of Sami. How could I even close my eyes if I can't wake the moment I get a vision...? Yes, I have a lot of nightmares, what about it?"
+        },
+        {
+          "language": "韩文",
+          "content": "동굴 바닥에서 잠들어 본 적 있어? 덩굴 위에서는? 기회가 되면 한번 시도해 봐. 나는 사미의 맥박 소리가 들리지 않으면 잠이 잘 안 오거든. 이상 징후가 발생했을 때 바로 깨어날 수 없다면, 어떻게 편히 눈을 감고 쉴 수 있겠어? ……어, 악몽은 자주 꾸는데, 무슨 문제라도 있어?"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......你叫我了？遇到什么麻烦了吗？没事的话，让我再一个人坐会儿好吗？我在看那些死去的人。没有被污染的死者，会行走在森林和百兽间......我一直在找爸爸妈妈。"
+        },
+        {
+          "language": "日文",
+          "content": "……ん、呼んだか？何か困りごとでもあったのか？別にないなら、もうしばらくそっとしておいてほしい。ああ、死んでいった者たちのことを見てたんだ。穢れを受けていない死者たちは、獣たちのそばにいたり、森を彷徨ったりするそうだ……わたしは、その中から父と母の姿をずっと探している。"
+        },
+        {
+          "language": "英文",
+          "content": "...You called for me? Did you come across some trouble? If everything's fine, let me sit here alone for a while... I'm looking at the dead. The unsullied dead will walk among the beasts of the forest... I'm still looking for my parents."
+        },
+        {
+          "language": "韩文",
+          "content": "……응, 불렀어? 무슨 문제라도 생긴 거야? 별일 없는 거면, 조금만 혼자 있게 해 줄래? 응, 죽어간 사람들을 보고 있었어. 오염되지 않은 죽은 자들은, 숲과 짐승들 사이를 떠돌아다니곤 해…… 난 그 사이에서, 계속 아버지와 어머니를 찾고 있어."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "迷路？或许有过。我离开家是打算报仇，到真的看见被污染的雪时，却只想着如何拉弓瞄准，想向那个影子证明，我才是猎人。你有本事做猎人吗？或者，你能做那个在我受伤时背我走的同伴吗？"
+        },
+        {
+          "language": "日文",
+          "content": "迷子になること？昔はあったかもしれないな……わたしは復讐のつもりで家を出たんだ。だが実際に穢れた雪を目にした時、頭に残った考えは弓を引いて狙いを定めることだけだった。あの影に、わたしこそが狩人だって証明したかった。お前には、狩人になる資質があるか？それとも、わたしが手負いの時に負ぶってくれるような相棒になってくれるか？"
+        },
+        {
+          "language": "英文",
+          "content": "Have I ever gotten lost? Hmm... Maybe. I left my home at first to find revenge, but when I saw all that sullied snow, I could only think to draw my bow and aim, to show the shadows that I was the true hunter. Can you be a hunter, too? Or can you be a companion to carry me out of danger when I'm hurt?"
+        },
+        {
+          "language": "韩文",
+          "content": "길을 잃은 적이 있냐고? 있었을지도. 난 복수를 위해 집을 떠났어. 하지만 정작 오염된 눈과 마주하니, 그저 활을 겨눠 그 그림자한테 나야말로 사냥꾼이라는 걸 증명해야겠다는 생각밖엔 안 떠올랐어. 너에겐 사냥꾼의 자질이 있을까? 아니면, 내가 다쳤을 때 날 업어줄 동료가 될 수 있을까?"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这个人也会和我做一样的梦吗？唔，不太可能，这里不是萨米......真好，影子不会在梦里追着你。"
+        },
+        {
+          "language": "日文",
+          "content": "こいつも、わたしと同じ夢を見るのか？いや、それはないか。ここはサーミじゃないし……羨ましいよ、お前は夢の中で影に追われたりしないのだから。"
+        },
+        {
+          "language": "英文",
+          "content": "Does the Doctor have the same kind of dreams that I do? Hm, probably not, we aren't in Sami, after all... Lucky enough for you, the shadows won't be chasing you through your dreams then."
+        },
+        {
+          "language": "韩文",
+          "content": "너도, 나랑 같은 꿈을 꾸는 걸까? 아니, 그럴 리 없지. 여기는 사미가 아니니까…… 부럽네, 그림자가 꿈속에서 널 쫓거나 하진 않을 테니까."
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "合作时要是遇到了异常现象，我会替你们处理......代号？我就叫提丰呀！这可是我在妈妈留下的角饰上找到的名字，虽然有些人说听起来很可怕。"
+        },
+        {
+          "language": "日文",
+          "content": "協力することになった以上は、道中で異常な現象に出くわした時はわたしが代わりに対処しよう……コードネーム？ティフォンでいい。これは母が残してくれた角飾りにあった名でな。恐ろしい響きだと言う人もいるようだが。"
+        },
+        {
+          "language": "英文",
+          "content": "If you come across any abnormalities while we're working together, I'll take care of them for you... Codename? Typhon is my only name. I found it on the horn ornament my mother left behind. Some people say it sounds scary, though."
+        },
+        {
+          "language": "韩文",
+          "content": "협력 도중에 이상 현상이 나타나면 내가 대신 처리해 줄…… 코드네임? 티폰이라고 불러줘. 이건 어머니가 남겨 준 뿔 장식에서 찾은 이름이야. 무섭다던 사람들도 있었지만 말이야."
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你想告诉我你们的拍照技术很厉害吗？不是？......但不靠自己亲身去感受的话，怎么能算作战经验呢？"
+        },
+        {
+          "language": "日文",
+          "content": "これは、ロドスはすごい撮影技術を持ってるんだぞって言いたいのか？違う？……だが、身をもって体験してみないと、経験とは呼べないのでは？"
+        },
+        {
+          "language": "英文",
+          "content": "Are you trying to show off your camera skills? No...? But how can you even call this combat experience, if you don't experience it yourself?"
+        },
+        {
+          "language": "韩文",
+          "content": "너희 촬영 기술을 자랑하고 싶은 거야? 아니라고? ……하지만 직접 체험하지 않으면, 경험이라 부를 수 없는 거 아니야?"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔，这个晋升徽章有什么用？如果对战斗没什么帮助，那就算了，等处理完眼前的危机，我再听你讲这东西的故事。"
+        },
+        {
+          "language": "日文",
+          "content": "ふむ、この昇進メダルというのは、何に使うんだ？戦いの役に立たないのなら今はいい。当面の危機もまだ解決できていないからな。片付けたらまた詳しく聞かせてくれ。"
+        },
+        {
+          "language": "英文",
+          "content": "Um, what's this promotion badge for again? If it's useless in combat, then let's wait until we settle the danger right in front of us, then you tell me the story behind it."
+        },
+        {
+          "language": "韩文",
+          "content": "음, 이 승진 메달은 어디에 쓰는 거야? 전투에 도움이 안 되는 거면 지금은 사양할래. 눈앞의 위기를 해결하고 나서, 그때 다시 이거에 대한 얘기를 들려줘."
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有很多来访者死于傲慢，死于他们夸夸其谈引发的雪崩，根本没有机会看清萨米的阴影。你们不能犯那样的错误，我会陪着你们的。"
+        },
+        {
+          "language": "日文",
+          "content": "この地を訪れる多くの客人は、自身の傲慢によって命を落とした。大きな口を叩いて雪崩を呼び起こし、サーミに根ざす本当の暗影に気づくこともなく死んでしまった。お前たちはそうなってはいけない。そうさせないようにわたしがついてやる。"
+        },
+        {
+          "language": "英文",
+          "content": "Many travelers to Sami find death in avalanches caused by loud boasting, or other arrogant behavior. They never even get a chance to see Sami's shadow. You won't make the same kind of mistake, not with me accompanying you."
+        },
+        {
+          "language": "韩文",
+          "content": "수많은 방문객들이 오만함 때문에 목숨을 잃었어. 그들의 큰소리가 일으킨 눈사태로, 사미의 그림자를 제대로 볼 기회도 없이 말이야. 너희들은 그런 실수를 저지르지 않도록 내가 함께할게."
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "快带上这些武器和工具，人手是次要的。"
+        },
+        {
+          "language": "日文",
+          "content": "急げ。武器と道具は全部持ったか？頭数は二の次だ。"
+        },
+        {
+          "language": "英文",
+          "content": "Take these weapons and tools. We need them more than extra hands."
+        },
+        {
+          "language": "韩文",
+          "content": "어서 이 무기와 도구를 챙겨. 머릿수는 그다음 얘기야."
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好，我来领队。加油，不要紧张。"
+        },
+        {
+          "language": "日文",
+          "content": "いいだろう、わたしが仕切る。緊張しなくていい。さあ、頑張るぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "Got it, I'll take the lead. Don't be nervous, I can handle this."
+        },
+        {
+          "language": "韩文",
+          "content": "좋아, 내가 앞장설게. 긴장하지 말고. 자, 힘내자."
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别乱跑。"
+        },
+        {
+          "language": "日文",
+          "content": "勝手に散らばるなよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Stay close, don't run off."
+        },
+        {
+          "language": "韩文",
+          "content": "멋대로 흩어지지 마."
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "就算眼睛刺痛，也不能移开视线。"
+        },
+        {
+          "language": "日文",
+          "content": "目がヒリついても、視線は逸らさない。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't let them out of sight, even if your eyes are hurting."
+        },
+        {
+          "language": "韩文",
+          "content": "눈이 따가워도 시선을 돌려선 안 돼."
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "下决定时冷静一点，别着急，我一直在保护你。"
+        },
+        {
+          "language": "日文",
+          "content": "決断を下す時は冷静に。慌てなくていい。わたしが守る。"
+        },
+        {
+          "language": "英文",
+          "content": "Stay calm and make your move. No need to worry, I've got your back."
+        },
+        {
+          "language": "韩文",
+          "content": "결정을 내릴 땐 냉정해야 해. 내가 지켜줄 테니까, 서두르지 마."
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要委托我做什么？"
+        },
+        {
+          "language": "日文",
+          "content": "頼みはなんだ？"
+        },
+        {
+          "language": "英文",
+          "content": "What do you need of me?"
+        },
+        {
+          "language": "韩文",
+          "content": "부탁이 뭐야?"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "是时候决定谁是猎物了。"
+        },
+        {
+          "language": "日文",
+          "content": "どっちが獲物か、ここで分からせてやる。"
+        },
+        {
+          "language": "英文",
+          "content": "Time to choose our prey."
+        },
+        {
+          "language": "韩文",
+          "content": "누가 사냥감인지 결정할 시간이야."
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好时机。"
+        },
+        {
+          "language": "日文",
+          "content": "絶好のチャンスだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Good timing."
+        },
+        {
+          "language": "韩文",
+          "content": "절호의 기회야."
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会钉住你的影子。"
+        },
+        {
+          "language": "日文",
+          "content": "お前の影をこの矢で釘付けにしてやる。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll pin you to your shadow."
+        },
+        {
+          "language": "韩文",
+          "content": "네 그림자에 못을 박아 주마."
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "胆小鬼才会先打破沉默。"
+        },
+        {
+          "language": "日文",
+          "content": "先に沈黙を破った方こそ臆病者だ。"
+        },
+        {
+          "language": "英文",
+          "content": "Cowards break the silence first."
+        },
+        {
+          "language": "韩文",
+          "content": "겁쟁이들이 먼저 침묵을 깨뜨리는 법이지."
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "自然的秩序不容扰乱。"
+        },
+        {
+          "language": "日文",
+          "content": "自然の摂理は乱してはならない。"
+        },
+        {
+          "language": "英文",
+          "content": "Nature should not be disturbed."
+        },
+        {
+          "language": "韩文",
+          "content": "자연의 섭리를 어지럽히게 두지 않겠어."
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "从我家里出去！"
+        },
+        {
+          "language": "日文",
+          "content": "わたしの庭からとっとと出ていけ！"
+        },
+        {
+          "language": "英文",
+          "content": "Get out of my home!"
+        },
+        {
+          "language": "韩文",
+          "content": "내 집에서 사라져!"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "每一支箭都能让萨米的雪晚一些染上黑色。"
+        },
+        {
+          "language": "日文",
+          "content": "わたしの矢が放たれる度に、サーミの雪が真っ黒に染まるまでの猶予がわずかに生まれるだろう。"
+        },
+        {
+          "language": "英文",
+          "content": "Each of my arrows slows the black that taints the Sami snow."
+        },
+        {
+          "language": "韩文",
+          "content": "내 화살이 시위를 떠날 때마다, 사미의 눈이 검게 물들 시간이 조금이나마 늦춰지겠지."
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我看到你完成了使命，没有让任何猎物承受多余的痛苦，嗯，很不错，做得很好，可以喝口热饮休息一下了。"
+        },
+        {
+          "language": "日文",
+          "content": "獲物に余計な苦しみを負わせずに仕留めたみたいだな。ふむ、よくやったぞ。温かいものでも飲んで一休みしようか。"
+        },
+        {
+          "language": "英文",
+          "content": "I see you managed to complete a mission without causing any unnecessary pain to the quarry. Um, not bad, not bad. Sip a hot drink and get some rest."
+        },
+        {
+          "language": "韩文",
+          "content": "임무를 완수했구나, 사냥감에게 불필요한 고통을 주지도 않았고. 음, 잘했어. 따뜻한 음료라도 마시면서 좀 쉬도록 하자."
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要是箭都用光了，还是让猎物跑掉了，你就不应该再追，因为你已经输给他们了。"
+        },
+        {
+          "language": "日文",
+          "content": "手持ちの矢を使い切っても獲物を仕留め損なったのなら、それ以上追うべきではない。その時点でお前の負けだ。"
+        },
+        {
+          "language": "英文",
+          "content": "If you've run out of arrows or let your target escape, then you should give up the chase. You've already lost."
+        },
+        {
+          "language": "韩文",
+          "content": "화살을 다 썼는데도 사냥감을 놓쳤다면, 더 이상 쫓아가선 안 돼. 이미 네가 진 거나 마찬가지니까."
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这些种子，在手里捏紧，然后跑，别回头。这里我来处理。"
+        },
+        {
+          "language": "日文",
+          "content": "この種たちをしっかり握ってて。そのまま走れ。絶対に振り返るなよ。あとはわたしが何とかする。"
+        },
+        {
+          "language": "英文",
+          "content": "Grasp these seeds tightly in your hand, and run. Don't look back. I'll take care of things here."
+        },
+        {
+          "language": "韩文",
+          "content": "이 씨앗들을 손에 꼭 쥐고, 그대로 달려. 절대 뒤돌아보지 말고. 여긴 내가 처리할 테니까."
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "能不能给我讲解一下这些机关的用途？我记性很好，麦哲伦上次解释过科考站的构造，我现在还没忘......唔，应该没忘吧。"
+        },
+        {
+          "language": "日文",
+          "content": "これらの仕掛けの使い道を説明してくれないか？心配するな、記憶力には自信がある。前にマゼランが観測基地の構造について教えてくれたが、今でもちゃんと覚えて……うん、覚えてる、はず。"
+        },
+        {
+          "language": "英文",
+          "content": "Can you explain how these machines work? I've got a good memory, Magallan explained the structure of the research station last time, and I still remember it all... Well, at least, I think I do."
+        },
+        {
+          "language": "韩文",
+          "content": "이 장치들의 용도를 설명해 줄 수 있어? 기억력은 자신 있거든. 전에 마젤란이 설명해 줬던 관측소 구조도 아직 기억하고 있…… 음, 안 잊어버렸을 거야, 아마도."
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不对，你的动作要再快一点，才能装得像一次袭击。"
+        },
+        {
+          "language": "日文",
+          "content": "違う！もっと素早くだ。そうでないと奇襲とは呼べないぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "Nope, you'll have to be faster than that to even think about faking an attack."
+        },
+        {
+          "language": "韩文",
+          "content": "아니, 좀 더 빠르게. 그러지 않으면 기습이라 할 수 없어."
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有信得过的人在放哨吗？我想休息一下，你们的营地太温暖了。"
+        },
+        {
+          "language": "日文",
+          "content": "信用できる人が番をしてくれてるのか？少し休みたい……お前たちの基地は温かくて、心地がいい。"
+        },
+        {
+          "language": "英文",
+          "content": "Do you have someone you trust standing guard? I want to rest for a bit, your camp is so warm…"
+        },
+        {
+          "language": "韩文",
+          "content": "믿을 만한 사람이 보초를 서고 있는 거지? 조금 쉬고 싶어서. 너희 기지는 너무 따뜻하거든."
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔，现在庆祝这个节日的人越来越多了。你们这里也有宴会吗？焰火呢？都有？看来我来对了。我自己去看看有什么没见过的活动，不用你招待我了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你好，博士。你去做什么了？应该没有迷路吧？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、どこに行ってたんだ？迷子になってたわけじゃないよな？"
+        },
+        {
+          "language": "英文",
+          "content": "What's up, Doctor. Where have you been? You're not lost, are you?"
+        },
+        {
+          "language": "韩文",
+          "content": "안녕, 박사. 어디 갔었어? 길을 잃었던 건 아니지?"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "清点猎物是个好习惯，因为狩猎是不会有尽头的。我看到你们战胜了许多对手，拯救了许多生灵，做得好。但是你们想从这片大地上彻底赶走你们的敌人？不行，想要一劳永逸是不对的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,987 @@
+{
+  "name": "暮落",
+  "charaKey": "char_4025_aprot2",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4025_aprot2"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4025_aprot2"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4025_aprot2"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_4025_aprot2"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，您在找的书和资料，是不是这些？不用客气，能帮上忙就好。您问我是怎么知道的？呵呵，这是......秘密。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、お探しの本と資料はこちらでしょうか？いえ、お礼には及びませんよ。お役に立てたなら幸いです。どうして必要なものが分かったのかですって？ふふ、それはね……秘密です。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, might these be the books and documents you were looking for? No, no need to thank me, I'm simply glad to be of help. How would I have known what you needed? Heheh. That would be... secret."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 찾으셨던 책과 자료는 이건가요? 아뇨, 감사하실 것까진 없어요. 도움이 되었다면 다행입니다. 어떻게 필요한 게 뭔지 알았냐고요? 후훗, 그건…… 비밀이에요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，您在找的書和資料，是不是這些？不用客氣，能幫上忙就好。您問我是怎麼知道的？呵呵，這是......秘密。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我和那位傀影先生，确实有一些相似的经历。他尚在追寻，而我，只想远远离开。"
+        },
+        {
+          "language": "日文",
+          "content": "私とミスター・ファントムの経歴には、確かに近いところがあります。あの方はいまだ真実を探し求めているのですが、私はというと、ただ遠く離れたい、それだけです。"
+        },
+        {
+          "language": "英文",
+          "content": "Phantom and I certainly have... our similarities, in what we've been through. Though now he pursues the truth, I only wish to be far removed from it."
+        },
+        {
+          "language": "韩文",
+          "content": "저와 미스터 팬텀의 경력엔, 확실히 밀접한 부분이 있죠. 그분은 아직도 진실을 찾고 계시지만, 저는… 그저, 멀리 떠나고 싶을 뿐입니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我和那位傀影先生，確實有一些相似的經歷。他尚在追尋，而我，只想遠遠離開。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，那个来找您借书的女孩，代号是叫做薄绿吗？她似乎对许多事情都感到好奇，过度的好奇心往往会招致灾难，我对此有些担忧。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、あなたに本を借りに来たあのレディ、たしかコードネームはミントと言いましたか？どうやら彼女は様々な物事に興味をお持ちのようですが、過ぎた好奇心は災いを招くもので、私は少々、気がかりですね。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor. About that lady who came to borrow your books... was her name Mint? She seems to be curious about a great many things. Curiosity in excess usually invites disaster, you see, and I have my reservations."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님께 책을 빌리러 온 그 레이디, 분명 코드네임이… 민트라고 했었죠? 아무래도 그 분은 다양한 일에 흥미가 있으신 듯한데, 지나친 호기심은 화를 부르기 마련이다보니… 전 조금, 걱정이 되는군요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，那個來找您借書的女孩，代號是叫做薄綠嗎？她似乎對許多事情都感到好奇，過度的好奇心往往會招致災難，我對此有些擔憂。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这次作战多亏了有您在，博士。您在指挥时的模样，有时会令我感到有些恍然。就好像是跨越天幕与群星，有什么在指引您一样......"
+        },
+        {
+          "language": "日文",
+          "content": "今回の任務にあなたが居てくださって良かった、ドクター。あなたが指揮されているお姿を見ていると、時々心が奪われそうになります。まるで夜の帷と煌めく星たちの彼方から、何かがあなたを導いているような……"
+        },
+        {
+          "language": "英文",
+          "content": "It is quite the relief you were with us last mission, Doctor. I find myself dazed by the sight of you when you command. As if something crosses past the curtain of night and the stirring stars, leading your way..."
+        },
+        {
+          "language": "韩文",
+          "content": "이번 임무에 박사님이 있어 주셔서 다행입니다. 당신이 지휘하는 모습을 보면, 가끔 마음을 빼앗길 것만 같은 기분이 들더군요. 마치 밤의 장막과 반짝이는 별들 저편에서, 무언가가 당신을… 이끌어주고 있는 것 같은……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這次作戰多虧了有您在，博士。您在指揮時的模樣，有時會令我感到有些恍然。就好像是跨越天幕與群星，有什麼在指引您一樣......"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "舞蹈和音乐，都是令人心神愉快、叫人潜心追求的艺术。但有时，过度的追求也将招致毁灭。在我过去生活过的那个地方，这样的事情已经发生了太多次，包括我自己......也不例外。"
+        },
+        {
+          "language": "日文",
+          "content": "舞踏と音楽はどちらも人を快さに沈め、心の臓を捉えて離さないものです。がしかし、過ぎた執着は滅びを招きます。私がかつて暮らしていた場所では、そういった物語があまりにも多く上演されていました。私自身ですらも……例外ではありませんでした。"
+        },
+        {
+          "language": "英文",
+          "content": "Dance, music. Both soothe the soul, twin arts calling on us to focus and follow. But at times, too great a fixation can be our undoing. Such stories were already far too plenty where I formerly lived. Even I... am no exception to the rule."
+        },
+        {
+          "language": "韩文",
+          "content": "춤과 음악은 사람을 즐거움에 빠져들게 하고, 심장을 사로잡고 놓아주지 않죠. 하지만 지나친 집착은 파멸을 부르기 마련입니다. 제가 살던 곳에선, 그런 이야기가 너무나도 많이 공연되었었죠. 저 조차도…… 예외는 아니었습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "舞蹈和音樂，都是令人心神愉快、叫人潛心追求的藝術。但有時，過度的追求也將招致毀滅。在我過去生活過的那個地方，這樣的事情已經發生了太多次，包括我自己......也不例外。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士？您站在那里做什么......？嗯......您是说，听到我在与什么人交谈？......请不要开这样的玩笑，这里除了我之外，并没有其他什么人。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター？なぜそこに立っているのです……？はい……私が誰かと話しているのが聞こえた、ですか？……冗談はおやめください、ここには私以外、誰もいませんよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor? What are you standing there for...? I see... you overheard me talking with someone...? Cease with the jests, please. There is no one here... but me."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님? 왜 거기에 서 계신 거죠……? 네…… 제가 누군가와 이야기 하는 걸 들으셨다… 는 건가요? ……농담은 그만하시죠, 여기엔 저 말곤 아무도 없는걸요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士？您站在那裡做什麼......？嗯......您是說，聽到我在與什麼人交談？......請不要開這樣的玩笑，這裡除了我之外，並沒有其他什麼人。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您想知道关于猩红剧团的事？当然，我对此有所了解。但是，请您小心，博士，要是与那样偏离正轨的事物......或是人接触过多，您自身或许也会受其影响。这并非好事。"
+        },
+        {
+          "language": "日文",
+          "content": "クリムゾン劇団のことが聞きたい、ですか？ええ、それなりには知っています。しかしドクター、どうか気をつけてください。ああいった道を逸れたもの……あるいは人に近づき過ぎると、あなた自身も影響を受けてしまいます。それは望ましいことではありません。"
+        },
+        {
+          "language": "英文",
+          "content": "You wish to learn of the Crimson Troupe's affairs? Of course, I know of them all. But take caution, Doctor, for should you stray like they from the proper path... or come near to too many of them, you may be taken hold of. And that is not, whatsoever, desirable."
+        },
+        {
+          "language": "韩文",
+          "content": "크림슨 극단에 대해서 듣고 싶으신… 건가요? 네, 어느 정도는 알고 있습니다. 하지만 박사님, 부디 조심해주세요. 그런, 정상적인 길을 벗어난 것…… 혹은, 그런 사람을 너무 가까이하면 당신에게도 영향을 미치고 말 겁니다. 그건, 바람직한 일은 아니죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "您想知道關於猩紅劇團的事？當然，我對此有所瞭解。但是，請您小心，博士，要是與那樣偏離正軌的事物......或是人接觸過多，您自身或許也會受其影響。這並非好事。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......您又来了。请坐下吧，放心，我不会将您赶出去的。那么，这次是怎么了？是芙蓉小姐又做了健康餐，还是铸铁小姐又要抓您去健身了？"
+        },
+        {
+          "language": "日文",
+          "content": "……まあ。またいらしたのですね。どうぞおかけください、追い出したりなど無粋なことはいたしませんよ。それで、今日はどういう……？またミス・ハイビスカスが手製の健康食を持ってきたのですか？それとも、ミス・シデロカにジムへ連行されそうになったのですか？"
+        },
+        {
+          "language": "英文",
+          "content": "Here you are once more. Please, sit. Be reassured that I will not drive you out. So, what's the matter this time? Could Hibiscus have made another healthy meal? Or is Sideroca bound to whisk you away for training again?"
+        },
+        {
+          "language": "韩文",
+          "content": "아…… 또 오셨군요. 어서 오세요. 품위없게 내쫓거나 하진 않을 테니까요. 그래서… 오늘은 무슨 일로 오셨는지요? 또 미스 히비스커스가 직접 만든 건강식을 들고 왔었나요? 아니면, 미스 시데로카가 헬스장에 끌고 가려 했나요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "......您又來了。請坐下吧，放心，我不會將您趕出去的。那麼，這次是怎麼了？是芙蓉小姐又做了健康餐，還是鑄鐵小姐又要抓您去健身了？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的故事老套、没有新意，或许并不像您想的那样动听。即便如此，您也坚持想要知道？好吧，那么我就说给您听......作为交换，博士，您愿意答应我的一个请求吗？"
+        },
+        {
+          "language": "日文",
+          "content": "私の話はありふれたもので、目新しさはありませんから、ドクターの想像ほど面白くないかもしれません。それでも是非知りたいと仰ると？いいでしょう、ではお話いたしますが……その代わりに、ドクター、ひとつ願いを聞いていただけますか？"
+        },
+        {
+          "language": "英文",
+          "content": "My stories are hackneyed, bereft of novelty. Likely, not as engaging as you imagine. You would like to hear them nonetheless? Very well. Then I will tell you tales... but in exchange, Doctor, would you grant me a request?"
+        },
+        {
+          "language": "韩文",
+          "content": "제 이야기는 흔하고 진부하다보니, 박사님께서 상상하시는 것 만큼&nbsp; 재미있진 않을지도 모릅니다만… 그런데도 꼭 알고 싶으시다고요? 좋습니다, 정 그러시다면 말씀드리겠지만…… 그 대신 박사님, 제가 부탁을 하나 해도 될까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我的故事老套、沒有新意，或許並不像您想的那樣動聽。即便如此，您也堅持想要知道？好吧，那麼我就說給您聽......作為交換，博士，您願意答應我的一個請求嗎？"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，博士？抱歉，我知道不该打扰您休息......只是，刚刚这里太安静了，稍微有些令人不安。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、ドクター？申し訳ありません、お休みのところを邪魔してはいけないとは知っているのですが……ただここは静かすぎて、少し不安になっていただけです。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor. Doctor? Beg pardon, I know I should not disturb your rest... but it is far too still here for me to fully be at ease."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 박사님? 죄송합니다. 휴식을 방해해선 안 된다는 건 알고 있었습니다만…… 여기는 너무 조용해서, 그냥… 조금 불안했었습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，博士？抱歉，我知道不該打擾您休息......只是，剛剛這裡太安靜了，稍微有些令人不安。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我设想过我们正式见面时的场景，博士，恰似现在。干员暮落，很高兴见到您。"
+        },
+        {
+          "language": "日文",
+          "content": "我々が正式に対面する時の風景を思い描いたことがあります、ドクター。まさに今この瞬間のような画でした。シャレム、あなたにお会いできて光栄です。"
+        },
+        {
+          "language": "英文",
+          "content": "I envisaged the scene in which we would formally meet, Doctor, and this very moment brings it to life. Operator Shalem, pleased to make your acquaintance."
+        },
+        {
+          "language": "韩文",
+          "content": "우리가 정식으로 만났을 때의 모습을 떠올렸던 적이 있습니다, 박사님. 바로 지금 이 순간 같은 모습이었죠. 샬렘이라고 합니다.&nbsp; 당신을 만나 뵙게 되어 영광입니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我設想過我們正式見面時的場景，博士，恰似現在。幹員暮落，很高興見到您。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有时我会觉得，战场和舞台有些相似。"
+        },
+        {
+          "language": "日文",
+          "content": "戦場と舞台はいくらか似ているように思う時がありますね。"
+        },
+        {
+          "language": "英文",
+          "content": "At times, I do feel the battlefield and the stage resemble one another, in ways."
+        },
+        {
+          "language": "韩文",
+          "content": "전장과 무대는, 어느 정도 비슷하다 느껴질 때가 있습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "有時我會覺得，戰場和舞台有些相似。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您是说晋升？......啊，抱歉，我只是有些吃惊。感谢您的认可，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "昇進、ですか？……あ、すみません、少し驚いただけです。私を認めてくださってありがとうございます、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Promotion, did you say...? Ah, I'm sorry, it just startled me. Thank you for your acknowledgement, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "승진…인가요? …아… 죄송합니다. 조금 놀라서요. 저를 인정해 주셔서 감사합니다, 박사님."
+        },
+        {
+          "language": "繁体中文",
+          "content": "您是說晉升？......啊，抱歉，我只是有些吃驚。感謝您的認可，博士。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "和那个还在挣扎的人不同，我早已自那些过去中逃离，再不会有任何关联......是的，博士，我曾希望是这样。"
+        },
+        {
+          "language": "日文",
+          "content": "いまだ葛藤の中でもがいているあの方と違って、私はとっくに過去から逃げ出しており、二度とそれらに関わることはない……ええ、ドクター、私はかつて、そう願っていたのです。"
+        },
+        {
+          "language": "英文",
+          "content": "Unlike him, still wreathed in his struggle, I had long since fled the past, never to concern me again... yes, Doctor, so I once hoped."
+        },
+        {
+          "language": "韩文",
+          "content": "아직도 갈등 속에 몸부림치는 그분과는 달리, 저는 오래 전에 과거로 부터 도망쳤고, 두 번 다시 그것에 관여할 일은 없을 겁니다…… 네, 박사님, 저는 예전부터, 줄곧 그렇게 되길 바랐었답니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "和那個還在掙扎的人不同，我早已自那些過去中逃離，再不會有任何關聯......是的，博士，我曾希望是這樣。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请您放心，我很擅长配合他人。只要，不出什么意外......"
+        },
+        {
+          "language": "日文",
+          "content": "ご安心ください、人に合わせるのは得意です。予想外のことが起きなければ、ですが……"
+        },
+        {
+          "language": "英文",
+          "content": "Worry not, coordinating with others is a strength of mine. So long as nothing untoward happens..."
+        },
+        {
+          "language": "韩文",
+          "content": "안심하세요, 남들에게 맞춰 주는 건 잘 합니다. 예상치 못했던 일이 안 생긴다면… 의 이야기긴 하지만요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "請您放心，我很擅長配合他人。只要，不出什麼意外......"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "虽然力量有限，但我会竭我所能。"
+        },
+        {
+          "language": "日文",
+          "content": "微力ではありますが、力を尽くします。"
+        },
+        {
+          "language": "英文",
+          "content": "I may lack for power, but I will do all that I can."
+        },
+        {
+          "language": "韩文",
+          "content": "미력하나마, 최선을 다하겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "雖然力量有限，但我會竭我所能。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "各位，请跟上我。"
+        },
+        {
+          "language": "日文",
+          "content": "みなさま、私の後に続いてください。"
+        },
+        {
+          "language": "英文",
+          "content": "Everyone, follow me, please."
+        },
+        {
+          "language": "韩文",
+          "content": "여러분, 절 따라와 주십시오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "各位，請跟上我。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看那些在台上的人......尚对自己的将来一无所知。"
+        },
+        {
+          "language": "日文",
+          "content": "板の上の人々をご覧ください……自分たちの行く末について何一つ知らずにいるようです。"
+        },
+        {
+          "language": "英文",
+          "content": "See those on the stage... knowing nothing of their fates."
+        },
+        {
+          "language": "韩文",
+          "content": "무대 위에 있는 사람들을 보십시오…… 마치 자신의 앞날에 대해 아무것도 모르는 것 같군요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "看那些在台上的人......尚對自己的將來一無所知。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请别担心。"
+        },
+        {
+          "language": "日文",
+          "content": "ご安心を。"
+        },
+        {
+          "language": "英文",
+          "content": "Fret not."
+        },
+        {
+          "language": "韩文",
+          "content": "안심하세요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "請別擔心。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "他们的未来已清晰可见。"
+        },
+        {
+          "language": "日文",
+          "content": "彼らの未来ははっきりと見えていますよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Their future is clear to see."
+        },
+        {
+          "language": "韩文",
+          "content": "저들의 미래가… 선명하게 보이는군요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "他們的未來已清晰可見。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "希望能够平稳地解决。"
+        },
+        {
+          "language": "日文",
+          "content": "平和的に解決できるといいですね。"
+        },
+        {
+          "language": "英文",
+          "content": "I hope we may resolve this peacefully."
+        },
+        {
+          "language": "韩文",
+          "content": "평화적으로 해결되면 좋겠네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "希望能夠平穩地解決。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "厮杀、争斗，这样主题的剧目实在是太多了。"
+        },
+        {
+          "language": "日文",
+          "content": "殺し合い、紛争、こういったテーマの演目はあまりにも多すぎますね。"
+        },
+        {
+          "language": "英文",
+          "content": "To kill and to be killed, to do battle. Far too many plays are penned on these themes."
+        },
+        {
+          "language": "韩文",
+          "content": "살육, 분쟁… 이런 주제의 공연은 너무 많아서 말이죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "廝殺、爭鬥，這樣主題的劇目實在是太多了。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请尽快结束吧。"
+        },
+        {
+          "language": "日文",
+          "content": "一刻も早く終わりますように。"
+        },
+        {
+          "language": "英文",
+          "content": "And may this end as swiftly as can be."
+        },
+        {
+          "language": "韩文",
+          "content": "조금이라도 더 빨리 끝나기를."
+        },
+        {
+          "language": "繁体中文",
+          "content": "請儘快結束吧。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "各位正踏上一条没有希望的路。"
+        },
+        {
+          "language": "日文",
+          "content": "あなた方が今歩んでいる道には、希望など存在しません。"
+        },
+        {
+          "language": "英文",
+          "content": "The path you all now walk bears not one hope."
+        },
+        {
+          "language": "韩文",
+          "content": "당신들이 지금 가는 길엔, 희망 따위는 존재하지 않는답니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "各位正踏上一條沒有希望的路。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们的头颅......一定也很美吧？"
+        },
+        {
+          "language": "日文",
+          "content": "あなた方の頭蓋骨も……きっと美しいのでしょうねぇ。"
+        },
+        {
+          "language": "英文",
+          "content": "Surely, your skulls... would be mesmerizing to see, right?"
+        },
+        {
+          "language": "韩文",
+          "content": "당신의 두개골도…… 분명 아름답겠죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你們的頭顱......一定也很美吧？"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哈......哈哈，哈哈哈哈......"
+        },
+        {
+          "language": "日文",
+          "content": "はは……はは、はははは……"
+        },
+        {
+          "language": "英文",
+          "content": "Hahahaha... haha, hahahahahahaha..."
+        },
+        {
+          "language": "韩文",
+          "content": "하하…… 하하, 하하하하……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哈......哈哈，哈哈哈哈......"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这是我未曾料想过的，最好的结果，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "これは私の予想をはるかに超える、最上の結果です、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "This is far beyond my wildest dreams. The best outcome, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "이건… 제 예상을 아득히 뛰어넘는, 최상의 결과로군요, 박사님."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這是我未曾料想過的，最好的結果，博士。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......结束了。已经没有危险了，请放心吧。辛苦了，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "……終わりました。もう危険はありませんよ、ご安心ください。お疲れ様です、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "It is done. Be at ease, for no danger remains. Well done, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "……끝났습니다. 이젠 위험하지 않으니 안심하세요. 수고하셨습니다, 박사님."
+        },
+        {
+          "language": "繁体中文",
+          "content": "......結束了。已經沒有危險了，請放心吧。辛苦了，博士。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们的任务完成了，博士。至于那些离开的人......他们会有属于自己的命运。"
+        },
+        {
+          "language": "日文",
+          "content": "我々の任務は果たされました、ドクター。逃れていった者たちは……彼らの命運があるのでしょう。"
+        },
+        {
+          "language": "英文",
+          "content": "Our mission is complete, Doctor. As for those who escaped... they have their own fates to meet."
+        },
+        {
+          "language": "韩文",
+          "content": "우리의 임무는 끝났습니다, 박사님. 도망친 자들에겐…… 저들의 운명이 있겠지요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我們的任務完成了，博士。至於那些離開的人......他們會有屬於自己的命運。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别着急，慢慢考虑，我们还有机会。"
+        },
+        {
+          "language": "日文",
+          "content": "焦らずにゆっくりと考えましょう。我々にまだチャンスはありますからね。"
+        },
+        {
+          "language": "英文",
+          "content": "Haste not; ponder leisurely. We still have opportunities."
+        },
+        {
+          "language": "韩文",
+          "content": "서두르지 말고, 천천히 생각하죠. 우리에겐 아직 기회가 있으니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別著急，慢慢考慮，我們還有機會。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "休息一下吧，要听音乐吗？"
+        },
+        {
+          "language": "日文",
+          "content": "こちらで少し休まれてはいかがですか。音楽は？"
+        },
+        {
+          "language": "英文",
+          "content": "Shall we rest here a while? How about some music?"
+        },
+        {
+          "language": "韩文",
+          "content": "여기서 잠시 쉬는 게 어떨까요? 음악이라도 좀 들으시겠습니까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "休息一下吧，要聽音樂嗎？"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......啊......抱歉，我走神了。"
+        },
+        {
+          "language": "日文",
+          "content": "……あ……すみません、考え事をしていました。"
+        },
+        {
+          "language": "英文",
+          "content": "Ah... I'm sorry, I was lost in thought."
+        },
+        {
+          "language": "韩文",
+          "content": "아…… 죄송합니다. 잠깐 뭘 좀 생각하느라…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "......啊......抱歉，我走神了。"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "可以帮我拿一下外套吗，博士？一会儿就好，谢谢您。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、外套を少し持っていてくださいませんか？すぐに済みますから。ありがとうございます。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, could you hold my coat for me briefly? I'll be done in a moment. My thanks."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 외투 좀 들어 주실 수 있을까요? 금방 끝나니까요. 감사합니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "可以幫我拿一下外套嗎，博士？一會兒就好，謝謝您。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "只是一些舞蹈和音乐，艺术总是喜欢在这种日子里展示出一点自己的美丽，好让更多的人为它折服。盛大的演出即将开始，博士，您到时候能不能认得出灯光下真正的我？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您来了，博士。当然，我知道您一定会来。"
+        },
+        {
+          "language": "日文",
+          "content": "ようこそ、ドクター。ええ、あなたがきっといらっしゃると知っていましたよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Welcome, Doctor. Indeed, I knew you would surely come."
+        },
+        {
+          "language": "韩文",
+          "content": "어서 오세요, 박사님. 네, 알고 있었습니다. 당신이 꼭 오실 거란 걸요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "您來了，博士。當然，我知道您一定會來。"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "需要戴上这个吗......？博士，您确定？我不记得舞台上需要这种装饰......唉，好吧。还要准备舞蹈？这......请等一等，这里的步子应当是这样跳......来，我来教您。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

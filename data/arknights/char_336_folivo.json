@@ -1,0 +1,983 @@
+{
+  "name": "稀音",
+  "charaKey": "char_336_folivo",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_336_folivo"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_336_folivo"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_336_folivo"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“需要交给稀音小姐的任务，请直接让镜头来代劳吧。”"
+        },
+        {
+          "language": "日文",
+          "content": "「シーンお嬢様への任務は、このレンズにお任せください。」"
+        },
+        {
+          "language": "英文",
+          "content": "'Please give any tasks that require doing directly to Lens.'"
+        },
+        {
+          "language": "韩文",
+          "content": "“씬 아가씨의 임무는 이 렌즈에게 맡겨 주십시오.”"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“需要交給稀音小姐的任務，請直接讓鏡頭來代勞吧。”"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“稀音小姐是各大摄影比赛自然和静物组的双料冠军，如果有人愿意等，拿肖像组冠军的概率也会大幅增加。博士你来当稀音小姐的模特好不好？”"
+        },
+        {
+          "language": "日文",
+          "content": "「シーンお嬢様は大手写真コンテストにて、自然部門と静物部門での二冠王を獲得されました。もしお嬢様に気長に付き合っていただける方がいらっしゃれば、ポートレート部門での優勝確率も大幅に上昇します。ドクター様、シーンお嬢様の撮影モデルになっていただけませんか？」"
+        },
+        {
+          "language": "英文",
+          "content": "'Miss Scene is the simultaneous champion of the Nature and Still-Life categories in major photography competitions. If anyone is willing to wait, the probability of winning the Portrait category will also increase significantly. Doctor, do you want to be a model for Miss Scene?'"
+        },
+        {
+          "language": "韩文",
+          "content": "“씬 아가씨는 권위 있는 사진 콘테스트에서 자연 사진 부문과 정물 사진 부문 2관왕을 차지하셨습니다. 만약 아가씨와 느긋하게 어울려 주실 수 있는 분이 계신다면 인물 사진 부문에서의 우승 확률도 크게 상승할 겁니다. 박사님, 씬 아가씨의 촬영 모델이 되어 주시지 않겠습니까?”"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“稀音小姐是各大攝影比賽自然和靜物組的雙料冠軍，如果有人願意等，拿肖像組冠軍的機率也會大幅增加。博士你來當稀音小姐的模特好不好？”"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“检测到博士的耐心正在消逝，开始运行安慰程序——距离稀音小姐完成拍摄还剩不足半小时，请再坚持一下。”"
+        },
+        {
+          "language": "日文",
+          "content": "「ドクター様の忍耐力減衰を検知。ご機嫌取りプログラムを起動――シーンお嬢様が撮影完了するまであと30分もかかりません。どうかもう少しだけご辛抱ください。」"
+        },
+        {
+          "language": "英文",
+          "content": "'Detecting that the Doctor's patience is fading. Commencing conciliation sequence — there is only less than half an hour left before Miss Scene completes the shooting. Please hold on a bit longer.'"
+        },
+        {
+          "language": "韩文",
+          "content": "“박사님의 인내력 감소를 감지. 비위 맞추기 프로그램 기동…… 씬 아가씨가 촬영을 마치실 때까지 앞으로 30분도 남지 않았습니다. 부디 조금만 더 참아주시면 감사하겠습니다.”"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“檢測到博士的耐心正在消逝，開始運行安慰程式——距離稀音小姐完成拍攝還剩不足半小時，請再堅持一下。”"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“隔壁的札拉克又来找稀音小姐了，虽然小姐还没笑出来，但我知道她很开心。”"
+        },
+        {
+          "language": "日文",
+          "content": "「隣室のザラックがまたシーンお嬢様にちょっかいを出しています。お嬢様はまだ笑ってはおられませんが、楽しんでおられます。」"
+        },
+        {
+          "language": "英文",
+          "content": "'The Zalak next door is looking for Miss Scene again. Though she hasn't laughed yet, I can tell she's very happy.'"
+        },
+        {
+          "language": "韩文",
+          "content": "“옆방의 자라크가 또 씬 아가씨에게 찝쩍대고 있습니다. 아가씨는 아직 웃지는 않으시지만, 즐거워하고 계십니다.”"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“隔壁的札拉克又來找稀音小姐了，雖然小姐還沒笑出來，但我知道她很開心。”"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“其实稀音小姐原本要给哥伦比亚的摄影器材巨头当专职摄影师的，不知怎么就来您这里当干员了。据镜头推测可能是因为对方让她拍的东西，她不喜欢。是的，稀音小姐就是这么挑剔。”"
+        },
+        {
+          "language": "日文",
+          "content": "「シーンお嬢様はクルビアの撮影機材トップメーカーの専属カメラマンになるはずだったのですが、何故かあなた様の下でオペレーターになられました。レンズの推測によりますと、撮影させられた内容が気に入らなかったものと思われます。ええ、お嬢様は好き嫌いが激しいのです。」"
+        },
+        {
+          "language": "英文",
+          "content": "'Truthfully, Miss Scene originally wanted to work as a full-time photographer for a giant photographic equipment company in Columbia, but she ended up as an operator here anyway. According to Lens, it may be because the other party asked her to take pictures that she didn't want to. Indeed, Miss Scene is very picky.'"
+        },
+        {
+          "language": "韩文",
+          "content": "“씬 아가씨는 컬럼비아 최고의 촬영기자재 메이커 전속 카메라맨이 될 예정이었습니다만, 어째서인지 당신의 밑에서 오퍼레이터가 되셨습니다. 렌즈의 추측에 의하면 촬영하셔야 했던 내용이 마음에 들지 않으셨던 것 같습니다. 네, 아가씨는 호불호가 강하시다 보니.”"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“其實稀音小姐原本要給哥倫比亞的攝影器材巨頭當專職攝影師的，不知怎麼就來您這裡當幹員了。據鏡頭推測可能是因為對方讓她拍的東西，她不喜歡。是的，稀音小姐就是這麼挑剔。”"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看到喜欢的，就要拍下，存起来。"
+        },
+        {
+          "language": "日文",
+          "content": "好きなものは、撮って、保存する。"
+        },
+        {
+          "language": "英文",
+          "content": "W h e n &nbsp; y o u &nbsp; s e e &nbsp; s o m e t h i n g &nbsp; y o u &nbsp; l i k e , &nbsp; &nbsp; y o u &nbsp; h a v e &nbsp; t o &nbsp; t a k e &nbsp; a &nbsp; p h o t o ."
+        },
+        {
+          "language": "韩文",
+          "content": "좋아하는 건…… 찍어서…… 저장…… 해……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "看到喜歡的，就要拍下，存起來。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“博士你又想逗稀音小姐笑吗？其实她已经笑了，虽然想看到笑容需要等，再等，继续等，一直等到嘴角的弧度变得完美为止。这个过程会耗时——不知道几分钟，全看小姐今天心情如何。”"
+        },
+        {
+          "language": "日文",
+          "content": "「ドクター様、またシーンお嬢様を笑わせようとしておられるのですか？実はもう笑っておられますよ。ですがその笑顔を見るには、まずは待って、更に待って、そして繰り返し待つのです、彼女の口角が完璧に上がるまで。何分かかるかは――今日のお嬢様の気分次第です。」"
+        },
+        {
+          "language": "英文",
+          "content": "'Doctor, are you trying to get Miss Scene to laugh again? In actuality, she is already laughing, but if you want to see it, you'll have to wait, and wait, and wait... and continue waiting until the curvature of her mouth becomes perfect. This process will take time — I can't tell you in exactly how many minutes, but it all depends on how the lass is feeling today.'"
+        },
+        {
+          "language": "韩文",
+          "content": "“박사님, 또 씬 아가씨를 웃게 하시려는 겁니까? 실은 이미 웃고 계시답니다. 하지만 그 미소를 보시려면 우선 기다리고, 또 기다리고, 그리고 계속 기다리셔야 합니다. 아가씨의 입꼬리가 완벽하게 올라갈 때까지. 몇 분이 걸릴지는…… 오늘 아가씨의 기분에 달렸습니다.”"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“博士你又想逗稀音小姐笑嗎？其實她已經笑了，雖然想看到笑容需要等，再等，繼續等，一直等到嘴角的弧度變得完美為止。這個過程會耗時——不知道幾分鐘，全看小姐今天心情如何。”"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“镜头一直在等一个能够理解稀音小姐的人，但现在罗德岛内有许多人都愿意来接触她，镜头感到了快乐，希望有一天小姐能真正找到完美替代镜头的生物。”"
+        },
+        {
+          "language": "日文",
+          "content": "「レンズはシーンお嬢様のことをご理解いただける方を待ち焦がれていました。ですが今のロドスには、もう何人もお嬢様と好意的に接する方がいらっしゃいますので、レンズは感激しております。いつの日か、お嬢様がレンズに完璧に取って代わる生物を見つけられることを祈っております。」"
+        },
+        {
+          "language": "英文",
+          "content": "'Lens has long been waiting for someone who can understand Miss Scene, but now there are many people in Rhodes Island who are willing to interact with her. This makes Lens very happy, and I wish that one day Miss Scene can find someone who can replace me.'"
+        },
+        {
+          "language": "韩文",
+          "content": "“렌즈는 씬 아가씨를 이해하실 수 있는 분을 애타게 기다려 왔습니다. 그런데 지금 로도스 아일랜드에는 아가씨와 호의적으로 교류하시는 분이 이미 몇 분이나 계셔서 렌즈는 감격하고 있습니다. 언젠가 아가씨가 렌즈를 완벽하게 대신할 생물을 발견하시기를 바라고 있습니다.”"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“鏡頭一直在等一個能夠理解稀音小姐的人，但現在羅德島內有許多人都願意來接觸她，鏡頭感到了快樂，希望有一天小姐能真正找到完美替代鏡頭的生物。”"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这是照相机，给你的礼物。谢谢你，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "このカメラ、あげる。ありがとう、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "T h i s &nbsp; c a m e r a. &nbsp; F o r &nbsp; y o u .&nbsp; T h a n k&nbsp; y o u . &nbsp; D o c t o r&nbsp; ."
+        },
+        {
+          "language": "韩文",
+          "content": "이…… 카메라…… 줄게…… 고마워…… 박사……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這是照相機，給你的禮物。謝謝你，博士。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“正在播放音乐——《D.D.D.热门串烧》。”"
+        },
+        {
+          "language": "日文",
+          "content": "「ただいま再生中の曲は――『D.D.D.メドレー』です。」"
+        },
+        {
+          "language": "英文",
+          "content": "'Now Playing —— <a href=\"/index.php?title=D.D.D._Smash_Hits&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"D.D.D. Smash Hits（页面不存在）\">D.D.D. Smash Hits </a> '"
+        },
+        {
+          "language": "韩文",
+          "content": "“현재 재생 중인 곡은…… D.D.D. 메들리입니다.”"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“正在播放音樂——《D.D.D.熱門串燒》。”"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“摄影师稀音与摄影辅助机器人镜头，很高兴能认识你。”您好。"
+        },
+        {
+          "language": "日文",
+          "content": "「カメラマンのシーン及び撮影サポートロボットのレンズです。どうぞよろしくお願いします。」はじめまして。"
+        },
+        {
+          "language": "英文",
+          "content": "'Photographer, Scene, and Robotic Photography Assistant, Lens. We are pleased to make your acquaintance.'&nbsp; H e l l o ."
+        },
+        {
+          "language": "韩文",
+          "content": "“카메라맨 씬, 그리고 촬영 보조 로봇인 렌즈입니다. 아무쪼록 잘 부탁드립니다.” / 처음…… 뵙겠습니다……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“攝影師稀音與攝影輔助機器人鏡頭，很高興能認識你。”您好。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“请求重放，重复一遍，请求重放。”"
+        },
+        {
+          "language": "日文",
+          "content": "「プレイバックをお願いします。繰り返します、プレイバックをお願いします。」"
+        },
+        {
+          "language": "英文",
+          "content": "'Please repeat it again. Repeat. Please repeat it again.'"
+        },
+        {
+          "language": "韩文",
+          "content": "“다시 재생하여 주시기 바랍니다. 반복합니다. 다시 재생하여 주시기 바랍니다.”"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“請求重放，重複一遍，請求重放。”"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“配件已升级，稀音小姐向你表示感谢。”"
+        },
+        {
+          "language": "日文",
+          "content": "「パーツの更新が完了しました。シーンお嬢様より感謝の意が届きました。」"
+        },
+        {
+          "language": "英文",
+          "content": "'Accessory upgrade complete. Miss Scene thanks you.'"
+        },
+        {
+          "language": "韩文",
+          "content": "“파츠 업데이트를 완료했습니다. 씬 아가씨로부터 감사의 메시지가 도착했습니다.”"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“配件已升級，稀音小姐向你表示感謝。”"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你也有想看的风景吗。"
+        },
+        {
+          "language": "日文",
+          "content": "あなたにも、見てみたい景色はある？"
+        },
+        {
+          "language": "英文",
+          "content": "I s &nbsp; t h e r e &nbsp; s c e n e r y&nbsp; &nbsp; y o u &nbsp; w a n t &nbsp; t o &nbsp; s e e&nbsp;?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사한테도…… 보고 싶은 풍경이…… 있어……?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你也有想看的風景嗎。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“已获取队友数据。”"
+        },
+        {
+          "language": "日文",
+          "content": "「隊員データを取得しました。」"
+        },
+        {
+          "language": "英文",
+          "content": "'Teammate data has been obtained.'"
+        },
+        {
+          "language": "韩文",
+          "content": "“팀원 데이터를 획득했습니다.”"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“已獲取隊友資料。”"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“已获取子数据。”"
+        },
+        {
+          "language": "日文",
+          "content": "「サブデータを取得しました。」"
+        },
+        {
+          "language": "英文",
+          "content": "'Sub-data obtained.'"
+        },
+        {
+          "language": "韩文",
+          "content": "“서브 데이터를 획득했습니다.”"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“已獲取子資料。”"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“确认到出行讯号。”"
+        },
+        {
+          "language": "日文",
+          "content": "「出発の信号を確認しました。」"
+        },
+        {
+          "language": "英文",
+          "content": "'Signal to depart confirmed.'"
+        },
+        {
+          "language": "韩文",
+          "content": "“출발 신호를 확인했습니다.”"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“確認到出行訊號。”"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“已启动巡航程序。”"
+        },
+        {
+          "language": "日文",
+          "content": "「巡航プログラムを起動しました。」"
+        },
+        {
+          "language": "英文",
+          "content": "'Cruise program activated.'"
+        },
+        {
+          "language": "韩文",
+          "content": "“순항 프로그램을 기동했습니다.”"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“已啟動巡航程式。”"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“镜头为您效劳。”"
+        },
+        {
+          "language": "日文",
+          "content": "「レンズがあなたのために尽力します。」"
+        },
+        {
+          "language": "英文",
+          "content": "'Lens is here to work for you.'"
+        },
+        {
+          "language": "韩文",
+          "content": "“렌즈가 당신을 위해 최선을 다하겠습니다.”"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“鏡頭為您效勞。”"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在。"
+        },
+        {
+          "language": "日文",
+          "content": "はい。"
+        },
+        {
+          "language": "英文",
+          "content": "Here."
+        },
+        {
+          "language": "韩文",
+          "content": "여기야……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "在。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“开始摄像。”"
+        },
+        {
+          "language": "日文",
+          "content": "「撮影、開始します。」"
+        },
+        {
+          "language": "英文",
+          "content": "'Beginning photoshoot.'"
+        },
+        {
+          "language": "韩文",
+          "content": "“촬영, 시작합니다.”"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“開始錄影。”"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯。"
+        },
+        {
+          "language": "日文",
+          "content": "うん。"
+        },
+        {
+          "language": "英文",
+          "content": "Mhmm."
+        },
+        {
+          "language": "韩文",
+          "content": "응……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“拍摄——”"
+        },
+        {
+          "language": "日文",
+          "content": "「撮影――」"
+        },
+        {
+          "language": "英文",
+          "content": "'Shooting——'"
+        },
+        {
+          "language": "韩文",
+          "content": "“촬영~!”"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“拍攝——”"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“曝光——”"
+        },
+        {
+          "language": "日文",
+          "content": "「露出――」"
+        },
+        {
+          "language": "英文",
+          "content": "'Lights——'"
+        },
+        {
+          "language": "韩文",
+          "content": "“노출~!”"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“曝光——”"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“全景——”"
+        },
+        {
+          "language": "日文",
+          "content": "「パノラマ――」"
+        },
+        {
+          "language": "英文",
+          "content": "'Panorama——'"
+        },
+        {
+          "language": "韩文",
+          "content": "“파노라마~!”"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“全景——”"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“延时——”"
+        },
+        {
+          "language": "日文",
+          "content": "「タイムラプス――」"
+        },
+        {
+          "language": "英文",
+          "content": "'Time Lapse——'"
+        },
+        {
+          "language": "韩文",
+          "content": "“타임 랩스~!”"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“延時——”"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "恭喜。"
+        },
+        {
+          "language": "日文",
+          "content": "おめでとう。"
+        },
+        {
+          "language": "英文",
+          "content": "C o n g r a t s ."
+        },
+        {
+          "language": "韩文",
+          "content": "축하해……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "恭喜。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“任务完成，正在把稀音小姐运回基地。”"
+        },
+        {
+          "language": "日文",
+          "content": "「任務完了しました。シーンお嬢様を基地までお送りします。」"
+        },
+        {
+          "language": "英文",
+          "content": "'Mission complete! Miss Scene is currently being transported back to base.'"
+        },
+        {
+          "language": "韩文",
+          "content": "“임무를 완료했습니다. 씬 아가씨를 기지까지 모시겠습니다.”"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“任務完成，正在把稀音小姐運回基地。”"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“回基地的路不太平坦呢。”"
+        },
+        {
+          "language": "日文",
+          "content": "「基地への帰り道はやや険しい様子です。」"
+        },
+        {
+          "language": "英文",
+          "content": "'The way back to the base won't be smooth.'"
+        },
+        {
+          "language": "韩文",
+          "content": "“기지로 돌아가는 길이 조금 험한 모양입니다.”"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“回基地的路不太平坦呢。”"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“请撤离该区域，请撤离该区域。”"
+        },
+        {
+          "language": "日文",
+          "content": "「当エリアより撤退してください。当エリアより撤退してください。」"
+        },
+        {
+          "language": "英文",
+          "content": "'Please evacuate from the area! Please evacuate from the area!'"
+        },
+        {
+          "language": "韩文",
+          "content": "“해당 구역에서 퇴각하여 주십시오! 해당 구역에서 퇴각하여 주십시오!”"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“請撤離該區域，請撤離該區域。”"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“请为稀音小姐安排吊床，谢谢。”"
+        },
+        {
+          "language": "日文",
+          "content": "「シーンお嬢様のためにハンモックのご用意をお願いします。ご協力ありがとうございます。」"
+        },
+        {
+          "language": "英文",
+          "content": "'Please order a hammock for Miss Scene. Thank you for your cooperation.'"
+        },
+        {
+          "language": "韩文",
+          "content": "“씬 아가씨를 위해 해먹을 준비하여 주십시오. 협력에 감사드립니다.”"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“請為稀音小姐安排吊床，謝謝。”"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔？"
+        },
+        {
+          "language": "日文",
+          "content": "ん？"
+        },
+        {
+          "language": "英文",
+          "content": "Yeah?"
+        },
+        {
+          "language": "韩文",
+          "content": "으응……?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "唔？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "拍一张吗？"
+        },
+        {
+          "language": "日文",
+          "content": "一枚どう？"
+        },
+        {
+          "language": "英文",
+          "content": "W a n t &nbsp; a &nbsp; p h o t o&nbsp;?"
+        },
+        {
+          "language": "韩文",
+          "content": "한 장…… 어때……?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "拍一張嗎？"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "新年的祝福，得亲口对你说。新年快乐。“镜头也要说！博士，新年快乐！新年快乐！”"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "又见面了。“您好，您好。”"
+        },
+        {
+          "language": "日文",
+          "content": "また会えたね。「こんにちは。こんにちは！」"
+        },
+        {
+          "language": "英文",
+          "content": "H&nbsp; e&nbsp; l&nbsp; l&nbsp; o&nbsp; . 'Hello! Hello!'"
+        },
+        {
+          "language": "韩文",
+          "content": "또…… 만났네…… / “안녕하세요. 안녕하세요!”"
+        },
+        {
+          "language": "繁体中文",
+          "content": "又見面了。“您好，您好。”"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“稀音小姐不太适合参与这样热闹的宴会，那样她会手足无措的，所以，镜头在这里陪小姐喝饮料。博士想要镜头帮您做什么吗？镜头的曲库最近更新了三首歌曲，请按这里的按钮挑选！”"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

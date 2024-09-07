@@ -1,0 +1,991 @@
+{
+  "name": "梅尔",
+  "charaKey": "char_242_otter",
+  "images": [
+    "https://media.prts.wiki/f/f0/%E7%AB%8B%E7%BB%98_%E6%A2%85%E5%B0%94_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/b/b5/%E7%AB%8B%E7%BB%98_%E6%A2%85%E5%B0%94_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/0/0d/%E7%AB%8B%E7%BB%98_%E6%A2%85%E5%B0%94_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_242_otter"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_242_otter"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_242_otter"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_242_otter"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "建筑设计，工业研发，科学研究，只要博士想得到的，我都能做到。"
+        },
+        {
+          "language": "日文",
+          "content": "建築デザイン、工業開発、科学研究……ドクターが必要なものは、なんでも作れるよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Structural design, industrial R&amp;D, scientific research. You name it, and I can do it, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "건축 디자인, 공업 개발, 과학 연구… 박사가 필요한 건 뭐든 다 만들 수 있어!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "建築設計，工業研發，科學研究，只要博士想得到的，我都能做到。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "工程部的人每次都不认可我的提案，是不是不喜欢我啊，怎么办......对了博士，你去代我提交下这份改进意见吧！就这么定了！"
+        },
+        {
+          "language": "日文",
+          "content": "技術部のやつら、いつも私の提案を認めてくれないんだけど、もしかして私のことが嫌いなのかな？どうしよう……そうだドクター、この修正案を代わりに提出しておいてくれる？よし、決まりね！"
+        },
+        {
+          "language": "英文",
+          "content": "The Engineering Department never approve my proposals. Do they have any bias toward me? What should I do... Oh! Actually, Doctor, would you please submit this suggestion on improvement for me? It's a deal then!"
+        },
+        {
+          "language": "韩文",
+          "content": "기술부 녀석들, 매번 내가 뭐 제안할 때마다 컷트하는데, 혹시 나 싫어하나? 어떡하지… 아, 박사! 이 수정안 말야, 나 대신 제출해 줄래? 좋아, 그럼 해주는 거다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "工程部的人每次都不認可我的提案，是不是不喜歡我啊，怎麼辦......對了博士，你去代我提交下這份改進意見吧！就這麼定了！"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "莱茵生命里像我这样的工作室还有很多啦，但别的工作室三周才能完成一半的任务，我一周就能搞定。这可不是在吹牛哦。"
+        },
+        {
+          "language": "日文",
+          "content": "ライン生命には、私のラボ以外にもたくさんラボがあるんだ。でも私にかかれば、他のラボで三週間かけてやっと半分ほど進む案件でも一週間で片付けられる。大げさじゃなくて本当だよ！"
+        },
+        {
+          "language": "英文",
+          "content": "There are many workshops like mine in Rhine Lab, but what takes others six weeks to finish, I can have it done in one. I'm not boasting!"
+        },
+        {
+          "language": "韩文",
+          "content": "라인 랩에는 내 랩 말고도 랩이 되게 많아. 그래도 내가 하면 다른 실험실에서 3주나 걸려야 반 정도 진행되는 케이스도 1주면 해치울 수 있어. 허풍이 아니라 진짜로!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "萊茵生命裡像我這樣的工作室還有很多啦，但別的工作室三周才能完成一半的任務，我一周就能搞定。這可不是在吹牛哦。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我做研究的时候千万别打扰我，我是会让咪波咬你的！我自己也会！"
+        },
+        {
+          "language": "日文",
+          "content": "研究の邪魔だけは絶対しないでね。でないとミーボが噛み付くから！私もね！"
+        },
+        {
+          "language": "英文",
+          "content": "DO NOT interrupt me when I'm doing my research, or I'll have my Meeboos bite you! And I will bite you too!"
+        },
+        {
+          "language": "韩文",
+          "content": "연구만은 절대 방해하지 마. 안 그러면 미보가 물어버릴 테니까! 나도 물 거야!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我做研究的時候千萬別打擾我，我是會讓咪波咬你的！我自己也會！"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "晚上总是会很有灵感呢......但又......非常困！不，不行了，枕头在哪......我要休息一下......"
+        },
+        {
+          "language": "日文",
+          "content": "夜になるとインスピレーションがいっぱいわいてくる……でも……やっぱり眠いよ！も、もうだめ、まくらはどこ……ちょっと寝てくる……。"
+        },
+        {
+          "language": "英文",
+          "content": "At night I'm always full of inspiration... and the… urgency to sleep! No, I can't bear it... Where's the pillow... I need to rest..."
+        },
+        {
+          "language": "韩文",
+          "content": "밤이 되면 영감은 잔뜩 떠오르지만… 역시 졸려! 더, 더는 안 되겠어, 베개 어딨어… 잠깐 잘게…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "晚上總是會很有靈感呢......但又......非常睏！不，不行了，枕頭在哪......我要休息一下......"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯？你想问为什么它们叫咪波？咪波是它的启动音效嘛，我觉得挺合适的。不像？那你可以摁下这个开关——等等！不是那个！那是自毁———呜啊啊啊，快跑！！"
+        },
+        {
+          "language": "日文",
+          "content": "ん？どうしてこの子たちの名前がミーボなのかって？起動する時にミー、ボーって音が出るから、それを名前にしたの。似てない？聞いてみればわかるよ。ここのスイッチを押して――あ、待って！そっちじゃない！それは自爆――うわあああ逃げて！！"
+        },
+        {
+          "language": "英文",
+          "content": "Hm? Why are these cuties called Meeboos? That's because they go 'meeee-boooo' when they boot up. So I named them after that. Fitting, don't you think? Just listen and you'll get it. You press this switch to... NONONONO, That's the self-destruct button! Ahhhhhh run！"
+        },
+        {
+          "language": "韩文",
+          "content": "응? 왜 이 아이들 이름이 미보냐고? 기동할 때 미~보~하는 소리가 나니까 그렇게 지었어. 닮았지? 들어보면 알 거야. 여기 이 스위치를 누르면… 아 잠깐! 그거 아니야! 그건 자폭…… 우와아아아 도망쳐!!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯？你想問為什麼它們叫咪波？咪波是它的啟動音效嘛，我覺得挺合適的。不像？那你可以按下這個開關——等等！不是那個！那是自毀———嗚啊啊啊，快跑！！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "刚刚走过去的......是赫默吧。如果那时候......喔，抱歉，保密协议还没过期，我不该多嘴的。"
+        },
+        {
+          "language": "日文",
+          "content": "さっきのは……サイレンスだったよね。あの時もし……ううん、ごめん、まだ機密保持契約の期間中だから、余計なことを言っちゃだめなんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "That girl who just passed by... that was Silence, right? If only back then... Oh, sorry, the non-disclosure agreement is still in effect. I should keep my mouth shut."
+        },
+        {
+          "language": "韩文",
+          "content": "아까 그건… 사일런스였지? 그때 혹시… 아니다 아니다, 미안, 아직 기밀 유지계약 기간이니까, 쓸데없는 말은 하면 안 되지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "剛剛走過去的......是赫默吧。如果那時候......喔，抱歉，保密協議還沒過期，我不該多嘴的。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "闲下来就只会感到空虚呢......工程师就是这样的人啦。博士也会无所事事吗？不会？"
+        },
+        {
+          "language": "日文",
+          "content": "やることがないと虚しい気分になるのは……エンジニアの性ってものかな。ドクターにも暇な時はあるでしょ？え、ないの？"
+        },
+        {
+          "language": "英文",
+          "content": "I feel kinda empty when I've got nothing to do... I guess that's just how engineers are. I bet even you have to idle your time away on occasion, Doctor. Huh? You don't?"
+        },
+        {
+          "language": "韩文",
+          "content": "할 게 없으면 허무한 기분이 드는 건… 엔지니어의 천성이란 걸까. 박사한테도 한가할 때가 있지? 에? 없어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "閒下來就只會感到空虛呢......工程師就是這樣的人啦。博士也會無所事事嗎？不會？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我能申请——不是！不用十平米！上次是我不对，这回——三平米就够了！别，别跑啊博士！一平米实用科研面积也行！求你了！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、研究用地の申請を――いや、十平米もいらないよ！この前はごめん！今回は三平米もあれば十分だから！あ、逃げないでよドクター！じゃあ一平米でもいいから！お願い！"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, may I request... No! Not 10 square meters! I asked for too much last time, so this time... all I need is 3! W-Wait! Don't leave yet! 1 square meter, just 1 more for my research will do! Please, Doctor, I'm begging you..."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 연구용지 신청을… 아니, 10평방미터도 필요 없어! 저번에는 미안해! 이번엔 3평방미터만 있어도 충분하니까! 아 도망치지 마 박사~! 그럼 1평방미터도 괜찮으니까! 제발!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，我能申請——不是！不用十平米！上次是我不對，這回——三平米就夠了！別，別跑啊博士！一平米實用科研面積也行！求你了！"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哈啊......咖啡机在哪里......呼，博士你也要来点儿吗"
+        },
+        {
+          "language": "日文",
+          "content": "はぁ……コーヒーメーカーはどこ……あった、ふぅ～。ドクターもコーヒーどう？"
+        },
+        {
+          "language": "英文",
+          "content": "Geez... where's the coffeemaker... Oh, there it is... You want some too, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "하아… 커피 머신은 어디… 찾았다, 후우~ 박사도 커피 마실래?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哈啊......咖啡機在哪裡......呼，博士你也要來點兒嗎"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "莱茵生命所属，鲁特拉工作室，竭诚为您服务。是的，没有其他成员，我一人就是整个工作室。很厉害吧！"
+        },
+        {
+          "language": "日文",
+          "content": "ライン生命所属の、ラボ・ルトラ。何でもご要望にお応えします。そうだよ、ラボっていってもほかのメンバーはいないの。私一人でやってるんだ。すごいでしょ！"
+        },
+        {
+          "language": "英文",
+          "content": "Lutra Workshop of Rhine Lab, at your service. Yup, I run the workshop on my own. No assistance needed. Amazing, right?"
+        },
+        {
+          "language": "韩文",
+          "content": "라인 랩 소속, 랩 루트라. 어떤 요청이라도 들어드립니다! 맞아, 연구실이라 해도 다른 멤버는 없어, 나 혼자 하는 거야. 대단하지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "萊茵生命所屬，魯特拉工作室，竭誠為您服務。是的，沒有其他成員，我一人就是整個工作室。很厲害吧！"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这个结构——有些意思，我得研究一下。"
+        },
+        {
+          "language": "日文",
+          "content": "この構成――面白い、ちょっと見せてみて。"
+        },
+        {
+          "language": "英文",
+          "content": "This structure... Interesting. I'll look into it."
+        },
+        {
+          "language": "韩文",
+          "content": "이 구성…… 재밌네, 조금 보여줘 봐."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這個結構——有些意思，我得研究一下。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这次涨薪可真是及时，我又能升级一下设备了。"
+        },
+        {
+          "language": "日文",
+          "content": "いいタイミングに昇格ありがと！これでまた設備の更新ができる！"
+        },
+        {
+          "language": "英文",
+          "content": "This raise came just in time! I can afford to upgrade my equipment now."
+        },
+        {
+          "language": "韩文",
+          "content": "좋은 타이밍에 승진시켜줘서 고마워! 이제 다시 설비를 업그레이드할 수 있겠어!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這次加薪可真是及時，我又能升級一下設備了。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我向您保证过一定能出成果，现在，怎么样，是不是很令人满意呀~"
+        },
+        {
+          "language": "日文",
+          "content": "成果は必ず上げるって約束した通りだったでしょ。どう、よくできたと思わない～？"
+        },
+        {
+          "language": "英文",
+          "content": "I promised that you'd not be disappointed. Now look what I have! Surely kept my end of the bargain, didn't I?"
+        },
+        {
+          "language": "韩文",
+          "content": "내가 뭐랬어? 성과를 반드시 올리겠다 그랬지? 어때, 잘 된 거 같지 않아~?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我向您保證過一定能出成果，現在，怎麼樣，是不是很令人滿意呀~"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "咪波们，该上场咯！"
+        },
+        {
+          "language": "日文",
+          "content": "出番だよ、ミーボたち！"
+        },
+        {
+          "language": "英文",
+          "content": "Time to go, Meeboos!"
+        },
+        {
+          "language": "韩文",
+          "content": "출격이야, 미보들아!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "咪波們，該上場囉！"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要同时指挥大家和咪波，就算是我也有点手忙脚乱......！"
+        },
+        {
+          "language": "日文",
+          "content": "仲間とミーボの両方を指揮するなんて、さすがの私でも手に負えないよ……！"
+        },
+        {
+          "language": "英文",
+          "content": "Commanding both Operators and my Meeboos at the same time is a bit much even for me..."
+        },
+        {
+          "language": "韩文",
+          "content": "동료와 미보를 양쪽 다 지휘한다니, 아무리 나라도 버겁다고…!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "要同時指揮大家和咪波，就算是我也有點手忙腳亂......！"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这次也能得到良好的实验数据吧！"
+        },
+        {
+          "language": "日文",
+          "content": "今回もいい実験データを持って帰れそう！"
+        },
+        {
+          "language": "英文",
+          "content": "Hopefully we can get some useful experiment data!"
+        },
+        {
+          "language": "韩文",
+          "content": "이번에도 좋은 실험 데이터를 갖고 돌아갈 수 있겠어!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這次也能得到良好的實驗資料吧！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "上吧咪波，给敌人看看我们莱茵生命的技术力！"
+        },
+        {
+          "language": "日文",
+          "content": "行くよミーボ！敵にも私たちライン生命の技術力を見せてあげよう！"
+        },
+        {
+          "language": "英文",
+          "content": "Come on, Meeboo, show them what Rhine Lab's technology can do!"
+        },
+        {
+          "language": "韩文",
+          "content": "가자 미보! 적들한테도 우리 라인 랩의 기술력을 보여주자고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "上吧咪波，給敵人看看我們萊茵生命的技術力！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呜哇！"
+        },
+        {
+          "language": "日文",
+          "content": "うわっ！"
+        },
+        {
+          "language": "英文",
+          "content": "Whoa!"
+        },
+        {
+          "language": "韩文",
+          "content": "우왓!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗚哇！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小心，小心一点！"
+        },
+        {
+          "language": "日文",
+          "content": "そっと、そっとだよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Careful! Be gentle with it!"
+        },
+        {
+          "language": "韩文",
+          "content": "살살! 살살해줘!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "小心，小心一點！"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "轻拿轻放！"
+        },
+        {
+          "language": "日文",
+          "content": "取扱注意！"
+        },
+        {
+          "language": "英文",
+          "content": "Handle with care!"
+        },
+        {
+          "language": "韩文",
+          "content": "취급 주의!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "輕拿輕放！"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "精密仪器是很贵重的！"
+        },
+        {
+          "language": "日文",
+          "content": "精密機器は貴重なんだから！"
+        },
+        {
+          "language": "英文",
+          "content": "Precision equipment isn't cheap!"
+        },
+        {
+          "language": "韩文",
+          "content": "정밀기기는 귀중하니까!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "精密儀器是很貴重的！"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "去吧，咪波三号！"
+        },
+        {
+          "language": "日文",
+          "content": "行け、ミーボ三号！"
+        },
+        {
+          "language": "英文",
+          "content": "Get 'em, Meeboo #3!"
+        },
+        {
+          "language": "韩文",
+          "content": "가라, 미보 3호!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "去吧，咪波三號！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "咪波，咬他！"
+        },
+        {
+          "language": "日文",
+          "content": "ミーボ、噛みつけ！"
+        },
+        {
+          "language": "英文",
+          "content": "Bite 'em, Meeboo!"
+        },
+        {
+          "language": "韩文",
+          "content": "미보, 물어버려!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "咪波，咬他！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "身体破损的话，再造一个就好了！"
+        },
+        {
+          "language": "日文",
+          "content": "ボディが壊れたら、スペアを作ればいいさ！"
+        },
+        {
+          "language": "英文",
+          "content": "If anything breaks, just make another one!"
+        },
+        {
+          "language": "韩文",
+          "content": "몸통이 망가지면 스페어를 만들면 돼!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "身體破損的話，再造一個就好了！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的咪波们可不仅仅是机械那么简单！"
+        },
+        {
+          "language": "日文",
+          "content": "私のミーボたちは、ただのロボットじゃないよ！"
+        },
+        {
+          "language": "英文",
+          "content": "My Meeboos are more than just machines!"
+        },
+        {
+          "language": "韩文",
+          "content": "내 미보들은 그냥 로봇이 아니야!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我的咪波們可不僅僅是機械那麼簡單！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "来~咪波！给大家跳支舞庆祝一下！"
+        },
+        {
+          "language": "日文",
+          "content": "ほら、ミーボ！みんなにお祝いのダンスを見せてあげて！"
+        },
+        {
+          "language": "英文",
+          "content": "Come on, Meeboo! Show everyone your victory dance!"
+        },
+        {
+          "language": "韩文",
+          "content": "미보! 이리 온! 자자~ 축하 댄스 일발 장전!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "來~咪波！給大家跳支舞慶祝一下！"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯，就这样轻轻松松碾压敌人吧。"
+        },
+        {
+          "language": "日文",
+          "content": "よし、みーんな踏み潰してやったよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Nice! We practically rolled over them!"
+        },
+        {
+          "language": "韩文",
+          "content": "좋아, 모~두 짓밟아줬어!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯，就這樣輕輕鬆鬆碾壓敵人吧。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "设备稍微有些缺损，修理一下就能继续工作了。"
+        },
+        {
+          "language": "日文",
+          "content": "少しパーツが壊れちゃったけど、修理すればまだ大丈夫。"
+        },
+        {
+          "language": "英文",
+          "content": "The device is slightly damaged. I'll fix it in no time."
+        },
+        {
+          "language": "韩文",
+          "content": "조금 부품이 부서졌지만, 수리하면 문제없을 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "設備稍微有些缺損，修理一下就能繼續工作了。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不！咪波——！......只，只能再造几台身体了......"
+        },
+        {
+          "language": "日文",
+          "content": "そんな、ミーボ――！……ま、またボディを作り直さなきゃ……。"
+        },
+        {
+          "language": "英文",
+          "content": "Oh no! My Meeboo...! I'll need to make more..."
+        },
+        {
+          "language": "韩文",
+          "content": "맙소사, 미보~!! ……모, 몸통을 다시 만들어야겠어……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不！咪波——！......只，只能再造幾台身體了......"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我想要个新的工作室了！"
+        },
+        {
+          "language": "日文",
+          "content": "新しいラボが欲しくなってきた！"
+        },
+        {
+          "language": "英文",
+          "content": "Now I want a new workshop!"
+        },
+        {
+          "language": "韩文",
+          "content": "새로운 랩이 갖고 싶어졌어!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我想要個新的工作室了！"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呜哇！我还在工作中啊！"
+        },
+        {
+          "language": "日文",
+          "content": "うわっ！仕事中だってば！"
+        },
+        {
+          "language": "英文",
+          "content": "Whuah?! Hey, I'm working here!"
+        },
+        {
+          "language": "韩文",
+          "content": "우왓! 일하는 중이라니까!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗚哇！我還在工作中啊！"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，让我摸摸你的头，会很有灵感的！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、頭を撫でてあげるよ！インスピレーションがわいてくるから！"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, let me touch your head! Inspiration can strike, you know!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 잠깐 머리 좀 쓰다듬게 해줘! 영감이 떠오르니까!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，讓我摸摸你的頭，會很有靈感的！"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呼啊，博士，新年快乐！我可真是太喜欢新年了，就算错过了饭点出门，外面也还是会有很多饭菜可以吃！要是每天都能这样就好——啊！咪波！我会按时吃饭啦，痛！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士！你好！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター！どうもー！"
+        },
+        {
+          "language": "英文",
+          "content": "Heya, Doctor!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사~! 안녕~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士！你好！"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "科研究竟意味着什么呢，博士？之前的同事说我在某些地方莫名地想得浅，但如果只是为了财产，为了名声，那我换一种方式就能很快得到。我只是想让科技进步，哪怕只有一点点，这里就很好。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

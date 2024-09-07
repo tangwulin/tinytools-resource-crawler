@@ -1,0 +1,535 @@
+{
+  "name": "维什戴尔",
+  "charaKey": "char_1035_wisdel",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_1035_wisdel"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_1035_wisdel"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哈？你确定？我到底是干了什么，才让你觉得我会一心一意守在你身边，为你当忠诚的小卫兵？后悔了？我已经答应了，这可是你自己选的，“博士”。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "听说了吗？伊内丝和赫德雷真的打算在卡兹戴尔搞间小门面。我知道他们说的那几条街，全都霉得厉害。不过，死魂灵的小招数应该也能用来洗地板吧？意见？我问问它。你看，它说了，它没意见。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "她们......无论是特蕾西娅还是阿米娅，她们都喜欢看着远方出神。我也去看过，明明什么都没有。她们在看的到底是什么呢？总有一天，我会搞清楚的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "自从带上了这堆没事就念念叨叨的破铜烂铁，我就没过过一天清静日子。你知道有个老不死的东西成天在你耳边啰嗦些陈年破事的感觉吗？哦，你知道。这下我们同病相怜了，博士。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "和我的队伍合作？我看起来是会上两次当的人吗？别急着解释，你清楚你做过什么。现在，要去哪里佣兵们自己说了算，而我，负责干掉那些把我们当棋子摆弄的渣滓。要试试看吗，博士？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "殿下见过多少像我这样的萨卡兹佣兵？她真的记得每个人叫什么？无所谓，反正只有我的是殿下亲自取的。记好了，博士，“维什戴尔”，这不再是个死人堆里捡来的代号，这是我的名字。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啧，那只小兔子居然敢使唤我，她以为那样看着我我就会答应？真把我当她的手下了？没有人能成为下一个特蕾西娅，但她......唉，至少罗德岛还在开着，天真的笨蛋也还没死绝。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你真的以为我们是在和平相处？想不想看看我现在正捏着什么？别担心，你要为曾经的所作所为承担的就是“恐惧”本身，这东西要是轻易兑现就没意思了。你会再次露出破绽吗？我很期待呢，博士。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“恶灵”，现在的你，还有资格被这么称呼吗？不论你这个小身板里装的是怎样不可捉摸的灵魂，你都比我原来以为的要更......诚实。相比起异类，我还算能忍受与傻子相处。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在我面前你都能睡得着？不如试试永远醒不来怎么样？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“维什戴尔”，就把名字签这里，对吧？殿下告诉我，这个名字的意思是“许愿一个家”，但我从不许愿。啊？字太丑？还轮不到你来指指点点。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你没必要用这些录像向我证明什么，关于你究竟是怎么使用这些人的性命的，我们走着瞧就好。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "除了发给我这些没用的小玩意，你就不能想出点新花样来表彰我吗，博士？比如——让凯尔希给我唱个曲儿，怎么样？要是还觉得诚意不足，你可以和她一起。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我没工夫拯救这片大地，我只想踹开军事委员会的大门，把里面那些混蛋做成烟花，再用它们炸出十五种颜色的巴别塔标志。到那天我会邀请你的，绝对漂亮。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要是我死了，抚恤金就拿来请大家吃烤土豆吧~"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有人对我当队长有意见？那是你该处理的事吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "美好的日子真是怎么过都过不完啊。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "今天又轮到谁粉身碎骨了呢？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "死魂灵又在废话了，那老东西骂人可真难听。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "把我派到这里，就是你费劲想出来的万全计划？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真是危险呢，这也要我出马？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "任务简报都是废纸，我清楚你要干什么。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真可怜，今天轮到你倒霉。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别急别急，人人有份~"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们很小心脚下呢。不如，抬头看看怎么样？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "砰！是谁告诉你，我每次都会倒数的？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真是激动人心的战斗，看着这片战场，现在我身边这位“博士”正作何感想呢？不，不用告诉我。我没那么感兴趣。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "喜欢我指甲的颜色嘛，猜猜看是用什么染的？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "对作战结果不满意吗，博士？那不如用一场能把这里通通点燃的大爆炸来收尾，怎么样？不行？真可惜。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真难看啊，博士。说不定我们今天都会死在这里，这就是报应，对吧？哈哈哈——害怕了？跟好哦，踩着我的脚印走，否则......可能今天真的就是结束了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要是还没人管这扇门，我就自己来修了啊。喂，死魂灵，出来干活。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "终于活腻味了？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "怎么，无聊了？我倒是有几个找乐子的好主意，不过，要是你一不小心死了，我不负责。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "新年？你这样的家伙，也会庆祝新年？哦，我最喜欢热闹了，当然给大家都留了礼物，以你的名义哦，博士。说不定......马上就能听到动静了呢？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "又看到你这张脸了呢，博士，真是个好的开始。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "无论如何，这里也变不回曾经的巴别塔......呼。我最讨厌那些只会重复讲过去时光的傻子，不如，我们来商量商量，明天怎么炸得更尽兴吧？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

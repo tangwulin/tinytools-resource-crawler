@@ -1,0 +1,991 @@
+{
+  "name": "陨星",
+  "charaKey": "char_219_meteo",
+  "images": [
+    "https://media.prts.wiki/f/f8/%E7%AB%8B%E7%BB%98_%E9%99%A8%E6%98%9F_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/9/9b/%E7%AB%8B%E7%BB%98_%E9%99%A8%E6%98%9F_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/a/ad/%E7%AB%8B%E7%BB%98_%E9%99%A8%E6%98%9F_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_219_meteo"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_219_meteo"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_219_meteo"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_219_meteo"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "现在是我的值班时间。如果打扰到你办公了，我可以到外面待着。"
+        },
+        {
+          "language": "日文",
+          "content": "当直で来ているだけよ。気になるようなら外で待機してあげるわ。"
+        },
+        {
+          "language": "英文",
+          "content": "It's time for my shift. If I'm interrupting your work, I can wait outside."
+        },
+        {
+          "language": "韩文",
+          "content": "당직 시간이라 있는 거야. 업무에 방해된다면 밖에서 대기할게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "現在是我的值班時間。如果打擾到你辦公了，我可以到外面待著。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你有好好调查过每位新加入干员的个人信息和情报吗？"
+        },
+        {
+          "language": "日文",
+          "content": "新しく入ってくるオペレーター全員の個人情報、ちゃんと押さえてあるの？"
+        },
+        {
+          "language": "英文",
+          "content": "Have you gone through every new operator's personnel files and info?"
+        },
+        {
+          "language": "韩文",
+          "content": "새로 들어온 오퍼레이터들 개인정보, 제대로 파악하고 있어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你有好好調查過每位新加入幹員的個人資訊和情報嗎？"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "只要战争仍在继续，就不会有什么地方是绝对安全的。这也同样适用于罗德岛，请你务必牢记这点。"
+        },
+        {
+          "language": "日文",
+          "content": "戦争が続く限り安全な場所なんてないのよ。たとえここであってもね。それを忘れないで。"
+        },
+        {
+          "language": "英文",
+          "content": "Nowhere in the world is completely safe with a war going on. Not even Rhodes Island. Please remember that."
+        },
+        {
+          "language": "韩文",
+          "content": "전쟁이 계속되는 한, 안전한 장소란 없어. 설령 여기라고 해도 말이야. 그걸 잊지 마."
+        },
+        {
+          "language": "繁体中文",
+          "content": "只要戰爭仍在繼續，就不會有什麼地方是絕對安全的。這也同樣適用於羅德島，請你務必牢記這點。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "坦白地说，你的周围混杂着许多人，不觉得这样其实很危险吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ハッキリ言うわ。あなたの周りには、あまりにも人が多すぎるのよ。危険だとは思わないの？"
+        },
+        {
+          "language": "英文",
+          "content": "To be frank, you're surrounded by people from all walks of life. That can be quite dangerous, don't you think?"
+        },
+        {
+          "language": "韩文",
+          "content": "확실하게 말하자면. 네 주변에는 사람들이 너무 많아. 위험하단 생각… 안 들어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "坦白地說，你的周圍混雜著許多人，不覺得這樣其實很危險嗎？"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "居然有那么多和我一样的萨卡兹人来到了罗德岛，并且相互之间还能和睦相处，这确实让我很惊讶......"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスには私と同じサルカズがこんなにいるなんて、正直驚いたわ……。しかもお互いに反目しあわないなんて、あり得ないわ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm surprised that so many other Sarkaz have come to Rhodes Island. What's more surprising is that they actually get along…"
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드에는 나랑 같은 살카즈가 이 정도나 있을 줄은… 솔직히 놀랐어. 게다가 서로 미워하지도 않는다니… 이건 정말… 말도 안 되는 일이네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "居然有那麼多和我一樣的薩卡茲人來到了羅德島，並且相互之間還能和睦相處，這確實讓我很驚訝......"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我这把弩炮虽然不太容易操作，但威力绝不下于拉特兰人的铳。我将用它捍卫我族的荣耀。"
+        },
+        {
+          "language": "日文",
+          "content": "このハンドバリスタ、ちょっと扱いは難しいけど、威力はラテラーノ人の銃にだって負けないわ。これで我が一族の誇り、守ってみせる。"
+        },
+        {
+          "language": "英文",
+          "content": "My bowgun may not be easy to operate, but it's just as powerful as the Laterano guns. I use it to defend the glory of my people."
+        },
+        {
+          "language": "韩文",
+          "content": "이 핸드 발리스타는 말야, 쓰기는 조금 어렵지만 위력은 라테라노인의 총에도 지지 않을 정도로 강력해. 이걸로 우리 일족의 긍지를 지켜 보이겠어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我這把弩炮雖然不太容易操作，但威力絕不下於拉特蘭人的銃。我將用它捍衛我族的榮耀。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我见过守林人了。那个孩子，把我们并肩作战过的组织名当成自己的代号。也许那孩子的时间，在故乡被毁灭之时就已经停止了......"
+        },
+        {
+          "language": "日文",
+          "content": "ファイヤーウォッチに会ったわ。あの子、私といた昔の組織の名前を、そのまま自分のコードネームにしてるのね。きっとあの子の時間は、あの事件から止まったままなのね…。"
+        },
+        {
+          "language": "英文",
+          "content": "I see Firewatch is here. I can't believe she's using the name of our old guerrilla group as her codename. It's like time stopped for her the day her home was destroyed..."
+        },
+        {
+          "language": "韩文",
+          "content": "파이어워치랑 만났어. 걔… 나랑 옛날에 같이 있었던 조직 이름을 그대로 자기 코드네임으로 쓰더라고. 분명 그 아이의 시간은, 그 사건이 있던 때에 멈춰있는 거겠지…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我見過守林人了。那個孩子，把我們並肩作戰過的組織名當成自己的代號。也許那孩子的時間，在故鄉被毀滅之時就已經停止了......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "发生在我和守林人之间的那段过去，还是等她亲口告诉你吧......只能说，把叛军引向她故乡的人并不是我，只是......没人会相信一个萨卡兹人的话。"
+        },
+        {
+          "language": "日文",
+          "content": "ファイヤーウォッチとの事を知りたいなら、彼女に聞くことね。言っとくけど、反乱軍を彼女の故郷に引き入れたのは私じゃないわ。まぁ、サルカズの私が語る話なんて誰も信じないでしょうけど……。"
+        },
+        {
+          "language": "英文",
+          "content": "As for what happened between Firewatch and I... she'll tell you when she's ready. All I can say is that I was not the one who led the rebels to her village... but no one would believe the words of a Sarkaz, right?"
+        },
+        {
+          "language": "韩文",
+          "content": "나랑 파이어워치 사이의 옛일은, 그 아이가 직접 알려줄 때까지 기다려줘... 확실히 말해두는데, 반란군을 파이어워치의 고향에 끌어들인 건 내가 아니야… 뭐, 살카즈인 내가 이런 말을 해도, 아무도 믿어주진 않겠지만…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "發生在我和守林人之間的那段過去，還是等她親口告訴你吧......只能說，把叛軍引向她故鄉的人並不是我，只是......沒人會相信一個薩卡茲人的話。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "她有她的复仇，我有我的使命，既然如此，即使我们在这罗德岛重逢，或许依旧会走向各自的结局吧。"
+        },
+        {
+          "language": "日文",
+          "content": "彼女には彼女の復讐があるように、私には私の使命がある。たとえ、ここで再会しても、結局は違う道を歩むことになるでしょうね。"
+        },
+        {
+          "language": "英文",
+          "content": "She wants her revenge, and I have my duty. Even though we've met again at Rhodes Island, it probably won't affect anything. Our paths aren't likely to cross."
+        },
+        {
+          "language": "韩文",
+          "content": "그녀에겐 자기만의 복수가 있듯이, 나한테도 나만의 사명이 있어. 여기서 다시 만났다고 해도, 결국엔 다른 길을 걸어가게 되겠지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "她有她的復仇，我有我的使命，既然如此，即使我們在這羅德島重逢，或許依舊會走向各自的結局吧。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哪里来的声音？难道是有谁在监视这个房间吗？还是说......只是我的错觉罢了？"
+        },
+        {
+          "language": "日文",
+          "content": "……音がする……。誰かがこの部屋を監視してる？それとも……気のせいかしら？"
+        },
+        {
+          "language": "英文",
+          "content": "What's that sound? Is someone monitoring this room? Or am I just… imagining things?"
+        },
+        {
+          "language": "韩文",
+          "content": "……소리가 들리는데…… 누가 이 방을 감시하고 있나? 아니면… 그냥 기분 탓인가?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哪裡來的聲音？難道是有誰在監視這個房間嗎？還是說......只是我的錯覺罷了？"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "代号陨星，职业是自由佣兵。如你所见，是萨卡兹人。即使这样，你还依然打算雇佣我吗？"
+        },
+        {
+          "language": "日文",
+          "content": "コードネーム、メテオリーテ。フリーの傭兵よ。見ての通りのサルカズだけど、それでもこの私を雇いたいの？"
+        },
+        {
+          "language": "英文",
+          "content": "Codename Meteorite, a freelance mercenary. I'm Sarkaz, as you can see. Do you still want to hire me?"
+        },
+        {
+          "language": "韩文",
+          "content": "코드네임, 메테오라이트… 자유 용병이야. 보는 그대로 난 살카즈야... 그런데도… 날 고용하고 싶어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "代號隕星，職業是自由傭兵。如你所見，是薩卡茲人。即使這樣，你還依然打算雇傭我嗎？"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "瞄准技术提升了。"
+        },
+        {
+          "language": "日文",
+          "content": "バリスタの照準スキルが向上したわ。"
+        },
+        {
+          "language": "英文",
+          "content": "My aim with my bowgun has improved."
+        },
+        {
+          "language": "韩文",
+          "content": "발리스타의 조준 스킬이 향상됐어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "瞄準技術提升了。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "想要提拔我吗？ 看来，选择在这儿工作，果然是对的。"
+        },
+        {
+          "language": "日文",
+          "content": "あら、昇進させてくれるの？しばらくここで働いてみるのも悪くないわね。"
+        },
+        {
+          "language": "英文",
+          "content": "You want to promote me? I see that I made the right choice to work here."
+        },
+        {
+          "language": "韩文",
+          "content": "어? 승진 시켜 주려고? 한동안 여기서 일하기로 한 거 정말 잘한 선택이었네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "想要提拔我嗎？ 看來，選擇在這兒工作，果然是對的。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这次，真的十分谢谢你。没想到，我这样的人，居然能在罗德岛获得如此稳定的一份工作。我会竭尽所能，回报你的信赖。"
+        },
+        {
+          "language": "日文",
+          "content": "今回もありがとう。まさかここまで長い間ここで働くことになるとは思わなかったわ。全てをかけても、あなたの……信頼に応えないといけないわね。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you so much for this, really. I can't believe someone like me could work a stable job here at Rhodes Island. I'll do everything I can to repay your trust in me."
+        },
+        {
+          "language": "韩文",
+          "content": "이번에도 고마워. 설마 이렇게 긴 시간 동안 여기서 일하게 될 줄은 몰랐어. 모든 걸 거는 한이 있더라도, 당신의 신뢰에는… 보답해야겠지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這次，真的十分謝謝你。沒想到，我這樣的人，居然能在羅德島獲得如此穩定的一份工作。我會竭盡所能，回報你的信賴。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我来了。"
+        },
+        {
+          "language": "日文",
+          "content": "来たわよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Reporting for duty."
+        },
+        {
+          "language": "韩文",
+          "content": "난 여기 있어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我來了。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要我做队长吗？严格来说，我不太擅长对别人发号施令。"
+        },
+        {
+          "language": "日文",
+          "content": "隊長になれって？正直、誰かに指示を出すのは得意ではないわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Me, a leader? To be honest, I'm not that good at giving orders."
+        },
+        {
+          "language": "韩文",
+          "content": "팀장이 되라고? 솔직히, 누군가한테 지시를 내리는 건 잘하는 편이 아닌데…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "要我做隊長嗎？嚴格來說，我不太擅長對別人發號施令。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会好好照顾大家的。"
+        },
+        {
+          "language": "日文",
+          "content": "みんなの面倒はちゃんと見てあげるわよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll do my best to take care of everyone."
+        },
+        {
+          "language": "韩文",
+          "content": "모두를 잘 돌봐줄게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我會好好照顧大家的。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "已经确认了敌情。各位，请做好战斗的准备。"
+        },
+        {
+          "language": "日文",
+          "content": "敵を捕捉したわ。みんな、準備しなさい。"
+        },
+        {
+          "language": "英文",
+          "content": "Enemy status confirmed. All units, prepare to engage."
+        },
+        {
+          "language": "韩文",
+          "content": "적을 포착했다. 다들, 준비하도록."
+        },
+        {
+          "language": "繁体中文",
+          "content": "已經確認了敵情。各位，請做好戰鬥的準備。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哦，好。"
+        },
+        {
+          "language": "日文",
+          "content": "いいわ。"
+        },
+        {
+          "language": "英文",
+          "content": "All right."
+        },
+        {
+          "language": "韩文",
+          "content": "좋아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "哦，好。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没问题。"
+        },
+        {
+          "language": "日文",
+          "content": "問題ないわよ。"
+        },
+        {
+          "language": "英文",
+          "content": "No problem."
+        },
+        {
+          "language": "韩文",
+          "content": "문제 없어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "沒問題。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "视野良好。"
+        },
+        {
+          "language": "日文",
+          "content": "視界は良好ね。"
+        },
+        {
+          "language": "英文",
+          "content": "I've got a clear shot."
+        },
+        {
+          "language": "韩文",
+          "content": "시야는 양호해."
+        },
+        {
+          "language": "繁体中文",
+          "content": "視野良好。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一口气解决他们。"
+        },
+        {
+          "language": "日文",
+          "content": "一気に片付けましょうか。"
+        },
+        {
+          "language": "英文",
+          "content": "Let's take them all out."
+        },
+        {
+          "language": "韩文",
+          "content": "한 번에 쓸어버리자고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "一口氣解決他們。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "射击。"
+        },
+        {
+          "language": "日文",
+          "content": "撃て。"
+        },
+        {
+          "language": "英文",
+          "content": "Fire!"
+        },
+        {
+          "language": "韩文",
+          "content": "쏴라."
+        },
+        {
+          "language": "繁体中文",
+          "content": "射擊。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "开火。"
+        },
+        {
+          "language": "日文",
+          "content": "射撃開始。"
+        },
+        {
+          "language": "英文",
+          "content": "Open fire!"
+        },
+        {
+          "language": "韩文",
+          "content": "사격 개시!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "開火。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "集中火力。"
+        },
+        {
+          "language": "日文",
+          "content": "集中砲火！"
+        },
+        {
+          "language": "英文",
+          "content": "Focus fire!"
+        },
+        {
+          "language": "韩文",
+          "content": "집중 포화!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "集中火力。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "退后！"
+        },
+        {
+          "language": "日文",
+          "content": "下がって！"
+        },
+        {
+          "language": "英文",
+          "content": "Get back!"
+        },
+        {
+          "language": "韩文",
+          "content": "물러서!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "退後！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不想再看到熊熊燃烧的战火了，让一切，都结束吧。"
+        },
+        {
+          "language": "日文",
+          "content": "もう二度と戦火は見たくない。すべて、終わらせましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "I don't want to see anything laid to waste in the fires of war ever again. Let us put an end to this, once and for all."
+        },
+        {
+          "language": "韩文",
+          "content": "이제 두 번 다시, 전쟁은 보고 싶지 않아. 전부, 끝내버리자."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我不想再看到熊熊燃燒的戰火了，讓一切，都結束吧。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "想从我布置完善的包围网中脱逃，真是异想天开。"
+        },
+        {
+          "language": "日文",
+          "content": "私の完璧な包囲網からは、誰ひとり逃れられないわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Trying to escape after I laid you to siege? Don't be silly."
+        },
+        {
+          "language": "韩文",
+          "content": "내 완벽한 포위망은 그 누구도 빠져나올 수 없어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "想從我佈置完善的包圍網中脫逃，真是異想天開。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有人逃走了，现在还不能大意。"
+        },
+        {
+          "language": "日文",
+          "content": "何人か逃がしたわね。まだ油断しないほうがいいわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Someone's escaped. Not the time to let our guard down."
+        },
+        {
+          "language": "韩文",
+          "content": "몇 명 놓쳤네. 아직 방심하지 않는 게 좋아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "有人逃走了，現在還不能大意。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "撤退吧！回到据点，重整姿态。"
+        },
+        {
+          "language": "日文",
+          "content": "ひとまず撤退よ！拠点に戻って態勢を立て直すの。"
+        },
+        {
+          "language": "英文",
+          "content": "Retreat! Back to the stronghold and regroup."
+        },
+        {
+          "language": "韩文",
+          "content": "일단 철수하자! 거점으로 돌아가서 태세를 재정비하는 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "撤退吧！回到據點，重整姿態。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里是什么地方？"
+        },
+        {
+          "language": "日文",
+          "content": "ここはどこ？"
+        },
+        {
+          "language": "英文",
+          "content": "What's this place?"
+        },
+        {
+          "language": "韩文",
+          "content": "여긴 어디지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這裡是什麼地方？"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呃！什么？"
+        },
+        {
+          "language": "日文",
+          "content": "キャッ、なに？"
+        },
+        {
+          "language": "英文",
+          "content": "Huh? Huh? What?"
+        },
+        {
+          "language": "韩文",
+          "content": "꺄악, 뭐야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "呃！什麼？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这个，是要送给我吗？啊，谢谢。"
+        },
+        {
+          "language": "日文",
+          "content": "あら？これを私に？ありがとう。"
+        },
+        {
+          "language": "英文",
+          "content": "Is this for me? Thanks."
+        },
+        {
+          "language": "韩文",
+          "content": "어머? 나한테 주는 거야? 고마워."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這個，是要送給我嗎？啊，謝謝。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "又过去了一年。作为雇佣兵来说，每多活一年，都算是值得高兴的事。但我不希望有更多人生活在这种不安中......博士，我为罗德岛上的孩子们准备了一点礼物，可以请您帮我分给他们吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，你好吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、調子はどう？"
+        },
+        {
+          "language": "英文",
+          "content": "How's it going, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 컨디션은 어때?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，你好嗎？"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我从未在某一个组织逗留过这么长时间，也从没有安定下来的打算。但是，当阿米娅对我说“我也想帮助萨卡兹人”的时候，我动摇了。我愿意相信，也许这片大地上，还有很多人对未来抱有期待。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

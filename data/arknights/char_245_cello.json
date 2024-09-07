@@ -1,0 +1,823 @@
+{
+  "name": "塑心",
+  "charaKey": "char_245_cello",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_245_cello"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_245_cello"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_245_cello"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_245_cello"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您在工作的时候，喜欢什么样的氛围？当然，这不能直接改善您忙碌的状态，只是如果我的音乐不能让您感受到舒适与惬意，我会过意不去的。"
+        },
+        {
+          "language": "日文",
+          "content": "どんなムードに包まれて仕事をするのがお好みかしら？もちろん、これであなたの仕事が減らせるわけじゃないけれど、私の演奏でリラックスしてもらえないと肩身が狭いもの。"
+        },
+        {
+          "language": "英文",
+          "content": "What kind of ambience do you prefer when you're working? Of course, my music can't directly alleviate the busy state you're in, but I'd feel terrible if it couldn't make you more comfortable…  or content."
+        },
+        {
+          "language": "韩文",
+          "content": "업무 중에는 어떤 분위기를 선호하는 편이야? 물론 분위기가 바뀐다고 업무가 줄어드는 건 아니지만, 내 연주를 듣고도 편안해지지 않는다면, 내 마음이 불편할 것 같아서 말이야."
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "接下来这场音乐会是为阿米娅小姐准备的。真好奇啊，假如我被允许触碰她的情感，她会在我心中看到什么呢？您的表情......是不放心吗？那就随我同去，将我限制在您身边吧。"
+        },
+        {
+          "language": "日文",
+          "content": "これから始まるコンサートは、アーミヤさんのために企画したものよ。好奇心が抑えきれないわ。彼女の感情を指でなぞることが許されたなら、彼女は私の心の中にどんな光景を見るのかしら？あら、その表情……心配なの？それならあなたも参加して、常に私を側に縛り付けておくといいわ。"
+        },
+        {
+          "language": "英文",
+          "content": "This next concert is for Amiya. I really am curious... what would she see in me if I were allowed to touch her emotions? Oh, that look on your face... are you worried? Then, why not come along... and confine me to your side?"
+        },
+        {
+          "language": "韩文",
+          "content": "이제부터 열릴 음악회는 아미야 씨를 위해 준비한 거야. 정말 궁금한걸, 만약 그녀의 감정에 닿는 게 허락된다면, 아미야 씨는 과연 내게서 무엇을 보게 될까? 어머, 그 표정…… 설마 불안한 거야? 그럼 나랑 같이 가자. 날 계속 당신의 곁에 붙여두면 되잖아."
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“音乐是在混沌中发掘的秩序。”莱塔尼亚的老师们是这么教我的，可他们都在沉默或癫狂中死去了。我的话......我会对学生们说，“音乐是流淌的意志，是表达自我的语言”。"
+        },
+        {
+          "language": "日文",
+          "content": "「音楽は混沌の中より見出された秩序である」と、リターニアの教師たちからはそう教わったけれど、結局みんな、沈黙や狂気の中で命を落としたわ。私なら……生徒たちには「音楽は流れる意志であり、自己を表す言語である」とでも教えるかしらね。"
+        },
+        {
+          "language": "英文",
+          "content": "'Music is the order you dig out of chaos.' That's what my Leithanian teachers taught me, but they've all since died in silence or lunacy. If it were me... I would tell my students, 'Music is a flowing will, a language of self-expression.'"
+        },
+        {
+          "language": "韩文",
+          "content": "“음악은 혼돈 속에서 찾아낸 질서와도 같다.” 라이타니엔의 선생님들은 이렇게 날 가르쳤지만, 결국 모두 침묵이나 광기 속에서 숨을 거두셨지. 음, 나였다면…… 학생들에게 “음악은 흐르는 의지이자, 자아를 표현하는 언어다”라고 가르쳤을 거야."
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我能感受到您手指的僵硬，看来您还不习惯这样的教学。别紧张，我会带着您一起......哎呀，怎么了费德里科，你要用地雷或电网欢迎我吗？如果你也需要一次指导，我与博士都不会拒绝。"
+        },
+        {
+          "language": "日文",
+          "content": "指が硬くなっているみたいだけど、こういったレッスンには不慣れなのかしら。リラックスして、私についてきて……あら、なによフェデリコ。地雷や電気柵で私を歓迎してくれるの？あなたもレッスンを受けたいのなら、私もドクターも、断ったりはしないわ。"
+        },
+        {
+          "language": "英文",
+          "content": "I can tell your fingers are still stiff. It seems you're not yet used to learning this way. Don't be nervous, I'll guide you... Oh? What's the matter, Fede? Are you going to greet me with a mine or an electric fence this time? If you'd like a music lesson, the Doctor and I will oblige."
+        },
+        {
+          "language": "韩文",
+          "content": "손가락이 긴장한 게 느껴지네, 이런 수업은 익숙하지 않나 보네? 긴장하지 마. 천천히 날 따라서…… 어머, 여긴 무슨 일이야, 페데리코? 지뢰나 전기 울타리로 날 환영해 주려는 거야? 레슨이 받고 싶은 거라면 나도 박사도 거절하지 않을 텐데 말이지."
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哪怕是您的要求，我也不会停止演奏。创伤是一回事，自由是另一回事。我的生命就和其他生命一样，一旦停滞就会径自走向终止。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターの希望であっても、私は演奏の手を止めないわ。傷を負うとしても、自由を感じられることに変わりはないもの。私の命だって、ほかの命と何ら変わらない――ひとたび動きを止めれば、たちまち終焉に向かって進んでいってしまうものだから。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll never stop performing, even if you, Doctor, are the one who asks me. Trauma is one thing, but freedom is another. My life is the same as the others, it will simply come to an end if I stop in my tracks."
+        },
+        {
+          "language": "韩文",
+          "content": "박사의 요구라고 해도 난 연주를 멈추지 않을 거야. 고통과 자유는 별개의 일이거든. 내 목숨도 다른 이들의 목숨과 마찬가지로, 한번 멈추는 순간 그대로 마지막을 향해 나아가 버리고 말 테니까."
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "再强大的心灵，都无法征服注定的消亡。如果生命是有意义的，如果真的有什么能够对抗混沌与虚无，就只有此时此刻......我所拥有的感受，以及感受化作的旋律而已。"
+        },
+        {
+          "language": "日文",
+          "content": "どれほど強い心の持ち主でも、いつか消えてなくなる定めに逆らうことはできないわ。もし命に意味があるというのなら、そして、混沌と虚無に抗える何かが本当に存在するとしたら、それは今この瞬間……私が感じているすべてと、それが織り成す旋律くらいのものかしらね。"
+        },
+        {
+          "language": "英文",
+          "content": "No matter how powerful one's spirit may be, there is no way to vanquish the inevitability of death. If there is meaning in life, if there is really something out there that can fight against chaos and nothingness... it has to be every emotion that I'm feeling right here and now, and the melodies they'll turn into."
+        },
+        {
+          "language": "韩文",
+          "content": "아무리 굳은 심지를 가진 자라도 언젠가 사라진다는 운명을 거스를 순 없어. 만약 생명에 의미가 있다면, 만약 혼돈과 허무에 대항할 수 있는 무언가가 정말로 존재한다면, 그건 지금 이 순간…… 내가 가진 감정과 그 감정이 만들어 내는 선율뿐일 거야."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我在......看云。当积蓄了过多水分，雨就会落下来。母亲选择离开也是这般自然，可父亲至今不愿理解。您呢，博士？您也会拒绝倾听......最真实的心声吗？"
+        },
+        {
+          "language": "日文",
+          "content": "雲を……眺めていたの。あの中いっぱいに水が溜まれば、雨粒になって零れ落ちるでしょう？母が家を飛び出したのもそれくらい自然なことなのに、父は未だにそれを認めようとはしないのよ。ドクターはどう？あなたも真実を告げる心の声に……耳を覆うのかしら？"
+        },
+        {
+          "language": "英文",
+          "content": "I'm watching... the clouds. Water accumulates above and in excess before turning to rain. Mother made just as natural a choice when she decided to leave. But father still refuses to accept it, even now. What about you, Doctor? Will you also refuse to listen to the truest self... that lies within you?"
+        },
+        {
+          "language": "韩文",
+          "content": "구름을…… 보고 있어. 저 구름도 수분이 가득 차면 빗물이 되어 떨어지겠지. 어머니가 떠나기로 선택한 것도 이처럼 자연스러운 섭리인데, 아버지는 아직도 그걸 이해하지 않으려 하고 있어. 박사는 어때? 박사도…… 진실을 알려주는 마음의 목소리에 귀를 닫고 있을 생각이야?"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "其实和您一起工作，对我来说有一些无聊。是的，因为我不想，也不能奏响您的乐章。我在克制自己对您的期望，生怕什么时候这感情和弦音一同爆发时，您会在我怀中化作一摊光怪陆离的碎片。"
+        },
+        {
+          "language": "日文",
+          "content": "実を言うと、ドクターの仕事に付き合うのは少しだけ退屈なの。ええ、あなたの楽章を奏でたいとは思わないし、そもそも禁止されているもの。そう自分に言い聞かせて、膨れ上がるあなたへの期待に蓋をしているのよ。いつかこの想いが弦と一緒に弾けてしまうのが恐ろしくて。そうなってしまえば、あなたは私の胸の中で奇妙な欠片となって、バラバラに崩れ落ちてしまうから。"
+        },
+        {
+          "language": "英文",
+          "content": "Working with you is actually quite dull to me. Yes, because I don't want to, and can't play your music. So I've curbed my expectations of you, for I fear that when this emotion bursts in resonance along with my strings, you will turn to a grotesque collection of variegated fragments in my arms."
+        },
+        {
+          "language": "韩文",
+          "content": "사실 박사랑 같이 일하는 건 나한테 조금 지루한 일이야. 그래, 난 당신의 악장을 연주할 수도, 연주하고 싶지도 않아. 난 당신에 대한 기대를 어떻게든 억누르고 있어. 어느 날 이 감정과 선율이 한꺼번에 터져 버려선, 당신이 내 품 안에서 기묘한 조각들로 산산조각이 날까 봐 두렵거든."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让我成为你的私人乐手吧。让我......摸索你的脑海。你的构思有多精巧，你升腾的意志又有多骇人？当你的乐章烂漫到极致，我自然会彻底为你着迷；届时，我会为你奏响我自己。"
+        },
+        {
+          "language": "日文",
+          "content": "あなたの専属演奏家になりたいの。私に……あなたの頭の中を覗かせて。そこではどれほど緻密な構想が組み上げられていて、どれほど恐ろしい意志が吹き上がっているのかしら？あなたの楽章がこの上なく色鮮やかな旋律を奏でれば、きっと私は虜になる。そうしたら、あなたのために私自身を奏でるわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Let me be your personal musician. Let me... feel my way around your mind. How elaborate are your ideas, and how terrifying is your rising willpower? I will of course be captivated by your music when it blooms into its ultimate form; and at that moment, what I will perform for you... shall be myself."
+        },
+        {
+          "language": "韩文",
+          "content": "당신의 전속 연주가가 되고 싶어. 내가…… 당신의 머릿속을 들여다볼 수 있게 해 줘. 당신의 머릿속에 숨겨져 있는 구상이 얼마나 정교한지, 솟아오르는 그 의지는 또 얼마나 대단한지 보고 싶어. 당신의 악장이 아름다움의 극치를 보여 주는 그 순간, 난 분명 당신에게 완전히 매료될 거야. 그때가 되면, 나도 당신을 위해 날 연주해 줄게."
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "睡吧，这首安眠曲不必掺杂任何“幻觉”。您的梦......已足够多彩。"
+        },
+        {
+          "language": "日文",
+          "content": "おやすみなさい。この癒やしの旋律に「幻覚」を込めるのはよしておくわ、なんてね。あなたの夢は……もう十二分に精彩を放っているもの。"
+        },
+        {
+          "language": "英文",
+          "content": "Rest well… I don't need to mix any 'illusion' into this lullaby. Your dreams... are already colorful enough."
+        },
+        {
+          "language": "韩文",
+          "content": "편히 쉬어. 이 자장가에는 그 어떤 환각도 더하지 않을 테니까. 당신의 꿈은…… 이미 충분히 다채롭거든."
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我本该用音乐来介绍自己，只可惜，我暂时被禁止为您演奏。那么，从起一个代号开始吧......您可以叫我，“塑心”。"
+        },
+        {
+          "language": "日文",
+          "content": "演奏で自己紹介したいところだけれど、残念ながらしばらくはあなたに向けての演奏を禁じられているの。ということで、コードネームを決めましょうか……「ヴィルトゥオーサ」、そう呼んでちょうだい。"
+        },
+        {
+          "language": "英文",
+          "content": "I should have introduced myself by playing some music for you. Unfortunately, I've been forbidden from doing so for the moment. Let's start with a codename, then. You may call me... 'Virtuosa.'"
+        },
+        {
+          "language": "韩文",
+          "content": "연주로 자기소개를 대신하고 싶지만, 아쉽게도 당신 앞에서의 연주는 당분간 금지되어서 말이지. 그럼, 코드네임을 정하는 것부터 시작해볼까…… '비르투오사'라고 불러 줘."
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我对这些伤害他人的手段不感兴趣......能允许我稍微走一会儿神吗？"
+        },
+        {
+          "language": "日文",
+          "content": "こんな風に他人を傷つける方法なんて学びたいとは思わないから……しばらくうわの空でもいいかしら？"
+        },
+        {
+          "language": "英文",
+          "content": "I've no interest in these means of inflicting harm. Do you mind if I wander about for a bit?"
+        },
+        {
+          "language": "韩文",
+          "content": "이렇게 타인을 다치게 하는 방법에는 관심 없는데…… 잠시 다른 생각하고 있어도 될까?"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "即便不依靠琴声的连结，您还是越来越理解我了。可是，我该如何将心中的喜悦分享给您呢？"
+        },
+        {
+          "language": "日文",
+          "content": "音色が二人を繋がなくたって、あなたは私への理解をどんどん深めてくれているのね。だけど、この心に弾む喜びをあなたと共有するにはどうしたらいいかしら。"
+        },
+        {
+          "language": "英文",
+          "content": "You've come to understand me more and more, even without the sound of an instrument to connect us. And yet... just how am I supposed to share this joy in my heart with you?"
+        },
+        {
+          "language": "韩文",
+          "content": "선율의 연결이 없어도, 당신은 나를 계속 이해해주는구나…… 하지만 나는 이 가슴 벅찬 기쁨을 어떻게 해야 당신과 공유할 수 있을까?"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "每当我触碰琴弦，周围的情感就会流向我，经由我的指尖，涌向天空和大地。您也听到了吗？这就是生命最真实的呐喊，多么震撼，多么美丽。"
+        },
+        {
+          "language": "日文",
+          "content": "弦に指を乗せる度に、周囲に漂う感情が私の中に流れ込んで、指先を通って空と大地に流れていくの。聴こえたかしら？これが命のあるがままの叫びよ。なんて衝撃的で、美しいのかしら。"
+        },
+        {
+          "language": "英文",
+          "content": "Whenever I touch the strings, the surrounding emotions all flow into me, through my fingertips, surging up into the sky and down into the ground. Did you hear it too? The cry of life in its truest form... How astonishing, how beautiful."
+        },
+        {
+          "language": "韩文",
+          "content": "현에 손가락을 올릴 때마다 주변의 감정들이 내게 흘러들어와. 그리고는 다시 내 손가락을 통해서 하늘과 대지로 흘러나가지. 이 소리 들려? 이게 바로 생명의 가장 진실된 외침이야. 정말 아름답고도 경이로운 소리지?"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "今天您为我挑选的，是什么样的听众？"
+        },
+        {
+          "language": "日文",
+          "content": "今日はどんな聴衆を集めてくれたの？"
+        },
+        {
+          "language": "英文",
+          "content": "What audience have you picked for me today?"
+        },
+        {
+          "language": "韩文",
+          "content": "오늘은 어떤 청중들을 데려왔어?"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不常与人合奏，但可以试着配合每个人的声音。"
+        },
+        {
+          "language": "日文",
+          "content": "合奏はあまりやらないけれど、一人ひとりの音に合わせてみるわね。"
+        },
+        {
+          "language": "英文",
+          "content": "I don't often play with accompaniment, but I can try to match the others' voices."
+        },
+        {
+          "language": "韩文",
+          "content": "합주를 자주 하진 않지만, 그래도 한 사람 한 사람의 소리에 최대한 맞춰서 연주해 볼게."
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "音符坠入回忆，旋律响彻脑海。"
+        },
+        {
+          "language": "日文",
+          "content": "音符は追憶に沈み、旋律が頭の中をこだまする。"
+        },
+        {
+          "language": "英文",
+          "content": "Notes fall into memory, and a melody resonates in the mind."
+        },
+        {
+          "language": "韩文",
+          "content": "음표는 기억 속으로 가라앉고, 선율은 머릿속에서 메아리치네."
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们的心灵会是什么音调？"
+        },
+        {
+          "language": "日文",
+          "content": "あなたたちの心はどんなトーンで響くのかしら？"
+        },
+        {
+          "language": "英文",
+          "content": "What tones are your souls in?"
+        },
+        {
+          "language": "韩文",
+          "content": "너희의 마음은 과연 어떤 톤으로 울려 퍼질까?"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "演奏随时都能开始。"
+        },
+        {
+          "language": "日文",
+          "content": "いつでも演奏できるわ。"
+        },
+        {
+          "language": "英文",
+          "content": "The concert may begin at any time."
+        },
+        {
+          "language": "韩文",
+          "content": "언제든 연주할 수 있어."
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "想听些什么？"
+        },
+        {
+          "language": "日文",
+          "content": "リクエストはあるかしら？"
+        },
+        {
+          "language": "英文",
+          "content": "What would you like to hear?"
+        },
+        {
+          "language": "韩文",
+          "content": "듣고 싶은 곡 있어?"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这是独奏。"
+        },
+        {
+          "language": "日文",
+          "content": "ここからは私の独奏よ。"
+        },
+        {
+          "language": "英文",
+          "content": "A solo, to you."
+        },
+        {
+          "language": "韩文",
+          "content": "이제부턴 내 독주야."
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这是即兴。"
+        },
+        {
+          "language": "日文",
+          "content": "即興をお楽しみあれ。"
+        },
+        {
+          "language": "英文",
+          "content": "An improv, from us."
+        },
+        {
+          "language": "韩文",
+          "content": "즉흥적으로 해 볼까."
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "狂喜灿若黄金。"
+        },
+        {
+          "language": "日文",
+          "content": "愉悦は黄金に煌めいて。"
+        },
+        {
+          "language": "英文",
+          "content": "Ecstasy as bright as gold."
+        },
+        {
+          "language": "韩文",
+          "content": "기쁨은 황금처럼 빛나노니."
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "苦痛终会安息。"
+        },
+        {
+          "language": "日文",
+          "content": "苦しみもいつかきっと終わるわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Suffering will come to rest."
+        },
+        {
+          "language": "韩文",
+          "content": "고통도 언젠간 끝을 맞이할지니."
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "自由和阳光环绕着我们。"
+        },
+        {
+          "language": "日文",
+          "content": "自由と陽光に包まれて。"
+        },
+        {
+          "language": "英文",
+          "content": "Liberty and sunlight all around us."
+        },
+        {
+          "language": "韩文",
+          "content": "자유와 햇빛이 우릴 감싸 주고 있어."
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "尽情地，感受自我吧。"
+        },
+        {
+          "language": "日文",
+          "content": "思い切り、自分自身を感じて。"
+        },
+        {
+          "language": "英文",
+          "content": "Feel your own self, to your heart's content."
+        },
+        {
+          "language": "韩文",
+          "content": "마음껏 너 자신을 느껴 봐."
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "战争本身并不值得演奏。但我会倾听战场上的每一个声音，无论它们来自英雄还是流民。"
+        },
+        {
+          "language": "日文",
+          "content": "戦争そのものに演奏する価値はないけれど、私は戦場に流れるすべての音に耳を傾けるわ。それが英雄のものであっても、難民のものであってもね。"
+        },
+        {
+          "language": "英文",
+          "content": "War itself is unworthy of a performance. But I will listen to every voice on the battlefield, from hero to refugee."
+        },
+        {
+          "language": "韩文",
+          "content": "전쟁 자체는 연주할 가치가 없지만, 난 전장에서 들려오는 소리 하나하나에 귀를 기울일 거야. 그 소리가 영웅의 것이든, 난민의 것이든 말이야."
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "结束了吗？您的胜利不需要我的乐声作为点缀。我更愿意......为您演奏那朵飘过的云。"
+        },
+        {
+          "language": "日文",
+          "content": "終わったの？あなたの勝利は私の演奏で飾り立てるまでもないわね。そんなことをするよりも……あなたに、あの流れていった雲を奏でてあげたいわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Over already? Your victory doesn't need to be embellished by my music. I'd much rather... perform for you a piece inspired by that cloud passing overhead."
+        },
+        {
+          "language": "韩文",
+          "content": "끝났어? 당신의 승리는 내 연주로 장식할 필요도 없이 완벽했어. 승리를 축하해 주는 것보단…… 저기 흘러간 구름을 당신에게 연주해 주고 싶어."
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "愧疚，疑惧，惊惶......这些因战斗而激荡的情感将追上他们，直至死亡。"
+        },
+        {
+          "language": "日文",
+          "content": "罪悪感、疑念、恐怖……戦いの煽りを受けたそんな感情たちが、彼らを死まで追い立てるわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Guilt, doubt, fear... this surge of emotion rising from the battlefield will follow them, accompanying them to their graves."
+        },
+        {
+          "language": "韩文",
+          "content": "죄책감, 의심, 두려움…… 전투로 인해 요동치는 이 감정들이, 죽음의 순간까지 저들을 따라다닐 거야."
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "曲终人散。演奏结束之后，琴弦的振动还能持续多久？"
+        },
+        {
+          "language": "日文",
+          "content": "演奏が終われば人も散るけれど、終演してから、弦はいつまで震え続けるのかしら？"
+        },
+        {
+          "language": "英文",
+          "content": "The performance ends, and the audience scatters. After such a conclusion, how long can the strings continue to vibrate?"
+        },
+        {
+          "language": "韩文",
+          "content": "공연이 끝나면 사람들은 떠나가기 마련이지. 그럼 연주가 끝난 현은 언제까지 자신의 떨림을 유지할 수 있을까?"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "晚霞很漂亮。如果能有乐声在甲板上流淌，一定浪漫极了。"
+        },
+        {
+          "language": "日文",
+          "content": "美しい夕焼けね。デッキに流れる音楽もあったなら、きっとこれ以上ないくらいロマンティックなんでしょうね。"
+        },
+        {
+          "language": "英文",
+          "content": "What a beautiful sunset. It would be even more romantic if there were music swirling around the deck."
+        },
+        {
+          "language": "韩文",
+          "content": "아름다운 노을이네. 여기 갑판 위에 음악까지 흐른다면 분명 더 로맨틱할 텐데."
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "琴弦在振动......为了您。"
+        },
+        {
+          "language": "日文",
+          "content": "弦が震えているわ……あなたのために。"
+        },
+        {
+          "language": "英文",
+          "content": "These strings are vibrating... for you."
+        },
+        {
+          "language": "韩文",
+          "content": "현이 떨리고 있어…… 당신을 위해서."
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯？我在这个角落待很久了吗？这首曲子一直在我脑子里盘桓着，不把它完整表达出来的话，我是不可能去睡觉的。"
+        },
+        {
+          "language": "日文",
+          "content": "あら？ずっと隅っこでじっとしているから気になった？いつまでも頭の中に鳴り響いている曲があって、それを完璧に表現できるようになるまでは寝ないつもりなの。"
+        },
+        {
+          "language": "英文",
+          "content": "Hmm? Have I been lurking in this corner for a long while? There's a tune lingering in my head, and I refuse to go to sleep before I can express it."
+        },
+        {
+          "language": "韩文",
+          "content": "응? 내가 여기에 그렇게 오래 있었어? 머릿속을 맴도는 곡이 있는데, 이걸 완벽하게 표현해 내기 전까진 잠들지 못할 것 같아."
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "新年音乐会快开始了。不，我不会参与演出，这是孩子们为您准备的礼物。在乐声响起的那一刻，我更想在一旁记录您与他们脸上绽放的喜悦。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "偶尔我也想远离人群，远离所有的声音，只感受我自己......还有您。"
+        },
+        {
+          "language": "日文",
+          "content": "私もたまには人溜まりから距離を置きたくなるの。すべての音から離れて、ただひたすら自分自身を……そしてあなたを感じたくて。"
+        },
+        {
+          "language": "英文",
+          "content": "Sometimes, I too prefer to avoid the crowd, far away from all the sounds, just to feel my own self... and to feel you as well."
+        },
+        {
+          "language": "韩文",
+          "content": "나도 가끔은, 사람들과 멀리 떨어진 채, 모든 소리로부터 벗어나 오직 나 자신을…… 그리고 당신을 느끼고 싶어."
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "终点正在驶向我们。如果您也相信，人与人之间的情感连结，能帮我们抵御绝望......那我与罗德岛共谱的乐章，一定能在某个时刻奏响。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

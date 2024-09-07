@@ -1,0 +1,983 @@
+{
+  "name": "褐果",
+  "charaKey": "char_4041_chnut",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4041_chnut"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4041_chnut"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4041_chnut"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔，博士，书架上的文件有点乱呢。我之前家里有一个可以自动整理文件的桌面辅助器械，只需要把文件放进去它就会打包封好，看起来博士也很需要这种东西。"
+        },
+        {
+          "language": "日文",
+          "content": "うーん、ドクター、本棚がぐちゃぐちゃだよ。僕の家に、入れた書類を自動で整理して、まとめてくれるマシンがあったけど、ドクターにもそういうのが必要みたいだね。"
+        },
+        {
+          "language": "英文",
+          "content": "Um, Doctor, the documents on the shelves are a bit messy. Back home, I had a tabletop assistant device that automatically organized our files. All you had to do was stick the files in, then it would package and seal them. I think you should get something like that too."
+        },
+        {
+          "language": "韩文",
+          "content": "으음, 박사. 책장에 놓인 문서들이 좀 어질러져 있네. 전에 살던 집에 문서를 자동으로 정리해 주는 보조 장치가 있었는데, 문서를 넣기만 하면 자동으로 패킹이 됐거든. 박사한테도 이런 기계가 필요한 것 같아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "唔，博士，書架上的文件有點亂呢。我之前家裡有一個可以自動整理文件的桌面輔助器械，只需要把文件放進去它就會打包封好，看起來博士也很需要這種東西。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "因为想要见识更多的景物所以选择走出来，这样的理由应该很常见吧？不过每当攀上一座高峰，或者潜入深邃的湖泊，我就会觉得自己的选择无比正确。"
+        },
+        {
+          "language": "日文",
+          "content": "もっとたくさんの景色が見たくて、外に出ることにしたんだ。ありふれた理由だよね。でも、高い山の頂上を踏みしめたとき、あるいは深い湖底まで潜ったとき、僕は自分の選択は間違っていなかったといつも思うんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Wanting to see new places is a pretty common reason for leaving home, isn't it? But every time I climb a tall mountain or dive into a deep lake, I feel like I've made the right choice."
+        },
+        {
+          "language": "韩文",
+          "content": "더 많은 풍경을 보고 싶어서 떠났어. 흔한 이유지? 근데 높은 산 정상에 이르렀을 때나 깊은 호수 바닥으로 잠수해 들어갈 때마다, 난 항상 내가 올바른 선택을 했다고 느껴."
+        },
+        {
+          "language": "繁体中文",
+          "content": "因為想要見識更多的景物所以選擇走出來，這樣的理由應該很常見吧？不過每當攀上一座高峰，或者潛入深邃的湖泊，我就會覺得自己的選擇無比正確。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士喜欢看开阔的风景吗？比如说在湖边，看着水面起起伏伏，天上一团一团的云飘来又散开，太阳慢慢地垂下来，在湖面上连成一片金色......我很喜欢这样的风景。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターって、悠々と広がる自然風景は好き？湖の畔で眺める、風に吹かれて揺れる水面とか、集まっては流れていく雲とか、沈んでいく太陽の光で金色に染まった湖面とか……僕はそういう景色が大好きなんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, are you fan of wide-open landscapes? For example, imagine yourself next to a lake, watching the surface of the water rise and fall, the clouds gathering and dispersing, the sun slowly drooping behind the horizon, painting the lake a dazzling gold... That's the kind of scenery I love."
+        },
+        {
+          "language": "韩文",
+          "content": "박사는 탁 트인 풍경 좋아해? 예를 들자면, 수면이 출렁이는 호숫가라던가, 하늘의 구름들이 뭉쳤다가 흩어지는 모습, 천천히 지는 해와 그 석양에 금빛으로 물든 호수가 하나로 합쳐지는 모습…… 난 이런 풍경들이 진짜 좋거든."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士喜歡看開闊的風景嗎？比如說在湖邊，看著水面起起伏伏，天上一團一團的雲飄來又散開，太陽慢慢地垂下來，在湖面上連成一片金色......我很喜歡這樣的風景。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "天灾？我们会行驶过天灾吗！我之前一直没能近距离看到过，这次一定不能再错过了！快让我过去——什么，舰桥的门关了？"
+        },
+        {
+          "language": "日文",
+          "content": "天災？僕らは天災の中を進むの？まだ近くで観察したことがないんだ、今度こそ絶対に見逃せないよ！今すぐ外行ってみ――え？ブリッジへのドアは閉鎖された？"
+        },
+        {
+          "language": "英文",
+          "content": "A Catastrophe? Are we really going to cruise past a Catastrophe?! I didn't get to see the last one up close, so I can't let this opportunity slip by! Lemme see–– Huh? The door to the bridge is locked?"
+        },
+        {
+          "language": "韩文",
+          "content": "재앙? 우리 설마 재앙 속을 지나가는 거야? 가까이에서 볼 수 있는 기회가 계속 없었거든. 이번에는 절대로 놓치지 않을 거야! 지금 빨리 나가야…… 뭐라고, 함교의 문이 닫혔다고?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "天災？我們會行駛過天災嗎！我之前一直沒能近距離看到過，這次一定不能再錯過了！快讓我過去——什麼，艦橋的門關了？"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的法杖能让矿物为伤者疗愈伤痛，有时随着矿物的不同，还会有其他特殊的功效。听起来不靠谱？博士，我很认真的！"
+        },
+        {
+          "language": "日文",
+          "content": "僕のアーツユニットは鉱物を利用して、負傷者の治療ができるんだ。鉱物の特性によっては特殊な効果も出たりする。信じられないって？ドクター、僕は大真面目だよ！"
+        },
+        {
+          "language": "英文",
+          "content": "My staff turns minerals into healing agents, sometimes with other special effects depending on the type of material used. Don't believe me? I'm being serious here, Doctor!"
+        },
+        {
+          "language": "韩文",
+          "content": "내 아츠 스태프는 광물을 이용해서 부상자를 치료할 수 있어. 광물에 따라 특수한 효능이 있을 수도 있지. 믿음이 안 간다고? 박사, 난 진지하다고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我的法杖能讓礦物為傷者療瘉傷痛，有時隨著礦物的不同，還會有其他特殊的功效。聽起來不可靠？博士，我很認真的！"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我救助过的人越来越多，这让我很有成就感。但是作为医生，我还是希望因为互相争斗而伤残的人能越来越少。"
+        },
+        {
+          "language": "日文",
+          "content": "救えた人の数が増えるほど、僕は達成感を感じる。でも医師として、争いで傷つく人が減ることを願わずにいられないんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "I've helped more and more people, which gives me a sense of accomplishment. But as a physician, I still wish there were fewer and fewer casualties from people fighting each other."
+        },
+        {
+          "language": "韩文",
+          "content": "구조한 사람 수가 늘어날수록 난 성취감을 느껴. 하지만 의사로서는, 서로 다투느라 다치는 사람들이 줄었으면 좋겠어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我救助過的人越來越多，這讓我很有成就感。但是作為醫生，我還是希望因為互相爭鬥而傷殘的人能越來越少。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士见过荧光蘑菇吗？在我小时候经常去玩耍的石瀑边，长了很多这种蘑菇，有的甚至会长得比族里最高的人还高，在主城灯光照不到的地方，它们可以充当光源。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターは灯光茸（とうこうたけ）を見たことがある？僕が小さい頃、よく遊びに行っていたガレ場の近くにたくさん生えていたんだ。このキノコ、僕ら一族で一番背の高い人よりも丈が高いものもあって、街の明かりが届かない場所を照らしてくれるんだよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, have you seen fluorescent mushrooms before? There used to be a bunch of them growing by the rocks near the waterfall I played at as a kid. Some of them grew taller than the tallest person in the clan, bringing light to places where the city could not reach."
+        },
+        {
+          "language": "韩文",
+          "content": "박사는 형광 버섯 본 적 있어? 어릴 적 자주 놀러 다녔던 절벽 근처에 그런 버섯이 많이 자랐었는데 말이야. 어떤 버섯은 우리 종족에서 키가 제일 큰 사람보다도 커서, 도시 중심의 불빛이 닿지 않는 곳까지 밝혀주기도 했어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士見過螢光蘑菇嗎？在我小時候經常去玩耍的石瀑邊，長了很多這種蘑菇，有的甚至會長得比族裡最高的人還高，在主城燈光照不到的地方，它們可以充當光源。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我原本来地面上的原因很简单，勘测家乡附近的地质环境，再顺便见识一下地上风景。但是随着我越走越远，让我留在地面上的理由不仅仅是那些从未见过的景物，还有那些需要我去救助的人们。"
+        },
+        {
+          "language": "日文",
+          "content": "一番最初に地上に出たときは、軽い気持ちで、故郷近くの地質調査と測量をするついでに、地上の景色を拝んでみようと思っただけなんだ。でも進めば進むほど、地上に残る理由ができた。未知の景色だけじゃなく、助けが必要な人たちの存在もだよ。"
+        },
+        {
+          "language": "英文",
+          "content": "My original reason for coming above ground was simple –&nbsp;I wanted to survey the geography around my homeland, and soak up the sights and sounds along the way. But the more I traveled, what kept me up here wasn't the places I had been, but the people who needed my help."
+        },
+        {
+          "language": "韩文",
+          "content": "처음에 지상으로 올라온 이유는 단순했어. 고향 근처의 지질 환경을 조사하면서 겸사겸사 지상의 풍경도 보고 싶기 때문이었지. 하지만 점점 나아갈수록, 지상에 남을 이유가 생겼어. 미지의 풍경들뿐만 아니라, 도움이 필요한 사람들의 존재도 그 이유야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我原本來地面上的原因很簡單，勘測家鄉附近的地質環境，再順便見識一下地上風景。但是隨著我越走越遠，讓我留在地面上的理由不僅僅是那些從未見過的景物，還有那些需要我去救助的人們。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，人们为什么要互相争斗直至流血受伤呢？我能治好一个两个，甚至更多，但是如果人们心中的想法不改变，医生又能做到什么呢......"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、どうして地上の人たちは、血を流すほど争い続けるんだろう。怪我人の一人や二人、いいやもっとたくさんの人を僕が治せたとしても、みんなの考えが変わらない限りは、医者にできることなんて所詮そのくらいなんだ……"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, why do people bloody themselves fighting each other? I can treat a wound or two, maybe even a lot more than that, but what can I do as a physician if we can't change their minds?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 사람들은 왜 피를 흘리면서까지 싸우려는 걸까? 다친 사람 한두 명, 아니 더 많은 사람도 내가 치료해줄 수는 있어. 하지만 사람들의 생각이 바뀌지 않는다면, 의사가 할 수 있는 일은 많지 않아……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，人們為什麼要互相爭鬥直至流血受傷呢？我能治好一個兩個，甚至更多，但是如果人們心中的想法不改變，醫生又能做到什麼呢......"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......桌子还是有点乱，我先来收拾一下吧。"
+        },
+        {
+          "language": "日文",
+          "content": "……机が少し散らかっているかな、先に片付けるね。"
+        },
+        {
+          "language": "英文",
+          "content": "Your desk is still a bit messy. Let me clean things up for you."
+        },
+        {
+          "language": "韩文",
+          "content": "……책상이 조금 지저분하네. 먼저 정리해 둘게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "......桌子還是有點亂，我先來收拾一下吧。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，初次见面，这个送给你。是我用搜集来的矿物做的标本箱，天青石、绿松石、梅花碧玺、玉髓......"
+        },
+        {
+          "language": "日文",
+          "content": "初めましてドクター、プレゼントにこれをどうぞ。僕の集めた鉱物が入った標本ケースで、天青石に、緑松石、こっちが電気石で、これが玉髄……"
+        },
+        {
+          "language": "英文",
+          "content": "Please to meet you, Doctor. This is for you. It's a specimen box made from gemstones I collected –&nbsp;lapis lazuli, turquoise, plum tourmaline, chalcedony..."
+        },
+        {
+          "language": "韩文",
+          "content": "만나서 반가워, 박사, 이건 선물이야. 내가 수집한 광물로 만든 표본 상자인데. 천청석, 터키석, 전기석, 그리고 이건 옥수……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，初次見面，這個送給你。是我用搜集來的礦物做的標本箱，天青石、綠松石、梅花碧璽、玉髓......"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "镜头是固定的呢，博士，这东西交给杜林干员是不是可以改造成能自动跟随对象的镜头？谁提的谁做？嗯......"
+        },
+        {
+          "language": "日文",
+          "content": "これって定点カメラなんだね。ドクター、ドゥリンさんに頼んだら、対象を自動で追うようにカメラを改造してもらえるかな。え、言い出しっぺがやれって？ええと……"
+        },
+        {
+          "language": "英文",
+          "content": "The lens doesn't move, Doctor. Do you think if we gave this to Operator Durin, she'd be able to upgrade it so it automatically followed the subject? I should do it, since I thought of it? Hrmm..."
+        },
+        {
+          "language": "韩文",
+          "content": "이거 고정식 카메라지? 박사, 이거 두린 씨에게 맡기면 혹시 자동 추적 카메라로 개조해 주려나? 먼저 말 꺼낸 사람이 하라고? 으음……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "鏡頭是固定的呢，博士，這東西交給杜林幹員是不是可以改造成能自動跟隨對象的鏡頭？誰提的誰做？嗯......"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我都没想到......这么快就能晋升了吗？我会继续研究矿物的更多治疗方式的！"
+        },
+        {
+          "language": "日文",
+          "content": "まさか……こんな早く昇進できるの？引き続き鉱物の研究を進めて、もっとたくさんの治療法の実用化を目指すね！"
+        },
+        {
+          "language": "英文",
+          "content": "I... never expected to be promoted so soon! I'll carry on my research into the curative properties of gemstones!"
+        },
+        {
+          "language": "韩文",
+          "content": "생각지도 못했어…… 이렇게 빨리 승진할 수도 있는 거야? 광물을 이용한 치료 방법을 더 많이 찾을 수 있도록 계속 정진할게!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我都沒想到......這麼快就能晉升了嗎？我會繼續研究礦物的更多治療方式的！"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "为了实现自己的梦想而走出来，在这里也得到了认可，还能和医疗部的大家学习更多知识，我找到了一份好工作呢。"
+        },
+        {
+          "language": "日文",
+          "content": "夢を叶えるために故郷を出てきて、ロドスで認められて、医療部のみんなからたくさんのことを教えてもらっている。僕はすごくいい仕事を見つけたよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I left home so I could realize my dreams, I gained recognition here, and found a place where I could learn even more from my peers in the Medical Department. I've truly found a good job."
+        },
+        {
+          "language": "韩文",
+          "content": "꿈을 이루기 위해 집을 떠나, 로도스 아일랜드에 와서 인정도 받고, 의료부 사람들에게 더 많은 걸 배우고 있지. 난 참 좋은 직장을 찾은 것 같아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "為了實現自己的夢想而走出來，在這裡也得到了認可，還能和醫療部的大家學習更多知識，我找到了一份好工作呢。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "过一会儿队伍里的大家就有可能因为战斗而受伤，心情有点微妙呢......"
+        },
+        {
+          "language": "日文",
+          "content": "戦いが始まったらチームのみんなが怪我してしまうかもしれないって思うと、ちょっと複雑だよね……"
+        },
+        {
+          "language": "英文",
+          "content": "The mood among the squad members might deteriorate over time due to injuries sustained in battle..."
+        },
+        {
+          "language": "韩文",
+          "content": "조금 있으면 팀원들이 전투 때문에 다칠지도 모른다고 생각하니…… 마음이 조금 복잡해지네……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "過一會隊伍裡的大家就有可能因為戰鬥而受傷，心情有點微妙呢......"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不喜欢战场只是我的个人情绪，作为队长，我会担起我的责任。"
+        },
+        {
+          "language": "日文",
+          "content": "戦場が嫌いなのはただの僕個人の感情だ。隊長としての責任はちゃんと背負うよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I don't like war, but that's my personal feelings. As a squad leader, I vow to uphold my responsibility."
+        },
+        {
+          "language": "韩文",
+          "content": "전장이 싫은 건 내 개인적인 감정일 뿐이야. 물론 대장으로서의 역할은 제대로 해낼게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "不喜歡戰場只是我的個人情緒，作為隊長，我會擔起我的責任。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没有什么比大家的安全更重要，保护好自己！"
+        },
+        {
+          "language": "日文",
+          "content": "みんなの命より大事なものはないよ。安全に気をつけてね！"
+        },
+        {
+          "language": "英文",
+          "content": "Be careful, everyone! Nothing's more important than your own safety!"
+        },
+        {
+          "language": "韩文",
+          "content": "모두의 생명보다 중요한 건 없어. 다들 안전에 주의해!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "沒有什麼比大家的安全更重要，保護好自己！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们真的只能这样解决问题吗？"
+        },
+        {
+          "language": "日文",
+          "content": "本当に、こうやって解決するしかないのかな？"
+        },
+        {
+          "language": "英文",
+          "content": "Is this really the only way to settle our problems?"
+        },
+        {
+          "language": "韩文",
+          "content": "정말로 이렇게밖에 문제를 해결할 수 없는 걸까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我們真的只能這樣解決問題嗎？"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请指挥我。"
+        },
+        {
+          "language": "日文",
+          "content": "指示に従うよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Direct me."
+        },
+        {
+          "language": "韩文",
+          "content": "지시에 따를게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "請指揮我。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我相信博士可以带我们走向胜利。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターはきっと僕らを勝利に導いてくれる。"
+        },
+        {
+          "language": "英文",
+          "content": "I trust the Doctor will lead us to victory."
+        },
+        {
+          "language": "韩文",
+          "content": "박사는 분명 우리를 승리로 이끌어 줄 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我相信博士可以帶我們走向勝利。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会带走你们的伤痛。"
+        },
+        {
+          "language": "日文",
+          "content": "傷も痛みも、僕が消してあげるよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I will take away your pain."
+        },
+        {
+          "language": "韩文",
+          "content": "상처도 아픔도, 내가 지워 줄게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我會帶走你們的傷痛。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "放心把后背交给我吧。"
+        },
+        {
+          "language": "日文",
+          "content": "安心して背中を預けていいよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't worry, I've got your back."
+        },
+        {
+          "language": "韩文",
+          "content": "안심하고 등 뒤를 맡겨줘."
+        },
+        {
+          "language": "繁体中文",
+          "content": "放心把後背交給我吧。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果感到身体不适，请及时报告！"
+        },
+        {
+          "language": "日文",
+          "content": "体に違和感があったらすぐ教えてね！"
+        },
+        {
+          "language": "英文",
+          "content": "If you feel unwell, report it right away!"
+        },
+        {
+          "language": "韩文",
+          "content": "몸에 이상이 느껴지면 바로 알려 줘!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "如果感到身體不適，請及時報告！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "作战时请不要勉强自己！"
+        },
+        {
+          "language": "日文",
+          "content": "戦うときは無理しないで！"
+        },
+        {
+          "language": "英文",
+          "content": "Don't push yourself too hard in battle!"
+        },
+        {
+          "language": "韩文",
+          "content": "너무 무리하지 않아도 돼!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "作戰時請不要勉強自己！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "感觉好点了吗？"
+        },
+        {
+          "language": "日文",
+          "content": "気分は良くなった？"
+        },
+        {
+          "language": "英文",
+          "content": "Feel any better?"
+        },
+        {
+          "language": "韩文",
+          "content": "좀 괜찮아졌어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "感覺好點了嗎？"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "肌肉紧绷不利于治疗的进行，放松。"
+        },
+        {
+          "language": "日文",
+          "content": "緊張で筋肉が固まると治療に良くないんだ。力を抜いて。"
+        },
+        {
+          "language": "英文",
+          "content": "Relax, tense muscles will only make your treatment more difficult."
+        },
+        {
+          "language": "韩文",
+          "content": "근육이 긴장되어 있으면 치료에 좋지 않아, 힘 빼."
+        },
+        {
+          "language": "繁体中文",
+          "content": "肌肉緊繃不利於治療的進行，放鬆。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "提前做的准备越多就能看到越好的风景，这是大家努力的成果。"
+        },
+        {
+          "language": "日文",
+          "content": "事前の準備をきちんとすればするほど、綺麗な景色を見られるんだ。これはみんなの努力の結果だよ！"
+        },
+        {
+          "language": "英文",
+          "content": "The more prep work we do, the more beautiful scenery we'll get to see. Hard work pays off."
+        },
+        {
+          "language": "韩文",
+          "content": "미리 준비를 많이 해놓을수록 더 아름다운 풍경을 볼 수 있는 법이지. 이건 모두가 노력한 결과야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "提前做的準備越多就能看到越好的風景，這是大家努力的成果。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "现在正是看夕阳的好时机，我们去那边坐会儿吧。"
+        },
+        {
+          "language": "日文",
+          "content": "ちょうど夕陽が見頃だよ、あの辺で少し座ろうか。"
+        },
+        {
+          "language": "英文",
+          "content": "Now's a great time to watch the sunset. Let's head over there and sit down for a spell."
+        },
+        {
+          "language": "韩文",
+          "content": "마침 석양을 보기에 딱 좋은 시간이네. 저쪽에 가서 앉자."
+        },
+        {
+          "language": "繁体中文",
+          "content": "現在正是看夕陽的好時機，我們去那邊坐會吧。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "现在的争斗是为了以后的安宁吗？......敌人和我们想法一样就好了。"
+        },
+        {
+          "language": "日文",
+          "content": "この戦いは、未来の平和のため？……相手も僕らと同じ考えならいいのにね。"
+        },
+        {
+          "language": "英文",
+          "content": "We fight now so there may be peace later...? If only our enemies felt that way."
+        },
+        {
+          "language": "韩文",
+          "content": "지금의 전투는 훗날의 평화를 위해서일까? ……적도 우리와 같은 생각이라면 좋을 텐데."
+        },
+        {
+          "language": "繁体中文",
+          "content": "現在的爭鬥是為了以後的安寧嗎？......敵人和我們想法一樣就好了。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "快走，我来保护你！"
+        },
+        {
+          "language": "日文",
+          "content": "急いで！僕が守るよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Run, I'll cover you!"
+        },
+        {
+          "language": "韩文",
+          "content": "서둘러, 내가 지켜줄게!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "快走，我來保護你！"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里的装修风格和我的家乡那里很不一样呢。"
+        },
+        {
+          "language": "日文",
+          "content": "ここの内装スタイルは僕の故郷とはだいぶ違うね。"
+        },
+        {
+          "language": "英文",
+          "content": "The decor here is really different from back home."
+        },
+        {
+          "language": "韩文",
+          "content": "이곳의 인테리어는, 내 고향이랑 많이 다른 느낌이네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這裡的裝修風格和我的家鄉那裡很不一樣呢。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔，谁呀？......是博士啊。"
+        },
+        {
+          "language": "日文",
+          "content": "え、誰？……ああ、ドクターか。"
+        },
+        {
+          "language": "英文",
+          "content": "Hmm, who's there...? Oh, it's you, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "어, 누구? ……아~ 박사였구나."
+        },
+        {
+          "language": "繁体中文",
+          "content": "唔，誰呀？......是博士啊。"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我在做新的标本箱，博士要来看看吗？"
+        },
+        {
+          "language": "日文",
+          "content": "いま新しい標本ケースを作っているんだよ。ドクターも興味ある？"
+        },
+        {
+          "language": "英文",
+          "content": "I'm putting together a new specimen box, Doctor. Want to see it?"
+        },
+        {
+          "language": "韩文",
+          "content": "새로운 표본 상자를 만들고 있는데. 박사도 한번 볼래?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我在做新的標本箱，博士要來看看嗎？"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哇，大家都聚在一起庆祝，真好——只是，我突然觉得这样的节日一年只有一次，好可惜啊！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "去甲板上吹吹风吗？"
+        },
+        {
+          "language": "日文",
+          "content": "甲板で息抜きでもする？"
+        },
+        {
+          "language": "英文",
+          "content": "Want to head up to the deck for some fresh air?"
+        },
+        {
+          "language": "韩文",
+          "content": "갑판에서 바람이라도 좀 쐴래?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "去甲板上吹吹風嗎？"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我在罗德岛也有了一段时间了，和博士还有医疗部的大家一起工作，帮助了很多人，现在坐下来想一想，我收获了许多之前没有察觉过的宝贵经历。这些我都会好好记在心里的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

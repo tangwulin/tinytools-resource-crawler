@@ -1,0 +1,991 @@
+{
+  "name": "角峰",
+  "charaKey": "char_199_yak",
+  "images": [
+    "https://media.prts.wiki/6/6c/%E7%AB%8B%E7%BB%98_%E8%A7%92%E5%B3%B0_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/4/47/%E7%AB%8B%E7%BB%98_%E8%A7%92%E5%B3%B0_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/c/cb/%E7%AB%8B%E7%BB%98_%E8%A7%92%E5%B3%B0_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_199_yak"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_199_yak"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_199_yak"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_199_yak"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您的货物我已经搬过去了。举手之劳，别客气。"
+        },
+        {
+          "language": "日文",
+          "content": "お荷物でしたらそちらに運んでおきました。大したことではありませんので、お気になさらないでください。"
+        },
+        {
+          "language": "英文",
+          "content": "I've moved your belongings where you wanted. No worries, it wasn't heavy."
+        },
+        {
+          "language": "韩文",
+          "content": "짐이라면 그쪽으로 옮겨두었습니다. 별것 아니니 신경 쓰지 마십시오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "您的貨物我已經搬過去了。舉手之勞，別客氣。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "盾牌，就是守护。"
+        },
+        {
+          "language": "日文",
+          "content": "この盾こそ、皆を守る砦なのです。"
+        },
+        {
+          "language": "英文",
+          "content": "The shield is a symbol of a steadfast guardian."
+        },
+        {
+          "language": "韩文",
+          "content": "이 방패야말로, 모두를 지키는 요새입니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "盾牌，就是守護。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我从银灰少爷......不，老爷。我从老爷少年时就开始负责保护他。"
+        },
+        {
+          "language": "日文",
+          "content": "俺は若君……いえ、我が主を幼少の頃からずっとお守りして参りました。"
+        },
+        {
+          "language": "英文",
+          "content": "I've been responsible for protecting Young Master SilverAsh... I mean, Master SilverAsh... ever since he was young."
+        },
+        {
+          "language": "韩文",
+          "content": "저는 도련님을… 아니… 주인님을, 어렸을 때부터 지켜왔습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我從銀灰少爺......不，老爺。我從老爺少年時就開始負責保護他。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "谈论这个是不礼貌的，但恩雅小姐的遭遇......确实令人感到忧伤。她理应有更好的生活。"
+        },
+        {
+          "language": "日文",
+          "content": "ぶしつけな話ですが、エンヤ様の御身に起きたことは……実にお気の毒でした。あの方にはもっと明るい未来があったはずなのに。"
+        },
+        {
+          "language": "英文",
+          "content": "It's not exactly polite to talk about Miss Enya behind her back, but... *sigh* I do pity Miss Enya for what she has suffered. She really deserves a better life."
+        },
+        {
+          "language": "韩文",
+          "content": "무례한 이야기일 수 있습니다만, 엔야 님께 일어난 일은…… 정말 안타까웠습니다. 그분께는 더 밝은 미래가 기다리고 있었을 텐데……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "談論這個是不禮貌的，但恩雅小姐的遭遇......確實令人感到憂傷。她理應有更好的生活。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "万一，这面盾有什么损坏的话，就去找那位叫火神的工匠修理，没错吧？"
+        },
+        {
+          "language": "日文",
+          "content": "万が一、この盾が壊れるようなことがあれば、その際は「ヴァルカン」という方に修理を頼めばいいと伺っております。間違いございませんか？"
+        },
+        {
+          "language": "英文",
+          "content": "If my shield gets damaged, I should take it to the artisan called Vulcan for repairs. Is that correct?"
+        },
+        {
+          "language": "韩文",
+          "content": "만에 하나, 이 방패가 부서지게 된다면, 그때는 '벌컨' 이라는 분께 수리를 맡기면 된다고 들었습니다. 맞습니까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "萬一，這面盾有什麼損壞的話，就去找那位叫火神的工匠修理，沒錯吧？"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "意外，真是意外。那位铁匠的手艺真的不错。我得好好谢谢她才行。"
+        },
+        {
+          "language": "日文",
+          "content": "意外、実に意外でした。あの鍛冶屋の腕は本物です。きちんとお礼をしないといけませんね。"
+        },
+        {
+          "language": "英文",
+          "content": "This is far beyond my expectation. That artisan is truly skilled. I need to thank her properly."
+        },
+        {
+          "language": "韩文",
+          "content": "이거 참… 이 정도일 줄은 몰랐습니다. 그 대장장이의 실력은 진짜더군요. 제대로 보답을 해야겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "意外，真是意外。那位鐵匠的手藝真的不錯。我得好好謝謝她才行。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛的生活十分有趣，相比之下，在雪境度过的日子都比较平淡。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスでの生活は刺激に満ちていますね。それに比べると、雪境の生活はずいぶん穏やかなものでした。"
+        },
+        {
+          "language": "英文",
+          "content": "Life at Rhodes Island is fun. The Snow Realm is rather bland in comparison."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드의 생활은 매우 흥미롭군요. 이곳에 비하면, 히라에서의 생활은 무척 평온한 편이었습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "羅德島的生活十分有趣，相比之下，在雪境度過的日子都比較平淡。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "虽然老爷派我来保护二小姐，老实说，我不认为二小姐是会坐在那里乖乖等人来保护她的类型。"
+        },
+        {
+          "language": "日文",
+          "content": "我が主からはエンシア様の警護を命じられていますが、正直、おとなしく守られるような方とは思えませんね。"
+        },
+        {
+          "language": "英文",
+          "content": "Master did send me to protect Ensia. But I honestly don't think she's the type who would sit there and ask to be protected."
+        },
+        {
+          "language": "韩文",
+          "content": "제 주인님께선 엔시아 님을 경호하라 명하셨습니다만, 솔직히… 얌전히 경호를 받으실 것 같진 않군요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "雖然老爺派我來保護二小姐，老實說，我不認為二小姐是會坐在那裡乖乖等人來保護她的類型。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "银灰老爷对你如此器重的原因，我多少也有点明白了。以后请把我也当作你的盾。"
+        },
+        {
+          "language": "日文",
+          "content": "我が主、シルバーアッシュ様があなたのことを評価している理由が、俺にも少し理解できたような気がします。"
+        },
+        {
+          "language": "英文",
+          "content": "I am slowly starting to understand why Master SilverAsh holds you in such high regard. Doctor, from this day, feel free to command me as your shield."
+        },
+        {
+          "language": "韩文",
+          "content": "제 주인이신, 실버애쉬 님께서 당신을 높게 평가하고 있는 이유를…… 저도 조금은 이해하게 된 것 같습니다. 앞으로는 저도 당신의 방패로 삼아 주십시오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "銀灰老爺對你如此器重的原因，我多少也有點明白了。以後請把我也當作你的盾。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有时候也会忽然想念起雪境的生活。"
+        },
+        {
+          "language": "日文",
+          "content": "時々、雪境での生活が恋しくなりますね。"
+        },
+        {
+          "language": "英文",
+          "content": "Sometimes, I suddenly start missing my life in the Snow Realm."
+        },
+        {
+          "language": "韩文",
+          "content": "가끔은, 히라에서 살던 때가 그리워질 때도 있습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "有時候也會忽然想念起雪境的生活。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "同盟者，在此对您致以雪境之礼。我是银灰老爷此次派驻的护卫之一，代号为角峰。"
+        },
+        {
+          "language": "日文",
+          "content": "我が主の盟友よ、あなたに雪境の祝福を。俺はシルバーアッシュ様をお守りする盾、マッターホルンと申します。"
+        },
+        {
+          "language": "英文",
+          "content": "Ally, I salute you in true Snow Realm fashion. My codename is Matterhorn, and I am one of the guards dispatched here by Master SilverAsh."
+        },
+        {
+          "language": "韩文",
+          "content": "내 주인의 동맹이여, 당신에게 히라의 축복이 있기를… 저는 실버애쉬 님을 지키는 방패, 마터호른이라고 합니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "同盟者，在此對您致以雪境之禮。我是銀灰老爺此次派駐的護衛之一，代號為角峰。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "感谢。"
+        },
+        {
+          "language": "日文",
+          "content": "感謝します。"
+        },
+        {
+          "language": "英文",
+          "content": "You have my gratitude."
+        },
+        {
+          "language": "韩文",
+          "content": "감사합니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "感謝。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "承蒙您的另眼相待，实在愧不敢当。"
+        },
+        {
+          "language": "日文",
+          "content": "これほどのご期待を寄せていただけるとは、大変恐縮です。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you for the approval, Doctor. I am greatly flattered."
+        },
+        {
+          "language": "韩文",
+          "content": "이 정도로 많은 기대를 받을 수 있다니, 황송할 따름입니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "承蒙您的另眼相待，實在愧不敢當。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "即使这盾下一刻粉碎，我也绝不会退后半步。此举无关忠义，只是信念使然。"
+        },
+        {
+          "language": "日文",
+          "content": "たとえこの盾が、今まさに砕け散ろうとしていても、俺は一歩たりとも退きません。忠誠心のためではなく、俺自身の信念を貫くために。"
+        },
+        {
+          "language": "英文",
+          "content": "I will not step back, not even if this shield shatters the very next second. Not because of my loyalty, but because of my conviction."
+        },
+        {
+          "language": "韩文",
+          "content": "설령 이 방패가 지금 당장 산산조각이 난다 해도, 전 한 발자국도 물러서지 않겠습니다. 충성심 때문이 아니라, 제 스스로의 신념을 관철하기 위해…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "即使這盾下一刻粉碎，我也絕不會退後半步。此舉無關忠義，只是信念使然。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "听从吩咐。"
+        },
+        {
+          "language": "日文",
+          "content": "拝命します。"
+        },
+        {
+          "language": "英文",
+          "content": "At your service."
+        },
+        {
+          "language": "韩文",
+          "content": "분부 받들겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "聽從吩咐。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不敢当。"
+        },
+        {
+          "language": "日文",
+          "content": "恐れ入ります。"
+        },
+        {
+          "language": "英文",
+          "content": "I am honored."
+        },
+        {
+          "language": "韩文",
+          "content": "황송합니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "不敢當。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "各位，由我护卫。"
+        },
+        {
+          "language": "日文",
+          "content": "全員、俺が守ってみせる。"
+        },
+        {
+          "language": "英文",
+          "content": "I shall protect the team."
+        },
+        {
+          "language": "韩文",
+          "content": "모두, 내가 지켜내겠다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "各位，由我護衛。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这是有准备的开始。"
+        },
+        {
+          "language": "日文",
+          "content": "準備は整っています。"
+        },
+        {
+          "language": "英文",
+          "content": "All is ready."
+        },
+        {
+          "language": "韩文",
+          "content": "준비는 다 해놨습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這是有準備的開始。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我可以担当先锋。"
+        },
+        {
+          "language": "日文",
+          "content": "俺が先駆けとなりましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "I shall be your vanguard."
+        },
+        {
+          "language": "韩文",
+          "content": "제가 선봉에 서겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我可以擔當先鋒。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的盾准备好了。"
+        },
+        {
+          "language": "日文",
+          "content": "この盾、いつでもいけます。"
+        },
+        {
+          "language": "英文",
+          "content": "My shield is ready."
+        },
+        {
+          "language": "韩文",
+          "content": "제 방패는 언제든 준비되어 있습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我的盾準備好了。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哼。"
+        },
+        {
+          "language": "日文",
+          "content": "ふん。"
+        },
+        {
+          "language": "英文",
+          "content": "Hm!"
+        },
+        {
+          "language": "韩文",
+          "content": "흠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "哼。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "喝！"
+        },
+        {
+          "language": "日文",
+          "content": "はーっ！"
+        },
+        {
+          "language": "英文",
+          "content": "Hoo-yah!"
+        },
+        {
+          "language": "韩文",
+          "content": "하앗!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "喝！"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "自讨苦吃。"
+        },
+        {
+          "language": "日文",
+          "content": "因果応報だ。"
+        },
+        {
+          "language": "英文",
+          "content": "Retribution!"
+        },
+        {
+          "language": "韩文",
+          "content": "자업자득이다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "自討苦吃。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这不止是力量而已。"
+        },
+        {
+          "language": "日文",
+          "content": "力押しだけと思うな。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm not here just for show!"
+        },
+        {
+          "language": "韩文",
+          "content": "힘으로만 밀어붙인다고 생각하지 마라."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這不止是力量而已。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有此信念，便能化身鬼神！"
+        },
+        {
+          "language": "日文",
+          "content": "信念を貫くためならば、鬼神にでもなってやる！"
+        },
+        {
+          "language": "英文",
+          "content": "With my conviction, I shall bring any monster to its knees!"
+        },
+        {
+          "language": "韩文",
+          "content": "신념을 관철하기 위해서라면, 귀신이라도 되어주마!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "有此信念，便能化身鬼神！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你的觉悟根本不够！"
+        },
+        {
+          "language": "日文",
+          "content": "覚悟が足りん！"
+        },
+        {
+          "language": "英文",
+          "content": "You don't have what it takes!"
+        },
+        {
+          "language": "韩文",
+          "content": "각오가 부족하다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你的覺悟根本不夠！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "还没有发挥出百分之百的力量！"
+        },
+        {
+          "language": "日文",
+          "content": "まだ全力ではありません。これからです！"
+        },
+        {
+          "language": "英文",
+          "content": "I wasn't even giving my all!"
+        },
+        {
+          "language": "韩文",
+          "content": "아직 전력을 다하진 않았습니다. 이제부터 입니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "還沒有發揮出百分之百的力量！"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真是不痛不痒的进攻。"
+        },
+        {
+          "language": "日文",
+          "content": "痛くも痒くもない攻撃でしたね。"
+        },
+        {
+          "language": "英文",
+          "content": "Their strikes can barely tickle me."
+        },
+        {
+          "language": "韩文",
+          "content": "아프지도 간지럽지도 않은 공격이었군요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "真是不痛不癢的進攻。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "下次一定会为您献上完美的胜利。"
+        },
+        {
+          "language": "日文",
+          "content": "次こそ、完璧な勝利を捧げます。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll pull off a perfect victory next time for you, I promise."
+        },
+        {
+          "language": "韩文",
+          "content": "다음에야말로, 완벽한 승리를 바치겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "下次一定會為您獻上完美的勝利。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不该如此轻视敌人的，这是代价。"
+        },
+        {
+          "language": "日文",
+          "content": "油断の代償が、このざまか……。"
+        },
+        {
+          "language": "英文",
+          "content": "I should not have taken the enemies lightly. Now I pay the price."
+        },
+        {
+          "language": "韩文",
+          "content": "방심한 대가가, 이 꼴이란 말인가…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不該如此輕視敵人的，這是代價。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真是不错的房间，装修讲究，气氛祥和。"
+        },
+        {
+          "language": "日文",
+          "content": "良い部屋ですね。インテリアにこだわりを感じます。雰囲気も穏やかでとても居心地が良いです。"
+        },
+        {
+          "language": "英文",
+          "content": "Very nice room, this one. Furnished tastefully, with a peaceful atmosphere."
+        },
+        {
+          "language": "韩文",
+          "content": "좋은 방이군요. 인테리어에도 신경을 쓴 게 느껴집니다. 분위기도 차분한 게, 마음이 놓이는군요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "真是不錯的房間，裝修講究，氣氛祥和。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯。"
+        },
+        {
+          "language": "日文",
+          "content": "はい。"
+        },
+        {
+          "language": "英文",
+          "content": "Mhmm."
+        },
+        {
+          "language": "韩文",
+          "content": "예."
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯。"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这是我的拿手菜，味道怎么样。"
+        },
+        {
+          "language": "日文",
+          "content": "俺の得意料理です。いかがでしょうか。"
+        },
+        {
+          "language": "英文",
+          "content": "This is my signature dish. How do you like it?"
+        },
+        {
+          "language": "韩文",
+          "content": "제가 잘하는 요리입니다. 어떠십니까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這是我的拿手菜，味道怎麼樣。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "身为护卫，新年这一天就更不能懈怠，危险不会因为节日而消失，相反，可能会在人们懈怠的时候出现。博士，罗德岛还算安全，但也不要掉以轻心。新年快乐。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您好，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "こんにちは、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Good day, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "안녕하십니까, 박사님."
+        },
+        {
+          "language": "繁体中文",
+          "content": "您好，博士。"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "雪境之外的事情，其实我并不是那么地了解，我只是履行老爷交给我的职责而已。我想我的见识可能还是太少了，即便只是一个守卫者，我也应当去了解更多的事情，看得更远。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

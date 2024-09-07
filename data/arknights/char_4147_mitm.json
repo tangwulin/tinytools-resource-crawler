@@ -1,0 +1,535 @@
+{
+  "name": "渡桥",
+  "charaKey": "char_4147_mitm",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4147_mitm"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4147_mitm"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "怎么还要干活？我这趟来罗德岛可是打算好好休个假的。只是整理资料的话倒也不是不行，这边的加班津贴是怎么算的来着？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你要的报告我放桌上了。对，只有一页，卡兹戴尔哪有那么多新鲜事。你还想了解些什么，比如知识圣殿的大门朝哪儿开？别难为我呀，我只是个贫民区的低级闸口，哦，按你们这儿的说法叫情报员。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们那儿的规矩和罗德岛的不太一样，也不会白纸黑字地贴出来——毕竟纸张很贵，识字的更没几个。出了那几个街区，就没人再叫我“顾问”。你愿意这么喊也行，但可别指望我掺和你的麻烦事。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "手指上的绷带？装饰而已。说来有趣，前几天在集市上教训了一群找茬的小混混，菜摊老板看见绷带，还以为我受了伤，非得多送我几根葱。嗯？什么，又渗血了？咳，甜菜汁罢了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "黑面包叫“烂砖”，大衣叫“墙皮”，香肠？香肠就叫香肠啊。为什么？你会给三四年才吃得上一回的东西起绰号吗？卡兹戴尔的街头黑话其实也就那么回事，你去工地上转一圈，就什么都能见着了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛上这么多人，居然没有天天吵架？在我们那儿，为了管道阀门转半圈还是一圈都能打起来，那次我被几十把草叉和锄头指着头，硬是把他们都劝回去了。我留到最后才走，实在是腿软了走不动。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要吃颗糖吗？我出门总会带些糖块，以防遇到拦路的小鬼。扔出一把糖块，哪个小孩敢第一个伸手去捡，剩下的便顾不上我，转头就去揍那个先伸手的。什么战术不战术的？讲点趣事而已，你想多了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这些优惠券你都不要了？别扔啊，我快凑够一顿免费烤肉了。绝对没弄错，规定只说不能单次叠加使用，我吃一盘结一次账，有问题吗？喂，别告诉可露希尔！我这里还有张双人半价券，今晚一起？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "下季度的行动预算好像又多了一些？我不是情报贩子，但我同意他们的一条行规：有价值的消息只留给有价值的人。我从来不拿芝麻绿豆的小事来浪费你的时间，可并不只是因为你开的价钱高。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你先忙着，我要歇一会儿了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这是我的介绍信，人事部已经核验过了，稍等——找到了。请见谅，这身衣服口袋太多，容易弄混。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这可比看小混混打架有意思多了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您的认可比这枚勋章更贵重，博士。顺便一问，这是纯赤金的吗？咬着有点硬啊。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这么看，我现在可是正儿八经地给罗德岛卖命了。但你也肯定不希望我真的豁出命去。要我说呀，咱们都好好活着，一直活到把自己的事情做完的那一天。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好不容易休息几天......好啦，放心，我什么时候掉过链子？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "责任重大呀，各位，还请多多担待。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "现在分发作战计划，有不懂的自己琢磨。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "无需示警，直接动手。别给他们反应的机会。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "走了走了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这就到我了？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "局势复杂，这儿视野正好。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "点子扎手，是不是得发双倍工资？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不需要向你解释。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "还有心思闲聊吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "抱歉，现在不接受投降。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "晕头转向了吧？这就对了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没想到会这么惊险，以后的活儿要都是这种难度，只买一份保险可不够。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "手抖是正常现象，是尽了全力的证明......喂，都说了是正常现象！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不必盲目追击，他们逃不远的，咱们先休整休整。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别慌，大伙跟着我走，这边有退路！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "地方还算宽敞，不知道伙食怎么样。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小心扎到手指哦。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "今天的水果半价，还可以用积分兑换——嘘，别声张，快去买。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "以前，只有在安魂祭礼的游行上，才看得到这么多灯火和装饰，虽然寓意大不相同，但都是一样动人心魄。下去逛逛？不了，我在这里看看就好。等会儿还有新年商品特卖会，我得早点去排队。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，休息得怎么样？我好像还有点困呢。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，这些报告全部按你的要求归档封存了。我还准备了一篇告别词，你可以一边核销访问权限，一边听着。去年你最感兴趣的情报是——不用读了吗？但你昨天还说，常回头看才能把路走直。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,538 @@
+{
+  "name": "娜仁图亚",
+  "charaKey": "char_4138_narant",
+  "images": [
+    "https://media.prts.wiki/9/95/%E7%AB%8B%E7%BB%98_%E5%A8%9C%E4%BB%81%E5%9B%BE%E4%BA%9A_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/9/97/%E7%AB%8B%E7%BB%98_%E5%A8%9C%E4%BB%81%E5%9B%BE%E4%BA%9A_2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4138_narant"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4138_narant"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好啊，我负责组织训练，准备竞技大会，驯养驮兽，你看看文书，写好讲话稿就行......我分配得不对？给你的不是最轻松的活儿吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "割喉放血，切筋斩骨，刃口不卷，花纹完好，怎么样，我这刀漂亮吧？......又不会在你衣服上擦血，你后退什么？我这是刚在甲板上杀了几只角跳兽，准备今晚招待你们。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没错，是你们研究的毒剂，我就借来看看嘛。我确实打不开实验室的锁，所以趁白天门开着的时候，在里面贴了个“不要锁门”。嗯？看你的表情......你知道这件事？我明明已经很小心了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "金币堆成的山，我以前也坐过。一个王酋觊觎另一个王酋的宝贝，我们替他干了活，承诺的报酬一枚不少——可惜是铁镀金。骗子？他的领地，怎么铸金币当然是他说了算。但出了他的城，我说了算。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "连你们的“高级染发剂”也染不上色？看来乔装潜入的活儿还是得找手下去干。哎，我真想不通，那么多人天天讲“血统”，但它根本没让我的血比别人红啊，只是让我的头发特别艳。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我看天就知道该去哪里。南风来时避开饥饿的野兽，洪涝前把木材运到下游；热浪里没人敢转运古画，久旱后遍地都是祈福的礼器。现在我跟着你们追天灾，以后嘛，说不定可以带一帮人去追太阳。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我做手工活可是得心应手。我们那里有句话：“一头死兽有一百种用途，一个活人就该掌握一百种利用野兽的手艺。”所以，别跟我客气了，乖乖坐在这里，等我给你的兜帽绳编完花、串上珠，好吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "以前认识的一些指挥官，战术方面我也很欣赏，但他们总吓唬手下，还会找我麻烦。你不一样，各方面我都挺喜欢。不过阿米娅才是你们老大，所以，将来我能名扬整个萨尔贡，你大概能名扬半个吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的亲族，朋友，手下，就像星星一样散得到处都是。可我们抬起头又能看到同样的夜空，这多有意思啊。你想去看星星吗？我有时会想，把星星聚到一起会怎么样？......你说什么？大爆炸？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "他们都说你是个工作狂，我看你也没忘记睡觉嘛......还是说，手头的任务你提不起兴趣？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "多谢你们让我搭顺风车，要是我娜仁图亚·卡普丹死在天途之中，可是萨尔贡的一大损失......没听说过？没关系，总有一天这个名字会变得无人不知。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这录像系统可真好用！要是我也有一套......不不不，太贵了，还是直接在沙子上画作战图吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "职级、头衔、合作信誉等级，这些都是好东西，但最好的还是借几个手下给我，你觉得呢？至于还不还——就要看他们本人的意愿了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "今天送货，明天救人，我们还真合作干成了不少事情。哎，先说好，我有时候得看天决定自己去哪里，如果哪天我不得不离开......你可不要太想我。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "扬起鞭子，卷起黄沙，遮蔽日光，然后想要什么，就拿走什么。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "目标给我，人给我，够了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "太阳位置正好，前往埋伏地点。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "他们不会听到我的脚步声，最多只会听到刀把风切断的声音。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我有个想法。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别紧张，我总能帮到你的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "毒药和陷阱，这是战术。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "幻觉和威吓，这也是战术。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你最害怕的是什么？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "砰——太阳被我吞掉啦！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们想和我抢东西？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别做梦了。在我面前，没有好梦。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......我吓到自己人了？给我点时间，我去刚才打架的地方走走，让血凉下来。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你也好，你身边的人也好，怎么个个都这么靠谱？唉，我真羡慕这艘船的老大。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们偶尔也会把金币丢进河里，祝愿自己在需要的时候捡到它。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你的表情怎么不太好？刚刚不就是一次前期尝试吗？计划嘛，总是要尝试，调整，再尝试很多次，最后变成一个顶用的方案。这就是我总能成功的诀窍。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这床真软，这空调真凉快！我只有一个小问题......顺风车上的住宿也免费吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哈哈，我也喜欢你！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真可惜，你没有自己的刀，要是有的话，我现在就可以顺手帮你打磨一下。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "来，跳舞吧！节日的音乐都是好音乐！它有拍子，它会带你，你什么都不用想，只要跟着跺地，拍打自己的身体......我打的是你的手？我喝多了？那多正常啊，谁叫你们的酒不要钱呢？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "怎么样，博士，有没有做什么美梦？想到我们的下一个目标了吗？梦到的也行。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "很多人说我过于贪心，我看你们也一样嘛，我想要最好的金银珠宝，你们想要争那个最好的结果。就算如愿少，失望多，就算抓在手里的迟早会像沙子一样流走......是啊，难怪我这么喜欢你。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

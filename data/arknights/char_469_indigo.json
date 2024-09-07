@@ -1,0 +1,983 @@
+{
+  "name": "深靛",
+  "charaKey": "char_469_indigo",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_469_indigo"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_469_indigo"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_469_indigo"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯......嗯？你叫我吗？不，没有不理你......我只是，在想别的。"
+        },
+        {
+          "language": "日文",
+          "content": "うーん……えっ？私を呼んだ？いえ、無視したわけではありません……ただ、考え事をしていただけです。"
+        },
+        {
+          "language": "英文",
+          "content": "Hm... Huh? Did you say something? W-Why, I'm not ignoring you... I'm just... thinking of something else."
+        },
+        {
+          "language": "韩文",
+          "content": "으음…… 어? 저 불렀나요? 아뇨, 무시한 건 아니고요…… 그냥 생각을 좀 하고 있었을 뿐이에요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯......嗯？你叫我嗎？不，沒有不理你......我只是，在想別的。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我......不太擅长说话。以前总是一个人。刚到外面的时候，有些人很怕我。还有人骗走了我的行李。不过没关系......只要法杖还在，就还能工作，不至于饿很久。"
+        },
+        {
+          "language": "日文",
+          "content": "私……お話するのは苦手で、いつも一人でした。外に出たばかりの頃は、私を怖がる人もいましたし、荷物を騙し取られたこともあります。ですがご心配には及びませんよ。この杖さえあれば働けるので、食いつなぐことはできていましたから。"
+        },
+        {
+          "language": "英文",
+          "content": "I... I'm not very good at making conversation. I've always been alone. When I first left home to the outside world, I came across many people who were afraid of me. I even got my things stolen. It's no problem, though... As long as I still have my staff, I can work, so I don't often go hungry for long."
+        },
+        {
+          "language": "韩文",
+          "content": "전…… 대화하는 게 서툴러서 항상 혼자였어요. 바깥에 나온 지 얼마 안 됐을 무렵엔 저를 무서워하는 사람들도 있었고, 속여서 짐을 빼앗은 사람도 있었죠. 하지만 걱정하실 필요는 없어요. 이 지팡이만 있으면 일할 수 있으니까, 어떻게든 먹고 살 수는 있었거든요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我......不太擅長說話。以前總是一個人。剛到外面的時候，有些人很怕我。還有人騙走了我的行李。不過沒關係......只要法杖還在，就還能工作，不至於餓很久。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "灯塔里的日子并不枯燥。海面，总在变化。可老师把我赶了出来。她说我需要多看看这片大地，才能守好海边一隅。所以，我来到了这里。"
+        },
+        {
+          "language": "日文",
+          "content": "灯台での暮らしは、別に退屈ではありませんでした。海面が色んな表情を見せてくれましたから。ですが先生に、この大地をもっと見ないと海の片隅を守ることはできないと言われて、灯台の外に追い立てられました。それで、ここに来ることになったんです。"
+        },
+        {
+          "language": "英文",
+          "content": "Life inside the lighthouse was hardly boring at all. The seas are always changing. However, my teacher drove me out of the lighthouse, and said to me, 'If you don't see more of this world, you won't be able to protect even a small corner of the sea.' That's how I made my way here."
+        },
+        {
+          "language": "韩文",
+          "content": "등대 생활이 딱히 따분하진 않았어요. 바다가 다양한 표정을 보여줬거든요. 하지만 선생님께서 이 대지를 더 보지 않으면 바다의 한구석을 지킬 수 없다 하시면서 등대 밖으로 쫓아내셨죠. 그래서, 여기로 오게 된 거예요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "燈塔裡的日子並不枯燥。海面，總在變化。可老師把我趕了出來。她說我需要多看看這片大地，才能守好海邊一隅。所以，我來到了這裡。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "蓝毒送了我一副新手套，是不是很好看？她说材质也改良了，这样的话，我和那些精通毒理的朋友们相处，更不容易误触有毒物品。其实，因为总是不小心碰到......我的身体好像也习惯啦。"
+        },
+        {
+          "language": "日文",
+          "content": "アズリウスさんから新しい手袋を貰ったんですよ、綺麗でしょう？改良型の生地を使っていて、これがあれば、毒使いのお友達と仲良くしても、毒に接触しにくくなるそうです。ですが実は、いつもうっかり触ってしまうので……身体の方はもう毒に慣れてしまったみたいなんです。"
+        },
+        {
+          "language": "英文",
+          "content": "Blue Poison gave me a new pair of gloves. Pretty, aren't they? She said the materials are improved as well. With these, it'll be harder for me to come in contact with any poison even if I hang out with my poison-wielding friends more. Actually, since I've been touching poisons by mistake all the time... it seems I may have built up an immunity."
+        },
+        {
+          "language": "韩文",
+          "content": "블루포이즌 씨한테 새 장갑을 받았어요. 예쁘죠? 개량형 원단으로 만들어져서 이게 있으면 독을 가진 친구랑 있어도 독에 잘 접촉되지 않게 해준대요. 하지만 사실, 늘 저도 모르게 만져 버려서…… 몸은 이미 독에 익숙해진 것 같아요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "藍毒送了我一副新手套，是不是很好看？她說材質也改良了，這樣的話，我和那些精通毒理的朋友們相處，更不容易誤觸有毒物品。其實，因為總是不小心碰到......我的身體好像也習慣啦。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "过去的每一夜，我都在凝视那片海。我们在守望什么，镇子上无人知晓，老师也不曾说过。我只知道，黑暗中必须有灯塔。我将坚守，直至那一天来到。"
+        },
+        {
+          "language": "日文",
+          "content": "これまで夜になると、あの海を眺めて過ごすのが常でした。私たちが何を守っているのかは、町の人たちは誰も知りませんし、先生も教えてくれたことはありません。ですが、闇の中に灯台が必要だということだけはわかります。必ず守り抜きます、あの日が訪れるまで。"
+        },
+        {
+          "language": "英文",
+          "content": "I used to gaze out at the sea each and every night. No one in town knew what it was we were guarding, and my teacher never told me. All I know is that, where there is darkness, there must always be lighthouses. I will stand firm, with all my power, until that day comes."
+        },
+        {
+          "language": "韩文",
+          "content": "지금까지는 밤이 되면 그 바다를 보는 게 일상이었어요. 저희가 뭘 지키고 있는 건지는 마을 사람들도 전혀 모르고, 선생님도 가르쳐주지 않았죠. 하지만 어둠 속에 등대가 필요하다는 것만은 알고 있어요. 반드시 지켜내겠어요, 그날이 찾아올 때까지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "過去的每一夜，我都在凝視那片海。我們在守望什麼，鎮子上無人知曉，老師也不曾說過。我只知道，黑暗中必須有燈塔。我將堅守，直至那一天來到。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你看到的光，有人说，是源石技艺。可老师说，这是我们内心的力量。只要有光的指引，行驶在夜雾里的人，也能抵抗海浪的拉扯，找到正确的航向。我会努力守住这光亮。"
+        },
+        {
+          "language": "日文",
+          "content": "この光、アーツだと言う方もいますが、先生のお話によると、これは心の力だそうです。光の導きさえあれば、霧の夜を運航しても、波に呑まれずに正しい方向を把握できます。ですから、精一杯この光を守っていくつもりです。"
+        },
+        {
+          "language": "英文",
+          "content": "Some people say this light is Originium Arts, but according to my teacher, this is a power that originates from my heart. With the light's guidance, those who sail through the foggiest nights will be able to resist the raging tides and find the correct bearing. That is why I will do my best to protect this light."
+        },
+        {
+          "language": "韩文",
+          "content": "이 빛을 아츠라고 부르는 분들도 있지만, 선생님 이야기에 따르면 이건 마음의 힘이라고 해요. 빛의 인도만 있으면 밤안개 속을 항해하더라도 파도에 휩쓸리지 않고 올바른 방향을 파악할 수 있죠. 그래서 전 있는 힘껏 이 빛을 지키려고 해요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你看到的光，有人說，是源石技藝。可老師說，這是我們內心的力量。只要有光的指引，行駛在夜霧裡的人，也能抵抗海浪的拉扯，找到正確的航向。我會努力守住這光亮。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "觉得我尾巴的颜色很漂亮？谢谢......没关系，你可以摸的。虽然是这个颜色，但并没有毒哦。"
+        },
+        {
+          "language": "日文",
+          "content": "私の尻尾の色が綺麗？ありがとうございます……大丈夫ですよ、あなたなら触っても構いません。こんな色ですけど、毒はありませんから。"
+        },
+        {
+          "language": "英文",
+          "content": "My tail has a beautiful color? Thank you very much. It's okay. You may touch it. Despite the color, it's not poisonous."
+        },
+        {
+          "language": "韩文",
+          "content": "제 꼬리 색이 예쁘다고요? 고맙습니다…… 괜찮아요, 당신이라면 만져도 돼요. 색은 이래도 독은 없으니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "覺得我尾巴的顏色很漂亮？謝謝......沒關係，你可以摸的。雖然是這個顏色，但並沒有毒哦。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "头发，太长了。会缠到。能帮我拿一下吗？整理起来会花一点时间。好了以后，上战场会更方便。我想更好地帮助你。"
+        },
+        {
+          "language": "日文",
+          "content": "髪が長くなりすぎると、よく絡まってしまいます。少し持ち上げていてもらえますか？整えるのは少し時間がかかりますが、その方が戦場で動きやすいので。私ももっとあなたの力になりたいんです。"
+        },
+        {
+          "language": "英文",
+          "content": "My hair can get tangled up if they get too long. Could you hold it for me? It takes time to get my hair set properly, but it makes it much easier to stay on the move while I'm on the battlefield. I want to be able to help you even more."
+        },
+        {
+          "language": "韩文",
+          "content": "머리가 너무 길어지면 자주 엉켜버려서요. 잠깐 들어 올려주실래요? 정리하는 데 시간이 좀 걸리지만, 그편이 전장에서도 움직이기 편하거든요. 저도 더욱더, 당신의 힘이 되고 싶어요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "頭髮，太長了。會纏到。能幫我拿一下嗎？整理起來會花一點時間。好了以後，上戰場會更方便。我想更好地幫助你。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "最近我开始觉得，人也能和灯塔一样......有的人，甚至比灯塔照得更远、更亮。比如说，博士你。在回去之前，我想在你身边待久一些，可以吗？"
+        },
+        {
+          "language": "日文",
+          "content": "最近思うんです、人も灯台と同じだって……灯台よりも明るくて、遠くを照らせる人だっています。例えば、ドクターのような人。帰る前に、もう少しあなたの側にいてもいいですか？"
+        },
+        {
+          "language": "英文",
+          "content": "I've been starting to think that humans and lighthouses are very much alike... Some people can shine much farther and brighter than even lighthouses. Like you, Doctor. Would it be okay if I stay beside you for a little longer before I go back?"
+        },
+        {
+          "language": "韩文",
+          "content": "요즘 이런 생각을 해요. 사람도 등대랑 똑같다고…… 등대보다 더 밝고 멀리까지 비추는 사람도 있는 걸요. 예를 들면 박사님 같은 분처럼요. 돌아가기 전에 조금만 더, 당신 곁에 있어도 될까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "最近我開始覺得，人也能和燈塔一樣......有的人，甚至比燈塔照得更遠、更亮。比如說，博士你。在回去之前，我想在你身邊待久一些，可以嗎？"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你睡着的时候，不需要我看着吗？咦，叫我一起睡？我、我试试......"
+        },
+        {
+          "language": "日文",
+          "content": "あなたが寝ている間、見張らなくていいんですか？え、一緒に寝る？そ、そうしてみます……"
+        },
+        {
+          "language": "英文",
+          "content": "You don't need me to keep watch while you're asleep? Huh? You want me to join you? I-I'll try..."
+        },
+        {
+          "language": "韩文",
+          "content": "당신이 자는 동안 지켜 드리지 않아도 되나요? 네? 같이 자자고요? 그, 그렇게 해볼게요……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你睡著的時候，不需要我看著嗎？咦，叫我一起睡？我、我試試......"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你好，博士，我叫艾莉亚......呃，不对，是深靛。我以前是一名灯塔看守人......见习的。现在是一名术师，还是......见习的。"
+        },
+        {
+          "language": "日文",
+          "content": "はじめまして、ドクター。アリアと申し……あ、いえ、インディゴと申します。これまでは灯台の守り人……の見習いをしていました。これからは術師として……もちろん見習いとして、よろしくお願いします。"
+        },
+        {
+          "language": "英文",
+          "content": "Hello, Doctor. My name is Aria... Uh, my mistake. It's Indigo. I used to be a lighthouse keeper... apprentice. Now, I'm a Caster... Also an apprentice. Please look after me."
+        },
+        {
+          "language": "韩文",
+          "content": "처음 뵙겠습니다, 박사님. 아리아라고 합…… 아, 아니, 인디고라고 합니다. 지금까지는 등대지기…… 견습생이었어요. 앞으론 캐스터로서…… 물론 견습생으로서, 잘 부탁드릴게요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你好，博士，我叫艾莉亞......呃，不對，是深靛。我以前是一名燈塔看守人......見習的。現在是一名術師，還是......見習的。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这些，就是打退敌人的技巧？老师教过我一些，但我以前不知道还能这么用。"
+        },
+        {
+          "language": "日文",
+          "content": "これが敵を撃退するコツでしょうか？先生から少し教わったことはありますが、こんな使い方があるとは知りませんでした。"
+        },
+        {
+          "language": "英文",
+          "content": "Are these techniques for fending off enemies? My teacher taught me a little, but I didn't know you could do this."
+        },
+        {
+          "language": "韩文",
+          "content": "이게 적을 격퇴하는 비결인가요? 선생님께 조금 배우긴 했지만, 이런 사용법이 있는 줄은 몰랐네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這些，就是打退敵人的技巧？老師教過我一些，但我以前不知道還能這麼用。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔......晋升？一座灯塔，只需要一名看守人。原来这里......不是这样的吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ええっ……昇進ですか？一つの灯台には守り人が一人いれば十分だと思っていましたが、ここでは……そうではないのですか？"
+        },
+        {
+          "language": "英文",
+          "content": "Huh...? A promotion? A lighthouse needs only one keeper. Is that... not the case here?"
+        },
+        {
+          "language": "韩文",
+          "content": "예? 승진이요? 등대 하나에 등대지기는 한 명으로 충분하다고 생각했는데, 여기선…… 안 그런가요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "唔......晉升？一座燈塔，只需要一名看守人。原來這裡......不是這樣的嗎？"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呃，我还能做更多？确实，我发出来的光，照亮的范围变大了......谢谢。我会加油的。"
+        },
+        {
+          "language": "日文",
+          "content": "えっ、私ならもっとできる？確かに、私の光も、以前より遠くまで届くようになってきました……ありがとうございます。これからも頑張ります。"
+        },
+        {
+          "language": "英文",
+          "content": "Eh? I can do much more? It's true. My light is able to shine on a much larger area than before... Thank you. I will keep doing all I can."
+        },
+        {
+          "language": "韩文",
+          "content": "네? 저라면 더 할 수 있다고요? 그러고 보니 제 빛도 전보다 더 멀리까지 닿게 됐네요…… 고맙습니다. 앞으로도 열심히 할게요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "呃，我還能做更多？確實，我發出來的光，照亮的範圍變大了......謝謝。我會加油的。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "深靛，随时待命。"
+        },
+        {
+          "language": "日文",
+          "content": "インディゴ、いつでもいけます。"
+        },
+        {
+          "language": "英文",
+          "content": "Indigo at the ready."
+        },
+        {
+          "language": "韩文",
+          "content": "인디고, 언제든 출발할 수 있습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "深靛，隨時待命。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好的......我会维持这光亮，大家不要走散。"
+        },
+        {
+          "language": "日文",
+          "content": "わかりました……光を絶やさないようにしますので、皆さんどうかはぐれないように。"
+        },
+        {
+          "language": "英文",
+          "content": "Very well... I'll keep this light up. Please be careful not to wander off."
+        },
+        {
+          "language": "韩文",
+          "content": "알겠습니다…… 빛이 꺼지지 않도록 할 테니, 여러분은 뒤처지지 않도록 조심하세요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "好的......我會維持這光亮，大家不要走散。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "跟着光走。"
+        },
+        {
+          "language": "日文",
+          "content": "光についてきてください。"
+        },
+        {
+          "language": "英文",
+          "content": "Follow the light, please."
+        },
+        {
+          "language": "韩文",
+          "content": "빛을 따라와 주세요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "跟著光走。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不愿意让开的话，就只好把你们全部打退。"
+        },
+        {
+          "language": "日文",
+          "content": "道を開けてくれないのなら、全員倒すしかありません。"
+        },
+        {
+          "language": "英文",
+          "content": "If you won't let us pass through, then we have no choice but to defeat all of you."
+        },
+        {
+          "language": "韩文",
+          "content": "길을 열어 주지 않는다면 모두 쓰러뜨리는 수밖에 없겠네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "不願意讓開的話，就只好把你們全部打退。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我准备好了。"
+        },
+        {
+          "language": "日文",
+          "content": "準備できました。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm all ready."
+        },
+        {
+          "language": "韩文",
+          "content": "준비됐습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我準備好了。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "海面不太平静。"
+        },
+        {
+          "language": "日文",
+          "content": "海面が少し騒々しいですね。"
+        },
+        {
+          "language": "英文",
+          "content": "The seas are roaring."
+        },
+        {
+          "language": "韩文",
+          "content": "해수면이 조금 소란스럽네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "海面不太平靜。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "法杖变热了。"
+        },
+        {
+          "language": "日文",
+          "content": "杖が温まってきました。"
+        },
+        {
+          "language": "英文",
+          "content": "My staff has warmed up."
+        },
+        {
+          "language": "韩文",
+          "content": "지팡이가 따뜻해졌어요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "法杖變熱了。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "光，在酝酿。"
+        },
+        {
+          "language": "日文",
+          "content": "光が、力を蓄えています。"
+        },
+        {
+          "language": "英文",
+          "content": "The light is building."
+        },
+        {
+          "language": "韩文",
+          "content": "빛이 힘을 모으고 있어요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "光，在醞釀。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这些敌人，都不及海浪危险。"
+        },
+        {
+          "language": "日文",
+          "content": "この敵たちは、どれも波の危険さには及びません。"
+        },
+        {
+          "language": "英文",
+          "content": "These enemies do not compare to the seas' ferocity."
+        },
+        {
+          "language": "韩文",
+          "content": "이 적들은, 다들 파도의 위험성에 비하면 아무것도 아닙니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這些敵人，都不及海浪危險。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我将守望，直至天明。"
+        },
+        {
+          "language": "日文",
+          "content": "夜明けまで、守り抜きます。"
+        },
+        {
+          "language": "英文",
+          "content": "I will stand guard here until daybreak."
+        },
+        {
+          "language": "韩文",
+          "content": "새벽이 밝을 때까지, 지켜내겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我將守望，直至天明。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "心有邪秽，才会惧怕光亮。"
+        },
+        {
+          "language": "日文",
+          "content": "心の穢れが、光への恐れを生むんです。"
+        },
+        {
+          "language": "英文",
+          "content": "It's only for the evil in your heart that you fear the light."
+        },
+        {
+          "language": "韩文",
+          "content": "마음의 더러움이, 빛에 대한 공포를 낳는 법입니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "心有邪穢，才會懼怕光亮。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "想逃跑的话，我帮你指路。"
+        },
+        {
+          "language": "日文",
+          "content": "逃げたいのなら、道を照らしましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "If you want to run away, let me guide you."
+        },
+        {
+          "language": "韩文",
+          "content": "도망치고 싶다면 길을 밝힐게요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "想逃跑的話，我幫你指路。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有这样的力量，是不是不用太畏惧那一天的到来？"
+        },
+        {
+          "language": "日文",
+          "content": "これほどの力があれば、あの日の到来を恐れることはないのでしょうか？"
+        },
+        {
+          "language": "英文",
+          "content": "Why, if we are so strong, perhaps we don't need to fear the coming of that day."
+        },
+        {
+          "language": "韩文",
+          "content": "이 정도의 힘이 있다면, 그날이 오는 걸 두려워하지 않아도 될까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "有這樣的力量，是不是不用太畏懼那一天的到來？"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真好，又是风平浪静的一夜。"
+        },
+        {
+          "language": "日文",
+          "content": "良かった、風も波もない夜を過ごせますね。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank goodness. Another calm evening."
+        },
+        {
+          "language": "韩文",
+          "content": "다행이다, 바람도 파도도 없는 밤을 보낼 수 있겠네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "真好，又是風平浪靜的一夜。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有、有敌人逃跑？我看见了，这个消息必须让大家都知道。"
+        },
+        {
+          "language": "日文",
+          "content": "に、逃げた敵がいる？見てしまったからには、絶対に皆さんに伝えないと。"
+        },
+        {
+          "language": "英文",
+          "content": "S-Some enemies got away? I saw. We must let everyone know."
+        },
+        {
+          "language": "韩文",
+          "content": "도, 도망친 적이 있잖아? 발견한 이상 반드시 다른 분들께 전달해야 하는데."
+        },
+        {
+          "language": "繁体中文",
+          "content": "有、有敵人逃跑？我看見了，這個消息必須讓大家都知道。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，这里走......不要怕，前面的路再黑，我也会为你点灯。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、こちらです……怖がらないでください、どれほど暗い道でも、私が照らしますから。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, this way... Don't be afraid. It doesn't matter how dark the path up ahead is, I'll light it for you."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 여기입니다…… 무서워하지 마세요. 아무리 어두운 길이라도 제가 비춰 드릴 테니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，這裡走......不要怕，前面的路再黑，我也會為你點燈。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没关系，我一个人待着也可以。"
+        },
+        {
+          "language": "日文",
+          "content": "大丈夫ですよ、一人でいるのは平気ですから。"
+        },
+        {
+          "language": "英文",
+          "content": "It's okay. I'll be fine by myself."
+        },
+        {
+          "language": "韩文",
+          "content": "괜찮습니다, 혼자 있는 건 아무렇지도 않으니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "沒關係，我一個人待著也可以。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊？小心......头发缠住了......绊倒的话会有点疼......"
+        },
+        {
+          "language": "日文",
+          "content": "あっ、気をつけてください……髪の毛が絡まっています……転んだら痛いですよ……"
+        },
+        {
+          "language": "英文",
+          "content": "Oh... Be careful... My hair's all tangled up... It'll hurt if I trip..."
+        },
+        {
+          "language": "韩文",
+          "content": "앗, 조심하세요…… 머리카락이 엉켰네요…… 넘어지면 아플 거예요……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "啊？小心......頭髮纏住了......絆倒的話會有點疼......"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要陪我吗？唔......两个人的话，夜晚也会变得不那么平静。"
+        },
+        {
+          "language": "日文",
+          "content": "一緒にいてくれるんですか？あの……二人だと、夜も静かではいられませんね。"
+        },
+        {
+          "language": "英文",
+          "content": "You will stay here with me? Why, if there's two of us, the nights won't feel as quiet."
+        },
+        {
+          "language": "韩文",
+          "content": "같이 있어 주시게요? 저…… 둘이 있으면 밤도 적막하지 않겠네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "要陪我嗎？唔......兩個人的話，夜晚也會變得不那麼平靜。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大海并不会计数又涨了多少次潮，所以这一天并没有什么特别。不过书里说过，曾经夜里的大海很美，月光像碎银一样跳动在浪花上，可惜现在已经看不到了。博士，要是能回到过去，我想带你去看。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，灯光要再亮一些吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、灯りはもう少し明るい方がいいですか？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, would you like me to make the light brighter?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 빛은 조금 더 밝은 편이 좋으신가요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，燈光要再亮一些嗎？"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "老师赶我出来的时候我还没有理解，明明她已经教给了我她全部的知识，却还说我所掌握的仍旧不够。来到罗德岛之后我才明白，我需要掌握这片大地更多的知识，才能真正地面对点亮灯塔之后的事。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

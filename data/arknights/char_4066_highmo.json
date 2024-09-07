@@ -1,0 +1,987 @@
+{
+  "name": "海沫",
+  "charaKey": "char_4066_highmo",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4066_highmo"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4066_highmo"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4066_highmo"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_4066_highmo"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果有连你都无力处理的事务，那我又能为你分担什么呢。"
+        },
+        {
+          "language": "日文",
+          "content": "あなたも手を焼く仕事の何を手伝えと言うんですか。"
+        },
+        {
+          "language": "英文",
+          "content": "If some work is beyond even your power, then how can I possibly take on a share?"
+        },
+        {
+          "language": "韩文",
+          "content": "당신도 처리할 수 없는 업무인데, 과연 제가 도움을 드릴 수 있을까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "如果有連你都無力處理的事務，那我又能為你分擔什麼呢。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "直到现在我还是会想起那场噩梦。我的生命被一种伟大的生态所否定......不，并非否定。它是要接纳一切，它比生命更加崇高......它让我因为生命的自私而感到羞愧。"
+        },
+        {
+          "language": "日文",
+          "content": "今でもあの悪夢を思い出します。私の命は大いなる生態によって否定され……違う、否定なんかじゃない。あれはあらゆるものを受け入れる、命などよりもずっと崇高なものでしたから……思わず、命の身勝手さに恥じらいを覚えたほどです。"
+        },
+        {
+          "language": "英文",
+          "content": "That nightmare still comes to mind, even now. My life denied by some grand ecology... no, not denied. It would admit everything, it was more sublime than life itself... it made me feel shame at the selfishness of life."
+        },
+        {
+          "language": "韩文",
+          "content": "지금도 전 악몽을 꾸곤 해요, 제 생명이 그 위대한 생태에 의해 부정되는…… 아니, 부정 같은 게 아니죠. 그건 만물을 받아들이는, 생명보다도 훨씬 숭고한 것이니까요…… 저도 모르게 생명의 이기심에 부끄러움을 느꼈을 정도랍니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "直到現在我還是會想起那場噩夢。我的生命被一種偉大的生態所否定......不，並非否定。它是要接納一切，它比生命更加崇高......它讓我因為生命的自私而感到羞愧。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不想贬低医疗部的努力，但我想，生命是无法被当作疾病来“根治”的。我注定要作为半吊子的人和半吊子的恐鱼活下去，这是我为自己的愚蠢付出的代价。"
+        },
+        {
+          "language": "日文",
+          "content": "医療部の努力を蔑ろにしたくはありませんが、命は病気のように「根絶治療」できるものではないと思います。人としても恐魚としても中途半端なまま生きる宿命を背負ったのは、私の愚かさの代償です。"
+        },
+        {
+          "language": "英文",
+          "content": "I don't want to belittle the Medical Department's effort, but I don't believe life can be 'cured' like a disease. Human or Sea Terror, I'm doomed to live on as half-baked, and that's the price I pay for my own foolishness."
+        },
+        {
+          "language": "韩文",
+          "content": "의료부의 노력을 폄훼하고 싶지는 않지만, 생명은 질병처럼 '완치'될 수 있는 게 아니라고 생각해요. 반은 사람으로서, 그리고 반은 시테러로서 살아가야만 하는 운명을 짊어진 건…… 제 어리석음에 대한 대가이니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我不想貶低醫療部的努力，但我想，生命是無法被當作疾病來“根治”的。我註定要作為半吊子的人和半吊子的恐魚活下去，這是我為自己的愚蠢付出的代價。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们那位特殊的“合作对象”，如今根本就是个单凭意愿，用生物机能模仿自己昔日形态的异族。你们应该比他本人更明白这点，却还是想从他身上寻求可能性？希望你们不会重蹈我的覆辙。"
+        },
+        {
+          "language": "日文",
+          "content": "あなたたちが「協力者」と呼ぶ彼ですが、今となっては気の向くまま生体機能を使って昔の姿に擬態しているだけの異種族ですよ。本人よりもそれを理解していながら、まだ彼に可能性を見出そうとしているんですか？私の二の舞にならないことを祈ります。"
+        },
+        {
+          "language": "英文",
+          "content": "That special 'collaborator' of yours is just something other right now, using biological function to imitate his old form, and you should know that better than him. You're still seeking possibilities in him? I hope you aren't repeating my mistakes."
+        },
+        {
+          "language": "韩文",
+          "content": "당신들의 그 특별한 '협력자'는 그저 자신의 의지에 따라, 생체 기능을 이용해 옛 모습을 흉내 내는 이종족일 뿐이에요. 이 점은 당신들이 본인보다 더 잘 알고 있을 텐데, 왜 아직도 그것에게서 가능성을 찾고 있는 거죠? 전 그저, 당신들이 저와 같은 전철을 밟지 않길 바랄 뿐이에요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你們那位特殊的“合作對象”，如今根本就是個單憑意願，用生物機能模仿自己昔日形態的異族。你們應該比他本人更明白這點，卻還是想從他身上尋求可能性？希望你們不會重蹈我的覆轍。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "驻留本舰期间的生活令人感到安心，甚至让我久违地产生一些类似家的意识......你不必担心，即便伊比利亚无法成为阿戈尔人的家，我也不会拒绝去那里依契约完成我该做的事。"
+        },
+        {
+          "language": "日文",
+          "content": "この船にいる間は心穏やかに過ごせるので、久方ぶりに家というものを意識しました……ご心配なく。イベリアがエーギル人の故郷になれなくとも、私は彼の地で果たすべき契約を拒みはしませんから。"
+        },
+        {
+          "language": "英文",
+          "content": "I've felt at ease in my time residing aboard the landship, even come to recognize it as a feeling similar to my long-lost home... You don't need to be concerned. Even if Iberia will never be a home to the Ægir, I'd never refuse to execute my responsibilities there, such as we've agreed."
+        },
+        {
+          "language": "韩文",
+          "content": "이 배에 있을 때면 평온해지는 것 같아요. 심지어는 한동안 느끼지 못했던, 집에 돌아온 것만 같은 기분이 들기도 해요…… 걱정하실 필요는 없어요. 이베리아가 에기르인의 집이 될 수는 없겠지만, 계약에 따라 그곳에서 제가 해내야만 하는 일들을 거부하지는 않을 테니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "駐留本艦期間的生活令人感到安心，甚至讓我久違地產生一些類似家的意識......你不必擔心，即便伊比利亞無法成為阿戈爾人的家，我也不會拒絕去那裡依契約完成我該做的事。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "所有看似无偿的给予，都终将索取必须支付的代价，这是我学到的教训。而你们所做的一些事却像是要推翻它一样......我拭目以待。"
+        },
+        {
+          "language": "日文",
+          "content": "いくら無償の行為に見えても、最後には必ず対価を要求されるということを教訓として学びました。ですがあなたたちの行いを見ていると、まるでそれが覆されるみたいで……期待しています。"
+        },
+        {
+          "language": "英文",
+          "content": "Anything that seems to be given for free will eventually demand some price of you. That's the lesson I learned. And some of what you do appears to practically overturn that... I'll have to wait and see."
+        },
+        {
+          "language": "韩文",
+          "content": "아무것도 요구하지 않는 선의의 행동일지라도, 결국엔 대가를 필요로 한다는 것을 살아오며 깨우쳤습니다…… 하지만 당신들이 하려는 일은 마치 이 사실을 뒤집으려는 것만 같네요…… 당신들의 꿈이 이루어지길 기대할게요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "所有看似無償的給予，都終將索取必須支付的代價，這是我學到的教訓。而你們所做的一些事卻像是要推翻它一樣......我拭目以待。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你好奇这是什么歌？只是小时候母亲教我的，当时我并没有多少兴趣，只是敷衍地跟着吐出几组音符。可失去她之后我才突然意识到......这些旋律竟然成了我为数不多还可以拥有的东西。"
+        },
+        {
+          "language": "日文",
+          "content": "どういう歌か知りたいですか？小さい頃に母から教わった歌ですが、当時はほとんど興味がなかったので、いつも適当に音を並べて誤魔化していたのを覚えています。ですが、母を失ってからふと気付いたんです……この旋律は、私が持っていられる数少ないものの一つになってしまったんだって。"
+        },
+        {
+          "language": "英文",
+          "content": "You're wondering what this song is? It's just something my mother taught me when I was young. I didn't take much interest back then, only humming perfunctory notes to follow along. It was only after losing her, I realized... these melodies form one of the few things I still have to my name."
+        },
+        {
+          "language": "韩文",
+          "content": "이게 무슨 노래인지 궁금하신가요? 어릴 적에 어머니께서 가르쳐 주신 노래예요. 그땐 별로 관심이 없어서 멜로디 일부를 따라서 흥얼거리는 정도에 불과했는데, 어머니를 잃고 난 후에야 깨달았어요…… 이 멜로디는 제가 간직할 수 있는, 몇 안 되는 것 중의 하나라는 사실을요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你好奇這是什麼歌？只是小時候母親教我的，當時我並沒有多少興趣，只是敷衍地跟著吐出幾組音符。可失去她之後我才突然意識到......這些旋律竟然成了我為數不多還可以擁有的東西。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "无知的女孩以自己的歌声为代价，交换来的却只是一场如泡沫般迅速破灭的梦，听上去就像童话一样对不对。呵，这样愚蠢的女孩却还能在故事的结尾得救......听上去也像，童话一样。"
+        },
+        {
+          "language": "日文",
+          "content": "無知な少女が歌声と引き換えに手にしたのは、泡のように弾けて消える夢だった――童話みたいな話ですよね。フッ、そんな愚かな少女でも物語の最後には救われるだなんて……やっぱり童話みたいですね。"
+        },
+        {
+          "language": "英文",
+          "content": "An ignorant girl gives up her song, and gains naught but a dream snuffed as quickly as the foam in return. It sounds just like a fairytale, doesn't it? And the fact that such a stupid girl could be saved at the story's end... seems like a fairytale, too."
+        },
+        {
+          "language": "韩文",
+          "content": "무지한 소녀가 자신의 노랫소리를 대가로 지불해 얻은 것은 거품처럼 빠르게 사라지는 꿈이었답니다. 마치 동화 같은 이야기죠? 후훗, 이토록 어리석은 소녀에게도 끝내 구원이 찾아온다니…… 정말, 동화 같은 이야기네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "無知的女孩以自己的歌聲為代價，交換來的卻只是一場如泡沫般迅速破滅的夢，聽上去就像童話一樣對不對。呵，這樣愚蠢的女孩卻還能在故事的結尾得救......聽上去也像，童話一樣。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "既然是你帮助我重拾了相信外物的勇气，那么我也希望你能够负责到底，指引愿意追随你的人们，去结束这一切不该降临在无辜者身上的灾厄，直到最后。不要让我失望。"
+        },
+        {
+          "language": "日文",
+          "content": "あなたは私に、信じる勇気を取り戻させてくれました。ならば、付き従う者たちを最後まで導いて、罪無き人たちに降りかかる厄災を終わらせるのがあなたの責任というものです。どうかがっかりさせないでください。"
+        },
+        {
+          "language": "英文",
+          "content": "You've helped me recover the courage to trust in other beings, so I hope you see this responsibility through. Lead those willing to follow you, and put an end to those disasters that should never have befallen the innocent. Please, don't disappoint me."
+        },
+        {
+          "language": "韩文",
+          "content": "당신은 제게 타인을 믿을 용기를 다시 품게 해 주었죠. 그러니 끝까지 책임을 다해주세요. 당신을 따르는 이들을 끝까지 인도하고, 무고한 이들에게 닥칠 재앙을 끝내 주세요. 부디, 절 실망시키지 말아 주세요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "既然是你幫助我重拾了相信外物的勇氣，那麼我也希望你能夠負責到底，指引願意追隨你的人們，去結束這一切不該降臨在無辜者身上的災厄，直到最後。不要讓我失望。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......在你的梦里，是不是也会见到那些，从你生命中悄然离你而去的人。"
+        },
+        {
+          "language": "日文",
+          "content": "……夢の中でなら、ひっそりとあなたの人生から去った人たちにも会えますか。"
+        },
+        {
+          "language": "英文",
+          "content": "You see them in your dreams too, don't you? All those faces who've quietly left your life."
+        },
+        {
+          "language": "韩文",
+          "content": "……당신도 꿈속에서, 말없이 떠나간 이들을 만나시나요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "......在你的夢裡，是不是也會見到那些，從你生命中悄然離你而去的人。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "所以，你就是那个“博士”了。我想我没什么可对自己做介绍的。我能够站在这里，也就意味着你已经阅览并批复了所有，关于我的文件吧。"
+        },
+        {
+          "language": "日文",
+          "content": "つまり、あなたが例の「ドクター」ですね。特に自己紹介は不要かと。私がここにいられるのは、あなたがもう資料に目を通して、それを承認したということでしょうから。"
+        },
+        {
+          "language": "英文",
+          "content": "So, you'd be the 'Doctor'. I don't have much to introduce about myself. If I'm standing here, you must have read and approved all the files about me."
+        },
+        {
+          "language": "韩文",
+          "content": "그러니까, 당신이 바로 그 '박사'군요. 특별히 자기소개할 만한 건 없을 것 같네요. 제가 여기에 서 있다는 건, 당신이 저에 대한 모든 자료를 열람하고 승인했다는 뜻일 테니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "所以，你就是那個“博士”了。我想我沒什麼可對自己做介紹的。我能夠站在這裡，也就意味著你已經閱覽並批覆了所有，關於我的文件吧。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......或许我不该像先前那样怀疑这些录像的价值。"
+        },
+        {
+          "language": "日文",
+          "content": "……私も考えを改めて、これらの映像の価値を疑うべきではないのかもしれませんね。"
+        },
+        {
+          "language": "英文",
+          "content": "Maybe I shouldn't doubt the value of these records, like I did before."
+        },
+        {
+          "language": "韩文",
+          "content": "……어쩌면, 예전처럼 이 영상들의 가치를 의심해서는 안 될지도 모르겠네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "......或許我不該像先前那樣懷疑這些錄影的價值。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "向不该染指和依赖的力量索求越多，就越是会深陷其中，直到连自己都被吞没。你不会不明白。"
+        },
+        {
+          "language": "日文",
+          "content": "人は頼るべきでない力を求めれば求めるほど深みにはまり、最後には呑まれてしまうものです。あなたにそれがわからないはずありませんよね。"
+        },
+        {
+          "language": "英文",
+          "content": "The more you seek from a power you should reject, the deeper you fall into it. Eventually, it will engulf your entire being. You understand this, don't you?"
+        },
+        {
+          "language": "韩文",
+          "content": "탐하거나 의존하지 말아야 할 힘을 추구하면, 결국 심연에 빠져 헤어 나오지 못하게 됩니다. 당신이 이를 모를 리 없겠죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "向不該染指和依賴的力量索求越多，就越是會深陷其中，直到連自己都被吞沒。你不會不明白。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你希望制造一个能够接纳我的空间，也希望我能够接纳身边的一切......？真是自大的想法。但我或许可以陪你见证，直到你放弃的那天。"
+        },
+        {
+          "language": "日文",
+          "content": "居場所を作ってやりたいから、私にも周りの物事をすべて受け入れろと……？あまりにも身勝手な考えですが、諦めるまで付き合ってあげてもいいかもしれません。"
+        },
+        {
+          "language": "英文",
+          "content": "You wish to forge a space that can admit me, and hope for me to admit everything surrounding me...? An arrogant notion, truly. But maybe I could bear witness with you, until the day you give up."
+        },
+        {
+          "language": "韩文",
+          "content": "저를 받아들일 공간을 만들고, 저 또한 제가 주변의 모든 것들을 받아들일 수 있기를 원한다고요……? 참으로 거만한 생각이네요. 하지만 당신이 포기하는 그날까지 함께해 드리지 못할 것도 없죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你希望製造一個能夠接納我的空間，也希望我能夠接納身邊的一切......？真是自大的想法。但我或許可以陪你見證，直到你放棄的那天。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看来你我都已经得到许可，该出发了。"
+        },
+        {
+          "language": "日文",
+          "content": "お互いに出撃許可が下りたみたいですし、出発しましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "Looks like we've gotten our approvals. It's time to go."
+        },
+        {
+          "language": "韩文",
+          "content": "당신과 저 모두 출격 허가를 받았으니, 출발하죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "看來你我都已經得到許可，該出發了。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会带去灭亡，而你才能带来胜利。"
+        },
+        {
+          "language": "日文",
+          "content": "滅びを導くことはできますが、勝利をもたらせるのはあなただけです。"
+        },
+        {
+          "language": "英文",
+          "content": "I might bring their ruin, but only you can bring our victory."
+        },
+        {
+          "language": "韩文",
+          "content": "멸망으로 이끄는 것은 저도 할 수 있지만, 승리를 가져올 수 있는 건 당신뿐이에요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我會帶去滅亡，而你才能帶來勝利。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们去收割那些不成熟的妄想和执念吧。"
+        },
+        {
+          "language": "日文",
+          "content": "未熟な妄想と執念を刈り取りましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "Let us reap those naive delusions and immature obsessions."
+        },
+        {
+          "language": "韩文",
+          "content": "미숙한 망상과 집념을 거두러 가죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我們去收割那些不成熟的妄想和執念吧。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我听到了潮水涨起的声响。"
+        },
+        {
+          "language": "日文",
+          "content": "潮の満ちる音が聞こえます。"
+        },
+        {
+          "language": "英文",
+          "content": "I hear the sound of the flooding tide."
+        },
+        {
+          "language": "韩文",
+          "content": "조수가 차오르는 소리가 들리네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我聽到了潮水漲起的聲響。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你有什么指示？"
+        },
+        {
+          "language": "日文",
+          "content": "指示はありますか？"
+        },
+        {
+          "language": "英文",
+          "content": "Do you have instructions for me?"
+        },
+        {
+          "language": "韩文",
+          "content": "지시사항이 있나요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你有什麼指示？"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "还没轮到我吗？"
+        },
+        {
+          "language": "日文",
+          "content": "出番はまだですか？"
+        },
+        {
+          "language": "英文",
+          "content": "Do I still have to wait?"
+        },
+        {
+          "language": "韩文",
+          "content": "제 차례는 아직인가요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "還沒輪到我嗎？"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "听你的就行。"
+        },
+        {
+          "language": "日文",
+          "content": "従います。"
+        },
+        {
+          "language": "英文",
+          "content": "As you ask."
+        },
+        {
+          "language": "韩文",
+          "content": "따르겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "聽你的就行。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我没有疑问。"
+        },
+        {
+          "language": "日文",
+          "content": "不明点はありません。"
+        },
+        {
+          "language": "英文",
+          "content": "I have no doubt."
+        },
+        {
+          "language": "韩文",
+          "content": "이의는 없어요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我沒有疑問。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "他们无从躲闪。"
+        },
+        {
+          "language": "日文",
+          "content": "避ける隙は与えません。"
+        },
+        {
+          "language": "英文",
+          "content": "They have no position to evade."
+        },
+        {
+          "language": "韩文",
+          "content": "피할 수 없습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "他們無從躲閃。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "他们无力抵挡。"
+        },
+        {
+          "language": "日文",
+          "content": "抗う術はありません。"
+        },
+        {
+          "language": "英文",
+          "content": "They have no power to withstand."
+        },
+        {
+          "language": "韩文",
+          "content": "막을 수 없습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "他們無力抵擋。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "他们无法前进。"
+        },
+        {
+          "language": "日文",
+          "content": "進ませはしません。"
+        },
+        {
+          "language": "英文",
+          "content": "They have no way to advance."
+        },
+        {
+          "language": "韩文",
+          "content": "나아가게 하지 않을 겁니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "他們無法前進。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "他们无路可逃。"
+        },
+        {
+          "language": "日文",
+          "content": "逃げ道などありません。"
+        },
+        {
+          "language": "英文",
+          "content": "They have no path to escape."
+        },
+        {
+          "language": "韩文",
+          "content": "도망칠 길 따윈 없습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "他們無路可逃。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你对身边事态的掌控力有时候会令我从本能上感到恐惧。是的，我认为你甚至能够做到让恐鱼理解何为恐惧。那么你是打算为此感到高兴吗？"
+        },
+        {
+          "language": "日文",
+          "content": "あなたの状況把握能力には本能的に恐怖を感じます。そう、あなたなら恐魚にも恐怖というものを教えることができるはずです……何を嬉しそうにしているんですか？"
+        },
+        {
+          "language": "英文",
+          "content": "Sometimes, your grasp of the surrounding situation makes me instinctually fearful. Yes, I believe you could make even Sea Terrors comprehend fear. So, do you intend to feel happy about this?"
+        },
+        {
+          "language": "韩文",
+          "content": "주변 상황에 대한 당신의 통제력은, 가끔 제게도 본능적인 공포를 느끼게 합니다. 네, 당신이라면 시테러에게도 공포라는 개념을 이해시킬 수 있을 거라고 생각해요. 혹시 뿌듯하신가요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你對身邊事態的掌控力有時候會令我從本能上感到恐懼。是的，我認為你甚至能夠做到讓恐魚理解何為恐懼。那麼你是打算為此感到高興嗎？"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "敌人的浪潮已经平息了。如果没有别的任务，我该立刻动身去接受一遍“常规”检查了。"
+        },
+        {
+          "language": "日文",
+          "content": "敵の波はもう鎮まりました。他の任務がなければ、すぐに「いつもの」検査を受けないと。"
+        },
+        {
+          "language": "英文",
+          "content": "The waves have subsided. If you have no other tasks, I should leave immediately to undergo a 'routine' inspection."
+        },
+        {
+          "language": "韩文",
+          "content": "적의 파도는 이미 가라앉았어요. 다른 임무가 없다면, 전 바로 '정기' 검진을 받으러 가 보도록 하겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "敵人的浪潮已經平息了。如果沒有別的任務，我該立刻動身去接受一遍“常規”檢查了。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你心软了？这种程度的敌人难道也有让你姑息的价值吗？"
+        },
+        {
+          "language": "日文",
+          "content": "気がとがめますか？あの程度の敵に情けをかける価値はあるんでしょうか？"
+        },
+        {
+          "language": "英文",
+          "content": "Were you showing mercy? Are enemies of this level worth your indulgence?"
+        },
+        {
+          "language": "韩文",
+          "content": "마음이 약해지기라도 하신 건가요? 저런 적들에게도 관용을 베풀 가치가 있을까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你心軟了？這種程度的敵人難道也有讓你姑息的價值嗎？"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "该走了，在下一个浪头将我们溺毙之前。"
+        },
+        {
+          "language": "日文",
+          "content": "行きましょう。次の波に呑まれる前に。"
+        },
+        {
+          "language": "英文",
+          "content": "We should go. Before the next wave has us drowned."
+        },
+        {
+          "language": "韩文",
+          "content": "가죠, 다음 파도가 저희를 집어삼키기 전에."
+        },
+        {
+          "language": "繁体中文",
+          "content": "該走了，在下一個浪頭將我們溺斃之前。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里也是你许诺我的一方容身之处吗。"
+        },
+        {
+          "language": "日文",
+          "content": "ここがあなたが約束してくれた居場所ですか。"
+        },
+        {
+          "language": "英文",
+          "content": "So this, too, is the place you promise I can belong."
+        },
+        {
+          "language": "韩文",
+          "content": "당신이 약속한 지낼 곳이라는 게 여기인가요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這裡也是你許諾我的一方容身之處嗎。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "来找我的吗？"
+        },
+        {
+          "language": "日文",
+          "content": "私に用があるんですか？"
+        },
+        {
+          "language": "英文",
+          "content": "Did you need me?"
+        },
+        {
+          "language": "韩文",
+          "content": "절 찾으셨나요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "來找我的嗎？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里或许意外地，令人安心。"
+        },
+        {
+          "language": "日文",
+          "content": "ここは意外と……落ち着きますね。"
+        },
+        {
+          "language": "英文",
+          "content": "This place might be more... calming than expected."
+        },
+        {
+          "language": "韩文",
+          "content": "여긴 의외로 안심이 되는 곳이네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這裡或許意外地，令人安心。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我对新年并没有什么期许，也不想做出一份期许。我只是想四处走走，和回忆中的去年对照，看看是否有了什么变化。如果你不觉得无聊，我不介意你的陪同。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们还有一些时间，在潮水淹没脚下的土地之前。"
+        },
+        {
+          "language": "日文",
+          "content": "潮が陸地を呑み込むまで、まだほんの少し猶予はあります。"
+        },
+        {
+          "language": "英文",
+          "content": "We still have some time, before the tide floods the soil beneath us."
+        },
+        {
+          "language": "韩文",
+          "content": "조수가 발밑의 땅을 집어삼키기 전까지는, 아직 조금 시간이 남았어요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我們還有一些時間，在潮水淹沒腳下的土地之前。"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛意图解决矿石病问题，是出于作为医者的天职，还是核心成员作为感染者的自救？如今星空之下另有威胁所有人的顽疾，罗德岛又会怎么做呢。你已经有答案了吧，博士？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,987 @@
+{
+  "name": "黑",
+  "charaKey": "char_340_shwaz",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_340_shwaz"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_340_shwaz"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_340_shwaz"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_340_shwaz"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "日程安排我都记录好了，需要的话，随时可以向我确认。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターのスケジュールは全て把握しております。必要な際はいつでもご確認いたします。"
+        },
+        {
+          "language": "英文",
+          "content": "I've noted down your schedule. You can confirm with me anytime."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님의 일정은 전부 파악하고 있습니다. 필요하시다면, 언제든 확인해 드리겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "排程我都記錄好了，需要的話，隨時可以向我確認。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "会见血的任务，别让小姐去，让只能在阴影里生存的人去就够了。"
+        },
+        {
+          "language": "日文",
+          "content": "血なまぐさい任務は、セイロン様には行かせないでください。そういうものは陰でしか生きられない我々に任せればいいのです。"
+        },
+        {
+          "language": "英文",
+          "content": "If it's about making someone bleed, do not send Lady Ceylon to the task. Let those who live amongst the shadow take it over, like me."
+        },
+        {
+          "language": "韩文",
+          "content": "피비린내 나는 임무엔 실론 님을 보내지 말아 주십시오. 그런 건 음지에서밖에 살 수 없는 저희에게 맡기시면 됩니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "會見血的任務，別讓小姐去，讓只能在陰影裡生存的人去就夠了。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不会告诉你有关小姐的任何私人情报。当然，你的私人情报我也不会告诉任何人。"
+        },
+        {
+          "language": "日文",
+          "content": "セイロン様のプライバシーに関わる情報は、たとえドクターであっても教えるわけにはいきません。もちろん、ドクターの情報も決して口外することはありませんのでご安心ください。"
+        },
+        {
+          "language": "英文",
+          "content": "I won't tell you anything more about Lady Ceylon. And of course, others won't learn anything more about you from me."
+        },
+        {
+          "language": "韩文",
+          "content": "실론 님의 사생활에 관한 정보는 설령 박사님이라 해도 가르쳐 드릴 수 없습니다. 물론, 박사님의 정보도 결코 입 밖에 내는 일은 없을 테니 안심하십시오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我不會告訴你有關小姐的任何私人情報。當然，你的私人情報我也不會告訴任何人。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我是保镖，我的任务是保护你，而不是做你的聊天对象。如果你想找人说话，我建议你去找其他人，不要和小姐一样，总是找我。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、私に課せられた役割はあなたの話し相手ではなく警護です。おしゃべりがしたいならほかの方にどうぞ。セイロン様のようにしきりに話かけてくるのは……おやめください。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm your bodyguard, Doctor. My duty is to protect you, not chat with you. If you want to talk, please stop turning to me like Lady Ceylon does and find someone else."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 저에게 주어진 역할은 당신의 대화 상대가 아니라 경호입니다. 수다를 떨고 싶으시다면 다른 분을 찾아가십시오. 실론 님처럼 수시로 말을 거는 것은…… 삼가 주십시오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，我是保鏢，我的任務是保護你，而不是做你的聊天對象。如果你想找人說話，我建議你去找其他人，不要和小姐一樣，總是找我。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我擅长的东西？杀人，保护人，还有......泡红茶。别露出那种表情，毕竟小姐的手艺......咳，总之，我很擅长。"
+        },
+        {
+          "language": "日文",
+          "content": "私の特技、ですか？殺し、警護、それから……紅茶を淹れることですね。そんなに驚いた顔をしないでください、紅茶を学んだのはセイロン様の紅茶があまりにも……コホン、とにかく、わりと得意なほうです。"
+        },
+        {
+          "language": "英文",
+          "content": "My expertise? Killing targets, guarding people, and... making tea. Don't be so shocked. After all, the tea Lady Ceylon makes is… Anyway, I'm good at that."
+        },
+        {
+          "language": "韩文",
+          "content": "제 특기, 말입니까? 살인, 경호, 그리고…… 홍차를 끓이는 것입니다. 그렇게 놀란 표정 하지 마십시오. 홍차를 배운 것은 실론 님의 홍차가 너무…… 흐흠, 어쨌든 꽤 잘 끓이는 편입니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我擅長的東西？殺人，保護人，還有......泡紅茶。別露出那種表情，畢竟小姐的手藝......咳，總之，我很擅長。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，根据迄今为止各种任务的危险程度，我认为，除了我的保护之外，你还需要学习一点防身术。否则，就连我也没有自信，能在所有情况下使你安然无恙。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、これまでの任務の危険性を鑑みると、私の警護に頼りきりになるのではなく、ご自身も少し護身術を身につけた方が無難です。そうでないと、私も自信を持って「いかなる状況でもドクターの安全を保証する」とは言えなくなってしまいます。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, based on the danger involved in the missions to date, I believe you need to learn self-defense in addition to my protection. Otherwise, even I can't guarantee your safety."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 지금까지의 임무 위험성에 비추어 봤을 때, 저의 경호에 완전히 의지하는 게 아니라, 본인이 직접 어느 정도 호신술을 배우는 편이 좋을 겁니다. 그렇지 않으면 저도 자신 있게 어떠한 상황에서도 박사님의 안전을 보증한다고 말할 수 없게 됩니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，根據迄今為止各種任務的危險程度，我認為，除了我的保護之外，你還需要學習一點防身術。否則，就連我也沒有自信，能在所有情況下使你安然無恙。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......一旦手上沾染鲜血，就再也不能回头了，博士，我不希望你也跨出这一步，会脏手的事，就交给我来吧。"
+        },
+        {
+          "language": "日文",
+          "content": "……一度手を血に染めると、もう元の道には引き返せません。ドクターにはそうなってほしくありませんので、汚れ仕事は私にお任せください。"
+        },
+        {
+          "language": "英文",
+          "content": "Once you've got blood on your hands, there's no turning back… Doctor, I do not wish you to go down the same road as mine. So leave the dirty works to me."
+        },
+        {
+          "language": "韩文",
+          "content": "……한번 손에 피를 묻히면 더는 원래의 길로 돌아갈 수 없습니다. 박사님이 그렇게 되시는 건 바라지 않으니, 더러운 일은 제게 맡겨 주십시오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "......一旦手上沾染鮮血，就再也不能回頭了，博士，我不希望你也跨出這一步，會髒手的事，就交給我來吧。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "想听我复仇的经历？你会睡不好觉的，博士。不过......真奇怪，我居然会有想说给你听的冲动......那么，去酒吧吧。这会是个不短的故事。"
+        },
+        {
+          "language": "日文",
+          "content": "私の復讐譚を聞きたいとは……そんなものを聞いても悪夢を見るだけですよ、ドクター。でも……どうしてか、ドクターになら聞いてもらいたいと思っている自分もいます。では……話が長くなりそうなので、バーにでも行きましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "You want to hear my revenge story? You won't be able to sleep at night, Doctor. But… somehow I do have this strange urge to tell you. Well then, let's hit the bar. This story will take a while."
+        },
+        {
+          "language": "韩文",
+          "content": "저의 복수담을 듣고 싶어 하실 줄은…… 그런 걸 들어봤자 꿈자리만 사나울 뿐입니다, 박사님. 하지만…… 왠지…… 박사님이 들어줬으면 하는 마음도 있습니다. 그럼…… 이야기가 길어질 것 같으니, 바 같은 데라도 같이 가시죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "想聽我復仇的經歷？你會睡不好覺的，博士。不過......真奇怪，我居然會有想說給你聽的衝動......那麼，去酒吧吧。這會是個不短的故事。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罪孽深重的人不会有好下场，我心知肚明。只是在遇见小姐和博士你之后......如果能早一点遇见你们，我就不会仅仅是个凶手了。即使是现在也不晚？博士，你这句话，也是真心的吗？"
+        },
+        {
+          "language": "日文",
+          "content": "罪深い人間に待つものは破滅だけ、そんなことは分かりきっていました。しかしセイロン様やドクターに出会ってからは……もっと早くお二人に出会っていれば、私もただの人殺しになることはなかったかもしれません。……今からでも遅くない？ドクター、それは本心、ですか？"
+        },
+        {
+          "language": "英文",
+          "content": "Sinners always get what they deserve, I know that. But I do wonder sometimes that... if I could have met Lady Ceylon and you sooner, maybe I'd be more than just a killer. It's still not too late for me? Do you really mean that, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "죄 많은 인간에게 기다리는 것은 파멸뿐, 그건 충분히 알고 있었습니다. 하지만, 실론 님이나 박사님과 만난 후부터는…… 더 빨리 두 분과 만났더라면 저도 단순히 살인자가 되는 일은 없었을지도 모릅니다…… 지금이라도 늦지 않았다고요? 박사님, 그 말, 진심이십니까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "罪孽深重的人不會有好下場，我心知肚明。只是在遇見小姐和博士你之後......如果能早一點遇見你們，我就不會僅僅是個兇手了。即使是現在也不晚？博士，你這句話，也是真心的嗎？"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......就这么睡着了吗，和小姐一样，真是一点警戒心都没有。"
+        },
+        {
+          "language": "日文",
+          "content": "……こんな場所で眠ってしまうなんて。セイロン様と同じく、まったく警戒心のない人ですね。"
+        },
+        {
+          "language": "英文",
+          "content": "Falls asleep just like that? Can't keep a guard up at all, just like her."
+        },
+        {
+          "language": "韩文",
+          "content": "……이런 곳에서 주무시다니. 실론 님처럼, 전혀 경계심이 없는 분이군요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "......就這麼睡著了嗎，和小姐一樣，真是一點警戒心都沒有。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我是锡兰小姐的私人保镖，黑，跟随小姐加入罗德岛。可能的话，希望尽量让我和小姐一起行动。"
+        },
+        {
+          "language": "日文",
+          "content": "セイロン様のボディガードを務めさせていただいております、シュヴァルツと申します。この度セイロン様の従者としてロドスでお世話になる運びとなりました。できれば、セイロン様とともに行動させていただけますと幸いです。よろしくお願いいたします。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm Schwarz, Lady Ceylon's personal bodyguard, here to join Rhodes Island with her. If at all possible, please assign me to accompany her."
+        },
+        {
+          "language": "韩文",
+          "content": "실론 님의 보디가드인 슈바르츠라고 합니다. 이번에 실론 님의 시종으로서, 로도스 아일랜드에서 신세를 지게 되었습니다. 될 수 있는 한, 실론 님과 함께 행동하게 해주시면 감사하겠습니다. 잘 부탁드립니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我是錫蘭小姐的私人保鏢，黑，跟隨小姐加入羅德島。可能的話，希望儘量讓我和小姐一起行動。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛充斥着战场上的怪物，这样的战斗，我只能尽量模仿。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスは化物揃いですね。こんな戦い方、今の私では何とか真似することくらいしかできません。"
+        },
+        {
+          "language": "英文",
+          "content": "I see that Rhodes Island is teeming with war monsters. I can only try to learn their way of battle."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드에는 괴물들이 모여있군요. 이런 전투 방법…… 지금의 저로서는 겨우 흉내 내는 것밖에 못 합니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "羅德島充斥著戰場上的怪物，這樣的戰鬥，我只能儘量模仿。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "现在，我明白了，为什么罗德岛会需要我......你们的理想，比我做过的事要疯狂百倍。"
+        },
+        {
+          "language": "日文",
+          "content": "ようやくわかりました、私がロドスに必要とされる意味を……。あなたたちの理想は、私の過去なんて霞んでしまうくらい、とんでもないところにあるんですね。"
+        },
+        {
+          "language": "英文",
+          "content": "Now I understand why Rhodes Island wanted me. Your vision is a hundred times crazier than anything I ever did."
+        },
+        {
+          "language": "韩文",
+          "content": "드디어 깨달았습니다. 로도스 아일랜드가 저를 필요로 하는 의미를…… 당신들의 이상은 저의 과거 따윈 희미해져 버릴 정도로, 어처구니없는 곳에 있군요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "現在，我明白了，為什麼羅德島會需要我......你們的理想，比我做過的事要瘋狂百倍。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要唤醒我过去的回忆吗，没有问题。如果是你的话，也许能驯化我们战斗中的那些邪恶。请一定，要驯化我。"
+        },
+        {
+          "language": "日文",
+          "content": "私の過去の記憶を呼び起こしたい？いいでしょう。未だに戦いのことになると私の心から姿を現す魔物も、あなたなら飼いならせるかもしれません。どうか……私から目を離さないでいてください。"
+        },
+        {
+          "language": "英文",
+          "content": "Reawaken my memories? I'm fine with it. Maybe you can tame the evil inside us when on battlefields. Please, tame it for us."
+        },
+        {
+          "language": "韩文",
+          "content": "제 과거의 기억을 불러일으키고 싶다고요? 좋습니다. 아직도 전투가 벌어지면 저의 마음속에서 모습을 드러내는 마물도, 당신이라면 길들일 수 있을지 모릅니다. 부디…… 제게서 눈을 떼지 말아 주십시오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "要喚醒我過去的回憶嗎，沒有問題。如果是你的話，也許能馴化我們戰鬥中的那些邪惡。請一定，要馴化我。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "任务？知道了。"
+        },
+        {
+          "language": "日文",
+          "content": "任務？分かりました。"
+        },
+        {
+          "language": "英文",
+          "content": "A mission? Got it"
+        },
+        {
+          "language": "韩文",
+          "content": "임무입니까? 알겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "任務？知道了。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "听我指挥。"
+        },
+        {
+          "language": "日文",
+          "content": "私の指示に従ってください。"
+        },
+        {
+          "language": "英文",
+          "content": "Follow my orders."
+        },
+        {
+          "language": "韩文",
+          "content": "저의 지시에 따라 주십시오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "聽我指揮。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "走吧。"
+        },
+        {
+          "language": "日文",
+          "content": "行きましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "Let's go."
+        },
+        {
+          "language": "韩文",
+          "content": "가시죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "走吧。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让他们有来无回。"
+        },
+        {
+          "language": "日文",
+          "content": "彼らに帰り道などありません。"
+        },
+        {
+          "language": "英文",
+          "content": "None will escape."
+        },
+        {
+          "language": "韩文",
+          "content": "그들에게 돌아가는 길 따윈 없습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "讓他們有來無回。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哪里需要我？"
+        },
+        {
+          "language": "日文",
+          "content": "お役に立てそうですか？"
+        },
+        {
+          "language": "英文",
+          "content": "Where am I needed?"
+        },
+        {
+          "language": "韩文",
+          "content": "도움이 될 것 같습니까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哪裡需要我？"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在。"
+        },
+        {
+          "language": "日文",
+          "content": "はい。"
+        },
+        {
+          "language": "英文",
+          "content": "Here."
+        },
+        {
+          "language": "韩文",
+          "content": "네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "在。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这个位置......不错。"
+        },
+        {
+          "language": "日文",
+          "content": "悪くない位置取りです。"
+        },
+        {
+          "language": "英文",
+          "content": "A solid position."
+        },
+        {
+          "language": "韩文",
+          "content": "나쁘지 않은 위치 선정입니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這個位置......不錯。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "他们跑不了。"
+        },
+        {
+          "language": "日文",
+          "content": "逃しはしません。"
+        },
+        {
+          "language": "英文",
+          "content": "They won't get away."
+        },
+        {
+          "language": "韩文",
+          "content": "놓치지 않겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "他們跑不了。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我看见你了。"
+        },
+        {
+          "language": "日文",
+          "content": "見えていますよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I've got you in my sight."
+        },
+        {
+          "language": "韩文",
+          "content": "잘 보입니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我看見你了。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真显眼。"
+        },
+        {
+          "language": "日文",
+          "content": "格好の的です。"
+        },
+        {
+          "language": "英文",
+          "content": "Way too obvious."
+        },
+        {
+          "language": "韩文",
+          "content": "딱 좋은 표적입니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "真顯眼。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "才这点人。"
+        },
+        {
+          "language": "日文",
+          "content": "この程度の数で。"
+        },
+        {
+          "language": "英文",
+          "content": "Unworthy of my shots."
+        },
+        {
+          "language": "韩文",
+          "content": "겨우 이 정도 숫자로……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "才這點人。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小姐有仁慈之心，我没有。"
+        },
+        {
+          "language": "日文",
+          "content": "セイロン様と違って、私は情けはかけません。"
+        },
+        {
+          "language": "英文",
+          "content": "Lady Ceylon may have mercy. I do not."
+        },
+        {
+          "language": "韩文",
+          "content": "실론 님과 달리 저는 동정을 베풀지 않습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "小姐有仁慈之心，我沒有。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，这种危险的任务，你指挥的地方离战场越远越好。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、またこのように危険な任務の指揮を取ることがあれば、もう少し戦場から離れていてください。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, in a dangerous mission like this,  you'd better give you command from as far as possible."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 또 이런 위험한 임무의 지휘를 맡으실 일이 있으면 조금 더 전장에서 떨어져 계십시오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，這種危險的任務，你指揮的地方離戰場越遠越好。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "按照你的指示，没有漏网之鱼。"
+        },
+        {
+          "language": "日文",
+          "content": "指示通り、一人残らず片付けました。"
+        },
+        {
+          "language": "英文",
+          "content": "We got everyone, per your order."
+        },
+        {
+          "language": "韩文",
+          "content": "지시하신 대로 한 명도 빠짐없이 처리했습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "按照你的指示，沒有漏網之魚。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "确认周围已经安全了，下一步怎么做？"
+        },
+        {
+          "language": "日文",
+          "content": "周囲の安全は確保しました、次はどうされますか？"
+        },
+        {
+          "language": "英文",
+          "content": "The perimeter is secured. What's next?"
+        },
+        {
+          "language": "韩文",
+          "content": "주위의 안전은 확보했습니다. 다음은 어떻게 하시겠습니까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "確認周圍已經安全了，下一步怎麼做？"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，走，我会优先确保你的安全。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、こちらに。あなたの安全が第一ですから。"
+        },
+        {
+          "language": "英文",
+          "content": "Come, Doctor, I'll ensure your safety."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 이쪽으로…… 박사님의 안전이 제일 중요하니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，走，我會優先確保你的安全。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "巡逻吗？我知道了。"
+        },
+        {
+          "language": "日文",
+          "content": "巡回ですか？了解しました。"
+        },
+        {
+          "language": "英文",
+          "content": "Patrol? Got it."
+        },
+        {
+          "language": "韩文",
+          "content": "순찰입니까? 알겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "巡邏嗎？我知道了。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小心走火，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "ツッ……ドクター、怪我しますよ。"
+        },
+        {
+          "language": "英文",
+          "content": "...?! Please, Doctor, I don't want you to hurt yourself."
+        },
+        {
+          "language": "韩文",
+          "content": "윽…… 박사님, 그러시면 다칩니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "小心走火，博士。"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，有什么情况吗。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、異常はありませんか。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, I suppose everything's fine?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 이상은 없으십니까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，有什麼情況嗎。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "新年？我对新年的期待在很小的时候就消失了，但......锡兰小姐喜欢。以前每年年末，我都会去维多利亚接她回家，听她讲留学时的见闻。你要是愿意，待会儿可以过来一起喝杯红茶。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "即使在基地里，也不要太过松懈，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "基地にいても、油断は禁物ですよ、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't let your guard down even on base, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "기반시설에 있어도 방심은 금물입니다, 박사님."
+        },
+        {
+          "language": "繁体中文",
+          "content": "即使在基地裡，也不要太過鬆懈，博士。"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "老爷帮助我完成了复仇，带给我一段新的人生，小姐则是教会了我如何看到一个更温柔的大地。而你们，我也十分感谢，罗德岛让小姐坚定了她的目标，我也能更放心地去明确自己战斗的方向。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

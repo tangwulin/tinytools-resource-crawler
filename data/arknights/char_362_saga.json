@@ -1,0 +1,983 @@
+{
+  "name": "嵯峨",
+  "charaKey": "char_362_saga",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_362_saga"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_362_saga"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_362_saga"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小僧来也！博士，有小僧在，你便安心做事罢！"
+        },
+        {
+          "language": "日文",
+          "content": "拙僧、参る！ドクター、この拙僧がおる以上、安心して仕事に勤しむと良い！"
+        },
+        {
+          "language": "英文",
+          "content": "I shall come! Doctor, so long as I am here, thou mayst be at ease in thy work!"
+        },
+        {
+          "language": "韩文",
+          "content": "소승이 왔소이다! 박사, 이 소승이 있는 이상, 안심하고 일에 매진하시오!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "小僧來也！博士，有小僧在，你便安心做事罷！"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小僧从小在寺庙长大，虽然经文背得滚瓜烂熟，但经中含义却总是一知半解，住持爷爷和其他大师的释义就更难懂了。博士，你很有学问的样子，可以教教小僧吗？"
+        },
+        {
+          "language": "日文",
+          "content": "拙僧は幼き頃から寺で育った。経文はすらすら出てくるようになったが、その意味はよく理解できておらぬ。住職様や他のお師匠に解釈を賜っても余計にわからなくなるだけでござる。ドクター、学ありと見込んで願い奉る、どうか拙僧にご指導いただけぬか。"
+        },
+        {
+          "language": "英文",
+          "content": "I grew from childhood in the monastery. Though I could recite the texts from heart, I never fully understood their inner meanings, and my old head priest and the other great masters gave explanations from which I could comprehend even less. Doctor, thou art of learned stature. Mayst thou be able to teach me?"
+        },
+        {
+          "language": "韩文",
+          "content": "소승은 어린 시절부터 절에서 자랐소. 경문은 술술 외울 수 있게 되었지만, 그 의미는 제대로 이해하지 못했소. 주지 스님이나 다른 스승님께 해석을 물은 적도 있지만, 더 어렵게만 느껴지더이다. 박사, 학문이 깊으시다 들었소만, 소승을 지도해 주시지 않겠소이까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "小僧從小在寺廟長大，雖然經文背得滾瓜爛熟，但經中含義卻總是一知半解，住持爺爺和其他大師的釋義就更難懂了。博士，你很有學問的樣子，可以教教小僧嗎？"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛真是有许多新奇的机器啊......嗯？博士，你莫小看小僧，虽然一开始确实一头雾水，但小僧并非迂腐之人，既然不会，学便是了。小僧的随身听里，还放着空小姐的歌呢。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスには珍妙なカラクリが多いことよ……うん？ドクター、拙僧を侮るなかれ。初めは呆気にとられるばかりかもしれぬが、拙僧は迂腐にして活用なき者にござらん。できなければ、学べばよいだけ。拙僧の音楽プレイヤーには、ソラ殿の曲も入っておるのだぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "Rhodes Island truly lacks none for novel machinery... hm? Doctor, underestimate me not. I may begin clueless, but I am no contrarian to the times. If I do not know how, then I need only learn. My personal music player even holds some songs of the good Miss Sora within it."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드에는 신묘한 장치가 참으로 많구려. 응? 박사, 소승을 얕보지 마시오. 처음 봤을 땐 어안이 벙벙해할 수도 있겠으나, 소승은 시대에 뒤떨어져 새 문물을 활용할 줄 모르는 자가 아니오. 잘 못 쓰는 게 있으면, 배우면 그만 아니겠소…… 소승의 음악 플레이어에는 소라 님의 곡도 들어있소."
+        },
+        {
+          "language": "繁体中文",
+          "content": "羅德島真是有許多新奇的機器啊......嗯？博士，你莫小看小僧，雖然一開始確實一頭霧水，但小僧並非迂腐之人，既然不會，學便是了。小僧的隨聲聽裡，還放著空小姐的歌呢。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "为了躲避天灾，小僧也曾跟随住持爷爷和庙里的师兄弟们一起翻山越岭过。住持爷爷说，天灾是神明发怒，不过小僧从未亲眼见识过天灾，倒还有些好奇。"
+        },
+        {
+          "language": "日文",
+          "content": "天災より避けるため、拙僧はかつて住職様と寺の兄弟弟子と共に山越え谷越え奔走したものでござる。住職様は天災は神の怒りだと仰っていたが、拙僧は未だこの目で天災を見たことがない、いささか気になってはおる。"
+        },
+        {
+          "language": "英文",
+          "content": "So as to evade Catastrophe, I once accompanied my old head priest and fellow monastery apprentices over mountain and valley. My head priest spoke that Catastrophes were the wrath of the gods. Yet, I have never witnessed one by my own eyes. I am somewhat curious."
+        },
+        {
+          "language": "韩文",
+          "content": "재앙을 피하고자 소승은 한때 주지 스님 그리고 절의 동문 제자와 함께 산을 넘고 골짜기를 넘으며 온갖 고생을 다했었소. 주지 스님께선 재앙이 신의 분노라 말씀하셨으나, 소승은 아직도 직접 재앙을 본 적이 없다 보니 조금 궁금하긴 하오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "為了躲避天災，小僧也曾跟隨住持爺爺和廟裡的師兄弟們一起翻山越嶺過。住持爺爺說，天災是神明發怒，不過小僧從未親眼見識過天災，倒還有些好奇。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小僧并非真的僧侣，只是被寺院收养。嵯峨是临行之际从住持爷爷那里求来的名字，意为山高路险。小僧也是离开庙里才知道，原来世间竟是这般坎坷不平。"
+        },
+        {
+          "language": "日文",
+          "content": "拙僧は真なる僧侶にあらず、ただ寺に引き取られただけでござる。サガという名は出立にあたって住職様より頂いた名なのだ。その意味は、山高く、道険しというものでござる。拙僧も寺を離れて初めて、世間というものは一筋縄では行かぬことを知ったのだ。"
+        },
+        {
+          "language": "英文",
+          "content": "I am not a true monk, merely raised by the monastery. At my departure, Saga was the name my old head priest gave to me. Its meaning is of high mountains and rugged roads. And only when I left the monastery, did I come to know how the world was no straightforward thing."
+        },
+        {
+          "language": "韩文",
+          "content": "소승은 진정한 승려가 아니로소이다, 그저 절에서 거두어들인 자일 뿐이오…… 사가라는 이름은 길을 떠나게 될 때 주지 스님께서 지어주신 이름이외다. 그 의미는 산은 높고 길은 험난하단 뜻이오. 소승도 절을 떠나 처음으로, 세상이란 만만치 않다는 걸 알게 되었소."
+        },
+        {
+          "language": "繁体中文",
+          "content": "小僧並非真的僧侶，只是被寺院收養。嵯峨是臨行之際從住持爺爺那裡求來的名字，意為山高路險。小僧也是離開廟裡才知道，原來世間竟是這般坎坷不平。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "苦小僧吃得，累小僧更不惧，唯有一点小僧却怎么也想不通。师父说，众生平等。感染者也是人，只是得了病，为何偏就他们活不得？"
+        },
+        {
+          "language": "日文",
+          "content": "苦を呑み込み、疲弊を畏れぬ拙僧であるが、一つだけどうしても納得いかぬことがある。住職様は命皆平等にあると仰るが、感染者も病を患っただけの人であろう。何故彼らは生きることを許されぬのか？"
+        },
+        {
+          "language": "英文",
+          "content": "I swallow hardship, and fear not fatigue, yet there is still one thing I cannot assent to. My master spoke that all living beings are equal. The Infected are people all the same, people only fallen ill. Why can they not be permitted to live?"
+        },
+        {
+          "language": "韩文",
+          "content": "괴로움을 집어삼키고 피폐함도 두려워하지 않는 소승이지만, 도무지 납득이 안 되는 게 하나 있소. 주지 스님께선 생명은 모두 평등하다고 말씀하셨는데, 감염자도 병을 앓을 뿐인 사람 아니오. 대관절 어째서 그들이 살아가는 것을 용납하지 않는 것이오?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "苦小僧吃得，累小僧更不懼，唯有一點小僧卻怎麼也想不通。師父說，眾生平等。感染者也是人，只是得了病，為何偏就他們活不得？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嚯嚯，虽然一开始只是迷路走进的罗德岛招人处，不过无论是吃食还是床铺皆是上等，薪俸也高，小僧真是来到了一个好地方啊。"
+        },
+        {
+          "language": "日文",
+          "content": "ほほう、初めは迷子として迷い込んだロドスの求人所であったが、食良し寝床良し、さらには俸禄も高いときた。拙僧は本当に良いところに迷い込んだものだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Ho-ho. I may have only erred upon a Rhodes Island recruitment spot at first, but whether the food or the beds, it is all of great quality, and the pay pales not. I truly have stumbled upon a wonderful place."
+        },
+        {
+          "language": "韩文",
+          "content": "오호…… 처음에는 길을 잃어 오게 된 로도스 아일랜드 구직처였지만, 밥도 맛있고 잠자리도 좋고, 게다가 녹봉도 높소. 소승은 정말 좋은 곳으로 오게 되었구려."
+        },
+        {
+          "language": "繁体中文",
+          "content": "嚯嚯，雖然一開始只是迷路走進的羅德島招人處，不過無論是吃食還是床鋪皆是上等，薪俸也高，小僧真是來到了一個好地方啊。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "离开庙里时，小僧还以为入世无非是收拾几个蟊贼，除几个恶霸，不曾想世道竟如此变幻莫测，小僧有时甚至不知自己该为何而挥刀。博士，小僧不明白。"
+        },
+        {
+          "language": "日文",
+          "content": "寺を離れる時、世間というものは賊徒や悪党を幾ばくか片付ければ治まるものと高を括っていた。しかし世道はこれほど移り変わりが激しいものとは夢にも思わなかった。拙僧も時折自分が何のために刃を振るっておるかわからなくなるのだ。なぁドクター、拙僧は、わからないのでござる……。"
+        },
+        {
+          "language": "英文",
+          "content": "When I left the monastery, I had thought that entering society would involve no more than dealing with pests, ridding some despots. I had never dreamt it would be so treacherous as this. There are times I do not even know what I draw my blade for. Doctor... I do not understand."
+        },
+        {
+          "language": "韩文",
+          "content": "절을 떠날 때, 세상이란 도적 무리나 악당을 어느 정도 정리하면 나아질 것이라 대수롭지 않게 생각했소. 허나 세상 도리라는 게 이렇게나 빨리 변하는 것일 줄은 꿈에도 몰랐지…… 소승도 가끔은 나 자신이 무엇을 위해 칼을 휘두르는지 잘 모르겠소. 저기…… 박사…… 소승은, 잘 모르겠소……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "離開廟裡時，小僧還以為入世無非是收拾幾個蟊賊，除幾個惡霸，不曾想世道竟如此變幻莫測，小僧有時甚至不知自己該為何而揮刀。博士，小僧不明白。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小僧心中尚有太多疑惑，但小僧至少明白了一点，有些答案，必须小僧自己去寻找，有些念头，必须小僧自己想通透。在想清楚这一切之前，小僧想一直留在博士身边修行，请博士准许！"
+        },
+        {
+          "language": "日文",
+          "content": "拙僧の胸中を満たす疑問は、自身で答えを求むるべきものもあれば、反芻し呑み下すべきものもあると、少なくともそう理解しておる。それらを全て片付けるまでは、ドクターの下で修行を続けたいでござる。どうかお許しを賜れるか！"
+        },
+        {
+          "language": "英文",
+          "content": "I still puzzle over much in my heart, but I have understood at least that some answers I must seek myself, and some thoughts I must think through myself. Doctor, until I have sorted it all out, I wish to continue my training by thine side. Pray, allow me this!"
+        },
+        {
+          "language": "韩文",
+          "content": "소승의 가슴속을 채운 의문은 스스로 답을 찾아내야 하는 것도 있지만, 되새겨야 할 것도 있다고, 적어도 그렇게 이해하고 있소. 그것들을 모두 정리할 때까지는 박사의 밑에서 수행을 계속하고 싶소이다. 허락해 주시겠소이까!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "小僧心中尚有太多疑惑，但小僧至少明白了一點，有些答案，必須小僧自己去尋找，有些念頭，必須小僧自己想通透。在想清楚這一切之前，小僧想一直留在博士身邊修行，請博士准許！"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士......嚯，坐而入睡当真好本领。那小僧也冥想片刻吧。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター……ほう、座したまま眠るとは相当な腕前でござる。では拙僧も瞑想にふけるとしよう。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor... ho, thou art quite skillful to fall asleep sitting. In that case, I shall meditate for a while."
+        },
+        {
+          "language": "韩文",
+          "content": "박사…… 호오…… 앉은 채로 자다니 대단한 실력이오. 그럼 소승도 명상에 잠기도록 하겠소."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士......嚯，坐而入睡當真好本領。那小僧也冥想片刻吧。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你就是博士？你好......啊，这种时候应该严肃一些对吧？咳咳，小僧名唤嵯峨，是一名云游僧，如果有用得到小僧的地方，任凭差遣！"
+        },
+        {
+          "language": "日文",
+          "content": "お主がドクターか？やあやあ……いや、このような場では厳粛にすべきでござるな？コホン、拙僧はサガと申しまする。客僧である故、拙僧が役立つところあらばどうかご令達を。"
+        },
+        {
+          "language": "英文",
+          "content": "Thou art the Doctor? Hail and well... ah, ought not I be more serious at times like these? Ahem—my name is Saga. I am a wandering monk. Should there be any place thou mayst need me, refrain not in sending me!"
+        },
+        {
+          "language": "韩文",
+          "content": "그대가 박사인가? 이야, 이거 참…… 아니, 이런 장소에서는 엄숙해야겠지? 크흠, 소승은 사가라고 하오. 이곳에는 객승으로 와있는 몸이니, 소승의 도움이 필요하다면 언제든 명을 내려주시오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你就是博士？你好......啊，這種時候應該嚴肅一些對吧？咳咳，小僧名喚嵯峨，是一名雲遊僧，如果有用得到小僧的地方，任憑差遣！"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嚯嚯，世间竟有这般战法，小僧这次可算开了眼界。"
+        },
+        {
+          "language": "日文",
+          "content": "ほほう、世間には左様な戦法があるのか、見聞が広がったぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "Ho-ho. To think such strategy does exist in the world. My horizons have broadened."
+        },
+        {
+          "language": "韩文",
+          "content": "오호…… 세상에는 이러한 전법도 있는 것인가, 견문이 넓어졌소."
+        },
+        {
+          "language": "繁体中文",
+          "content": "嚯嚯，世間竟有這般戰法，小僧這次可算開了眼界。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "加薪？妙啊，小僧垂涎食堂的豪华套餐已久，怎奈囊中羞涩......今天终于可以大吃一顿啦！"
+        },
+        {
+          "language": "日文",
+          "content": "増俸？あっぱれ、食堂のデラックスセットとやらに垂涎しながら懐寂しさを嘆いておったところ……今日はついにたらふく食えるのだな！"
+        },
+        {
+          "language": "英文",
+          "content": "A raise? Splendid! I have been watering at the mouth to try the deluxe set at the cafeteria for quite some time, yet have been embarrassingly out of pocket... today, I am finally able to feast!"
+        },
+        {
+          "language": "韩文",
+          "content": "증봉? 훌륭하오, 늘 식당의 디럭스 세트라는 것에 군침을 흘리며 주머니가 가벼운 것을 한탄하고 있었는데…… 오늘은 드디어 배불리 먹을 수 있겠소!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "加薪？妙啊，小僧垂涎食堂的豪華套餐已久，怎奈囊中羞澀......今天終於可以大吃一頓啦！"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "住持爷爷，小僧心中尚有迷茫，这世道，小僧还看不破，斩不断。但小僧有幸得遇贵人，有贵人的指引，终有一日，小僧必定会在这乱世之中斩出一线天！"
+        },
+        {
+          "language": "日文",
+          "content": "住職様、拙僧は未だ迷いの最中にあります。この世道は、拙僧では未だ見通すことも、斬り伏せることも叶いません。ですが幸いにも心許せる貴人と出会いました。その導きの下、いつの日か拙僧は必ずやこの乱世を斬り開いてみせましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "Dear head priest. In my heart yet is wild disarray. The ways of this world I still cannot see through, nor cut down. Though I am fortunate to have met with great people, and with their guidance, there will come a day in our turbulent mortal world where I cut through to the heavens!"
+        },
+        {
+          "language": "韩文",
+          "content": "주지 스님, 소승은 아직도 방황하고 있습니다. 이 세상의 도리란 걸, 소승은 아직 꿰뚫어 볼 수도 베어 쓰러뜨릴 수도 없습니다. 하지만 다행히도 마음을 터놓을 수 있는 귀인과 만났습니다. 그 귀인의 지도 아래, 언젠가 소승은 반드시 이 난세의 앞길을 열어 보이겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "住持爺爺，小僧心中尚有迷茫，這世道，小僧還看不破，斬不斷。但小僧有幸得遇貴人，有貴人的指引，終有一日，小僧必定會在這亂世之中斬出一線天！"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小僧来也！"
+        },
+        {
+          "language": "日文",
+          "content": "拙僧、参る！"
+        },
+        {
+          "language": "英文",
+          "content": "I shall come!"
+        },
+        {
+          "language": "韩文",
+          "content": "소승이 왔소이다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "小僧來也！"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小僧做队长？没问题！"
+        },
+        {
+          "language": "日文",
+          "content": "拙僧が隊長を？造作もない！"
+        },
+        {
+          "language": "英文",
+          "content": "Am I the captain? Not a problem!"
+        },
+        {
+          "language": "韩文",
+          "content": "소승이 팀장을? 문제없소이다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "小僧做隊長？沒問題！"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小僧去也！"
+        },
+        {
+          "language": "日文",
+          "content": "拙僧が出る！"
+        },
+        {
+          "language": "英文",
+          "content": "I shall go!"
+        },
+        {
+          "language": "韩文",
+          "content": "소승이 나가겠소!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "小僧去也！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小僧的刀，只斩恶人！"
+        },
+        {
+          "language": "日文",
+          "content": "拙僧の刃は、悪のみを斬る！"
+        },
+        {
+          "language": "英文",
+          "content": "My blade cuts only evil!"
+        },
+        {
+          "language": "韩文",
+          "content": "소승의 칼날은 악만 벤다오!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "小僧的刀，只斬惡人！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "腌萝卜......哈！小僧在！"
+        },
+        {
+          "language": "日文",
+          "content": "沢庵漬け……はっ！拙僧はこちらに！"
+        },
+        {
+          "language": "英文",
+          "content": "Takuan-zuke... hah! I am right here!"
+        },
+        {
+          "language": "韩文",
+          "content": "단무지…… 헉! 소승은 여기 있소!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "醃蘿蔔......哈！小僧在！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让小僧来！"
+        },
+        {
+          "language": "日文",
+          "content": "拙僧に任せよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Leave this to me!"
+        },
+        {
+          "language": "韩文",
+          "content": "소승에게 맡기시오!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "讓小僧來！"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小僧在此！"
+        },
+        {
+          "language": "日文",
+          "content": "拙僧、見参！"
+        },
+        {
+          "language": "英文",
+          "content": "I am here!"
+        },
+        {
+          "language": "韩文",
+          "content": "소승, 등장!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "小僧在此！"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "谁敢造次！"
+        },
+        {
+          "language": "日文",
+          "content": "無法者はどこだ！"
+        },
+        {
+          "language": "英文",
+          "content": "Who dares be rash!"
+        },
+        {
+          "language": "韩文",
+          "content": "무법자들은 어디 있느냐!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "誰敢造次！"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "斩却烦恼！"
+        },
+        {
+          "language": "日文",
+          "content": "煩悩を斬り捨てん！"
+        },
+        {
+          "language": "英文",
+          "content": "Sever all desires!"
+        },
+        {
+          "language": "韩文",
+          "content": "번뇌를 베어버리겠다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "斬卻煩惱！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "六根清净！"
+        },
+        {
+          "language": "日文",
+          "content": "六根清浄！"
+        },
+        {
+          "language": "英文",
+          "content": "Cleanse the six senses!"
+        },
+        {
+          "language": "韩文",
+          "content": "육근청정!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "六根清淨！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "纳豆拌饭！"
+        },
+        {
+          "language": "日文",
+          "content": "納豆ご飯！"
+        },
+        {
+          "language": "英文",
+          "content": "Natto gohan!"
+        },
+        {
+          "language": "韩文",
+          "content": "낫토밥!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "納豆拌飯！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "油炸豆腐！"
+        },
+        {
+          "language": "日文",
+          "content": "アブラアゲ！"
+        },
+        {
+          "language": "英文",
+          "content": "Aburaage!"
+        },
+        {
+          "language": "韩文",
+          "content": "유부튀김!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "油炸豆腐！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真是一场艰苦的试炼，小僧获益良多。"
+        },
+        {
+          "language": "日文",
+          "content": "苦しい試練だった、拙僧が得たものも多いでござる。"
+        },
+        {
+          "language": "英文",
+          "content": "'Twas truly an arduous trial. I have gained greatly for it."
+        },
+        {
+          "language": "韩文",
+          "content": "힘든 시련이었지만, 소승이 얻은 것도 많소."
+        },
+        {
+          "language": "繁体中文",
+          "content": "真是一場艱苦的試煉，小僧獲益良多。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不愧是博士，光靠小僧肯定会跑掉好几个。"
+        },
+        {
+          "language": "日文",
+          "content": "流石ドクターでござる。拙僧だけでは何人か討ち漏らしたやもしれないな。"
+        },
+        {
+          "language": "英文",
+          "content": "As expected of the Doctor! Alone, I would surely have let quite a few through."
+        },
+        {
+          "language": "韩文",
+          "content": "역시 박사로구려. 소승만으로는 몇 명 놓쳤을지도 모르오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "不愧是博士，光靠小僧肯定會跑掉好幾個。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "住持爷爷说，要有慈悲之心，小僧也觉得差不多行了。"
+        },
+        {
+          "language": "日文",
+          "content": "住職様は慈悲の心を欠かさぬように仰っていた、ここまでに致そう。"
+        },
+        {
+          "language": "英文",
+          "content": "My head priest spoke that one must have a merciful heart, and I believe that this suffices, more or less."
+        },
+        {
+          "language": "韩文",
+          "content": "주지 스님께선 자비심을 잃지 말라고 하셨지. 여기까지 하도록 하겠소."
+        },
+        {
+          "language": "繁体中文",
+          "content": "住持爺爺說，要有慈悲之心，小僧也覺得差不多行了。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士快走！小僧来殿后！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター早く行け！殿は拙僧に任せよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, go quickly! Leave the rear to me!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 빨리 가시오! 후방은 소승에게 맡기시오!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士快走！小僧來殿後！"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哪里来的香味？！"
+        },
+        {
+          "language": "日文",
+          "content": "この香りはっ！？"
+        },
+        {
+          "language": "英文",
+          "content": "What is this scent?!"
+        },
+        {
+          "language": "韩文",
+          "content": "이 향기는?!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哪裡來的香味？！"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯？！"
+        },
+        {
+          "language": "日文",
+          "content": "なぬっ！？"
+        },
+        {
+          "language": "英文",
+          "content": "What-ho?!"
+        },
+        {
+          "language": "韩文",
+          "content": "무슨?!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯？！"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小僧随叫随到。"
+        },
+        {
+          "language": "日文",
+          "content": "呼ぶ声あらば拙僧はいつでも駆けつけまする。"
+        },
+        {
+          "language": "英文",
+          "content": "Call, and I shall surely come running."
+        },
+        {
+          "language": "韩文",
+          "content": "부르는 소리가 들리면, 소승은 언제라도 달려가겠소."
+        },
+        {
+          "language": "繁体中文",
+          "content": "小僧隨叫隨到。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊，博士。新年快乐，小僧正在写信。虽然流浪数年，小僧也早已习惯了这样的生活，但每到这个时候，总会想起住持爷爷和寺里的师兄弟们。或许这么久了，小僧也该回去看看了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，吃了吗？没吃饱可没力气做事。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、食事は済んでおるのか？空きっ腹では何もできぬでござらんか。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, hast thou eaten? An unfilled stomach will surely leave thee powerless at work."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 식사는 하셨소? 배가 고프면 아무것도 할 수 없으니 말이오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，吃了嗎？沒吃飽可沒力氣做事。"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "住持爷爷说过，“知其不可而为之。”小僧原以为这是极其简单的一句，因为世上没有不可为之事，只有应为和不应为之事。只是渐行渐远，小僧才了然，这是极沉重的一句话，值得小僧一生践行。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

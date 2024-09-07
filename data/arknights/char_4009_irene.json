@@ -1,0 +1,987 @@
+{
+  "name": "艾丽妮",
+  "charaKey": "char_4009_irene",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4009_irene"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4009_irene"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4009_irene"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_4009_irene"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大海与伊比利亚以外的事务，我可概不负责。呃，工作实在太多了？那好吧，我抽空帮你看看。"
+        },
+        {
+          "language": "日文",
+          "content": "海とイベリアに関するもの以外の業務を任される筋合いはありませんよ。えっ、あまりにも仕事が多すぎる？では、時間があるうちにお手伝いしましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "All my tasks must relate to the sea or Iberia. Huh? You have too much work? Okay, I'll make some time to help you out."
+        },
+        {
+          "language": "韩文",
+          "content": "바다와 이베리아에 관한 업무 이외에는 제가 책임질 일이 아닙니다. 음, 일이 너무 많다고요? 그렇다면 시간 날 때 도와드릴게요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "大海與伊比利亞以外的事務，我可概不負責。呃，工作實在太多了？那好吧，我抽空幫你看看。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "等这里的工作忙完，我还得回去继续练习使用手炮......罗德岛的射击课？不，谢谢了，审判官的手炮并非寻常铳械，想要控制自如，需要的是更顽强的意志，而不是瞄得更准。"
+        },
+        {
+          "language": "日文",
+          "content": "ここの仕事が終わったら、戻ってハンドキャノンの練習もしないと……ロドスの射撃訓練？いえ、遠慮しておきます。審問官のハンドキャノンは普通の銃器とは違います。意のままに扱うためには、照準の精度よりも、確固たる意志を磨く必要があるんです。"
+        },
+        {
+          "language": "英文",
+          "content": "I have to get back to my handcannon practice once I'm done with my work here. Rhodes Island has shooting lessons? No, I'll pass. An inquisitor's handcannon isn't your normal firearm. It's not better aim you need to fully master it. It's an indomitable will."
+        },
+        {
+          "language": "韩文",
+          "content": "이곳의 업무가 끝나면 돌아가서 핸드캐논 연습도 해야 합니다…… 로도스 아일랜드의 사격 훈련 말인가요? 아뇨, 사양하겠습니다. 재판관의 핸드캐논은 보통의 총기와는 다릅니다. 자유자재로 다루기 위해서는, 조준의 정확성보다는 굳건한 의지가 더욱 중요하답니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "等這裡的工作忙完，我還得回去繼續練習使用手炮......羅德島的射擊課？不，謝謝了，審判官的手炮並非尋常銃械，想要控制自如，需要的是更頑強的意志，而不是瞄得更準。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我还是忍不住想问问，斯卡蒂平时跟你说话也是那副德行吗？就......能说一个字绝对不说两个字？咦，不是吗？她其实很多愁善感？等等，我们认识的真的是同一个阿戈尔人吗？"
+        },
+        {
+          "language": "日文",
+          "content": "どうしても気になるので質問させてください。スカジは普段あなたと話す時もあの調子なんですか？ええと……必要最低限しか喋らないというか。え、違うんですか？本当はすごく繊細？いや待ってください、本当に同じエーギル人の話をしていますか？"
+        },
+        {
+          "language": "英文",
+          "content": "It's been bugging me, so I really have to ask. Is Skadi like that when she talks to you, too? Like... Does she always say only the bare minimum, nothing more? Huh? No? She's actually very sentimental? Wait, are we really talking about the same Ægir?"
+        },
+        {
+          "language": "韩文",
+          "content": "궁금해서 그러는데, 스카디는 평소에 박사님과 얘기할 때도 저런 태도인가요? 그러니까…… 최소한의 필요한 말들만 한다고나 할까요? 네? 아니라고요? 사실은 섬세하다고요? 잠깐만요, 우리가 얘기하는 게 정말 같은 에기르인 맞는 거죠?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我還是忍不住想問問，斯卡蒂平時跟你說話也是那副德行嗎？就......能說一個字絕對不說兩個字？咦，不是嗎？她其實很多愁善感？等等，我們認識的真的是同一個阿戈爾人嗎？"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......我让伊比利亚来的干员感到紧张？敬畏审判庭即是敬畏律法，这不是理所应当的吗？除非......某些阿戈尔人的确有躲避我的视线的理由。先说好，我不保证我不会动手。"
+        },
+        {
+          "language": "日文",
+          "content": "……私がイベリア出身のオペレーターを萎縮させる？審問官を恐れ敬うのは、すなわち法に畏敬の念を抱くということですから、当然ではないでしょうか？あるいは……一部のエーギル人には私の視線を避ける理由があるのかもしれません。それなら先に言っておきますが、絶対に手を出さない保証はできませんからね。"
+        },
+        {
+          "language": "英文",
+          "content": "I make the other Iberian Operators nervous? To fear the Inquisition is to fear the law. Isn't that only natural? Unless... Some of our Ægirs have their reasons to dodge my gaze. I'll make it clear now. I can't promise I won't fight them."
+        },
+        {
+          "language": "韩文",
+          "content": "……저 때문에 이베리아 출신 오퍼레이터들이 긴장하고 있다고요? 재판소에 대한 경외가 곧 율법에 대한 경외이니 당연한 것 아닌가요? 그게 아니라면…… 일부 에기르인들이 제 시선을 피하는 이유가 따로 있을 법도 하네요. 그렇다면 미리 말해 두겠는데, 절대 손대지 않겠다고 보증은 못 합니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "......我讓伊比利亞來的幹員感到緊張？敬畏審判庭即是敬畏律法，這不是理所應當的嗎？除非......某些阿戈爾人的確有躲避我的視線的理由。先說好，我不保證我不會動手。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“我是为了伊比利亚的存续，为了同伊比利亚的敌人而战，为了守卫伊比利亚的洁净与德行，提起了剑与灯！”——虽然已卸去审判官的职务，但我很清楚，我的责任未曾改变。"
+        },
+        {
+          "language": "日文",
+          "content": "「イベリアの国家存続のため、イベリアの敵と戦うため、イベリアの潔白と美徳を守るため、私は剣と灯りを高く掲げる！」――審問官の肩書きこそおろしましたが、私の責務は今も変わらないとはっきり理解しています。"
+        },
+        {
+          "language": "英文",
+          "content": "'For Iberia's prosperity, for Iberia's defense, and for Iberia's orderliness and integrity, I shall raise my sword and my light!'—I may not be an Inquisitor anymore, but I know very well that my duty remains the same."
+        },
+        {
+          "language": "韩文",
+          "content": "“이베리아의 존속을 위해, 이베리아의 적과 싸우기 위해, 이베리아의 순결과 덕행을 지키기 위해 검과 등불을 든다!”……비록 재판관이라는 직무는 그만뒀지만, 저의 책임에는 변함이 없음을 잘 알고 있습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "“我是為了伊比利亞的存續，為了同伊比利亞的敵人而戰，為了守衛伊比利亞的潔淨與德行，提起了劍與燈！”——雖然已卸去審判官的職務，但我很清楚，我的責任未曾改變。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "经书上说，审判官的提灯释放出来的，是我们心中的信仰之光。而当我看到老师最后的光亮，我才真正明白了这句话的含义。审判官作出判决，依据的不该仅是律法，更应是我的本心。"
+        },
+        {
+          "language": "日文",
+          "content": "経典には「審問官の灯りが放つのは、心に宿る信仰の光である」と書かれています。師匠が最期に放った光を目の当たりにして、私はようやくその言葉の真の意味を悟りました。審問官が下す判決は、法律のみに基づくものではなく、己の本心を反映したものであるべきなんです。"
+        },
+        {
+          "language": "英文",
+          "content": "The scriptures tell us the light of an Inquisitor's lantern is the light of faith within our hearts. It wasn't until I saw my master's last ray of light that I truly understood what this means. When an Inquisitor lays down judgment, her ruling should be based not on law, but instead her own heart."
+        },
+        {
+          "language": "韩文",
+          "content": "경전에 따르면, 재판관의 등불에서 뿜어 나오는 빛은 마음 속 신앙의 빛이라고 합니다. 스승님의 마지막 빛을 보고 나서야 이 말에 담긴 진정한 의미를 알 수 있었어요. 재판관이 판결을 내릴 때에는 율법만을 근거로 삼는 게 아니라, 자신의 양심을 따라야 한다는 뜻이었죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "經書上說，審判官的提燈釋放出來的，是我們心中的信仰之光。而當我看到老師最後的光亮，我才真正明白了這句話的含義。審判官作出判決，依據的不該僅是律法，更應是我的本心。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请问......你有伊比利亚产的老唱片吗？还没坏的那种？我把老师的唱片机带来了......我知道沉湎在过去的美好里很可笑，可我还是很想知道，伊比利亚人本来可以是什么模样。"
+        },
+        {
+          "language": "日文",
+          "content": "あの……イベリアの古いレコードは持っていませんか？腐蝕していないものです。師匠の蓄音機を持ってきているんです……煌びやかな過去に溺れるのは幼稚だと分かっていますが、イベリア人がどんな未来を迎えられたはずなのかを知りたいんです。"
+        },
+        {
+          "language": "英文",
+          "content": "Um... Do you have any old Iberian records? Any that can still play? I brought my master's record player... I know it's silly to dwell in our past glory, but I really want to know what Iberians could have been."
+        },
+        {
+          "language": "韩文",
+          "content": "저기…… 혹시 이베리아의 오래된 레코드판을 갖고 계신가요? 손상되지 않은 것들 말이에요. 스승님의 축음기를 가져왔는데…… 지나간 과거의 아름다움에 빠져있는 게 우스운 일이라는 걸 알지만, 그래도 이베리아인들이 어떤 미래를 맞이할 수 있었을지 알고 싶어요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "請問......你有伊比利亞產的老唱片嗎？還沒壞的那種？我把老師的唱片機帶來了......我知道沉湎在過去的美好裡很可笑，可我還是很想知道，伊比利亞人本來可以是什麼模樣。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那一刻，真相像海潮一样没过我的头顶。动摇，崩溃，绝望？不，我什么都感觉不到。直到我又杀死了一只恐鱼......是啊，原来我战斗，是因为我想活下去。如今的伊比利亚，不也一样吗？"
+        },
+        {
+          "language": "日文",
+          "content": "あの時、真実が大潮のように私の頭を呑み込みました。動揺、失意、絶望？いえ、何も感じませんでした。次に向かってきた恐魚を殺して初めて、ああ、私は生きたいから戦ってるんだ、と気付かされたんです。今のイベリアも、同じではありませんか？"
+        },
+        {
+          "language": "英文",
+          "content": "The truth felt like it swallowed me whole when it happened. Was I wavering? Crumbling? Despairing? No, I couldn't feel anything... until I killed another Sea Terror. I finally realized that I fought only because I wanted to live. Isn't that just like Iberia today?"
+        },
+        {
+          "language": "韩文",
+          "content": "그 순간에는 진실이 머릿속에 파도처럼 밀려 들어왔습니다. 동요, 붕괴, 절망? 아니요, 전 아무것도 느끼지 못했어요. 또 한 마리의 시테러를 죽이기 전까지는…… 맞아요, 제가 싸웠던 것도 살아남고 싶었기 때문이었어요. 지금의 이베리아도 마찬가지 아닐까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "那一刻，真相像海潮一樣沒過我的頭頂。動搖，崩潰，絕望？不，我什麼都感覺不到。直到我又殺死了一隻恐魚......是啊，原來我戰鬥，是因為我想活下去。如今的伊比利亞，不也一樣嗎？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "上次任务只是扭了肩膀，上上次的咬伤也快好啦，你可不要小瞧我！唉，我还挺羡慕那几个阿戈尔猎人的。算啦，该走了。等我回来......那个，罗德岛的舞会，你说过我也能参加。约好了哦。"
+        },
+        {
+          "language": "日文",
+          "content": "前回の任務では肩を捻挫しただけですし、その前の噛み傷もほぼ治りました。私を見くびらないでください！はぁ、あのエーギルのハンターたちが羨ましい……なんでもありません、もう行きますね。戻ってきたら……ええっとその、ロドスの舞踏会ですけど、私も参加していいって言いましたよね？約束ですよ。"
+        },
+        {
+          "language": "英文",
+          "content": "All I did was sprain my shoulder on my last mission. The bite wound the mission before that's almost all healed up, too. Stop selling me short! I'm pretty jealous of those Ægir hunters power... Hmph forget it! When I get back... Um, you said I could go to the Rhodes Island ball. That's a promise, right?"
+        },
+        {
+          "language": "韩文",
+          "content": "지난 임무에서는 어깨를 삐었을 뿐입니다. 그전에 물린 상처도 거의 다 나았고요. 절 무시하지 마세요! 하아, 그 에기르 헌터들이 부럽긴 하네요. 됐어요, 이만 가볼게요. 나중에 돌아오면…… 그, 로도스 아일랜드의 무도회 말인데요, 저도 참석할 수 있다 그러셨죠. 약속한 거예요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "上次任務只是扭了肩膀，上上次的咬傷也快好啦，你可不要小瞧我！唉，我還挺羡慕那幾個阿戈爾獵人的。算啦，該走了。等我回來......那個，羅德島的舞會，你說過我也能參加。約好了哦。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "危机当前，还能倒头就睡？也不知道该不该羡慕你......算了，就让你休息一会，我在这里等着。"
+        },
+        {
+          "language": "日文",
+          "content": "危機を目前にして、随分寝付きが良いことで。羨むべきなのかしらね……まあいいわ、しばらく休ませてあげる。ここで待ってるから。"
+        },
+        {
+          "language": "英文",
+          "content": "We're still in deep water, and you managed to fall asleep in a blink of an eye? It makes me wonder if I should be jealous... Fine, you can have your rest for now. I'll be waiting here."
+        },
+        {
+          "language": "韩文",
+          "content": "위기가 코앞에 닥쳤는데도, 편하게 자는 모양이네? 부러워해야 하는 건지…… 뭐, 잠시 쉬어도 괜찮겠지. 여기서 기다려야겠네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "危機當前，還能倒頭就睡？也不知道該不該羡慕你......算了，就讓你休息一會，我在這裡等著。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "伊比利亚审判庭信使，艾丽妮。你就是罗德岛的博士？那几个阿戈尔的猎人好像很信任你......接下来的合作中，让我看看你的特别之处吧。"
+        },
+        {
+          "language": "日文",
+          "content": "イベリア裁判所のトランスポーター、アイリーニです。あなたがロドスのドクターですか？随分エーギルのハンターたちから信頼されているようですが……これからの付き合いで、あなたが如何に優れているのか見せてもらいますからね。"
+        },
+        {
+          "language": "英文",
+          "content": "Irene, Inquisition Messenger of Iberia. Are you the Doctor of Rhodes Island? It seems the Ægir hunters really trust you... Do show me how special you are as we work together in the future."
+        },
+        {
+          "language": "韩文",
+          "content": "이베리아 재판소의 전달자, 아이린입니다. 당신이 로도스 아일랜드의 박사님인가요? 에기르의 헌터들은 당신을 매우 신뢰하고 있는 모양이던데…… 앞으로 함께 하면서 당신의 특별한 모습들을 지켜 보도록 하겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "伊比利亞審判庭信使，艾麗妮。你就是羅德島的博士？那幾個阿戈爾的獵人好像很信任你......接下來的合作中，讓我看看你的特別之處吧。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唔......这些都是你们的干员？有几位怎么看都是危险人物吧？！好吧，我尽量把注意力放在他们的战斗技巧上......"
+        },
+        {
+          "language": "日文",
+          "content": "うわぁ……この方たちは全員ロドスのオペレーターなんですか？あからさまな危険人物が何人かいませんか！？わ、わかりました、戦闘技術に注目すればいいんでしょう……"
+        },
+        {
+          "language": "英文",
+          "content": "Hm... Are these all your operators? Is it just me or do some of them seem like an actual security risk? Alright, fine. I will try my best to focus on their combat techniques…"
+        },
+        {
+          "language": "韩文",
+          "content": "음…… 전부 로도스 아일랜드의 오퍼레이터들이라고요? 몇몇 분은 아무리 봐도 위험인물 같은데요?! 알겠습니다, 저분들의 전투 기술에만 집중하도록 노력하죠……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "唔......這些都是你們的幹員？有幾位怎麼看都是危險人物吧？！好吧，我儘量把注意力放在他們的戰鬥技巧上......"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我需要的是罗德岛的力量，而不是褒奖。啊，这绶带还挺好看的嘛......那我就留下了。"
+        },
+        {
+          "language": "日文",
+          "content": "私はロドスの力がほしいのであって、褒美がほしいわけではありません。……あ、素敵なサッシュですね。いただいておきます。"
+        },
+        {
+          "language": "英文",
+          "content": "What I need is Rhodes Island's power, not a commendation. But… I mean... this ribbon looks nice… Okay, I'll take it."
+        },
+        {
+          "language": "韩文",
+          "content": "제가 필요한 건 로도스 아일랜드의 힘이지, 표창 같은 것이 아닙니다. 앗, 참 예쁜 어깨띠네요…… 그럼 받아두겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我需要的是羅德島的力量，而不是褒獎。啊，這綬帶還挺好看的嘛......那我就留下了。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不管伊比利亚将要面对的是滔天巨浪，还是狂风暴雨，我都不会后退，我的剑更不会再有一丝动摇！"
+        },
+        {
+          "language": "日文",
+          "content": "イベリアを待ち受けるのが巨大な波であろうと、暴風雨であろうと、私は退くつもりはありません。剣に迷いが生じることなど、二度とあり得ません！"
+        },
+        {
+          "language": "英文",
+          "content": "It doesn't matter if Iberia faces ferocious tides or heavy storms. I will never back down, and my blade will never waver again!"
+        },
+        {
+          "language": "韩文",
+          "content": "이베리아가 거대한 파도를 마주한다 해도, 그 어떤 폭풍에 휘말린다 해도 저는 절대로 물러설 생각이 없습니다. 제 검 또한, 결코 흔들리지 않을 겁니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不管伊比利亞將要面對的是滔天巨浪，還是狂風暴雨，我都不會後退，我的劍更不會再有一絲動搖！"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "很好，我一直很好奇罗德岛是怎么执行任务的。"
+        },
+        {
+          "language": "日文",
+          "content": "ちょうど良かった、ロドスがどうやって任務を進めるのか気になっていたんです。"
+        },
+        {
+          "language": "英文",
+          "content": "Perfect. I've been very curious to see how Rhodes Island carries out its missions."
+        },
+        {
+          "language": "韩文",
+          "content": "잘 됐네요, 로도스 아일랜드가 어떻게 임무를 수행하는지 궁금했거든요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "很好，我一直很好奇羅德島是怎麼執行任務的。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我本以为，要过好久，才会轮到我单独带队......呼，我不会让老师失望。"
+        },
+        {
+          "language": "日文",
+          "content": "単独でチームを率いるのはずっと先になると思っていたのですが……ふぅ、師匠を失望させはしません。"
+        },
+        {
+          "language": "英文",
+          "content": "I thought it would be years before I could lead a team alone... I won't disgrace my master."
+        },
+        {
+          "language": "韩文",
+          "content": "제가 단독으로 팀을 이끌게 되기까지는 더 많은 시간이 필요할 거라고 생각했는데…… 후우, 절대로 스승님을 실망시키지 않겠어요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我本以為，要過好久，才會輪到我單獨帶隊......呼，我不會讓老師失望。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "跟着我的灯光走，小心潮水和海雾。"
+        },
+        {
+          "language": "日文",
+          "content": "私の灯りに付いてきてください、潮と海霧に呑まれないように。"
+        },
+        {
+          "language": "英文",
+          "content": "Follow my light. Watch out for the tides and mist."
+        },
+        {
+          "language": "韩文",
+          "content": "조수와 안개에 휩쓸리지 않도록, 제 불빛을 잘 따라와 주세요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "跟著我的燈光走，小心潮水和海霧。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "最危险的敌人，往往最会伪装自己。"
+        },
+        {
+          "language": "日文",
+          "content": "最も危険な敵は、自らを偽る術（すべ）にも長けているものです。"
+        },
+        {
+          "language": "英文",
+          "content": "The most dangerous enemies are usually masters of disguise ."
+        },
+        {
+          "language": "韩文",
+          "content": "가장 위험한 적은, 자신을 숨기는 일에도 뛰어나죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "最危險的敵人，往往最會偽裝自己。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看到我的灯了吗？我在这里。"
+        },
+        {
+          "language": "日文",
+          "content": "私の灯りが見えますか？ここです。"
+        },
+        {
+          "language": "英文",
+          "content": "See the light of my lantern? I'm right here."
+        },
+        {
+          "language": "韩文",
+          "content": "제 등불이 보이시나요? 이쪽입니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "看到我的燈了嗎？我在這裡。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别踏入阴影里。"
+        },
+        {
+          "language": "日文",
+          "content": "影に踏み込まないで。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't step into the shadows."
+        },
+        {
+          "language": "韩文",
+          "content": "그림자에 발을 들이지 말도록."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別踏入陰影裡。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一有动静，我就出剑。"
+        },
+        {
+          "language": "日文",
+          "content": "気配を感じたら、剣を抜きます。"
+        },
+        {
+          "language": "英文",
+          "content": "My sword will respond the instant I spot the movement."
+        },
+        {
+          "language": "韩文",
+          "content": "기척이 느껴지면 검을 뽑겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "一有動靜，我就出劍。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我瞄准了。"
+        },
+        {
+          "language": "日文",
+          "content": "狙いを定めました。"
+        },
+        {
+          "language": "英文",
+          "content": "Locked and Loaded."
+        },
+        {
+          "language": "韩文",
+          "content": "조준을 완료했습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我瞄準了。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的灯将净化邪恶！"
+        },
+        {
+          "language": "日文",
+          "content": "我が灯火が邪悪を払う！"
+        },
+        {
+          "language": "英文",
+          "content": "My light will purge the vice!"
+        },
+        {
+          "language": "韩文",
+          "content": "나의 등불이 악을 멸하리라!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我的燈將淨化邪惡！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的剑将劈开海潮！"
+        },
+        {
+          "language": "日文",
+          "content": "我が刃が海を斬り裂く！"
+        },
+        {
+          "language": "英文",
+          "content": "My blade will cleave the tides!"
+        },
+        {
+          "language": "韩文",
+          "content": "나의 검이 바다를 가르리라!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我的劍將劈開海潮！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的眼将找出真相！"
+        },
+        {
+          "language": "日文",
+          "content": "我が眼差しが真実を暴く！"
+        },
+        {
+          "language": "英文",
+          "content": "My eyes will find the truth!"
+        },
+        {
+          "language": "韩文",
+          "content": "나의 눈이 진실을 밝히리라!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我的眼將找出真相！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的心会作出判决。"
+        },
+        {
+          "language": "日文",
+          "content": "我が心が判決を下す。"
+        },
+        {
+          "language": "英文",
+          "content": "My heart will be the judge."
+        },
+        {
+          "language": "韩文",
+          "content": "나의 마음이 판결을 내리리라."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我的心會作出判決。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "潮水依然在逼近，还不到放松的时候。唔......我笑了吗？谁规定胜利之后不能笑的？"
+        },
+        {
+          "language": "日文",
+          "content": "潮はまだ迫りつつあります、気を抜かないでください。えっ、私が笑っていた？勝利の後に笑ってはいけない規則でもあるんですか？"
+        },
+        {
+          "language": "英文",
+          "content": "The tide still comes in. We can't let our guard down yet. Hm...? I'm smiling? What? Is there a rule that you can't smile after a victory?"
+        },
+        {
+          "language": "韩文",
+          "content": "조수가 여전히 다가오고 있으니, 아직은 안심할 때가 아닙니다. 앗…… 제가 웃었나요? 승리를 거둔 뒤 웃으면 안 된다는 법이라도 있나요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "潮水依然在逼近，還不到放鬆的時候。唔......我笑了嗎？誰規定勝利之後不能笑的？"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你也是这样指挥阿戈尔的猎人作战的吗？现在看来，那个说话很拽的医生承诺的胜利倒多了几分可信度。"
+        },
+        {
+          "language": "日文",
+          "content": "エーギルのハンターたちの指揮もこんな風にやっているんですか？どうやら、あの偉そうな医者が約束した勝利の信憑性が増したようですね。"
+        },
+        {
+          "language": "英文",
+          "content": "Is this how you command the Ægir hunters too? Seems like the victory that the arrogant doctor promised might actually be plausible."
+        },
+        {
+          "language": "韩文",
+          "content": "에기르의 헌터들도 이런 식으로 지휘하셨던 건가요? 이제야 그 잘난 의사가 약속한 승리에, 어느 정도 신빙성이 생기긴 한 것 같네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你也是這樣指揮阿戈爾的獵人作戰的嗎？現在看來，那個說話很拽的醫生承諾的勝利倒多了幾分可信度。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "漏过一个敌人，都可能会导致防线崩溃！快下令，让我去抹除威胁！"
+        },
+        {
+          "language": "日文",
+          "content": "敵を一人でも逃せば、防衛線の崩壊に繋がる可能性があります！いち早く指示を！私が危険因子を排除します！"
+        },
+        {
+          "language": "英文",
+          "content": "Letting even a single enemy slip by could crumble our line of defense! Hurry, give me the order! Let me eliminate the threat!"
+        },
+        {
+          "language": "韩文",
+          "content": "적을 하나만 놓쳐도 방어선이 무너질 가능성이 있습니다! 어서 명령을 내리십시오, 제가 위협을 배제하러 가겠습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "漏過一個敵人，都可能會導致防線崩潰！快下令，讓我去抹除威脅！"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "审判官绝不能忍受在邪祟面前后退！但是，我答应过老师，艾丽妮还不能死在这里......"
+        },
+        {
+          "language": "日文",
+          "content": "審問官として、邪悪を前に後退することなど絶対にあり得ません！ですが、師匠に約束したんです。私はまだここでは死ねません……"
+        },
+        {
+          "language": "英文",
+          "content": "An Inquisitor must never yield in the face of evil! But I also made a promise to my master. I can't die here. Not yet."
+        },
+        {
+          "language": "韩文",
+          "content": "재판관은 악을 앞에 두고 물러설 수 없습니다! 하지만 스승님과 약속했기 때문에 저는 아직 여기서 죽을 수는 없어요……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "審判官絕不能忍受在邪祟面前後退！但是，我答應過老師，艾麗妮還不能死在這裡......"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们的舰船是挺大的，但还是不及伊比利亚曾经的旗舰宽敞嘛。"
+        },
+        {
+          "language": "日文",
+          "content": "あなたたちの船は随分大きいですが、それでもかつてのイベリアの旗艦には及びませんね。"
+        },
+        {
+          "language": "英文",
+          "content": "You have a pretty big ship here, but it's not nearly as roomy as an old Iberian flagship."
+        },
+        {
+          "language": "韩文",
+          "content": "꽤나 큰 함선이군요. 하지만 옛날 이베리아의 기함에 비할 바는 아니에요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你們的艦船是挺大的，但還是不及伊比利亞曾經的旗艦寬敞嘛。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "恐鱼？！哦，是你啊。"
+        },
+        {
+          "language": "日文",
+          "content": "恐魚！？ああ、あなたですか。"
+        },
+        {
+          "language": "英文",
+          "content": "Sea Terror?! Oh, it's you."
+        },
+        {
+          "language": "韩文",
+          "content": "시테러?! 아, 당신이었군요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "恐魚？！哦，是你啊。"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不是说好要带我逛逛的吗？一忙起来就不见人影，还不如开口让我帮你一块儿干啊。"
+        },
+        {
+          "language": "日文",
+          "content": "艦内を案内してくれるんじゃなかったんですか？姿を消すほど忙しいなら、素直に手伝ってと言えばいいでしょうに。"
+        },
+        {
+          "language": "英文",
+          "content": "Didn't you promise to show me around? If you were going to disappear the moment things got busy, you could've asked me to help."
+        },
+        {
+          "language": "韩文",
+          "content": "저를 데리고 구경시켜 주겠다 하지 않았나요? 자리에 붙어있지도 못할 만큼 바쁘다면, 차라리 도와달라고 하면 될 텐데요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "不是說好要帶我逛逛的嗎？一忙起來就不見人影，還不如開口讓我幫你一起做啊。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "新的一年......这么快就到了吗？大海的波涛是不是又离我们更近了一些？对不起，我很难不去想这些事。但换个角度说，我们明年依然能奔波在大地上，也算是挺幸运的了吧？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，海岸线上又有新动静了，我得跟你聊聊。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、海岸線にまた新たな動きがあったようです。相談させてください。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, there's new movement on the tides. We need to talk."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님. 해안선에서 새로운 움직임이 보입니다. 회의가 필요할 것 같네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，海岸線上又有新動靜了，我得跟你聊聊。"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......想治愈矿石病？在看清伊比利亚......不，在得知我们所有人面对的海洋的威胁到底是什么之后，我觉得，你们的理想也没那么不切实际了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

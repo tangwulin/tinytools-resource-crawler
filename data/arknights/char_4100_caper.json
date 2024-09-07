@@ -1,0 +1,823 @@
+{
+  "name": "跃跃",
+  "charaKey": "char_4100_caper",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4100_caper"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4100_caper"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4100_caper"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_4100_caper"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，太感谢你啦！你问我为什么要谢你？嘻嘻，你刚刚签上字的，是我的带薪休假申请单呀。"
+        },
+        {
+          "language": "日文",
+          "content": "サインしてくれた？やったー！ありがとね、ドクター！何をそんなに喜んでるのかって？ふふーん、これ、アタシの有給届だからだよん。"
+        },
+        {
+          "language": "英文",
+          "content": "Oh, thank you so much, Doc! Why am I thanking you? Heehee, because you just signed… MY PAID LEAVE APPLICATION!"
+        },
+        {
+          "language": "韩文",
+          "content": "진짜 고마워, 박사! 뭐가 고맙냐고? 히히, 방금 박사가 사인한 건 내 유급 휴가 신청서거든."
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我以前的工作就是专门替人捣乱。管他联合政府、辛嘉斯王朝，还是真正玻利瓦尔人，给谁干活都差不多啦。有时候我会接下敌对两边的活，去的时候干一单，回来的时候再干一单，那场面可热闹了。"
+        },
+        {
+          "language": "日文",
+          "content": "アタシがやってたオシゴトってのは「イタズラ」代行だよ。稼ぎになれば商売相手が連合政府だろうとシンガス王朝だろうと、トゥルーボリバリアンであっても大して変わらないよ。にらみ合ってる勢力の両方から依頼を受けることもあってね、行く時に一丁かまして、帰りにもう一丁仕掛けるの。ああいう大騒ぎったらたまんないよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I used to be a troublemaker for hire. People PAY for my epic pranks. The coalition government, the Singas, True Bolívar. I don't care who I work for. Sometimes, I even work both sides. I take care of one job on my way to one place, and the other on the way back. Jajaja! All that ruckus, it was glorious!!"
+        },
+        {
+          "language": "韩文",
+          "content": "내 예전 직업은 남을 대신해서 '말썽'을 부리고 다니는 거였어. 돈만 벌 수 있다면 상대가 연립 정부든, 싱가스 왕조든, 진정한 볼리바르인이든 신경 안 썼지. 가끔 서로 대립하는 양측의 의뢰를 모두 받을 때도 있었는데, 갈 때 의뢰 하나, 올 때 반대쪽 의뢰 하나 해주면 아주 재밌는 장면이 펼쳐졌다고."
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "喏，玉米角，你要吃吗？错了错了！才不是直接扔进嘴里这么粗暴的吃法。把手伸出来，我教你。要先这样把玉米角一个一个戴在指头上，然后——啊呜！谢谢啦！"
+        },
+        {
+          "language": "日文",
+          "content": "はい、コーンスナック、いる？ってちょっと！わしづかみにして口に放り込むだなんて乱暴すぎるよ。手を出して、教えたげる。こーやって、一本ずつ指に被せていくの。そんで――あむっ！ごちそうさま！"
+        },
+        {
+          "language": "英文",
+          "content": "Here, some corn bugles. Want some? No, no! You can't just throw them in your mouth. Where are your manners? Give me your hand, let me show you. First, you put them on each of your fingertips like that, then—Om! Hehe! Thanks for the food!"
+        },
+        {
+          "language": "韩文",
+          "content": "자, 콘 스낵이야. 먹을래? 아냐, 아냐! 그렇게 바로 입에 넣어버리면 어떡해! 손 줘 봐, 내가 어떻게 먹는 건지 가르쳐 줄게. 자, 일단 이 콘 스낵을 하나하나 손가락에 끼운 다음…… 하압! 맛있다!"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你说这是武器？哈哈哈，你可太逗了。它叫“转转”，是妈妈给我做的玩具，可以像这样飞过去再回来。有破坏力很奇怪吗？这就是它最好玩的地方。"
+        },
+        {
+          "language": "日文",
+          "content": "武器って、この子のこと？アハッ、うけるー。これは「グルグルちゃん」っていって、ママが作ってくれたオモチャだよ。こーやって飛ばしたら戻ってくるの。それにしては破壊力があり過ぎるって？何言ってんの、それが一番面白いトコじゃん。"
+        },
+        {
+          "language": "英文",
+          "content": "You call this a weapon? Hahaha, that's so funny. I call it 'Twirly-twirl.' It's a toy my mama made for me. You can throw it out like this, and then it comes back. What? It's too destructive? That's the fun part."
+        },
+        {
+          "language": "韩文",
+          "content": "무기라니, 이거 말이야? 하핫, 박사는 정말 재밌다니까. 이건 엄마가 만들어준 장난감인데, '빙글이'라고 해. 이렇게 날리면 다시 돌아올 수 있어. 장난감이라고 하기엔 파괴력이 이상하다고? 무슨 소리야, 그게 제일 재미있는 건데."
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我从小就爱玩，能变着法子把那些爱欺负人的家伙耍得团团转，找他们收点“补贴”都是小菜一碟。多点新鲜刺激，生活才像样。倒是你，整天都在办公，不会觉得无聊吗？"
+        },
+        {
+          "language": "日文",
+          "content": "アタシはね、小さい時からイタズラをするのが大好きだったんだ。いじめっ子たちをあの手この手でおちょくって、そいつらから「お小遣い」をもらうのなんて朝飯前だった。そういう刺激がなきゃ、生きてるとは言えないから――そういえばアンタさ、毎日机に張り付いて、つまんないって思わないわけ？"
+        },
+        {
+          "language": "英文",
+          "content": "I've been pretty playful ever since I was a kid. I had enough tricks up my sleeve to turn the tables on the bullies, even pulled a few ducats out of them sometimes. I mean, come on, you need a thrill like that to really feel alive. But here you are, working your butt off all day long. Aren't you bored?"
+        },
+        {
+          "language": "韩文",
+          "content": "난 어릴 때부터 장난치는 걸 좋아했어. 못된 녀석들을 온갖 방법으로 골려 주고 '용돈'을 타는 것쯤이야 식은 죽 먹기였지. 그런 신선한 자극이 있어야 생활이 재미있어지잖아? 그러고 보니, 박사는 하루 종일 사무실에만 앉아 있으면 지루하지 않아?"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在你这里听不到雨声啊。小时候下雨天我没地方可去，只能待在妈妈的工作间里，掰着指头帮妈妈数螺丝，听雨点噼里啪啦敲着屋顶的铁皮......猜不到吧，我不讨厌那样的日子。"
+        },
+        {
+          "language": "日文",
+          "content": "ここじゃ雨の音が聞こえないのね。小さい頃、雨の日は遊びに行けないから、ママの仕事場にこもるしかなかったんだ。トタン屋根を叩く雨の音に耳を傾けながら、ママのために指折りでネジを数えるの……そんな生活も嫌いじゃなかったけどね。意外でしょ？"
+        },
+        {
+          "language": "英文",
+          "content": "Can't hear the rain in here at all.... You know, Doctor, back when I was a kid, rainy days meant I couldn't go out to play. All I could do was stay in mama's workshop, helping her count screws, and listening to the pitter-patter of rain on the sheetmetal roof... But I don't mind days like that. You surprised?"
+        },
+        {
+          "language": "韩文",
+          "content": "여기선 빗소리가 안 들리네. 어렸을 땐 비가 오면 놀러 나가질 못했으니까, 엄마의 일터에 틀어박혀 있을 수밖에 없었어. 지붕 위에서 타닥거리는 빗소리를 들으면서 엄마를 도와 나사를 셌던 그 시간들도…… 그렇게 나쁘진 않았지. 꽤 의외지?"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "自称“大帅哥”的黎博利，我行我素的沃尔珀修车工，还有那位特能吃的我的同乡......你是从哪里招到这么多有意思的员工的？嗯，果然混进你们中间是个正确的决定。"
+        },
+        {
+          "language": "日文",
+          "content": "自称「イケメン」のリーベリに、マイペースなヴァルポの整備士、それからあの食いしん坊なアタシの同郷……マジでどっからこんなに面白いメンツを揃えてきたわけ？うんうん、やっぱアンタらについてきて正解だったわ。"
+        },
+        {
+          "language": "英文",
+          "content": "A Liberi dude who calls himself a hottie, a Vulpo car mechanic who does things his way, and my fellow Bolívarian with the huge appetite. Just where did you find all these fun people? I knew I made the right choice joining you guys."
+        },
+        {
+          "language": "韩文",
+          "content": "자칭 '절세미남'이라는 리베리, 완전 마이웨이 불포 정비사, 나랑 같은 지역 출신인 그 먹보까지…… 넌 대체 어디서 이렇게 재밌는 사람들을 모아 온 거야? 흠, 역시 너희들을 따라오길 잘했어."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "离家前我和妈妈吵了一架，不过是因为我患上了矿石病。我自然有办法不给家里添负担，可妈妈......她居然那么用力地抱住我，还说砸锅卖铁都要把我治好。呵，我的生活原来也挺差劲的。"
+        },
+        {
+          "language": "日文",
+          "content": "家を出る前、鉱石病にかかってるのをママに知られて、大ゲンカしたんだよね。自力でなんとかできるから家の負担にはならないよって言ったら、たとえ家中の物全部売ってでもアタシの病気を治すって、力いっぱい抱きしめられた……その時はっと気が付いたよ。アタシ、真っ当な生き方をしてなかったんだなって。"
+        },
+        {
+          "language": "英文",
+          "content": "Before I left home, I had a huge fight with mama, all because I caught Oripathy. I have my ways to keep from being a burden to my family, but mama… she hugged me so tight, she said she'd sell everything in the house to get me treated. I've never wanted to admit it, but I guess my life really is miserable."
+        },
+        {
+          "language": "韩文",
+          "content": "집을 떠나기 전에, 광석병에 걸렸다는 사실을 엄마에게 들키고 나서 크게 한번 싸웠었어. 나는 집안에 부담을 주지 않으려 했던 건데, 엄마는…… 사실 엄마가 날 그렇게 꽉 안아 줄 줄은 몰랐어. 집안 살림을 팔아서라도 어떻게든 내 병을 고쳐 주겠다는 말도 했었는데, 그때 나도 내가 정말 못난 사람이었다는 걸 깨달았지."
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你知道“罐子足球”吗？那是我最喜欢的游戏，从水沟里捞个罐子或是随便什么金属垃圾就能玩啦......你那副表情是什么意思？就算生活环境不济，我们找的乐子可不差。不信，你和我试试？"
+        },
+        {
+          "language": "日文",
+          "content": "「缶蹴りサッカー」って知らない？アタシの一番好きな遊びなんだけどさ、排水溝から適当に缶とか金属のガラクタを拾えばできる……って、何その顔。暮らし向きが悪いからって、楽しみを見つけることに関しちゃ負ける気しないよ。なんなら勝負してみる？"
+        },
+        {
+          "language": "英文",
+          "content": "You know what 'can soccer' is? It's my favorite game! Just take a can out of the ditch or whatever scrap heap, then play ball. Oye wey! What's that look on your face? We may have been poor, but there was plenty of fun to be had. Don't believe me? Come try for yourself!"
+        },
+        {
+          "language": "韩文",
+          "content": "'깡통 차기'라고 들어봤어? 내가 제일 좋아하는 놀이인데, 배수구에서 아무 깡통이나 잡동사니를 주워오면 할 수 있어…… 표정이 왜 그래? 우린 사는 건 힘들었지만, 즐거움을 찾는 것만큼은 다른 사람들한테 안 졌거든. 어때, 나랑 한 번 붙어볼래?"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你都那么困了，不如就把机密文件都交给我处理，放心休息好啦。"
+        },
+        {
+          "language": "日文",
+          "content": "そんなに眠いならもう寝ちゃいなよ。機密書類のチェックはアタシに任せて、ね？"
+        },
+        {
+          "language": "英文",
+          "content": "If you're that tired, how about you hand me all your top-secret documents and get some rest?"
+        },
+        {
+          "language": "韩文",
+          "content": "그렇게 졸리면 이제 그만 자, 기밀 서류는 나한테 맡기고."
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "跃跃，或者随你怎么叫都行，能站在你面前还不够证明我的本事吗？今后我就替你做事啦，好好期待吧，你可别让我腻了哦。"
+        },
+        {
+          "language": "日文",
+          "content": "アタシはケイパー。他の呼び方でもいいけど、好きに呼んで。実力証明なんて、今ここに立ってるっていう事実だけで十分でしょ？これからはアンタのカバン持ちをするんだから、期待しといて。ただし、くれぐれも飽きさせないようにね。"
+        },
+        {
+          "language": "英文",
+          "content": "Caper, or whatever you wanna call me. Just standing here already proves I'm tough enough, right? You're my boss now, so make sure I don't get bored. And be ready for my surprises."
+        },
+        {
+          "language": "韩文",
+          "content": "케이퍼라고 해. 아니면 다른 호칭으로 불러도 상관없어. 내가 지금 네 앞에 서 있다는 것만으로도 실력 증명은 이미 끝난 거잖아? 앞으론 널 위해서 일할 테니까 기대해 줘. 대신, 날 지루하게 만들지 마."
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看到我这一招了吗？哈哈哈，那些家伙的反应实在是太搞笑了。"
+        },
+        {
+          "language": "日文",
+          "content": "今の動き見てくれた？キャハ、あいつらの反応マジで笑えるんだけど。"
+        },
+        {
+          "language": "英文",
+          "content": "You saw that move of mine? Hahaha! Their reaction was so funny."
+        },
+        {
+          "language": "韩文",
+          "content": "방금 내 움직임 봤어? 하하하, 쟤들 반응 완전 웃겨."
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我认识的那些长官为了晋升会给自己人下绊子，我还以为晋升会是件很有趣的事，结果也没什么大不了的嘛。"
+        },
+        {
+          "language": "日文",
+          "content": "アタシが知ってるお偉いさんたちは、昇進のためなら身内にすら汚い手を使うんだから、どんだけ楽しいことだろうと思ったら、大したことないのね。"
+        },
+        {
+          "language": "英文",
+          "content": "All the officers I know are so desperate for promotion, they do all kinds of dirty infighting. So I assumed getting promoted had to be super fun. Hmph, turns out it's no big deal."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 아는 높으신 분들은 승진을 위해서라면 자기 사람들도 팔던데, 그래서 난 승진이 그렇게 재밌는 건 줄 알았지. 근데 별거 없네."
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "升职这种事情，只有妈妈听到会开心吧？对我来说都一样。不过要是能晋升到给你下命令的位置，那我可就有不少点子了。"
+        },
+        {
+          "language": "日文",
+          "content": "昇進なんて、喜んでくれるのはママくらいだよ。アタシにとっちゃどうでもいいことさ。ま、アンタに指図できる立場にまで昇進できるっていうなら、やりたいことは色々出てくるけどね。"
+        },
+        {
+          "language": "英文",
+          "content": "I guess only my mama would be happy to hear I got promoted... It's all the same to me. But If I get promoted high enough to order <i>you</i> around… Heehee, then my head is full of ideas."
+        },
+        {
+          "language": "韩文",
+          "content": "승진이라, 난 아무래도 상관없는데, 엄마가 들으면 엄청 기뻐하시겠네. 뭐 그래도 너한테 명령을 내릴 수 있는 위치까지 승진한다면 또 얘기가 달라지겠지만."
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要给我派点带劲的活了？"
+        },
+        {
+          "language": "日文",
+          "content": "やっとやり応えのある仕事を持ってきてくれたのね？"
+        },
+        {
+          "language": "英文",
+          "content": "Finally giving me a real fun job?"
+        },
+        {
+          "language": "韩文",
+          "content": "드디어 나한테도 재미있는 일을 주는 거야?"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "各位，别太过火啦！当然，我除外！"
+        },
+        {
+          "language": "日文",
+          "content": "みんなー、やり過ぎないようにね！まっ、アタシは別だけど！"
+        },
+        {
+          "language": "英文",
+          "content": "Alright, everyone, don't overdo it! Of course, that doesn't apply to me!"
+        },
+        {
+          "language": "韩文",
+          "content": "다들 적당히 해! 나는 안 그럴 거지만!"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "走咯走咯！"
+        },
+        {
+          "language": "日文",
+          "content": "さーて、いっくよー！"
+        },
+        {
+          "language": "英文",
+          "content": "Come on, come on! Let's go!"
+        },
+        {
+          "language": "韩文",
+          "content": "가자가자!"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "转转，我们有得玩了！"
+        },
+        {
+          "language": "日文",
+          "content": "思いっきり楽しめそうだね、グルグルちゃん！"
+        },
+        {
+          "language": "英文",
+          "content": "Twirly-twirl, it's time to play!"
+        },
+        {
+          "language": "韩文",
+          "content": "빙글아, 한바탕 재밌게 놀아 볼까?"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "轮到我了吧？"
+        },
+        {
+          "language": "日文",
+          "content": "アタシの出番ね？"
+        },
+        {
+          "language": "英文",
+          "content": "My turn now?"
+        },
+        {
+          "language": "韩文",
+          "content": "드디어 내 차례인가?"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "还想什么？就是我了！"
+        },
+        {
+          "language": "日文",
+          "content": "なに悩んでんの？ハイ！アタシで決まり！"
+        },
+        {
+          "language": "英文",
+          "content": "What you waiting for? It's gotta be me!"
+        },
+        {
+          "language": "韩文",
+          "content": "뭘 고민하고 있어? 당연히 내가 나서야지!"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "抓得住我？你在开玩笑吧！"
+        },
+        {
+          "language": "日文",
+          "content": "アタシを捕まえる？寝言は寝てから言ってよね！"
+        },
+        {
+          "language": "英文",
+          "content": "Think you can catch me? That's hilarious!"
+        },
+        {
+          "language": "韩文",
+          "content": "날 잡겠다고? 네가? 웃기시네!"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "和你们玩些什么好呢？"
+        },
+        {
+          "language": "日文",
+          "content": "どう遊んでやろうかなー？"
+        },
+        {
+          "language": "英文",
+          "content": "What should I play with you guys?"
+        },
+        {
+          "language": "韩文",
+          "content": "우리 뭐하고 놀까?"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "回家找妈妈去吧！"
+        },
+        {
+          "language": "日文",
+          "content": "おうちに帰ってママに慰めてもらいな！"
+        },
+        {
+          "language": "英文",
+          "content": "Go home to your mama!"
+        },
+        {
+          "language": "韩文",
+          "content": "너희들, 집에 가서 엄마랑 놀아!"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "注意——转转来咯！"
+        },
+        {
+          "language": "日文",
+          "content": "みんな注目――グルグルちゃんのお出ましよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Watch out—Here comes Twirly-twirl!"
+        },
+        {
+          "language": "韩文",
+          "content": "모두 주목! 빙글이 나가신다!"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "瞧我把你们的裤子都划烂！"
+        },
+        {
+          "language": "日文",
+          "content": "その綺麗なおべべ、ボロ布にしてやんよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Watch me cut your pants to scraps!"
+        },
+        {
+          "language": "韩文",
+          "content": "그 예쁜 바지를 너덜너덜하게 만들어 주겠어."
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看我把你们的头发都削掉！"
+        },
+        {
+          "language": "日文",
+          "content": "全員丸坊主にしてあげる！"
+        },
+        {
+          "language": "英文",
+          "content": "Watch me cut all that hair on your head!"
+        },
+        {
+          "language": "韩文",
+          "content": "전부 대머리로 만들어 주지!"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "太刺激了！我们再玩一次好不好？"
+        },
+        {
+          "language": "日文",
+          "content": "ヤッバ、これ楽しすぎる！ねぇ、もっかいやろ？"
+        },
+        {
+          "language": "英文",
+          "content": "That was such a thrill! Can we do it again?"
+        },
+        {
+          "language": "韩文",
+          "content": "하하, 진짜 재밌었어! 한 번 더 하면 안 돼?"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "成功捣乱的秘诀是——捣乱成功！"
+        },
+        {
+          "language": "日文",
+          "content": "イタズラを成功に導く秘訣っていうのはねぇ――はい、イタズラ大成功！"
+        },
+        {
+          "language": "英文",
+          "content": "The No.1 rule of playing a master prank—is to be a prank master first, haha!"
+        },
+        {
+          "language": "韩文",
+          "content": "장난을 성공시키는 비결은 바로…… 장난을 성공시키는 거야!"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这就结束了？我还没玩够呢。"
+        },
+        {
+          "language": "日文",
+          "content": "えー、もう終わり？まだ遊び足りないんだけど！"
+        },
+        {
+          "language": "英文",
+          "content": "That's it? I haven't had enough fun."
+        },
+        {
+          "language": "韩文",
+          "content": "뭐야, 벌써 끝난 거야? 아직 더 놀고 싶은데."
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，你先溜！我陪他们再玩一会儿！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、先にずらかってて！アタシはもうちょいこいつらと遊んでから帰るよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, you go on ahead! I'm gonna play with them some more!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 먼저 도망쳐! 난 이 녀석들이랑 좀 더 놀다 갈게!"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我的行李哪去了？该不会被你偷偷藏起来了吧？噗......哈哈哈，逗你的，我才没有行李呢。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、アタシの荷物見なかった？まさか、こっそり隠したりしてないよね？……ぷっ、ギャハハハ、冗談だよ！荷物なんか持ってないもん。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor? Where did my luggage go? You didn't hide it, did you? Pff... Hahaha, just messing with you. I ain't got no luggage."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 내 짐 못 봤어? 박사가 몰래 어디 숨긴 거 아니야? 풉…… 하하하, 농담이야. 난 짐 같은 거 없어."
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哇哦，你刚刚的行为，要我为你保密吗？"
+        },
+        {
+          "language": "日文",
+          "content": "おやおやぁ～。今の、ナイショにしてあげた方がいいかな～？"
+        },
+        {
+          "language": "英文",
+          "content": "Whoa~ Need me to keep what you just did a secret?"
+        },
+        {
+          "language": "韩文",
+          "content": "어머어머, 방금 네 행동 못 본 척 해줘야 되는 건가?"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "摸摸我的耳朵吧，不会有诈的......才怪！"
+        },
+        {
+          "language": "日文",
+          "content": "アタシの耳、触ってみる？悪だくみなんか……してないわけないでしょ！"
+        },
+        {
+          "language": "英文",
+          "content": "Try touching my ear. I promise, no surprises... Sike!"
+        },
+        {
+          "language": "韩文",
+          "content": "내 귀 한 번 만져 볼래? 이상한 장난 같은 게…… 아닐 리가 없지!"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "以前这个日子我都是和妈妈一起吃饭的。晚上她会提前下班，给我做超大份的玉米卷饼，肉塞得满满当当的，每年只有今天才能吃到这么多肉哦......喂，别愣着听我讲，你也吃呀。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，别工作啦，快来陪我玩。"
+        },
+        {
+          "language": "日文",
+          "content": "まだ仕事してんの？そんなのほっといてさ、アタシの相手してよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, enough work. Let's play!"
+        },
+        {
+          "language": "韩文",
+          "content": "아직도 일해? 그만하고 나랑 놀아 줘."
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我明天就要走啦。真没想到会在你这儿待这么久，见你好多次也没嫌烦。罗德岛这么好玩，你可不许把它变无聊哦。我接下来要去哪？......哈哈哈，当然是出外勤任务了！回见！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

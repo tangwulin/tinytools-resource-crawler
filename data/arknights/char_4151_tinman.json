@@ -1,0 +1,535 @@
+{
+  "name": "锡人",
+  "charaKey": "char_4151_tinman",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4151_tinman"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4151_tinman"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "已经整理完了。放心，不是所有事情都能找到证据，也不是所有事情都适合记录在册，能让一位梅兰德的侦探整理的文书，本身也不值得做什么手脚。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛和梅兰德已经达成合作意向，后续的工作会有专员来对接。我还是更关心一些老朋友在这艘船上的情况，比如那位羽蛇，那个叫Friston-3的机器人，还有你，博士。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我能在办公室抽烟吗？你要是介意，我可以不把烟吐出来......我曾经在玻利瓦尔的某个火山口待过一阵子，打那时就有了这嗜好，戒不掉了，反正我也没有肺，不会得病。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那群孩子还跟在我后面吗？算了，就让他们觉得哥伦比亚的童话成真了吧......这副外骨骼确实太引人注目了，还得定期保养，我只是一直懒得换。唉，习惯的力量真可怕。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一起看看？几家学刊送来的社会动态报告，可以关注下明年会出现哪些新发明和新风潮......嗯？当然是有必要的，你能看出我是个活了几千年的死魂灵吗？你看，心态年轻一点，多有用。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "无论是W，还是娜斯提，无论是大刀阔斧的改革，还是悬于云层之上的城市，如今，萨卡兹对未来的构想总是令人欣喜。我？一个在基金会打工的家伙，最应该做的当然是投资年轻人。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我很喜欢罗德岛的甲板，视野很好。可惜我当年到处“拾荒”的时候，没有这样一艘船，以及你们这样的同行者......遇见梅兰德·塞勒涅，留在那片荒野，那都是很后面的事了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "站远点，别被烫伤。不用巫术的话，这副“铁皮罐头”在烈日下偶尔会让我有灼烧感......愧疚？或许吧。如果变成薪柴真能解决萨卡兹的问题，那我应该在熔炉里，可惜不能。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我和凯尔希勋爵交流过你的事情。放心，梅兰德不会追究那些过往。时间在我们这样的人身上总是走得很快，不是吗？抽烟吗？再有一支烟的工夫，太阳就该落下去了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好，我去拿报纸，顺便烤点热狗和玉米片......快餐意味着开拓的节奏从不停歇，伟大的发明，不是吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "特里蒙一别后，终于又见面了，博士。侦探锡人，代表梅兰德基金会。自即日起，我们将与罗德岛在各个领域展开合作，共享资源......与秘密。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看来，除了矿石病诊疗之外，罗德岛的其他业务也做得很好，我们的合作空间比我想象的还要大。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "上一次经历类似的场合，还是梅兰德·塞勒涅隔着篝火，扔过来一张地图一瓶酒，邀请我加入他的队伍，那时还没有哥伦比亚这个国家......有些怀念。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "感谢。毕竟对于你我这样的人来说，交付信任可不是一件容易的事情。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "队伍里的某些人，素质不亚于基金会的特工啊，博士，我开始好奇这场行动会如何展开了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "各位叫我“锡人”就好，接下来无论什么命令，都请你们严格执行。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我负责找出一条备用的行动路线。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们换条路走吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让我先伸个懒腰，关节有些锈住了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让我先点根烟，神经别绷那么紧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "留意声音，声音是咒术最好的载体。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "越是习以为常的环境，越容易隐藏危险。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别用这么轻佻的态度对待历史。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别用这么狭隘的视角想象未来。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "找到你们的档案了......好，抹去了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "铭记灵魂被禁锢的滋味，这将是你们所受的最珍贵的教育。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "几年前，我听到过一些卡兹戴尔内战的传闻，看来岁月并没有影响你在这方面的天赋，博士。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "虽然在特里蒙的时候就领教过，但你的谋略和对局势的判断还是让人惊讶......罗德岛藏着一位优秀的战术指挥官，你介意我向基金会这么汇报吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "他们只是逃离了这场战斗，但逃不开这片战场。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没关系。按照合作协议，梅兰德基金会将负责善后事宜，交给我吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "房间不错，说不定住得习惯了，可以直接当新的身体......开个玩笑。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你说人要是突然摸到高温的金属，会怎么样？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你刚刚，是不是看见我从缝隙把烟圈又吸进体内了？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "卡兹戴尔不会有像样的新年活动，而在哥伦比亚，我会和年轻人在广场上一起倒数，等待钟声响起。作为罗德岛的干员，看来今晚必须要满足下那些孩子对我的好奇心了......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有火吗，博士？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哥伦比亚，未来的卡兹戴尔，甚至罗德岛，它们共同的特点是——年轻，年轻便意味着一切。博士，你我都是来自过去的人，但此时此刻，我们都守护着未来。罗德岛与梅兰德的合作将继续。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

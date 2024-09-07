@@ -1,0 +1,1139 @@
+{
+  "name": "槐琥",
+  "charaKey": "char_243_waaifu",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_243_waaifu"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_243_waaifu"
+    },
+    {
+      "language": "中文-方言",
+      "base": "voice_custom/char_243_waaifu_cn_topolect"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_243_waaifu"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_243_waaifu"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士你要去哪，现在不是值班时间吗？要去买午餐？那我陪你去吧，我也有些想买的东西，正好可以充当一下你的护卫。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、まだ仕事中ですよ。どこに行くんですか？お昼を買いに？では私もお供しましょう。ちょうど買いたいものもありますし、ドクターの護衛もできますから。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, where are you going? Shouldn't you be working? Lunch? Well then, I'm coming along. There's a few things I want to buy, and I can also keep a lookout for you."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 아직 근무 시간이에요. 어디 가시는 거예요? 점심을 사러요? 그럼, 저도 같이 갈게요. 마침 사고 싶은 것도 있고, 박사님도 호위할 수 있으니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士你要去哪，現在不是值班時間嗎？要去買午餐？那我陪你去吧，我也有些想買的東西，正好可以充當一下你的護衛。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "博士你要去哪，你现在不是还在值班吗？去买午餐？那我陪你去吖，我正好有东西要买，可以顺便做你的护卫。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "抱歉博士，罗德岛的工作我只能当作一份兼职，毕竟只有完成学业我才能拥有正常的未来，直接脱离社会之类的，恕我拒绝。"
+        },
+        {
+          "language": "日文",
+          "content": "ごめんなさい、ドクター。私はまだ学生の身、ロドスでの仕事はあくまでアルバイトでしかありません。学業を疎かにする者に真っ当な未来などありませんから。ましてや、社会から逸脱するなど、まさに愚の骨頂です。"
+        },
+        {
+          "language": "英文",
+          "content": "Sorry, Doctor, Rhodes Island is just a part-time job for me. I have to study hard to make sure I have a nice, normal future ahead of me. If you plan to have me aboard and on 24-hour call… Well, I'll have to ask you reconsider that."
+        },
+        {
+          "language": "韩文",
+          "content": "죄송해요, 박사님. 전 아직 학생의 몸이라, 로도스 아일랜드의 일은 어디까지나 아르바이트에 불과해요. 학업을 등한시하는 자에게 제대로 된 미래 따윈 없을 테니까요. 하물며 사회에서 일탈하는 건, 더없이 어리석은 짓이죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "抱歉博士，羅德島的工作我只能當作一份兼職，畢竟只有完成學業我才能擁有正常的未來，直接脫離社會之類的，恕我拒絕。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "好对唔住啊博士，罗德岛的工作我只能当作是一份兼职来做，因为我要完成学业先可以有一个正常的未来，要我直接脱离社会之类的事，恕我拒绝。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要送交的文件根据类型不同贴上了不同颜色的标签，备份档案已经全部送到，时间规划在这张表上，夜宵我买好了放在小冰箱里，记得隔水加热。之后还有什么要做的，办公室的灯泡需要我换一下吗？"
+        },
+        {
+          "language": "日文",
+          "content": "提出待ちの資料には種類別に色違いの付箋を貼り付けておきました。バックアップ用のファイルも全部届けましたし、スケジュールもこちらの表にまとめてあります。あ、夜食も冷蔵庫に入れてありますので、お湯で温めてから食べてくださいね。あとは……そうだ、執務室の電球を交換しましょうか？"
+        },
+        {
+          "language": "英文",
+          "content": "I color coded all the documents to be sent out, the backups have already been delivered, your schedule is right here. I bought your late night snack and put it in the refrigerator. Don't forget to heat it up. And last, oh, do you need me to change the light bulb in your office for you?"
+        },
+        {
+          "language": "韩文",
+          "content": "제출 대기 중인 자료에는 종류별로 다른 색 스티커를 붙여뒀어요. 백업용 파일도 전부 전달했고, 스케줄도 이쪽 표에 정리해 뒀어요. 아, 야식도 냉장고에 넣어뒀으니까, 따뜻한 물로 데워서 드세요. 그리고…… 아 참, 집무실 전구를 교체할까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "要送交的文件根據類型不同貼上了不同顏色的標籤，備份檔案已經全部送到，時間規劃在這張表上，夜宵我買好了放在小冰箱裡，記得隔水加熱。之後還有什麼要做的，辦公室的燈泡需要我換一下嗎？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "要送交的文件根据类型唔同贴了唔同颜色的标签，备份档案亦都已经全部送到，而时间规划就写了在这张表上面，至于宵夜我放在了雪柜仔，食之前记得要隔水加热。之后还有咩要做呢，办公室的灯胆要唔要我换？"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我有没有和你说过我的另一份工作？没有？那我就不说了。别多心，博士，是真没什么可说的，如果那家事务所能有罗德岛十分之一勤奋，他们早就垄断龙门的所有侦探生意了。"
+        },
+        {
+          "language": "日文",
+          "content": "私のもう一つの仕事について、お話したことはありますか？いえ、なければいいんです。特に話せることもありませんから、お気になさらず。……もしあの事務所に少しでもロドスのような勤勉さがあれば、龍門の探偵業界をとっくに席巻していたはずなんですけどね。"
+        },
+        {
+          "language": "英文",
+          "content": "Did I ever tell you about my other job? No? Well, I won't. Don't look at me like that, Doctor. There's just not much to say. If my other office worked a tenth as hard as Rhodes Island does, they'd probably have become the only detective agency in Lungmen."
+        },
+        {
+          "language": "韩文",
+          "content": "제 또 다른 직업에 대해 말씀드린 적 있나요? 아니요, 없으시면 됐어요. 딱히 말씀드릴 수 있는 것도 없고, 신경 쓰지 마세요. ……만약 그 사무소에 조금이라도 로도스 아일랜드 같은 근면함이 있었다면, 진작에 용문의 탐정업계를 주름잡았을 텐데 말이죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我有沒有和你說過我的另一份工作？沒有？那我就不說了。別多心，博士，是真沒什麼可說的，如果那家事務所能有羅德島十分之一勤奮，他們早就壟斷龍門的所有偵探生意了。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "我有冇和你说过我另一份工啊？冇？那没事了。真没什么，博士，真没什么可说的，如果间事务所有罗德岛十分之一勤力，他们早就垄断龙门所有侦探生意了。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好奇我的武艺是怎么来的？这个啊，都是我那臭老爸从小开始的奇怪教育造成的。当然，我并不讨厌这身武艺，行侠仗义，离不开它。"
+        },
+        {
+          "language": "日文",
+          "content": "どのように武術を身に付けたか、ですか？愚父の一風変わった教育方針により、幼い頃から武のいろはを叩き込まれてきました。もちろん、嫌いなわけではありませんよ。弱きを助け、強きを挫く、そのためには武術が必要ですから。"
+        },
+        {
+          "language": "英文",
+          "content": "You wonder where I learned martial arts? Well, I have my old codger and his weird education to thank for that. Not that I resent kung fu. Martial arts should always be a part of me if I hope to uphold justice."
+        },
+        {
+          "language": "韩文",
+          "content": "어떻게 무술을 익혔느냐…… 고요? 아버지의 남다른 교육 방침 때문에, 어렸을 때부터 주입식 교육으로 무예의 기초를 익히게 됐죠. 물론, 싫진 않아요. 약한 자를 돕고, 강한 자를 꺾는다. 그러기 위해서는 무술이 필요하니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "好奇我的武藝是怎麼來的？這個啊，都是我那臭老爸從小開始的奇怪教育造成的。當然，我並不討厭這身武藝，行俠仗義，離不開它。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "很好奇我的武艺是怎么来的？呢个呢，其实来自我个衰鬼老豆从小开始的古怪教育。不过，我唔讨厌这身武艺，行侠仗义，离唔开它。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "武艺和人心并无区别，武有阴阳，人有曲直。去纠正不对的事情、去战胜用错地方的武艺、以及去制服邪恶的人，对我来说都是再正常不过的事情了。世道险恶，总得有人挺身而出。"
+        },
+        {
+          "language": "日文",
+          "content": "武に陰陽ありて、人に曲直あり。武術も人の心も同じです。不正を正し、歪んだ武術を打ち伏せ、邪悪な者を成敗する。どれも私にとっては当然のことです。世の悪には、誰かが立ち向かわなければなりませんから。"
+        },
+        {
+          "language": "英文",
+          "content": "Just like how people value morality, martial arts have yin and yang, right and wrong. To right those wrongs, to defeat evil, to counter bad kung fu, these are all second nature to me. The world is dark, and someone must stand for justice."
+        },
+        {
+          "language": "韩文",
+          "content": "무에는 음양이 있고, 인간에게는 곡직이 있다. 무술도 사람의 마음도 같아요. 잘못된 것을 바로잡고, 비뚤어진 무술을 때려눕히고, 사악한 자에게 벌을 준다. 어느 것도 저에겐 당연한 일이에요. 세상의 악에 누군가는 맞서 싸워야 하니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "武藝和人心並無區別，武有陰陽，人有曲直。去糾正不對的事情、去戰勝用錯地方的武藝、以及去制服邪惡的人，對我來說都是再正常不過的事情了。世道險惡，總得有人挺身而出。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "武艺和人心没有什么区别，武有阴阳，人有曲直。去纠正不对的事情、去战胜用错地方的武艺、还有制服邪恶的人，对我来说全部都再正常不过。世道险恶，始终要有人挺身而出。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你说在哪看见了我？龙门城区？可能确实是我，我刚刚下课。你看见我痛打欺负过路人的混混，然后在警员抵达之前溜走了？你认错人了。对，你一定认错人了，别问了。"
+        },
+        {
+          "language": "日文",
+          "content": "さっき私を見かけた？龍門の街で？授業を終えたばかりなので、確かに私かもしれません。え？私が弱い者いじめをするチンピラをボコボコにして、近衛局が駆けつける前に逃げた？えーと、それなら人違いですね。ええ、きっと人違いですよ。さぁ、もうこの話はやめましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "You think you just saw me? In downtown Lungmen? That may have been me. I just finished class. Hm? You saw me beat down some thugs who were harassing a passerby? And then slipped away before the police arrived? Must have been someone else. Heh heh. Definitely. You were just seeing things, that's it."
+        },
+        {
+          "language": "韩文",
+          "content": "아까 절 보셨다고요? 용문의 번화가에서요? 수업이 막 끝났을 무렵이니까, 확실히 저였을지도 모르겠네요. 네? 제가 약한 사람을 괴롭히는 불량배를 때려눕히고, 근위국이 달려오기 전에 도망쳤다고요? 아…… 그렇다면 사람을 잘못 보셨나 보네요! 네네네네, 분명 잘못 보신 거예요! 자! 이제 이 이야기는 그만하죠!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你說在哪看見了我？龍門城區？可能確實是我，我剛剛下課。你看見我痛打欺負過路人的混混，然後在警員抵達之前溜走了？你認錯人了。對，你一定認錯人了，別問了。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "你说在哪看见了我？龙门城区？有可能真的是我，因为我刚刚落课。你看见我痛打欺负过路人烂仔，还要在那些警员来到之前溜了？你认错了。冇错，你一定是认错人，唔好问这么多。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我那臭老爸，嘴里说着要寻找武学真谛，现在也不知去了哪里。拜托，这可是现代社会！像他这样没常识没责任心的人，在哪里丧命都不奇怪。但他教我的，我也没忘记——“武有武德，人有人心。”"
+        },
+        {
+          "language": "日文",
+          "content": "愚父は、武道の真髄を求めてなどと言いながら、あてもない修行の旅に出てしまいました。現代社会で未だにそんなことを……常識も責任感もない人ですから、もうどこかで野垂れ死んでもおかしくないですよ。でもそんな愚父（ちち）から教わった「武に武徳あり、人に心あり」の訓は、今でもこの身に宿っています。"
+        },
+        {
+          "language": "英文",
+          "content": "My rotten dad said he had to go find the true meaning of kung fu before he went off, and I still don't know where he is. Please! What year does he think it is? Find some common sense and learn some responsibility before you get yourself killed. But at least I haven't forgotten what he taught me: 'Martial arts have martial virtue, humans have human kindness.'"
+        },
+        {
+          "language": "韩文",
+          "content": "아버지께선 무도의 진수를 찾는다느니 하면서 정처 없는 수행 길에 올라버렸어요. 현대 사회에 아직도 그런 걸…… 상식도 책임감도 없는 사람이니까, 지금쯤 어딘가에서 객사했어도 이상하지 않겠죠. 하지만 그런 아버지께 배운 “무에는 무덕이 있고, 사람에게는 마음이 있다”는 가르침은, 지금도 제 몸에 깃들어 있어요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我那臭老爸，嘴裡說著要尋找武學真諦，現在也不知去了哪裡。拜託，這可是現代社會！像他這樣沒常識沒責任心的人，在哪裡喪命都不奇怪。但他教我的，我也沒忘記——“武有武德，人有人心。”"
+        },
+        {
+          "language": "中文-方言",
+          "content": "我那衰鬼老豆，讲咩要去寻找武学真谛，结果现在都不知道跑哪去了。拜托，现在是现代社会来的！他这种冇常识冇责任心的人，死在哪里都唔出奇。不过他教我的东西，我还记得——“武有武德，人有人心。”"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，罗德岛有收到寄给我的信件吗？有？太好了。这是我的成绩单......成绩很重要。至今所有科目，我没拿过A以外的成绩；如果我做的不够，许多事情会因为我能力不足而留下遗憾。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、ここに私宛の郵便は届いていませんか？ありました？よかった。中に成績通知書が入ってるはずです……はい、成績は大事です。今のところ、全科目オールAです。少しでも努力を怠れば、力が及ばないばかりに後悔することも増えてしまいますから。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, did any mail come for me? It did? Great. They included my grade report inside... I need them for a lot of things. It's been straight A's for me, so far. If I don't work hard enough, I'll end up regretting all the things I wasn't strong enough to do."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 이쪽으로 제 우편물이 도착하지 않았나요? 있었나요? 다행이다. 안에 성적표가 들어있을 거예요…… 네, 성적이야 당연히 중요하죠. 지금까진 전 과목 올 A예요! 조금이라도 노력을 게을리하면, 나중엔 제 능력이 달려서 후회하는 일도 늘어나 버릴 테니까요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，羅德島有收到寄給我的信件嗎？有？太好了。這裡是我的成績單......成績很重要。至今所有科目，我沒拿過A以外的成績；如果我做的不夠，許多事情會因為我能力不足而留下遺憾。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "博士，罗德岛有冇收到寄给我的信件？有？太好了。这份是我的成绩单......成绩好紧要的。我一直以来所有科目，都冇拿过A以外的成绩；如果我做得唔够，很多东西会因为我能力不足而留下遗憾。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "竟然在睡觉......算了，帮你把工作做完吧。"
+        },
+        {
+          "language": "日文",
+          "content": "こんな時に寝るとは……仕方がありません、残りの業務は私が片付けておきますか。"
+        },
+        {
+          "language": "英文",
+          "content": "Falling asleep at a time like this... Oh well, I'll just finish your work for you."
+        },
+        {
+          "language": "韩文",
+          "content": "이럴 때 주무시다니…… 어쩔 수 없네요. 나머지 업무는 제가 정리해 둘까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "竟然在睡覺......算了，幫你把工作做完吧。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "竟然在睡觉......算啦，帮你把工作做完吧。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请问这里就是罗德岛吗？你好，我是今天起在这里打工的槐琥，请严格要求我，我一定能满足各位的工作需求。嗯，一定。"
+        },
+        {
+          "language": "日文",
+          "content": "こちらがロドスですか？はじめまして、今日からこちらでアルバイトをさせていただくワイフーと申します。ビシバシ厳しいご指導をお願いします。必ず皆様に満足していただけるよう、精進してまいります。"
+        },
+        {
+          "language": "英文",
+          "content": "Is this Rhodes Island? Nice to meet you. I'm Waai Fu, your new part-timer. Please don't go easy on me. I can handle anything you ask of me. Yes, just give me the word."
+        },
+        {
+          "language": "韩文",
+          "content": "여기가 로도스 아일랜드인가요? 처음 뵙겠습니다. 오늘부터 이쪽에서 아르바이트를 하게 된 와이후라고 합니다. 가차 없이 엄격하게 지도 부탁드립니다. 반드시 여러분께서 만족하실 수 있도록 정진하겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "請問這裡就是羅德島嗎？你好，我是今天起在這裡打工的槐琥，請嚴格要求我，我一定能滿足各位的工作需求。嗯，一定。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "请问这里就是罗德岛吗？你好啊，我是由今天开始在这里打工的槐琥，请严格要求我，我一定可以满足各位的工作需求。嗯，一定。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果在这里能这样出拳，就一定能击倒对方。"
+        },
+        {
+          "language": "日文",
+          "content": "ここでこうやって拳を打ち込めば、間違いなく相手を倒せていたはずです。"
+        },
+        {
+          "language": "英文",
+          "content": "If I can fight like this here, I can definitely knock them out."
+        },
+        {
+          "language": "韩文",
+          "content": "여기서 이렇게 주먹을 찔러넣으면, 틀림없이 상대를 쓰러뜨릴 수 있었을 거예요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "如果在這裡能這樣出拳，就一定能擊倒對方。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "如果在这里可以这样出拳，就一定能击倒对方。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "非常感谢，我不会辜负你对我的这份认可。"
+        },
+        {
+          "language": "日文",
+          "content": "ありがとうございます。ドクターの信頼に背かぬよう、精進します。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you very much, Doctor. You placed your trust in me, and I won't let you down."
+        },
+        {
+          "language": "韩文",
+          "content": "감사합니다. 박사님의 신뢰를 저버리지 않도록 정진하겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "非常感謝，我不會辜負你對我的這份認可。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "非常感谢，我唔会辜负你对我的这份认可。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我时常会看见不义之事在眼前发生。每当我没有能力阻止，我就会下定决心精进自己。所以，有什么需要我的地方，尽管开口，我一定全力以赴！"
+        },
+        {
+          "language": "日文",
+          "content": "非道を目にすることは多々ありますが、それを止める力がないと思い知らされる度に、一層精進することを自らに誓うんです。なので、私の力が必要な時はぜひお呼びください。いつでも全力でお助けします！"
+        },
+        {
+          "language": "英文",
+          "content": "I often witness injustices in my life. If I ever find myself unable to stop them, I reflect on the moment, and force myself to get stronger. So, if ever you need me, don't hesitate to say so. I'll be there, with all my strength!"
+        },
+        {
+          "language": "韩文",
+          "content": "도리에 어긋나는 짓을 보는 일은 자주 있지만, 그걸 막을 힘이 없다는 걸 뼈저리게 느낄 때마다 더 정진해야겠다고 저 자신에게 맹세하죠. 그러니까, 저의 힘이 필요하실 땐 꼭 불러주세요. 언제든지 온 힘을 다해 돕겠습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我時常會看見不義之事在眼前發生。每當我沒有能力阻止，我就會下定決心精進自己。所以，有什麼需要我的地方，儘管開口，我一定全力以赴！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "我时常会看见不义之事在眼前发生。而每当我冇能力去阻止，我就会下定决心精进自己。所以，有咩需要我的地方，即管出声，我一定会全力以赴！"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "是要去打击邪恶了吗？"
+        },
+        {
+          "language": "日文",
+          "content": "悪を懲らしめに行くのですね？"
+        },
+        {
+          "language": "英文",
+          "content": "More evil to fight against?"
+        },
+        {
+          "language": "韩文",
+          "content": "악을 응징하러 가는 거죠?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "是要去打擊邪惡了嗎？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "是不是要去打击邪恶啊？"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我没有太多经验，但我不会推辞责任。"
+        },
+        {
+          "language": "日文",
+          "content": "まだ経験は浅いですが、責任逃れなどはしません。"
+        },
+        {
+          "language": "英文",
+          "content": "I have much to learn, but I won't turn down the responsibility."
+        },
+        {
+          "language": "韩文",
+          "content": "아직 경험은 별로 없지만, 책임 회피 같은 건 하지 않겠습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我沒有太多經驗，但我不會推辭責任。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "我冇乜经验，但是我唔会推辞责任。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "诛恶义举，在所不辞！"
+        },
+        {
+          "language": "日文",
+          "content": "悪を断つのは私の使命ですから！"
+        },
+        {
+          "language": "英文",
+          "content": "Fight evil with the fist of justice!"
+        },
+        {
+          "language": "韩文",
+          "content": "악을 근절시키는 건 저의 사명이니까요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "誅惡義舉，在所不辭！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "诛恶义举，在所不辞！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "斩草除根，当仁不让！"
+        },
+        {
+          "language": "日文",
+          "content": "悪は徹底的に根絶やしにします！"
+        },
+        {
+          "language": "英文",
+          "content": "Like cutting weeds and pulling roots!"
+        },
+        {
+          "language": "韩文",
+          "content": "악은 철저하게 뿌리 뽑겠습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "斬草除根，當仁不讓！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "斩草除根，当仁不让！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在！"
+        },
+        {
+          "language": "日文",
+          "content": "はい。"
+        },
+        {
+          "language": "英文",
+          "content": "Yes!"
+        },
+        {
+          "language": "韩文",
+          "content": "네!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "在！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "我在这！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请说！"
+        },
+        {
+          "language": "日文",
+          "content": "指示を。"
+        },
+        {
+          "language": "英文",
+          "content": "Go ahead!"
+        },
+        {
+          "language": "韩文",
+          "content": "지시를 내려주시죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "請說！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "请说！"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别无他法。"
+        },
+        {
+          "language": "日文",
+          "content": "是非もなし。"
+        },
+        {
+          "language": "英文",
+          "content": "A last resort."
+        },
+        {
+          "language": "韩文",
+          "content": "어쩔 수 없군요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "別無他法。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "别无他法。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好！"
+        },
+        {
+          "language": "日文",
+          "content": "合点承知。"
+        },
+        {
+          "language": "英文",
+          "content": "All right!"
+        },
+        {
+          "language": "韩文",
+          "content": "알겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "好！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "好！"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们背离了社会的准则！"
+        },
+        {
+          "language": "日文",
+          "content": "世の規則に背く悪党め！"
+        },
+        {
+          "language": "英文",
+          "content": "You have crossed the line too far!"
+        },
+        {
+          "language": "韩文",
+          "content": "세상의 규칙을 어기는 악당 녀석!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你們背離了社會的準則！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "你们背离了社会的准则！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不许欺负弱小！"
+        },
+        {
+          "language": "日文",
+          "content": "弱いものいじめは許さん！"
+        },
+        {
+          "language": "英文",
+          "content": "Pick on someone your own size!"
+        },
+        {
+          "language": "韩文",
+          "content": "약자를 괴롭히는 건 용서 못 해!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不許欺負弱小！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "唔准欺负弱小！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "就让你们见识一下，双刀八斩法！"
+        },
+        {
+          "language": "日文",
+          "content": "見せてあげよう、双刀八斬法の真髄を！"
+        },
+        {
+          "language": "英文",
+          "content": "Don't blink! Song Do Bart Cham style!"
+        },
+        {
+          "language": "韩文",
+          "content": "보여주마, 쌍도팔참법의 진수를!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "就讓你們見識一下，雙刀八斬法！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "就让你们见识下吧，双刀八斩法！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "心思所指，拳意所至！"
+        },
+        {
+          "language": "日文",
+          "content": "思念の力が拳に宿る！"
+        },
+        {
+          "language": "英文",
+          "content": "The mind directs, the fist executes!"
+        },
+        {
+          "language": "韩文",
+          "content": "사념의 힘이 주먹에 깃든다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "心思所指，拳意所至！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "心思所指，拳意所至！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "念头不正，终生不正。现在悔改，为时未晚。"
+        },
+        {
+          "language": "日文",
+          "content": "歪んだ基礎の上に城は築けない。改心するのは、今からでも遅くない。"
+        },
+        {
+          "language": "英文",
+          "content": "Foul intentions lead a foul life. Repent now. There is still time."
+        },
+        {
+          "language": "韩文",
+          "content": "비뚤어진 반석 위에 성을 쌓을 수는 없는 법. 개과천선하려면 지금이라도 늦지 않았다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "念頭不正，終生不正。現在悔改，為時未晚。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "念头不正，终生不正。立即悔改，为时未晚。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "精诚所至，金石为开。"
+        },
+        {
+          "language": "日文",
+          "content": "思う念力、岩をも通す。"
+        },
+        {
+          "language": "英文",
+          "content": "A strong will conquers all."
+        },
+        {
+          "language": "韩文",
+          "content": "정성이 지극하면 바위도 뚫는 법!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "精誠所至，金石為開。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "精诚所至，金石为开。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我还得继续磨练自己。现在这样，绝对不够。"
+        },
+        {
+          "language": "日文",
+          "content": "鍛錬が足りませんね。もっと腕を磨かないと。"
+        },
+        {
+          "language": "英文",
+          "content": "That was not enough. I need to train more."
+        },
+        {
+          "language": "韩文",
+          "content": "단련이 부족하네요. 더 실력을 닦아야겠어요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我還得繼續磨練自己。現在這樣，絕對不夠。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "我要继续磨练自己。现在这样，绝对未够。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "父亲......我还不够强。"
+        },
+        {
+          "language": "日文",
+          "content": "父さん……私、まだ力が足りないですね。"
+        },
+        {
+          "language": "英文",
+          "content": "Father... I'm still... not strong enough."
+        },
+        {
+          "language": "韩文",
+          "content": "아버지…… 저는, 아직 힘이 부족한가 봐요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "父親......我還不夠強。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "父亲......我还未够强。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "至少比某个又旧又乱的侦探事务所要好上许多。"
+        },
+        {
+          "language": "日文",
+          "content": "どこかの古くて汚い探偵事務所より、こちらの方が十倍マシですよ。"
+        },
+        {
+          "language": "英文",
+          "content": "At least it's better than some old, messy detective agency."
+        },
+        {
+          "language": "韩文",
+          "content": "어딘가의 낡고 더러운 탐정 사무소보다, 이쪽이 열 배는 낫네요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "至少比某個又舊又亂的偵探事務所要好上許多。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "至少比某个又旧又乱的侦探事务所好得多。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "想偷袭？！......博士，请不要悄悄接近我。来，我送你去医疗部门。"
+        },
+        {
+          "language": "日文",
+          "content": "不意打ち！？……ドクターですか。音もたてずに私に近づかないでください。さぁ、医務室へ行きましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "An ambush...?! ...Doctor, don't you ever sneak up on me like that again. Now let's get you to Medical first."
+        },
+        {
+          "language": "韩文",
+          "content": "기습?!…… 박사님이셨네요. 그렇게 소리 없이 저한테 다가오지 마시라고요. 자, 의무실로 가죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "想偷襲？！......博士，請不要悄悄接近我。來，我送你去醫療部門。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "想偷袭？！......博士，你唔好偷偷接近我。来，我送你去医疗部门。"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "想去散步？走，我陪你。有我在，你会很安全。"
+        },
+        {
+          "language": "日文",
+          "content": "散歩ですか？わかりました、一緒に行きますよ。私がいれば、ドクターは安全ですから。"
+        },
+        {
+          "language": "英文",
+          "content": "You want to go for a walk? Sure, let's get going. It's safer to have me with you."
+        },
+        {
+          "language": "韩文",
+          "content": "산책인가요? 알겠습니다, 같이 갈게요. 제가 있으면 박사님은 안전하니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "想去散步？走，我陪你。有我在，你會很安全。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "想去散步？出发啦，我陪你。有我在，你会好安全。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，节日快乐。我，我只是在散步。很久没有吃过吽做的菜了，结果一不小心......抵抗诱惑的确需要强大的意志，我还需要更多锻炼......博士，趁时间还不太晚，我们一起去锻炼吧！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        },
+        {
+          "language": "中文-方言",
+          "content": "博士，节日快乐。我，我只是在散步而已。很久冇尝过吽的手艺了，结果一唔觉意......抵抗诱惑确实是要有强大的意志，我还需要继续锻炼......博士，趁时间还不太晚，一齐去锻炼吧！"
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要一起去喝茶吗，博士？"
+        },
+        {
+          "language": "日文",
+          "content": "お茶でもしませんか、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Care for some tea, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "차라도 한잔 어떠세요? 박사님."
+        },
+        {
+          "language": "繁体中文",
+          "content": "要一起去喝茶嗎，博士？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "一唔一齐饮茶啊，博士？"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛的工作，对我来说是一次宝贵的实习经历。我学到了很多。但是，我认为自己依然需要更多历练，才能决定自己是否应该留在这里。无论将来怎样，我相信，我和博士都是在为正义而战的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        },
+        {
+          "language": "中文-方言",
+          "content": "罗德岛的工作，对我来说是一次宝贵的实习经历。我学到了好多。但是，我认为自己需要更多历练，才能决定自己系唔系应该留在这里。无论将来会怎样，我相信，我同博士都是为了正义而战。"
+        }
+      ]
+    }
+  ]
+}

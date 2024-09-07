@@ -1,0 +1,983 @@
+{
+  "name": "温蒂",
+  "charaKey": "char_400_weedy",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_400_weedy"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_400_weedy"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_400_weedy"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士的房间还是挺整洁的嘛，还不赖。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターの部屋って意外ときれいだね。いいんじゃない。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, you've managed to keep your room clean. Not bad."
+        },
+        {
+          "language": "韩文",
+          "content": "박사 방, 의외로 깨끗하네? 좋은데?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士的房間還是挺整潔的嘛，還不賴。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "水是大家生活的核心，我已经跟可露希尔小姐交流过改善罗德岛净水系统的事情了，希望我的研究成果能给帮上忙......这样我也不用担心用水不干净了。"
+        },
+        {
+          "language": "日文",
+          "content": "水は生活の中心。クロージャとも浄水システムの改善について話したけど、私の研究が役に立てばいいなと思ってる……そうすれば私も水道水の汚れを心配しなくて済むから。"
+        },
+        {
+          "language": "英文",
+          "content": "Water is the core ingredient of life. I've talked to Miss Closure about improving Rhodes Island's water purification system. I hope that my research can be of help... so I don't have to worry about the water being dirty anymore."
+        },
+        {
+          "language": "韩文",
+          "content": "물은 생활의 중심이야. 클로저와도 정수 시스템 개선에 관해 이야기했지만, 내 연구가 도움이 되면 좋겠어…… 그렇게 하면, 나도 수돗물 오염을 걱정하지 않아도 되니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "水是大家生活的核心，我已經跟可露希爾小姐交流過改善羅德島淨水系統的事情了，希望我的研究成果能幫上忙......這樣我也不用擔心用水不乾淨了。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这只仿生海龙小叶是我以家族流传的图案为原型制作出来的，除了辅助作战，在日常生活中也可以帮我不少忙，比如倒个水拎些重物之类的。"
+        },
+        {
+          "language": "日文",
+          "content": "このシードラゴンのリーフ、一族に代々伝わるモチーフを原型に作ったの。戦闘のサポート以外に、普段の手伝いもよくしてくれる。水を注いだり、重いものを持ってもらったりとか。"
+        },
+        {
+          "language": "英文",
+          "content": "This is Leaf, a Bionic Seadragon that I produced from a prototype design passed across my family. In addition to auxiliary combat functions, he helps out a lot in my daily life, such as pouring water, lifting heavy things, and so on."
+        },
+        {
+          "language": "韩文",
+          "content": "이 시드래곤 '리프'는 일족에 대대로 전해 내려오는 모티브를 바탕으로 만든 거야. 전투할 때도 그렇지만, 평소에 일할 때도 도움이 많이 돼. 물을 주거나, 무거운 걸 들어 주거나……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這隻仿生海龍小葉是我以家族流傳的圖案為原型製作出來的，除了輔助作戰，在日常生活中也可以幫我不少忙，比如倒個水拎些重物之類的。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "和格劳克斯约好的自动化工程实验时间差不多快到了，博士有兴趣一起去看看吗？"
+        },
+        {
+          "language": "日文",
+          "content": "そろそろグラウコスと約束した自動化エンジニアリングの実験の時間だけど、ドクターも興味あれば来る？"
+        },
+        {
+          "language": "英文",
+          "content": "Glaucus and I agreed that we'd conduct our automation engineering experiment at about this time. Doctor, if you're interested, want to come take a look?"
+        },
+        {
+          "language": "韩文",
+          "content": "슬슬 글라우쿠스랑 약속한 자동화 엔지니어링 실험을 할 시간인데, 박사도 관심 있으면 같이 갈래?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "和格勞克斯約好的自動化工程實驗時間差不多快到了，博士有興趣一起去看看嗎？"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这些蓄水炮本来都是为了工程才制造的，除了高压水以外，还可以释放出高温蒸汽束。所以请不要随便触碰，他们可不是可露希尔的小车。"
+        },
+        {
+          "language": "日文",
+          "content": "この蓄水砲は元々工事のために作られたもので、高圧放水以外に、高温スチームも放射できる。だからむやみに触らないで、クロージャの支援ロボットとは違うから。"
+        },
+        {
+          "language": "英文",
+          "content": "These reserve water cannons were originally made for industrial usage. In addition to shooting pressurized water, they can also release high-temperature steam. Please don't touch them haphazardly; they're not like Closure's little buggies."
+        },
+        {
+          "language": "韩文",
+          "content": "이 저수포는 원래 공사용으로 만든 거라서, 고압 방수 말고도, 고온 스팀도 방사할 수 있어. 그러니까 함부로 만지지 마. 클로저의 지원 로봇이랑은 다르니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這些蓄水炮本來都是為了工程才製造的，除了高壓水以外，還可以釋放出高溫蒸氣束。所以請不要隨便觸碰，他們可不是可露希爾的小車。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这些高阶的作战资料是我自己根据作战情况总结的。为了之后的战斗，就麻烦博士仔细阅读一下。然后之后还有好几个我想完善的作战实验也麻烦博士帮我一起，博士肯定不会拒绝我的吧。"
+        },
+        {
+          "language": "日文",
+          "content": "この高等作戦資料は作戦状況に基づいてまとめたもの。今後のためにも、ちゃんと目を通しておいて。それから完成させたい作戦実験もいくつかあるから、それも付き合って。ドクターなら断ったりしないでしょ。"
+        },
+        {
+          "language": "英文",
+          "content": "These high-level combat data materials are based upon my own summaries of the combat situation. Doctor, please read them carefully for the sake of future battles. After that, there are a few operation-related experiments I'd like to perfect that I will need your help on. I trust that you won't turn me down?"
+        },
+        {
+          "language": "韩文",
+          "content": "이 고등 작전 자료는 작전 상황에 기반해서 정리한 거야. 앞으로를 위해서라도, 제대로 한 번 훑어봐 둬. 그리고 완성하고 싶은 작전 실험도 몇 가지 있으니까 그것도 같이 해줘. 박사라면 거절하진 않을 거잖아?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這些高階的作戰資料是我自己根據作戰情況總結的。為了之後的戰鬥，就麻煩博士仔細閱讀一下。然後之後還有好幾個我想完善的作戰實驗也麻煩博士幫我一起，博士肯定不會拒絕我的吧。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "平时我也偶尔会去一趟调香师小姐的庭院休息休息。那里的气味就能让人彻底放松下来，对于缓解研究的疲劳实在是再有效不过了，下次博士要一起去试试吗？"
+        },
+        {
+          "language": "日文",
+          "content": "たまには息抜きにパフューマーさんの庭に行くこともあるよ。あそこの香りは人を心の底からリラックスさせるし、研究の疲れを和らげるには最適だから。今度ドクターも一緒に行く？"
+        },
+        {
+          "language": "英文",
+          "content": "I occasionally go to Perfumer's Convalescence Garden to relax. The aroma there can really wash all your stress away, and it's a very effective way of relieving the fatigue from research. Doctor, how about we head there together and give it a try next time?"
+        },
+        {
+          "language": "韩文",
+          "content": "가끔 한숨 돌리려 퍼퓨머 씨네 정원에 갈 때도 있어. 거기서 나는 향은 사람을 마음속 깊이 편안하게 해주고, 연구하다 지쳤을 때도 딱이거든. 다음에 박사도 같이 갈래?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "平時我也偶爾會去一趟調香師小姐的庭院休息休息。那裡的氣味就能讓人能徹底放鬆下來，對於緩解研究的疲勞實在是再有效不過了，下次博士要一起去試試嗎？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我才不会一个人的时候跟仿生海龙聊天！给他起名字是为了做区分！"
+        },
+        {
+          "language": "日文",
+          "content": "一人でシードラゴンと喋ってなんかいないから！名前付けてるのは他の子と区別するためってだけだし！"
+        },
+        {
+          "language": "英文",
+          "content": "I definitely do not talk to my Bionic Seadragons when I'm alone! I only gave him a name to help distinguish him more easily!"
+        },
+        {
+          "language": "韩文",
+          "content": "혼자서 시드래곤이랑 말하고 그러진 않는다고! 이름을 붙인 건 다른 애들이랑 구별하기 위한 것뿐이거든!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我才不會一個人的時候跟仿生海龍聊天！給他起名字是為了做區分！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "受了不少博士的关照，最近我也越来越习惯待在有博士在的环境里了。除了格劳克斯和研究的同事，明明还挺少见的。"
+        },
+        {
+          "language": "日文",
+          "content": "こうやってお世話になってるうちに、ドクターのいる生活にも慣れてきた。グラウコスや研究者仲間の他に、こんな人ほとんどいないよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Thanks to your compassion, I've recently become more accustomed to having you around, Doctor. And apart from Glaucus and some other research colleagues, I can't say that about many people."
+        },
+        {
+          "language": "韩文",
+          "content": "이렇게 신세를 지고 있는 동안 박사가 있는 생활에도 익숙해졌어. 글라우쿠스나 연구자 동료들 말고, 이런 사람은 거의 없는데."
+        },
+        {
+          "language": "繁体中文",
+          "content": "受了不少博士的關照，最近我也越來越習慣待在有博士在的環境裡了。除了格勞克斯和研究的同事，明明還挺少見的。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "安静的环境真好。"
+        },
+        {
+          "language": "日文",
+          "content": "やはり静かな環境が一番。"
+        },
+        {
+          "language": "英文",
+          "content": "Peace and quiet is best."
+        },
+        {
+          "language": "韩文",
+          "content": "역시 조용한 환경이 최고라니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "安靜的環境真好。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你好，我是罗德岛工程部的温蒂，很早以前就听说过博士的大名了，希望之后能多多指教。啊，握手的话请用这边带着手套的右手。"
+        },
+        {
+          "language": "日文",
+          "content": "はじめまして、私はロドスのエンジニア部門所属のウィーディ。ドクターのことは前からよく聞いてるの、これからよろしくね。あ、握手なら手袋をしてるこの右手でお願い。"
+        },
+        {
+          "language": "英文",
+          "content": "Hello, I'm Weedy from Rhodes Island's Engineering Department. I've heard of your name a long time ago, so I hope we'll have a productive relationship from now on. Ah, if you want to shake hands, please use your gloved right hand."
+        },
+        {
+          "language": "韩文",
+          "content": "반가워. 나는 로도스 아일랜드 엔지니어링부 소속, 위디라고 해. 박사에 대해선 전부터 자주 들었어. 앞으로 잘 부탁해. 아, 악수라면 여기 장갑 낀 오른손으로 부탁할게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "你好，我是羅德島工程部的溫蒂，很早以前就聽說過博士的大名了，希望之後能多多指教。啊，握手的話請用這邊帶著手套的右手。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯，没想到这些还挺有帮助的。"
+        },
+        {
+          "language": "日文",
+          "content": "うん、こんなのが役に立つとは思わなかった。"
+        },
+        {
+          "language": "英文",
+          "content": "Hmm, I didn't expect these to be this helpful."
+        },
+        {
+          "language": "韩文",
+          "content": "음…… 이런 게 도움이 될 줄은 몰랐네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯，沒想到這些還挺有幫助的。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "晋升之后，我的个人房间可以再升级一次吗？"
+        },
+        {
+          "language": "日文",
+          "content": "昇進したら、私の部屋ももう一回グレードアップしてもらえる？"
+        },
+        {
+          "language": "英文",
+          "content": "After my promotion, can I get another upgrade to my personal room?"
+        },
+        {
+          "language": "韩文",
+          "content": "승진하면 내 방도 한 번 더 업그레이드 받을 수 있을까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "晉升之後，我的個人房間可以再升級一次嗎？"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "感谢博士愿意给体弱的我这样的肯定。之后也让我为了罗德岛继续努力吧。"
+        },
+        {
+          "language": "日文",
+          "content": "身体が弱い私でも、こうやって認めてくれてありがとう、ドクター。これからもロドスのために頑張るよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you for acknowledging someone as frail as I am, Doctor. I'll continue to work hard for the sake of Rhodes Island."
+        },
+        {
+          "language": "韩文",
+          "content": "몸이 약한 나를 이렇게 인정해 줘서 고마워, 박사. 앞으로도 로도스 아일랜드를 위해 열심히 할게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "感謝博士願意給體弱的我這樣的肯定。之後也讓我為了羅德島繼續努力吧。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我也要一起吗？"
+        },
+        {
+          "language": "日文",
+          "content": "私も一緒に行くの？"
+        },
+        {
+          "language": "英文",
+          "content": "Do I have to go?"
+        },
+        {
+          "language": "韩文",
+          "content": "나도 같이 가는 거야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我也要一起嗎？"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大家听我指挥！"
+        },
+        {
+          "language": "日文",
+          "content": "皆、私の指示を聞いて！"
+        },
+        {
+          "language": "英文",
+          "content": "Please listen to my instructions!"
+        },
+        {
+          "language": "韩文",
+          "content": "다들, 내 지시를 들어줘!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "大家聽我指揮！"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "出击！"
+        },
+        {
+          "language": "日文",
+          "content": "出撃！"
+        },
+        {
+          "language": "英文",
+          "content": "Attack!"
+        },
+        {
+          "language": "韩文",
+          "content": "출격!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "出擊！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一切都跟战前预想的一样，开始作战！"
+        },
+        {
+          "language": "日文",
+          "content": "全て予想通り。作戦開始！"
+        },
+        {
+          "language": "英文",
+          "content": "Everything is as we planned. To battle!"
+        },
+        {
+          "language": "韩文",
+          "content": "모두 예상대로야. 작전 개시!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "一切都跟戰前預想的一樣，開始作戰！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我在这里。"
+        },
+        {
+          "language": "日文",
+          "content": "ここにいるよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm right here."
+        },
+        {
+          "language": "韩文",
+          "content": "여기 있어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我在這裡。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "器械准备完备。"
+        },
+        {
+          "language": "日文",
+          "content": "機材の準備は万全。"
+        },
+        {
+          "language": "英文",
+          "content": "My equipment is ready."
+        },
+        {
+          "language": "韩文",
+          "content": "기재 준비는 다 해놨어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "器械準備完備。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "交给我吧！"
+        },
+        {
+          "language": "日文",
+          "content": "任せて。"
+        },
+        {
+          "language": "英文",
+          "content": "Leave it to me!"
+        },
+        {
+          "language": "韩文",
+          "content": "맡겨줘."
+        },
+        {
+          "language": "繁体中文",
+          "content": "交給我吧！"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小叶，我们加油！"
+        },
+        {
+          "language": "日文",
+          "content": "リーフ、頑張ろうね。"
+        },
+        {
+          "language": "英文",
+          "content": "Leaf, let's do our best!"
+        },
+        {
+          "language": "韩文",
+          "content": "리프, 열심히 하자."
+        },
+        {
+          "language": "繁体中文",
+          "content": "小葉，我們加油！"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "发射！"
+        },
+        {
+          "language": "日文",
+          "content": "発射！"
+        },
+        {
+          "language": "英文",
+          "content": "Fire!"
+        },
+        {
+          "language": "韩文",
+          "content": "발사!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "發射！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "锁定敌人！攻击！"
+        },
+        {
+          "language": "日文",
+          "content": "敵影ロックオン！攻撃！"
+        },
+        {
+          "language": "英文",
+          "content": "Lock down the enemy! Attack!"
+        },
+        {
+          "language": "韩文",
+          "content": "적을 록 온! 공격!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "鎖定敵人！攻擊！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "全都让开！"
+        },
+        {
+          "language": "日文",
+          "content": "みんなあっちいって！"
+        },
+        {
+          "language": "英文",
+          "content": "Out of my way!"
+        },
+        {
+          "language": "韩文",
+          "content": "모두 저리 가!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "全都讓開！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哈！"
+        },
+        {
+          "language": "日文",
+          "content": "はっ！"
+        },
+        {
+          "language": "英文",
+          "content": "Haah!"
+        },
+        {
+          "language": "韩文",
+          "content": "하앗!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哈！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "只要战术正确了，根本就是小菜一碟。"
+        },
+        {
+          "language": "日文",
+          "content": "戦術さえ正しければ、こんなのなんてことない。"
+        },
+        {
+          "language": "英文",
+          "content": "Everything's a piece of cake, as long as we employ the proper tactics."
+        },
+        {
+          "language": "韩文",
+          "content": "전술만 옳게 짠다면, 이런 건 아무것도 아니야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "只要戰術正確了，根本就是小菜一碟。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "工程学的作用不可小觑！"
+        },
+        {
+          "language": "日文",
+          "content": "工学の力を甘く見ないで！"
+        },
+        {
+          "language": "英文",
+          "content": "Don't underestimate the importance of engineering!"
+        },
+        {
+          "language": "韩文",
+          "content": "공학의 힘을 우습게 보지 말라고!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "工程學的作用不可小覷！"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......等我回去调整一下设备的参数，不会有下次了。"
+        },
+        {
+          "language": "日文",
+          "content": "……戻ったらちょっと機材の設定を見直す。次は繰り返さない。"
+        },
+        {
+          "language": "英文",
+          "content": "...After I head back and adjust the parameters of this device, this won't happen again."
+        },
+        {
+          "language": "韩文",
+          "content": "……돌아가면 기재 설정을 살짝 다시 해야겠어. 다음엔 안 이럴 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "......等我回去調整一下設備的參數，不會有下次了。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小叶， 掩护我们离开这里！"
+        },
+        {
+          "language": "日文",
+          "content": "リーフ、ここを離脱するから援護して！"
+        },
+        {
+          "language": "英文",
+          "content": "Leaf, cover our escape!"
+        },
+        {
+          "language": "韩文",
+          "content": "리프, 여기를 이탈할 거니까 엄호해 줘!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "小葉， 掩護我們離開這裡！"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里有打扫过吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ここ、掃除してあるんでしょうね？"
+        },
+        {
+          "language": "英文",
+          "content": "Has this place been cleaned before?"
+        },
+        {
+          "language": "韩文",
+          "content": "여기, 청소한 거지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這裡有打掃過嗎？"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "等，等一下！"
+        },
+        {
+          "language": "日文",
+          "content": "ま、待ってよ！"
+        },
+        {
+          "language": "英文",
+          "content": "H-hey!"
+        },
+        {
+          "language": "韩文",
+          "content": "자, 잠깐만!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "等，等一下！"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，让我也来帮忙做点什么吧。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、私にも何かお手伝いさせてちょうだい。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, is there anything I can help you with?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 내가 뭐 도울 건 없어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，讓我也來幫忙做點什麼吧。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，站住不许动，让我检查一下。嗯，衣摆没有沾灰，鞋带也是干净的，还不错嘛。等等，衬衫的领子怎么这么皱，难道你打算就这样出席晚会吗？快回去整理一下，我在这等你。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，你好。"
+        },
+        {
+          "language": "日文",
+          "content": "ああ、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "How do you do, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "어, 박사."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，你好。"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我作为一名体弱的科学家却想要踏上战场，但罗德岛竟然满足了我这个任性的要求。无论在研究室还是战场，我都总是在问自己：是不是能做到更多？在追求科学的价值上，我可是很贪心的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

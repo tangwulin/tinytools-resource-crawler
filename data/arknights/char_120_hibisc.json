@@ -1,0 +1,886 @@
+{
+  "name": "芙蓉",
+  "charaKey": "char_120_hibisc",
+  "images": [
+    "https://media.prts.wiki/b/b9/%E7%AB%8B%E7%BB%98_%E8%8A%99%E8%93%89_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/9/9f/%E7%AB%8B%E7%BB%98_%E8%8A%99%E8%93%89_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_120_hibisc"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_120_hibisc"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_120_hibisc"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_120_hibisc"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您叫我吗，博士！我很高兴能和博士待在一起！"
+        },
+        {
+          "language": "日文",
+          "content": "お呼びですか、ドクター！私、ドクターと一緒にいられるのがとっても嬉しいんです！"
+        },
+        {
+          "language": "英文",
+          "content": "Did you call for me, Doctor? I feel so happy to be with you!"
+        },
+        {
+          "language": "韩文",
+          "content": "부르셨나요, 박사님! 저, 박사님이랑 같이 있을 수 있다는 게 진짜 기뻐요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "您叫我嗎，博士！我很高興能和博士待在一起！"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士！凯尔希医生说博士应该更注意健康哦。简单说的话，就是要·减·少·进·食！这样！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター！ケルシー先生がドクターはもっと健康に注意すべきだって言ってましたよ。簡単に言うと、食・べ・過・ぎ・な・い・よ・う・に！です！"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor! Dr. Kal'tsit said that you need to look after your health more. In two words, E-A-T L-E-S-S! So there!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님! 켈시 선생님이, 박사님은 좀 더 건강에 신경을 써야 한다고 그랬어요. 쉽게 말하자면, 과·식·하·지·말·아·라! 이거죠!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士！凱爾希醫生說博士應該更注意健康哦。簡單說的話，就是要·減·少·進·食！這樣！"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那个，博士，如果我妹妹还是那样态度蛮横，请一定要告诉我哦！那个孩子缺少了我的治疗是绝对不行的！"
+        },
+        {
+          "language": "日文",
+          "content": "あのね、ドクター。妹にね、もし横暴な態度をされたら、絶対に教えてくださいね。あの子は私が治してあげないとダメなんです！"
+        },
+        {
+          "language": "英文",
+          "content": "You know, Doctor, if my sister starts getting all bossy with you, you have to tell me! She needs my treatment or else!"
+        },
+        {
+          "language": "韩文",
+          "content": "있잖아요, 박사님. 여동생이 혹시 난폭하게 굴면 꼭 알려주셔야 해요? 걔는 꼭 제가 한 마디 해야 말을 듣더라고요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "那個，博士，如果我妹妹還是那樣態度蠻橫，請一定要告訴我哦！那個孩子缺少了我的治療是絕對不行的！"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "凯尔希老师教我的知识都很有用，虽然也很难学。不过，因为营养学本来就是我最擅长的，所以我觉得自己做的很好哦。"
+        },
+        {
+          "language": "日文",
+          "content": "ケルシー先生が教えてくれることって、すごーく役に立つんですけど、やっぱり難しいですね！でもでも、栄養学は元々得意だったから、うまくやれてると思いますよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Dr. Kal'tsit teaches me a ton of practical stuff, although it's tough to actually learn! At least I've always had a knack for nutrition, so I think I'm doing well with that!"
+        },
+        {
+          "language": "韩文",
+          "content": "켈시 선생님께서 알려주시는 내용은 정~말 도움이 되긴 하는데, 역시 어려워요! 그래도 그래도, 영양학은 원래부터 자신 있었으니까, 잘 할 수 있을 것 같아요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "凱爾希老師教我的知識都很有用，雖然也很難學。不過，因為營養學本來就是我最擅長的，所以我覺得自己做的很好哦。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "比起刚加入罗德岛时，现在我对大家更放心了！大家也会按时吃掉我的健康食品。只是，为什么吃完之后，大家的表情都变得那么奇怪呢？"
+        },
+        {
+          "language": "日文",
+          "content": "今は、ロドスに来た頃より気が楽です！みんなも時間通りに、ちゃんと私の健康食を食べてくれますし。ただ……なんでみんな、すぐ変な顔をするんでしょうか？"
+        },
+        {
+          "language": "英文",
+          "content": "I feel better about everyone here, compared to when I just joined Rhodes Island! And they all eat my healthy food on schedule! But... why does everyone pull these weird faces when they finish?"
+        },
+        {
+          "language": "韩文",
+          "content": "지금은 로도스 아일랜드에 막 왔을 때보다 마음이 편해요! 다른 분들도 시간에 맞춰서 제가 만든 건강식을 잘 드셔주시고요. 근데…… 왜 다들 금방 표정이 이상하게 변할까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "比起剛加入羅德島時，現在我對大家更放心了！大家也會按時吃掉我的健康食品。只是，為什麼吃完之後，大家的表情都變得那麼奇怪呢？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "锵——博士特供健康餐！清咖啡、不加肉类、芝士、酸黄瓜的生菜汉堡！还有，还有用十二种蔬菜混合制成的沙拉哦！"
+        },
+        {
+          "language": "日文",
+          "content": "ジャ～ン！ドクター用スペシャル健康食でーす！カフェインレスコーヒーに、肉とチーズ、ピクルス、レタス抜きのハンバーガーです！あと、野菜十二種のミックスサラダもありますよ～！"
+        },
+        {
+          "language": "英文",
+          "content": "Tadaaaaaah! A special healthy meal just for you, Doctor! Decaf coffee and a hamburger without meat, cheese, pickles, or lettuce! Oh, and a mixed salad made of 12 different vegetables!"
+        },
+        {
+          "language": "韩文",
+          "content": "짠~ 박사님을 위한 스페셜 건강식입니다~! 디카페인 커피랑~ 고기, 치즈, 피클을 뺀 양상추 햄버거예요! 그리고 열두 가지 채소를 넣은 샐러드도 준비했답니다~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "鏘——博士特供健康餐！清咖啡、不加肉類、起司、酸黃瓜的生菜漢堡！還有，還有用十二種蔬菜混合製成的沙拉哦！"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那个，博士，您的家人在什么地方呢？他们还好吗？有些事，正因为是亲人才难以沟通，但我觉得也不能因为很难就拒绝沟通，对吧？"
+        },
+        {
+          "language": "日文",
+          "content": "あのう……ドクターのご家族って、どちらにいらっしゃるんですか？皆さんお元気なんでしょうか？家族だからこそ言えないことって確かにありますよね……。それでも、家族なんですから、ちゃんと話し合わないとだめだって思います。"
+        },
+        {
+          "language": "英文",
+          "content": "Hey, Doctor, where does your family live? Are they doing well? I know there's things you can't tell them about because they're your family... but, still, I think you've got to reach out. You have to try, at least."
+        },
+        {
+          "language": "韩文",
+          "content": "저기…… 박사님의 가족분들은 어디 계세요? 다들 건강히 잘 지내시나요? 가족이라서 더 말 못하는 것도 있긴 하죠…… 그래도, 가족이니까 대화를 나눠야 한다고 생각해요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "那個，博士，您的家人在什麼地方呢？他們還好嗎？有些事，正因為是親人才難以溝通，但我覺得也不能因為很難就拒絕溝通，對吧？"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果一个人吃饭太寂寞的话，就让我来陪您一起吃吧！对啦，还可以叫上炎熔！"
+        },
+        {
+          "language": "日文",
+          "content": "ひとりでお食事するのは寂しくないですか？私がお付き合いしましょう？そうだ、ラヴァちゃんも呼びましょう！"
+        },
+        {
+          "language": "英文",
+          "content": "Isn't it lonely cooking all by yourself? Let me help you out! Oh, right, and let's get Lava in here too!"
+        },
+        {
+          "language": "韩文",
+          "content": "혼자 식사하시면 쓸쓸하지 않으세요? 저랑 같이 드실래요? 맞다, 라바도 부를게요~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "如果一個人吃飯太寂寞的話，就讓我來陪您一起吃吧！對啦，還可以叫上炎熔！"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，您睡着了吗？那就请好好休息吧，充分的睡眠对健康很有好处。"
+        },
+        {
+          "language": "日文",
+          "content": "……ドクター、眠っていらっしゃるんですか？……ゆっくり休んでくださいね。睡眠を十分にとるのは大切なことですよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, did you fall asleep? Have a good rest then. You need to sleep plenty to stay healthy."
+        },
+        {
+          "language": "韩文",
+          "content": "……박사님, 주무시고 계시나요? ……푹 쉬세요. 잠은 충분히 자는 게 중요하니까요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，您睡著了嗎？那就請好好休息吧，充分的睡眠對健康很有好處。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "实习医生芙蓉，今天开始，我会负责您和罗德岛各位干员的健康管理项目，请多多关照！"
+        },
+        {
+          "language": "日文",
+          "content": "医師見習いのハイビスカスです。みんなからはハイビスって呼ばれてます。今日からドクターとロドスの皆さんの健康管理をしていきますので、よろしくお願いします！"
+        },
+        {
+          "language": "英文",
+          "content": "This is intern Hibiscus. From now on, I'll be in charge of managing yours and every Operator's health at Rhodes Island. Thank you for your cooperation!"
+        },
+        {
+          "language": "韩文",
+          "content": "수련의 히비스커스라고 합니다. 다들 히비스라고 불러요. 오늘부터 박사님과 로도스 아일랜드 분들의 건강 관리를 책임질 예정이니까요, 잘 부탁드려요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "實習醫生芙蓉，今天開始，我會負責您和羅德島各位幹員的健康管理項目，請多多關照！"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "原来如此原来如此！是这样啊！"
+        },
+        {
+          "language": "日文",
+          "content": "なるほど……なるほど！そういうことですね！"
+        },
+        {
+          "language": "英文",
+          "content": "Oh, I see! So that's how you do it!"
+        },
+        {
+          "language": "韩文",
+          "content": "아~ 이렇게 하는 거구나~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "原來如此原來如此！是這樣啊！"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "很荣幸能获得晋升！博士，今后我也会为大家努力进行健康管理，请随时监督我！"
+        },
+        {
+          "language": "日文",
+          "content": "私が昇進できるなんて光栄です！ドクター、これからも皆さんのために頑張って健康管理を行いますので……私のことを見守っててくださいね！"
+        },
+        {
+          "language": "英文",
+          "content": "It's my honor to be promoted! I'm looking forward to working under you for the health management of us all, Doctor!"
+        },
+        {
+          "language": "韩文",
+          "content": "제가 승진을 하다니 영광이에요! 박사님, 앞으로도 모두를 위해 건강 관리 열심히 할 테니까요…… 저 꼭 지켜봐 주세요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "很榮幸能獲得晉升！博士，今後我也會為大家努力進行健康管理，請隨時監督我！"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不会让您失望的！就让我来保护大家！"
+        },
+        {
+          "language": "日文",
+          "content": "失望はさせません。皆さんのことは私がお守りします！"
+        },
+        {
+          "language": "英文",
+          "content": "I won't fail you! I'll protect everyone!"
+        },
+        {
+          "language": "韩文",
+          "content": "실망하지 않을 거예요. 다들 제가 꼭 지켜드리겠습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不會讓您失望的！就讓我來保護大家！"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我知道了！大家的生命就由我来守护！首先，应该准备好特制缓释秘药......"
+        },
+        {
+          "language": "日文",
+          "content": "わかりました！皆さんの命、私がお預かりします！それではまず、効果が持続する秘薬を用意して……。"
+        },
+        {
+          "language": "英文",
+          "content": "Acknowledged! I'll take good care of everyone! First, I need to get my special sustained-release medicine ready..."
+        },
+        {
+          "language": "韩文",
+          "content": "알겠습니다! 여러분의 목숨은 제가 맡겠습니다! 그럼 우선, 효과가 지속되는 비약을 준비하고……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我知道了！大家的生命就由我來守護！首先，應該準備好特製緩釋秘藥......"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不在的时候，博士一定要注意自己的安全！"
+        },
+        {
+          "language": "日文",
+          "content": "あの、私が留守のあいだは、くれぐれも身の安全にお気をつけください！"
+        },
+        {
+          "language": "英文",
+          "content": "Please take good care of yourself while I'm gone!"
+        },
+        {
+          "language": "韩文",
+          "content": "저기, 제가 없는 동안에는, 평소보다 더 안전에 신경 써주셔야 해요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我不在的時候，博士一定要注意自己的安全！"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "准备治疗！"
+        },
+        {
+          "language": "日文",
+          "content": "治療の用意を！"
+        },
+        {
+          "language": "英文",
+          "content": "Ready to heal!"
+        },
+        {
+          "language": "韩文",
+          "content": "치료를 준비하겠습니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "準備治療！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别怕！"
+        },
+        {
+          "language": "日文",
+          "content": "怖がらないでください！"
+        },
+        {
+          "language": "英文",
+          "content": "Don't be afraid!"
+        },
+        {
+          "language": "韩文",
+          "content": "무서워하지 마세요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "別怕！"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士？"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嘿咻。"
+        },
+        {
+          "language": "日文",
+          "content": "よいっしょっと。"
+        },
+        {
+          "language": "英文",
+          "content": "There we go."
+        },
+        {
+          "language": "韩文",
+          "content": "읏차~"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嘿咻。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里很安全！"
+        },
+        {
+          "language": "日文",
+          "content": "ここは安全です！"
+        },
+        {
+          "language": "英文",
+          "content": "It's safe here!"
+        },
+        {
+          "language": "韩文",
+          "content": "이곳은 안전합니다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這裡很安全！"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请睁开眼睛！"
+        },
+        {
+          "language": "日文",
+          "content": "目を覚ましてください！"
+        },
+        {
+          "language": "英文",
+          "content": "Please come to your senses!"
+        },
+        {
+          "language": "韩文",
+          "content": "눈을 뜨세요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "請睜開眼睛！"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我能让你的伤口快速愈合！"
+        },
+        {
+          "language": "日文",
+          "content": "もっと早く傷が癒えるように手伝います！"
+        },
+        {
+          "language": "英文",
+          "content": "I can heal that wound in no time!"
+        },
+        {
+          "language": "韩文",
+          "content": "상처가 더 빠르게 나을 수 있게 도와드릴게요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我能讓你的傷口快速癒合！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "无论有多少伤员，我都能用这把杖治好大家！"
+        },
+        {
+          "language": "日文",
+          "content": "皆さんが傷を負っても……この杖でしっかり治療してあげます！"
+        },
+        {
+          "language": "英文",
+          "content": "Even if everyone gets wounded, I can heal them all with my staff!"
+        },
+        {
+          "language": "韩文",
+          "content": "여러분이 상처를 입으셔도… 이 지팡이로 확실하게 치료해드릴게요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "無論有多少傷患，我都能用這把杖治好大家！"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "每个人都平平安安的，就是对我最大的鼓励啦。"
+        },
+        {
+          "language": "日文",
+          "content": "皆さんが無事であることが、私にとって、一番の励ましになります……。"
+        },
+        {
+          "language": "英文",
+          "content": "Looking after everyone's health is my greatest motivation."
+        },
+        {
+          "language": "韩文",
+          "content": "여러분이 무사하신 모습이 제겐 가장 큰 힘이 된답니다……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "每個人都平平安安的，就是對我最大的鼓勵啦。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士！大家！没有受伤吧？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター！皆さん！怪我はないでしょうか？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor! Everyone! Are you alright?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님! 여러분! 다친 데는 없으세요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士！大家！沒有受傷吧？"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不对......需要急救！"
+        },
+        {
+          "language": "日文",
+          "content": "ダメ……緊急治療を……！"
+        },
+        {
+          "language": "英文",
+          "content": "No... First aid needed!"
+        },
+        {
+          "language": "韩文",
+          "content": "안 되겠어… 응급 치료를…!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "不對......需要急救！"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有什么需要帮忙的吗？"
+        },
+        {
+          "language": "日文",
+          "content": "何かお手伝いしましょうか？"
+        },
+        {
+          "language": "英文",
+          "content": "Anything I can help with?"
+        },
+        {
+          "language": "韩文",
+          "content": "도와드릴 일이 있을까요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "有什麼需要幫忙的嗎？"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊呀~！"
+        },
+        {
+          "language": "日文",
+          "content": "あら～。"
+        },
+        {
+          "language": "英文",
+          "content": "Oh, my~!"
+        },
+        {
+          "language": "韩文",
+          "content": "어머멋~!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "啊呀~！"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，要试一下新的功能饮品吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、新作の栄養ドリンク、試してみませんか？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, do you want to have a taste of my new vitamin drink?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 영양 드링크를 이번에 또 새로 개발했는데, 한번 드셔보실래요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，要試一下新的功能飲品嗎？"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，新的健康日程表！放心啦放心啦，今天面对这样一桌美味的大餐，我特别准许博士可以吃——一口油炸食物！最多啦！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，要不要尝尝这个？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、これを食べてみませんか？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor! Would you mind tasting this?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 이거 드셔보실래요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，要不要嘗嘗這個？"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "原来今天有庆典啊，我忙得都忘了......不过，只要还有一个伤员，医生就不会休息。何况我还要成为更厉害的医师，我继续去忙了！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

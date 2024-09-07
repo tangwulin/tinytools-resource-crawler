@@ -1,0 +1,885 @@
+{
+  "name": "12F",
+  "charaKey": "char_009_12fce",
+  "images": [
+    "https://media.prts.wiki/6/61/%E7%AB%8B%E7%BB%98_12F_1.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_009_12fce"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_009_12fce"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_009_12fce"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_009_12fce"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "抱歉，我能做的事情很有限，也不太会说话，但作为助理感到很荣幸，如果我能帮到博士阁下那就太好了。"
+        },
+        {
+          "language": "日文",
+          "content": "申し訳ありません、ドクター殿。私はこの通り力が弱いうえ、口が達者なわけでもありませんが、それでもアシスタントを務めさせていただける事は至上の喜びです。是非お手伝いさせてください。"
+        },
+        {
+          "language": "英文",
+          "content": "Forgive me, Doctor... There are limits to what I can do, including in conversation... but I'm honored to be your assistant. I look forward to helping you with your work."
+        },
+        {
+          "language": "韩文",
+          "content": "죄송합니다, 박사님. 저는 보시다시피 힘도 약하고, 언변도 뛰어나지 않지만, 그럼에도 저를 어시스턴트로 삼아 주셔서 영광스럽기 그지없습니다. 기쁜 마음으로 도와드리죠."
+        },
+        {
+          "language": "繁体中文",
+          "content": "抱歉，我能做的事情很有限，也不太會說話，但作為助理感到很榮幸，如果我能幫到博士閣下那就太好了。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士阁下，一切不愉快的事情都会过去，大家都是相信您的到来能让一切变得更好，才愿意追随您的，请相信自己。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター殿。嫌なことはいずれ過ぎ去っていくものです。みなさんはドクター殿を信頼してついてきているのですから、もっと自信をお持ちください。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, time heals all wounds. Please have more confidence in yourself. Your Operators have chosen to follow you because we believe that you will bring positive change."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 괴로운 일엔 언젠가 그 끝이 있기 마련입니다. 다들 박사님을 믿고 따르고 있으니, 좀 더 자신감을 가져주십시오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士閣下，一切不愉快的事情都會過去，大家都是相信您的到來能讓一切變得更好，才願意追隨您的，請相信自己。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "很多感染者来到罗德岛生活，并没有怀着多么远大的目标，他们更希望是成为这里的一份子。在这个不再接受他们的世界里活下去，这样下去可不行......"
+        },
+        {
+          "language": "日文",
+          "content": "感染者が普通の生活を営むことを、この世界は許してくれません。夢や希望を忘れてしまった彼らは、ロドスの一員となって生きていくことを願うしかないのです。こんな世界、間違っています……。"
+        },
+        {
+          "language": "英文",
+          "content": "Many Infected have relocated to Rhodes Island... not because they have any particular goals to achieve, but simply because they want a place to call home. The world outside no longer accepts them, after all..."
+        },
+        {
+          "language": "韩文",
+          "content": "감염자가 평범한 삶을 누리는 것을, 이 세상은 허락해주지 않습니다. 꿈도 희망도 잊어버린 그들은 로도스 아일랜드의 일원으로 살아가길 원할 수밖에 없죠. 이런 세상은, 뭔가 잘못되었습니다…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "很多感染者來到羅德島生活，並沒有懷著多麼遠大的目標，他們更希望是成為這裡的一份子。在這個不再接受他們的世界裡活下去，這樣下去可不行......"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "巨枭她虽然对人不是很友好，不过她并没有什么恶意，希望您可以多多包涵。"
+        },
+        {
+          "language": "日文",
+          "content": "アウルはあんな態度ですが、悪気はないはずです。大目に見てやっていただけませんか。"
+        },
+        {
+          "language": "英文",
+          "content": "Owl may not seem very friendly, but she's got a good heart. Please excuse her and pay her no mind."
+        },
+        {
+          "language": "韩文",
+          "content": "아울은 태도가 저렇기는 해도, 나쁜 의도는 없을 겁니다. 부디 넓은 아량으로 용서하여 주시기 바랍니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "巨梟她雖然對人不是很友好，不過她並沒有什麼惡意，希望您可以多多包涵。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "12F？那是我来到这个世界的日子。博士你就把这天当作是我的生日吧。"
+        },
+        {
+          "language": "日文",
+          "content": "12Fという名前の由来ですか？それは、私がこの世界に来た日……。そうですね、私の誕生日ということにしましょう、ドクター殿。"
+        },
+        {
+          "language": "英文",
+          "content": "12F? That was the day I 'came to' this world. You could consider it my birthday."
+        },
+        {
+          "language": "韩文",
+          "content": "제 이름이 12F인 이유가 궁금하십니까? 제가 이 세계에 온 날… 그렇죠, 그냥 제 생일에서 따온 것으로 하죠, 박사님."
+        },
+        {
+          "language": "繁体中文",
+          "content": "12F？那是我來到這個世界的日子。博士你就把這天當作是我的生日吧。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我可能追随不了一个人一辈子，不过现在至少是这一辈子我追随一个人的开始。"
+        },
+        {
+          "language": "日文",
+          "content": "誰かに一生ついていくことはかなわないかもしれません。ですが、少なくとも今は、その始まりの一日になると確信しています。"
+        },
+        {
+          "language": "英文",
+          "content": "I might not be able to spend my entire life serving one person... but at least I can start working on it now."
+        },
+        {
+          "language": "韩文",
+          "content": "평생 한 분만을 따른다는 건 불가능할지도 모릅니다. 하지만, 적어도 지금은, 그 첫날이 될 거라 확신합니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我可能追隨不了一個人一輩子，不過現在至少是這一輩子我追隨一個人的開始。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“她”终于找到你了，博士。这真是一次漫长的旅程。你对“她”,以及所有人来说有着非常重要的意义......"
+        },
+        {
+          "language": "日文",
+          "content": "ようやく「彼女」は貴方を見つけられたようですね。この長い旅路の中で、貴方は彼女にとって…いいえ、すべての人にとって、特別な存在になるはずです……。"
+        },
+        {
+          "language": "英文",
+          "content": "She has finally found you, Doctor. What a perilous journey it's been. You're very important to her, as well as to everyone else."
+        },
+        {
+          "language": "韩文",
+          "content": "이제야 '그녀'가 당신을 찾아낸 것 같군요. 이 기나긴 여행길에서 당신은 그녀에게… 아니, 모든이들에게 특별한 존재가 될 것입니다…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "“她”終於找到你了，博士。這真是一次漫長的旅程。你對“她”,以及所有人來說有著非常重要的意義......"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "即使是您合上眼的时候，我也会伴随在您的左右，保证您的安全，请安心休息吧。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター殿がお休みの時でも、私がそばを離れずお守りしますので、どうか安心してお休みください。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll be by your side watching over you, Doctor, even in your sleep. So rest easy, you have nothing to fear."
+        },
+        {
+          "language": "韩文",
+          "content": "안심하고 푹 쉬십시오. 박사님께서 쉬고 계실 때에도, 제가 항상 곁에서 지켜드릴 테니."
+        },
+        {
+          "language": "繁体中文",
+          "content": "即使是您閡上眼的時候，我也會伴隨在您的左右，保證您的安全，請安心休息吧。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "感谢阁下让我加入这里，从今天开始，我将尽全力为您效劳——作为一名术师。一直以来我都没有名字，如果感觉不方便的话，今后请用12F称呼我。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスへの加入を受け入れていただき、心より感謝いたします。これからは一人の術師として、ドクター殿のために全力を尽くします。名乗れるほどの名前は持ち合わせておりませんので、ご不便であれば、私のことを12Fとお呼びください。"
+        },
+        {
+          "language": "英文",
+          "content": "You have my thanks for allowing me to join you. From now on, I will do my best to serve you, Doctor, with my alchemical skills. I have never had a name... but if you must call me something, you can refer to me as 12F."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드에 합류하는 걸 허락해 주셔서 진심으로 감사드립니다. 앞으로는 캐스터의 한 사람으로서, 최선을 다해 박사님을 돕겠습니다. 이름을 댈 정도로 대단한 존재도 아니니, 정 불편하시다면, 그냥 '12F'라 불러 주십시오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "感謝閣下讓我加入這裡，從今天開始，我將盡全力為您效勞——作為一名術師。一直以來我都沒有名字，如果感覺不方便的話，今後請用12F稱呼我。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "原来是这样，我明白了。感谢您的指导。"
+        },
+        {
+          "language": "日文",
+          "content": "なるほど、そういうことでしたか。ご指導、感謝いたします。"
+        },
+        {
+          "language": "英文",
+          "content": "I see, I understand now. Thank you for your guidance."
+        },
+        {
+          "language": "韩文",
+          "content": "흐음… 그렇게 하는 거였군요. 지도해 주셔서 감사합니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "原來是這樣，我明白了。感謝您的指導。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "虽然我能力不出众，但是我会尽我所能去战斗的。"
+        },
+        {
+          "language": "日文",
+          "content": "秀でた能力は持っておりませんが、全身全霊をかけて戦いに臨みます。"
+        },
+        {
+          "language": "英文",
+          "content": "I may not possess outstanding skills, but I will do my best."
+        },
+        {
+          "language": "韩文",
+          "content": "특출난 능력은 없습니다만, 이 한 몸 바쳐 전투에 임하겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "雖然我能力不出眾，但是我會盡我所能去戰鬥的。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "第一个选择我真的没关系吗？谢谢你博士。"
+        },
+        {
+          "language": "日文",
+          "content": "隊長選出に際して真っ先に私を選ぶとは、本当によろしいのですか？感謝します、ドクター殿。"
+        },
+        {
+          "language": "英文",
+          "content": "Will it be alright for me to be the leader? Anyway, thank you for your trust, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "다른 분들을 놔두고 저를 팀장으로 임명하시다니, 정말 괜찮으시겠습니까? 감사합니다, 박사님."
+        },
+        {
+          "language": "繁体中文",
+          "content": "第一個選擇我真的沒關係嗎？謝謝你博士。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "放轻松，博士。我们一定完成这次行动。"
+        },
+        {
+          "language": "日文",
+          "content": "安心してください。必ず無事に任務を終えてみせます。"
+        },
+        {
+          "language": "英文",
+          "content": "Relax, Doctor. We will complete this operation in no time."
+        },
+        {
+          "language": "韩文",
+          "content": "안심하십시오. 반드시 임무를 완수하겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "放輕鬆，博士。我們一定完成這次行動。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "诸位，请做好作战准备。"
+        },
+        {
+          "language": "日文",
+          "content": "各位、戦闘の準備をお願いします。"
+        },
+        {
+          "language": "英文",
+          "content": "Everyone, get ready for battle."
+        },
+        {
+          "language": "韩文",
+          "content": "여러분, 전투 준비를 부탁드립니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "諸位，請做好作戰準備。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请指示。"
+        },
+        {
+          "language": "日文",
+          "content": "ご指示をお待ちしております。"
+        },
+        {
+          "language": "英文",
+          "content": "Your orders?"
+        },
+        {
+          "language": "韩文",
+          "content": "지시를 내려 주십시오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "請指示。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我准备好了。"
+        },
+        {
+          "language": "日文",
+          "content": "準備はできています。"
+        },
+        {
+          "language": "英文",
+          "content": "Ready for action."
+        },
+        {
+          "language": "韩文",
+          "content": "준비는 되어있습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我準備好了。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "了解。"
+        },
+        {
+          "language": "日文",
+          "content": "了解しました。"
+        },
+        {
+          "language": "英文",
+          "content": "Got it."
+        },
+        {
+          "language": "韩文",
+          "content": "알겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "瞭解。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "收到。"
+        },
+        {
+          "language": "日文",
+          "content": "承知しました。"
+        },
+        {
+          "language": "英文",
+          "content": "Copy."
+        },
+        {
+          "language": "韩文",
+          "content": "말씀에 따르겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "收到。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请让我看见前进的道路。"
+        },
+        {
+          "language": "日文",
+          "content": "進むべき道を示しなさい！"
+        },
+        {
+          "language": "英文",
+          "content": "Please show me the path."
+        },
+        {
+          "language": "韩文",
+          "content": "우리가 나아갈 길을 보여주십시오!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "請讓我看見前進的道路。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "燃烧吧。"
+        },
+        {
+          "language": "日文",
+          "content": "燃え上がりなさい！"
+        },
+        {
+          "language": "英文",
+          "content": "Burn to ashes."
+        },
+        {
+          "language": "韩文",
+          "content": "불타올라 주십시오!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "燃燒吧。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "驱除前方的障碍。"
+        },
+        {
+          "language": "日文",
+          "content": "立ちはだかるものはすべて排除いたしましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "Clear away all obstacles."
+        },
+        {
+          "language": "韩文",
+          "content": "앞을 가로막는 자는 모두 제거하겠습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "驅除前方的障礙。"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "巨枭，小心！"
+        },
+        {
+          "language": "日文",
+          "content": "アウル、気をつけなさい！"
+        },
+        {
+          "language": "英文",
+          "content": "Watch out, Owl!"
+        },
+        {
+          "language": "韩文",
+          "content": "아울, 조심하세요!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "巨梟，小心！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我早已习惯了失败，但只有经历无数失败之后的胜利，才无比难得。不是吗，博士？"
+        },
+        {
+          "language": "日文",
+          "content": "失敗することに慣れてしまった私ですが、失敗を繰り返した先にある成功にこそ価値があると思うのです。ドクター殿もそうは思いませんか？"
+        },
+        {
+          "language": "英文",
+          "content": "I'm used to failure... but a victory after countless defeats is always the most precious one. Don't you agree, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "전 이미 실패란 게 익숙한 몸입니다만, 거듭된 실패 끝에 거둔 성공이야말로 가치 있는 것이라는 걸 깨달았습니다. 박사님도 그렇게 생각하지 않으십니까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我早已習慣了失敗，但只有經歷無數失敗之後的勝利，才無比難得。不是嗎，博士？"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这是属于您的胜利，我很荣幸能成为您的棋子。"
+        },
+        {
+          "language": "日文",
+          "content": "この勝利をドクター殿に捧げます。ドクター殿の下で戦えて光栄でした。"
+        },
+        {
+          "language": "英文",
+          "content": "This victory is all yours, Doctor. And I am honored to be a pawn in your game of chess."
+        },
+        {
+          "language": "韩文",
+          "content": "이 승리를 박사님께 바칩니다. 박사님 밑에서 싸울 수 있어 영광입니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這是屬於您的勝利，我很榮幸能成為您的棋子。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有些危险，不过最后还是胜利了。巨枭你没事吧？"
+        },
+        {
+          "language": "日文",
+          "content": "紙一重の戦いでしたが、勝利を収めることができて良かったです。アウル、無事でしたか？"
+        },
+        {
+          "language": "英文",
+          "content": "That was a hard-won victory, but we did it. Are you all right, Owl?"
+        },
+        {
+          "language": "韩文",
+          "content": "아슬아슬한 싸움이었지만, 승리해서 다행입니다. 아울, 다친 곳은 없나요?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "有些危險，不過最後還是勝利了。巨梟你沒事吧？"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "败乃兵家常事，博士请不要气馁......我经历过许多战争，经验告诉我，属于您的胜利即将到来。"
+        },
+        {
+          "language": "日文",
+          "content": "勝敗は兵家の常と言いますし、どうか気を落とさずに……。幾多の戦いの経験が私に教えてくれているのです、勝利はこの先で待っている、と。"
+        },
+        {
+          "language": "英文",
+          "content": "Failure is only normal. Don't be discouraged. I've been in many wars, and my experience tells me that your victory will come soon."
+        },
+        {
+          "language": "韩文",
+          "content": "승패는 병가지상사라고 하니, 너무 괘념치 마시길… 수많은 전장을 거치며 쌓아온 경험이 제게 알려주고 있습니다. 이 앞에 승리가 기다리고 있다고요."
+        },
+        {
+          "language": "繁体中文",
+          "content": "敗乃兵家常事，博士請不要氣餒......我經歷過許多戰爭，經驗告訴我，屬於您的勝利即將到來。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没事，请让我来帮忙吧。"
+        },
+        {
+          "language": "日文",
+          "content": "よろしければお手伝いしましょうか。遠慮はいりませんよ。"
+        },
+        {
+          "language": "英文",
+          "content": "If you'd like, I can help. No trouble."
+        },
+        {
+          "language": "韩文",
+          "content": "제가 도와드릴 일이 있을까요? 사양하지 않으셔도 됩니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "沒事，請讓我來幫忙吧。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊，请小心。"
+        },
+        {
+          "language": "日文",
+          "content": "あっ、お気をつけください。"
+        },
+        {
+          "language": "英文",
+          "content": "Aah! Be careful."
+        },
+        {
+          "language": "韩文",
+          "content": "아, 조심하십시오."
+        },
+        {
+          "language": "繁体中文",
+          "content": "啊，請小心。"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，感谢你为我做了这么多，而我却没有什么可以报答你的，抱歉。"
+        },
+        {
+          "language": "日文",
+          "content": "私のような者のためにここまでしていただいたのに、何のお返しもできず本当に情けない限りです。申し訳ございません、ドクター殿。"
+        },
+        {
+          "language": "英文",
+          "content": "I am so thankful for all that you have done for me. I feel ashamed I have so little with which to repay your kindness. Forgive me, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "저 같은 것에게 이렇게까지 해 주시다니, 어떻게 보답해야 할지 막막할 따름이군요. 늘 죄송한 마음입니다, 박사님."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士，感謝你為我做了這麼多，而我卻沒有什麼可以報答你的，抱歉。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“在新的一年也能活下去”，这可能是每个佣兵，只敢在心里想着，而不敢说出口的愿望吧。博士，祝您在新的一年里一切平安。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "早上好，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "おはようございます、ドクター殿。"
+        },
+        {
+          "language": "英文",
+          "content": "Good morning to you, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "좋은 아침입니다, 박사님."
+        },
+        {
+          "language": "繁体中文",
+          "content": "早上好，博士。"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我只是一个侥幸活下来的人，在罗德岛获得了容身之所。我会献上我的全部力量，也期待着您带领我们走向的结局，博士。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

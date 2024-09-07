@@ -1,0 +1,1287 @@
+{
+  "name": "夕",
+  "charaKey": "char_2015_dusk",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_2015_dusk"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_2015_dusk"
+    },
+    {
+      "language": "中文-方言",
+      "base": "voice_custom/char_2015_dusk_cn_topolect"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_2015_dusk"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_2015_dusk"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯？不是说过，你敲门之后我要是不答应，你就不准进来吗？你的办公室？值班？那我不也是因为值班才出自己房间的吗？你的办公室是什么意思，册起册起册起，我还在构思哪。"
+        },
+        {
+          "language": "日文",
+          "content": "あら？言ったでしょう、ノックしても返事がなければ入ってこないでって。貴方のオフィス？仕事しに来た？私だって仕事だっていうから自分の部屋からわざわざここに来たんだけど？貴方のオフィスってどういうことよ、しっしっ、こっちは構想中なのよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Hm? Did I not explain that you were forbidden to enter without my express permission, after knocking? Oh? This is your office? You're working? Then have I not come out of my room to work as well? What is the meaning of 'your office'? Get out! I'm still sketching it out."
+        },
+        {
+          "language": "韩文",
+          "content": "어머, 내가 말했지? 노크해도 반응 없으면 들어오지 말라고. 네 사무실이라고? 당직 때문에 왔다고? 나도 당직이라 그래서 굳이 내 방에서 여기까지 온 거거든? 네 사무실이라니 그건 또 무슨 소리야, 괜히 말 걸지 말고 나가 있어. 나 지금 작품 구상 중인 거 안 보여?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯？不是說過，你敲門之後我要是不答應，你就不准進來嗎？你的辦公室？值班？那我不也是因為值班才出自己房間的嗎？你的辦公室是什麼意思，出去出去出去，我還在構思呢。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "嗯？弗是说过，你敲门之后我要是弗答应，你就弗好进来的吗？你的办公室？值班？个么我弗也是因为值班才出仔个自己房间吗？你的办公室是撒诶意思，册起册起册起，我还在思考哪。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "嗯？弗是說過，你敲門之後我要是弗答應，你就弗好進來的嗎？你的辦公室？值班？個麼我弗也是因為值班才出仔個自己房間嗎？你的辦公室是撒誒意思，冊起冊起冊起，我還在思考哪。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你想看画？可以。如果是你的话，送你张画也可以。但你要是喜欢这画，我就不会送你。你不喜欢？那更不用给你了。我这个人就这样，知足吧。"
+        },
+        {
+          "language": "日文",
+          "content": "絵を見たいですって？いいわ、貴方になら一枚くらいあげても構わないけど。でもこの絵が好きっていうのならあげないわよ。嫌い？じゃあなおさらあげないわ。私はこういうやつだから、観念なさいな。"
+        },
+        {
+          "language": "英文",
+          "content": "You want to see my painting? You may. For you, I could even give you the painting. But if you like it, I won't give it to you. You don't like it? Huh, then you wouldn't want it anyway. This is who I am. Deal with it."
+        },
+        {
+          "language": "韩文",
+          "content": "그림이 보고 싶다고? 좋아, 너라면 한 장 줘도 괜찮겠지. 근데… 이 그림이 좋다 그러면, 그냥 안 줄래. 몰랐어? 나 원래 이래. 싫으면 뭐 어쩔 건데?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你想看畫？可以。如果是你的話，送你張畫也可以。但你要是喜歡這畫，我就不會送你。你不喜歡？那更不用給你了。我這個人就這樣，知足吧。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "你想看画？可以。要是你的话，送你一张画也可以。但必故你要是欢喜这画，我就弗会送你。你弗欢喜？个么更加用弗着给你哉。我这个人就这样，省省吧。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "你想看畫？可以。要是你的話，送你一張畫也可以。但必故你要是歡喜這畫，我就弗會送你。你弗歡喜？個麼更加用弗著給你哉。我這個人就這樣，省省吧。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我被困在这艘船上了。要是有人问起来你就和他们这么说，这屋子也别让他们进来。占用公共空间？拒绝履行干员义务？你好，我是被困在这个房间里的大画家，夕。"
+        },
+        {
+          "language": "日文",
+          "content": "この船に閉じ込められてしまったわ。誰かに聞かれたらこう言ってちょうだい。この部屋にも入らせないで。公共の場を占領しているって？オペレーターの義務を拒否しているって？ドーモ、ゴキゲンヨウ、この部屋に閉じ込められている巨匠のシーです。"
+        },
+        {
+          "language": "英文",
+          "content": "Haa… I'm trapped on this ship. If anyone asks, you tell them so, and you do not let them into my room. I'm taking up space? I'm refusing to perform my operator duties? Hello, I am Dusk, the great painter trapped in this room."
+        },
+        {
+          "language": "韩文",
+          "content": "이 배에 갇혀버렸네. 누가 물어보면 이렇게 말해 줄래? 이 방에도 들어오지 말라고. 공공장소를 차지하고 있다고? 오퍼레이터의 의무를 거부하고 있다고? 안녕하세요, 이 방에 갇혀있는 거장, ‘시’라고 합니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我被困在這艘船上了。要是有人問起來你就和他們這麼說，這屋子也別讓他們進來。佔用公共空間？拒絕履行幹員義務？你好，我是被困在這個房間裡的大畫家，夕。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "我被困在的咋船上哉。要是有人问起来你就和他们这么讲，这屋子也别让他们进来。占用公共空间？拒绝履行干员义务？你好，我是被困在这个房间里的大画家，夕。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "我被困在的咋船上哉。要是有人問起來你就和他們這麼講，這屋子也別讓他們進來。佔用公共空間？拒絕履行幹員義務？你好，我是被困在這個房間裡的大畫家，夕。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不出去。别喊我出去了，弗想出去。外面的世界，我不在乎了。不喜欢？我当然喜欢。山川风月，花羽林渊，贩夫走卒，老少男女，画不尽，也看不完，越不过，也走不出。我兴致尽了。"
+        },
+        {
+          "language": "日文",
+          "content": "だから外は行かないってば。呼ばなくていいわよ、絶対外に行かない。外の世界はもうどうでもいいのよ。嫌いかって？好きに決まってるじゃない。花鳥風月、山川草木、梓匠輪輿、老若男女、描ききれないし見切れもしないわ。そして乗り越えられなくて、そこから抜け出せないのよ。私はもう十分味わったわ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm not going out. Don't try to make me go out, I don't want to go out. I no longer care for the world outside. Do I dislike it? I like it fine. The mountains and rivers, the flowers and feathers, the pools and forests, the common folk, young and old, I could paint forever, I could watch forever, and yet, I will not go. It does not hold my interest forever."
+        },
+        {
+          "language": "韩文",
+          "content": "밖에는 안 나간대도? 그러니까 안 불러도 돼. 절대 밖에 안 갈 거니까. 바깥세상은 이제 아무래도 상관없어. 바깥세상이 싫은 거냐고? 당연히 좋아하지. 화조풍월, 산천초목, 자장윤여, 남녀노소, 다 그릴 수도 없고 다 볼 수도 없어. 그리고 뛰어넘을 수 없어서 거기서 빠져나오지 못하는 거지. 나는 이미 질릴 만큼 질렸다고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "不出去。別喊我出去了，不想出去。外面的世界，我不在乎了。不喜歡？我當然喜歡。山川風月，花羽林淵，販夫走卒，老少男女，畫不盡，也看不完，越不過，也走不出。我興致盡了。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "弗出去。弗要喊我出去哉，弗想出去。外面的世界，我弗放在心上哉。弗欢喜？我当然欢喜。山川风月，花羽林渊，贩夫走卒，老少男女，画弗尽，也看弗完，迈弗过，也走弗出。我舒畅哉。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "弗出去。弗要喊我出去哉，弗想出去。外面的世界，我弗放在心上哉。弗歡喜？我當然歡喜。山川風月，花羽林淵，販夫走卒，老少男女，畫弗盡，也看弗完，邁弗過，也走弗出。我舒暢哉。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我讨厌品味这词。开口就把人堵在门外，谁给他们的自信让他们觉得就自己配得上好物什？那样子是最凹糟的。只要尽兴，就是得意。而想要进取，就不准有门户之见。你见过天上双月自私自利吗？"
+        },
+        {
+          "language": "日文",
+          "content": "「品」って言葉は嫌いよ。端っから人を門外漢扱いで拒絶して。自分たちが一流のものに相応しいだなんてどこからそんな自信が湧いてくるのでしょうね。そういうのが一番気色悪いのよ。快く楽しめることができれば、もう十分極意を得たと言えるもの。精進したければ、身分への偏見なんて捨てるべきだわ。天に浮かぶ双月が手前勝手に振舞うところなんて、見たことないでしょう？"
+        },
+        {
+          "language": "英文",
+          "content": "I loathe the word 'taste.' What gives these people the confidence to demand something good just as they open their mouths to lock the gates to others? It is unbecoming. If you are satisfied, you are satisfied. Should you enter, you must not bar the gate. Do you see the twin moons thinking only of themselves?"
+        },
+        {
+          "language": "韩文",
+          "content": "난 ‘품위’라는 말이 싫어. 입을 열었다 하면 사람을 문외한 취급하면서 자기들이 일류에 걸맞네 어쩌네 하고… 대체 어디서 그런 자신감이 솟아나는 걸까? 그런 게 가장 기분 나쁘다니까? 기분 좋게 즐길 수 있다면, 그걸로 이미 충분히 경지에 올랐다고 할 수 있는 거야. 정진이란 게 하고 싶으면 신분에 대한 편견부터 버려야 돼. 하늘에 떠 있는 두 개의 달이 제멋대로 구는 거, 본 적 없잖아?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我討厭品味這詞。開口就把人堵在門外，誰給他們的自信讓他們覺得就自己配得上好東西？那樣子是最糟糕的。只要盡興，就是得意。而想要進取，就不准有門戶之見。你見過天上雙月自私自利嗎？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "我讨厌品味这个词。一张嘴就把人堵在门外，谁给他们的自信让他们觉得就自己配得上好物什？那样子是最凹糟的。只要尽兴，就是得意。而想要进取，就弗准有门户之见。你看见过天上双月自私自利吗？"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "我討厭品味這個詞。一張嘴就把人堵在門外，誰給他們的自信讓他們覺得就自己配得上好物什？那樣子是最凹糟的。只要盡興，就是得意。而想要進取，就弗准有門戶之見。你看見過天上雙月自私自利嗎？"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看我认真作画的机会，就算这大地上万中挑一的人，一生也最多一次。“时来天地皆同力”，气、骨、形、色、法，无一不从无一不至，倾泻如浩荡江河，细密如山间竹影，手中这笔，我都停不下它。"
+        },
+        {
+          "language": "日文",
+          "content": "私が本気を出して絵を描くところを見られる機会って、この世界で一万人に一人もいない優れた者でも、一生に一度あるかないかよ。「時来たれば天地皆力を同じくす」、気・骨・形・色・法、従わぬものなければ至らぬものもなし。傾瀉すること浩蕩なる江河の如く、細密なること山間の竹影の如し。私自身でさえ、手にした絵筆を止められないほどのものよ。"
+        },
+        {
+          "language": "英文",
+          "content": "An opportunity to watch me paint in earnest comes but once in a lifetime to one in ten thousand individuals. 'When the time comes, the strength of heaven and earth are one.' Ch'i, bone, shape, color, method, pouring out as a vast river, fine like the shadow of mountain bamboo, such is my brush, and it will not stop."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 제대로 그림을 그리는 걸 볼 수 있는 기회는, 이 세상에서 만 명에 한 명꼴로 나오는 뛰어난 사람이라도 일생에 한 번 있을까 말까 하거든? 때가 오면 하늘과 땅이 힘을 합칠지니… 기, 골, 형, 색, 법… 따르지 않는 자가 없으면 이르지 못하는 자도 없는 법… 흘러내리는 게 장대한 강과 같고, 세밀하기는 산의 대나무에 드리워진 그림자와도 같구나. 한 번 그리기 시작하면, 나 자신도 손에 쥔 붓을 못 멈출 정도라고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "看我認真作畫的機會，就算這大地上萬中挑一的人，一生也最多一次。“時來天地皆同力”，氣、骨、形、色、法，無一不從無一不至，傾瀉如浩蕩江河，細密如山間竹影，手中這筆，我都停不下它。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "看我认真作画的机会，就算这大地上万中挑一的人，一世也最多一次。“时来天地皆同力”，气、骨、形、色、法，无一弗从的，无一弗来的，倾泻如浩荡江河，细密如山间竹影，手中这笔，我都停弗下它。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "看我認真作畫的機會，就算這大地上萬中挑一的人，一世也最多一次。“時來天地皆同力”，氣、骨、形、色、法，無一弗從的，無一弗來的，傾瀉如浩蕩江河，細密如山間竹影，手中這筆，我都停弗下它。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这段时日我也找了些现在的作品来看。电影还不错，和画很像，好的那些风骨各异，形在，意也不差。好啊，诗和画都算是有传承了。能顺手帮我把年那一屋的垃圾烧了吗？她真的在侮辱电影，拜托。"
+        },
+        {
+          "language": "日文",
+          "content": "最近、私もイマドキの作品に目を通してみたの。映画は悪くないわ、絵と同じで、いいものはそれぞれの精神が宿る。形式も整っていて、含んだ趣意も悪くない。ええ、詩も絵も受け継がれていて大変結構だわ。ついでにニェンの部屋のあのゴミ溜まりを全部燃やしてくれるかしら？あいつのアレは映画への侮辱よ。頼んだわ。"
+        },
+        {
+          "language": "英文",
+          "content": "I took the time to partake of some contemporary works. Films are not bad, they are like paintings. The good ones all have a unique strength of character, with form, and with decent meaning. Right, poetry and painting have a legacy. Do you have time to help me burn Nian's mountain of garbage? She is denigrating the very concept of cinema. Please."
+        },
+        {
+          "language": "韩文",
+          "content": "최근엔, 나도 요즘 작품을 훑어보긴 했어. 영화는 나쁘지 않아. 그림이랑 마찬가지로, 좋은 것들엔 제각기 다른 정신이 깃들어 있지. 형식도 제대로 갖춰져 있고, 내포된 취지도 나쁘지 않더라. 그래, 시도 그림도 다 제대로 계승되고 있어서 꽤 괜찮고. 말 나온 김에 하는 말인데, 니엔 방에 있는 쓰레기 더미 좀 전부 태워줄 수 있을까? 그 녀석 방에 있는 것들은, 영화에 대한 모욕이니까. 부탁 좀 할게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這段時日我也找了些現在的作品來看。電影還不錯，和畫很像，好的那些風骨各異，形在，意也不差。好啊，詩和畫都算是有傳承了。能順手幫我把年那一屋的垃圾燒了嗎？她真的在侮辱電影，拜託。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "这段时日我也找了些现在的作品来看。电影还弗错，和画很像，好的那些风骨各异，形在，意也弗差。好啊，诗和画都算是有传承哉。啊好顺道帮我把年一房间的垃圾烧特哩？她真的在糟蹋电影，帮帮忙。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "這段時日我也找了些現在的作品來看。電影還弗錯，和畫很像，好的那些風骨各異，形在，意也弗差。好啊，詩和畫都算是有傳承哉。啊好順道幫我把年一房間的垃圾燒特哩？她真的在糟蹋電影，幫幫忙。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "饭菜到了？喔，谢谢。嗯~是哪一国的酒？不错呀。蛮好，还是缺了些什么的味道才更真切。好奇我平常吃什么？你，来，闭上眼。啊~是不是没感觉？没错，只要你没看过，我画里的饭菜就不存在。"
+        },
+        {
+          "language": "日文",
+          "content": "ごはんの準備ができた？あら、ありがとう。ふーん、どこの国のお酒かしら？悪くないわ。うん、どこか足りないような味が逆にいいのよ。私が普段何を食べてるのかって？貴方、ちょっとこっち来なさいな。目を閉じて。はい、あーん。なんにも感じないでしょ？そういうことよ。一度もその目で認識したことがなければ、私が描いた料理は存在しないも同然なの。"
+        },
+        {
+          "language": "英文",
+          "content": "Food? Oh, thank you. Hm, where does this drink come from? It's good. Quite good. But I feel like it's missing something. You want to know what I usually eat? Then close your eyes. Ah~ You feel nothing, yes? That's because if you don't look, the food in my paintings does not exist."
+        },
+        {
+          "language": "韩文",
+          "content": "밥 준비 다 됐다고? 어머, 고마워. 흐음~ 어느 나라 술이지? 나쁘지 않은데. 흠, 어딘가 부족한 듯한 맛이 되레 좋은 거라고. 난 평소에 뭘 먹냐고? 흠, 잠깐 이쪽으로 와 봐, 눈 감고. 자, 아~앙~ 아무것도 안 느껴지지? 그런 거야. 한 번도 그 눈으로 인식한 적이 없다면, 내가 그린 요리는 존재하지 않는 거나 마찬가지야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "飯菜到了？喔，謝謝。嗯~是哪一國的酒？不錯呀。蠻好，還是缺了些什麼的味道才更真切。好奇我平常吃什麼？你，來，閉上眼。啊~是不是沒感覺？沒錯，只要你沒看過，我畫裡的飯菜就不存在。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "饭送特来哉？喔，谢谢。嗯~是哪一国的酒？弗错嘛。蛮好，还是缺了些什么的味道才更的真。你想晓得我平常吃撒的？你，来，闭拢眼睛。啊~啊是没感觉？弗错，只要你没看过，我画里的饭菜就弗存在。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "飯送特來哉？喔，謝謝。嗯~是哪一國的酒？弗錯嘛。蠻好，還是缺了些什麼的味道才更的真。你想曉得我平常吃撒的？你，來，閉攏眼睛。啊~啊是沒感覺？弗錯，只要你沒看過，我畫裡的飯菜就弗存在。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看年那一副满不在乎的样子，其实你也知道吧，她对我们的生死在意的不得了，而我，我虽然跟那个在留白上涂涂写写的家伙合不太来，但我们两个的确不在意。人死了，画还在。我死了，笔意还在。"
+        },
+        {
+          "language": "日文",
+          "content": "ニェンはああやって気にしない体を取ってるけど、貴方もわかるでしょう？あいつ、私たちの生死をめちゃくちゃ気にかけてるのよ。私はあの余白に落書きするやつとは気が合わないけど、生死を気にしないのは割と意見が合うのよ。人が死んでも、絵は残る。私が死んでも、筆に乗せた意思は残り続けるもの。"
+        },
+        {
+          "language": "英文",
+          "content": "Take a look at Nian's carefree expression. You know the truth, don't you? She cares quite a bit about our lives, and our deaths. As for me? I may not get along with the wretched scribbler, but neither of us care much. When people die, the paintings remain. When I die, my work remains."
+        },
+        {
+          "language": "韩文",
+          "content": "니엔은 평소에도 그렇게 신경 쓰지 않는 척을 하고 있지만, 너도 알지? 걔가 우리 생사에 대해서 만큼은 되게 신경 쓰고 산다는 거. 나는 그렇게 여백에 낙서하는 녀석이랑은 마음이 맞지 않지만, 생사를 신경 쓰지 않는 것에는 꽤 마음이 맞아. 사람은 죽어도 그림은 남는 법. 내가 죽어도, 붓에 담은 의지는 계속 남아 있을 테니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "看年那一副滿不在乎的樣子，其實你也知道吧，她對我們的生死在意的不得了，而我，我雖然跟那個在留白上塗塗寫寫的傢伙合不太來，但我們兩個的確不在意。人死了，畫還在。我死了，筆意還在。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "看年那一副满弗在乎的样子，其实你也晓得的吧，她对我们的命摆在心上的弗得了，而我，我虽然跟那个在留白上涂涂写写的户头合弗太来，但我们两个的确弗摆在心上。人死了，画还在。我死了，笔意还在。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "看年那一副滿弗在乎的樣子，其實你也曉得的吧，她對我們的命擺在心上的弗得了，而我，我雖然跟那個在留白上塗塗寫寫的戶頭合弗太來，但我們兩個的確弗擺在心上。人死了，畫還在。我死了，筆意還在。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "梦如人生，梦入长卷。人这一睡，会睡过几个千年呢？"
+        },
+        {
+          "language": "日文",
+          "content": "夢は人生の如くして、絵巻に描きつくるものなり。ひとたび眠れば、幾星霜過ぎ去ってしまうんでしょうね。"
+        },
+        {
+          "language": "英文",
+          "content": "Dreams are like unto life, like unto the scroll. One sleeps this sleep, will one sleep for millennia?"
+        },
+        {
+          "language": "韩文",
+          "content": "꿈은 인생과도 같고, 두루마리에 그리는 것과도 같다… 한숨 자고 나면, 얼마나 긴 세월이 흐르게 될까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "夢如人生，夢入長卷。人這一睡，會睡過幾個千年呢？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "梦如人生，梦入长卷。人这一睡，会的睡过几个千年呢？"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "夢如人生，夢入長卷。人這一睡，會的睡過幾個千年呢？"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊？博士？又是合同？好了好了，签了以后你可别再来烦我。拿去......事先讲好，夕我，从不送画，谁都不送。也不接单！"
+        },
+        {
+          "language": "日文",
+          "content": "あら？ドクター？また契約書？はいはい、サインしてあげるからこれ以上私を煩わせないこと。これでいいでしょ……先に言っておくけど、このシーが描いた絵はあげられないわよ。誰にもあげないの。リクエストも受けないから！"
+        },
+        {
+          "language": "英文",
+          "content": "Oh? Doctor? Another contract? Very well, please don't bother me again after I sign this one. Here... I should tell you here and now: I, Dusk, do not give out my paintings. Not to anyone. And I don't take commissions!"
+        },
+        {
+          "language": "韩文",
+          "content": "어머? 박사? 또 계약서야? 알았어. 사인해 줄 테니까, 더 이상 귀찮게 하지 마. 이제 됐지? ……미리 말해두는데, 이 ‘시’가 그린 그림은 줄 수 없어. 누구한테도 안 줄 거야. 리퀘스트 같은 것도 안 받으니까, 그런 줄 알아!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "啊？博士？又是合約？好了好了，簽了以後你可別再來煩我。拿去......事先講好，夕我，從不送畫，誰都不送。也不接單！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "啊？博士？又是合同？好哉好哉，签仔以后你弗要再来烦我哉。拿特去......事先讲好，夕我，从弗送画，谁都弗送。也弗接单！"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "啊？博士？又是合約？好哉好哉，簽仔以後你弗要再來煩我哉。拿特去......事先講好，夕我，從弗送畫，誰都弗送。也弗接單！"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯？操戈杀伐，血流成河，难道说......你想让我画这些？"
+        },
+        {
+          "language": "日文",
+          "content": "ふーん？武器を手に取って殺し合い、血が河川のように流れる様、もしかして……こういうのを描いて欲しいの？"
+        },
+        {
+          "language": "英文",
+          "content": "Hm? A swing of an axe becomes rivers of blood. Do you mean... you want me to paint this?"
+        },
+        {
+          "language": "韩文",
+          "content": "흐음~? 무기를 손에 들고, 서로 죽이고 죽으면서 피가 강처럼 흐르는 모습… 혹시, 이런 걸 그려줬으면 하는 거야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯？操戈殺伐，血流成河，難道說......你想讓我畫這些？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "嗯？操戈杀伐，血流成河，难道说......你想让我画诶些？"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "嗯？操戈殺伐，血流成河，難道說......你想讓我畫誒些？"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我为什么用剑？那可有讲究，“以砚为鞘，可以研春秋；以笔为剑，可以涂鬼神”。真的假的？自然是我随便说的。"
+        },
+        {
+          "language": "日文",
+          "content": "なんで私が剣を使うのかって？それはそれは奥深いものよ。曰く、「硯を以て鞘と為せば、以て春秋を研ぐべし。筆を以て剣と為せば、以て鬼神を訂すべし」なんてね。本当かどうかって？適当に言っただけに決まってるじゃない。"
+        },
+        {
+          "language": "英文",
+          "content": "Why use a sword? There is a reason. 'With an inkstone sheath, one may learn the annals. With a brush sword, one may paint the celestial.' Is it true? Naturally, I speak off the cuff."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 왜 검을 쓰냐고? 그건 정말 정말 심오한 건데… “벼루를 칼집으로 삼으면 춘추를 갈아야 하고, 붓을 검으로 삼으면 그것으로 귀신을 정정해야 하느니”……라는 말이 있어. 정말이냐고? 그야 당연히, 생각나는 대로 아무 말이나 한 번 해본 거지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我為什麼用劍？那可有講究，“以硯為鞘，可以研春秋；以筆為劍，可以塗鬼神”。真的假的？自然是我隨便說的。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "我为撒用剑？那可有讲究的，“以砚为鞘，可以研春秋；以笔为剑，可以涂鬼神”。真的假的？自然是我随便讲讲的。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "我為撒用劍？那可有講究的，“以硯為鞘，可以研春秋；以筆為劍，可以塗鬼神”。真的假的？自然是我隨便講講的。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嚯，能跟我走到这步......我就给你画一幅吧。当心！可别陷进去，另片天地可比这里迷人太多了。从古至今看得破、离得开、忘得掉的，又有几人呢？"
+        },
+        {
+          "language": "日文",
+          "content": "へぇ、よく私にここまでついてこれたわね……一枚描いてあげましょうか。飲み込まれないように注意しなさいね、あちら側の世界はこちら側よりよっぽど魅力的だもの。昔から今に至るまで、虚像に囚われずにそこから離れて全てを忘れ去ることができた人間って、何人いたかしら……"
+        },
+        {
+          "language": "英文",
+          "content": "Ahh, to make it this far with me... I should paint you a scroll. But be careful! Do not get caught up within it. The world I paint is much more fascinating than this one. How many have been lost, since ancient times? How many have escaped?"
+        },
+        {
+          "language": "韩文",
+          "content": "흐음~ 잘도 나를 여기까지 데리고 왔구나… 한 장 그려줄까? 삼켜지지 않도록 조심해. 저쪽 세상은 이쪽보다 훨씬 매력적이거든. 예전부터 지금까지, 허상에 사로잡히지 않고 거기서 떨어져 모든 걸 잊어버릴 수 있었던 인간이… 몇 명이나 있었더라…"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嚯，能跟我走到這步......我就給你畫一幅吧。當心！可別陷進去，另片天地可比這裡迷人太多了。從古至今看得破、離得開、忘得掉的，又有幾人呢？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "嚯，好同我走到这一步......我就给你画一幅吧。当心！弗要陷进去，另外一片天地可比这里迷人得多。从古至今看得破、离得开、忘得特的，又有几个人呢？"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "嚯，好同我走到這一步......我就給你畫一幅吧。當心！弗要陷進去，另外一片天地可比這裡迷人得多。從古至今看得破、離得開、忘得特的，又有幾個人呢？"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "可别耽误我太长时间。"
+        },
+        {
+          "language": "日文",
+          "content": "あんまり時間を取らせないでちょうだい。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't keep me too long."
+        },
+        {
+          "language": "韩文",
+          "content": "시간 너무 많이 뺏지 말아줄래?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "可別耽誤我太長時間。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "你弗要耽误我太长时间。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "你弗要耽誤我太長時間。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "队长？那是干什么的？"
+        },
+        {
+          "language": "日文",
+          "content": "隊長？なにそれ。"
+        },
+        {
+          "language": "英文",
+          "content": "Captain? What does a captain do?"
+        },
+        {
+          "language": "韩文",
+          "content": "팀장? 뭔데, 그게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "隊長？那是幹什麼的？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "队长？各个是做撒诶的？"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "隊長？各個是做撒誒的？"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那就赶紧了结了吧。"
+        },
+        {
+          "language": "日文",
+          "content": "さっさと片付けるわよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Let's get this over with."
+        },
+        {
+          "language": "韩文",
+          "content": "얼른 정리하자."
+        },
+        {
+          "language": "繁体中文",
+          "content": "那就趕緊了結了吧。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "个么就快点结束吧。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "個麼就快點結束吧。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "今天我心情不错，就送你们一幅《沙场白骨图》吧。"
+        },
+        {
+          "language": "日文",
+          "content": "今日はなんだか気分がいいわ。『戦場白骨の図』でも描いてあげましょうか。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm in a good mood today. I'll give you this one I've titled 'Bones on the Sand'."
+        },
+        {
+          "language": "韩文",
+          "content": "오늘은 왠지 기분이 좋네. ‘전장백골도’라도 그려 줄까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "今天我心情不錯，就送你們一幅《沙場白骨圖》吧。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "今早我心情弗错，就送你们一幅《沙场白骨图》吧。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "今早我心情弗錯，就送你們一幅《沙場白骨圖》吧。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "可别太过分。"
+        },
+        {
+          "language": "日文",
+          "content": "いい加減にしなさいよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't go too far."
+        },
+        {
+          "language": "韩文",
+          "content": "적당히 하라고."
+        },
+        {
+          "language": "繁体中文",
+          "content": "可別太過分。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "你弗要太过分。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "你弗要太過分。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "细笔还是留在家里画吧。"
+        },
+        {
+          "language": "日文",
+          "content": "描き込むのは帰ってからね。"
+        },
+        {
+          "language": "英文",
+          "content": "Better leave the fine brush at home."
+        },
+        {
+          "language": "韩文",
+          "content": "그려 넣는 건 돌아가서 할게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "細筆還是留在家裡畫吧。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "细笔还是留在家里画吧。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "細筆還是留在家裡畫吧。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们有人想做我的颜料吗？"
+        },
+        {
+          "language": "日文",
+          "content": "私の顔料になりたいのはどいつかしら？"
+        },
+        {
+          "language": "英文",
+          "content": "Would any of you like to be my paint?"
+        },
+        {
+          "language": "韩文",
+          "content": "내 물감이 되고 싶은 게, 어떤 녀석일까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你們有人想做我的顏料嗎？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "你们有人想做我的颜料吗？"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "你們有人想做我的顏料嗎？"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这片战场，适合泼墨法。"
+        },
+        {
+          "language": "日文",
+          "content": "この戦場を描くには、潑墨が似合うわね。"
+        },
+        {
+          "language": "英文",
+          "content": "This battlefield would do well with a splash of ink."
+        },
+        {
+          "language": "韩文",
+          "content": "이 전장을 그리려면, 발묵법이 어울리겠네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這片戰場，適合潑墨法。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "这片战场，适合泼墨法。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "這片戰場，適合潑墨法。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "讲话太难懂了，我画出来给你看看。"
+        },
+        {
+          "language": "日文",
+          "content": "言葉では伝わりにくいのよ。描いてあげる。"
+        },
+        {
+          "language": "英文",
+          "content": "Too difficult to explain, let me paint it for you."
+        },
+        {
+          "language": "韩文",
+          "content": "말로는 전하기 어려워. 그려줄게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "講話太難懂了，我畫出來給你看看。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "讲话特难懂哉，我画册来给你看看。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "講話特難懂哉，我畫冊來給你看看。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "落锋长日坠，起笔叠嶂起！"
+        },
+        {
+          "language": "日文",
+          "content": "鋒落とせば長日墜ち、筆起こせば疊嶂起こる！"
+        },
+        {
+          "language": "英文",
+          "content": "With the setting of the sun, the brush draws up the peaks!"
+        },
+        {
+          "language": "韩文",
+          "content": "창끝을 떨어뜨리면 긴 해가 떨어지고, 붓을 일으키면 첩첩한 산봉우리가 솟아오를지니!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "落鋒長日墜，起筆疊嶂起！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "落锋长日坠，起笔叠嶂起！"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "落鋒長日墜，起筆疊嶂起！"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "以有形摹无垠，以无形应天下！"
+        },
+        {
+          "language": "日文",
+          "content": "有形を以て無垠を摹し、無形を以て天下を応ず！"
+        },
+        {
+          "language": "英文",
+          "content": "Copy the infinite with the tangible, bring the intangible to life!"
+        },
+        {
+          "language": "韩文",
+          "content": "유형으로 무한을 모방하고, 무형으로 천하를 맞으라!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "以有形摹無垠，以無形應天下！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "以有形摹无垠，以无形应天下！"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "以有形摹無垠，以無形應天下！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我对你们还算是有感情的。大多数时候。"
+        },
+        {
+          "language": "日文",
+          "content": "貴方たちに対してだって多少の情はあるのよ。ほとんどの時はね。"
+        },
+        {
+          "language": "英文",
+          "content": "I am rather attached to you. Most of the time."
+        },
+        {
+          "language": "韩文",
+          "content": "너희들한테도 어느 정도 정을 주긴 해. 대부분의 경우는 말야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我對你們還算是有感情的。大多數時候。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "我对你们还算是有感情的。大多数时候。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "我對你們還算是有感情的。大多數時候。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "丹青与干戈，本来是离得很远的。但劲力到了，战争也是艺术。"
+        },
+        {
+          "language": "日文",
+          "content": "丹青と干戈、本来はかけ離れたもののはずなのに。意気が至れば、戦争も芸術になり得るのね。"
+        },
+        {
+          "language": "英文",
+          "content": "Once, painting and war were quite different. But with this power, battle is art."
+        },
+        {
+          "language": "韩文",
+          "content": "그림과 무기란… 모름지기 멀리 떨어져 있는 것일 터인데… 의기가 들어가면, 전쟁도 예술이 될 수 있나 보네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "丹青與干戈，本來是離得很遠的。但勁力到了，戰爭也是藝術。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "丹青特干戈，本来是离得穷远的。但力道到哉，战争也是艺术。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "丹青特干戈，本來是離得窮遠的。但力道到哉，戰爭也是藝術。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "还不错。"
+        },
+        {
+          "language": "日文",
+          "content": "悪くないわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Not bad."
+        },
+        {
+          "language": "韩文",
+          "content": "나쁘지 않네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "還不錯。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "还弗错。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "還弗錯。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯......没画好的画就该撕掉。会让自己丢脸的。"
+        },
+        {
+          "language": "日文",
+          "content": "はぁ……出来損ないの絵は破り捨てるべきだわ。恥をかくだけよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Hm... a failed painting must be destroyed. It will bring shame."
+        },
+        {
+          "language": "韩文",
+          "content": "하아… 잘못 그린 그림은 찢어 버려야 해. 부끄러워지기만 할 테니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯......沒畫好的畫就該撕掉。會讓自己丟臉的。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "嗯......没画好的画都应该撕掉。会让自己丢脸的。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "嗯......沒畫好的畫都應該撕掉。會讓自己丟臉的。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "笔锋散了吧？重画吧。"
+        },
+        {
+          "language": "日文",
+          "content": "筆がぶれたわね？描き直しよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Slipped on a stroke? Start over."
+        },
+        {
+          "language": "韩文",
+          "content": "붓이 흔들렸네, 다시 그리자."
+        },
+        {
+          "language": "繁体中文",
+          "content": "筆鋒散了吧？重畫吧。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "笔锋散仔吧？重新画吧。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "筆鋒散仔吧？重新畫吧。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "房间装修就不用帮我准备了。我会自己准备的。"
+        },
+        {
+          "language": "日文",
+          "content": "部屋の飾り付けは結構よ、自分でやるから。"
+        },
+        {
+          "language": "英文",
+          "content": "Do not bother preparing the room for me. I will handle it myself."
+        },
+        {
+          "language": "韩文",
+          "content": "방은 안 꾸며줘도 돼. 내가 할 테니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "房間裝修就不用幫我準備了。我會自己準備的。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "房间装修就用弗着帮我准备哉。我会自己准备的。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "房間裝修就用弗著幫我準備哉。我會自己準備的。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "墨汁要洒了！"
+        },
+        {
+          "language": "日文",
+          "content": "ちょ、墨がこぼれる！"
+        },
+        {
+          "language": "英文",
+          "content": "You'll spill my ink!"
+        },
+        {
+          "language": "韩文",
+          "content": "잠깐, 먹물 넘치잖아!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "墨汁要灑了！"
+        },
+        {
+          "language": "中文-方言",
+          "content": "墨汁要洒特哉！"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "墨汁要灑特哉！"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "喂，可别沾得一身都是颜料。"
+        },
+        {
+          "language": "日文",
+          "content": "もう、体中顔料だらけになるのは勘弁してよね。"
+        },
+        {
+          "language": "英文",
+          "content": "Hey, don't get paint everywhere."
+        },
+        {
+          "language": "韩文",
+          "content": "제발… 온몸을 물감 범벅으로 만드는 것 좀 안 하면 안 될까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "喂，可別沾得一身都是顏料。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "喂，你弗要弄得一身都是颜料。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "喂，你弗要弄得一身都是顏料。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "中文-方言",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "新年？人这一生已经够短暂了，就好像对着方寸画卷还要仔细分割，想着这一块画什么、那一块画什么，周而复始，生死疲劳。不过也罢，一时欢笑筵宴，也算是一道风景。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        },
+        {
+          "language": "中文-方言",
+          "content": "新年？人那一生已经蛮短哉，就好像对着个方寸画卷还要仔细分割，想想那一块画撒、这一块画撒，周而复始，生死疲劳。弗过也算哉，一时欢笑筵宴，也算是一道风景。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你的名字是啥来着，哦，博士？"
+        },
+        {
+          "language": "日文",
+          "content": "貴方、名前はなんだったかしら。……ああ、ドクター？"
+        },
+        {
+          "language": "英文",
+          "content": "What was your name again? Oh, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "너, 이름이 뭐였더라? 아아… 박사?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你的名字是啥來著，哦，博士？"
+        },
+        {
+          "language": "中文-方言",
+          "content": "你的名字是撒诶，哦，博士？"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": "你的名字是撒誒，哦，博士？"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我说过，没什么事别叫我出去。一起庆祝？庆祝我被困在这里这么久吗？出去出去，真是......对了，墙上那些装饰是我随手涂上去的，不是因为可露希尔要求才画的。再说一遍，我不接稿。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        },
+        {
+          "language": "中文-方言",
+          "content": "我讲过，没啥事体弗要叫我出去。一起庆祝？庆祝我被困在这里那么长时间吗？册起册起，真是......哦，墙上那些装饰是我随便涂上去葛，弗是因为可露希尔的要求才画的。再说一遍，我不接稿。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

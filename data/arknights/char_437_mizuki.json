@@ -1,0 +1,979 @@
+{
+  "name": "水月",
+  "charaKey": "char_437_mizuki",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_437_mizuki"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_437_mizuki"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "凯尔希医生跟我说过，如果博士选择把我安置在身边，那么就意味着博士决定要保护我。但看样子，博士也还不太明白是什么意思？不过我感觉得出来，她有她这么说的把握。"
+        },
+        {
+          "language": "日文",
+          "content": "ケルシー先生が言ってたよ。ドクターが僕を側に置くようになったら、それは僕を守ることを決めたんだって。でもドクター自身は、それが何を意味するか理解してないみたいだね。だけど僕にはわかるんだ、ケルシー先生は適当を言ってるわけじゃないってね。"
+        },
+        {
+          "language": "英文",
+          "content": "Dr. Kal'tsit told me if you ever chose to place me at your side, it means you've decided to protect me. From the looks of things though, Doctor, I don't think you understand what that means? But I know she must've said it for a reason."
+        },
+        {
+          "language": "韩文",
+          "content": "켈시 선생님이 그랬어. 박사가 나를 옆에 두게 되면, 그건 나를 지키기로 한 거라고. 하지만 박사 스스로는 그게 무엇을 의미하는지 이해하지 못한 모양이구나. 하지만 나는 알 수 있어. 켈시 선생님이 적당히 한 소리가 아니라는 걸."
+        },
+        {
+          "language": "繁体中文",
+          "content": "凱爾希醫生跟我說過，如果博士選擇把我安置在身邊，那麼就意味著博士決定要保護我。但看樣子，博士也還不太明白是什麼意思？不過我感覺得出來，她有她這麼說的把握。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "美食、漫画、游戏，以及创造了它们的人们，都是散落在星空下的诗篇。而我的旅途就是品遍它们——还有处理掉可能对这一切造成妨害的东西。"
+        },
+        {
+          "language": "日文",
+          "content": "グルメ、マンガ、ゲーム、そしてそれを創り出す人たち、みーんな星空の下に散らばる詩なんだ。僕の旅の目的は、そういうものを全部味わうこと――そして、それを邪魔するものを片付けることだよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Fine dining, comics, games, and the people who created them, are all psalms laid out beneath the starry firmament. And my journey is to taste them all— and to eliminate anything that seeks to threaten them."
+        },
+        {
+          "language": "韩文",
+          "content": "미식, 만화, 게임, 그리고 그걸 만들어내는 사람들, 다들 밤하늘 아래에 흩어진 시와 같아. 내 여행의 목적은 그런 걸 전부 맛보는 것…… 그리고 그걸 방해하는 것을 처리하는 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "美食、漫畫、遊戲，以及創造了它們的人們，都是散落在星空下的詩篇。而我的旅途就是品遍它們——還有處理掉可能對這一切造成妨害的東西。"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊，博士，你来得正好，快尝尝看，我这采用了最能保留食材营养和生命力的独家秘诀做出来的特色刺身料理！"
+        },
+        {
+          "language": "日文",
+          "content": "あ、ドクター、ちょうどいいところに来た。これ食べてみて、食材の栄養と生命力を最大限キープできる極秘の調理法で作った刺し身料理だよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Ah, Doctor, you came at just the right time. Quick, come have a taste, I prepared this special sashimi dish using a special technique that best preserves the nutrients and vitality of the ingredients!"
+        },
+        {
+          "language": "韩文",
+          "content": "아, 박사, 마침 잘 왔어. 이거 먹어 봐. 재료의 영양과 생명력을 최대한 유지할 수 있는 극비 조리법으로 만든 회 요리야!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "啊，博士，你來得正好，快嘗嘗看，我這採用了最能保留食材營養和生命力的獨家秘訣做出來的特色刺身料理！"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这个吗？是东国早些年的经典游戏哦，虽说现在已经不太流行了。博士要试试看吗？来，操纵那个黄色的嘴去吃东西就行。不过在吸收到足够的营养、获得足够的力量之前，都只会被别人当作猎物呢。"
+        },
+        {
+          "language": "日文",
+          "content": "これ？極東で流行ってたレトロゲームだよ、今はもうあんまり人気ないけどね。ドクターもやってみる？あの黄色い顔を、周りのものを食べるように操作するんだ。でもたくさん栄養を摂ってパワーアップするまでは、他の敵から獲物として狙われちゃうんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "This one, huh? It's a classic arcade game from Higashi, though it's kind of niche now. Want to give it a try, Doctor? Here, you move that yellow mouth around and try to eat as much stuff as you can. But until you've absorbed enough nutrients to become strong, you'll only be prey to others."
+        },
+        {
+          "language": "韩文",
+          "content": "이거? 극동에서 유행했던 고전 게임이야. 지금은 그다지 인기 없지만 말이지. 박사도 해 볼래? 이 노란 얼굴을, 주위에 있는 것들을 먹도록 조작하는 거야. 하지만 잔뜩 영양을 섭취해서 파워업할 때까지는 다른 적들이 사냥감으로 노리지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "這個嗎？是東國早些年的經典遊戲哦，雖說現在已經不太流行了。博士要試試看嗎？來，操縱那個黃色的嘴去吃東西就行。不過在吸收到足夠的營養、獲得足夠的力量之前，都只會被別人當作獵物呢。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "正义感？博士误会啦。我自己对坏人其实是无所谓的，但出于种种理由大家往往不能把坏人怎么样吧？这种时候如果能让坏人消失......也不会有人感到困扰，只会觉得松了口气吧？"
+        },
+        {
+          "language": "日文",
+          "content": "正義感？いや、ドクターは誤解してるよ。僕は別に悪人をなんとも思ってないよ。でもみんなは、色々事情があって悪人に手を焼かされてるんでしょ？そんな時に悪人を消してあげれば……誰も困らないし、みんなホッとするでしょ？"
+        },
+        {
+          "language": "英文",
+          "content": "A strong sense of justice? You have the wrong idea, Doctor. I'm personally not that concerned about bad guys, but for various reasons, the people here usually can't do much to them, right? In times like that, if there was some way to make those bad guys disappear... Nobody would lose sleep over that, right? It'd be a breath of fresh air, right?"
+        },
+        {
+          "language": "韩文",
+          "content": "정의감? 아니, 박사는 오해하고 있어. 나는 딱히 악인에 대해 아무 생각도 없어. 하지만 다들 여러 사정이 있어서 악인 때문에 애먹고 있잖아? 그럴 때에 악인을 없애 주면…… 아무도 난처할 것 없고, 다들 한시름 덜 거 아냐?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "正義感？博士誤會啦。我自己對壞人其實是無所謂的，但出於種種理由大家往往不能把壞人怎麼樣吧？這種時候如果能讓壞人消失......也不會有人感到困擾，只會覺得鬆了口氣吧？"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "虽然还是不太明白博士讲的道理，但是总之，只处理掉博士认证过是坏人的家伙就没问题了吧？因为博士是好人呀。如果博士其实是坏人的话？不要吧，那我会很困扰啊。我，总不能......"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターの理屈はよくわからないけど、とにかくドクターが悪人って判定した奴だけ片付ければいいんでしょ？だってドクターは良い人だから。もしドクターが実は悪人だったらどうするか？やめてよ、そんなの困るんだ。だってそしたら、僕はドクターを……"
+        },
+        {
+          "language": "英文",
+          "content": "Though I don't really understand your rationale, Doctor, what you're basically saying is, only eliminate the people who you've designated as bad guys, right? Because you're a good person, Doctor. What if you were actually a bad guy? Don't say that, that'd be quite troublesome. There's no way I could..."
+        },
+        {
+          "language": "韩文",
+          "content": "박사의 이치는 잘 모르겠지만, 아무튼 박사가 악인이라 판정한 녀석만 처리하면 되는 거잖아? 왜냐면 박사는 착한 사람이니까. 만일 박사가 사실은 악인이면 어쩔 거냐고? 그만해, 그런 건 곤란해. 왜냐면 만약 그러면, 나는 박사를……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "雖然還是不太明白博士講的道理，但是總之，只處理掉博士認證過是壞人的傢伙就沒問題了吧？因為博士是好人呀。如果博士其實是壞人的話？不要吧，那我會很困擾啊。我，總不能......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有时会感到舰船内好像有什么......熟悉的，又有些陌生......亲切，又好像充满敌意的气息。博士，我有些不安......"
+        },
+        {
+          "language": "日文",
+          "content": "時々感じるんだ。この艦内には……懐かしくて、でもどこか馴染みのない……優しくて、でも敵意に満ちた何かがあるって。ドクター、僕、ちょっと不安だよ……"
+        },
+        {
+          "language": "英文",
+          "content": "Sometimes, it feels like there's something on this ship... Familiar, yet also foreign. Gentle, yet also seemingly full of hostility. Doctor, it makes me rather uneasy..."
+        },
+        {
+          "language": "韩文",
+          "content": "가끔씩 느껴. 이 함내에는…… 그립고, 하지만 왠지 낯선…… 상냥하고, 하지만 적의로 가득 찬 무언가가 있다는 걸. 박사, 나, 좀 불안해……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "有時會感到艦船內好像有什麼......熟悉的，又有些陌生......親切，又好像充滿敵意的氣息。博士，我有些不安......"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士觉得，把别人的生命掌握在自己手中时是什么样的感觉呢？如果换作我的话会感到很温暖，甚至忍不住为此有些颤抖......嗯？我是指博士在作为指挥官，握持着大家生命线时的感想。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、人の命を握ってる時ってどんな気分？もし僕なら、すごくあったかく感じて、それで身体が震えちゃうと思う……えっ？いやいや、ドクターが指揮官としてみんなの命を預かってる時の感想を聞いてるだけだよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, what does it feel like to take charge of the lives of so many others with your own hands? If I was in your position, I'd feel very warm, maybe wouldn't even be able to resist trembling... Huh? I was talking about you as a commander, holding on to everyone's lifeline."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 사람의 목숨을 쥐고 있을 때란 어떤 기분이야? 만약 나라면, 굉장히 따뜻하게 느껴져서 몸이 떨릴 것 같아…… 응? 아니, 박사가 지휘관으로서 모두의 목숨을 책임질 때의 감상을 묻는 것뿐이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士覺得，把別人的生命掌握在自己手中時是什麼樣的感覺呢？如果換作我的話會感到很溫暖，甚至忍不住為此有些顫抖......嗯？我是指博士在作為指揮官，握持著大家生命線時的感想。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我有时候会想，既然是我们吃下去的食物和汲取的营养造就了我们，那么如果我们吃下了同样的东西，做着同样的事情，我们就会渐渐变得一样吗？博士，我们......能吗？"
+        },
+        {
+          "language": "日文",
+          "content": "たまに思うけど、呑み込んだ食べ物と吸収した栄養が僕たちを造り上げたんなら、もし同じものを食べて、同じことをしてたら、どんどん同じになっていくのかなって。ドクター、僕たちに……できるかな？"
+        },
+        {
+          "language": "英文",
+          "content": "I sometimes think, since the food we eat and the nutrients we absorb become a part of us, if we were to eat the same things and do the same things, would we gradually become the same? Doctor... can we?"
+        },
+        {
+          "language": "韩文",
+          "content": "가끔 드는 생각인데, 삼킨 음식과 흡수한 영양분이 우리를 만들어낸 거라면, 만약 같은 걸 먹고 같은 일을 하면, 점점 비슷해지는 건가 싶어. 박사, 우리도…… 가능할까?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我有時候會想，既然是我們吃下去的食物和汲取的營養造就了我們，那麼如果我們吃下了同樣的東西，做著同樣的事情，我們就會漸漸變得一樣嗎？博士，我們......能嗎？"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "是该休息一下啦，博士。来来，睡这边，我去拿毯子。"
+        },
+        {
+          "language": "日文",
+          "content": "ちょっと休んだ方がいいよ、ドクター。ほら来て、ここで寝てて。僕が毛布を取ってくるから。"
+        },
+        {
+          "language": "英文",
+          "content": "It's time to take a little break, Doctor. Come here, lie down. I'll go grab a blanket."
+        },
+        {
+          "language": "韩文",
+          "content": "좀 쉬는 게 좋겠어, 박사. 자, 이리 와. 여기서 자. 내가 담요 가져다줄 테니까."
+        },
+        {
+          "language": "繁体中文",
+          "content": "是該休息一下啦，博士。來來，睡這邊，我去拿毯子。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊，博士你好，凯尔希医生说从今天开始我就正式纳入博士的指挥啦！虽然可惜依旧不能算正式干员的样子，不过只要是博士找我帮忙，我一定会尽力的。"
+        },
+        {
+          "language": "日文",
+          "content": "あ、ドクターこんにちは。ケルシー先生が、今日から僕はドクターの配下になるって言ってたよ！相変わらず正式なオペレーターとしては認められないみたいだけど、ドクターが手伝ってほしいことがあれば、何でも力になるからね。"
+        },
+        {
+          "language": "英文",
+          "content": "Ah, hello there, Doctor. Dr. Kal'tsit tells me you're my commander from today on! It's too bad I don't count as an official operator, but as long as you need my help, I'll do whatever I can."
+        },
+        {
+          "language": "韩文",
+          "content": "아, 박사, 안녕. 켈시 선생님이 오늘부터 나는 박사의 부하라고 했어! 여전히 정식 오퍼레이터로는 인정받지 못하는 모양이지만, 박사가 도움이 필요한 일이 있다면 내가 뭐든 힘이 되어 줄게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "啊，博士你好，凱爾希醫生說從今天開始我就正式納入博士的指揮啦！雖然可惜依舊不能算正式幹員的樣子，不過只要是博士找我幫忙，我一定會盡力的。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要吸收和消化掉这些对吧，我会努力的。"
+        },
+        {
+          "language": "日文",
+          "content": "これを吸い込んで消化すればいいんでしょ。頑張るよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I need to absorb and digest all this, right? I'll do my best."
+        },
+        {
+          "language": "韩文",
+          "content": "이걸 빨아들여서 소화하면 되는 거지? 열심히 할게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "要吸收和消化掉這些對吧，我會努力的。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我被认可了？之后是不是就可以跟博士去更多不同的地方解决坏人？"
+        },
+        {
+          "language": "日文",
+          "content": "僕が認められたの？これからはドクターともっと色んな場所に行って、悪人を片付けていいってこと？"
+        },
+        {
+          "language": "英文",
+          "content": "I got the nod? Does that mean I can go with you to more places and take care of more bad guys?"
+        },
+        {
+          "language": "韩文",
+          "content": "내가 인정받은 거야? 이제부터는 박사랑 더 다양한 장소에 가서, 악인을 처리해도 된다는 거지?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我被認可了？之後是不是就可以跟博士去更多不同的地方解決壞人？"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "曾经也是一个下着雨的日子，我得到了一些预想之外的、改变了我的馈赠，但那个人并没有教我该怎么面对将来的事。博士，如果是你的话会亲自指导我吗？"
+        },
+        {
+          "language": "日文",
+          "content": "あの時もこんな雨の日だったなぁ。予想外の贈り物を受け取って、僕は変わったんだ。でもあの人はこれからの将来とどうやって向き合えばいいか教えてくれなかった。ドクター、君なら手を取って僕に教えてくれる？"
+        },
+        {
+          "language": "英文",
+          "content": "On one rainy day, I received an unexpected gift that changed me, but I was not taught how to face the future. Doctor, if it were you, would you have shown me the path yourself?"
+        },
+        {
+          "language": "韩文",
+          "content": "그때도 이렇게 비가 내리는 날이었는데. 예상 밖의 선물을 받고, 나는 변했어. 하지만 그 사람은 앞으로의 장래를 어떻게 마주해야 할지 알려주지 않았었지. 박사, 너라면 손을 잡고 내게 알려 줄 수 있어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "曾經也是一個下著雨的日子，我得到了一些預想之外的、改變了我的饋贈，但那個人並沒有教我該怎麼面對將來的事。博士，如果是你的話會親自指導我嗎？"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不要暴露在大家面前比较好，哪怕是队友？嗯，我听博士的。"
+        },
+        {
+          "language": "日文",
+          "content": "チームメイト同士でも、みんなの前に出ない方がいい？わかった、ドクターの言う通りにするよ。"
+        },
+        {
+          "language": "英文",
+          "content": "It'd be best to not expose myself to others, even my teammates? Mm, I'll do as you say, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "팀메이트끼리라도, 모두의 앞으로 안 나가는 게 좋다고? 알았어, 박사 말대로 할게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "不要暴露在大家面前比較好，哪怕是隊友？嗯，我聽博士的。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会暗中保护好博士的，还有参与作战的大家。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターのことも、作戦に参加するみんなのことも、陰から守るよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I will protect you from the shadows, Doctor, as well as everyone else participating in the operation."
+        },
+        {
+          "language": "韩文",
+          "content": "박사도, 작전에 참가하는 모두도, 그늘 속에서 지켜 줄게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我會暗中保護好博士的，還有參與作戰的大家。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "本次作战的部署计划和隐秘任务......嗯，确认无误。"
+        },
+        {
+          "language": "日文",
+          "content": "今回の作戦計画と秘密任務は、っと……うん、間違いなし。"
+        },
+        {
+          "language": "英文",
+          "content": "The deployment plan and secret missions for this operation... Yes, flawless indeed."
+        },
+        {
+          "language": "韩文",
+          "content": "이번 작전 계획과 비밀 임무는…… 음, 문제없어."
+        },
+        {
+          "language": "繁体中文",
+          "content": "本次作戰的部署計畫和隱秘任務......嗯，確認無誤。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "敌人吗，看上去还不赖嘛。"
+        },
+        {
+          "language": "日文",
+          "content": "あれが敵？なかなかうまそうに見えるね。"
+        },
+        {
+          "language": "英文",
+          "content": "The enemies, huh. They don't look half bad."
+        },
+        {
+          "language": "韩文",
+          "content": "저게 적인가? 제법 맛있게 생겼네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "敵人嗎，看上去還不賴嘛。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士的指示就是我的道标。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターの指示が僕の道標だよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Your orders are my beacon."
+        },
+        {
+          "language": "韩文",
+          "content": "박사의 지시가 내 이정표야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士的指示就是我的路標。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "随时都可以上哦。"
+        },
+        {
+          "language": "日文",
+          "content": "いつでもいいよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm ready to go whenever~"
+        },
+        {
+          "language": "韩文",
+          "content": "언제든지 좋아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "隨時都可以上哦。"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士总能帮我找到自己的位置呢。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクターはいつだって僕の居場所を見つけてくれるんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "You always help me find my place."
+        },
+        {
+          "language": "韩文",
+          "content": "박사는 언제든 내가 있을 곳을 찾아 주는구나."
+        },
+        {
+          "language": "繁体中文",
+          "content": "博士總能幫我找到自己的位置呢。"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "放心大胆地布置战术吧。"
+        },
+        {
+          "language": "日文",
+          "content": "思うがままの戦術でいいよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Weave the tapestry of your tactics boldly and without worry."
+        },
+        {
+          "language": "韩文",
+          "content": "생각한 그대로의 전술이면 돼."
+        },
+        {
+          "language": "繁体中文",
+          "content": "放心大膽地佈置戰術吧。"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小菜一碟。"
+        },
+        {
+          "language": "日文",
+          "content": "前菜代わりにもならないね。"
+        },
+        {
+          "language": "英文",
+          "content": "A piece of cake."
+        },
+        {
+          "language": "韩文",
+          "content": "애피타이저 대신으로도 안 되겠네."
+        },
+        {
+          "language": "繁体中文",
+          "content": "小菜一碟。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "多谢款待。"
+        },
+        {
+          "language": "日文",
+          "content": "ごちそうさまでした。"
+        },
+        {
+          "language": "英文",
+          "content": "Thanks for the treat."
+        },
+        {
+          "language": "韩文",
+          "content": "잘 먹었습니다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "多謝款待。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你什么时候产生了这些附肢只是幻象的错觉？"
+        },
+        {
+          "language": "日文",
+          "content": "一体いつから、この触手はまやかしに過ぎないって錯覚してたの？"
+        },
+        {
+          "language": "英文",
+          "content": "When did you delude yourself into thinking that these tentacles are mere illusions?"
+        },
+        {
+          "language": "韩文",
+          "content": "대체 언제부터, 이 촉수는 속임수에 지나지 않는다고 착각한 거야?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "你什麼時候產生了這些附肢只是幻象的錯覺？"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "总得有人，也总会有人来处理掉恶徒呢。"
+        },
+        {
+          "language": "日文",
+          "content": "悪徒は討たれるべきだし、その執行人は必ず現れる。"
+        },
+        {
+          "language": "英文",
+          "content": "Where there are people, there must be someone to cull the evildoers among them."
+        },
+        {
+          "language": "韩文",
+          "content": "악당은 토벌당해야 마땅하고, 그 집행인은 반드시 나타나지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "總得有人，也總會有人來處理掉惡徒呢。"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真是难啃的骨头，我需要花点时间消化这次的作战呢。"
+        },
+        {
+          "language": "日文",
+          "content": "なんて手強い連中なんだろう。今回の作戦を消化するのには時間がかかりそう。"
+        },
+        {
+          "language": "英文",
+          "content": "What a tough nut to crack. It'll take some time to digest this battle."
+        },
+        {
+          "language": "韩文",
+          "content": "어쩜 이렇게 벅찬 녀석들인지. 이번 작전을 소화하기엔 시간이 걸릴 것 같아."
+        },
+        {
+          "language": "繁体中文",
+          "content": "真是難啃的骨頭，我需要花點時間消化這次的作戰呢。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这下坏人的数量又减少了呢，都是多亏了博士！"
+        },
+        {
+          "language": "日文",
+          "content": "また悪人の数を減らせたね。全部ドクターのおかげだよ！"
+        },
+        {
+          "language": "英文",
+          "content": "There are fewer bad guys out there now, and it's all thanks to you, Doctor!"
+        },
+        {
+          "language": "韩文",
+          "content": "또 악인의 수를 줄였어. 전부 박사 덕분이야!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "這下壞人的數量又減少了呢，都是多虧了博士！"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯？博士怎么放跑了几个坏人？我去替博士收拾一下吧。"
+        },
+        {
+          "language": "日文",
+          "content": "あれ？ドクター、何人か逃がしてるよ？僕が代わりに片付けてくるね。"
+        },
+        {
+          "language": "英文",
+          "content": "Hm? Doctor, why'd you let some bad guys through? I'll go clean them up for you."
+        },
+        {
+          "language": "韩文",
+          "content": "어라? 박사, 몇 명 놓쳤는데? 내가 대신 정리하고 올게."
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯？博士怎麼放跑了幾個壞人？我去替博士收拾一下吧。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果是要掩护大家撤离的话我还有办法......不，光是救人的话是不够的，只有在这里把坏人全都......"
+        },
+        {
+          "language": "日文",
+          "content": "みんなの撤退を援護するなら手はあるよ……いや、援護するだけじゃダメだ、ここで悪人を全員始末しないと……"
+        },
+        {
+          "language": "英文",
+          "content": "If you want to cover everyone as they evacuate, I still have an idea... No, just saving everyone isn't good enough. Only by eliminating all the bad guys here..."
+        },
+        {
+          "language": "韩文",
+          "content": "모두의 퇴각을 엄호하는 거라면 방법은 있어…… 아니, 엄호하는 것만으로는 안 돼, 여기서 악인을 모두 처리해야 해……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "如果是要掩護大家撤離的話我還有辦法......不，光是救人的話是不夠的，只有在這裡把壞人全都......"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我来给大家做点好吃的放松下吧？"
+        },
+        {
+          "language": "日文",
+          "content": "何か美味しいものでも作って、みんなにリラックスしてもらうってのはどう？"
+        },
+        {
+          "language": "英文",
+          "content": "Shall I whip up something tasty to help everyone unwind?"
+        },
+        {
+          "language": "韩文",
+          "content": "뭔가 맛있는 거라도 만들어서 모두가 릴랙스할 수 있게 하는 건 어때?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我來給大家做點好吃的放鬆下吧？"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯？怎么啦？"
+        },
+        {
+          "language": "日文",
+          "content": "あれ、どうしたの？"
+        },
+        {
+          "language": "英文",
+          "content": "Hmm? What's up?"
+        },
+        {
+          "language": "韩文",
+          "content": "어라, 왜 그래?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "嗯？怎麼啦？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊嚏！唔......怎么有一种想法被人看穿了的感觉......"
+        },
+        {
+          "language": "日文",
+          "content": "ハクションッ！うっ……誰かに見透かされてるような気がする……"
+        },
+        {
+          "language": "英文",
+          "content": "Achoo! Ugh... Why does it feel like someone's looking right through me..."
+        },
+        {
+          "language": "韩文",
+          "content": "에취! 으…… 누군가가 들여다보는 것 같은 느낌이야……"
+        },
+        {
+          "language": "繁体中文",
+          "content": "啊嚏！唔......怎麼有一種想法被人看穿了的感覺......"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "新年快乐，博士！又成长了一年，我汲取了不少营养呢，真希望大家都能进化得越来越好呀。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "想我了没有，博士？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、僕が恋しかった？"
+        },
+        {
+          "language": "英文",
+          "content": "Did you miss me, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 내가 그리웠어?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "想我了沒有，博士？"
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，你看我现在的样子怎么样？看起来是不是已经获得了足够多的力量，甚至比博士都还要厉害？如果我比博士厉害的话，该被保护的......是不是就是博士了？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

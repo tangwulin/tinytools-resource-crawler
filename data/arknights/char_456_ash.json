@@ -1,0 +1,949 @@
+{
+  "name": "灰烬",
+  "charaKey": "char_456_ash",
+  "images": [],
+  "voiceBase": [
+    {
+      "language": "联动",
+      "base": "voice/char_456_ash"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "做好准备。"
+        },
+        {
+          "language": "日文",
+          "content": "準備して。"
+        },
+        {
+          "language": "英文",
+          "content": "Brace yourselves."
+        },
+        {
+          "language": "韩文",
+          "content": "마음 단단히 먹도록."
+        },
+        {
+          "language": "繁体中文",
+          "content": "做好準備。"
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我从祖母常年的评判里学到了一件事：“生活本不应有太多禁忌。”"
+        },
+        {
+          "language": "日文",
+          "content": "おばあちゃんからあることを教わった。「生活においてタブーを持ち過ぎてはいけない」って。"
+        },
+        {
+          "language": "英文",
+          "content": "The most important thing my safta taught me was that life shouldn't have too many taboos."
+        },
+        {
+          "language": "韩文",
+          "content": "할머니께 배운 가장 중요한 덕목은 인생엔 금기가 별로 없어야 한다는 점이지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我從祖母常年的評判裡學到了一件事：“生活本不應有太多禁忌。”"
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "先完成手上的工作，别急着下结论。"
+        },
+        {
+          "language": "日文",
+          "content": "先に手元の仕事を終わらせて。結論を急がないで。"
+        },
+        {
+          "language": "英文",
+          "content": "Focus on the work at hand and don't jump to any conclusions."
+        },
+        {
+          "language": "韩文",
+          "content": "지금 하는 일에 집중하고 성급하게 결론 내지 말도록."
+        },
+        {
+          "language": "繁体中文",
+          "content": "先完成手上的工作，別急著下結論。"
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在如何构筑阵地防御上，战车给了我许多实用的建议。"
+        },
+        {
+          "language": "日文",
+          "content": "どうやって防御を構築するか、Tachankaがいくつもの実用的な意見をくれた。"
+        },
+        {
+          "language": "英文",
+          "content": "Tachanka's taught me a thing or two about how to build defenses."
+        },
+        {
+          "language": "韩文",
+          "content": "Tachanka가 진지 구축하는 법을 조금 가르쳐줬지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "在如何構築陣地防禦上，Tachanka給了我許多實用的建議。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我有一些问题，博士，希望您可以为我解答。"
+        },
+        {
+          "language": "日文",
+          "content": "いくつか聞きたいことがあるの、ドクター。答えてくれるかしら。"
+        },
+        {
+          "language": "英文",
+          "content": "I have some questions, Doctor. I hope you can answer them for me."
+        },
+        {
+          "language": "韩文",
+          "content": "질문이 있다, 박사. 대답해 줄 수 있다면 좋겠군."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我有一些問題，博士，希望您可以為我解答。"
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "破开障碍，很多事就会变得很容易。"
+        },
+        {
+          "language": "日文",
+          "content": "障壁を乗り越えれば、多くのことが容易になる。"
+        },
+        {
+          "language": "英文",
+          "content": "Overcoming obstacles and breaking down barriers makes a lot of things easier."
+        },
+        {
+          "language": "韩文",
+          "content": "장애물을 뛰어넘고 장벽을 뚫으며 여러 가지를 극복해내다 보면 참 많은 게 편해지기 마련이야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "破開障礙，很多事就會變得很容易。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "只要回报足够高，我都愿意尝试。"
+        },
+        {
+          "language": "日文",
+          "content": "リターンが十分でありさえすれば、どんな試みも喜んでする。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm willing to try, as long as the reward is commensurate to the risk."
+        },
+        {
+          "language": "韩文",
+          "content": "기꺼이 노력하지. 뒤따르는 보상이 그 위험에 상응한다면."
+        },
+        {
+          "language": "繁体中文",
+          "content": "只要回報足夠高，我都願意嘗試。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您是觉得我很严格吗？嗯，我喜欢这个评价。"
+        },
+        {
+          "language": "日文",
+          "content": "あたしが厳しすぎると思うの？うん、まぁでもその評価は嫌いじゃない。"
+        },
+        {
+          "language": "英文",
+          "content": "You think I'm strict, huh? I'll take that as a compliment."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 엄격하다고 생각하나? 칭찬으로 듣지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "您是覺得我很嚴格嗎？嗯，我喜歡這個評價。"
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "帮我一个忙，战略上由您把握，战术上请交由我来判断。"
+        },
+        {
+          "language": "日文",
+          "content": "お願い、戦略はあんたに任せる。戦術はあたしに任せて。"
+        },
+        {
+          "language": "英文",
+          "content": "Do me a favor. You worry about the strategy and let me worry about the tactics."
+        },
+        {
+          "language": "韩文",
+          "content": "부탁 하나 하지. 넌 전략에 집중하고, 전술은 내게 맡겨."
+        },
+        {
+          "language": "繁体中文",
+          "content": "幫我一個忙，戰略上由您把握，戰術上請交由我來判斷。"
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "时间到了，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "時間よ、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Time's up, Doc."
+        },
+        {
+          "language": "韩文",
+          "content": "시간 됐다, 박사."
+        },
+        {
+          "language": "繁体中文",
+          "content": "時間到了，博士。"
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "彩虹小队成员，代号灰烬，已获得行动授权，请开始部署任务。"
+        },
+        {
+          "language": "日文",
+          "content": "レインボー小隊メンバー、コードネームはAshよ。行動権限は得た、任務を始めましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "Rainbow Operator, codename Ash. I have my authorization and I'm ready for assignment."
+        },
+        {
+          "language": "韩文",
+          "content": "레인보우 팀 오퍼레이터, 코드네임 Ash. 권한을 부여받고 임무를 수행할 준비를 마쳤다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "虹彩小隊成員，代號Ash，已獲得行動授權，請開始部署任務。"
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们越了解它们的攻击模式，它们就越好对付。"
+        },
+        {
+          "language": "日文",
+          "content": "奴らの行動パターンを理解するほど、対応しやすくなる。"
+        },
+        {
+          "language": "英文",
+          "content": "The more we can learn about their attack patterns, the better off we'll be."
+        },
+        {
+          "language": "韩文",
+          "content": "놈들의 공격 방식에 대해 더 알게 될수록 우리는 더 발전할 거야."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我們越瞭解它們的攻擊模式，它們就越好對付。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我尊敬您，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "尊敬してる、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "You have my respect, Doc."
+        },
+        {
+          "language": "韩文",
+          "content": "존경한다, 박사."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我尊敬您，博士。"
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "只有经历过冲突的两端，你才能真正理解它。"
+        },
+        {
+          "language": "日文",
+          "content": "両方の立場になってみないと、その争いについて真に理解することはできない。"
+        },
+        {
+          "language": "英文",
+          "content": "You can't really understand a conflict until you've been on both sides."
+        },
+        {
+          "language": "韩文",
+          "content": "갈등이란 양측 입장이 되어보지 않는 한 절대 진정으로 이해할 수 없다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "只有經歷過衝突的兩端，你才能真正理解它。"
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "准备就绪。"
+        },
+        {
+          "language": "日文",
+          "content": "準備できた。"
+        },
+        {
+          "language": "英文",
+          "content": "It's ready."
+        },
+        {
+          "language": "韩文",
+          "content": "준비 완료."
+        },
+        {
+          "language": "繁体中文",
+          "content": "準備就緒。"
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "专心执行我们的任务吧。"
+        },
+        {
+          "language": "日文",
+          "content": "任務実行に集中して。"
+        },
+        {
+          "language": "英文",
+          "content": "Let's get our heads in the game."
+        },
+        {
+          "language": "韩文",
+          "content": "자, 이제 집중할 시간이다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "專心執行我們的任務吧。"
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让他们知道我们有多少能耐吧。"
+        },
+        {
+          "language": "日文",
+          "content": "あたしたちの実力を見せてやりましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "Let's show them what we can do."
+        },
+        {
+          "language": "韩文",
+          "content": "본때를 보여주지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "讓他們知道我們有多少能耐吧。"
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "发现目标。"
+        },
+        {
+          "language": "日文",
+          "content": "ターゲット発見。"
+        },
+        {
+          "language": "英文",
+          "content": "Targets detected"
+        },
+        {
+          "language": "韩文",
+          "content": "목표 발견."
+        },
+        {
+          "language": "繁体中文",
+          "content": "發現目標。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我都补给好了。"
+        },
+        {
+          "language": "日文",
+          "content": "補給はOKよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm all stocked up."
+        },
+        {
+          "language": "韩文",
+          "content": "보급을 마쳤다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我都補給好了。"
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "准备好行动了！"
+        },
+        {
+          "language": "日文",
+          "content": "準備万端よ！"
+        },
+        {
+          "language": "英文",
+          "content": "Ready to go!"
+        },
+        {
+          "language": "韩文",
+          "content": "준비 완료!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "準備好行動了！"
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "行动！"
+        },
+        {
+          "language": "日文",
+          "content": "行動開始！"
+        },
+        {
+          "language": "英文",
+          "content": "Move!"
+        },
+        {
+          "language": "韩文",
+          "content": "움직여!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "行動！"
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们走！"
+        },
+        {
+          "language": "日文",
+          "content": "行くわよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Let's go!"
+        },
+        {
+          "language": "韩文",
+          "content": "가자!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "我們走！"
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小心爆炸。"
+        },
+        {
+          "language": "日文",
+          "content": "爆発に気を付けて。"
+        },
+        {
+          "language": "英文",
+          "content": "Watch for the blast."
+        },
+        {
+          "language": "韩文",
+          "content": "폭발에 대비하라."
+        },
+        {
+          "language": "繁体中文",
+          "content": "小心爆炸。"
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "离爆炸远一点。"
+        },
+        {
+          "language": "日文",
+          "content": "爆発に巻き込まれないで。"
+        },
+        {
+          "language": "英文",
+          "content": "Stay clear of the blast."
+        },
+        {
+          "language": "韩文",
+          "content": "폭발 지역에서 물러서라."
+        },
+        {
+          "language": "繁体中文",
+          "content": "離爆炸遠一點。"
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "离远一点！"
+        },
+        {
+          "language": "日文",
+          "content": "離れて！"
+        },
+        {
+          "language": "英文",
+          "content": "Get clear!"
+        },
+        {
+          "language": "韩文",
+          "content": "물러서라!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "離遠一點！"
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "已发现目标！"
+        },
+        {
+          "language": "日文",
+          "content": "ターゲットを発見した！"
+        },
+        {
+          "language": "英文",
+          "content": "Target spotted!"
+        },
+        {
+          "language": "韩文",
+          "content": "목표를 발견했다!"
+        },
+        {
+          "language": "繁体中文",
+          "content": "已發現目標！"
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "比我预想中的效果要好。"
+        },
+        {
+          "language": "日文",
+          "content": "想像以上にうまくいった。"
+        },
+        {
+          "language": "英文",
+          "content": "That worked out better than I expected."
+        },
+        {
+          "language": "韩文",
+          "content": "내 예상보다 효과가 훨씬 뛰어나군."
+        },
+        {
+          "language": "繁体中文",
+          "content": "比我預想中的效果要好。"
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "就跟平常差不多。"
+        },
+        {
+          "language": "日文",
+          "content": "いつも通りね。"
+        },
+        {
+          "language": "英文",
+          "content": "No more than usual."
+        },
+        {
+          "language": "韩文",
+          "content": "평소대로군."
+        },
+        {
+          "language": "繁体中文",
+          "content": "就跟平常差不多。"
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们早就知道风险了。我们还是得完成这次任务。"
+        },
+        {
+          "language": "日文",
+          "content": "リスクがあるのはわかってた。それでもあたしたちはこの任務を遂行しなければならないの。"
+        },
+        {
+          "language": "英文",
+          "content": "We knew the risks. We still have to see this through."
+        },
+        {
+          "language": "韩文",
+          "content": "우린 위험을 알고 있었다. 그래도 끝까지 해내야 해."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我們早就知道風險了。我們還是得完成這次任務。"
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们得走了。"
+        },
+        {
+          "language": "日文",
+          "content": "ここを去らないと。"
+        },
+        {
+          "language": "英文",
+          "content": "We have to go."
+        },
+        {
+          "language": "韩文",
+          "content": "이동한다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我們得走了。"
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "就是这里了。"
+        },
+        {
+          "language": "日文",
+          "content": "ここね。"
+        },
+        {
+          "language": "英文",
+          "content": "This is the place."
+        },
+        {
+          "language": "韩文",
+          "content": "여기로군."
+        },
+        {
+          "language": "繁体中文",
+          "content": "就是這裡了。"
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哦？"
+        },
+        {
+          "language": "日文",
+          "content": "お？"
+        },
+        {
+          "language": "英文",
+          "content": "Well?"
+        },
+        {
+          "language": "韩文",
+          "content": "음?"
+        },
+        {
+          "language": "繁体中文",
+          "content": "哦？"
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们需要交流一下。"
+        },
+        {
+          "language": "日文",
+          "content": "あたしたちにはコミュニケーションが必要よ。"
+        },
+        {
+          "language": "英文",
+          "content": "We need to talk."
+        },
+        {
+          "language": "韩文",
+          "content": "얘기 좀 하지."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我們需要交流一下。"
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
+        },
+        {
+          "language": "繁体中文",
+          "content": "明日方舟。"
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "新年快到了，有什么计划吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我跟着你呢。"
+        },
+        {
+          "language": "日文",
+          "content": "あんたについていく。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm with you."
+        },
+        {
+          "language": "韩文",
+          "content": "난 여기 있다."
+        },
+        {
+          "language": "繁体中文",
+          "content": "我跟著你呢。"
+        }
+      ]
+    }
+  ]
+}
