@@ -145,7 +145,7 @@ const updateArknights = async (page, config) => {
 };
 const updateBlueArchive = async (config) => {
     await axios
-        .get('https://api.kivo.wiki/api/v1/data/students/?page=1&page_size=500&is_npc=false')
+        .get('https://api.kivo.fun/api/v1/data/students/?page=1&page_size=500&is_npc=false')
         .then((res) => {
         const female = res.data.data.students
             .map((item) => {
@@ -169,7 +169,7 @@ const updateStarRail = async (page, config) => {
         return el.map((item) => {
             return {
                 description: item.querySelector('td:nth-child(2) > a')?.innerHTML,
-                url: decodeURI(item.querySelector('td:nth-child(1) > a > img')?.getAttribute('src')),
+                url: decodeURI(item.querySelector('td:nth-child(1) > div:nth-child(1) > a > img')?.getAttribute('src')),
                 gender: item.querySelector('td:nth-child(6)')?.innerHTML.trim(),
             };
         });

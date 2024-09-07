@@ -198,7 +198,7 @@ const updateStarRail = async (page: Page, config: { webUrl: string; blackList: s
         return el.map((item) => {
             return {
                 description: item.querySelector('td:nth-child(2) > a')?.innerHTML as string,
-                url: decodeURI(item.querySelector('td:nth-child(1) > a > img')?.getAttribute('src') as string),
+                url: decodeURI(item.querySelector('td:nth-child(1) > div:nth-child(1) > a > img')?.getAttribute('src') as string),
                 gender: item.querySelector('td:nth-child(6)')?.innerHTML.trim() as string,
             }
         })
