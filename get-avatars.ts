@@ -170,7 +170,7 @@ const updateArknights = async (page: Page, config: { webUrl: string; blackList: 
 
 const updateBlueArchive = async (config: { blackList: string[] }) => {
     await axios
-        .get('https://api.kivo.wiki/api/v1/data/students/?page=1&page_size=500&is_npc=false')
+        .get('https://api.kivo.fun/api/v1/data/students/?page=1&page_size=500&is_npc=false')
         .then((res) => {
             const female = res.data.data.students
                 .map((item: { family_name: any; given_name: any; skin: string | any[]; avatar: any }) => {
