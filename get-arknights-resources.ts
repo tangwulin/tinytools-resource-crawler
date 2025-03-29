@@ -69,6 +69,20 @@ const start = async (oldCharactersName: string[], threads: number) => {
                 )
                 await workerPage.goto(`https://prts.wiki/w/${item}`)
                 await workerPage.waitForSelector('#charimg')
+
+                let retry = 0
+                do {
+                    try {
+                        await workerPage.mouse.wheel({deltaY: 1000})
+                        await workerPage.waitForSelector('#charimg > img:nth-child(1)', {timeout: 10 * 1e3})
+                    } catch (e) {
+                        await workerPage.reload()
+                        retry++
+                    }
+                } while (!(await workerPage.$('#charimg > img:nth-child(1)')) && retry < 3)
+                if (retry === 3) {
+                    workerSpinner.fail(`${workerIndex + 1}# Worker获取${item}的立绘失败`)
+                }
                 const charaImgs = await workerPage.$$eval('#charimg > img', (el) => {
                     return el.map((item) => {
                         return `https:${item.getAttribute('src')}`
@@ -134,6 +148,7 @@ const start = async (oldCharactersName: string[], threads: number) => {
                 spinner.succeed(`总进度:${result.length}/${newCharacters.length}`)
             }
             workerSpinner.succeed(`${workerIndex + 1}# Worker任务完成`)
+            await workerPage.close()
         }),
     )
     spinner.succeed('所有任务完成')
