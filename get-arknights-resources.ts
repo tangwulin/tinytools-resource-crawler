@@ -1,7 +1,7 @@
 import * as fs from 'fs'
 import ora from 'ora'
 import puppeteer from 'puppeteer'
-import { CharaData } from './types/CharaData'
+import { CharaData } from './types/CharaData.js'
 
 const result = [] as { name: string; charaKey: string }[]
 const charaDatas = [] as CharaData[]
