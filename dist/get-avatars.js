@@ -3,13 +3,6 @@ import axios from 'axios';
 import * as fs from 'fs';
 import puppeteer from 'puppeteer';
 const avatars = {};
-const chunk = (arr, size) => {
-    const result = [];
-    for (let i = 0; i < arr.length; i += size) {
-        result.push(arr.slice(i, i + size));
-    }
-    return result;
-};
 const stopwatch = performance.now();
 avatar().then(() => {
     console.log(avatars);
