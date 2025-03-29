@@ -1,7 +1,10 @@
 {
   "name": "魔王",
   "charaKey": "char_4134_cetsyr",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/a/a8/%E7%AB%8B%E7%BB%98_%E9%AD%94%E7%8E%8B_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/6/60/%E7%AB%8B%E7%BB%98_%E9%AD%94%E7%8E%8B_2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -10,6 +13,14 @@
     {
       "language": "中文-普通话",
       "base": "voice_cn/char_4134_cetsyr"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4134_cetsyr"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_4134_cetsyr"
     }
   ],
   "voiceList": [
@@ -23,7 +34,15 @@
         },
         {
           "language": "日文",
-          "content": "この会議室のことは覚えているわ。この席はテレジアのために開けられるのかしら。いいえ……私はいらないわ。"
+          "content": "この会議室のことは覚えているわ。この席は、テレジアのために空けられているのかしら？いいえ……私は要らないわ。"
+        },
+        {
+          "language": "英文",
+          "content": "I still remember this conference room. This seat… was it reserved for Theresa? No... I have no need for it."
+        },
+        {
+          "language": "韩文",
+          "content": "이 회의실, 아직 기억나. 이건 테레시아를 위해 남겨둔 자리야? 아니…… 그런 거라면 내겐 필요 없어."
         }
       ]
     },
@@ -37,7 +56,15 @@
         },
         {
           "language": "日文",
-          "content": "テレジアはもう戻らぬ旅路に着いたわ、残された私は、運命の存続の中に存在するプログラムでしかない。アーミヤの思いがあったからこそ、私はこの姿で現れたの。テレジアとは別人よ、例え私にかつての記憶が全てあったとしてもよ。"
+          "content": "テレジアはもう戻らぬ旅路に就いたわ。残された私は、「文明の存続」の中に存在するプログラムでしかない。アーミヤの思いがあったからこそ、私はこの姿で現れたの。テレジアとは別人よ。たとえ私にかつての記憶が全てあったとしてもよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Theresa is no more. This body, this vestige before you, is but a program that exists within the 'King of Sarkaz.' My form and my presence are the result of Amiya's emotions. As much as I may remember everything from the past, please do not mistake me for Theresa herself."
+        },
+        {
+          "language": "韩文",
+          "content": "테레시아는 영원히 떠났어. 지금 이곳에 있는 나는 그저 '마왕' 속에 있는 프로그램일 뿐이지. 아미야의 감정 때문에 이런 모습으로 나타나게 된 거야. 날 테레시아라고 생각하지 말아줘, 비록 이런 내가 과거의 모든 것을 기억하고 있다 할지라도……"
         }
       ]
     },
@@ -51,7 +78,15 @@
         },
         {
           "language": "日文",
-          "content": "これからはアーミヤの傍にいるし、ロドスのみんなとも共に過ごすつもりよ、こんなことではとても過去の埋め合わせにはならないけれどね。ドクター、私はPRTSのようなプログラムではないの、ほら、この体に体温はないけれど、笑ったりはするわ。"
+          "content": "これからはアーミヤの傍にいるし、ロドスの皆とも共に過ごすつもりよ。こんなことではとても過去の埋め合わせにはならないけれどね……ドクター、私はPRTSのようなプログラムではないの。ほら、この身体に体温はないけれど、笑ったりはするわ。"
+        },
+        {
+          "language": "英文",
+          "content": "I will stay by Amiya's aside, accompanying everyone here at Rhodes Island. Though, this hardly makes up for all the lost time... Doctor, I'm not a program in the same sense as PRTS. See? You might not be able to feel my body temperature, but I can at least smile."
+        },
+        {
+          "language": "韩文",
+          "content": "난 언제나 아미야의 곁에, 로도스 아일랜드 사람들의 곁에 남아 있을 거야. 비록 이게 흘러가 버린 시간에 대한 보상이 될 수는 없겠지만…… 박사, 난 PRTS 같은 프로그램이 아니야. 봐 봐. 비록 몸에 온기는 없지만, 이렇게 웃을 수 있잖아."
         }
       ]
     },
@@ -65,7 +100,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ロドスは戦争を乗り越えたのだから、そろそろ元の航路に戻るべきね。インフラの改善から始めたらどうかしら？会議室をいくつか空けて、病室に改築するとか……私の意見がほしいの？ドクター、言ったでしょう。私はテレジアではないわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Rhodes Island has strode beyond war, and should now re-embark on her intended route. For starters, how about optimizing our logistics? There are several conference rooms that can be freed up and converted into sickbays... You'd like my personal opinion? Doctor, allow me to remind you again, I am not Theresa."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드는 전쟁을 견뎌냈어. 그러니 이젠 원래의 항로로 복귀해 다시 나아가야 해. 음, 후방 물자 보급부터 개선하는 건 어때? 병실로 사용할 수 있는 회의실은 얼마나 있지? ……내 의견이 더 듣고 싶다고? 말했잖아, 박사. 난 테레시아가 아니야."
         }
       ]
     },
@@ -79,7 +122,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "「ロドス・アイランド製薬会社」、登記はアーミヤの故郷なのね。この薬は全てケルシーが開発したものなのかしら……どうして私が残念に思うの？バベルの使命はもう終わって、ロドスは引き続き病気と痛みを癒す旅を続けるのよ。テレジアだってきっとうれしく思うわ。"
+        },
+        {
+          "language": "英文",
+          "content": "'Rhodes Island Pharmaceuticals Inc.'... registered to Amiya's hometown... And these medicines... They were all developed by Kal'tsit... No, I have no regrets. Babel has fulfilled its duty. Rhodes Island will continue to sail, and continue to alleviate sickness and pain. If Theresa was here, I'm sure she would have been pleased."
+        },
+        {
+          "language": "韩文",
+          "content": "'로도스 아일랜드 제약회사', 등록지는 아미야의 고향이구나. 이 약들은 전부 켈시가 개발한 건가…… 아쉽지 않냐고? 그럴 리가 없잖아. 바벨은 사명을 다했고, 로도스 아일랜드는 계속해서 항해하며, 이 대지의 질병과 고통을 치유해 나갈 거야. 그럼 분명 테레시아도 기뻐할 테지."
         }
       ]
     },
@@ -93,7 +144,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "私は自分の選択を後悔したことはないの。持てる力の限りを尽くして、希望を未来に残したのよ。いずれ時が傷を癒して、愛がその跡を薄くするでしょう。長い夜のあとに、ロドスは朝日を迎えることになるのよ。たくさんの人が道半ばでいなくなったけれど、私はここに残って、結末を見届けるつもりよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Never have I regretted any of my decisions. We did everything we could have done, and bequeathed hope unto the future. Time will close wounds, love will mend scars. When the long night ends, Rhodes Island will usher in the light of dawn. Though many have left us along the way, I will remain here and bear witness to the ending."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 한 선택을 후회한 적은 없어. 우린 할 수 있는 모든 것을 했고, 미래에 희망의 씨앗을 남겼지. 시간은 상처를 치유하고, 사랑은 상흔을 치료해 주리라 믿으며 말이야. 길고 긴 밤이 지나면, 로도스 아일랜드엔 분명, 여명이 찾아올 거야. 수많은 이들이 도중에 떠나겠지만, 난 이곳에 남아 이 이야기의 끝을 지켜볼게."
         }
       ]
     },
@@ -107,7 +166,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "アーミヤはやっぱり、華奢すぎるように見えるわ。この年頃の子なら、もっと背が高いものじゃないかしら？本当にちゃんとご飯を食べているの……彼女がどれだけこの子の今の姿を自分の目で確かめたかったか。少しでも長く成長を見守っていたかったか。本当ならそれは叶うべきことだったのに……"
+        },
+        {
+          "language": "英文",
+          "content": "Amiya still looks so thin and frail. For a girl at this age, maybe she should be a bit taller? All these days, has she been eating well…? How she so wished to see Amiya as she is now, to watch her grow for just a bit longer. Her wish should have been granted..."
+        },
+        {
+          "language": "韩文",
+          "content": "아미야는 아직도 말라 보이네. 이 나이대의 아이라면 키가 조금 더 커야 하지 않나? 밥은 잘 먹고 다니는 건지…… 아미야의 지금 모습도, 아미야가 자라나는 모습도 곁에서 보고 싶었겠지. 원래라면 테레시아도 볼 수 있었을 텐데……"
         }
       ]
     },
@@ -121,7 +188,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ケルシーはやはり私と話をしたくないようね。この王冠に向かって質問をする時ですら、私の目を避けるの。「文明の存続」は彼女の過去を知っているから、彼女が抱える孤独を理解できるのに、枷を解いてあげることはできないの。ドクター、もしかしたら、あなたならいつの日か、彼女と一緒に生きる意味を見つけられるかもしれないわね。"
+        },
+        {
+          "language": "英文",
+          "content": "Kal'tsit still refuses to speak to me. When she poses questions to this crown, she avoids looking me in the eye. 'The King of Sarkaz' remembers her past. While I can sympathize with her loneliness, I cannot free her from her shackles. Perhaps one day, Doctor, you can help her find meaning in her existence, as her companion."
+        },
+        {
+          "language": "韩文",
+          "content": "켈시는 여전히 나와 이야기하길 꺼려 하는 것 같아. 이 왕관에 대해 물어봤을 때도, 켈시는 내 눈을 피했었거든…… '마왕'은 그녀의 과거를 기억하고 있어. 그녀의 외로움을 나는 이해하지만, 그녀를 위해서 그 족쇄를 풀어줄 순 없어. 박사, 어쩌면 언젠가, 네가 함께 그녀의 존재의 의미를 찾아줄 수 있을 거야."
         }
       ]
     },
@@ -135,7 +210,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、あなたの目にはいつも後ろめたさが見えるわ。だけど考えてみてちょうだい。その者が誰であるかを決めるのは記憶なのかしら？記憶を失ったあなたと、彼女の記憶をただ持っているだけの私の二人で、どうやってあのわだかまりを解くというの？時間があるなら、アーミヤとケルシーの傍にいてあげて。過去に留まったままなのは彼女だけで十分よ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, you carry such guilt within your eyes. But you ask, is one's memory sufficient to define who they are? You have lost your memories. I merely inherited all of hers. How are we to settle what happened so long ago? Doctor, go and spend some more time with Amiya and Kal'tsit. None shall linger in the past, except her."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 네 눈엔 늘 미안함이 깃들어 있네. 하지만, 과연 한 사람이 누구인지를 기억만으로 정할 수 있는 걸까? 기억을 잃어버린 너와, 그녀의 기억만을 가진 내가 과연 어떻게 그 매듭을 풀어낼 수 있을까? 가서 아미야와 켈시랑 함께 있어줘. 과거에 머물러 있는 사람은 그녀 하나면 충분하니까."
         }
       ]
     },
@@ -149,7 +232,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、疲れたの？それなら、少し休んだらいいわ。誰だって穏やかに眠りにつく権利を持っているの、あなただってね。"
+        },
+        {
+          "language": "英文",
+          "content": "Are you weary, Doctor? Then, go ahead and rest. Everyone has the right to fall into peaceful slumber, and you are no exception."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 피곤한 모양이네? 그럼 좀 쉬어, 누구에게나 평온한 꿈을 꿀 권리는 있잖아. 너도 마찬가지야."
         }
       ]
     },
@@ -163,7 +254,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "……ここにいるわ。"
+        },
+        {
+          "language": "英文",
+          "content": "...I'm here."
+        },
+        {
+          "language": "韩文",
+          "content": "……여기 있어."
         }
       ]
     },
@@ -177,7 +276,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "……今映っていたのはアーミヤじゃないかしら？"
+        },
+        {
+          "language": "英文",
+          "content": "…Did I just see Amiya fighting?"
+        },
+        {
+          "language": "韩文",
+          "content": "……지금 작전 화면에 아미야가 나온 거야?"
         }
       ]
     },
@@ -191,7 +298,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "この手で渡したメダルは全て覚えているわ。こうした儀式はある種の約束でもあるの。ロドスは決して理想を諦めず、払われた犠牲を無駄にはせず、共に歩んだ人々を忘れることはない。私たちは今も一番初めに思い描いていた道を進んでいるわ。"
+        },
+        {
+          "language": "英文",
+          "content": "I still remember every medal I distributed with these very hands. These ceremonies are also commitments. Rhodes Island will never give up on her ideals, let sacrifices be in vain, or forget about those who've traveled with her. Even now, we remain on the same course we originally charted."
+        },
+        {
+          "language": "韩文",
+          "content": "직접 수여했던 훈장들, 나도 아직 기억하고 있어. 이런 의식은 하나의 약속이니까. 로도스 아일랜드는 절대 이상을 포기하지 않아. 희생을 저버리지도, 함께 했던 이들도 잊지 않을 거야. 우리는 처음 가고자 한 그 길을 계속해서 나아갈 거야."
         }
       ]
     },
@@ -205,7 +320,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ええ、まだたくさんの人たちが私を必要としているのね。心配しなくて大丈夫よ、今度はもういなくなったりしないから。"
+        },
+        {
+          "language": "英文",
+          "content": "I know, there are still many people who need me. Don't worry. This time, I'm not going anywhere."
+        },
+        {
+          "language": "韩文",
+          "content": "아직 많은 이들이 날 필요로 하고 있다는 걸 알고 있어. 걱정하지 마, 이번엔 떠나지 않을 거야."
         }
       ]
     },
@@ -219,7 +342,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あなたは私たちをもう一度勝利へと導くのかしら、ドクター？"
+        },
+        {
+          "language": "英文",
+          "content": "Will you lead us to victory once more, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "우리를 다시 승리로 이끌어 줄래, 박사?"
         }
       ]
     },
@@ -233,7 +364,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "私はロドスの戦士たちと共にあるわ。"
+        },
+        {
+          "language": "英文",
+          "content": "I will stand alongside the warriors of Rhodes Island."
+        },
+        {
+          "language": "韩文",
+          "content": "난 로도스 아일랜드의 전사들과 함께하겠어."
         }
       ]
     },
@@ -247,7 +386,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ロドスの戦士たち、凱旋を願うわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Warriors of Rhodes Island, may you all return victorious."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드의 전사들이여, 승리를 거두고 돌아오기를."
         }
       ]
     },
@@ -261,7 +408,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あなたたち全員の悲しみが聞こえるわ。"
+        },
+        {
+          "language": "英文",
+          "content": "I can hear the sorrow within you all."
+        },
+        {
+          "language": "韩文",
+          "content": "난 너희의 슬픔이 들려."
         }
       ]
     },
@@ -275,7 +430,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、あなたの指揮を信じているわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, I have faith in your command."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 네 지휘를 믿어."
         }
       ]
     },
@@ -289,7 +452,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "安心して、私がいるわ。"
+        },
+        {
+          "language": "英文",
+          "content": "It's okay. I am with you."
+        },
+        {
+          "language": "韩文",
+          "content": "무서워하지 마, 내가 있잖아."
         }
       ]
     },
@@ -303,7 +474,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "アーミヤ、私の後ろに隠れていてね。"
+        },
+        {
+          "language": "英文",
+          "content": "Amiya, get behind me."
+        },
+        {
+          "language": "韩文",
+          "content": "아미야, 내 뒤로 물러서."
         }
       ]
     },
@@ -317,7 +496,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "私はここにいるわ。ずっと傍にいるからね。"
+        },
+        {
+          "language": "英文",
+          "content": "I am right here. I will always remain with you."
+        },
+        {
+          "language": "韩文",
+          "content": "여기 있어. 난 언제나 너와 함께할 거야."
         }
       ]
     },
@@ -331,7 +518,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あなたたちのことは誰一人忘れないわ。"
+        },
+        {
+          "language": "英文",
+          "content": "I will remember each and every one of you."
+        },
+        {
+          "language": "韩文",
+          "content": "너희 모두는 내가 기억할게."
         }
       ]
     },
@@ -345,7 +540,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あなたたちの信念も尊ぶべきものよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Your ideals... are equally worthy of respect."
+        },
+        {
+          "language": "韩文",
+          "content": "너희의 신념도, 마찬가지로 존경할 만해."
         }
       ]
     },
@@ -359,7 +562,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "そのまま前に進んで。私も一緒に行くわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Keep striding forward. I shall be at your side."
+        },
+        {
+          "language": "韩文",
+          "content": "계속 나아가자, 내가 너의 곁에 있을게."
         }
       ]
     },
@@ -373,7 +584,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "泣かないで、すぐに終わるからね。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't cry. It will all be over soon."
+        },
+        {
+          "language": "韩文",
+          "content": "울지마, 곧 끝날 거야."
         }
       ]
     },
@@ -387,7 +606,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "いつかきっと、私たちが炎を点し、朽ち果てる全てを燃やし尽くせる日はやってくるわ。"
+        },
+        {
+          "language": "英文",
+          "content": "There shall come a day... when we can strike alight the flames that burn away all decay."
+        },
+        {
+          "language": "韩文",
+          "content": "언젠가 우린, 환한 불꽃을 피워 이 모든 부패를 태워버릴 수 있을 거야."
         }
       ]
     },
@@ -401,7 +628,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あなたはいつだって全部計算済みで、自分の計画通りに全てを動かすことができるのよね。違う？"
+        },
+        {
+          "language": "英文",
+          "content": "You always make the perfect calculations so that everything falls into place just as you planned, don't you?"
+        },
+        {
+          "language": "韩文",
+          "content": "넌 언제나 치밀한 계산으로 모든 일을 네 계획대로 이끌어가는 것 같아, 그렇지?"
         }
       ]
     },
@@ -415,7 +650,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あなたがいなかったら、みんなの被害はもっと重かったかもしれないわ……ありがとう、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Without you, our casualties would have been far worse... Thank you, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "만약 네가 없었다면 우리의 피해는 이보다 더 심각했을 거야…… 고마워, 박사."
         }
       ]
     },
@@ -429,7 +672,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "私たちはきっとこの痛みを乗り越えることができるわ。ロドスはここで終わらない。"
+        },
+        {
+          "language": "英文",
+          "content": "We will be able to move beyond this pain and suffering. Rhodes Island will not stop here."
+        },
+        {
+          "language": "韩文",
+          "content": "우린 분명 이 상처를 딛고 다시 일어설 수 있을 거야. 로도스 아일랜드 역시 여기서 멈추지 않을 거고."
         }
       ]
     },
@@ -443,7 +694,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "新しいセキュリティシステムは、私のことが分かるかしら？"
+        },
+        {
+          "language": "英文",
+          "content": "A new security system? Will it still recognize me?"
+        },
+        {
+          "language": "韩文",
+          "content": "새로운 보안 시스템이 날 알아보려나?"
         }
       ]
     },
@@ -457,7 +716,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "わっ！驚いた？"
+        },
+        {
+          "language": "英文",
+          "content": "Boo! Did I scare you?"
+        },
+        {
+          "language": "韩文",
+          "content": "얍! 놀랐어?"
         }
       ]
     },
@@ -471,7 +738,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あなたのことを見ているわ、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm watching you, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "지켜보고 있을게, 박사."
         }
       ]
     },
@@ -485,7 +760,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
         }
       ]
     },
@@ -499,7 +782,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "明けましておめでとう、ドクター。昔に比べて随分と賑やかになったわね。まだまだやるべきことはたくさんあるけど、今この時の平穏もとても貴重よ。ドクター、私の代わりにこのお話の本と人形を子供たちに渡してあげてくれるかしら？テレジアはいつもそうしていたの。"
+        },
+        {
+          "language": "英文",
+          "content": "Happy New Year, Doctor. Rhodes Island is a lot livelier than it used to be. Though there's still so much unfinished business, this moment of peace is precious nevertheless. Doctor, can you give these storybooks and toys to the children for me? It's something Theresa always used to do."
+        },
+        {
+          "language": "韩文",
+          "content": "새해 복 많이 받아, 박사. 로도스 아일랜드는 전보다 많이 시끌벅적해졌네. 아직 이루지 못한 일들이 많지만, 이 잠깐의 평화도 소중한 거니까…… 박사, 날 대신해서 이 동화책과 장난감을 아이들에게 선물해 줄 수 있을까? 테레시아는 늘 그렇게 해왔거든."
         }
       ]
     },
@@ -510,6 +801,28 @@
         {
           "language": "中文",
           "content": "程序启动，访问人，博士——博士，早上好。"
+        },
+        {
+          "language": "日文",
+          "content": "プログラム起動、訪問者確認。ドクター――おはよう。"
+        },
+        {
+          "language": "英文",
+          "content": "Program initializing. Accessor: Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "프로그램 기동, 방문자. 박사 박사…… 안녕, 박사."
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "生日快乐，博士。你在过去的世界里会怎样庆祝这一天呢？那一定是很温馨幸福的画面吧。我在“文明的存续”里，找到了这样一首歌，你要听听吗？博士，祝你今后的旅途，不再孤独。"
         },
         {
           "language": "日文",
@@ -527,7 +840,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "「ロドス・アイランド」、この名前にはとても優しい印象を受けるわね。声に出して読み上げた時に思い浮かぶのは、きっとすごく温かな記憶だわ。ロドスには、これからも変わらず、たくさんの人の希望を載せて進んで行ってほしいわ。この先、彼女はもっと多くの人々の家になるのよ。"
+        },
+        {
+          "language": "英文",
+          "content": "'Rhodes Island.' This very name fills one with warmth and comfort. Surely, tender memories will rush forth as soon as you speak these words. I hope that Rhodes Island can continue to carry forth the hopes and expectations of countless people, and in the future, become home for many, many more."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드, 이 이름은 뭔가 포근한 느낌이 들어. 이 이름을 되뇌일 때마다, 사람들은 늘 따뜻한 기억만을 떠올릴 거야. 앞으로도 로도스 아일랜드가 계속 많은 사람들의 기대를 품고 나아갈 수 있었으면 좋겠어. 이 함선은 분명, 더 많은 이들의 따뜻한 집이 되어 줄 거야."
         }
       ]
     }

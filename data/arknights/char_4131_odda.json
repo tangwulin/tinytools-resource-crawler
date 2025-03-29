@@ -1,7 +1,10 @@
 {
   "name": "奥达",
   "charaKey": "char_4131_odda",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/b/b8/%E7%AB%8B%E7%BB%98_%E5%A5%A5%E8%BE%BE_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/2/27/%E7%AB%8B%E7%BB%98_%E5%A5%A5%E8%BE%BE_2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -10,6 +13,14 @@
     {
       "language": "中文-普通话",
       "base": "voice_cn/char_4131_odda"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4131_odda"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_4131_odda"
     }
   ],
   "voiceList": [
@@ -23,7 +34,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、俺明日にはロドスを離れるから、今のうちにってことで執務室を片付けておいたぞー。日用品はデスクの上、それ以外は種類ごとにラックに入れてある。使い終わったらラベルを目印に元のとこに戻すようにすればごっちゃにならないからな。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, I'm leaving the landship tomorrow, so I tidied up your office. I put your daily necessities on your desk, and sorted everything else into the cabinets. You can refer to the notes I made whenever you take or return something, so you'll remember where they are."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 나 내일 로도스 아일랜드를 떠나거든, 그래서 박사 사무실을 좀 정리해 봤어. 박사가 자주 쓰는 물건은 모두 책상 위에, 자주 안 쓰는 건 분류해서 캐비닛 안에 넣어뒀어. 앞으로 라벨대로 물건을 제자리에만 잘 두면 뒤죽박죽 엉망이 되진 않을 거야."
         }
       ]
     },
@@ -37,7 +56,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ん、俺に挨拶してくれたのか？いやー、なんてことないんだけど、ドクターのことはバベルでちょろっと遠目に見かけたくらいで、喋ったことなかったからさ。甲板で風にコートを煽られてるのを見かけた時は、もう少し着込んだらどうだって声を掛けたかったんだけど、結局あと一歩が踏み出せなかったんだよな。"
+        },
+        {
+          "language": "英文",
+          "content": "Hm? You're talking to me? No, it's just, I only saw you a few times from a distance during our Babel days, and we never had a conversation. I saw you on the deck once. A gust of wind almost blew your coat away , so I wanted to remind you to wear more layers, but in the end... I didn't have the guts to  approach you."
+        },
+        {
+          "language": "韩文",
+          "content": "방금 나한테 인사한 거야? 아니, 아무것도 아니야. 전에 바벨에 있을 땐, 박사를 그저 멀찌감치에서 몇 번 본적만 있지 이렇게 함께 대화를 나눠 본 적은 없거든. 하루는 박사가 갑판 위에 서 있는데, 갑자기 불어온 바람에 박사의 외투가 뒤집힌 적이 있어. 그때 옷을 좀 더 껴입는 게 어떻겠냐고 얘기해 주고 싶었는데, 결국 다가가지 못했던 생각이 나네."
         }
       ]
     },
@@ -51,7 +78,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター！……あちゃー、ほんと申し訳ない。迂闊に武器に触るなって言ってなかった俺の落ち度だ。いま薬を塗るからな……よし、余った分も持っていってくれ。元から仲間用のだからいいって。火傷には効果テキメンだぞ。え、自分では使わないのかって？俺は大丈夫だ……熱いのにはもうとっくに慣れてるからさ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor! Sorry, I should have mentioned not to touch my weapon. I'll apply some ointment for you, and you can keep the rest too. It was made for situations like this anyway, and it's pretty good for burns. What about me? It's fine... I've been used to its heat since long ago."
+        },
+        {
+          "language": "韩文",
+          "content": "박사! 앗…… 미안해. 내 무기는 함부로 만지면 안 된다고 미리 말했어야 했는데, 내 잘못이야. 잠깐만, 약 발라 줄게…… 됐다, 남은 연고는 가져가. 원래도 다른 사람을 위해 준비해둔 거라서. 화상 치료엔 이것만 한 게 없거든. 나는 필요 없냐고? 괜찮아…… 익숙해져서 더는 뜨겁지 않거든."
         }
       ]
     },
@@ -65,7 +100,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、なんでいつも子供のおもちゃを持ってくるんだ？え、俺が童顔だから？ハハ、これでも俺、ドクターの想像よりも歳いってると思うよ。おもちゃと言えば、小さい頃に初めてもらったおもちゃは母さんの剣だったなぁ。しかもそれを渡しといて、「これからは大人のようにしっかりしろ」なんて言うんだぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, why are you always giving me these toys? What? Because I have a baby face? Hahaha, I'm much older than you think. But you do remind me of the first toy I got as a boy, it was my mom's sword. When she gave it to me, she also said it was time I learned to be a man."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 왜 자꾸 이런 어린애들 장난감을 나한테 주는 거야? 내가 어려 보여서? 하하, 박사, 나는 박사가 생각하는 것보다 나이가 많다고. 그러고 보니 어렸을 때가 생각나네. 내가 처음 받은 장난감은 엄마의 검이었어. 근데 엄마는 그걸 주시면서 “이제부터 어른이 되는 법을 배워야 한다”라고 말씀하셨지."
         }
       ]
     },
@@ -79,7 +122,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "俺はカズデルで育った――なんて言うのは簡単だけど、夫婦二人がカズデルで子供を育てることの大変さはドクターにもわかるだろ。大人まで無事に育て上げようってなったら、一生分の運を使い果たさないと無理かもってレベルだ。"
+        },
+        {
+          "language": "英文",
+          "content": "I grew up in Kazdel. It sounds like I had it easy, but I'm sure you know it's hard for a couple to raise a child there. They probably burned all the luck they had to let their boy grow up safe and sound."
+        },
+        {
+          "language": "韩文",
+          "content": "나는 카즈델에서 자랐어. 별거 아닌 말처럼 들리겠지만, 너도 알다시피 카즈델에서 부부가 아이를 키우는 건 쉬운 일이 아니야. 아이를 무사히 어른으로 키운다는 건 어쩌면 그들 평생의 운을 다 써야 하는 일이지."
         }
       ]
     },
@@ -93,7 +144,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "バベルじゃ色んなことがありすぎた、聞くのもほどほどにな。いや、別に過去から逃げてるわけじゃなくて……なんて言うか、人は前に進むって決めたら、過去なんか自然に忘れていくものだろ。だから怨み辛みとか、許すとか許さないとか、そんなことはもういいんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Too many things happened in Babel, so it's best you don't pry. Nah, I'm not running from the past. I simply think people naturally forget the past if they choose to keep moving forward. To hate, forgive, or to do neither, none of it matters."
+        },
+        {
+          "language": "韩文",
+          "content": "바벨에서는 너무 많은 일이 있었어. 그러니 박사도 너무 묻지는 말아줘. 뭐 딱히 과거에서 도망치겠다는 건 아니고…… 그냥 사람들이 계속 앞으로 나아가길 선택하면, 과거 같은 건 자연스럽게 잊히는 거라고 생각하거든. 원망을 하든 안 하든, 용서를 하든 안 하든, 그런 건 다 중요하지 않아."
         }
       ]
     },
@@ -107,7 +166,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、とある人から手紙を預かってるぞ。昔はバベルの切り込み隊長だった奴だけど、今じゃカズデルで鍛冶師をやってるとか。え、読めない？ちょっと見せて。どれどれ――うわっ、スペルミスだらけだな。えーっと、お身体はいかがですか、食事をしっかり取って、どうか……五体満足でいてください？なんだこりゃ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, someone asked me to give you this letter. She used to be in Babel's assault squad, but now she's back in Kazdel working as a smith. You can't make sense of it? Let me see... Man, there's so many spelling mistakes... Alright, so she's asking... how you are... Saying you should eat more... And wishing... you're still with all your limbs?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 누가 네게 편지를 전해 달라고 부탁해서 가져왔어. 전에 바벨에 있을 땐 돌격병을 했었는데, 지금은 카즈델에서 대장장이를 하고 있는 사람이야. 뭐라고 썼는지 못 알아보겠다고? 내가 한번 볼게…… 아, 오타가 좀 많네. “몸은 어떠신가요, 식사 잘하세요…… 사지가 온전하길 바랄게요”라는데?"
         }
       ]
     },
@@ -121,7 +188,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "何年も前にみんなで食堂に集まって勝利を祝ったことがあったんだけど、その場にはドクターも、俺もいたんだよ。ドクターは遠くに座ってて、俺との間には何十人もいたっけな。もうみんなバラバラになっちまって、今じゃあこのテーブルを囲むのは俺たち二人だけだ……ああごめん、悲しませたいわけじゃないんだ。覚えてなくたって構わない、俺が全部覚えてるからさ。"
+        },
+        {
+          "language": "英文",
+          "content": "One year, everyone was celebrating a victory here in the canteen. We were both there, but with a group of people between us. People leave, scatter, and now only we two are left at this table. Oh, don't be upset, Doctor. Please, don't be upset. It's alright if you don't remember, at least I still do."
+        },
+        {
+          "language": "韩文",
+          "content": "몇 년 전이지, 언젠가 다 같이 식당에 모여서 승리를 자축한 적이 있었어. 그 자리에는 박사도, 나도 있었지. 그때 우리 둘 사이엔 수십 명이 앉아 있었지만, 하하. 이제 모두 뿔뿔이 흩어져, 이 테이블에는 우리 둘만 남았네…… 아, 박사, 너무 슬퍼하지는 마. 기억하지 못해도 상관없어. 내가 기억하고 있으니까."
         }
       ]
     },
@@ -135,7 +210,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "え、誰だぁ……あー、ドクターか。俺ちょっと飲みすぎたかも。ドク、ドクターは賢いから教えてほしいんだ。なんで俺の視界にはいつも、いつも混乱とか、変わってくものばっかり映るんだろうな？人生で目に映していいのは、愛する人の姿だけじゃないのかよ？"
+        },
+        {
+          "language": "英文",
+          "content": "You're... oh, it's you, Doctor. I've had a bit too much to drink... Y-You're awful clever, could you tell me something? Why do I have to see so much turmoil... and change? Shouldn't our eyes... be filled with nothing... but our loved ones?"
+        },
+        {
+          "language": "韩文",
+          "content": "누구…… 아, 박사였구나. 내가 좀 많이 마셨나 보네. 박사는 똑똑하니까 이것 좀 알려 줄래? 왜 내 눈에는 늘, 이렇게 혼란스럽고 변해가는 것들만 담길까? 인생을 살아가며 눈에 담아야 하는 건 본인이 사랑하는 사람이어야 하잖아."
         }
       ]
     },
@@ -149,7 +232,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あ、起こしてごめん、ドクター。ドアの音がちょっとうるさかったかな。最近寒くなってきたから……服を掛けてあげたくてさ。"
+        },
+        {
+          "language": "英文",
+          "content": "Sorry to wake you, Doctor. I shouldn't have barged in like that. The weather's been getting colder, so I... just wanted to make sure you stay warm."
+        },
+        {
+          "language": "韩文",
+          "content": "깨워서 미안, 박사. 문소리가 시끄러웠나 보네. 요즘 날씨가 추워져서…… 옷을 좀 덮어주려고."
         }
       ]
     },
@@ -163,7 +254,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、俺のことはもう覚えてないかな？ずっと昔に、ドクターの下で働いてたんだよ。オッダ、俺の名はオッダだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Maybe you don't remember me, Doctor? I used to work for you a long time ago. Odda. That's my name."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 아마 날 기억하지 못하겠지만, 난 아주 오래전에 박사 밑에서 일했었어. 오다, 내 이름은 오다야."
         }
       ]
     },
@@ -177,7 +276,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "いいやり方だな。昔は新人をいきなり戦場に放り込んで、生き残れたら多少は経験を積めるって方針だったもんな。"
+        },
+        {
+          "language": "英文",
+          "content": "This training method is pretty good. I remember how recruits used to be sent straight to the battlefield, they would've more or less learned how to fight, if they managed to survive."
+        },
+        {
+          "language": "韩文",
+          "content": "이 방법 괜찮네. 그러고 보면 예전에는 신입은 들어오자마자 바로 전장에 내보냈었는데. 살아남는다는 건 뭐든 배웠다는 의미니까."
         }
       ]
     },
@@ -191,7 +298,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ありがとう、ドクター。こうやって認められる日をずっと心待ちにしてたんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Thanks, Doctor. I'm always anticipating your approval."
+        },
+        {
+          "language": "韩文",
+          "content": "고마워, 박사. 이렇게 인정받을 날을 계속 기다리고 있었어."
         }
       ]
     },
@@ -205,7 +320,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "いいよな……ここじゃあ首と報酬を引き換えなくてもいいんだもんな。"
+        },
+        {
+          "language": "英文",
+          "content": "That's great... you don't exchange heads for rewards here."
+        },
+        {
+          "language": "韩文",
+          "content": "다행이야…… 여기선 머릿수로 포상하지 않는구나."
         }
       ]
     },
@@ -219,7 +342,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "生き残ろう。生き残って、また会うんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Live on, so we can see each other again."
+        },
+        {
+          "language": "韩文",
+          "content": "살아남자. 살아남아서 다시 만나는 거야."
         }
       ]
     },
@@ -233,7 +364,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あんまり近づくなよー。おっ始まったらこいつが火を噴くからな。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't come too close to me, the flames might sputter."
+        },
+        {
+          "language": "韩文",
+          "content": "너무 가까이 오지마. 얘가 곧 불을 뿜을 거거든."
         }
       ]
     },
@@ -247,7 +386,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "蒸気も散ったな。"
+        },
+        {
+          "language": "英文",
+          "content": "The steam has dissipated."
+        },
+        {
+          "language": "韩文",
+          "content": "증기가 사라졌네."
         }
       ]
     },
@@ -261,7 +408,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "こんなところでお前たちに会うなんて、本当に残念だよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm sorry we had to meet here."
+        },
+        {
+          "language": "韩文",
+          "content": "이런 곳에서 너희를 만나다니, 유감이야."
         }
       ]
     },
@@ -275,7 +430,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "無数の戦場で磨かれた剣の切れ味を見せてやる。"
+        },
+        {
+          "language": "英文",
+          "content": "This blade has gone through countless whetstones."
+        },
+        {
+          "language": "韩文",
+          "content": "무수한 전장에서 연마한 검의 예리함을 보여주지."
         }
       ]
     },
@@ -289,7 +452,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "何年も鍛練を積んできた鉄槌のお披露目といこう。"
+        },
+        {
+          "language": "英文",
+          "content": "This hammer has gone through many years of tempering."
+        },
+        {
+          "language": "韩文",
+          "content": "이 망치는 아주 오랜 시간 단련됐다고."
         }
       ]
     },
@@ -303,7 +474,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "着いたぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm here."
+        },
+        {
+          "language": "韩文",
+          "content": "도착했어."
         }
       ]
     },
@@ -317,7 +496,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "見えた。"
+        },
+        {
+          "language": "英文",
+          "content": "I see them."
+        },
+        {
+          "language": "韩文",
+          "content": "보여."
         }
       ]
     },
@@ -331,7 +518,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "散っていった連中は、俺が覚えておく。"
+        },
+        {
+          "language": "英文",
+          "content": "The dead, I will remember."
+        },
+        {
+          "language": "韩文",
+          "content": "먼저 떠나간 사람들은, 내가 기억할 거야."
         }
       ]
     },
@@ -345,7 +540,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "生きてる仲間たちは、俺が守る。"
+        },
+        {
+          "language": "英文",
+          "content": "The living, I will protect."
+        },
+        {
+          "language": "韩文",
+          "content": "아직 살아남은 사람들은, 내가 지키겠어."
         }
       ]
     },
@@ -359,7 +562,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "俺の大切なものは、一つだって奪わせない。"
+        },
+        {
+          "language": "英文",
+          "content": "You won't take what I've got now!"
+        },
+        {
+          "language": "韩文",
+          "content": "내게 소중한 건, 절대 빼앗기지 않겠어."
         }
       ]
     },
@@ -373,7 +584,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "俺はもうとっくに大人だ。"
+        },
+        {
+          "language": "英文",
+          "content": "My childhood is LONG GONE!"
+        },
+        {
+          "language": "韩文",
+          "content": "난 진작에 어른이었다고."
         }
       ]
     },
@@ -387,7 +606,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "運気を分けてくれてありがとう、親父……"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you for lending me your luck, Pops..."
+        },
+        {
+          "language": "韩文",
+          "content": "나한테 운을 빌려줘서 고마워, 아빠……"
         }
       ]
     },
@@ -401,7 +628,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "一緒に帰ろう、ドクター。ジョッキいっぱいの氷水が恋しくてたまらないな。"
+        },
+        {
+          "language": "英文",
+          "content": "Let's go back, Doctor. I'm craving a <i>huge</i> cup of ice water right about now."
+        },
+        {
+          "language": "韩文",
+          "content": "돌아가자, 박사. 지금 난 얼음 한가득 채운 시원한 물이 정말 생각나."
         }
       ]
     },
@@ -415,7 +650,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "何はともあれ、俺たちは勝ったんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Anyway, we won."
+        },
+        {
+          "language": "韩文",
+          "content": "어쨌든 우리가 이겼네."
         }
       ]
     },
@@ -429,7 +672,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、結果はどうあれ、もう終わったことだ……あまり気に病まずに、もう帰ろう。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, no matter how things turned out, it's over... let's go back."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 결과가 어떻든 이미 지나간 일이야…… 마음 쓰지 말고, 이제 돌아가자."
         }
       ]
     },
@@ -443,7 +694,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、クーラーを下げてこようか？あ、申し訳ない、俺は体温が高いから周りまで暑くなるんだよな。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, should I turn up the air conditioner? Sorry, my body gets so hot, it's even heating up our surroundings."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 에어컨 온도 좀 더 낮출까? 미안, 내가 체온이 높은 편이라 주변도 같이 뜨거워졌네."
         }
       ]
     },
@@ -457,7 +716,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "うわっ、なんて冷たい手だ！"
+        },
+        {
+          "language": "英文",
+          "content": "Whoa! Your fingers are so cold!"
+        },
+        {
+          "language": "韩文",
+          "content": "윽, 손가락이 너무 차가운데!"
         }
       ]
     },
@@ -471,7 +738,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "わ、悪いけど尻尾は勘弁してくれ。昔折れちまって、触られるとぞわぞわするんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Ah! Please don't touch my tail. It broke off once, and it doesn't feel good if people touch it."
+        },
+        {
+          "language": "韩文",
+          "content": "아 그 내, 내 꼬리는 만지지 말아 줘. 옛날에 부러진 적이 있어서 좀 불편하거든."
         }
       ]
     },
@@ -485,7 +760,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
         }
       ]
     },
@@ -499,7 +782,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "分かってるよ、ドクター。そりゃあ新たな一年には新たな願望が付き物だけど……俺はもうずっと昔に、そういう願掛けはやめたんだ。俺にとって一番の願いは、今手にしているものを失わないことだからな。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, I know a new year means new expectations. But... I've long since stopped wanting anything more than not losing what I've got now. That's my biggest hope."
+        },
+        {
+          "language": "韩文",
+          "content": "나도 알아, 박사. 새해에는 새로운 소원이 따라야 한다는 걸. 하지만…… 난 이미 오래전에 새로운 소원을 비는 걸 그만뒀어. 내게 있어 가장 큰 소원은, 지금 갖고 있는 소중한 것들을 잃지 않는 거니까."
         }
       ]
     },
@@ -513,6 +804,36 @@
         },
         {
           "language": "日文",
+          "content": "規則正しい食事と水分補給を怠らないようにな。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't forget to eat and drink water regularly, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "규칙적인 식사와 충분한 수분 보충 잊지 마."
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，生日快乐，这一袋饼是我从卡兹戴尔带来的礼物，算是特产吧，当地人过生日都吃这个。您硌到牙了？哦，只是一块小小的弹片，应该是做饼的时候从窗外飞进来的，没事，丢了可以继续吃。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
           "content": ""
         }
       ]
@@ -527,7 +848,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "昔、高所からなら煙幕と戦火以外の風景が見えるんじゃないかと思って、一人でカズデルの高いところまで登ってみたことがあるんだ。だけど、煙が目に染みるばっかりでなんにも見えなかったよ。今こうやって甲板でドクターと見上げる空は全然違うなぁ。真っ青でさ、なんて綺麗なんだろう。"
+        },
+        {
+          "language": "英文",
+          "content": "There was a time when I got myself somewhere high up all alone, thinking I'd see a different view above Kazdel that wasn't just the usual smoke and fire. But even when my eyes were hurting from the smoke, I still couldn't see anything. Unlike the past, today I can see a different sight with you on the landship— a sky so pretty and blue."
+        },
+        {
+          "language": "韩文",
+          "content": "옛날에, 카즈델의 아주 높은 곳까지 올라가 본 적이 있어. 그렇게 높은 곳이라면 혹시 짙은 연기와 불꽃 외에 다른 풍경을 볼 수 있지 않을까라는 생각이 들었거든. 근데 연기 때문에 눈이 얼마나 따갑던지, 아무것도 안 보이더라. 지금 이렇게 갑판에서 박사와 나란히 올려다보는 하늘은 정말 다르네. 이토록 푸르고, 예쁜 광경이라니."
         }
       ]
     }

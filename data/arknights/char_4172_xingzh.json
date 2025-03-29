@@ -1,0 +1,552 @@
+{
+  "name": "行箸",
+  "charaKey": "char_4172_xingzh",
+  "images": [
+    "https://media.prts.wiki/a/a3/%E7%AB%8B%E7%BB%98_%E8%A1%8C%E7%AE%B8_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/3/3b/%E7%AB%8B%E7%BB%98_%E8%A1%8C%E7%AE%B8_2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4172_xingzh"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4172_xingzh"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我知道助理的职责不包括这个，但还是习惯工作前先把桌面整理干净。把书本整齐地摞好，内心的偏见和杂念也会随之消失。博士，您也来试试？别怕，我会帮您，先从这堆小山似的文档开始吧？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "为什么放十几瓶墨水在桌上？您也对它们感兴趣？当然可以借用。古鼎灰庄重，长石灰古朴，暮云灰清雅，您偏爱哪一种气质？看起来都一样？那边有从后勤部领的墨水，您呀，还是用那个吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "百灶的菜肴在精不在贵，一份福禄羹里用的灵芝，要三年才能长成；一碗清茶泡饭，提前将茶叶去梗洗净，吃起来也会有不一样的清甜。丰俭由人，只求用心。穷达不改其志，这才是百灶的风骨。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "煌还说我是倒卖旧书的？我明明是收集一些舍不得让它们散佚的史料！那些谣谚、诗词，甚至账本，字里行间可都藏着秘密呢——咦，您刚才藏起了什么？我不会擅自研究的。所以，您藏起了什么？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我头一次与上司争执，是他要我将一首讽喻诗解读得好听些。为这一句“好听”，多少事就变了味、走了样，又有多少人......那些理应记在史册上的事，本来就不该只有好听这一种声音。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "炎国人总喜欢说青史留名，文章功业，总要能留下点什么才好。可父亲是怎么想的呢？他后悔过吗？我不知道。怎么能算渺小呢？像他这样的人啊，不是书上字里行间的空白，而是史书的书页本身。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，您已经吃饱了？这可不行，兽肉烙饼性热，最好再吃一碗春笋百合羹，这个季节的杏花酥更不能错过——哈哈，今天的游记就写“与友人踏春，扶肚皮赏杏花，共醉树下”，倒也是一桩雅事。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我和煌的关系哪有您说的那么好，她对我可不像对您那么老实——我向她道过歉，毕竟她本可以过上安稳的生活。她？她弹人额头的手劲，能叫人迷糊半天。所以，我才有勇气继续和她交好。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "爷爷平时最喜欢在家里栽树种菜，但那两棵柿子树挂的果总是不甜，只好做成柿饼。果子洗净晒干，再撒上一层雪一样的糖霜。甜味盖过涩味，骗过舌头，也就好入口了......嗯，好一场雪啊。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "对，就像现在这样，互不干扰地安静工作。两小时后，一起去吃点温暖的东西休息一下吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您认出我了？无论煌是怎么向您介绍我的，您都别信。那丫头还说我是唱民歌的呢。我是来自百灶的历史研究者，您要是听到了有趣的谣谚，都可以分享给我。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "很有学习意义呢。受教了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我手中这枚勋章，意味着您也同意，战场上值得记录的不只有伤亡，有时也可以是一枝盛开的报春花。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我喜欢这种说法——民间的历史是由百姓的一行行诗、一句句歌谣构成的。想到我也是人间的一行诗，我就乐在其中。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "实地考察？太好——咳，我会注意安全的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "诸位尽情发挥，我将挥笔见证。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "难得去现场采风，有什么需要注意的吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唉，夏虫不可语冰，和你们又怎么讲得通呢？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯，我去了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "前路坎坷，请小心。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "情况一目了然。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要记的有很多。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "笔耕不辍，落纸如飞。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "三尺微命，俯仰无愧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "山水一程，风雪一更，故园无此声。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "来一口米花糖，再坚持一下？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这下能松口气了。博士，忙完了一起去吃点什么吧？哎——我说忙完以后。小吃摊又不会长脚跑掉。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您刚才的指挥——让我想想怎么夸。对，奇人异闻志里要是少了您的故事，一定会黯然失色。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我已经详细记录下逃脱者的外貌特征，您是想现在就处理，还是休息一下再继续？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不觉得您需要被那些“重振旗鼓”的民间故事鼓励。给，这个才是您需要的。呵，酸酸甜甜的？心情好些了？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请问档案室怎么走？不在休息区吗......那请问图书馆怎么走？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哎呀，开玩笑请适度......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小丫头，嘴抹油，偷了二两驮兽肉。夹酥饼，淋香油，撑得丫头直叫唤——哎哟哟~"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我以前最讨厌新年的聒噪，如今坐在这无人的庭院里，心里又五味杂陈——所以，我在墙上作了首诗。与其唏嘘哀叹，不如肆意泼墨，像不像我在墙上放了无声的烟花，博士？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "吃过了吗，博士？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我把笔记本落在了那家面馆，请您务必和我一起去——为什么要一起去？您别问了，总之——抱歉，我是想把您带到那里，突然祝您生日快乐，再请您吃碗面。果然讨厌谎言的人说不了谎。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我们研究院有在纪念日互相赠送书籍的传统。我想了许久您需要什么，最后选了这本《硬笔书法零基础入门到精通》——像作业？怎么会呢。每天一页，您会爱上练字时的宁静的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

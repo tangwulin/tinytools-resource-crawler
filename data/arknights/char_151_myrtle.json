@@ -1,7 +1,12 @@
 {
   "name": "桃金娘",
   "charaKey": "char_151_myrtle",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/4/42/%E7%AB%8B%E7%BB%98_%E6%A1%83%E9%87%91%E5%A8%98_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/d/dc/%E7%AB%8B%E7%BB%98_%E6%A1%83%E9%87%91%E5%A8%98_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/b/bb/%E7%AB%8B%E7%BB%98_%E6%A1%83%E9%87%91%E5%A8%98_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/9/96/%E7%AB%8B%E7%BB%98_%E6%A1%83%E9%87%91%E5%A8%98_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -91,7 +96,7 @@
         },
         {
           "language": "韩文",
-          "content": "두린은 분명 생각하는 게 귀찮아서, 종족 이름을 그대로 코드네임으로 한 거겠지. 근데 그러면 내가 “두린의 머틀입니다~” 이러고 자기소개를 하면, 왠지 내가 그 애 물건인 것 같잖아… 그거, 좀 치사하지 않아?"
+          "content": "두린은 분명 생각하는 게 귀찮아서, 종족 이름을 그대로 코드네임으로 한 거겠지. 근데 그러면 내가 “두린의 머틀입니다~” 이러고 자기소개를 하면, 왠지 내가 그 애 물건인 것 같잖아…… 그거, 좀 치사하지 않아?"
         },
         {
           "language": "繁体中文",
@@ -117,7 +122,7 @@
         },
         {
           "language": "韩文",
-          "content": "여기 기계는… 구조는 알겠는데, 뭔가 써보면 좀 이상하단 말이지. 쓸데없이 복잡한 것도 있는데, 또 의외로 간단한 것도 있고 막 그렇더라고."
+          "content": "여기 기계는…… 구조는 알겠는데, 뭔가 써보면 좀 이상하단 말이지. 쓸데없이 복잡한 것도 있는데, 또 의외로 간단한 것도 있고 막 그렇더라고."
         },
         {
           "language": "繁体中文",
@@ -143,7 +148,7 @@
         },
         {
           "language": "韩文",
-          "content": "이 깃발? 흐흐, 역시 박사야. 보는 눈이 있네~! 이건 우리 집 식탁보였는데, 뭔 짓을 해도 더러워지지 않는 게 신기해서, 몰래 집에서 들고 나왔어. 헤헤~ 지금쯤 아빠는 분명 화내고 있겠지…"
+          "content": "이 깃발? 흐흐, 역시 박사야. 보는 눈이 있네~! 이건 우리 집 식탁보였는데, 뭔 짓을 해도 더러워지지 않는 게 신기해서, 몰래 집에서 들고 나왔어. 헤헤~ 지금쯤 아빠는 분명 화내고 있겠지……"
         },
         {
           "language": "繁体中文",
@@ -169,7 +174,7 @@
         },
         {
           "language": "韩文",
-          "content": "어? 내 사과가 굉장하다고? 음~ 고향에서는 꽤 평범한 편인데… 박사가 갖고 놀고 싶다던지, 연구하고 싶다 그럼 빌려줄 수도 있긴 한데, 망가트리진 마?"
+          "content": "어? 내 사과가 굉장하다고? 음~ 고향에서는 꽤 평범한 편인데…… 박사가 갖고 놀고 싶다던지, 연구하고 싶다 그럼 빌려줄 수도 있긴 한데, 망가트리진 마?"
         },
         {
           "language": "繁体中文",
@@ -221,7 +226,7 @@
         },
         {
           "language": "韩文",
-          "content": "박사, 진지하게 말하는데… 난 말이야, 이미 성인이거든?! 게다가 두린 중에서도 꽤 키가 큰 편이라고! 그러니까, 날 볼 때마다 머리 쓰다듬으면서 과자 주는 건 제발 그만하라고, 모두한테 말 좀 해줘!"
+          "content": "박사, 진지하게 말하는데…… 난 말이야, 이미 성인이거든?! 게다가 두린 중에서도 꽤 키가 큰 편이라고! 그러니까, 날 볼 때마다 머리 쓰다듬으면서 과자 주는 건 제발 그만하라고, 모두한테 말 좀 해줘!"
         },
         {
           "language": "繁体中文",
@@ -247,7 +252,7 @@
         },
         {
           "language": "韩文",
-          "content": "있잖아 박사, 내 고향이 궁금하지 않아? 데려가 줄까?! 그래도 거기까지 가려면 꽤 걸어야 하니까… 내가 그럴 마음이 생기면, 그때 가자."
+          "content": "있잖아 박사, 내 고향이 궁금하지 않아? 데려가 줄까?! 그래도 거기까지 가려면 꽤 걸어야 하니까…… 내가 그럴 마음이 생기면, 그때 가자."
         },
         {
           "language": "繁体中文",
@@ -889,15 +894,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "旗を取って、端っこを結んで、よし、袋の出来上がり！あ、ドクターもいたんだ。行くよ、食堂の美味しいものを全部すっからかんにしにしゅっぱーつ！新しい一年は、お腹いっぱい食べることから始めよう！"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Take the flag down, tie it up over here... Good! That's my cloth sack done! Oh, Doctor, you're here, too. Come, we'll eat up all the tasty food in the canteen! It's the first day of the year. Let's kick it off by eating our fill!"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "깃발을 내리고 여기에 매듭을 묶어. 좋아, 천 주머니는 이 정도면 됐어! 아, 박사도 있었구나. 자, 우리 식당에 가서 맛있는 걸 전부 해치워버리자! 새해 첫날이니 든든하게 먹는 것부터 시작하자고!"
         },
         {
           "language": "繁体中文",
@@ -932,12 +937,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "跟着杜林来到了一个不错的地方呢。见过了巨大的移动城市，在战场上打过了许多坏人，还吃到了许多没见过的美食。等我回到老家，把这些故事写成游记出版的话，一定会畅销的！"
+          "content": "原来今天是博士的生日啊。那么作为一个成熟的大人，就让我给博士一点奖励吧。嘿哟，博士，你稍微蹲下一点......好乖好乖——这是大将军的表扬哦。博士，你做得很棒啦。"
         },
         {
           "language": "日文",
@@ -950,6 +955,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "跟着杜林来到了一个不错的地方呢。见过了巨大的移动城市，在战场上打过了许多坏人，还吃到了许多没见过的美食。等我回到老家，把这些故事写成游记出版的话，一定会畅销的！"
+        },
+        {
+          "language": "日文",
+          "content": "ドゥリンを追って、結構いい所に来たんだよね。おっきな移動都市を見たし、戦場で悪い人もいっぱいやっつけたし、見たことのない美味しいものもたくさん食べた。里に帰って、この体験を旅行記にして本を出したら、絶対売れるよ！"
+        },
+        {
+          "language": "英文",
+          "content": "I guess I followed Durin to a pretty nice place. I've seen huge nomadic cities, beaten up so many baddies in battle, and eaten so many great foods I'd never seen before. Once I get home, I'll turn all these stories into a travelogue and get it published. It's bound to be a bestseller!"
+        },
+        {
+          "language": "韩文",
+          "content": "두린을 따라 괜찮은 곳에 온 것 같아. 거대한 이동도시를 봤고, 전쟁터에서 나쁜 놈들도 많이 만났고, 처음 보는 음식도 많이 먹었어. 이제 고향에 돌아간 후에 이 이야기들을 여행기로 써서 출판하면 분명 베스트셀러가 될 거야!"
         },
         {
           "language": "繁体中文",

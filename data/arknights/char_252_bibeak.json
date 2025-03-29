@@ -1,7 +1,11 @@
 {
   "name": "柏喙",
   "charaKey": "char_252_bibeak",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/4/4e/%E7%AB%8B%E7%BB%98_%E6%9F%8F%E5%96%99_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/2/2d/%E7%AB%8B%E7%BB%98_%E6%9F%8F%E5%96%99_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/7/7e/%E7%AB%8B%E7%BB%98_%E6%9F%8F%E5%96%99_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -35,7 +39,7 @@
         },
         {
           "language": "英文",
-          "content": "I don't need to go outside today? Thank goodness... Infected like me have no right to wear outfits like these. How strange it is that I can't wear the clothes I make with my own two hands... Oh? Rhodes Island has no such rules? Truly?"
+          "content": "I don't need to go outside today? Th-thank goodness... Infected people like me have no right to wear these clothes. How strange it is that I cannot wear the clothes I make with my own hands... Eh? Rhodes Island doesn't care about stuff like that? Really?"
         },
         {
           "language": "韩文",
@@ -87,7 +91,7 @@
         },
         {
           "language": "英文",
-          "content": "Good afternoon, Doctor. I'm trying to tidy my room... Sorry it always ends up so messy... I seldom had to organize my own room, so I'm only just learning how. It's actually rather fun... although I often break things in the process..."
+          "content": "Good afternoon, Doctor. I'm trying to clean up my room... Sorry, my room often ends up being a mess... I used to never have to organize my room, and now that I'm starting to learn, it's actually rather fun... although I often break things in the process..."
         },
         {
           "language": "韩文",
@@ -113,7 +117,7 @@
         },
         {
           "language": "英文",
-          "content": "I've had trouble adjusting since being pulled away from my old life. At first, I felt like I couldn't go on living as an Infected, and I was just so frightened... But I'm not like that anymore. There's so much I want to learn, and I want to do more for those just like me here at Rhodes Island."
+          "content": "I've always had trouble adjusting after being pulled away from my old life. In the very beginning, I felt like I couldn't continue living after becoming an Infected, and I was just so scared... But I'm not like that anymore. There's so much I want to learn, and I want to do more for those just like me here at Rhodes Island."
         },
         {
           "language": "韩文",
@@ -191,7 +195,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctor, um... D-Do you think… I could make some clothes for you...? I believe you'd be perfect for bringing out some of my ideas. Oh, I do hope my request doesn't trouble you, I've actually been asking the other Operators just the same…"
+          "content": "Doctor, um... If, if it's possible, can I make some clothes for you...? I think you'd be just right for bringing out some of my ideas. Um, I sometimes ask the other Operators in the same way..."
         },
         {
           "language": "韩文",
@@ -217,7 +221,7 @@
         },
         {
           "language": "英文",
-          "content": "The people who stoned me with Originium... Of course I hated them. But now... If I continued to harbor that contempt and despair, it would have driven me to do terrible things. I have no regrets about running away from home, even if it holds many warm memories of my past."
+          "content": "The people who stoned me with Originium... Of course I hated them, but now... If I continued to harbor that contempt and despair, it would have driven me to do terrible things. I have no regrets about running away from home, even if it holds many warm memories of my past."
         },
         {
           "language": "韩文",
@@ -243,7 +247,7 @@
         },
         {
           "language": "英文",
-          "content": "I've learned so much from everyone. Now I want to incorporate that into something we can all wear. Hehe, even with that in mind, the elements are a bit complicated. But that reflects my feelings, whether I'm brandishing my sword or flourishing my needle."
+          "content": "I want to incorporate the many things I've learned from everyone into something we can all wear...Hehe, even with that in mind, the elements are a bit complicated. But this reflects my emotions, whether I'm brandishing my sword or flourishing my needle."
         },
         {
           "language": "韩文",
@@ -295,7 +299,7 @@
         },
         {
           "language": "英文",
-          "content": "H-Hello, Doctor... My codename is Bibeak... Excuse me, but is there a facility with a loom and a sewing machine here?"
+          "content": "H-hello, Doctor... My codename is Bibeak... Excuse me, but is there a facility with a loom and a knitting machine here?"
         },
         {
           "language": "韩文",
@@ -347,7 +351,7 @@
         },
         {
           "language": "英文",
-          "content": "A p-p-promotion? Are you sure...? I'm actually not very good at fighting... Thank you very much."
+          "content": "A p-promotion? Are you sure? I'm actually not very good at fighting... Thank you."
         },
         {
           "language": "韩文",
@@ -763,7 +767,7 @@
         },
         {
           "language": "英文",
-          "content": "Oh, someone got away! But, that's a better outcome... than the cruelty of death."
+          "content": "Oh, someone got away... But, that's a better outcome... than the cruelty of death."
         },
         {
           "language": "韩文",
@@ -915,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "昔は新年になると、家族みんなに新しいお洋服を仕立てていたんです。全員で暖炉を囲んで新しい年を迎えたのは、とても幸せな記憶です……でも今は、お洋服を毎年新しく替えても、居なくなった人はもう戻ってきません。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "At New Year's, I used to make a new item of clothing for each member of the family. We would all sit around the fireplace, to greet the New Year together. It's the most blessed memory I have... But now, while clothes are renewed year after year, the people who've left us will never return."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "예전엔 새해가 되면 가족을 위해 새 옷을 만들곤 했어요. 온 가족이 새 옷을 입고 난로 앞에 둘러앉아 함께 새해를 맞이하는 거죠. 참 행복했는데…… 근데 이제는 옷을 해마다 새로 만든다 해도 떠난 이들이 다시 돌아오진 않네요……"
         },
         {
           "language": "繁体中文",
@@ -949,11 +953,37 @@
         },
         {
           "language": "韩文",
-          "content": "아, 안녕하세요, 박사님…"
+          "content": "아, 안녕하세요, 박사님……"
         },
         {
           "language": "繁体中文",
           "content": "您、您好，博士。"
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，生、生日快乐！因为从来没有见过您穿别的衣服，我就做了一套和您身上这件一模一样的，但是用了更轻薄柔软的面料，穿上应该会更舒服吧......您要试试看吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
         }
       ]
     },
@@ -967,15 +997,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "時間は織機の糸のようなもので、一本一本重ねて人生を織り上げるんです。ロドスで過ごした時間は、きっとわたしをもっと強くしてくれます。この剣も、側にいる仲間も、苦難に対抗するための勇気をくれるんです。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Time is like the thread on a loom, forming into a person's life bit by bit… These moments I've experienced at Rhodes Island have surely made me stronger. With my sword in hand, and companions at my side, I'm given the courage to withstand the bitterness."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "시간은 마치 베틀의 비단 실처럼 한 땀 한 땀 우리들 삶에 짜여있어요. 로도스 아일랜드에서 보낸 시간이 저를 더 강하게 만들어줬듯, 제 손에 있는 검과 주위의 동료들이 고통에 맞서 싸울 용기를 줄 것이라 믿어요."
         },
         {
           "language": "繁体中文",

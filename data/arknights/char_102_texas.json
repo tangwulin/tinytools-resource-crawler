@@ -78,7 +78,7 @@
         },
         {
           "language": "韩文",
-          "content": "과묵하다고? 그건 내가... 웬만한 일에는 감흥이 없어서 그래."
+          "content": "과묵하다고? 그건 내가…… 웬만한 일에는 감흥이 없어서 그래."
         },
         {
           "language": "繁体中文",
@@ -168,7 +168,7 @@
         },
         {
           "language": "韩文",
-          "content": "담배냐고? 아니, 이건 초콜릿이다. 정기적인 열량 섭취는 필수니까. 그렇지... 커피라도 한잔 어때?"
+          "content": "담배냐고? 아니, 이건 초콜릿이다. 정기적인 열량 섭취는 필수니까. 그렇지…… 커피라도 한잔 어때?"
         },
         {
           "language": "繁体中文",
@@ -228,7 +228,7 @@
         },
         {
           "language": "韩文",
-          "content": "붉은 늑대는 조심하는 편이 좋아. 나쁜 녀석은 아니지만… 우리와는 달라."
+          "content": "붉은 늑대는 조심하는 편이 좋아. 나쁜 녀석은 아니지만…… 우리와는 달라."
         },
         {
           "language": "繁体中文",
@@ -288,7 +288,7 @@
         },
         {
           "language": "韩文",
-          "content": "자유로운 삶, 시끌벅적한 동료들... 여러모로 귀찮지만... 지금은 그것도 나쁘지 않은 거 같아."
+          "content": "자유로운 삶, 시끌벅적한 동료들…… 여러모로 귀찮지만…… 지금은 그것도 나쁘지 않은 거 같아."
         },
         {
           "language": "繁体中文",
@@ -828,7 +828,7 @@
         },
         {
           "language": "韩文",
-          "content": "훗… 문제 없다."
+          "content": "훗…… 문제 없다."
         },
         {
           "language": "繁体中文",
@@ -918,7 +918,7 @@
         },
         {
           "language": "韩文",
-          "content": "이번 임무를 너무 쉽게 본 모양이군…"
+          "content": "이번 임무를 너무 쉽게 본 모양이군……"
         },
         {
           "language": "繁体中文",
@@ -978,7 +978,7 @@
         },
         {
           "language": "韩文",
-          "content": "윽..."
+          "content": "윽……"
         },
         {
           "language": "繁体中文",
@@ -1060,15 +1060,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あけましておめでとう。ちょうどこれをエクシアに届けるところだ。営業成績が最下位にならなかったことを祝って、パーティーを開くらしい。クロワッサンはついさっき仕入れた商品の積み卸しをしていたから、今頃露店を開いているだろうな。そうだ、ソラの新曲は聴いたか？なかなか良い仕上がりだと思う。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy New Year. I was just about to give these to Exusiai. She said she'd be hosting a big party tonight, to celebrate her results not being rock bottom. The other girls? Croissant was hauling a huge batch of goods she got in earlier, so I figure she's got a stall laid out now. As for Sora... have you heard her new single, Doctor? I'm pretty into it."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받아. 난 이 물건을 엑시아에게 가져다주려던 참이었어. 자기 실적이 꼴찌가 아니라는 것을 축하하는 파티를 오늘 밤에 연다고 하더군. 크루아상도 들여온 물건들을 옮기는 것 같던데, 지금쯤이면 노점을 다 차렸으려나…… 그나저나 소라의 신곡 들어봤어? 난 좋던데."
         },
         {
           "language": "繁体中文",
@@ -1111,12 +1111,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "罗德岛这样的纪念日挺好的，这是我刚才拿的几颗酒心巧克力，朗姆酒苦杏仁味的，味道不错，尝尝看吧。"
+          "content": "这箱是老板珍藏的黑胶，我从龙门带来的。收下吧，博士，别在意老板怎么想。生日快乐。"
         },
         {
           "language": "日文",
@@ -1129,6 +1129,36 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        },
+        {
+          "language": "意大利文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛这样的纪念日挺好的，这是我刚才拿的几颗酒心巧克力，朗姆酒苦杏仁味的，味道不错，尝尝看吧。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスのこういう記念日も悪くないな。ほら、ボンボンショコラを取ってきた。中にラムとアマレットが入ってて、なかなかいけるから食べてみてくれ。"
+        },
+        {
+          "language": "英文",
+          "content": "I like how Rhodes Island does its anniversaries. Here's a couple wine truffles I just picked up, rum and bitter almond flavor. Tastes pretty good. Why don't you give them a try?"
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드의 기념일은 좋네. 이건 내가 가져온 술이 든 초콜릿이야. 럼주가 들어 있는 아몬드 맛이지. 조금 쓰긴 한데 맛이 괜찮으니 한번 먹어봐."
         },
         {
           "language": "繁体中文",

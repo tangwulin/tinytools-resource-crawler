@@ -1,7 +1,11 @@
 {
   "name": "瑕光",
   "charaKey": "char_423_blemsh",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/c/ce/%E7%AB%8B%E7%BB%98_%E7%91%95%E5%85%89_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/2/2e/%E7%AB%8B%E7%BB%98_%E7%91%95%E5%85%89_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/4/43/%E7%AB%8B%E7%BB%98_%E7%91%95%E5%85%89_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -14,6 +18,10 @@
     {
       "language": "韩语",
       "base": "voice_kr/char_423_blemsh"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_423_blemsh"
     }
   ],
   "voiceList": [
@@ -31,7 +39,7 @@
         },
         {
           "language": "英文",
-          "content": "Though I wouldn't dare boast of my prowess with a sword or Originium Arts... If you ever have any problems with equipment maintenance, you can come talk to me!"
+          "content": "I wouldn't dare boast of my prowess with a sword or Arts, but if you have any problems with equipment maintenance, you can come talk to me!"
         },
         {
           "language": "韩文",
@@ -57,7 +65,7 @@
         },
         {
           "language": "英文",
-          "content": "Zofia is my distant aunt, as well as my swordsmanship instructor. It's thanks to her that I can survive in the knight sports scene, but my aunt sometimes— Gaah! I mean, my sister! Um, Doctor! Please don't tell her I let that slip, she's actually super sensitive about it!"
+          "content": "Zofia is my distant aunt, as well as my swordsmanship instructor. It's thanks to her that I can survive in the knight sports scene, but my aunt sometimes— Oh! I mean, my sister! Um, Doctor! Please don't tell her I let that slip, she's actually super sensitive about it!"
         },
         {
           "language": "韩文",
@@ -83,7 +91,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctor, to be honest, I'm a much better craftsman than I am a knight! Whether it's repairing an alarm clock or forging armor, I can help! That's why, Doctor! Can you please take me to see Vulcan's and Closure's workshops? Pretty pleeease!"
+          "content": "Doctor, to be honest, I'm a much better craftsman than I am a knight! Whether it's repairing an alarm clock or forging armor, I can help! So, Doctor... Can you please take me to see Vulcan's and Closure's workshops? Pleeeeease."
         },
         {
           "language": "韩文",
@@ -109,7 +117,7 @@
         },
         {
           "language": "英文",
-          "content": "Those two Sarkaz ladies seem hard to talk to, but if my sister trusts them so much, they must be pretty awesome. The Radiant Knight fighting alongside the Sarkaz for the sake of the Infected... Woahh, doesn't that sound like a breaking news headline?"
+          "content": "Those two Sarkaz ladies seem hard to talk to... But if my sister trusts them so much, they must be very good people. The Radiant Knight fighting alongside the Sarkaz for the sake of the Infected... Unbelievable! That sounds even more exciting than a breaking news headline!"
         },
         {
           "language": "韩文",
@@ -135,7 +143,7 @@
         },
         {
           "language": "英文",
-          "content": "I actually never got an official title like my sister's 'Radiant Knight.' 'Blemishine' is the codename I chose for myself... But if I was to continue down the path of knighthood, maybe Blemishine wouldn't be a bad name."
+          "content": "Actually, I never got an official title like my sister's 'Radiant Knight.' 'Blemishine' is just the codename I chose for myself... But if I was to continue down the path of knighthood, maybe Blemishine wouldn't be a bad name."
         },
         {
           "language": "韩文",
@@ -161,7 +169,7 @@
         },
         {
           "language": "英文",
-          "content": "Kazimierz's knight sports are nothing more than a huge commercial game, and we all eat out of its palm... I didn't realize it until after I came to Rhodes Island, but Kazimierz's sickness might run deeper than the fact that we've strayed from our knightly traditions... much, much deeper."
+          "content": "Kazimierz's knight sports are nothing more than a huge commercial game, and we all eat out of its palm. I didn't realize it until after I came to Rhodes Island. But the trouble with Kazimierz may run deeper than its betrayal of the knightly traditions... much, much deeper."
         },
         {
           "language": "韩文",
@@ -187,7 +195,7 @@
         },
         {
           "language": "英文",
-          "content": "Rhodes Island's operators are way more like the ancient knights in the novels than the competition knights. In fact, I've been pretty obsessed with these knight novels for a long time. Knights, enemies, adventures, and treasures. But anyone can get that stuff from knight sports, so they're not as big as they used to be."
+          "content": "Compared to competition knights, Rhodes Island operators are way more like the traditional knights in the novels. In fact, I've been pretty obsessed with these knight novels for a long time. Knights, enemies, adventures, and treasures... But I guess everyone can get that stuff from knight sports, so the novels aren't as big as they used to be."
         },
         {
           "language": "韩文",
@@ -239,7 +247,7 @@
         },
         {
           "language": "英文",
-          "content": "I couldn't become a real knight, but maybe that's why I was able to see the wider world. I might be seeing things a bit more clearly now. 'To be a knight is to be the noble light that illuminates the land.' Doctor, you will bear witness to my resolve."
+          "content": "I couldn't become a real knight, but maybe that's why I was able to get a better view of the lands. I might have more insight now because of it. 'To be a knight is to be the noble light that illuminates the land.' Doctor, you will bear witness to my resolve."
         },
         {
           "language": "韩文",
@@ -265,7 +273,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctor? Huh, you fell asleep? I wonder if you also have dreams~"
+          "content": "Doctor? Oh, you fell asleep. I wonder if you also have dreams."
         },
         {
           "language": "韩文",
@@ -291,7 +299,7 @@
         },
         {
           "language": "英文",
-          "content": "Kazimierz knight, codename 'Blemishine.' Hehe, I've heard all about you from my sister, Doctor. You can just call me Maria if you want~"
+          "content": "Kazimierz knight, codename 'Blemishine.' I've heard all about you from my sister, Doctor. You can just call me Maria if you want."
         },
         {
           "language": "韩文",
@@ -317,7 +325,7 @@
         },
         {
           "language": "英文",
-          "content": "Wait, hold on... Ehhh? You can do it like that?"
+          "content": "Wait, hold on... Gosh, you can do it like that?"
         },
         {
           "language": "韩文",
@@ -343,7 +351,7 @@
         },
         {
           "language": "英文",
-          "content": "A promotion...? For the glory of the Nearl family, I'll continue to give it my all!"
+          "content": "A promotion...? Hehe, for the glory of the Nearl family, I'll continue to give it my all!"
         },
         {
           "language": "韩文",
@@ -369,7 +377,7 @@
         },
         {
           "language": "英文",
-          "content": "I just realized this, but it's all older folks around me, and don't really have any friends around to ask... So, Doctor? What do you think about this equipment I made for myself? Pretty cool, yeah? Does it look good on me?"
+          "content": "I just realized it's all older folks around me, and I don't really have any friends around to ask... So, Doctor? What do you think about this equipment I made for myself? Pretty cool, yeah? Does it look good on me?"
         },
         {
           "language": "韩文",
@@ -421,7 +429,7 @@
         },
         {
           "language": "英文",
-          "content": "S-squad leader? Me? But I don't have any experience with team battles..."
+          "content": "Captain? Me? B-B-But I don't have any experience with team battles…"
         },
         {
           "language": "韩文",
@@ -551,7 +559,7 @@
         },
         {
           "language": "英文",
-          "content": "I'll never back down!"
+          "content": "Forward! Into the battle!"
         },
         {
           "language": "韩文",
@@ -629,7 +637,7 @@
         },
         {
           "language": "英文",
-          "content": "I am here!"
+          "content": "I am here for you!"
         },
         {
           "language": "韩文",
@@ -655,7 +663,7 @@
         },
         {
           "language": "英文",
-          "content": "Don't you worry!"
+          "content": "Don't worry!"
         },
         {
           "language": "韩文",
@@ -681,7 +689,7 @@
         },
         {
           "language": "英文",
-          "content": "Repent!"
+          "content": "You will repent!"
         },
         {
           "language": "韩文",
@@ -733,7 +741,7 @@
         },
         {
           "language": "英文",
-          "content": "Each victory will become a light that illuminates the path forward. Good job, Doctor."
+          "content": "Each victory will become a light that illuminates the path forward. Doctor, you've done well!"
         },
         {
           "language": "韩文",
@@ -811,7 +819,7 @@
         },
         {
           "language": "英文",
-          "content": "So this is the inside of Rhodes Island... I'd sure love to see the schematics."
+          "content": "So this is the inside of Rhodes Island... Aw, I'd really love to see the schematics…"
         },
         {
           "language": "韩文",
@@ -837,7 +845,7 @@
         },
         {
           "language": "英文",
-          "content": "Woah! D-don't scare me like that..."
+          "content": "Woah! Don't scare me like that..."
         },
         {
           "language": "韩文",
@@ -863,7 +871,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctor! Shh! I snuck over here to hide from auntie Zofia. Hehe, let me take the day off!"
+          "content": "Doctor! Shh! I snuck over here to hide from Auntie Zofia. Hehe, let me take the day off!"
         },
         {
           "language": "韩文",
@@ -911,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "カジミエーシュはこの時期にならもう「花火権」が競りにかけられてる頃だね。そんな人に見せびらかすようなものより、おじいちゃんに届いた感謝のお手紙の方がずっと印象に残ってるけどね。戦場で助けた子供が立派な大人に成長して、カジミエーシュまでおじいちゃんに会いに来たの。お姉ちゃんもあの時はすっごく喜んでたよ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Kazimierz will have already auctioned off the 'firework rights' by now. But rather than a flashy fireworks show, thank-you letters to my grandfather made a deeper impression on me. The kid he saved from the war grew up, started a family, and came to Kazimierz to see him. Margaret was also really happy that day."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "카시미어에선 이맘때면 '불꽃놀이권'이 경매로 나오곤 해. 그런 과시용보단, 할아버지가 받은 감사 편지가 더 인상 깊지만 말이야. 전에 전장에서 구해준 아이가 훌륭한 어른으로 성장해서 카시미어까지 할아버지를 만나러 온 적이 있었거든. 그땐 언니도 엄청 기뻐했었지."
         },
         {
           "language": "繁体中文",
@@ -954,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "金色天马的纹章究竟应该象征什么，我想得远不如姐姐那样清楚，也没机会从病重的爷爷那里听取太多教诲。我只是觉得，人们天生就应该能认出崇高的精神，并且心生憧憬，在卡西米尔之外也一样。"
+          "content": "博士，我试着给你造了不少礼物，面甲、佩剑之类的，但......好像你都用不上。要、要不你挑一件想摆在办公室里的？对不起！我熟悉的是面向骑士的工匠技术，还没想好在罗德岛要怎么用。"
         },
         {
           "language": "日文",
@@ -972,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "金色天马的纹章究竟应该象征什么，我想得远不如姐姐那样清楚，也没机会从病重的爷爷那里听取太多教诲。我只是觉得，人们天生就应该能认出崇高的精神，并且心生憧憬，在卡西米尔之外也一样。"
+        },
+        {
+          "language": "日文",
+          "content": "金のペガサスの紋章がどんな意味を持つのか、私はお姉ちゃんみたいにはっきり理解できてるわけじゃないし、重病のおじいちゃんから色々教わる機会もなかったの。ただ、人は誰しも自然に崇高な精神を見分けて、それに憧れるものだと思ってる。カジミエーシュの外でもきっと同じだよね。"
+        },
+        {
+          "language": "英文",
+          "content": "What exactly should the Golden Pegasus coat of arms symbolize? I'm not nearly as clear on that as my sister. I never got the chance to learn much from our ailing grandfather. But I still think... people can recognize a sublime spirit, and naturally look up to it, even outside Kazimierz."
+        },
+        {
+          "language": "韩文",
+          "content": "금빛 폐가수스 문장의 의미를 난, 언니만큼 깊이 이해하고 있는 건 아니야. 아픈 할아버지에게 가르침을 들을 기회도 많지 않았고. 난 그저, 사람들은 숭고한 정신을 인식하고, 그것을 동경한다고 생각할 뿐이야. 카시미어 밖에서도 마찬가지로 말이야."
         },
         {
           "language": "繁体中文",

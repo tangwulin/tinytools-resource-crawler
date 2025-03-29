@@ -876,7 +876,7 @@
         },
         {
           "language": "韩文",
-          "content": "박사, 요즘 들어 더 상냥해진 것 같네…"
+          "content": "박사, 요즘 들어 더 상냥해진 것 같네……"
         },
         {
           "language": "繁体中文",
@@ -920,15 +920,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、イフリータは見た？外で花火をやってるみたいだから、もしかしてあの子も……うん、あの子を部屋に戻して寝かしつけたら、ラボに行くつもり。今日が何の日か忘れたわけじゃないけど、こうやって新しい一年と――未来と向き合いたいんだ。ドクターにとっても、良い一年になるように。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Have you seen Ifrit, Doctor? They're shooting off fireworks outside, so I'm a little worried… Yes, I'm going back to the lab after I put her to bed. No, I haven't forgotten what day it is. This is just how I want to welcome the new year. Oh right, happy New Year."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "박사, 이프리트 봤어? 밖에서 폭죽을 터뜨리는 것 같길래, 걱정돼서…… 응, 방에 데려가 재우고 난 연구실로 다시 돌아가려고. 오늘이 무슨 날인지 모르는 건 아니야, 다만 난 나만의 방식으로 새로운 한 해, 미래를 마주하려고 해. 박사, 새해 복 많이 받아."
         },
         {
           "language": "繁体中文",
@@ -963,12 +963,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "以我所接触到的而言，生命科学领域绝不缺乏大胆冒进的理想......在找到自己真正的愿望之前，我也曾被那种理想吸引。但现在，感谢罗德岛，我很清楚自己在研究什么，要与什么作战。"
+          "content": "博士，这是一份医疗无人机的改进设计方案，请您衡量它投入战场的战术价值......另外，我听说了，今天是您的生日。虽然并非刻意为之，但我希望这是一份有实用价值的礼物。"
         },
         {
           "language": "日文",
@@ -981,6 +981,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "以我所接触到的而言，生命科学领域绝不缺乏大胆冒进的理想......在找到自己真正的愿望之前，我也曾被那种理想吸引。但现在，感谢罗德岛，我很清楚自己在研究什么，要与什么作战。"
+        },
+        {
+          "language": "日文",
+          "content": "これまでの経験上、生命科学の領域は大胆で冒険的な理想に溢れていて……私も自分の本当の願いに気付くまでは、そんな理想に惹かれたこともあったよ。でも今は、ロドスに感謝してるんだ。自分が何を研究していて、何と戦うべきかをはっきりと理解させてくれたから。"
+        },
+        {
+          "language": "英文",
+          "content": "There's no lack of ambition and idealism in the field of life sciences… I myself was drawn by those ideals before I found my true calling. But thanks to Rhodes Island, I now know what I'm researching and fighting for."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 접해온 상황을 보면, 생명과학 분야엔 언제나 큰 이상과 대담한 정신이 있었어…… 나도 나의 진정한 소망을 찾기 전까지는 그런 이상에 끌렸으니까. 하지만 지금의 난, 로도스 아일랜드에 감사해. 내가 연구해야 할 것이 무엇인지, 내가 무엇과 싸워야 하는지 아주 확실히 알 수 있게 되었거든."
         },
         {
           "language": "繁体中文",

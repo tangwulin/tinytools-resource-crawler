@@ -1,7 +1,10 @@
 {
   "name": "海霓",
   "charaKey": "char_4079_haini",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/7/77/%E7%AB%8B%E7%BB%98_%E6%B5%B7%E9%9C%93_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/4/46/%E7%AB%8B%E7%BB%98_%E6%B5%B7%E9%9C%93_2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -10,6 +13,14 @@
     {
       "language": "中文-普通话",
       "base": "voice_cn/char_4079_haini"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4079_haini"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_4079_haini"
     }
   ],
   "voiceList": [
@@ -23,7 +34,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "資料の整理？そんなの「リトル・ハンディ」に任せればいいんじゃ……わかったわ、わたしがやってもいいわよ。ついでにドクターともお喋りできそうだし、それはそれで楽しいかもね。"
+        },
+        {
+          "language": "英文",
+          "content": "Filing documents? I thought that was a job for Little Handy... Well, I can do it myself. I could do a lot worse than chatting with you."
+        },
+        {
+          "language": "韩文",
+          "content": "자료 정리? 그런 건 '조력자'한테 맡기면 되잖아…… 알았어, 내가 하지 뭐. 일하면서 박사랑 얘기도 더 나누고, 나름대로 재밌을 것 같네."
         }
       ]
     },
@@ -37,7 +56,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "十分後に大量の海流データがなだれ込む見込みよ。今から四分以内にインクを用意して、五分で機器のセッティングを済ませれば、お絵描きタイムを四十五秒も確保できるわ。残りの十五秒は何、って？それはあなたがフードを脱ぐための時間よ。顔を出さないモデルを描いたところで、岩のスケッチと何も変わらないでしょ？"
+        },
+        {
+          "language": "英文",
+          "content": "Ten minutes until ocean current data inflow. I will take four minutes to prepare ink, five minutes to setup the equipment, forty-five seconds to doodle. The last fifteen seconds? Let you remove your hood, of course. Or, what's the difference between a faceless model and a lifeless rock?"
+        },
+        {
+          "language": "韩文",
+          "content": "앞으로 10분 뒤면 대량의 해류 데이터가 쏟아져 들어올 거야. 그럼 난 이제 4분 동안 잉크를 준비하고, 5분 동안 장비를 세팅한 뒤, 45초 동안 그림을 그릴 생각이야. 남은 15초는 뭐냐고? 그건 당신이 후드를 벗는 시간이지. 얼굴을 드러내지 않는 모델을 그린다는 건, 바위 스케치랑 다를 게 없잖아."
         }
       ]
     },
@@ -51,7 +78,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "エーギル人の生活には昼も夜もないの。特に芸術畑の人間は、インスピレーションが湧けば五十時間以上寝ないのもざらよ。私はわりとあなたたちに近いほうだけど、寝るのは大抵日が昇る頃ね。ふあ～あ、もう八時か、眠くなってきちゃったわ――あら？なんであなたまであくびしてるの？"
+        },
+        {
+          "language": "英文",
+          "content": "The Ægir sleep cycle is not affected by time of day. When inspiration strikes, an artist usually stays up for 50 plus hours without a wink of sleep. As for me, I'm more like you people, except I go to bed when the sun rises. It's eight o'clock already? I'm getting sleepy... Hm, why are you yawning too?"
+        },
+        {
+          "language": "韩文",
+          "content": "에기르인에겐 낮밤이 따로 없어. 특히 예술가들은 영감이 떠오르면 50시간 이상 자지 않는 경우도 흔하지. 난 너희와 비슷한 편이긴 하지만, 보통 해가 뜰 무렵에 잠에 들어. 하암~ 벌써 8시네, 슬슬 졸린걸…… 응? 당신은 왜 하품하는 거야?"
         }
       ]
     },
@@ -65,7 +100,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "エーギルは機械に擬似人格を搭載するのを嫌うのに、なぜわたしはいつも熱心にロドスのロボットたちと会話するのかって？そりゃあもちろん楽しいからよ。それにね、あの子たちの認知モジュールがわたしとの会話で知恵熱を出さないように、クロージャさんが必死に頑張ってるの。もしそれで進化を遂げたら、いっぱい喋ってあげたわたしも一役買ったって言えるよね？"
+        },
+        {
+          "language": "英文",
+          "content": "Why do I enjoy chatting with the robot operators, when the Ægir frown upon emulating humanity with machinery? Hehe, because it's fascinating. Besides, my chats actually prompted Closure to upgrade their cognitive modules, ensuring they won't overload. I may take credit for any breakthroughs in that area."
+        },
+        {
+          "language": "韩文",
+          "content": "에기르에선 기계에 가상 인격을 탑재하는 걸 선호하지 않는 것 같은데, 난 왜 로도스 아일랜드의 로봇 오퍼레이터와 이야기하는 걸 좋아하냐고? 그야 재밌잖아. 게다가 그들의 인지 모듈이 나와 대화하는 도중에 과부하에 걸리지 않도록 클로저 씨도 노력 중이고. 만약 이걸로 뭔가 돌파를 이뤄낸다면, 많이 대화를 나눈 나도 한몫한 거 맞지?"
         }
       ]
     },
@@ -79,7 +122,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "航路が拓かれてから、ドームの外に変な形のシーボーンがたくさん増えてきて、ほんとイライラしちゃう。まあ真面目な話、わたしの本職は元々観察と記録で、シーボーンを根絶させるために充分なデータを収集することだから、あいつらが出しゃばるほどに、わたしが目を光らせておかなくちゃね。"
+        },
+        {
+          "language": "英文",
+          "content": "Ever since the Waterway opened, swarms of unsightly seaborns have appeared outside the dome. Truly annoying, to say the least. In all seriousness, though, it's my job to observe, record, and accumulate the data needed to eliminate seaborns once and for all. The more brazen they are, the closer an eye I must keep on them."
+        },
+        {
+          "language": "韩文",
+          "content": "항로가 개척된 이후로 돔 바깥에 기이한 형태의 시본이 더 늘어나서 정말 성가셔. 사실 내 본업이 관찰과 기록을 통해 시본을 완전히 소멸시키기 위한 데이터를 수집하는 거라, 저 녀석들이 설치면 설칠수록 나는 더 끈질기게 녀석들을 주시해야 하는 셈이거든."
         }
       ]
     },
@@ -93,7 +144,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "都市の撤退が始まった時、周りがどんどん闇に飲まれて、わたしすっごく怖くて、無意識のうちにドームの上に何か描いてたの。最近そこへ戻ってようやくわかったのだけれど、なんとニコちゃんマークを描いてたのよね。それで、もっと前から笑顔で闇に立ち向かうべきだったんだって気付いたわ。"
+        },
+        {
+          "language": "英文",
+          "content": "When the city was evacuated and the darkness crept in, my fear gripped me so tightly that I scribbled something on the dome without even realizing it. Recently, I went back and found that it was a smiling face. It suddenly dawned on me that I should have faced the darkness with a smile way earlier."
+        },
+        {
+          "language": "韩文",
+          "content": "도시 철수가 시작되고, 주변이 점점 어둠에 삼켜질 때, 너무 무서운 나머지 무의식적으로 돔 위에 무언가를 그렸었어. 최근에 다시 돌아가서야 알게 됐는데, 그때 내가 그린 건 웃는 얼굴이었더라고…… 그제서야 깨달았어. 난 진작부터 웃음으로 어둠을 마주했어야 했다는걸."
         }
       ]
     },
@@ -107,7 +166,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "昔ね、ドームの上にとっても可愛らしい水草が生えてたの。どんなに激しい海流に揉まれたって、ただマイペースにゆっくりと揺らめいていたわ。いつか自分で育ててみたいのよね、水をかき回して意地悪したって全然動じない、そんな様子を観察するの……ドクターって、あの水草とよく似てるよね。"
+        },
+        {
+          "language": "英文",
+          "content": "There used to be a bunch of seaweed outside the dome, swaying leisurely to its own pace, no matter how fierce the currents. I've long wanted to grow some myself, stirring the water and watching it linger like nothing happened... kind of like you, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "옛날에 돔 위에 엄청 귀여운 수초가 자라고 있었다? 아무리 거센 물살이 오더라도 수초는 자신의 페이스에 맞춰 천천히 움직일 뿐이었지. 사실 그 수초를 계속 키워보고 싶었어. 물을 휘저으며 장난쳐도, 물살에 전혀 동요하지 않는 모습을 관찰하고 싶었달까…… 근데 박사, 그러고 보니 당신도 그 수초랑 참 많이 닮은 것 같네."
         }
       ]
     },
@@ -121,7 +188,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドームに使われている技術で共用の傘を改造したんだけど、これで形と透明度の調節ができるし、温度と湿度の測定もできるようになったの。なのにエンジニア部はそこまでやる必要はないって。しかもこの触腕型のセンサーが不気味だから元に戻せって、まったくもう――そうだわ、傘持ってないかしら？これと交換しない？"
+        },
+        {
+          "language": "英文",
+          "content": "I modified this communal umbrella using dome technology. Now it can adjust its shape and opacity, and also detect temperature and humidity. But the Engineering Department didn't feel there was any need for it, and wanted me to change it back, because the tentacle-shaped monitoring unit was too scary... Hmm. Say, do you have an umbrella? Do you want to trade?"
+        },
+        {
+          "language": "韩文",
+          "content": "돔에 쓰이는 기술로 이 공용 우산을 개조해봤어. 이제 이걸로 형태와 투명도를 조절할 수 있을 뿐만 아니라, 온도와 습도도 측정할 수도 있을 거야. 그런데 엔지니어링부는 이렇게까지 할 필요는 없다고 하더라. 게다가 우산 위에 달린 촉수형 센서가 너무 무섭게 생겼다고 다시 원래대로 돌려놓으라고 하지 뭐야, 정말이지…… 참, 혹시 우산 있어? 그럼 이거랑 바꾸지 않을래?"
         }
       ]
     },
@@ -135,7 +210,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "かつて「海底の夕景」と呼ばれたあの火山エネルギーステーションは、いつも赤々と輝き、あたり一面を照らしあげていたの……戦争が終結したら、わたしと一緒に見に行ってくれる？たとえそれがシーボーンが織りなす菌鞘に埋もれ、深い眠りに陥っていたとしても、ドクターならきっと平然と呼び覚ましてくれる……そうよね？"
+        },
+        {
+          "language": "英文",
+          "content": "Eventide of the Depths', a volcanic power station that once lit the deep in a red glow... Once the war is over, how about we go see it together? Even if it has been overgrown by Seaborn creep, I'm sure you'd come with me to reawaken it without batting an eyelid, wouldn't you?"
+        },
+        {
+          "language": "韩文",
+          "content": "'해저의 석양', 그 화산 에너지 스테이션은 늘 붉게 빛나며 주변을 환하게 비춰주었어…… 전쟁이 끝나면 나랑 같이 보러 가지 않을래? 설령 시본의 명흔 아래, 깊이 잠들어 있다고 해도, 당신이라면 분명 낯빛 하나 변하지 않고 그걸 깨워 줄 수 있을 거야…… 그렇지?"
         }
       ]
     },
@@ -149,7 +232,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "えー、ドクターに申し上げます。勤務時間中の居眠りは、このルシーラに顔をキャンバス代わりにされかねませんので、ご遠慮ください――あら、本当に寝てるみたいね。「リトル・ハンディ」、執務室の温度を二度上げて、ドクターが風邪ひいたらシャレにならないわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Friendly reminder! Your face will become my canvas if you doze off at work... Wait, you're really asleep? Turn the temperature up two degrees, Little Handy. It wouldn't be any fun if the Doctor caught a cold."
+        },
+        {
+          "language": "韩文",
+          "content": "아아, 박사에게 알립니다. 근무 중 낮잠을 잘 시, 이 루실라가 잠든 사람의 얼굴을 캔버스 삼아 그림을 그릴 수 있으니 유의해 주시기 바랍니다…… 어라, 진짜로 잠들었나 보네? '조력자', 집무실의 온도를 2도 올려 줘. 박사 감기 걸리면 안 되니까."
         }
       ]
     },
@@ -163,7 +254,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ご機嫌よう、わたしはエーギルからやって来た……なぁーに？この腰のボトルをじろじろ見ちゃって。もしかして味が知りたいの？別にいいけど、インクなんか飲んで、あとでどうなってもわたしは知らないからね。"
+        },
+        {
+          "language": "英文",
+          "content": "Nice to meet you. I'm from Ægir and my name is... Hmm... Why are you staring at the bottle on my belt? Did you want a sip? Certainly, but I take no responsibility for what happens after you drink this ink."
+        },
+        {
+          "language": "韩文",
+          "content": "안녕, 난 에기르에서 온…… 응? 내 허리춤의 병을 보고 있는 것 같은데, 혹시 마셔보고 싶은 거야? 뭐 못 줄 것도 없지만, 잉크를 마시고 어떻게 되든 난 모르는 일이다?"
         }
       ]
     },
@@ -177,7 +276,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、ちょっと映像を止めて。この人の背後を映してほしいの……えっ？あなたたちの「ビデオ」って平面的に記録してるだけなの？"
+        },
+        {
+          "language": "英文",
+          "content": "Pause, please, Doctor. Turn the image so I can see this one's back... What? This 'video' of yours only allows watching from a fixed angle?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 미안한데 잠깐 영상 멈춰 줘. 이 사람의 뒷모습을 좀 보고 싶은데…… 응? 이 '녹화'라는 건 평면적으로만 기록이 가능한 거라고?"
         }
       ]
     },
@@ -191,7 +298,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "昇進？わたし、そんなに立派にお務めを果たしたのかしら？それともこれは……わたしと一緒に仕事をするのがあんまりにも楽しかったから？"
+        },
+        {
+          "language": "英文",
+          "content": "Promotion? Have I really done so well? Or do you just really enjoy working with me?"
+        },
+        {
+          "language": "韩文",
+          "content": "승진? 내 업무 수행 능력이 그렇게 좋았나? 아니면…… 그냥 나랑 일하는 게 즐거운 건가?"
         }
       ]
     },
@@ -205,7 +320,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "また昇進？今度はどうして？……海流の流れをよく読み取り、「一段と」適切な行動アドバイスをした、と。ふむふむ、それから？設備メンテナンスにおいて長所をよく発揮し――どうしたの？続けていいわよ。ドクターの誉め言葉ならいくらでも聞きたいわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Another promotion? What's the reason this time...? <i>Extremely</i> precise recommendations based on current movement... Uh-huh. What else? Leveraged her skills in maintenance and repair. Yeah yeah, I agree. C'mon, don't stop the praise, I'm all ears."
+        },
+        {
+          "language": "韩文",
+          "content": "또 승진? 이번엔 왜? ……해류의 동향을 근거로 '매우' 적절한 행동과 조언을 해주었기 때문이라고? 으음, 또 있어? 장비 유지 보수 부문에서 탁월한 업무 수행 능력을 발휘했다라…… 왜 멈춰? 계속 말해줘, 박사의 칭찬이라면 언제 들어도 좋으니까."
         }
       ]
     },
@@ -219,7 +342,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "データ収集？それともドームのメンテ作業？どっちも違うの？あなたもサプライズを考えるのが上手ね。"
+        },
+        {
+          "language": "英文",
+          "content": "Need me for data collection, or dome repair? Neither? You're always so full of surprises."
+        },
+        {
+          "language": "韩文",
+          "content": "데이터 수집? 아니면 돔의 유지 보수 작업? 둘 다 아니라고? 당신도 꽤나 서프라이즈를 좋아하는 편이구나."
         }
       ]
     },
@@ -233,7 +364,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "わたしに隊長をやってほしいんなら、楽しそうな隊員を選んでちょうだいよね。"
+        },
+        {
+          "language": "英文",
+          "content": "You want me to be the captain? You'd better give me some interesting teammates."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 팀장을 맡아주길 바라는 거라면, 재밌는 녀석들을 내 팀원으로 넣어줘야 할 거야."
         }
       ]
     },
@@ -247,7 +386,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "みんな、わたしのあとについてきて。見違う心配があるのなら、このインクボトルの色を目印にしてくれてもいいわよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Come with me, everyone. You'll always know me by the ink bottle I carry."
+        },
+        {
+          "language": "韩文",
+          "content": "모두 날 따라와. 만약 날 못 알아볼까 걱정이라면 이 잉크병의 색깔을 잘 기억해둬."
         }
       ]
     },
@@ -261,7 +408,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "波に気を付けて！"
+        },
+        {
+          "language": "英文",
+          "content": "Here comes a wave!"
+        },
+        {
+          "language": "韩文",
+          "content": "파도 조심해!"
         }
       ]
     },
@@ -275,7 +430,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ゆっくりでいいわ、焦らないで。慌ててミスなんてしたら本末転倒よ。"
+        },
+        {
+          "language": "英文",
+          "content": "Take it easy. Haste makes waste."
+        },
+        {
+          "language": "韩文",
+          "content": "천천히 하자, 서두르지 말고. 당황해서 실수하면 더 골치 아프니까."
         }
       ]
     },
@@ -289,7 +452,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "何でも言ってちょうだい。ちゃんと聞いてるわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Go on, I'm listening."
+        },
+        {
+          "language": "韩文",
+          "content": "뭐든지 말해, 듣고 있으니까."
         }
       ]
     },
@@ -303,7 +474,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "現着したわ、海流の流れは――うはー、滅茶苦茶ね。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm on the scene. The flow of the currents... Ah… it's a mess."
+        },
+        {
+          "language": "韩文",
+          "content": "도착했어, 해류의 흐름은…… 흐음, 엉망진창이네."
         }
       ]
     },
@@ -317,7 +496,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "好き勝手してくれちゃって、いい加減お仕置きが必要みたいね。"
+        },
+        {
+          "language": "英文",
+          "content": "It's time to teach these rascals a lesson."
+        },
+        {
+          "language": "韩文",
+          "content": "여기 이 제멋대로 구는 녀석들에겐 확실히 교육이 좀 필요할 것 같네."
         }
       ]
     },
@@ -331,7 +518,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "海流をかき乱したのはどこのどいつ？"
+        },
+        {
+          "language": "英文",
+          "content": "Who's disturbing the currents?"
+        },
+        {
+          "language": "韩文",
+          "content": "해류를 어지럽힌 녀석은 어디에 있지?"
         }
       ]
     },
@@ -345,7 +540,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "目を閉じて、波のリズムを感じて……なーんて、信じたら負けよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Close your eyes, feel the undulating waves... Too bad, you've fallen into my trap."
+        },
+        {
+          "language": "韩文",
+          "content": "눈을 감고 파도의 리듬을 느껴 봐…… 설마 정말 믿은 건 아니지?"
         }
       ]
     },
@@ -359,7 +562,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あーあ、またインクまみれになっちゃって。"
+        },
+        {
+          "language": "英文",
+          "content": "Aww, look at you, you've got ink all over you again."
+        },
+        {
+          "language": "韩文",
+          "content": "하아, 너 또 잉크투성이가 됐네?"
         }
       ]
     },
@@ -373,7 +584,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "海底にだんまりと沈み込むのはあまりに不憫ね。言い残すことはない？"
+        },
+        {
+          "language": "英文",
+          "content": "Say something. It would be sad if you sank into the depths without a sound."
+        },
+        {
+          "language": "韩文",
+          "content": "남길 말은 없어? 말 한마디 못 남기고 바다 밑에 잠기게 되는 건 너무 불쌍하잖아."
         }
       ]
     },
@@ -387,7 +606,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "目の前の強敵を倒したのはもちろん喜ばしいことだけど、時々上を向くのも忘れずにね。ほら、頭上の景色を見てごらん――とても綺麗でしょ？"
+        },
+        {
+          "language": "英文",
+          "content": "Defeating a strong foe is satisfying, but don't forget to look up once in a while. See, the sights above… aren't they beautiful?"
+        },
+        {
+          "language": "韩文",
+          "content": "눈앞의 강적을 쓰러뜨리는 것도 물론 기뻐할 만한 일이지만, 가끔은 고개를 들어 위의 경치를 올려다봐. 엄청 아름답다?"
         }
       ]
     },
@@ -401,7 +628,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "計画を寸分違わずに果たすなんて、やるじゃない。設備管理所はあなたみたいな人材大歓迎よ。"
+        },
+        {
+          "language": "英文",
+          "content": "You carried out the plan without the slightest fumble. Not bad. The Institute of Facility Management would appreciate people like you."
+        },
+        {
+          "language": "韩文",
+          "content": "한 치의 오차도 없이 계획을 실행해 내다니, 대단한걸. 넌 시설 관리소에서 딱 좋아할 만한 인재야."
         }
       ]
     },
@@ -415,7 +650,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "誤差が少しあれど、大した影響はないわ。わたしが残って問題の所在を突き止めておくから。"
+        },
+        {
+          "language": "英文",
+          "content": "A little deviation won't cause any serious issues. I'll stay behind to check for problems."
+        },
+        {
+          "language": "韩文",
+          "content": "약간의 오차가 있었지만 큰 영향은 없어. 문제점은 내가 남아서 확인할게."
         }
       ]
     },
@@ -429,7 +672,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "トライ・アンド・エラーの過程が苦しいのはわかるけど、いつまでもそうやってくよくよしてるなら、次の仕事はわたしだけで行っちゃうよ？"
+        },
+        {
+          "language": "英文",
+          "content": "I know trial-and-error is a painful process. But if you keep knocking yourself like this, I may have to deal with the next job alone, imagine how dull it would be."
+        },
+        {
+          "language": "韩文",
+          "content": "시행착오의 과정이 고통스러운 건 알지만, 그렇다고 이렇게 계속 침울해져 있을 거면, 다음번부터는 나 혼자 한다?"
         }
       ]
     },
@@ -443,7 +694,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "「リトル・ハンディ」、ライトをつけて――もしもーし……いないの？まあいいわ。えっと、スイッチスイッチ……"
+        },
+        {
+          "language": "英文",
+          "content": "Turn on the lights, Little Handy. Hey Little Handy? Hello? Alright, where's the switch...?"
+        },
+        {
+          "language": "韩文",
+          "content": "'조력자', 불 좀 켜 줄래…… 응? 없는 건가? 뭐 됐다. 어디 보자, 스위치가 어디 있으려나……"
         }
       ]
     },
@@ -457,7 +716,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "うっ……もう、久々に頭をぐりぐりしてほしいのかしら？"
+        },
+        {
+          "language": "英文",
+          "content": "Well, well, are you asking for a poke in the head?"
+        },
+        {
+          "language": "韩文",
+          "content": "읏…… 오랜만에 머리가 근질근질한가 봐?"
         }
       ]
     },
@@ -471,7 +738,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "インクは好きに使っていいわ。でも測量機はダーメ。"
+        },
+        {
+          "language": "英文",
+          "content": "You can use the ink as you wish, but the mapper? Nah-uh."
+        },
+        {
+          "language": "韩文",
+          "content": "잉크는 마음껏 써도 좋아. 하지만 측정기는…… 안 돼."
         }
       ]
     },
@@ -485,7 +760,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주"
         }
       ]
     },
@@ -499,7 +782,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "私の今日の予定？そうね、確認してみるわ――え、新年初日は仕事をしないの？陸の人間にはそんな風習があるのね、変わってるわ。それなら、今日の予定を練り直さないと……まず最初に、ドクターを連れて新年のプレゼント選びね。"
+        },
+        {
+          "language": "英文",
+          "content": "My schedule today? Let me check... Huh? You don't work on the first day of the year? Hm, landlubbers do have some strange customs. Alright, let me plan out the day... first, help the Doctor pick a New Year's present."
+        },
+        {
+          "language": "韩文",
+          "content": "오늘 내 스케줄? 한번 확인해 볼게…… 응? 새해 첫날에는 일을 하지 않는다고? 육지 사람들에겐 이런 풍습도 있구나. 신기하네. 그렇다면 오늘 일정을 다시 짜 봐야겠네…… 그럼 우선 먼저, 박사랑 같이 새해 선물 고르러 갈래."
         }
       ]
     },
@@ -510,6 +801,28 @@
         {
           "language": "中文",
           "content": "这么高兴，做什么坏事了？"
+        },
+        {
+          "language": "日文",
+          "content": "そんなにウキウキしちゃって、何かイケナイことでもしたのかしら？"
+        },
+        {
+          "language": "英文",
+          "content": "You look cheerful. Up to no good?"
+        },
+        {
+          "language": "韩文",
+          "content": "뭐야, 왜 그렇게 들뜬 거야? 무슨 나쁜 짓이라도 하고 왔나?"
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，生日快乐！我最近发现纸质货币上印刷的花纹和图形有种独特的美，就试着临摹了一幅送给你，你看像不像？......千万别被人看到？假钞？那是什么意思？"
         },
         {
           "language": "日文",
@@ -527,7 +840,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "みんながわいわいやってるのに、ここでひとり何してるのかーしら――って、外国の文字か、それじゃ読めないわ……ねぇ、ドクターが本の中身を教えてくれたら、わたしもこの文字たちを作る線と空白から読み取れる模様と象徴を解説してあげる、こういうのはどう？"
+        },
+        {
+          "language": "英文",
+          "content": "Look who I found. While there's a vibrant party going on, we've got a lonely soul here reading... Oh, foreign languge, I can't understand it. Hmm.. how about this, Doctor? You tell me what the book is about. I'll tell you the patterns and meanings I've garnered. They're hidden in these lines and spaces between those words. Interested?"
+        },
+        {
+          "language": "韩文",
+          "content": "다들 떠들썩하니 놀고 있던데, 박사는 여기서 혼자 뭘 읽고 있는 걸까나…… 흠, 외국 문자라 그런가 알아볼 수가 없네…… 그럼 있잖아 박사, 이렇게 하자. 당신이 책 내용을 알려주면, 난 이 문장을 구성하고 있는 선과 여백에서 읽어낼 수 있는 무늬와 메시지를 해석해 줄게, 어때?"
         }
       ]
     }

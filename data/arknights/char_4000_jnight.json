@@ -1,7 +1,10 @@
 {
   "name": "正义骑士号",
   "charaKey": "char_4000_jnight",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/e/e2/%E7%AB%8B%E7%BB%98_%E6%AD%A3%E4%B9%89%E9%AA%91%E5%A3%AB%E5%8F%B7_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/9/9f/%E7%AB%8B%E7%BB%98_%E6%AD%A3%E4%B9%89%E9%AA%91%E5%A3%AB%E5%8F%B7_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -91,7 +94,7 @@
         },
         {
           "language": "韩文",
-          "content": "나의 마스터, 와일드메인, 즉 ‘거친 갈기의 기사’ 이보나 님은 저스티스 나이트를 고철 상태에서 수리하고 리부트 했어. 그 이후로 계~속, 난 마스터와 동료들의 일상생활과 임무 서포트를 담당하고 있지."
+          "content": "나의 마스터, 와일드메인, 즉 '거친 갈기의 기사' 이보나 님은 저스티스 나이트를 고철 상태에서 수리하고 리부트 했어. 그 이후로 계~속, 난 마스터와 동료들의 일상생활과 임무 서포트를 담당하고 있지."
         },
         {
           "language": "繁体中文",
@@ -195,7 +198,7 @@
         },
         {
           "language": "韩文",
-          "content": "“띠띠” 박사님께 들켰네. 강경 수단을 취하는 건 본의가 아니지만 비밀을 지키기 위해서는…… 마스터? 요양 정원의 꽃들을 계속 손질해도 좋다고? 박사님, 뭐든 말해~! 내가 할 수 있는 일이라면 뭐든지 도와줄게!"
+          "content": "“띠띠” 박사님께 들켰네. 강경 수단을 취하는 건 본의가 아니지만 비밀을 지키기 위해서는…… 마스터? 요양정원의 꽃들을 계속 손질해도 좋다고? 박사님, 뭐든 말해~! 내가 할 수 있는 일이라면 뭐든지 도와줄게!"
         },
         {
           "language": "繁体中文",
@@ -811,15 +814,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター様、スクリーンに映っているカウントダウンが見えるかしら？三……二……一……新年おめでとう！今年もジャスティスナイトがあなたをもっとサポートできるように誠心誠意頑張るわね。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Doctor, can you see the countdown on the screen? Three... two... one... Happy New Year! This year, Justice Knight will focus all her heart on doing even more for you."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "박사님, 스크린에 떠 있는 카운트다운이 보여? 3…… 2…… 1…… 새해 복 많이 받아! 올해도 저스티스 나이트가 당신을 더 서포트할 수 있도록 성심성의껏 노력할게."
         },
         {
           "language": "繁体中文",
@@ -854,12 +857,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "红松骑士团的成员和罗德岛合作之后，生活方式似乎都发生了改变，因此，正义号的各项功能也在随之不断改进。正义号会确保，一直是有用的作业平台。"
+          "content": "“滴滴”，博士，您的外卖送到了......是的，这是正义号从罗德岛食堂给您拿来的生日餐。包装盒内成分检测：不可食用，石蜡，酸性源石虫；可食用，奶油，发酵面粉。检测结果：安全。"
         },
         {
           "language": "日文",
@@ -872,6 +875,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "红松骑士团的成员和罗德岛合作之后，生活方式似乎都发生了改变，因此，正义号的各项功能也在随之不断改进。正义号会确保，一直是有用的作业平台。"
+        },
+        {
+          "language": "日文",
+          "content": "レッドパイン騎士団のみんなはロドスに来てから、生活習慣が変わったみたいなの。それに伴って、ジャスティスナイトの機能もどんどん進化しているわ。これからも有能な作業プラットフォームであり続けることを保証するわよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Since the Pinus Sylvestris Knightclub joined Rhodes Island, their lifestyles have transformed. Accordingly, all of Justice Knight's functions are being upgraded to follow. Justice Knight will ensure that she remains a useful operation platform."
+        },
+        {
+          "language": "韩文",
+          "content": "피누스 실베스트리스 기사단이 로도스 아일랜드와 함께한 이후로, 그들의 생활 습관이 점점 바뀌어 가는 것 같아. 그 덕분에, 저스티스 나이트의 기능도 점점 개선되고 있지. 저스티스 나이트가 약속할게, 앞으로도 계속 유능한 작업 플랫폼이 되겠다고!"
         },
         {
           "language": "繁体中文",

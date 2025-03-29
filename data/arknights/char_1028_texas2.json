@@ -1,7 +1,12 @@
 {
   "name": "缄默德克萨斯",
   "charaKey": "char_1028_texas2",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/6/65/%E7%AB%8B%E7%BB%98_%E7%BC%84%E9%BB%98%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/f/f2/%E7%AB%8B%E7%BB%98_%E7%BC%84%E9%BB%98%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/b/b9/%E7%AB%8B%E7%BB%98_%E7%BC%84%E9%BB%98%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/f/f1/%E7%AB%8B%E7%BB%98_%E7%BC%84%E9%BB%98%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -1055,15 +1060,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "また新たな年を迎えられるとは、めでたいことだ。ソラが新曲のCDを送ってくれたが、これまでのスタイルとは打って変わって、落ち着く曲に仕上がっていたよ。シラクーザでの経験からインスピレーションを得たのかもしれないな。ドクターも一曲どうだ？"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "It's a brand new year, so Happy New Year. Sora gave me a CD to listen to, and it's a totally different style. Very relaxing. Looks like her time in Siracusa expanded her horizons too. Want to give it a listen?"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "또 새로운 한 해네, 새해 복 많이 받아. 소라가 신곡 CD를 보내 줬는데, 지금까지와는 다르게 차분한 스타일의 곡이더군. 시라쿠사의 경험이 소라에게 새로운 영감을 준 것 같은데, 박사도 한번 들어 보겠나?"
         },
         {
           "language": "繁体中文",
@@ -1106,12 +1111,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "我偶尔会想，罗德岛在做的事业很困难，但你们真的在付诸行动。我？我没那么复杂的想法，但很乐意尽力帮忙。我们所寻找的，都是那份平静的生活。"
+          "content": "生日快乐，博士。新的一岁，你也会有新的成长。机会难得，要把企鹅物流的人都喊来开个生日派对吗？我偶尔也会想热闹一下，和伙伴们聚聚。这种“热闹”，叙拉古不会有。"
         },
         {
           "language": "日文",
@@ -1124,6 +1129,36 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        },
+        {
+          "language": "意大利文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我偶尔会想，罗德岛在做的事业很困难，但你们真的在付诸行动。我？我没那么复杂的想法，但很乐意尽力帮忙。我们所寻找的，都是那份平静的生活。"
+        },
+        {
+          "language": "日文",
+          "content": "たまに考えさせられるよ。ロドスが取り組む事業は前途多難だが、それを実現しようとしているのは確かだと。私？あまり難しく考えてはいないが、喜んで手を貸すつもりだ。平穏な生活を求めているのは、お互い様だからな。"
+        },
+        {
+          "language": "英文",
+          "content": "Sometimes I think to myself, what Rhodes Island is trying to do is really hard, but you're actually doing it. Me? I don't think about anything so complicated, but I'm more than glad to help out. All we're looking for is peace."
+        },
+        {
+          "language": "韩文",
+          "content": "가끔 로도스 아일랜드가 하려는 사업이 너무 어려운 일이라는 생각이 들 때도 있어, 하지만 너흰 진짜로 그걸 실현시키고 있지. 나? 난 그런 복잡한 생각은 안 해, 하지만 필요하다면 최선을 다해 도울게. 평화로운 생활을 바라는 건 서로 마찬가지니까."
         },
         {
           "language": "繁体中文",

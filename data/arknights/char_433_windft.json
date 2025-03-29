@@ -1,7 +1,10 @@
 {
   "name": "掠风",
   "charaKey": "char_433_windft",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/0/05/%E7%AB%8B%E7%BB%98_%E6%8E%A0%E9%A3%8E_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/5/5d/%E7%AB%8B%E7%BB%98_%E6%8E%A0%E9%A3%8E_2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -915,15 +918,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "子供の頃は一度もちゃんと新年のお祝いなんてしてませんし、大人になって祝える余裕ができてからも、家族と一緒に過ごせたことはありません。もっとたくさん稼げるようになれば、数日くらいなら給料を気にせずお休みをもらって会いに行けますよね。これが僕の新年の目標です。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Never got to really celebrate when I was a kid. Have the right conditions now, but it's not with my family. Just need to make a bit more cash, and then I can ask for a couple days off and go see 'em again without worrying about my salary. That's my New Year's resolution."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "어릴 적에는 한 번도 제대로 기념해 볼 기회가 없었죠. 하지만 성장하고 기념할 만한 여유가 생기니, 이제는 가족이 곁에 없네요. 더 많은 돈을 벌 수 있게 되면 좋겠어요. 그럼 평소에도 비용에 대한 걱정 없이 며칠 휴가를 내서 가족들을 보러 갈 수 있겠죠. 이건 제 새해 목표이기도 하답니다."
         },
         {
           "language": "繁体中文",
@@ -958,12 +961,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "罗德岛看起来好有钱啊，这些东西大家都能吃完吗？浪费可不太好。喔——那边那个是小刻吗，不、不拦着吗？"
+          "content": "博士生日快乐~我不太会挑，这个样子的蛋糕喜欢吗？再拥抱一下吧。"
         },
         {
           "language": "日文",
@@ -976,6 +979,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛看起来好有钱啊，这些东西大家都能吃完吗？浪费可不太好。喔——那边那个是小刻吗，不、不拦着吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスは相当な資金力がありそうですが、こんなにたくさんみんな食べきれるんですか？物を無駄にするのは良くないことですよ。うわっ……あれ、ケーちゃんですよね。と、止めなくていいんですか？"
+        },
+        {
+          "language": "英文",
+          "content": "This really sells Rhodes Island as a loaded place. Is everyone gonna be able to finish all this food off? Not gonna be nice to waste it. Ooh—is that Kay over there? Not—Not gonna hold her back?"
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드는 정말 자본력이 충분한 모양이네요. 이 많은 걸 정말 다 먹을 수 있나요? 낭비는 좋지 않답니다. 엇…… 저기 있는건 케오 인가요? 말리지 않아도 괜찮나요?"
         },
         {
           "language": "繁体中文",

@@ -1,7 +1,11 @@
 {
   "name": "九色鹿",
   "charaKey": "char_4019_ncdeer",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/5/5e/%E7%AB%8B%E7%BB%98_%E4%B9%9D%E8%89%B2%E9%B9%BF_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/b/b6/%E7%AB%8B%E7%BB%98_%E4%B9%9D%E8%89%B2%E9%B9%BF_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/2/24/%E7%AB%8B%E7%BB%98_%E4%B9%9D%E8%89%B2%E9%B9%BF_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "联动",
@@ -903,15 +907,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "今日は団らんの日だと聞きました。ドクターとロドスの皆さんが健康でいられますように。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "I hear this is a day of reunions. May you and all at Rhodes Island be in good health."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "다들 함께 모여서 세는 명절이라 들었는데, 로도스 아일랜드 여러분도 모두 건강하길 바랄게요."
         },
         {
           "language": "繁体中文",

@@ -1,7 +1,11 @@
 {
   "name": "晓歌",
   "charaKey": "char_497_ctable",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/4/46/%E7%AB%8B%E7%BB%98_%E6%99%93%E6%AD%8C_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/d/dc/%E7%AB%8B%E7%BB%98_%E6%99%93%E6%AD%8C_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/5/5c/%E7%AB%8B%E7%BB%98_%E6%99%93%E6%AD%8C_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -915,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "綺麗な花火ね……昔は自分には無縁なもののように感じていたわ。でも今、こうして足元で火をつけ、打ち上げられるのを見ていると……こんなに小さな玉でも、空高くまで飛んでいって、あんなに明るく大輪の花を咲かせられるのね。ドクター、私も、あんな風になれるかしら？"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Such pretty fireworks... I used to think they were too far away, but here I am today, watching them lit below me. A single firework's just a tiny little thing, but there it goes, flying into the sky, blossoming into flowers so bright. Doctor, is that something I can aspire to?"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "예쁜 불꽃이네…… 옛날에는 나와 멀게만 느껴졌었어. 하지만 지금은 내 발아래서 불이 붙고, 그 조그맣던 게 쏘아 올려져서 이토록 밝은 꽃을 피워내고 있어. 박사, 나도 저렇게 될 수 있을까?"
         },
         {
           "language": "繁体中文",
@@ -958,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "他们之前说我适合暗杀，将我的人生扭向了一条本不该去的道路，却从来不告诉我原因，而我又在那种环境下做了太多不应该做的事。你们帮我延续的这几年生命，我会好好地使用的。"
+          "content": "原来今天是博士的生日啊......我并不记得自己的，医疗部的档案上有记录我是哪一天得救的吗？我想把那天当成我的生日。博士，今天我陪着你，等到我的生日，你也可以来陪我吗？"
         },
         {
           "language": "日文",
@@ -976,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "他们之前说我适合暗杀，将我的人生扭向了一条本不该去的道路，却从来不告诉我原因，而我又在那种环境下做了太多不应该做的事。你们帮我延续的这几年生命，我会好好地使用的。"
+        },
+        {
+          "language": "日文",
+          "content": "「暗殺に向いてそう」その一言で、私の人生は本来歩むべきではない道へと歪められたの。何一つ理由を教えられることのない状況で、あまりに多くの間違いに手を染めた……あなたたちが延ばしてくれたこの命、数年しかないとしても、ちゃんとした使い方をしていきたいと思うわ。"
+        },
+        {
+          "language": "英文",
+          "content": "They told me I was meant to be an assassin, twisted my life onto a path it never should've taken. But they never even gave me a reason, and I did far too much I never should have done. You've given me a new lease on life, and I'll be sure to use it well."
+        },
+        {
+          "language": "韩文",
+          "content": "암살에 적합하다는 그 한마디에, 내 인생은 그 이유도 모른 채 가서는 안 되는 길로 틀어지고 말았어. 그리고 나는 그런 상황 속에서 해서는 안 될 일을 수없이 저질렀지. 하지만 너희가 이어준 이 목숨만큼은 얼마 남지 않았다고 해도 제대로 된 방식으로 써나가고 싶어."
         },
         {
           "language": "繁体中文",

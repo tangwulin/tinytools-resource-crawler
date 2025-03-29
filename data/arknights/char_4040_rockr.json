@@ -1,7 +1,11 @@
 {
   "name": "洛洛",
   "charaKey": "char_4040_rockr",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/a/a5/%E7%AB%8B%E7%BB%98_%E6%B4%9B%E6%B4%9B_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/7/78/%E7%AB%8B%E7%BB%98_%E6%B4%9B%E6%B4%9B_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/0/0a/%E7%AB%8B%E7%BB%98_%E6%B4%9B%E6%B4%9B_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -915,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あけましておめでとう、ドクター。願掛けはした？あたし？うーん……みんながおばあちゃんやおじいちゃんになるまで、毎年こうやって穏やかに過ごすことかな。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy New Year, Doctor. Do you have any wishes? Mine? Umm... I wish that we'll be able to spend every New Year in peace, up until the day we die."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받아, 박사. 혹시 소원 있어? 내 소원? 음…… 우리가 늙어갈 때까지, 매년 이렇게 평화로운 새해를 맞이할 수 있었으면 좋겠어."
         },
         {
           "language": "繁体中文",
@@ -958,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "博士，玩得开心吗？我？嗯，我当然开心，大家都热热闹闹地在一起，没有比这更好的事了。对了，我刚才抽到了奖品，我不需要，你要吗？"
+          "content": "博士，我听说今天是你的生日，生日快乐，这是送给你的。嗯，雕的是你和阿米娅，我还是第一次尝试这种装饰品，效果不太好......你喜欢？那再好不过。"
         },
         {
           "language": "日文",
@@ -976,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，玩得开心吗？我？嗯，我当然开心，大家都热热闹闹地在一起，没有比这更好的事了。对了，我刚才抽到了奖品，我不需要，你要吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、楽しんでる？あたし？もちろん楽しんでるよ。みんな一緒にワイワイできるよりも嬉しいことはないし。そうだ、さっき抽選会で景品を当てたんだけど、あたしはいらないんだ。ドクター、いる？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, enjoying yourself? Me? Mm-hm, of course I'm happy. Everyone's having a proper lively get-together, there's nothing better than that. Oh, that reminds me, I just drew this prize and I'm not really in need of it. You want it?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 재밌게 놀았어? 나? 응, 나야 당연히 즐거웠지. 다들 같이 모여 웃고 떠드는 것보다 즐거운 일이 어디 있겠어? 참, 방금 상품에 당첨됐는데, 난 필요 없어서 말이야. 박사가 가질래?"
         },
         {
           "language": "繁体中文",

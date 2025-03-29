@@ -44,7 +44,7 @@
         },
         {
           "language": "韩文",
-          "content": "아련한 향기가 나네. 여긴…?"
+          "content": "아련한 향기가 나네. 여긴……?"
         },
         {
           "language": "繁体中文",
@@ -122,7 +122,7 @@
         },
         {
           "language": "韩文",
-          "content": "이 임무를 등록하는… 소프트웨어라고 하나? 이거, 어떻게 쓰는 거지? 난 이 컴퓨터… 라는 걸 잘 몰라서…"
+          "content": "이 임무를 등록하는…… 소프트웨어라고 하나? 이거, 어떻게 쓰는 거지? 난 이 컴퓨터…… 라는 걸 잘 몰라서……"
         },
         {
           "language": "繁体中文",
@@ -174,7 +174,7 @@
         },
         {
           "language": "韩文",
-          "content": "저 카시미어의 기사… 그래, 전부터 알던 애야. 그땐 낯도 많이 가리고 책만 들여다보던 아이가… 이렇게 변했구나."
+          "content": "저 카시미어의 기사…… 그래, 전부터 알던 애야. 그땐 낯도 많이 가리고 책만 들여다보던 아이가…… 이렇게 변했구나."
         },
         {
           "language": "繁体中文",
@@ -200,7 +200,7 @@
         },
         {
           "language": "韩文",
-          "content": "(쉿… 어머, 이런 곳에 박사 혼자 있네… 어디 장난 좀 쳐 볼까?) 놀랐어? 하하."
+          "content": "(쉿…… 어머, 이런 곳에 박사 혼자 있네…… 어디 장난 좀 쳐 볼까?) 놀랐어? 하하."
         },
         {
           "language": "繁体中文",
@@ -226,7 +226,7 @@
         },
         {
           "language": "韩文",
-          "content": "가끔 고향 숲에서 지내던 날들이 떠올라. 매년 열렸던 다양한 대회도 그립고. 지금은 어떻게 되었으려나…"
+          "content": "가끔 고향 숲에서 지내던 날들이 떠올라. 매년 열렸던 다양한 대회도 그립고. 지금은 어떻게 되었으려나……"
         },
         {
           "language": "繁体中文",
@@ -278,7 +278,7 @@
         },
         {
           "language": "韩文",
-          "content": "박사도… 잘 때는 이렇게 무방비한 표정을 짓는구나… 후후."
+          "content": "박사도…… 잘 때는 이렇게 무방비한 표정을 짓는구나…… 후후."
         },
         {
           "language": "繁体中文",
@@ -798,7 +798,7 @@
         },
         {
           "language": "韩文",
-          "content": "미안해, 이렇게 될 리 없었는데…"
+          "content": "미안해, 이렇게 될 리 없었는데……"
         },
         {
           "language": "繁体中文",
@@ -824,7 +824,7 @@
         },
         {
           "language": "韩文",
-          "content": "이런 좁은 방은 역시 적응이 안 된다니까…"
+          "content": "이런 좁은 방은 역시 적응이 안 된다니까……"
         },
         {
           "language": "繁体中文",
@@ -920,15 +920,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "また一年経ったわね。故郷の森はまだ私が飛び出した頃のままなのかしら？現代の暮らしってやつにはなかなか慣れないし、人々の鉱石病（オリパシー）に対する恐怖も変わっていないように思うけど、新年の訪れはこの大地をまた活気づけてくれるわ。まだすべてに希望が残っている――そうよね。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Another year gone by. I wonder if the forests are as I left them? I'm still not too used to modern life, and people still fear Oripathy as much as ever, but the arrival of a new year means the land is once again shining with new life. There's still hope, for everything."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "또 새로운 한 해가 왔네. 내가 떠난 이후의 숲도 그대로일까? 나는 여전히 현대 생활이 조금은 불편하고, 광석병에 대한 사람들의 두려움도 전혀 줄어들지 않았지만, 새로운 한 해가 이 대지에 생기를 불어넣어 주는 만큼 아직은 모든 일에 희망이 있다고 생각해."
         },
         {
           "language": "繁体中文",
@@ -963,12 +963,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "哎呀，电子器械还是让人有些头疼呢......不过我也已经进步很多了吧？有些东西还是你们口中说的“老旧”的更适合我一些，就像这把弓，用了这么多年，我只信任它。"
+          "content": "前几天出外勤任务的时候我发现的，这种植物很神奇，即便枯萎，只要在水中浸养几日，它就会重新舒展开枝叶。用这种方式，它可以活很久——生日快乐，愿我们的友谊像这株植物一样。"
         },
         {
           "language": "日文",
@@ -981,6 +981,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哎呀，电子器械还是让人有些头疼呢......不过我也已经进步很多了吧？有些东西还是你们口中说的“老旧”的更适合我一些，就像这把弓，用了这么多年，我只信任它。"
+        },
+        {
+          "language": "日文",
+          "content": "あら嫌だ、電子機器というのは本当に困ったものね……だけど私も随分慣れてきたと思わない？まぁ、あなたたちから見れば「古くさい」ものの方が、私にはしっくりくることも多いけどね。この弓だってそう。もう何年も使ってきたから、弓ならこの子だけが頼りよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Oh dear, these electronic appliances never make it easy. But I've been making progress, don't you think? Some of the things you call 'old-fashioned' just suit me better, like this bow. After using it for so many years, it has my total trust."
+        },
+        {
+          "language": "韩文",
+          "content": "어머, 역시 전자 기계는 여전히 다루기 까다롭다니까…… 그래도 나, 전보단 많이 나아졌지? 너희가 '낡았다'라고 표현하는 물건이 내게는 더 잘 맞는 거 같아, 바로 이 활처럼 말이야. 그렇게 오랫동안 써왔는데, 난 여전히 이 녀석만 믿어."
         },
         {
           "language": "繁体中文",

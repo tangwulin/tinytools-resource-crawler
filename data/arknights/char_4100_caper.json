@@ -1,7 +1,11 @@
 {
   "name": "跃跃",
   "charaKey": "char_4100_caper",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/d/d6/%E7%AB%8B%E7%BB%98_%E8%B7%83%E8%B7%83_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/f/f1/%E7%AB%8B%E7%BB%98_%E8%B7%83%E8%B7%83_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/7/78/%E7%AB%8B%E7%BB%98_%E8%B7%83%E8%B7%83_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -123,7 +127,7 @@
         },
         {
           "language": "英文",
-          "content": "I've been pretty playful ever since I was a kid. I had enough tricks up my sleeve to turn the tables on the bullies, even pulled a few ducats out of them sometimes. I mean, come on, you need a thrill like that to really feel alive. But here you are, working your butt off all day long. Aren't you bored?"
+          "content": "I've been pretty playful ever since I was a kid. I had enough tricks up my sleeve to turn the tables on the bullies, even pulled a few dukats out of them sometimes. I mean, come on, you need a thrill like that to really feel alive. But here you are, working your butt off all day long. Aren't you bored?"
         },
         {
           "language": "韩文",
@@ -779,7 +783,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "昔はね、この日は決まってママと一緒に晩ご飯を食べるんだった。ママはいつもより早く退勤して、お肉をぎゅうぎゅうに詰めたおっきなブリトーを作ってくれるの。あんなにたくさんの肉を食べられるのは、年に一度だけなんだ……って、聞き入ってないでアンタも食べなよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Before, I always had dinner with my mamá on this day. She always got off work earlier than usual to make me these big fat tacos filled with meat. It's only on this day of the year that I get to eat so much meat... Hey, don't just listen. Eat up."
+        },
+        {
+          "language": "韩文",
+          "content": "옛날엔 이날만 되면 꼭 엄마랑 같이 저녁을 먹었었어. 엄마도 평소보다 일찍 퇴근해서 고기를 잔~뜩 넣은 커다란 부리토를 만들어 줬었지. 그렇게 많은 고기를 먹을 수 있었던 건 일 년에 단 한 번뿐이었어…… 박사도 내 얘기만 듣지 말고 빨리 먹어."
         }
       ]
     },
@@ -806,6 +818,28 @@
       ]
     },
     {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看你的样子，今天是什么特别的日子吗？......嘻嘻，你沮丧的表情真有趣。好啦，我准备的礼物就在你面前，你应该猜得到是什么吧？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        }
+      ]
+    },
+    {
       "title": "周年庆典",
       "filename": "CN_044.wav",
       "text": [
@@ -815,7 +849,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、アタシ明日にはもう発つよ。こんなに長く留まるとは思わなかったし、アンタの顔もさんざん見てきたのに飽きなかったとはね。ロドスはこーんなに楽しいところなんだから、つまんなくしたら許さないよ。これからどこへ行くって？……アッハハ、外勤任務に決まってんじゃん！そんじゃ行ってくるね！"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, I'm outta here tomorrow. I really didn't expect to be here for so long, and that I wouldn't ever get tired hanging around you. Rhodes Island's such a fun place. Don't you ever let it get boring. Where am I going next? Haha... A field mission! See ya!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 나 내일이면 떠나. 나도 이렇게 오랫동안 여기 머물게 될 줄은 몰랐어. 박사 얼굴은 매일 봐도 질리지 않았고. 하지만 나 없다고 로도스 아일랜드를 지루하게 만들면 용서하지 않을 거야. 어디로 가냐고? ……하핫, 당연히 외근 임무지! 금방 다녀올게!"
         }
       ]
     }

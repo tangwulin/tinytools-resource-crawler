@@ -69,7 +69,7 @@
         },
         {
           "language": "韩文",
-          "content": "내가 태어난 곳? 에… 음…… 잘 모르겠네. 뭐 어때!"
+          "content": "내가 태어난 곳? 에…… 음…… 잘 모르겠네. 뭐 어때!"
         },
         {
           "language": "繁体中文",
@@ -355,7 +355,7 @@
         },
         {
           "language": "韩文",
-          "content": "승~진? 잘 모르겠다… 그러지 말고, 좀 더 같이 놀자!"
+          "content": "승~진? 잘 모르겠다…… 그러지 말고, 좀 더 같이 놀자!"
         },
         {
           "language": "繁体中文",
@@ -919,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ハッピーニューイヤー、ドクター！ボクね、ドクターたちに出会った甲板を探してるんだ。ここかな、それともあそこかな？探してる理由？だってあの日はすっごく気持ちよくお昼寝できたから……ぽかぽかしたお日様の下で、またああやってお昼寝したいなって！えへへ……"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy new year, Doctor! I'm looking for the place I was first found. It's somewhere around on the deck. Was it here… or there?... Hm? Why am I looking for it? Because I was actually having a cozy nap when you guys found me. The sunshine was so warm... And I want to take a nap like that again! Hehe..."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받아, 박사! 내가 처음 발견되었던 갑판을 찾고 있었어. 여기였나? 아님, 저기였나? 왜 찾는 거냐고? 그날 낮잠이 너무 달콤했었거든…… 햇살도 따뜻하고, 한 번 더 느끼고 싶어! 헤헷……"
         },
         {
           "language": "繁体中文",
@@ -962,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "嘿嘿，今天外面特别热闹，我要整理一下背包装点好玩的东西回来！包里都放了些什么？棒球，手套，还有......博士，我悄悄地告诉你，你不能告诉医疗部的哥哥姐姐们哦！还、还有零食啦！"
+          "content": "博士博士，生日快乐！送你一副棒球棒，还有手套，还有棒球！来来，跟我一起玩吧！工作？今天为什么还要工作呀，博士的生日不放假吗？嗯......"
         },
         {
           "language": "日文",
@@ -980,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嘿嘿，今天外面特别热闹，我要整理一下背包装点好玩的东西回来！包里都放了些什么？棒球，手套，还有......博士，我悄悄地告诉你，你不能告诉医疗部的哥哥姐姐们哦！还、还有零食啦！"
+        },
+        {
+          "language": "日文",
+          "content": "へへ、今日はお外がすごく賑やかだから、リュックの中身を整理して、面白いものを集めてくるの！何が入ってるのかって？ボールにグローブ、それから……ドクター、こっそり教えてあげるから、医療部のお兄ちゃんお姉ちゃんたちには内緒だよ！それから、おやつも入ってるんだよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Hehe, they're all busy having fun outside! I'm gonna pack up my bag a little, then get out and return with cool stuff loaded on my back! What's in my bag? A baseball, pair of mitts, and… Doctor, just between you and me, and promise to keep it from the Medical Department—I also got some snacks in there!"
+        },
+        {
+          "language": "韩文",
+          "content": "헤헷, 오늘 밖에 엄청 시끌벅적하네. 가방을 정리하고 재밌는 것들을 가져와야겠어! 가방에 뭐가 들어있냐고? 야구공, 장갑 그리고…… 박사, 몰래 알려주는 거야, 의료부 언니 오빠들한테 알려주면 안 돼! 간식도 있거든!"
         },
         {
           "language": "繁体中文",

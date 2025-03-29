@@ -1,7 +1,10 @@
 {
   "name": "露托",
   "charaKey": "char_4130_luton",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/e/ec/%E7%AB%8B%E7%BB%98_%E9%9C%B2%E6%89%98_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/d/d8/%E7%AB%8B%E7%BB%98_%E9%9C%B2%E6%89%98_2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -10,6 +13,14 @@
     {
       "language": "中文-普通话",
       "base": "voice_cn/char_4130_luton"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4130_luton"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_4130_luton"
     }
   ],
   "voiceList": [
@@ -23,7 +34,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "貴方と距離を取ることをどうかご容赦ください……いくら洗い清めても、この身体に染み付いたにおいが取れないのです。"
+        },
+        {
+          "language": "英文",
+          "content": "I'd appreciate it if you let me keep a bit of distance... There's a smell on me I can't get off, no matter how hard I try."
+        },
+        {
+          "language": "韩文",
+          "content": "당신과 거리를 두는 걸 부디 용서해 주세요…… 아무리 씻어도 몸에 밴 냄새가 사라지지 않네요."
         }
       ]
     },
@@ -37,7 +56,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "このコートはとある士官との取引によって得たものです。当時、死はもう彼女の間近に迫っていました。表情が次第に弛み、息遣いも弱まっていく中、私は彼女の震える手を握りながら、ただその時を待ちました……彼女がこくりと頷くと、私は彼女のまぶたを下ろし、その取引を終えたのです。"
+        },
+        {
+          "language": "英文",
+          "content": "I got this coat from a certain sergeant. Death had already come for her at the time. Her expression was softening, her breathing getting shallower and shallower. I held her hand, and waited... Waited until her head nodded a bit. I helped her close her eyes, and then completed our trade."
+        },
+        {
+          "language": "韩文",
+          "content": "이 외투는 한 장교와의 거래로 얻은 거예요. 그때 그녀는 죽음에 거의 다다른 상태였어요. 편안해지는 표정, 약해지는 호흡 속, 저는 그녀의 떨리는 손을 꼭 잡고 기다렸어요…… 그녀는 가볍게 고개를 끄덕였고, 저는 눈을 감겨줌으로써 그렇게 우리의 거래는 마무리되었어요."
         }
       ]
     },
@@ -51,7 +78,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "「生没年月日」の書き方はこれで正しいか見ていただけますか？いえ、ご心配なさらず。亡くなった方はいません。私が自分自身のために用意しているものですよ。いずれ私が命を落とした時、どなたかがこれを見つけてくだされば、私もきちんとした墓標の下で眠ることができます……名も書かれていないレンガの下よりは幾分かマシですから。"
+        },
+        {
+          "language": "英文",
+          "content": "Excuse me, Doctor, could you check if this is the right way to record birth and death dates? Oh, don't worry, nobody died. This is for me, in case something happens to me one day. If someone manages to find this, then I'll at least have a decent tombstone or marker... A lot better than an unmarked brick at least."
+        },
+        {
+          "language": "韩文",
+          "content": "'생·몰 연월일', 이렇게 쓰는 게 맞는지 좀 봐주시겠어요? 걱정 마세요. 누가 돌아가신 게 아니라 저를 위해서 써두는 거거든요. 언젠가 제가 죽더라도 누군가 이걸 발견한다면, 저도 제대로 된 묘비 아래서 잠들 수 있을 거예요…… 이름 하나 없는 벽돌 아래보다는 낫겠죠."
         }
       ]
     },
@@ -65,7 +100,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "医療部で私と一緒に治療を受けている女の子がとても印象的でした。彼女からは馴染み深いにおいがして、命の灯火は私よりも暗澹としていましたが……それを意に介さない様子で、楽しそうに歌を口ずさんでいたのです。いったい何が彼女をあそこまで逞しくしたのでしょうか？彼女が……とても羨ましく思います。"
+        },
+        {
+          "language": "英文",
+          "content": "There was another girl with me getting treatment in Medical. She had a familiar scent on her. Her flame of life burned even dimmer than mine... But she didn't seem to mind at all, just humming happily to herself. What gave her the strength? I envy her."
+        },
+        {
+          "language": "韩文",
+          "content": "의료부에서 저와 같이 치료를 받는 여자아이가 있어요. 그 아이한테선 익숙한 냄새가 났고, 생명의 불빛은 저보다 더 어두웠죠…… 하지만 그 아이는 그런 것 따위 전혀 신경 쓰지 않는 사람처럼 즐겁게 콧노래를 흥얼거렸어요. 도대체 무엇이 그 아이를 그토록 강하게 만들어 줬을까요? 저는…… 정말 부러워요."
         }
       ]
     },
@@ -79,7 +122,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "争いの地から、また次の争いの地へ――ロドスがそうであるように、かつての私もそのようにして過ごしていました。両者の違いと言えば、自分が生きるためでしかなかった私に対して、貴方たちは……多くの人を生かすためにそうしている、というところです。"
+        },
+        {
+          "language": "英文",
+          "content": "Rhodes Island is always rushing from one conflict to another. I used to be like that too. The difference is, you do it to save people... I was doing it just to save myself."
+        },
+        {
+          "language": "韩文",
+          "content": "한 분쟁 지역에서 또 다른 분쟁 지역으로 이동하는 것…… 로도스 아일랜드도, 과거의 저도 모두 그렇게 지내왔어요. 다른 점이 있다면, 저는 저 혼자 살기 위해서였지만, 당신들은…… 더 많은 사람의 목숨을 살리기 위해서라는 거죠."
         }
       ]
     },
@@ -93,7 +144,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "犠牲となったオペレーターたちの……かつての姿のまま残されている部屋を目の当たりにしました。机には無造作に物が置かれたままで、まるでほんの少し席を外しただけの主を待っているかのようでした。この大船はこうも多くの死を抱えているのに、どうして……どうして貴方たちの航路はまだこんなにも明確なのでしょうか？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, the operators who made the ultimate sacrifice... their dorms are just as they left them, as if their owners had just stepped out for a minute. This huge ship carries so much that has already passed on... How are you able to hold such a clear course...? As if none of you doubt anything?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 저 봤어요. 희생된 오퍼레이터분들…… 그분들의 숙소는 예전 모습 그대로였어요. 책상 위의 아무렇게나 놓인 물건은 마치 잠깐 자리를 비운 주인을 기다리고 있는 것만 같았죠. 이 거대한 함선은 이렇게나 많은 죽음을 담고 있는데, 어째서…… 어째서 당신들의 항로는 여전히 이렇게 명확한 건가요?"
         }
       ]
     },
@@ -107,7 +166,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "今日はカンタービレさんに、本の文字を教えていただきました。「暖かな土が狭霧を擡げ、木の枝が光の輪郭を描けば、羽獣が早暁に囀り歌う。」――どこに行けばそんな風景に出会えるのかと訊ねてみたのですが、カンタービレさんは黙り込んでしまって……もしかしたら、あれは想像の中にしかない光景なのかもしれませんね。"
+        },
+        {
+          "language": "英文",
+          "content": "Cantabile taught me to read some of the words in the book today. 'The warm soil uplifts the mist, the branches trace light's brows, and fowlbeasts sing in the dawnlight.' I wanted to know where I could find a place like this, so I asked her... But she went quiet on me. Maybe... it's just someone's imagination."
+        },
+        {
+          "language": "韩文",
+          "content": "오늘은 칸타빌레 씨가 책에 있는 글자 읽는 법을 가르쳐 주셨어요. “따뜻한 흙이 안개를 일으키고, 나뭇가지가 빛의 윤곽을 그리며, 파울비스트가 새벽에 지저귀며 노래한다.” 어디를 가면 이런 풍경을 볼 수 있는지 궁금해져서 칸타빌레 씨에게 물어봤는데, 침묵에 빠져버리셔서…… 어쩌면 그건 그저 상상 속에서밖에 볼 수 없는 광경일지도 모르겠네요."
         }
       ]
     },
@@ -121,7 +188,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "戦場を狩り場にする、とても醜い羽獣がいます。体は子供ほどの大きさで、耳をつんざく恐ろしい鳴き声を上げながら、群れを成してエサを探しにやって来るのです。幼い頃はいつも勇気を振り絞ってあのくちばしと奪い合い、全身傷だらけになったものですが……大人となった今、もはや対峙する気概はどこにもありません。特にあの目が恐ろしくて、直視することもできないのです。"
+        },
+        {
+          "language": "英文",
+          "content": "There's this one particularly ugly type of fowlbeast, big as a human child, with a scary cry. Flocks of them storm onto battlefields, looking for food. When I was a kid, I'd get into fights with them and end up with bruises all over. But, once I grew up, I lost the guts to face them, let alone look them in the eye."
+        },
+        {
+          "language": "韩文",
+          "content": "전장을 사냥터로 삼는 아주 못생긴 파울비스트가 있어요. 그것들은 어린아이 정도의 크기에 귀청을 찢는듯한 무서운 울음소리를 내며, 자주 무리를 지어 먹이를 찾아다니곤 했어요. 어렸을 때는 종종 그것들과 물건을 두고 뺏고 뺏기느라 온몸이 상처투성이가 되고는 했는데…… 어른이 된 지금은, 오히려 그것들과 맞서기 두렵네요. 특히 이젠 그 눈을 똑바로 마주하기가 두려워요."
         }
       ]
     },
@@ -135,7 +210,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "戦場での暮らしが長くなると、古い記憶はおぼろげになっていくものです。死者の顔は一人、また一人と霞んでいきますが、それでも毎日新たな顔と出会うのです……もし戦争が止められたなら、私は全員の顔を覚えていられるでしょう。だからこそ私は貴方たちの理想とともに歩むのです。"
+        },
+        {
+          "language": "英文",
+          "content": "The longer you live in a war, the more you end up forgetting. I can't remember the faces of a lot of those who've died, but new faces appear in front of me every day... If the war ever ends, then I'll finally be able to remember them all. That's why I'm prepared to follow you and your ideals."
+        },
+        {
+          "language": "韩文",
+          "content": "전장에서의 생활이 길어지면, 오래된 기억은 흐릿해 지곤 해요. 세상을 떠난 이들의 얼굴이 하나, 또 하나 희미해져 가는데, 매일 또 새로운 얼굴과 만나게 되죠…… 만약 전쟁을 멈출 수 있다면, 저는 모든 이들을 기억할 수 있을 거예요. 그래서 저는 당신들의 이상을 위해 힘을 보태고 싶어요."
         }
       ]
     },
@@ -149,7 +232,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "人の寝顔は極力目に入れたくありませんが……貴方の落ち着いた鼓動を感じると、心が安らぎます。"
+        },
+        {
+          "language": "英文",
+          "content": "I don't like watching people sleep, but... your heartbeat is steady, and that puts me at ease...Rest, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "누군가의 자는 얼굴을 보는 건 좋아하진 않지만…… 당신의 안정적인 심장 소리를 듣고 있으니, 저도 마음이 편안해지네요."
         }
       ]
     },
@@ -163,7 +254,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "……私はただの戦場清掃員に過ぎません。ルトナダ――ご用があれば、この名でお呼び立てください。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm just a girl who cleans up war zones. If you need me for anything, please call me by the name… Lutonada."
+        },
+        {
+          "language": "韩文",
+          "content": "……전 그저 전장의 청소부랍니다. 루토나다…… 필요하시다면 이 이름으로 불러 주세요."
         }
       ]
     },
@@ -177,7 +276,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "こういったやり方を用いれば、死傷者を減らせるのですね……"
+        },
+        {
+          "language": "英文",
+          "content": "So, this is one way to prevent people from dying..."
+        },
+        {
+          "language": "韩文",
+          "content": "이런 방법으로도 인명피해를 줄일 수 있군요……"
         }
       ]
     },
@@ -191,7 +298,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "「昇進」の意味するところは概ね理解しています――士官は兵士よりも丈夫なコートを身にまとい、より多くの高価なものを携えていますから……ドクター、感謝いたします。"
+        },
+        {
+          "language": "英文",
+          "content": "I've got a vague idea of what a 'promotion' is. A sergeant wears sturdier clothes than a footman, and carries more valuables... I appreciate it a lot, Doctor…"
+        },
+        {
+          "language": "韩文",
+          "content": "'승진'이 의미하는 바는 이해하고 있어요. 장교는 병사보다 더 두껍고 단단한 외투를 입고, 고가의 물건을 더 많이 가지고 있죠…… 박사님, 정말 고맙습니다."
         }
       ]
     },
@@ -205,7 +320,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "どうかご教示ください。此度の昇進は、私がこちらに居着くことを許され、貴方たちと歩み続けられるという意味なのでしょうか……"
+        },
+        {
+          "language": "英文",
+          "content": "Tell me, does this mean I get to keep on walking this path with you?"
+        },
+        {
+          "language": "韩文",
+          "content": "알려주세요. 이게 제가 이곳에 더 머물러도 된다는 의미…… 제가 이곳에서 당신들과 계속 나아가도 된다는 의미인가요……"
         }
       ]
     },
@@ -219,7 +342,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "貴方の言いつけを、しかと心に留めておきます……"
+        },
+        {
+          "language": "英文",
+          "content": "Your faith in me... I'll etch it into my heart..."
+        },
+        {
+          "language": "韩文",
+          "content": "당신의 당부는 꼭 마음에 새겨둘게요……"
         }
       ]
     },
@@ -233,7 +364,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "無意味な犠牲はこれ以上増えません……"
+        },
+        {
+          "language": "英文",
+          "content": "No more lives will be lost in vain…"
+        },
+        {
+          "language": "韩文",
+          "content": "더이상 무의미한 희생은 없을 거예요……"
         }
       ]
     },
@@ -247,7 +386,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "戦火が燃え広がる前に……"
+        },
+        {
+          "language": "英文",
+          "content": "Before the flames of war can spread…"
+        },
+        {
+          "language": "韩文",
+          "content": "전쟁의 불길이 더 번지기 전에……"
         }
       ]
     },
@@ -261,7 +408,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "涙をこぼしてしまわないように……"
+        },
+        {
+          "language": "英文",
+          "content": "No more tears..."
+        },
+        {
+          "language": "韩文",
+          "content": "눈물을 흘리지 마세요……"
         }
       ]
     },
@@ -275,7 +430,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "私に行かせてください。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll go."
+        },
+        {
+          "language": "韩文",
+          "content": "저를 보내주세요."
         }
       ]
     },
@@ -289,7 +452,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "私ならできます。"
+        },
+        {
+          "language": "英文",
+          "content": "I can do this."
+        },
+        {
+          "language": "韩文",
+          "content": "저 할 수 있어요."
         }
       ]
     },
@@ -303,7 +474,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "着きました。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm here."
+        },
+        {
+          "language": "韩文",
+          "content": "도착했어요."
         }
       ]
     },
@@ -317,7 +496,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "お望み通りに。"
+        },
+        {
+          "language": "英文",
+          "content": "As you say."
+        },
+        {
+          "language": "韩文",
+          "content": "당신이 바라는 대로."
         }
       ]
     },
@@ -331,7 +518,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "皆の命は私が守ります。"
+        },
+        {
+          "language": "英文",
+          "content": "Your lives are safe in my hands."
+        },
+        {
+          "language": "韩文",
+          "content": "모두의 목숨은 제가 지킬 거예요."
         }
       ]
     },
@@ -345,7 +540,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "貴方たちを守る砦となりましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll be your fortress."
+        },
+        {
+          "language": "韩文",
+          "content": "당신들을 지키는 보루가 될게요."
         }
       ]
     },
@@ -359,7 +562,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "私一人で受け止められますから。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll handle this on my own."
+        },
+        {
+          "language": "韩文",
+          "content": "저 혼자 감당할 수 있어요."
         }
       ]
     },
@@ -373,7 +584,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "最期の瞬間まで……"
+        },
+        {
+          "language": "英文",
+          "content": "Until my last breath…"
+        },
+        {
+          "language": "韩文",
+          "content": "최후의 순간까지……"
         }
       ]
     },
@@ -387,7 +606,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "このエリアの清掃は不要です。帰りましょう。今夜はきっといい夢が見られますよ。"
+        },
+        {
+          "language": "英文",
+          "content": "This place is not for any of you to clean up. Go home, and enjoy a good night's sleep."
+        },
+        {
+          "language": "韩文",
+          "content": "이 구역은 청소할 필요가 없네요. 돌아가죠. 오늘 밤은 분명 좋은 꿈을 꿀 수 있을 거예요."
         }
       ]
     },
@@ -401,7 +628,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "「争いを止めることは、追悼以上の弔いになる」……経験して初めて、この言葉の意味を理解できた気がします。"
+        },
+        {
+          "language": "英文",
+          "content": "Preventing conflict provides more solace than mourning.' ...These words only made sense after living through them firsthand."
+        },
+        {
+          "language": "韩文",
+          "content": "“분쟁을 멈추는 것이, 추모보다 더 좋은 위로다.” ……직접 겪고 나니 이 말의 진정한 의미를 이해할 수 있을 것 같아요."
         }
       ]
     },
@@ -415,7 +650,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "逃げおおせた方たちは、今後流れる血を見れば震え上がるのでしょう。ですので、これは案外悪い結果ではないのかもしれません。"
+        },
+        {
+          "language": "英文",
+          "content": "They might've gotten away, but they won't want to bleed again. Not a bad end to things."
+        },
+        {
+          "language": "韩文",
+          "content": "도망친 사람들은 이제부터 피를 흘리는 걸 두려워할 거예요. 그렇다면 이건 나쁘지 않은 결과일 수도 있겠네요."
         }
       ]
     },
@@ -429,7 +672,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "必ず皆を戦場から連れ帰ると約束いたします。"
+        },
+        {
+          "language": "英文",
+          "content": "I vow to lead everyone off the battlefield."
+        },
+        {
+          "language": "韩文",
+          "content": "제가 반드시 모두를 전장에서 벗어날 수 있게 해 드리겠다고 약속할게요."
         }
       ]
     },
@@ -443,7 +694,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "いいところですね。清潔で、静かで、まるで棺の中のようで……"
+        },
+        {
+          "language": "英文",
+          "content": "It's nice, clean, and quiet here... just like the inside of a coffin."
+        },
+        {
+          "language": "韩文",
+          "content": "여긴 참 좋은 곳이네요. 깨끗하고, 조용해요. 마치 관속처럼……"
         }
       ]
     },
@@ -457,7 +716,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "……私を呼んだのは貴方ですか？ここにいましたよ、先ほどからずっと。"
+        },
+        {
+          "language": "英文",
+          "content": "Did you need me? I'm here, as always."
+        },
+        {
+          "language": "韩文",
+          "content": "저를 부르시는 건가요? 저는 여기 있었어요, 아까부터 계속요."
         }
       ]
     },
@@ -471,7 +738,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ええ、申し訳ありません……もう二度とベッドの下で寝たりはしません。"
+        },
+        {
+          "language": "英文",
+          "content": "Ah, I'm sorry... I won't sleep under the bed again."
+        },
+        {
+          "language": "韩文",
+          "content": "아, 죄송합니다…… 이제 다시는 침대 밑에서 자거나 하지 않을게요."
         }
       ]
     },
@@ -485,7 +760,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
         }
       ]
     },
@@ -499,7 +782,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "今日は何かあったのですか？皆さん嬉しそうにされていますが……年越し？年に一度？そうなのですね。私はこれまで、毎日を最後の一日として過ごすような環境にありましたので、特別な一日をこうして祝うことができるなんて思いもしませんでした……"
+        },
+        {
+          "language": "英文",
+          "content": "Did something happen today? Everyone looks so happy… New Year's? A once-a-year occasion? Alright. I used to have to live every day as if it was my last. Never could've imagined that I'd be celebrating a special one."
+        },
+        {
+          "language": "韩文",
+          "content": "오늘 무슨 일 있나요? 모두 들떠 보이는데…… 새해요? 1년에 한 번? 그렇군요. 저는 지금까지 늘, 매일매일을 제 인생의 마지막 날이라고 생각하고 살아야 했어서…… 이렇게 특별한 하루를 기념하고 축하하게 될 줄은 생각도 못 했네요."
         }
       ]
     },
@@ -514,6 +805,36 @@
         {
           "language": "日文",
           "content": "どうかご自愛ください。"
+        },
+        {
+          "language": "英文",
+          "content": "Stay healthy, Doctor. Live a life."
+        },
+        {
+          "language": "韩文",
+          "content": "부디 몸조심하세요."
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "生是死的对立面，生意味着无限的可能......这么说来，生日的确是值得庆祝的。我有一个请求......能否将今天也定为我的生日？我想要和您一同分享这份喜悦。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
         }
       ]
     },
@@ -527,7 +848,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "お医者様によると、私の病状は安定しているとのことで、外出許可をいただくことができました。ドクター、私はもっと幅広い仕事に携わってみるべきでしょうか……死者のためでなく、生者のために。"
+        },
+        {
+          "language": "英文",
+          "content": "The medic says my condition has stabilized, and that I've been approved to travel outside. Doctor, do you think... I should try looking for other kinds of work? Not for the dead, but for the living."
+        },
+        {
+          "language": "韩文",
+          "content": "의사 선생님이 이제 병세가 안정돼서 외출해도 된다고 하셨어요. 박사님, 저 혹시 더 다양한 일을 해봐도 될까요…… 떠난 사람이 아니라 이 대지를 살아가고 있는 사람을 위한 일이요."
         }
       ]
     }

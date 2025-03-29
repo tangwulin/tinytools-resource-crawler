@@ -1,7 +1,11 @@
 {
   "name": "多萝西",
   "charaKey": "char_4048_doroth",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/7/7b/%E7%AB%8B%E7%BB%98_%E5%A4%9A%E8%90%9D%E8%A5%BF_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/1/1f/%E7%AB%8B%E7%BB%98_%E5%A4%9A%E8%90%9D%E8%A5%BF_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/e/ee/%E7%AB%8B%E7%BB%98_%E5%A4%9A%E8%90%9D%E8%A5%BF_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -915,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あけましておめでとう、ドクター。実はついさっき、開拓者の友達にプレゼントを送ったんだけど、あれっていつ頃届くのかしら……あの人たちが今も前へ進み続けていると思うと、心配な反面嬉しくもあるのよね。ああ、ほら、あなたへのプレゼントもあるわよ。だってあなたも、ひたむきに歩み続ける人だもの。ね？"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy New Year, Doctor. I just sent some gifts to my Pioneer friends. I wonder when they'll get them... Thinking of their hardships makes me worry and glad at the same time. Oh, I have a gift for you too. You're always moving forward, just like them."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받아, 박사. 방금 개척지에 있는 친구들한테 선물을 보냈는데, 언제쯤 도착할지 모르겠네…… 친구들이 지금도 계속 앞으로 나아가고 있다는 걸 생각하면, 걱정되면서도 기쁘기도 해. 맞다, 이건 박사한테 주는 선물이야. 박사도 계속해서 나아가는 중이잖아, 안 그래?"
         },
         {
           "language": "繁体中文",
@@ -958,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "无论是感染者还是非感染者，无论源石技艺天赋如何，我希望未来有一天，每个人都能成为自己想成为的那个人。很多人觉得这是痴人说梦，但是......博士，我知道，你和罗德岛会理解。"
+          "content": "咦，刚才那几个小干员把什么东西塞给了你......糟了，今天是几号？我果然忘了时间！博士，能顺路去一趟我的实验室吗？幸好，我把一年的礼物都准备好啦。"
         },
         {
           "language": "日文",
@@ -976,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "无论是感染者还是非感染者，无论源石技艺天赋如何，我希望未来有一天，每个人都能成为自己想成为的那个人。很多人觉得这是痴人说梦，但是......博士，我知道，你和罗德岛会理解。"
+        },
+        {
+          "language": "日文",
+          "content": "感染者も非感染者も、アーツの才があろうとなかろうと、いつの日か、誰もがなりたい自分になれるといいなって思ってるの。多くの人は、それを夢物語だって笑うけど……ドクター、あなたやロドスのみんなは、きっと理解してくれるわよね。"
+        },
+        {
+          "language": "英文",
+          "content": "I hope everyone will have the chance to find themselves, regardless of whether they're Infected or not, regardless of their talent for Arts. Many think this is just a pipe dream, but Doctor, I know... you and Rhodes Island will understand."
+        },
+        {
+          "language": "韩文",
+          "content": "감염자도 비감염자도, 언젠간 아츠의 재능과는 상관없이 모두 스스로가 바라는 모습이 될 수 있었으면 좋겠어. 대부분의 사람들은 헛된 꿈이라고 말하지만…… 박사, 당신과 로도스 아일랜드는 날 이해해 줄 거라고 믿고 있어."
         },
         {
           "language": "繁体中文",

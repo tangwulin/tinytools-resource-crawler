@@ -1,7 +1,12 @@
 {
   "name": "山",
   "charaKey": "char_264_f12yin",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/7/74/%E7%AB%8B%E7%BB%98_%E5%B1%B1_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/c/cf/%E7%AB%8B%E7%BB%98_%E5%B1%B1_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/4/4c/%E7%AB%8B%E7%BB%98_%E5%B1%B1_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/5/5b/%E7%AB%8B%E7%BB%98_%E5%B1%B1_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -911,15 +916,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "もう長いこと、新年というものを意識せずにいました。囚人たちが明日や未来に希望を抱かないのはおわかりでしょう。ですがここはロドスです、私もそろそろ自分を変えるべきかもしれませんね。新年おめでとう、ドクター。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "TBU"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해라는 것에 사실 별 감흥은 없습니다. 죄수들이 내일이나 미래 따위에 희망을 품지 않는다는 것은 잘 알고 계시겠죠. 하지만 여기는 로도스 아일랜드이니만큼, 저도 생각을 바꿔야 할지도 모르겠군요. 해피 뉴 이어, 박사님."
         },
         {
           "language": "繁体中文",
@@ -954,12 +959,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "真是个热闹的日子。按理说，矿石病就像是生命的枷锁，剥夺了人们的未来与自由。但是在罗德岛这片不算宽广的空间里，我在很多人的眼中都看到了希望。这让我对自己的未来，也有了些新的思考。"
+          "content": "博士，生日快乐。很遗憾，无论是在曼斯菲尔德，还是更早些时候的哥伦比亚，我都能以更完全的准备来为您庆生。现在，我只能邀请您共饮一杯。我为此也尽量做了些准备，您愿意赏光吗？"
         },
         {
           "language": "日文",
@@ -972,6 +977,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真是个热闹的日子。按理说，矿石病就像是生命的枷锁，剥夺了人们的未来与自由。但是在罗德岛这片不算宽广的空间里，我在很多人的眼中都看到了希望。这让我对自己的未来，也有了些新的思考。"
+        },
+        {
+          "language": "日文",
+          "content": "本当に賑やかな日ですね。常識からすると鉱石病は人生における枷のようなもので、人々から未来と自由を奪います。しかし、このあまり広いとは言えないロドスの艦内で、私は多くの目に希望を見出しました。おかげで自分の未来についても、新しい考えが生まれています。"
+        },
+        {
+          "language": "英文",
+          "content": "TBU"
+        },
+        {
+          "language": "韩文",
+          "content": "정말 떠들썩한 날이군요. 원래라면 광석병이 마치 족쇄마냥 사람들의 미래와 자유를 앗아갔을 겁니다. 그러나 이곳 로도스 아일랜드, 그리 넓지 않은 이 공간에서 저는 많은 사람들의 눈에 담긴 희망을 보았습니다. 이건 제 미래에 대해, 새로운 생각을 갖게 하는 계기가 되었습니다."
         },
         {
           "language": "繁体中文",

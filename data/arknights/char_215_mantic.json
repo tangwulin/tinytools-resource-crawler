@@ -96,7 +96,7 @@
         },
         {
           "language": "韩文",
-          "content": "내 능력은… 특정 환경에서 상대에게 들키지 않는 거야……"
+          "content": "내 능력은…… 특정 환경에서 상대에게 들키지 않는 거야……"
         },
         {
           "language": "繁体中文",
@@ -122,7 +122,7 @@
         },
         {
           "language": "韩文",
-          "content": "나…… 줄곧 친구가 없었어… 응… 내가 있는지 눈치도 못 채는 친구 같은 거… 필요 없겠지…"
+          "content": "나…… 줄곧 친구가 없었어…… 응…… 곁에 있는지 눈치채기도 어려운 사람을…… 누가 친구로 원하겠어……"
         },
         {
           "language": "繁体中文",
@@ -200,7 +200,7 @@
         },
         {
           "language": "韩文",
-          "content": "가슴에 달고 있는 이 ID 태그는, 주운 거야… 사람이 존재하고 있었다는 증거잖아, 이런 거 모으는 거… 좋아해…"
+          "content": "가슴에 달고 있는 이 ID 태그는, 주운 거야…… 사람이 존재하고 있었다는 증거잖아, 이런 거 모으는 거…… 좋아해……"
         },
         {
           "language": "繁体中文",
@@ -226,7 +226,7 @@
         },
         {
           "language": "韩文",
-          "content": "나이트메어라는 사람, 나한테 못 오게 해줘! 그 사람은, 위험해… 내 능력이 통하지 않아. 어째서……"
+          "content": "나이트메어라는 사람, 나한테 못 오게 해줘! 그 사람은, 위험해…… 내 능력이 통하지 않아. 어째서……"
         },
         {
           "language": "繁体中文",
@@ -252,7 +252,7 @@
         },
         {
           "language": "韩文",
-          "content": "나… 사실은… 병을 고치고 싶어…… 그치만, 고쳐지면, 능력이 사라져…… 그래도 나, 가치가 있을까……?"
+          "content": "나…… 사실은…… 병을 고치고 싶어…… 그치만, 고쳐지면, 능력이 사라져…… 그래도 나, 가치가 있을까……?"
         },
         {
           "language": "繁体中文",
@@ -920,15 +920,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あけまして、おめでとう……この一年、わたしに気づく人、増えた……わたし、少し怖い。でも、優しい人も多い……だから、頑張って、慣れるね……"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy New Year... More people have  noticed me... in the last year... I'm a little scared, but... a lot of them are very warm, and kind... So, I'm going to try as hard as I can... to adapt..."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받아…… 지난 한 해 동안 날 알아차려 주는 사람들이, 많아졌어…… 나, 조금 무서워…… 그래도 착한 사람도, 많아…… 그러니까, 나도 노력해볼게, 익숙해지도록……"
         },
         {
           "language": "繁体中文",
@@ -963,12 +963,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "失去同伴的感觉，我再也不想体会了......我一定会拼上性命，来保护大家。哪怕是在大家看不到的地方......"
+          "content": "把礼物放在桌子上，然后就离开吧......博士，生日快乐......呀！您、您注意到我了吗......博士，祝您生日快乐。"
         },
         {
           "language": "日文",
@@ -981,6 +981,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "失去同伴的感觉，我再也不想体会了......我一定会拼上性命，来保护大家。哪怕是在大家看不到的地方......"
+        },
+        {
+          "language": "日文",
+          "content": "仲間を失う感じは、もう二度と味わいたくない……命がけで、みんなを守りたい。みんなからは、見えない場所でもいい……"
+        },
+        {
+          "language": "英文",
+          "content": "I don't want to go through the experience... of losing a friend again... I will defend everyone, with my own life. Even if it's somewhere none of them will see me..."
+        },
+        {
+          "language": "韩文",
+          "content": "동료를 잃는 기분, 다시는 느끼고 싶지 않아…… 난 내 목숨을 걸어서라도, 모두를 지킬 거야. 설령 보이지 않는 곳에서라고 해도……"
         },
         {
           "language": "繁体中文",

@@ -120,7 +120,7 @@
         },
         {
           "language": "韩文",
-          "content": "…'도역유도'…… 도둑도 자신들만의 규칙이 있다…… 그럴지도 모르지."
+          "content": "……'도역유도'…… 도둑도 자신들만의 규칙이 있다…… 그럴지도 모르지."
         },
         {
           "language": "繁体中文",
@@ -250,7 +250,7 @@
         },
         {
           "language": "韩文",
-          "content": "새롭게 살 곳을 마련해 준 건 고마워. 근데… 혹시, 본 건 아니지? 내 비.밀.을?"
+          "content": "새롭게 살 곳을 마련해 준 건 고마워. 근데…… 혹시, 본 건 아니지? 내 비.밀.을?"
         },
         {
           "language": "繁体中文",
@@ -298,7 +298,7 @@
         },
         {
           "language": "英文",
-          "content": "Hello, I'm Haze. I like relaxing work environments,  and an employer who knows better than to bother me with too many questions."
+          "content": "Hello, I'm Haze. I like relaxing work environments, and an employer who knows better than to bother me with too many questions."
         },
         {
           "language": "韩文",
@@ -380,7 +380,7 @@
         },
         {
           "language": "韩文",
-          "content": "오래된 족쇄를 이제야 겨우 풀었나 싶었는데, 다시 새로운 족쇄가 채워지다니… 이것도 도둑의 숙명이란 걸까?"
+          "content": "오래된 족쇄를 이제야 겨우 풀었나 싶었는데, 다시 새로운 족쇄가 채워지다니…… 이것도 도둑의 숙명이란 걸까?"
         },
         {
           "language": "繁体中文",
@@ -458,7 +458,7 @@
         },
         {
           "language": "韩文",
-          "content": "흐냥~ 이건… 날 미치게 하는… 자유의 냄새야!"
+          "content": "흐냥~ 이건…… 날 미치게 하는…… 자유의 냄새야!"
         },
         {
           "language": "繁体中文",
@@ -796,7 +796,7 @@
         },
         {
           "language": "韩文",
-          "content": "도망치는 건 익숙하지만… 이번 건 좀 그렇네…"
+          "content": "도망치는 건 익숙하지만…… 이번 건 좀 그렇네……"
         },
         {
           "language": "繁体中文",
@@ -918,15 +918,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "新年？ネコには「年」なんて単位は長すぎるかなぁ。だって、その日以外のことを考えてたら楽しくないでしょ？でも今日は確かにお昼寝にぴったりの日だねぇ。ドクター、一緒にのんびり過ごそうよぉ～。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "New year? A year is such a long time for a kitty. And happiness won't come knocking if one worries about more than just today. Speaking of which, today is really nice for napping. Doctor, how about we just spend this day with some lazy, cozy naps."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해? 고양이에게 '한 해'라는 시간은 너무 길어. 오늘 벌어질 일을 생각하기도 바쁜데, 앞으로 일어날 일까지 마음에 담아두고 어떻게 즐겁게 지낼 수 있겠어? 그나저나 나른한 게 낮잠 자기 좋은 날인 것 같네. 박사, 오늘은 나랑 같이 느긋하게 보내는 게 어때?"
         },
         {
           "language": "繁体中文",
@@ -961,12 +961,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "猫猫会光顾有食物的花园，但如果想要用绳索留下猫猫，它就一定会逃走。当然，猫猫心情好的时候，也是会带回一些东西来报答的。明白了吗？博士，一定要让罗德岛成为大家都喜欢的花园哦。"
+          "content": "生日快乐哦~呜喵？生日祝福还不够，还想要从猫猫这里得到什么礼物吗？真是贪心呢。那么，想要什么？给你猜个谜语，还是允许你摸摸耳朵呢？"
         },
         {
           "language": "日文",
@@ -979,6 +979,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "猫猫会光顾有食物的花园，但如果想要用绳索留下猫猫，它就一定会逃走。当然，猫猫心情好的时候，也是会带回一些东西来报答的。明白了吗？博士，一定要让罗德岛成为大家都喜欢的花园哦。"
+        },
+        {
+          "language": "日文",
+          "content": "ネコってご馳走のあるお庭があれば遊びに行くけど、ロープで引き止めようとすると逃げ出しちゃうんだ。もちろん、機嫌が良い時は感謝の印にお土産も持ってきてくれるよ。これで分かったかなぁ？ドクター、ロドスをみんなから愛されるお庭にしなきゃってことだよぉ。"
+        },
+        {
+          "language": "英文",
+          "content": "A kitty visits gardens that provide food. But if someone tries to lock the kitty up, it will surely run away. When the kitty's in a good mood, however, it can bring back some tasty stuff as thanks. Know what I mean, Doctor? Be sure to make Rhodes Island a garden that everyone likes."
+        },
+        {
+          "language": "韩文",
+          "content": "고양이는 먹이가 있는 정원이라면 자유롭게 드나들지만, 만약 목줄을 채워 묶어두려고 한다면 달아나고 말 거야. 물론 고양이도 기분이 좋으면 선물을 가져올지도 모르지만~ 이해했어, 박사? 로도스 아일랜드를 꼭 모두가 좋아할 만한 아름다운 정원으로 만들어줘."
         },
         {
           "language": "繁体中文",

@@ -122,7 +122,7 @@
         },
         {
           "language": "韩文",
-          "content": "새 장비란 게 참 좋은 물건이제. 내같은 사람은 고마 눈 깜짝할 새에 사삔다니까. 이게 바로 '과소비의 늪'이란 거구만…"
+          "content": "새 장비란 게 참 좋은 물건이제. 내같은 사람은 고마 눈 깜짝할 새에 사삔다니까. 이게 바로 '과소비의 늪'이란 거구만……"
         },
         {
           "language": "繁体中文",
@@ -278,7 +278,7 @@
         },
         {
           "language": "韩文",
-          "content": "아이고야… 안 되겠는데, 이번 달도 개털 되삣네…"
+          "content": "아이고야…… 안 되겠는데, 이번 달도 개털 되삣네……"
         },
         {
           "language": "繁体中文",
@@ -304,7 +304,7 @@
         },
         {
           "language": "韩文",
-          "content": "내는 크루아상, 사장님은 운이 엄청 좋구마~ 내처럼 우수한 사람은 좀처럼 없다 아이가. 튼튼하지 끈기 있지… 덤으로 요금은 20% 깎아주께!"
+          "content": "내는 크루아상, 사장님은 운이 엄청 좋구마~ 내처럼 우수한 사람은 좀처럼 없다 아이가. 튼튼하지 끈기 있지…… 덤으로 요금은 20% 깎아주께!"
         },
         {
           "language": "繁体中文",
@@ -772,7 +772,7 @@
         },
         {
           "language": "韩文",
-          "content": "아이고야, 노치뿟네. 내 평판 떨어지겠구만…"
+          "content": "아이고야, 노치뿟네. 내 평판 떨어지겠구만……"
         },
         {
           "language": "繁体中文",
@@ -798,7 +798,7 @@
         },
         {
           "language": "韩文",
-          "content": "당했다… 아이고~ 져삐리가, 지갑까지 이라뿟네… 우으으…"
+          "content": "당했다…… 아이고~ 져삐리가, 지갑까지 이라뿟네…… 우으으……"
         },
         {
           "language": "繁体中文",
@@ -920,15 +920,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "旦那さん、あけましておめでとう！今年（こんねん）もペンギン急便、贔屓したってな！ウチのハンマーと盾はいつだってあんたはんがたの荷物守るためにスタンバイしとるで！へへっ、ウチのこと信頼してくれはるんやったら、ボスなんか飛ばして直接ウチあてに仕事を回してくれたってええねんで～！"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy New Year, Baws! The Penguin Logistics girls're countin' on yer business. And my hammer and shield'll keep yer goodies safe wherever they need to go. Hehe, if'n ya trust me enough, feel free to cut out Emperor and send the job straight to me!"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "사장님, 새해 복 많이 받으이소! 펭귄 로지스틱스의 올해 사업도 잘 부탁합니데이! 내 해머랑 방패는 영원히 사장님의 화물을 보호할 낍니다! 하하, 사장님도 내를 믿는다면, 엠퍼러는 건너뛰고 내한테 바로 임무를 주는 것도 환영한데이!"
         },
         {
           "language": "繁体中文",
@@ -963,12 +963,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "面对数不清的麻烦，顾虑太多也没法做得更好。做事情更需要一往无前的气势而非精良的装备！在这方面罗德岛和企鹅物流倒是很像，所以我们的合作才能这么顺利嘛！老板，祝我们继续合作愉快！"
+          "content": "嘘！博士，趁现在大家都还没醒，快换好衣服。德克萨斯的车已经在等着了，能天使的香槟和橡皮弹头管够。让我们去最近的城市里大闹一场吧！放心，在策划生日派对方面，我可是专业的！"
         },
         {
           "language": "日文",
@@ -981,6 +981,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "面对数不清的麻烦，顾虑太多也没法做得更好。做事情更需要一往无前的气势而非精良的装备！在这方面罗德岛和企鹅物流倒是很像，所以我们的合作才能这么顺利嘛！老板，祝我们继续合作愉快！"
+        },
+        {
+          "language": "日文",
+          "content": "数え切れんトラブルに直面した時、あれこれ悩んだってもっとうまくやれるとも限らんし、肝心な時は優れた装備よか真っ直ぐ突き進む度胸のほうがよっぽど大事やで！そこんとこはロドスもペンギン急便も似とるさかい、ウチらもこうして息ぴったりに連携が取れるんやろうな。ほな旦那さん、今後ともよろしゅう頼みます！"
+        },
+        {
+          "language": "英文",
+          "content": "Even yer most carefully-laid plan ain't gonna carry you outta the swamp when yer all stuck in it. That's when ya come lookin' fer the unstoppable force! Hold the shiny equipment! That's the reason Rhodes Island n' Penguin Logistics're like two peas in a pod! Here's to keepin' that unstoppable force rollin', Baws!"
+        },
+        {
+          "language": "韩文",
+          "content": "억수로 많은 어려움이랑 맞닥뜨렸을 때는 말이제, 너무 쎄빠지게 고민해 봤자 더 잘할 수 있는 것도 아이다. 일할 때 필요한 건 뛰어난 장비가 아니라 용감하게 앞으로 나아가는 기세 아니겠나! 이런 점에서 로도스 아일랜드하고 펭귄 로지스틱스는 많이 닮은 것 같네. 그래서 우리의 협력이 이렇게 순조로운 거겠지! 사장님, 그럼 앞으로도 잘 부탁합니데이!"
         },
         {
           "language": "繁体中文",

@@ -1,7 +1,12 @@
 {
   "name": "令",
   "charaKey": "char_2023_ling",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/d/df/%E7%AB%8B%E7%BB%98_%E4%BB%A4_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/a/a3/%E7%AB%8B%E7%BB%98_%E4%BB%A4_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/5/5e/%E7%AB%8B%E7%BB%98_%E4%BB%A4_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/7/70/%E7%AB%8B%E7%BB%98_%E4%BB%A4_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -247,7 +252,7 @@
         },
         {
           "language": "韩文",
-          "content": "그대는 자신을 위한 시를 내게 읊게 하고 싶다는 생각은 안 해? 응? 뭐, 그냥 흥이 올라서. 붓을 휘두를 것도 없고, 기록하는 것도 풍류가 없지. 앗 잠깐, 혹시 노래로 한다면… 그것도 재미있겠네! 그렇지만 한 곡 추려면 준비가 필요해. 좋아! 그대는 앉아 있어, 금방 돌아올게."
+          "content": "그대는 자신을 위한 시를 내게 읊게 하고 싶다는 생각은 안 해? 응? 뭐, 그냥 흥이 올라서. 붓을 휘두를 것도 없고, 기록하는 것도 풍류가 없지. 앗 잠깐, 혹시 노래로 한다면…… 그것도 재미있겠네! 그렇지만 한 곡 추려면 준비가 필요해. 좋아! 그대는 앉아 있어, 금방 돌아올게."
         },
         {
           "language": "繁体中文",
@@ -281,7 +286,7 @@
         },
         {
           "language": "韩文",
-          "content": "내가 취했다고? 훗… 나는 아직 하늘이 열리며 달이 밝고, 바다가 달리며 얼음이 흩어지는 걸 보지 못했어. 세상의 인간이 모두 술에서 깨어나는 것을 기다리는데, 이제 나뭇가지에 새싹 하나 피어올랐을 뿐이지. 마음 놓고 취하기엔 시기상조이거늘… 그대여, 어찌 내가 취했다고 할 수 있겠어?"
+          "content": "내가 취했다고? 훗…… 나는 아직 하늘이 열리며 달이 밝고, 바다가 달리며 얼음이 흩어지는 걸 보지 못했어. 세상의 인간이 모두 술에서 깨어나는 것을 기다리는데, 이제 나뭇가지에 새싹 하나 피어올랐을 뿐이지. 마음 놓고 취하기엔 시기상조이거늘…… 그대여, 어찌 내가 취했다고 할 수 있겠어?"
         },
         {
           "language": "繁体中文",
@@ -383,7 +388,7 @@
         },
         {
           "language": "韩文",
-          "content": "링이라 불러 줘. 우리 성가신 동생 둘이 신세 지고 있는 것 같은데, 폐를 끼치고 있지는 않지? 응? 나를 본 적이 있어? 아아… 꿈속에서일지도 모르겠네."
+          "content": "링이라 불러 줘. 우리 성가신 동생 둘이 신세 지고 있는 것 같은데, 폐를 끼치고 있지는 않지? 응? 나를 본 적이 있어? 아아…… 꿈속에서일지도 모르겠네."
         },
         {
           "language": "繁体中文",
@@ -451,7 +456,7 @@
         },
         {
           "language": "韩文",
-          "content": "음… '소장이 명을 받들겠습니다'라고 해야 하나? 하핫, 농담이야. 진지하게 받아들이지 마. 단지 그대가 진짜 장수로 나서는 거라면, 내가 다시 책사로 보좌하는 것도 나쁘지는 않을 것 같아."
+          "content": "음…… '소장이 명을 받들겠습니다'라고 해야 하나? 하핫, 농담이야. 진지하게 받아들이지 마. 단지 그대가 진짜 장수로 나서는 거라면, 내가 다시 책사로 보좌하는 것도 나쁘지는 않을 것 같아."
         },
         {
           "language": "繁体中文",
@@ -961,7 +966,7 @@
         },
         {
           "language": "韩文",
-          "content": "잔이 가득 차도, 뜻이 전부 이뤄진대도, 그대는 교만하지 말지어다. 그래도… 칭찬할 건 칭찬해야겠지. 잘했어."
+          "content": "잔이 가득 차도, 뜻이 전부 이뤄진대도, 그대는 교만하지 말지어다. 그래도…… 칭찬할 건 칭찬해야겠지. 잘했어."
         },
         {
           "language": "繁体中文",
@@ -995,7 +1000,7 @@
         },
         {
           "language": "韩文",
-          "content": "음… 가끔 이런 일도 있는 거지. 자신을 너무 책망하지 마. 나머지는 내게 맡겨."
+          "content": "음…… 가끔 이런 일도 있는 거지. 자신을 너무 책망하지 마. 나머지는 내게 맡겨."
         },
         {
           "language": "繁体中文",
@@ -1063,7 +1068,7 @@
         },
         {
           "language": "韩文",
-          "content": "로도스 아일랜드 안은… 그립다고 해야 할지, 흥미롭다고 해야 할지 고민 중이야."
+          "content": "로도스 아일랜드 안은…… 그립다고 해야 할지, 흥미롭다고 해야 할지 고민 중이야."
         },
         {
           "language": "繁体中文",
@@ -1191,15 +1196,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ニェンちゃんの祭り好きはいいとして、シーちゃんも澄ました顔して、自分の絵の中の造物を子供たちと遊ばせにやってるなんてね。ふふ、よくもまあ愉しんでいることよ。かような人の情を持ち合わせているなら、私たち兄弟姉妹（きょうだい）が各々大地にとぐろ巻いているのも、趣があるというものだ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Nian can have her boisterous way. I see Dusk, for all her reticence, has brought out her scroll's creation to join the children in play. Heheh, what troublemakers they are. I will say it charms me, that we siblings tint in this human nature as we live each to our own."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "니엔이 시끌벅적한 걸 좋아하는 건 그렇다고 쳐도, 시가 저렇게 말도 없이 그림 속 창조물들을 가지고 아이들과 놀아줄 줄은 몰랐네. 하하, 아무리 그렇다지만 정말 소란스러운걸. 이 역시 인지상정이라면 우리 형제자매가 각자 이렇게 지내는 것 또한 나름 사는 재미가 있는 셈이겠구나."
         },
         {
           "language": "繁体中文",
@@ -1250,12 +1255,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "没错，墙上那些是我写的，放在你们宴会的酒席间，倒也不坏。你问为何而写？有什么值得写？只是酒过三巡，兴致起了。这样说来，你来得正好，罗德岛的事我还想多问问你。"
+          "content": "生日？方生方死，无非是大梦一场......但其间若是自在得意，便值得我敬你一杯。虽非故人入梦，只是我与你在此对坐畅谈，也不会觉得有什么可惜。"
         },
         {
           "language": "日文",
@@ -1268,6 +1273,40 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        },
+        {
+          "language": "中文-方言",
+          "content": "生儿？方生方死，无非是大梦一场......但当中若是自在得意，便值得我敬你一杯。虽非故人入梦，就是我与你在此对坐畅谈，也不会觉得有啥可惜的。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没错，墙上那些是我写的，放在你们宴会的酒席间，倒也不坏。你问为何而写？有什么值得写？只是酒过三巡，兴致起了。这样说来，你来得正好，罗德岛的事我还想多问问你。"
+        },
+        {
+          "language": "日文",
+          "content": "いかにも。壁のあれは私の筆跡（て）だよ。貴君らの酒宴に添えるのも悪くなかろうよ。何がために筆をとったのか、書くに値するものとは何かって？いいや、酒がいい具合に回って、興に乗っただけさ。それにしても貴君、良（よ）い時に来たね、渡りに船とはこのことだ。ロドスについて聞きたいことが山とあるんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Yea, they are my writings over the walls. A fair accompaniment to your feastful merrymaking, I would tout. Why would I write, you ask? And what would be writ-worthy? Nay, it is but that the drinks flow free and spirits run high. To speak of which, your arrival is just so. I would still essay to hear from you—of much of Rhodes Island."
+        },
+        {
+          "language": "韩文",
+          "content": "맞아, 벽에 있는 것들 내가 쓴 거야. 그대들의 연회장 안에 두는 것도 나쁘지 않을 것 같아서. 무슨 쓸만한 게 있어서 썼냐고? 그저 술이 오고 감에 흥취가 올랐을 뿐이야. 그러고 보니 그대 마침 잘 왔어. 로도스 아일랜드에 대해서 더 물어보고 싶은 게 있던 참이었거든."
         },
         {
           "language": "繁体中文",

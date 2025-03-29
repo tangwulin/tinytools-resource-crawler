@@ -1,7 +1,10 @@
 {
   "name": "阿斯卡纶",
   "charaKey": "char_4132_ascln",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/c/cc/%E7%AB%8B%E7%BB%98_%E9%98%BF%E6%96%AF%E5%8D%A1%E7%BA%B6_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/f/f9/%E7%AB%8B%E7%BB%98_%E9%98%BF%E6%96%AF%E5%8D%A1%E7%BA%B6_2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -10,6 +13,14 @@
     {
       "language": "中文-普通话",
       "base": "voice_cn/char_4132_ascln"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4132_ascln"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_4132_ascln"
     }
   ],
   "voiceList": [
@@ -23,7 +34,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ジロジロ見るな、私だ。異例の事態を鑑みて、助手のシフトを入れ替えさせてもらった。そう硬くなるな、すぐに慣れる。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't bother checking, it's me. We've got a situation, so I swapped schedules with your other assistant. Don't worry, you'll get used to this."
+        },
+        {
+          "language": "韩文",
+          "content": "그렇게 볼 필요 없어, 나다. 계획이 바뀌어 내가 너의 어시스턴트 순서를 교체했어. 곧 익숙해질 테니 그렇게 긴장하지 말도록."
         }
       ]
     },
@@ -37,7 +56,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "人事部の某責任者が私に休暇を取れと？親切心のつもりだろうが、彼女に休む気がないのならこちらにも休暇は不要だ。彼女の仕事の後始末もS.W.E.E.P.の存在意義の一つである以上、今のままで構わない。S.W.E.E.P.の設立趣旨が知りたいだと？お前に教える義理はない。"
+        },
+        {
+          "language": "英文",
+          "content": "That HR op wants me to take a break? Hmph, I know she means well, but I won't rest until she's willing to take a break herself. One of S.W.E.E.P.'s functions is to take care of her work while she's out. We might as well keep things as they are. What's S.W.E.E.P. established for? You don't need to know."
+        },
+        {
+          "language": "韩文",
+          "content": "인사부의 그 담당자가 나보고 휴가를 가라고 했다면서? 좋은 의도야 알겠지만, 본인 먼저 휴가를 갈 생각이 없다면 나도 쉬지 않을 거라고 전해 줘. 그녀의 업무 뒤처리도 S.W.E.E.P.의 존재 의미 중 하나거든. 난 이대로도 상관없어. S.W.E.E.P.의 설립 취지를 알고 싶다고? 그건 네가 알 필요 없다."
         }
       ]
     },
@@ -51,7 +78,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "私を理解しようなど、過去のお前ですら成せなかったことに労力を費やすな。お前たちの視界から姿を消すのは私自身の意志だ。この身に課せられた使命は果たされ、ロドスの未来はもはや私の贅言を要しないのだからな。だが、お前たちが私を必要とすれば、再会の時は自ずと訪れる。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't trouble yourself trying to figure me out. Even the old you couldn't manage it. Remember, it's my own choice to vanish from your sight. With my duty fulfilled, I won't be interfering with Rhodes Island's future plan. But when you need me, I'll be there."
+        },
+        {
+          "language": "韩文",
+          "content": "나를 이해하려고 노력할 필요 없어. 그건 과거의 너도 못 해낸 일이니까. 너희의 시야에서 사라지는 건 나의 의지였어. 내게 부여된 사명을 완수했으니 로도스 아일랜드의 미래에 대해선 내가 굳이 의견을 보탤 필요는 없지. 하지만 너희가 나를 필요로 할 땐 반드시 너희 앞에 나타날 거다."
         }
       ]
     },
@@ -65,7 +100,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "「記憶喪失」というのはつくづく体のいい口実だな。その真偽はお前の中にしかないのだから。しかし、お前がロドスをここまで導いたという事実がある以上、いずれにせよお前を勘繰りはしない。では、お前の行く末を見守るとしよう、ドクター。かつてのようにな。"
+        },
+        {
+          "language": "英文",
+          "content": "Amnesia is a convenient excuse. You're the only one who knows if you are faking it or not. But since you've taken Rhodes Island this far, true or not, I won't question you. I'm watching you, Doctor, same as ever."
+        },
+        {
+          "language": "韩文",
+          "content": "기억 상실이란 정말 좋은 핑계지. 본인 말고는 그것의 진위를 알 수 없으니 말이야. 하지만 네가 로도스 아일랜드를 여기까지 이끌어 온 것도 사실이니, 난 너를 의심하지 않을 거야. 너의 앞날을 지켜볼게, 박사. 예전처럼 언제나 그랬듯이."
         }
       ]
     },
@@ -79,7 +122,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "我々とテレシスが相まみえることこそが、私にとっての幕引きそのものだ。ロドスの未来？仮定の話に意味はない。W、ヘドリー、クロージャ……バベルの執念を目にした者たちが、今再びロドスの下に集った――ドクター、彼らが未来そのものだ。"
+        },
+        {
+          "language": "英文",
+          "content": "When we face Theresis, that will be our final curtain call. What about the future? No point in playing with hypotheticals. W, Hoederer, Closure... Those who witnessed Babel's struggle still stand united with Rhodes Island. They are the future."
+        },
+        {
+          "language": "韩文",
+          "content": "우리가 테레시스와 마주하게 되는 그날, 비로소 제대로 마무리지을 수 있을 테지. 로도스 아일랜드의 미래? 가설은 아무 의미 없다. W, 외드레르, 클로저…… 바벨의 몸부림을 지켜본 사람들이 여전히 로도스 아일랜드에 있는 이상…… 그들이 바로 미래가 되어줄 거야, 박사."
         }
       ]
     },
@@ -93,7 +144,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "殿下の話になると、誰もが「彼女はサルカズには決して手の届かない未来だ」と口を揃える。しかし私からすれば、彼女はスカートの裾を踏んで転ぶこともあるし、会議をわざとすっぽかすこともあれば、抱擁を求めてくることだってある、ただの殿下に過ぎない。あの「テレジア」を踏み越えることができるかだと？私は躊躇しない、とだけ言っておこう。"
+        },
+        {
+          "language": "英文",
+          "content": "When people talk about Her Highness, they treat her like the unattainable future of the Sarkaz. But to me, she is who she is. She trips over her dress, she intentionally 'forgets' certain meetings, she gives me hugs. Pass over <i>that</i> 'Theresa'? I wouldn't hesitate to do so."
+        },
+        {
+          "language": "韩文",
+          "content": "사람들이 전하에 대해 이야기할 때마다, 모두들 “그녀는 살카즈가 닿을 수 없는 미래”라고 입을 모으곤 했다. 하지만 내게 전하는 그저 전하일 뿐이었다. 그녀는 치맛자락을 밟고 넘어지기도, 일부러 회의에 가지 않기도 했고, 날 안아주기도 하셨어. 그 '테레시아'를 뛰어 넘는다라? 나는 망설이지 않을 거다."
         }
       ]
     },
@@ -107,7 +166,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "荒野を彷徨っていた頃は、闇夜を恐れたことなどなかった。むしろ、つま先に噛みついてくるサンドビーストの方が恐ろしかったくらいだ――今でも奴らに出会うと、身体がこわばる程度にはな。良いも悪いもない、お前に知られたところでどうということはない。"
+        },
+        {
+          "language": "英文",
+          "content": "Back when I was wandering the wastes, I didn't fear the dark of night. It scared me less than the sandbeasts biting my toes. Even now, seeing them still makes me feel kinda nervous. It's fine, no harm in letting you know."
+        },
+        {
+          "language": "韩文",
+          "content": "황야를 헤매던 시절, 어두운 밤은 두렵지 않았어. 오히려 내 발을 물던 샌드비스트가 더 무서웠지…… 지금도 그 녀석들을 마주치면 저절로 몸이 긴장하고는 해. 이런 걸 알려줘도 괜찮냐고? 별거 아니니까, 네가 알아도 상관없어."
         }
       ]
     },
@@ -121,7 +188,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "傭兵、スパイ、貴族、囚人……ロドスを取り巻く環境は、バベル時代とは比べものにならないほどに複雑化している。当然、それに伴ってより多くの脅威に晒される以上、お前の憂慮はもっともだ。過去のお前ならどうしていたかだと？関係ない。今のお前は、自分のやるべきことをはっきりと理解しているのだからな。"
+        },
+        {
+          "language": "英文",
+          "content": "Mercenaries, spies, nobles, convicts... Rhodes Island these days is far more complex than back in the Babel times, and the threats are greater too. It's natural for you to worry. How would the old you have handled it? Doesn't matter. This you knows what to do."
+        },
+        {
+          "language": "韩文",
+          "content": "용병, 스파이, 귀족, 죄수…… 지금의 로도스 아일랜드가 마주한 환경은 바벨 때와는 비교도 할 수 없을 정도로 복잡하다. 더 큰 위협에 노출되어 있으니, 네가 우려하는 것도 당연하지. 과거의 너라면 어떻게 처리했을 거냐고? 그건 중요하지 않아. 지금의 너도 네가 뭘 해야 하는지를 잘 알고 있으니까."
         }
       ]
     },
@@ -135,7 +210,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "S.W.E.E.P.はチェルノボーグでの救出作戦には一切意見していない。お前の救出を決定したのは、ケルシーとエリートオペレーターたちの総意だ。あの場で即刻お前を粛正しなかったのは、観察のための猶予期間を与えたまでのこと。今にして思えば、あの判断は間違っていなかったと言えるだろう。これからも失望させてくれるなよ。"
+        },
+        {
+          "language": "英文",
+          "content": "S.W.E.E.P. never expressed any opinion on the Chernobog operation. Saving you was a unanimous decision by Dr. Kal'tsit and the elite operators. I didn't kill you back then, because I needed time to observe you. In view of the present, my judgment seems correct. Doctor, don't disappoint me."
+        },
+        {
+          "language": "韩文",
+          "content": "S.W.E.E.P.는 체르노보그 구출 작전에서 아무런 의견을 내지 않았어. 너를 구출하기로 한 건 오로지 닥터 켈시와 정예 오퍼레이터들의 결정이었다. 널 그 자리에서 즉시 처리해버리지 않은 건 아직 더 지켜볼 필요가 있기 때문이었어. 지금 보니 내 판단은 틀리지 않았던 것 같군. 앞으로도 날 실망시키지 말라고."
         }
       ]
     },
@@ -149,7 +232,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "運命、か。私はそれを追い立て、向き合い、最後にはくびり殺した。お前もそうだろう。"
+        },
+        {
+          "language": "英文",
+          "content": "Fate. I've pursued it, confronted it, and finally strangled it to death. You've done the same."
+        },
+        {
+          "language": "韩文",
+          "content": "운명이라. 쫓아도 봤고 직접 마주하기도 했다. 마지막에는 밟아버렸지만. 너도 마찬가지야."
         }
       ]
     },
@@ -163,7 +254,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "アスカロン、この名一つだ。本名としてでも、コードネームとしてでも、好きに書いておけばいい。だが私のプロファイルを書き足すつもりなら、ケルシーに一声掛けてからにしろ。"
+        },
+        {
+          "language": "英文",
+          "content": "Ascalon, it's my only name. Call it a code name if you like. But if you want to update my file, you'll have to speak to Dr. Kal'tsit first."
+        },
+        {
+          "language": "韩文",
+          "content": "아스카론, 나에겐 오직 이 호칭뿐이다. 이름이든, 코드 네임이든, 네 마음대로 쓰면 돼. 하지만 내 파일을 업데이트하고 싶은 거라면 먼저 닥터 켈시에게 연락하도록."
         }
       ]
     },
@@ -177,7 +276,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "効果的な訓練だ、悪くない。"
+        },
+        {
+          "language": "英文",
+          "content": "The training paid off. Not bad."
+        },
+        {
+          "language": "韩文",
+          "content": "효과적인 훈련이군. 나쁘지 않아."
         }
       ]
     },
@@ -191,7 +298,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "S.W.E.E.P.は初めからロドスの枠組みの外にある。つまりこの昇進制度も私には適応外ということだ。違う表彰の口実を考えてある？お前からの評価は理解したが、影に生きる者は栄誉になど靡かない。"
+        },
+        {
+          "language": "英文",
+          "content": "S.W.E.E.P. was established as an independent unit. It's out of Rhodes Island's structures from the very beginning, so this framework doesn't apply to me. You have a new approach? I appreciate the recognition, but those of us in the shadows don't care for glory."
+        },
+        {
+          "language": "韩文",
+          "content": "S.W.E.E.P.는 설립 초기부터 로도스 아일랜드의 시스템 외에서 독립적으로 운영되고 있다. 이 승진제도는 내게는 적용되지 않는다는 말이다. 이 표창에 다른 구실이라도 생각해 뒀다는 건가? 너의 인정은 고맙지만 그림자 속에서 사는 자에게 이러한 명예는 중요하지 않아."
         }
       ]
     },
@@ -205,7 +320,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "まだ機は熟していない。あらゆる不浄を受け入れられるのは暗闇だけだからな。ドクター、いずれS.W.E.E.P.がロドスにとって用済みになったら、再びお前の視界に姿を現わし、その昇進祝いとやらを頂くとしよう。"
+        },
+        {
+          "language": "英文",
+          "content": "It's not time yet. Only the darkness can shroud all the filth. Doctor, when the day comes that Rhodes Island no longer needs S.W.E.E.P., I'll come to you, and take it."
+        },
+        {
+          "language": "韩文",
+          "content": "아직 때가 아니다. 모든 더러움을 가릴 수 있는 건 오직 어둠뿐. 박사, 언젠가, 로도스 아일랜드에 더이상 S.W.E.E.P.가 필요하지 않게 되는 그 날, 다시 너의 시야에 나타나 이걸 가져가지."
         }
       ]
     },
@@ -219,7 +342,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "常に前だけ向いていろ。私がいる。"
+        },
+        {
+          "language": "英文",
+          "content": "Go right ahead at any moment. I'll be there."
+        },
+        {
+          "language": "韩文",
+          "content": "계속 앞만 보고 움직여. 내가 있으니."
         }
       ]
     },
@@ -233,7 +364,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "リスクの評価は済んでいる。今回は私にチームを預けてもらうぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "I've assessed the risks. I'll lead the team on this operation."
+        },
+        {
+          "language": "韩文",
+          "content": "리스크는 평가해 뒀어. 이번 임무는 내가 인솔하지."
         }
       ]
     },
@@ -247,7 +386,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "私の位置には留意しておけ。いつでも出られる。"
+        },
+        {
+          "language": "英文",
+          "content": "Keep track of my position. I'm ready to strike."
+        },
+        {
+          "language": "韩文",
+          "content": "내 위치를 잘 봐둬. 언제든 출격할 수 있어."
         }
       ]
     },
@@ -261,7 +408,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "接敵した。行け！"
+        },
+        {
+          "language": "英文",
+          "content": "Engaging. Go!"
+        },
+        {
+          "language": "韩文",
+          "content": "적이 온다. 움직여!"
         }
       ]
     },
@@ -275,7 +430,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "私の名は闇の奥底だ。"
+        },
+        {
+          "language": "英文",
+          "content": "No one knows my name."
+        },
+        {
+          "language": "韩文",
+          "content": "아무도 내 이름을 알 수 없을 거야."
         }
       ]
     },
@@ -289,7 +452,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "記憶に残るのはこの刃の切れ味だけだ。"
+        },
+        {
+          "language": "英文",
+          "content": "They only remember my blade."
+        },
+        {
+          "language": "韩文",
+          "content": "그들이 기억할 수 있는 건 비수의 날카로움뿐이다."
         }
       ]
     },
@@ -303,7 +474,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "影すら捉えさせない。"
+        },
+        {
+          "language": "英文",
+          "content": "No one can see me."
+        },
+        {
+          "language": "韩文",
+          "content": "아무도 나를 알아챌 수 없다."
         }
       ]
     },
@@ -317,7 +496,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ここは私が見る。他所に目を光らせろ。"
+        },
+        {
+          "language": "英文",
+          "content": "I got this. Focus elsewhere."
+        },
+        {
+          "language": "韩文",
+          "content": "여긴 내가 있을 테니, 넌 다른 곳을 신경 써."
         }
       ]
     },
@@ -331,7 +518,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "私を追って影に踏み込んでこい。"
+        },
+        {
+          "language": "英文",
+          "content": "Follow me into the shadows."
+        },
+        {
+          "language": "韩文",
+          "content": "나를 따라 그림자 속으로."
         }
       ]
     },
@@ -345,7 +540,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "後ろだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Right behind you."
+        },
+        {
+          "language": "韩文",
+          "content": "난 여기다."
         }
       ]
     },
@@ -359,7 +562,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "私の領域を侵したな。"
+        },
+        {
+          "language": "英文",
+          "content": "You've stepped into my domain."
+        },
+        {
+          "language": "韩文",
+          "content": "내 영역에 숨어들어왔군."
         }
       ]
     },
@@ -373,7 +584,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "死目には姿を映してやろう。"
+        },
+        {
+          "language": "英文",
+          "content": "Meet me, meet your death."
+        },
+        {
+          "language": "韩文",
+          "content": "죽기 전이라면 나를 볼 수 있을 거다."
         }
       ]
     },
@@ -387,7 +606,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "仲間たちの自信は我々が勝ち取ったものだ。先に続くいばらの道を征くための貴重な勝利となるだろう。"
+        },
+        {
+          "language": "英文",
+          "content": "Confidence of our companions is earned. The road ahead is perilous, these victories are precious."
+        },
+        {
+          "language": "韩文",
+          "content": "동료들의 자신감은 우리가 싸워서 쟁취하는 것이다. 앞으로 갈 길이 멀고 험할 테니 이런 승리는 매우 귀중하지."
         }
       ]
     },
@@ -401,7 +628,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "敵の選択肢を削ぎ取り、無自覚のうちに袋小路に向かわせる。あまりにも見知ったやり方だ……本当に何もかも忘れたのか？遅かれ早かれ、お前も本来の自分と向き合うことになるだろう。せいぜい身の振り方を考えておけ。言っておくが、次は粛正の猶予期間を与えるつもりはない。"
+        },
+        {
+          "language": "英文",
+          "content": "Limit the enemy's choices, forcing them into unwitting traps. A familiar style... Hmm... you really don't remember anything? Sooner or later, you'll have to face yourself, so think carefully. Bear in mind, this time, I'm ready to correct your mistakes."
+        },
+        {
+          "language": "韩文",
+          "content": "적을 압박해 선택의 여지를 줄이고, 그들이 무의식중에 스스로 막다른 골목으로 들어가게 한다라, 익숙한 스타일이군…… 너, 아무것도 기억 못 하는 게 확실해? 조만간 너도 본래의 자신과 마주하게 될 테지. 제대로 생각하는 게 좋을 거야. 그리고 잘 기억해둬, 이번엔 내가 언제든지 네 잘못을 바로잡을 준비를 하고 있을 거다."
         }
       ]
     },
@@ -415,7 +650,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "逃げ延びた敵は時が来れば役に立つ。無闇に追うな、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "The ones who got away will be useful, when the time is right. Don't chase them too hard, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "도망친 자들은 때가 되면 오히려 유용하게 쓰일 수도 있다. 무작정 쫓아갈 필요 없어, 박사."
         }
       ]
     },
@@ -429,7 +672,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "構わず進め。振り返るな。次に会えた時には、もうすべて片付いている。"
+        },
+        {
+          "language": "英文",
+          "content": "Keep moving ahead with confidence, and don't look back. Seeing me again means you're safe."
+        },
+        {
+          "language": "韩文",
+          "content": "걱정 말고 앞으로 나아가라. 뒤돌아볼 필요 없어. 나를 다시 만난다면, 그땐 이미 안전하다는 뜻이다."
         }
       ]
     },
@@ -443,7 +694,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "身を置くべき場所は分かっている。指示は不要だ。"
+        },
+        {
+          "language": "英文",
+          "content": "I know where to go. I can handle myself."
+        },
+        {
+          "language": "韩文",
+          "content": "어디로 가야 하는지 알고 있어. 내가 알아서 하지."
         }
       ]
     },
@@ -457,7 +716,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "もう一度やってみろ。"
+        },
+        {
+          "language": "英文",
+          "content": "Try again if you dare."
+        },
+        {
+          "language": "韩文",
+          "content": "어디 다시 해보던가."
         }
       ]
     },
@@ -471,7 +738,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "疲れているのか、だと？いいや、ここは穏やかで気も紛れる。"
+        },
+        {
+          "language": "英文",
+          "content": "Tired? No, it's peaceful here."
+        },
+        {
+          "language": "韩文",
+          "content": "피곤하진 않냐고? 아니, 이곳은 내게 아주 편안해."
         }
       ]
     },
@@ -485,7 +760,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
         }
       ]
     },
@@ -499,7 +782,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "カズデルでは新年を祝うことなどほとんどできない。予測不能な脅威に備えて、誰もが常に身構えているからな。だからこそ、長い時の中でロドスに訪れた一つひとつの変化を大切にしようと思う。ありがとう、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "It's not easy to celebrate New Year's in Kazdel, where you always face unpredictable threats. That's why I cherish the changes we've seen at Rhodes Island over the years. Thank you, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "카즈델에서는 신년을 축하하기 쉽지 않다. 모두 언제든 예상치 못한 위협에 대비해야 하기 때문이지. 그래서 난 지난 몇 년 동안 로도스 아일랜드에 일어난 변화를 소중하게 생각하고 있다. 고맙다, 박사."
         }
       ]
     },
@@ -513,6 +804,36 @@
         },
         {
           "language": "日文",
+          "content": "闇に身を置いてこそ、光はより鮮明に見える。見てみたいだと？いいや、お前はこちら側の人間ではないだろう。"
+        },
+        {
+          "language": "英文",
+          "content": "With a foot in the darkness, the light becomes clearer. You want to see? No, you don't belong there."
+        },
+        {
+          "language": "韩文",
+          "content": "어둠 속에 발을 딛고 있어야 빛이 더 선명하게 보이는 법이야. 너도 보고 싶다고? 아니, 넌 어둠 속에 속하지 않아."
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "聚会很吵，想出来透透气？我一直都在，只是你们没看到我。现场人员混杂，你的安全才是最重要的，降低我的存在感，更方便执行任务。对了，生日快乐，在里面没机会和你说。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
           "content": ""
         }
       ]
@@ -527,7 +848,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "バベルはもう過去のものだ。あの道の先に未来などないことを、既に殿下が証明したからな。ロドスの未来は当時よりも険しい道に見えこそすれ、共に歩む者は増え続けている。ロドスが正しい道を歩んでいるか否かに関しては、もはや疑う余地もない、ということだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Babel is history. Her Highness has shown that that path has no future. And while Rhodes Island's future is even more challenging now, you have ever more companions. I have no doubt that Rhodes Island is on the right path."
+        },
+        {
+          "language": "韩文",
+          "content": "바벨은 이미 과거가 됐다. 그 길 위에 미래가 없다는 걸 전하께서 증명하셨지. 반면 로도스 아일랜드의 미래는 그때보다도 더 험난해 보이지만, 함께 나아가는 이들은 계속해서 늘어나고 있어. 그건 즉, 로도스 아일랜드가 올바른 길을 가고 있는지에 대해선 더이상 의심할 필요조차 없다는 거야."
         }
       ]
     }

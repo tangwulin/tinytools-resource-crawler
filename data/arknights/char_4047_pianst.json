@@ -1,7 +1,11 @@
 {
   "name": "车尔尼",
   "charaKey": "char_4047_pianst",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/8/8a/%E7%AB%8B%E7%BB%98_%E8%BD%A6%E5%B0%94%E5%B0%BC_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/6/6e/%E7%AB%8B%E7%BB%98_%E8%BD%A6%E5%B0%94%E5%B0%BC_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/8/87/%E7%AB%8B%E7%BB%98_%E8%BD%A6%E5%B0%94%E5%B0%BC_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -147,7 +151,7 @@
         },
         {
           "language": "韩文",
-          "content": "라이타니엔의 감염자들은 비교적 자유로워 보일 뿐, 실은 그렇게까지 자유롭다고 할 수는 없습니다. 애프터글로를 벗어나면 사는 것은 물론, 식사를 할 수 있는 곳도, 심지어는 지나다니는 길마저...... 찾기 힘들어집니다. 있기야 하겠지만, 극소수 일겁니다."
+          "content": "라이타니엔의 감염자들은 비교적 자유로워 보일 뿐, 실은 그렇게까지 자유롭다고 할 수는 없습니다. 애프터글로를 벗어나면 사는 것은 물론, 식사를 할 수 있는 곳도, 심지어는 지나다니는 길마저…… 찾기 힘들어집니다. 있기야 하겠지만, 극소수 일겁니다."
         },
         {
           "language": "繁体中文",
@@ -199,7 +203,7 @@
         },
         {
           "language": "韩文",
-          "content": "걱정은 감사합니다만, 제 상태가 좋지 못한 건 병에 걸렸기 때문이 아닙니다.. 슬럼프 때문에 며칠간 잠을 제대로 청하지 못 했기 때문이지요. 머리는…… 작곡을 할 때면 저도 모르게 머리를 쥐어 뜯어서, 엉망으로 보이는 것이겠지요."
+          "content": "걱정은 감사합니다만, 제 상태가 좋지 못한 건 병에 걸렸기 때문이 아닙니다…… 슬럼프 때문에 며칠간 잠을 제대로 청하지 못 했기 때문이지요. 머리는…… 작곡을 할 때면 저도 모르게 머리를 쥐어 뜯어서, 엉망으로 보이는 것이겠지요."
         },
         {
           "language": "繁体中文",
@@ -919,15 +923,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "本日の演奏についてはご容赦ください。どれほど勤勉な音楽家であろうとも、この日に仕事をしたいとは思わないでしょうし、そもそも今日という日の素晴らしさは音楽で飾り立てるまでもありません。道行く人々の笑い声と食卓に響く乾杯の音色、これだけでも十分ではないでしょうか？"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Forgive me for turning down your invitation to perform. Even the most assiduous musician wouldn't want to work on this day, and besides, the fineness of it needs no musical dressing. The laughs of passersby and the clinking of table glasses have answered well enough, no?"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "연주해 달라는 요청을 거절하게 되어 죄송할 따름입니다. 하지만 아무리 부지런한 연주가라 할지라도, 오늘 같은 날에는 일하기가 꺼려지는 법이지요. 더군다나 오늘과 같이 아름다운 날에, 음악이라는 장식은 따로 필요하지 않을 것 같습니다. 행인들의 웃음소리와 식탁 위에서 잔들이 부딪치는 소리면, 충분하지 않을까요?"
         },
         {
           "language": "繁体中文",
@@ -962,12 +966,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "能够在音乐中起舞，是感染者难得的自由时刻。博士，我若是多创作一些，那些起舞的人是否能多一些，而那些自由的灵魂是否也能多一些？"
+          "content": "我为您预留了几张交响乐演奏会的门票，都是贵宾席的好位子，如果您当日有空，请务必光临。对了，祝您生日快乐。"
         },
         {
           "language": "日文",
@@ -980,6 +984,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "能够在音乐中起舞，是感染者难得的自由时刻。博士，我若是多创作一些，那些起舞的人是否能多一些，而那些自由的灵魂是否也能多一些？"
+        },
+        {
+          "language": "日文",
+          "content": "音楽の中で踊ることができるのは、感染者にとっては滅多にない自由なひと時です。ドクター、もし私がより多くの曲を生み出せたなら、旋律に身を任せる人々も増し、自由な魂も増えるのでしょうか？"
+        },
+        {
+          "language": "英文",
+          "content": "To dance to music is a rare moment of liberty for the Infected. Doctor, would there be more dancing, more free souls, if I were to write more myself?"
+        },
+        {
+          "language": "韩文",
+          "content": "음악에 맞춰 춤을 추는 것은, 감염자들에게 있어 모처럼의 자유를 만끽할 수 있는 시간이지요. 박사님, 제가 만일 더욱 많은 곡을 쓴다면, 저기서 춤을 추는 사람들이 더 늘고, 자유로운 영혼들도 더 많아질 수 있을까요?"
         },
         {
           "language": "繁体中文",

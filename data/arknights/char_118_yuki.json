@@ -277,7 +277,7 @@
         },
         {
           "language": "韩文",
-          "content": "…조용하군."
+          "content": "……조용하군."
         },
         {
           "language": "繁体中文",
@@ -875,7 +875,7 @@
         },
         {
           "language": "韩文",
-          "content": "당신의 그 배려… 나, 시라유키의 마음속 깊이 새겨두겠네."
+          "content": "당신의 그 배려…… 나, 시라유키의 마음속 깊이 새겨두겠네."
         },
         {
           "language": "繁体中文",
@@ -919,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "謹みて新年を賀（が）し奉（たてまつ）る。万事意の如く進むようお祈り申し上げたい。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy New Year. May all proceed as you will it."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받게. 모든 일이 뜻대로 풀릴 수 있기를."
         },
         {
           "language": "繁体中文",
@@ -962,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "白雪，永远在此守候。职责所在，情义所在。"
+          "content": "恭贺诞辰。这是礼物，请收下。不，不是主上之命。"
         },
         {
           "language": "日文",
@@ -980,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "白雪，永远在此守候。职责所在，情义所在。"
+        },
+        {
+          "language": "日文",
+          "content": "シラユキ、いつまでも御身のそばに。責務として、また情義にも則る。"
+        },
+        {
+          "language": "英文",
+          "content": "I, ShiraYuki, here ever keep my watch. In duty, and our bonds."
+        },
+        {
+          "language": "韩文",
+          "content": "시라유키, 항상 여기서 기다리고 있겠네. 여긴 내 직책, 내 인정과 의리가 있는 곳이니라."
         },
         {
           "language": "繁体中文",

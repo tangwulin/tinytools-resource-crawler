@@ -1,7 +1,11 @@
 {
   "name": "艾拉",
   "charaKey": "char_4123_ela",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/6/61/%E7%AB%8B%E7%BB%98_%E8%89%BE%E6%8B%89_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/b/b7/%E7%AB%8B%E7%BB%98_%E8%89%BE%E6%8B%89_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/6/6a/%E7%AB%8B%E7%BB%98_%E8%89%BE%E6%8B%89_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "联动",
@@ -19,11 +23,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あなたが書類精査に手間取ってる間に、オフィス周りの問題を解決してあげるのもいいかもね。"
         },
         {
           "language": "英文",
           "content": "Since you're stuck here sifting through documents, I might as well help you solve a few problems around the office."
+        },
+        {
+          "language": "韩文",
+          "content": "네가 여기 박혀서 문서나 뒤적거리고 있어야 하는 신세라면, 사무실 주변의 문제들 몇 가지 정도는 내가 도와주도록 하지."
         }
       ]
     },
@@ -37,11 +45,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "単に人間を制圧するより、補給路を攻撃したほうがよほど打撃を与えられるものよ。"
         },
         {
           "language": "英文",
           "content": "Hitting supply lines does a whole lot more damage than taking out people."
+        },
+        {
+          "language": "韩文",
+          "content": "보급선을 타격하는 게 병력을 처치하는 것보다 더욱 효과적이지."
         }
       ]
     },
@@ -55,11 +67,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "私に言わせれば、あなたのオフィスはちょっと地味ね。もう少しアクセントを加えたくなったら、いつでも声をかけてちょうだい。"
         },
         {
           "language": "英文",
           "content": "If you ask me, your office is on the bland side. Just hit me up if you ever want to mix things up a little."
+        },
+        {
+          "language": "韩文",
+          "content": "굳이 말하자면 네 사무실은 밋밋하단 말이지. 스타일을 바꾸고 싶다면 언제든 내게 말하라고."
         }
       ]
     },
@@ -73,11 +89,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "「親密な家族関係」みたいなものは、性に合わないの。"
         },
         {
           "language": "英文",
-          "content": "The whole cozy family relationship thing isn't for me."
+          "content": "The whole 'cozy family relationship' thing isn't for me."
+        },
+        {
+          "language": "韩文",
+          "content": "포근한 가족관계 같은 건 나랑 안 맞아."
         }
       ]
     },
@@ -91,11 +111,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "いわゆる「自己啓発」なんかより、見知らぬ人とのお喋りのほうがずっと得るものが多いのよね。"
         },
         {
           "language": "英文",
-          "content": "I get a lot more out of talking to strangers than I do from that self-help stick."
+          "content": "I get a lot more out of talking to strangers than I do from that 'self-help' shtick."
+        },
+        {
+          "language": "韩文",
+          "content": "난 소위 '자기계발' 같은 것보단 낯선 사람이랑 얘기하는 편이 더 생산적이더라."
         }
       ]
     },
@@ -109,11 +133,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "私たちは自らをシンボルによって定義するけれど、そのシンボルは歪められることもある。再利用され、再加工され、再解釈され、再構築されて――いわば盗まれてしまったとして、その時、あなたは何者になるのかしら？"
         },
         {
           "language": "英文",
-          "content": "We define ourselves by symbols, but those symbols can be perverted, reused, reworked, reframed, remade. In a word, stolen. Who are you then?"
+          "content": "We define ourselves by symbols, but those symbols can be perverted. Reused. Reworked, reframed, remade. In a word, stolen. Who are you then?"
+        },
+        {
+          "language": "韩文",
+          "content": "우리는 기호로 자신을 정의하지. 하지만 이러한 기호는 왜곡될 수 있어. 가공되고, 재사용되며, 재구성될 수 있지…… 그러니까, 한 마디로 훔쳐질 수도 있다는 거야. 그렇다면 넌 누구지?"
         }
       ]
     },
@@ -127,11 +155,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "戦闘以外の雑事を手伝うのは構わないけれど、戦場では判断を下すに足る余裕を保たせてもらいたいものね。"
         },
         {
           "language": "英文",
           "content": "I don't mind helping you run errands out of combat, but on the battlefield, I need ample room to call the shots."
+        },
+        {
+          "language": "韩文",
+          "content": "전투 중이 아닐 땐 네 심부름 정도야 문제없지. 하지만 전장에선, 내게 충분한 결정권을 줬으면 하는군."
         }
       ]
     },
@@ -145,11 +177,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あなたの出した結果に何の落ち度もなかったとして、代わりに態度のあら探しをしてくるような人がいたら、それだけでそいつの器は知れたものよ。"
         },
         {
           "language": "英文",
           "content": "When someone can't find fault with your results and has to resort to nitpicking your attitude, that tells you everything you need to know about them."
+        },
+        {
+          "language": "韩文",
+          "content": "누군가가 네 성과에 대해 지적할 거리가 없는 나머지 대신 태도나 지적하기 시작했다면, 그자의 밑천은 다 까발려진 셈이지."
         }
       ]
     },
@@ -163,11 +199,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "指揮を執るには、それに足る資質を証明する必要があるけれど、あなたはそれを十分示してくれた――それで、次はどこへ向かってほしいの？"
         },
         {
           "language": "英文",
-          "content": "To call the shots, you need to prove you've got what it takes, and you've certainly done that. So, where are you sending me next?"
+          "content": "To call the shots, you need to prove that you've got what it takes – and you've certainly done that. So, where are you sending me next?"
+        },
+        {
+          "language": "韩文",
+          "content": "명령을 내리려면 먼저 본인의 역량을 증명해야만 하지, 그리고 넌 그걸 해냈어. 자, 다음엔 날 어디로 보낼 셈이지?"
         }
       ]
     },
@@ -181,11 +221,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "どんなに甘く見積もっても、あなたはやっぱり働きすぎよ。休んでちょうだい。"
         },
         {
           "language": "英文",
           "content": "Your workload is clearly excessive, even by the highest standards. Take a rest."
+        },
+        {
+          "language": "韩文",
+          "content": "아무리 높게 기준을 잡더라도 네 업무량은 과도해. 좀 쉬라고."
         }
       ]
     },
@@ -199,11 +243,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "レインボー小隊メンバー、コードネームはElaよ。任務目標さえ教えてくれたら、あとは座ってゆっくり良い報告を待っててくれて構わないわ。"
         },
         {
           "language": "英文",
           "content": "Codename Ela, member of Team Rainbow. Just give me my objective, then sit back and wait for the good news."
+        },
+        {
+          "language": "韩文",
+          "content": "레인보우 팀 멤버, 코드네임 Ela다. 목표만 알려 줘. 그리고는 편히 앉아서 좋은 소식이나 기다리라고."
         }
       ]
     },
@@ -217,11 +265,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "いくらかコツを掴んだわ。"
         },
         {
           "language": "英文",
           "content": "Picked up a few new tricks."
+        },
+        {
+          "language": "韩文",
+          "content": "새로운 트릭을 몇 가지 배웠군."
         }
       ]
     },
@@ -235,11 +287,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "メダルをくれるの？ありがとう。装飾に限って言うなら、悪くない出来ね。"
         },
         {
           "language": "英文",
-          "content": "A medal? Thanks. Workmanship's not bad at all as far as decorations go."
+          "content": "A medal? Thanks. Workmanship's not bad at all, as far as decorations go."
+        },
+        {
+          "language": "韩文",
+          "content": "메달이라고? 고마워, 장식품으로선 괜찮은 솜씨군."
         }
       ]
     },
@@ -253,11 +309,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "共に力を合わせれば、空の星々だって揺り動かせそうね。"
         },
         {
           "language": "英文",
           "content": "Together, we can shake the very stars from the sky."
+        },
+        {
+          "language": "韩文",
+          "content": "함께라면, 우리는 저 하늘 위 별들도 흔들 수 있어."
         }
       ]
     },
@@ -271,11 +331,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "少しは歯ごたえのある任務だといいけど。"
         },
         {
           "language": "英文",
           "content": "At least make it challenging."
+        },
+        {
+          "language": "韩文",
+          "content": "적어도 좀 도전적이었으면 좋겠는데 말이지."
         }
       ]
     },
@@ -289,11 +353,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "私の力を見せる時ね。"
         },
         {
           "language": "英文",
           "content": "Time to show you what I can do."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 뭘 할 수 있는지 보여 줄 때가 왔군."
         }
       ]
     },
@@ -307,11 +375,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "時間は無駄にはできないわ。"
         },
         {
           "language": "英文",
           "content": "No time to waste."
+        },
+        {
+          "language": "韩文",
+          "content": "낭비할 시간은 없다!"
         }
       ]
     },
@@ -325,11 +397,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "後悔させてあげる。"
         },
         {
           "language": "英文",
           "content": "I'll make you regret this."
+        },
+        {
+          "language": "韩文",
+          "content": "후회하게 만들어 주지."
         }
       ]
     },
@@ -343,11 +419,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "歯には歯を。"
         },
         {
           "language": "英文",
           "content": "A tooth for a tooth."
+        },
+        {
+          "language": "韩文",
+          "content": "이에는 이."
         }
       ]
     },
@@ -361,11 +441,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "目には目を。"
         },
         {
           "language": "英文",
           "content": "An eye for an eye."
+        },
+        {
+          "language": "韩文",
+          "content": "눈에는 눈."
         }
       ]
     },
@@ -379,11 +463,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "任せて。"
         },
         {
           "language": "英文",
           "content": "I got this."
+        },
+        {
+          "language": "韩文",
+          "content": "이건 내가 맡지."
         }
       ]
     },
@@ -397,11 +485,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "行くわよ。"
         },
         {
           "language": "英文",
           "content": "Idziemy."
+        },
+        {
+          "language": "韩文",
+          "content": "가자."
         }
       ]
     },
@@ -415,11 +507,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "お土産をあげる。"
         },
         {
           "language": "英文",
           "content": "Here's a memento."
+        },
+        {
+          "language": "韩文",
+          "content": "기념품 하나 주지."
         }
       ]
     },
@@ -433,11 +529,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "奴らを足止めするわ。"
         },
         {
           "language": "英文",
           "content": "That will slow them down."
+        },
+        {
+          "language": "韩文",
+          "content": "이게 놈들을 늦춰 줄 거다."
         }
       ]
     },
@@ -451,11 +551,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "これでも食らいなさい！"
         },
         {
           "language": "英文",
           "content": "Eat this!"
+        },
+        {
+          "language": "韩文",
+          "content": "이거나 먹어라!"
         }
       ]
     },
@@ -469,11 +573,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "動くな！"
         },
         {
           "language": "英文",
-          "content": "Don't move."
+          "content": "Don't move!"
+        },
+        {
+          "language": "韩文",
+          "content": "움직이지 마!"
         }
       ]
     },
@@ -487,11 +595,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "結果を出せば、その手段は正当化されるものよ。"
         },
         {
           "language": "英文",
           "content": "The end justifies the means."
+        },
+        {
+          "language": "韩文",
+          "content": "결과가 수단을 정당화하는 법."
         }
       ]
     },
@@ -505,11 +617,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ごめんなさい、あなたには速すぎたかしら？"
         },
         {
           "language": "英文",
           "content": "I'm sorry, was I too fast for you?"
+        },
+        {
+          "language": "韩文",
+          "content": "미안하군, 내가 너무 빨랐나?"
         }
       ]
     },
@@ -523,11 +639,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "それで終わり？"
         },
         {
           "language": "英文",
           "content": "That's it?"
+        },
+        {
+          "language": "韩文",
+          "content": "이게 끝인가?"
         }
       ]
     },
@@ -541,11 +661,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "なんとか持ちこたえて！"
         },
         {
           "language": "英文",
-          "content": "Try to keep up."
+          "content": "Try to keep up!"
+        },
+        {
+          "language": "韩文",
+          "content": "계속 버텨 줘!"
         }
       ]
     },
@@ -559,11 +683,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "悪くない場所ね。"
         },
         {
           "language": "英文",
           "content": "This place isn't half bad."
+        },
+        {
+          "language": "韩文",
+          "content": "나쁘지 않은 곳이군."
         }
       ]
     },
@@ -577,11 +705,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "お願いだから話しかけないで。"
         },
         {
           "language": "英文",
           "content": "Do me a favor, don't talk to me."
+        },
+        {
+          "language": "韩文",
+          "content": "부탁 하나 하지, 말 걸지 마."
         }
       ]
     },
@@ -595,11 +727,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あなた自身の話をして。"
         },
         {
           "language": "英文",
-          "content": "Tell me your story."
+          "content": "Tell me YOUR story."
+        },
+        {
+          "language": "韩文",
+          "content": "네 이야기를 들려줄 수 있나?"
         }
       ]
     },
@@ -613,11 +749,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "アークナイツ。"
         },
         {
           "language": "英文",
           "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
         }
       ]
     },
@@ -631,11 +771,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あけましておめでとう。更なる困難に立ち向かう準備は、もうできてるわ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy New Year. I'm ready to face even more challenges."
+        },
+        {
+          "language": "韩文",
+          "content": "새해 복 많이 받아. 난 더 많은 도전을 받아들일 준비가 되어 있어."
         }
       ]
     },
@@ -649,11 +793,37 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "待ってたわ。"
         },
         {
           "language": "英文",
           "content": "I'm here."
+        },
+        {
+          "language": "韩文",
+          "content": "여기 있다."
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "很多不合理的东西在你出生时就已经缠着你了，你没法不去反抗。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
         }
       ]
     },
@@ -667,11 +837,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ロドスは包容力に溢れた場所ね。それはとても大事なことよ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Rhodes Island is an incredibly inclusive place – and that's a big deal."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드는 포용력이 좋은 곳이더군, 아주 중요한 부분이야."
         }
       ]
     }

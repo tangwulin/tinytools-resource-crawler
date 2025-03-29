@@ -1,0 +1,552 @@
+{
+  "name": "凯瑟琳",
+  "charaKey": "char_4162_cathy",
+  "images": [
+    "https://media.prts.wiki/a/ad/%E7%AB%8B%E7%BB%98_%E5%87%AF%E7%91%9F%E7%90%B3_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/3/34/%E7%AB%8B%E7%BB%98_%E5%87%AF%E7%91%9F%E7%90%B3_2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4162_cathy"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4162_cathy"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "是你自己要我监督你干活的。别偷懒。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这声音有点吵？不好意思，我们习惯了一边干活一边跟人聊天。费斯特跟你讲起过吗？我可不会唱摇篮曲。我们造出伦蒂尼姆，它日夜运转，而我们的孩子就在打铁的叮叮声里入睡。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你好像不太相信我在这里总被孩子围住，是吗？他们只是喜欢听我讲敲铁块的故事，就像听童话。至于那么一两个绕着我走的萨卡兹......呵，他们见过工人们在伦蒂尼姆敲出了什么。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "从垃圾堆里捡拾废铁，炼出钢件，这不算稀奇事，许多工人做学徒时都会以此为乐，我也是。偷偷敲下第一锤时你会担心声音太响，后来你就只会想着把东西做好。看，我们就是这样造出了步行战车。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“维娜·维多利亚”，议长阁下有个多漂亮的名字啊，练好这个新签名可不容易。她找过我，想让我坐进议会的大厅，但我宁可待在工厂里，看看她在什么样的法案上签了字。她懂的，我们盯着呢。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没什么可隐瞒的。在城内躲藏的日子不容易，只有与各方合作，我才能保下更多人，秘密造出军火，最后联系上所有工厂。正好，有些人的信念于我们有益——你很了解整合运动，是不是？跟我说说。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我得感谢你，博士，你做的事情比我想象中更多。如果飞空艇没有坠落，我们可没机会坐在这里喝茶。当然，也感谢你没有管一个开步行战车的老工人叫“战争英雄”。你知道，工人们从来没想打仗。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "费斯特那小子，大局观还有所欠缺，和人打交道依然很莽撞，也就搞发明的时候还算机灵。还好他活到了现在，能给伦蒂尼姆鼓捣些新发明......哈，无论如何，我都会庆幸他活了下来。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我是个老家伙，就算没有矿石病，时间也不多了，但这没什么。介意我抽根烟吗？......我多半是来不及敲出我记得的那个伦蒂尼姆了，正好，就让这座城市随着老家伙的死而卸下一些东西吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别打瞌睡。在该睡的时候睡觉，你才能休息得更好。按照规律做事才是最重要的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不用客套，博士，我只是来看看我那个孙子。他肯定有些小玩意要藏起来，我先在你办公室坐一会儿......你想让我帮罗德岛做事，也不用藏着掖着。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，这里面好端端回来的，有几个？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不用费心装饰一台老式的机器，除非你想让它打出一枚更漂亮的勋章还给你。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "战争将伦蒂尼姆的工人们放在同一条流水线上锤打。战争结束了，我们却没有分开。现在信任着你的这群人有多大力量，你应该心里有数。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这台机器是有些年头了，但运行起来可丝毫不差。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "行，我会盯着这些人。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "放机灵点，就算是工厂的机器，也能咬掉你的手指。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没什么可怕的。只要是踏踏实实走到这里的，就出不了错。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "说吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我手里的家伙随时能干活。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "按预定计划抵达。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有什么值得惊讶的吗？我们有自己的秘密通道。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "炉子烧得再旺点。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让蒸汽升起来。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "捂住耳朵。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "胜利归于每一个伦蒂尼姆人。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "钢件的品质好坏在淬火那一刻就会定下，但如果没有淬火前一下又一下的敲打，你什么都做不出来。干得不错，博士。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "越是大型的机械，越苛求微小零部件之间的契合程度。你的确掌握了提高作战效率的精髓。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有时我们得接受瑕疵，哪怕是最精密的仪器也无法避免误差。别回头了，博士，现在要紧的是下一步规划。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "咳、咳咳......你觉得自己想清楚了吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这些都是可露希尔那个小丫头的杰作？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "需要我搭把手？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没有机油味的空气，我还得慢慢适应。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在伦蒂尼姆，难得有这么个听不到工厂轰鸣的日子，雪也不会立刻因蒸汽而融化。就算雪没那么白，人们还是会感到，这是新的开始。对于从那场战争中走出来的人而言，没有比这更好的祝福了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不要把自己逼得太紧，博士。我注意到阿米娅在担心你。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "怎么，不相信这个蛋糕是我做的？嗯，的确花哨了点。要知道，费斯特的生日可都是我在张罗。这事就跟操作机械一样，熟能生巧。生日快乐，博士，感谢你们帮我照顾那小子。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "时间是最不会骗人的。理想与口号证明不了什么，重要的是你们在大地上留下的辙痕......你不需要我来教你，博士。我看得出来，你确实一直都有所坚持。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

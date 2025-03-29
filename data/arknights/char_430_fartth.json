@@ -1,7 +1,11 @@
 {
   "name": "远牙",
   "charaKey": "char_430_fartth",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/d/d6/%E7%AB%8B%E7%BB%98_%E8%BF%9C%E7%89%99_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/2/24/%E7%AB%8B%E7%BB%98_%E8%BF%9C%E7%89%99_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/9/9d/%E7%AB%8B%E7%BB%98_%E8%BF%9C%E7%89%99_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -195,7 +199,7 @@
         },
         {
           "language": "韩文",
-          "content": "……치료해 준 보답이야. 이건 소나랑 이보나, 그리고 회색 붓꼬리가 부탁한 몫… 그리고 이건, 내가 고른 거야. 별 거 없긴 하지만."
+          "content": "……치료해 준 보답이야. 이건 소나랑 이보나, 그리고 회색 붓꼬리가 부탁한 몫…… 그리고 이건, 내가 고른 거야. 별 거 없긴 하지만."
         },
         {
           "language": "繁体中文",
@@ -585,7 +589,7 @@
         },
         {
           "language": "韩文",
-          "content": "‘송곳니’ 저스티나가, 너희를 상대해주마."
+          "content": "'송곳니' 저스티나가, 너희를 상대해주마."
         },
         {
           "language": "繁体中文",
@@ -915,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ここの風には、たくさんの雑音が混じってる。花火の音、食器がぶつかり合う音、それからみんなが祝日を祝う音。故郷にいた時は、祝日になるたびに、近所もこんなに騒がしかったけど、嫌いじゃないよ。あけましておめでとう、ドクター。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "There are so many noises mixed in on the wind here. Fireworks, dishes and glasses, the voices of people as they celebrate. My neighbors would be just as noisy every holiday back home, but I've never minded it, because that's how this day should be. Happy New Year, Doctor."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "이곳의 바람 소리에는 여러 잡음이 섞여 있어. 종소리, 불꽃놀이 소리, 모닥불 소리, 그리고 모두가 축하하는 소리까지. 예전에 고향에서도 축제가 있을 때마다 이웃끼리 모여 이렇게 시끌벅적하곤 했었는데. 소란스럽지만, 싫지만은 않아. 새해 복 많이 받아, 박사."
         },
         {
           "language": "繁体中文",
@@ -958,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "口笛是从家乡带来的，吹的小调也是邻居们教我的，我知道我已经回不到过去了，但也不是坏事，对吧？就像风不会再吹回它的起源地，但它会凭着最开始的那份力量，越吹越远，去往更高远的地方。"
+          "content": "......礼物。这是我准备的礼物，一串风铃，把它挂在窗户上，起风时就能听到好听的乐声，很让人安心。生日快乐，博士，我送给你风的声音。"
         },
         {
           "language": "日文",
@@ -976,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "口笛是从家乡带来的，吹的小调也是邻居们教我的，我知道我已经回不到过去了，但也不是坏事，对吧？就像风不会再吹回它的起源地，但它会凭着最开始的那份力量，越吹越远，去往更高远的地方。"
+        },
+        {
+          "language": "日文",
+          "content": "この草笛は故郷から持ってきたもので、曲も近所のみんなに教わったものだよ。もう昔に戻れないのは知っているけど、でもそれは別に悪いことじゃないよね？風は生まれた場所に戻ることはないけど、初めにもらった力を使ってどんどん遠くへ、そして高い場所へと吹いていく。それと同じだよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I brought this flute from home, and the only songs I play are ones my neighbors taught me. I know you can never return to the past, but that's not so bad, is it? Just like how the wind never blows back to where it came from. It carries itself on its own momentum, flying further and further away, to a loftier place."
+        },
+        {
+          "language": "韩文",
+          "content": "이 피리는 고향에서 가져온 거야. 방금 연주한 노래도 이웃에게 배운 거고. 나도 이제 옛날 그 시절로 돌아갈 수 없다는 건 알지만, 그게 꼭 나쁜 것만은 아니라고 생각해. 바람은 자신이 처음 만들어진 곳으로 돌아갈 수 없지만, 처음 자신을 불게 만들었던 그 힘으로 더 멀리, 더 높게 날아가잖아. 나도 그러리라 믿어."
         },
         {
           "language": "繁体中文",

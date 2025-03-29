@@ -1,7 +1,11 @@
 {
   "name": "截云",
   "charaKey": "char_4078_bdhkgt",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/5/5b/%E7%AB%8B%E7%BB%98_%E6%88%AA%E4%BA%91_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/2/2e/%E7%AB%8B%E7%BB%98_%E6%88%AA%E4%BA%91_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/d/d3/%E7%AB%8B%E7%BB%98_%E6%88%AA%E4%BA%91_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -195,7 +199,7 @@
         },
         {
           "language": "韩文",
-          "content": "'천 리에 비를 뿌리던 구름도, 이 산에 막혀 날이 갰구나.' 이건 사부님께서 처음 가르쳐 준 염국의 시야. 내 이름의 유래이기도 하지. 오랜 시간 떠다녔던 구름이 마침내 산에 가로막혀서, 더 이상 갈 곳 없이 떠돌지 않게 됐다는 의미야…… '사람은 누구나 집이라고 부를만한 곳이 필요하다'라고 사부님이 말씀하셨어."
+          "content": "천 리에 비를 뿌리던 구름도, 이 산에 막혀 날이 갰구나.' 이건 사부님께서 처음 가르쳐 준 염국의 시야. 내 이름의 유래이기도 하지. 오랜 시간 떠다녔던 구름이 마침내 산에 가로막혀서, 더 이상 갈 곳 없이 떠돌지 않게 됐다는 의미야…… '사람은 누구나 집이라고 부를만한 곳이 필요하다'라고 사부님이 말씀하셨어."
         },
         {
           "language": "繁体中文",
@@ -915,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "私の故郷の新年は、日付で決まってるわけじゃないんだ。そろそろ春かなという時期に、荒野で初めて芽吹いたものを見つけたら、その日を新しい一年の始まりにする。それから、みんなで飲んで歌って祝うんだ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "For us, the new year isn't a fixed date. It starts when we see the first sprout of spring. Then we drink, sing and celebrate."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "내 고향은 정해진 날에 새해를 기념하진 않아. 봄이 다가오는 시기에 황야에서 처음 싹이 튼 식물을 발견하면, 그날을 새로운 한 해의 시작이라고 여겨. 그러고는 다 같이 술을 마시고, 노래를 부르면서 새해를 축하하는 거지……"
         },
         {
           "language": "繁体中文",
@@ -958,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "阿纳萨看惯了生老病死，但在罗德岛，我见到的是许多人难以接受的生离死别。或许只有找到那一样放不下的事物，才能找到“家”吧。我好像，有点明白了......"
+          "content": "博士，这是“生老病死树”的种子，送给你。等它开花的时候，花芽、花苞、花朵、枯枝，各种姿态的花都会出现在枝头。生老病死，躲不过，逃不掉，所以生命里每一天都很珍贵。博士，生日快乐。"
         },
         {
           "language": "日文",
@@ -976,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "阿纳萨看惯了生老病死，但在罗德岛，我见到的是许多人难以接受的生离死别。或许只有找到那一样放不下的事物，才能找到“家”吧。我好像，有点明白了......"
+        },
+        {
+          "language": "日文",
+          "content": "アナサはみんな生老病死には慣れてるけど、ロドスでは別れを受け入れられない人が多いみたい。何か諦めきれないものができてこそ、「家」を見つけられるのかもしれない。私も少し、わかってきたような気がする……"
+        },
+        {
+          "language": "英文",
+          "content": "The Anasa are used to the cycle of life and death, but here at Rhodes Island, I see many struggle to say farewell to those they love. Home is where you find someone or something you can't let go of... I think I'm beginning to understand..."
+        },
+        {
+          "language": "韩文",
+          "content": "아나사 사람들은 생로병사에 익숙하지만, 로도스 아일랜드에 오니 여긴 이별을 쉽게 받아들이지 못하는 사람들이 많은 것 같더라고. 어쩌면 사람은, 내려놓기 힘든 무언가가 있을 때 비로소 '집'이라는 걸 찾을 수 있는 걸지도 모르겠어. 나도 이젠 조금은 알 것 같아……"
         },
         {
           "language": "繁体中文",

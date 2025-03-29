@@ -1,7 +1,12 @@
 {
   "name": "芳汀",
   "charaKey": "char_271_spikes",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/6/6c/%E7%AB%8B%E7%BB%98_%E8%8A%B3%E6%B1%80_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/e/ee/%E7%AB%8B%E7%BB%98_%E8%8A%B3%E6%B1%80_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/f/ff/%E7%AB%8B%E7%BB%98_%E8%8A%B3%E6%B1%80_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/f/fd/%E7%AB%8B%E7%BB%98_%E8%8A%B3%E6%B1%80_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -14,6 +19,10 @@
     {
       "language": "韩语",
       "base": "voice_kr/char_271_spikes"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_271_spikes"
     }
   ],
   "voiceList": [
@@ -31,7 +40,7 @@
         },
         {
           "language": "英文",
-          "content": "The files are in order. Is that all we have to do today? Why don't we talk about the operation the other day, Professor?"
+          "content": "The files are in order. Is that all we have to do today? Good, then why don't we talk about the operation the other day, Professor?"
         },
         {
           "language": "韩文",
@@ -57,7 +66,7 @@
         },
         {
           "language": "英文",
-          "content": "Try not to come too close when I use Arts, okay? Not moving out of the way? Okay, if you insist."
+          "content": "Try not to come too close when I use Arts, okay? ... You won't? Whatever suits you then."
         },
         {
           "language": "韩文",
@@ -83,7 +92,7 @@
         },
         {
           "language": "英文",
-          "content": "Why do I call you 'Professor', you ask? Because I'm actually learning quite a lot from you. The placement of personnel on the battlefield, how to command, among other things... What more reason do we need?"
+          "content": "Why am I calling you 'Professor'? Because I'm actually learning quite a lot from you: where to assign personnel on the battlefield, how to command, among many other things… What more reason do we need?"
         },
         {
           "language": "韩文",
@@ -109,7 +118,7 @@
         },
         {
           "language": "英文",
-          "content": "Here, you can have this. I think it's some sort of candy? No need to thank me. I got it from someone else anyway, and I don't really like these things very much."
+          "content": "Here, you can have this. Some sort of candy, I think. No need to thank me. I got it from someone else anyway. Couldn't care less."
         },
         {
           "language": "韩文",
@@ -135,7 +144,7 @@
         },
         {
           "language": "英文",
-          "content": "You don't see Sankta using staves much? The guys who shoot up everything day and night and solve all their problems with violence must have given you a bad impression. Not all Sankta use guns as their weapons. At the very least, I don't like them."
+          "content": "Sankta using staves is a rare sight to see, you say? Those fanatics on a non-stop shooting spree must have left you with a bad impression with their 'pews' and 'bangs.' Not all Sankta use guns as their weapons. At the very least, I don't like them."
         },
         {
           "language": "韩文",
@@ -191,7 +200,7 @@
         },
         {
           "language": "韩文",
-          "content": "라테라노의 땅에 감염자는 존재하지 않아. 산크타는 감염되면 바로 추방되어 버리거든. 하지만 감염자가 되어도 라테라노에 속한다는 것엔 변함이 없어서, 어디를 가든 라테라노의 다양한 권리는 계속 누릴 수 있지… 그저, 두 번 다신 고향에 발을 들일 수 없을 뿐."
+          "content": "라테라노의 땅에 감염자는 존재하지 않아. 산크타는 감염되면 바로 추방되어 버리거든. 하지만 감염자가 되어도 라테라노에 속한다는 것엔 변함이 없어서, 어디를 가든 라테라노의 다양한 권리는 계속 누릴 수 있지…… 그저, 두 번 다신 고향에 발을 들일 수 없을 뿐."
         },
         {
           "language": "繁体中文",
@@ -213,7 +222,7 @@
         },
         {
           "language": "英文",
-          "content": "My parents' will left me with quite a bit of trouble, and it was really a hassle to get it taken care of. If it wasn't for that uptight executor making things difficult for me, it all could've been much easier... Oh, whatever, it still went according to plan."
+          "content": "My parents' will left me with quite a bit of trouble, and it was really a hassle to get it taken care of. If it wasn't for that uptight executor making things difficult for me, it all could've been much easier... Oh, whatever, it still went according to my plan."
         },
         {
           "language": "韩文",
@@ -239,7 +248,7 @@
         },
         {
           "language": "英文",
-          "content": "I want to capture a few people to try out some new Arts in our next operation. I can't...? Alright, fine. It's a shame, but if that's what you say, Professor, maybe some other time, then.  Eh? Not this time, and not ever? Geez, don't be so uptight."
+          "content": "I want to capture a few people to try out some new Arts in our next operation. I can't...? Alright, fine. It's a shame, but if that's what you say, Professor, maybe some other time, then. Eh? Not this time, and not ever? Geez, don't be so uptight."
         },
         {
           "language": "韩文",
@@ -343,7 +352,7 @@
         },
         {
           "language": "英文",
-          "content": "This doesn't seem all that different than before. Or are you going to teach me some secret strategies you have, Professor?"
+          "content": "This doesn't seem all that different than before. Or are you going to teach me some tricks of the trade, Professor?"
         },
         {
           "language": "韩文",
@@ -369,7 +378,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctor, you aren't testing me, are you? Alright then, I'm just getting in the mood. Okay, starting right now, whatever that happens is going to be our own little secret."
+          "content": "Doctor, you aren't testing me, are you? Alright then, I'm just getting in the mood. Okay, starting right now, whatever happens is going to be our own little secret."
         },
         {
           "language": "韩文",
@@ -421,7 +430,7 @@
         },
         {
           "language": "英文",
-          "content": "So actual combat for my next assignment? Okay, let me think about the placement..."
+          "content": "So actual combat for my next assignment? Okay, let me think about the deployment..."
         },
         {
           "language": "韩文",
@@ -447,7 +456,7 @@
         },
         {
           "language": "英文",
-          "content": "As long as we achieve our goals, it doesn't matter if the process of getting there is a little rough, huh?"
+          "content": "As long as we achieve our goals, it doesn't matter if the process is a little rough, huh?"
         },
         {
           "language": "韩文",
@@ -473,7 +482,7 @@
         },
         {
           "language": "英文",
-          "content": "Welcome. I'll be waiting."
+          "content": "Welcome. I've been waiting."
         },
         {
           "language": "韩文",
@@ -707,7 +716,7 @@
         },
         {
           "language": "英文",
-          "content": "That went far better than I expected. I shouldn't have thought so little of you."
+          "content": "That went far better than I expected. I shouldn't have thought so little of you, Professor."
         },
         {
           "language": "韩文",
@@ -759,7 +768,7 @@
         },
         {
           "language": "英文",
-          "content": "A few of them slipped past. Should I go after them? Strategically speaking, I don't recommend it."
+          "content": "A few slipped past. Should I go after them? Strategically speaking, I don't recommend it."
         },
         {
           "language": "韩文",
@@ -785,7 +794,7 @@
         },
         {
           "language": "英文",
-          "content": "This is quite the bad situation... I shouldn't have to tell you what the appropriate course of action is now, right?"
+          "content": "This is quite the bad situation... You know what the appropriate course of action is now, right?"
         },
         {
           "language": "韩文",
@@ -911,15 +920,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "センセー、ちょっとした手品を覚えたんだ。危なくないから、今回は近くで見てても大丈夫だよ。手のひらに金属の欠片を乗せて、こうして軽く……ほら、小さい花火の完成。どう？外で鳴ってる耳障りなのにも引けを取らないクオリティでしょ？"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Professor, I've learned a new trick. You can come closer this time. It's not dangerous. Put this piece of metal on your hand, then just very lightly... Look, it turned into a small firework. How about that? It's just as good as the noisy ones outside, right?"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "선생님, 내가 새로운 마술 하나를 배웠는데, 위험한 거 아니니까 이번엔 가까이서 봐도 괜찮아. 자, 손바닥에 금속 조각을 올리고, 이렇게 가볍게…… 봐, 미니 불꽃놀이 완성. 어때? 이 정도면 바깥에서 시끄럽게 울려대는 불꽃놀이에 뒤지지 않는 퀄리티지?"
         },
         {
           "language": "繁体中文",
@@ -954,12 +963,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "老师，当您在指挥罗德岛前行时，都会有哪些考量呢？敌人，朋友，需要做的，不能做的事......一定要有不能逾越的底线，才能不迷失自己，是这样吗？是这样啊......"
+          "content": "生日快乐，博士老师。如您所见，我不喜欢过分复杂的仪式感，我希望您也不会热衷于吵闹的派对。这样我就可以和您一起做些更有意义的庆祝活动。对，只有我们两个。"
         },
         {
           "language": "日文",
@@ -972,6 +981,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "老师，当您在指挥罗德岛前行时，都会有哪些考量呢？敌人，朋友，需要做的，不能做的事......一定要有不能逾越的底线，才能不迷失自己，是这样吗？是这样啊......"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスの前進を指揮する時のセンセーって、どんなことを考えてるの？敵、仲間、必要なこと、いけないこと……「超えてはならないラインがあるからこそ、自分を見失わずにいられる」？そうなの？そうなんだ……"
+        },
+        {
+          "language": "英文",
+          "content": "Professor, when you steer Rhodes Island, what do you weigh and consider? Enemies, friends, what we need to do, what we mustn't do... There has to be a line that we cannot cross so that we don't lose ourselves. Am I right? I see..."
+        },
+        {
+          "language": "韩文",
+          "content": "선생님은 로도스 아일랜드를 지휘할 때 주로 어떤 점을 고려하는 편이야? 적, 아군, 해야 할 일과 하지 말아야 할 일…… “넘지 말아야 할 선을 확실하게 알아야 자신을 잃지 않을 수 있다고?” 그렇구나……"
         },
         {
           "language": "繁体中文",

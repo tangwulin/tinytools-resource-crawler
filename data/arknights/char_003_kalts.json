@@ -1,7 +1,11 @@
 {
   "name": "凯尔希",
   "charaKey": "char_003_kalts",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/7/72/%E7%AB%8B%E7%BB%98_%E5%87%AF%E5%B0%94%E5%B8%8C_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/6/65/%E7%AB%8B%E7%BB%98_%E5%87%AF%E5%B0%94%E5%B8%8C_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/0/0f/%E7%AB%8B%E7%BB%98_%E5%87%AF%E5%B0%94%E5%B8%8C_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -1475,15 +1479,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "新たな年の到来だな。短い休暇ではあるが、節度を持って合理的に過ごしてほしい。この一年、君が医務室で時間を浪費してしまわぬよう、健康に過ごせることを願うよ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "It is once again the New Year. I only hope that you will find a suitable manner with which you can enjoy this brief holiday logically. Additionally, I wish that you will enjoy this upcoming year in good health, and won't spend too much time in the infirmary."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새로운 한 해가 왔네. 합리적인 방식으로 이 짧은 휴가를 보내길 바라지. 물론 올해도 건강하고, 너무 쓸데없이 의료실에서 시간 낭비하지 말도록."
         },
         {
           "language": "繁体中文",
@@ -1495,15 +1499,15 @@
         },
         {
           "language": "日文(残余)",
-          "content": ""
+          "content": "祝祭日というのは、もはや人々に喜びをもたらすものではないかもしれない。しかし我々には、記念に値するものはもうあまり残されていないのだから、こうした貴重な記憶までも源石に奪われていくのは止めるべきだ。ドクター、これが君に贈れる祝福の言葉だ。"
         },
         {
           "language": "英文(残余)",
-          "content": ""
+          "content": "Holidays may not provide much joy to anyone anymore, but there is not much left to commemorate. Do not let Originium take away these precious memories too. These are the best wishes I can offer you."
         },
         {
           "language": "韩文(残余)",
-          "content": ""
+          "content": "기념일은 더 이상 사람들에게 기쁨을 선사할 수 없을지도 몰라. 하지만 지금 우리에게는 기념할 만한 것들이 얼마 남지 않았으니, 이런 소중한 기억마저 오리지늄에게 빼앗겨선 안 돼. 박사, 내가 너에게 해줄 수 있는 축복 인사는 이것 뿐이야."
         }
       ]
     },
@@ -1550,12 +1554,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "罗德岛所承载的意义，不该由任何人来告诉你，也不该被无法触及的回忆束缚，而是需要现在的你自己找到答案。终有一天，你会决定罗德岛的航向。相信你做出的选择，会为我们谈论过的理想负责。"
+          "content": "这是你选择的日子，对吗？我不会询问你这个日子的特殊意义，你可以保留这个答案。我只是希望，你的选择可以让此处的存在具备意义。当然，如果你愿意的话，我也会为你送上祝福。生日快乐。"
         },
         {
           "language": "日文",
@@ -1575,7 +1579,7 @@
         },
         {
           "language": "中文(残余)",
-          "content": "罗德岛上的灯光点亮夜空，人们在舰桥与舱室中彻夜狂欢。这是曾经属于干员们的好日子，而此时此刻，他们只能关闭电源，在黑暗中早早入睡。我们今日的一切努力，皆是为了让文明重新照亮大地。"
+          "content": "今天我会回到方舟，我希望能隔着抗源石帷幕见你一面。就和往年一样。"
         },
         {
           "language": "日文(残余)",
@@ -1588,6 +1592,48 @@
         {
           "language": "韩文(残余)",
           "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛所承载的意义，不该由任何人来告诉你，也不该被无法触及的回忆束缚，而是需要现在的你自己找到答案。终有一天，你会决定罗德岛的航向。相信你做出的选择，会为我们谈论过的理想负责。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスの存在意義は誰かに教わるものではないし、触れることも叶わない過去に縛られるべきものでもない。重要なのは、今の君がその答えを導き出すことだ。いつの日か、君がロドスの進路を決める時が訪れるだろう。その選択によって、我々が共に議論を重ねた理想が果たされると、私は信じている。"
+        },
+        {
+          "language": "英文",
+          "content": "It is not for anyone to tell you what the significance Rhodes Island carries is. Neither should you be bound by your unreachable memories. Instead, the current you must find that answer yourself. There will come a day when you'd decide Rhodes Island's course. I trust that your decision will bear responsibility to the ideals that we discussed."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드가 지닌 의미는 다른 사람의 생각이어서도 안 되며, 또 닿을 수 없는 기억에 얽매여서도 안 돼. 그 답은 지금의 너 스스로 찾아야만 해. 결국 언젠가 네가 로도스 아일랜드의 항로를 결정하는 날이 오겠지. 난 너의 선택이 우리가 나누었던 이상에 대한 책임을 질 거라고 믿고 있어."
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        },
+        {
+          "language": "中文(残余)",
+          "content": "罗德岛上的灯光点亮夜空，人们在舰桥与舱室中彻夜狂欢。这是曾经属于干员们的好日子，而此时此刻，他们只能关闭电源，在黑暗中早早入睡。我们今日的一切努力，皆是为了让文明重新照亮大地。"
+        },
+        {
+          "language": "日文(残余)",
+          "content": "ロドスの明かりが夜空を照らし、人々はブリッジと船室で夜通し狂騒の宴を続ける。これがかつてオペレーターたちの有していた良き日々だ。だが、今この時、彼らは電源を落とし、暗闇の中で早々に寝入るしかない。我々が今日までに払い続け、これからも継続する努力の全ては、再び文明の光で大地を照らすためにある。"
+        },
+        {
+          "language": "英文(残余)",
+          "content": "The lights of Rhodes Island once illuminated the night sky, and everyone aboard celebrated throughout the night, both on the bridge and in their cabins. Those were the good old days, yet now our operators can only shut off their electricity and drift to sleep even a moment sooner. All the effort we put in today is to allow civilization to shed light upon the lands anew."
+        },
+        {
+          "language": "韩文(残余)",
+          "content": "로도스 아일랜드의 불빛이 밤하늘을 밝히고, 사람들은 함교와 선실에서 밤새 파티를 열었었지. 하지만 이제는 모두 지난날의 추억일 뿐, 지금은 모두 불을 끄고 어둠 속에서 일찍 잠들 수밖에 없어. 언젠가 문명의 빛으로 이 대지를 다시 환히 비추기 위해 오늘도 우리는 노력할 거야."
         }
       ]
     }

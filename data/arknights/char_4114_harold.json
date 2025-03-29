@@ -1,7 +1,11 @@
 {
   "name": "哈洛德",
   "charaKey": "char_4114_harold",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/3/37/%E7%AB%8B%E7%BB%98_%E5%93%88%E6%B4%9B%E5%BE%B7_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/5/54/%E7%AB%8B%E7%BB%98_%E5%93%88%E6%B4%9B%E5%BE%B7_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/9/9d/%E7%AB%8B%E7%BB%98_%E5%93%88%E6%B4%9B%E5%BE%B7_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -779,7 +783,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "やや、我らがドクターはお人がいい。老人が独りで寂しい思いをしていないか心配して、わざわざ顔を見に来てくださったのですね。ハハハ、無事に新年を迎えられて嬉しいですな。そうだ、あと何日もすれば家族がロドスを訪ねますが、その際には我が家の晩餐会にもぜひ顔を出してくださいませ。"
+        },
+        {
+          "language": "英文",
+          "content": "Goodness, how saintly is our Doctor that you would worry I be devoid of companionship, let alone ask after me? Hah-hah-hah, but a Happy New Year. Yes, lest I forget, my family chances to trip to Rhodes Island in a couple of days, and I'd be remiss to not personally invite you to our household dinner."
+        },
+        {
+          "language": "韩文",
+          "content": "이런, 박사님은 참으로 따뜻한 분이시군요. 제가 행여나 홀로 쓸쓸해할까 이렇게 굳이 찾아와서 안부를 물으시고. 하하하, 새해 복 많이 받으십시오. 그렇지, 며칠 뒤에 제 가족들이 로도스 아일랜드에 방문할 예정인데, 그때 가족 식사에 한번 초대드리지요. 박사님께서 참석해 주신다면 더할 나위 없는 영광일 겁니다."
         }
       ]
     },
@@ -806,6 +818,28 @@
       ]
     },
     {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唉，每逢有人生日，我就会想起在女儿还小的时候，因为战事而错过了几次她的生日——后来，她逐渐也就不在意我会不会在了。抱歉，到了我这个岁数，总是会触景生情。蛋糕，您想切成几份？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        }
+      ]
+    },
+    {
       "title": "周年庆典",
       "filename": "CN_044.wav",
       "text": [
@@ -815,7 +849,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "立場というものがありますから、口に出せないことは互いにありましょう。ただ、一つ確かなこととして、我々には戦争を忌み嫌っているという共通点があります。この事実だけでも、席を共にし、腹を割って杯を酌み交わすには十分でしょう。"
+        },
+        {
+          "language": "英文",
+          "content": "Being of two different stations, some things I can't tell you, nor could you I. But there is one point we needn't doubt—we both are fed up with war. I imagine that's more than enough reason we might sit down together, open and honest, and share a drink."
+        },
+        {
+          "language": "韩文",
+          "content": "저희는 입장이 다르기에, 서로 꺼낼 수 없는 이야기가 있지요. 하지만 이것 하나는 확실합니다…… 저희 모두 전쟁을 싫어한다는 것. 그것만으로도 함께 속을 터놓고 한잔하기엔 충분할 것 같군요."
         }
       ]
     }

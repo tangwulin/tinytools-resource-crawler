@@ -1,7 +1,11 @@
 {
   "name": "送葬人",
   "charaKey": "char_279_excu",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/7/76/%E7%AB%8B%E7%BB%98_%E9%80%81%E8%91%AC%E4%BA%BA_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/f/fa/%E7%AB%8B%E7%BB%98_%E9%80%81%E8%91%AC%E4%BA%BA_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/9/99/%E7%AB%8B%E7%BB%98_%E9%80%81%E8%91%AC%E4%BA%BA_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -915,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、本日デッキには大量の花火が積んであります。これを悪用して破壊行為に及ぼうとする者がいれば、待ち受けているのは悲惨な結果でしょう。あなたの身の安全のためにも、今一度確認をしてきます――必要ない？了解しました、ドクターのご判断に従います。しかし、こうした方法は、次回の任務で活かせるかもしれませんね。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Doctor, a pile of fireworks is amassed on the deck. There would be severe consequences if someone decides to use them for vadalism. For your safety, I will return to inspect— No? Roger that, I respect your decision. Just for the record, such tactics as raised may be applicable in our next operation."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "박사님, 오늘 갑판 위에 수많은 폭죽들이 놓여 있더군요. 만약 누군가가 이를 이용해 일을 벌인다면, 그 결과는 감히 상상할 수도 없을 겁니다. 박사님의 안전을 위해서 제가 다시 확인을…… 그럴 필요 없다고요? 박사님께서 그렇게 말씀하신다면, 당신의 판단을 존중하겠습니다. 그건 그렇고, 이 방법은 다음 작전에서 활용할 수 있을지도 모르겠군요."
         },
         {
           "language": "繁体中文",
@@ -958,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "我会严格执行罗德岛派给我的每一个任务，就如同执行公证所的命令一样。但是相对而言，您指派的任务更能体现我的效率。不，我无意比较合作对象。我只是想说，您的确是一位优秀的指挥者。"
+          "content": "生日快乐，博士。我和其他人一样为您准备了礼物。但我不确定，在不了解其中含义的情况下，只是对形式的模仿是否会招致您的不悦。或许我该换一种问法——今天，我可以做什么令你开心的事情吗？"
         },
         {
           "language": "日文",
@@ -976,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我会严格执行罗德岛派给我的每一个任务，就如同执行公证所的命令一样。但是相对而言，您指派的任务更能体现我的效率。不，我无意比较合作对象。我只是想说，您的确是一位优秀的指挥者。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスから与えられた任務は、全て公証人役場のものと同様に規律をもって遂行します。しかし、どちらかというと、ドクターの方が私の能力を活かすことができます。いえ、仕事のパートナーを比較しているわけではありません。ただ、あなたは確かに優秀な指揮官であるということを伝えたかっただけです。"
+        },
+        {
+          "language": "英文",
+          "content": "I execute every assignment from Rhodes Island stringently, as I do with instructions from the Notarial Hall. However, when contrasted, your assignments better reflect my efficiency. No, I have no intent of comparing partner organizations. I simply mean to say that you are a truly outstanding commander."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드의 임무도 공증소의 명령을 집행하는 것처럼 진지하게 임하고 있습니다. 하지만 박사님께서 배정해 주시는 임무는 더 좋은 효율을 낼 수 있더군요. 아니요, 비교하고자 하는 게 아닙니다. 제 말은, 박사님께선 아주 훌륭한 지휘관이시라는 겁니다."
         },
         {
           "language": "繁体中文",

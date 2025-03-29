@@ -1,7 +1,11 @@
 {
   "name": "安哲拉",
   "charaKey": "char_218_cuttle",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/2/2e/%E7%AB%8B%E7%BB%98_%E5%AE%89%E5%93%B2%E6%8B%89_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/4/45/%E7%AB%8B%E7%BB%98_%E5%AE%89%E5%93%B2%E6%8B%89_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/6/6f/%E7%AB%8B%E7%BB%98_%E5%AE%89%E5%93%B2%E6%8B%89_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -83,7 +87,7 @@
         },
         {
           "language": "英文",
-          "content": "That Skadi and Spectre, those friends from the same race, when I see those two, it's almost as if... I don't know exactly how to describe it, but it's kind of like that love at first sight from those fairy tales? No way, huh. If that was the case, maybe I should get dressed up..."
+          "content": "That Skadi and Specter, those friends from the same race, when I see those two, it's almost as if... I don't know exactly how to describe it, but it's kind of like that love at first sight from those fairy tales? No way, huh. If that was the case, maybe I should get dressed up..."
         },
         {
           "language": "韩文",
@@ -425,7 +429,7 @@
         },
         {
           "language": "韩文",
-          "content": "내가 팀의 지휘를? 흠…… 생각해 볼게."
+          "content": "내가 팀의 지휘를? 흠…… 그럼 열심히 해볼게."
         },
         {
           "language": "繁体中文",
@@ -911,15 +915,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あけましておめでとう、ドクター。こんな大勢で年越しするのは初めてだけど、悪くないもんだね。あっ、そういえば出発前に母さんに手紙書くって約束したのに、すっかり忘れてた。今から書こう。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "TBU"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받아, 박사. 이렇게 많은 사람들하고 새해를 보내는 건 처음인데, 나쁘진 않네. 앗, 그러고 보니 출발하기 전에 엄마한테 편지 쓰기로 했는데 완전히 까먹고 있었네. 지금 얼른 써야겠다."
         },
         {
           "language": "繁体中文",
@@ -954,12 +958,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "我原本没有对未来计划那么多，没想到自己也渐渐地走到了这一步，这样一看，当初跟着莫妮卡一起来是件好事呢......现在对未来的看法？嗯......好麻烦，还是没有。"
+          "content": "生日快乐！礼物在这里，我之前给莫妮卡买了一个，感觉很好用，就给博士你也买了，作息不规律者的克星——超强时间表闹铃。一旦设定完成却没有遵守，它的铃声能传到你两座城外的姨妈耳朵里。"
         },
         {
           "language": "日文",
@@ -972,6 +976,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我原本没有对未来计划那么多，没想到自己也渐渐地走到了这一步，这样一看，当初跟着莫妮卡一起来是件好事呢......现在对未来的看法？嗯......好麻烦，还是没有。"
+        },
+        {
+          "language": "日文",
+          "content": "先のことなんてほとんど考えてなかったけど、気付けばいつの間にかこんなところまで進めてた。こうして振り返ってみると、あの時モニカについてきてよかったのかもね。今の将来設計？うーん……考えるのも面倒くさいから、やっぱり特にないかな。"
+        },
+        {
+          "language": "英文",
+          "content": "TBU"
+        },
+        {
+          "language": "韩文",
+          "content": "난 미래 계획을 철저하게 세우는 타입이 아닌데, 어쩌다 보니 나도 모르는 새에 여기까지 오게 되었네. 지금 보면, 그때 모니카를 따라서 여기 오길 정말 잘한 것 같아…… 지금은 미래에 대해 어떻게 생각하냐고? 으음…… 그런 건 역시 귀찮아, 지금도 없는 건 마찬가지야."
         },
         {
           "language": "繁体中文",

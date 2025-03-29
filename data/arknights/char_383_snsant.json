@@ -1,7 +1,11 @@
 {
   "name": "雪雉",
   "charaKey": "char_383_snsant",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/8/89/%E7%AB%8B%E7%BB%98_%E9%9B%AA%E9%9B%89_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/2/24/%E7%AB%8B%E7%BB%98_%E9%9B%AA%E9%9B%89_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/e/e0/%E7%AB%8B%E7%BB%98_%E9%9B%AA%E9%9B%89_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -281,7 +285,7 @@
         },
         {
           "language": "韩文",
-          "content": "모두가 주목하는 대과학자가 돼서, 잔~뜩, 진짜 자안~뜩 돈을 벌게 되면, 저는 꼭 매일 세 끼에 디저트까지 먹을 거예요! 제시카 씨처럼요! 그리고 아무런 제약 없이 용문의 발전에 힘을…… 네, 만약 그런 날이 온다면… 말이지만요."
+          "content": "모두가 주목하는 대과학자가 돼서, 잔~뜩, 진짜 자안~뜩 돈을 벌게 되면, 저는 꼭 매일 세 끼에 디저트까지 먹을 거예요! 제시카 씨처럼요! 그리고 아무런 제약 없이 용문의 발전에 힘을…… 네, 만약 그런 날이 온다면…… 말이지만요."
         },
         {
           "language": "繁体中文",
@@ -1191,15 +1195,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "今日は祝日なんですか？だから食堂にあんな豪華なビュッフェが用意されていたんですね。久しぶりにちゃんとしたものが食べられそうです、えへへ。そういえば、ロドスの祝日って多いですよね。その時間を使って副業をすれば、もっと研究費を稼げたりしませんかね……"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "So today's a holiday? No wonder the canteen has such an amazing spread. I can finally enjoy a proper meal, heheh. Speaking of which, Rhodes Island sure has a lot of holidays. If I take another job in the downtime, maybe I can make a little more money..."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "오늘이 특별한 날인가 봐요. 어쩐지 식당에 뷔페가 준비되어 있더라고요. 드디어 제대로 한 끼를 먹을 수 있겠어요, 헤헤. 그나저나 이렇게 매번 로도스 아일랜드의 명절 때마다 아르바이트를 한다면 경비를 조금 더 벌 수 있을 것 같기도 한데……"
         },
         {
           "language": "繁体中文",
@@ -1250,12 +1254,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "虽然罗德岛的条件不算很宽裕，不，能吃饱穿暖，已经相当宽裕了......总之，能有这样支持我做科研工作的环境，我真的很感激！我也要加倍努力，做出对得起实验经费的成果才行！"
+          "content": "博士，生日快乐！感谢您一直以来的照顾，我为您准备了礼物。可以纠正坐姿的人体工程学椅还有文件自动整理装置，都是我自己做的。虽然用的是很便宜的材料，但质量一定没有问题的。"
         },
         {
           "language": "日文",
@@ -1268,6 +1272,40 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        },
+        {
+          "language": "中文-方言",
+          "content": "博士，生日快乐！谢谢你长久以来的照顾，我拨你准备了礼物。可以纠正坐姿的人体工程学椅子还有文件自动整理装置，都是我自家做的。虽然用的是冒便宜的材料，但质量一定是没问题的。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "虽然罗德岛的条件不算很宽裕，不，能吃饱穿暖，已经相当宽裕了......总之，能有这样支持我做科研工作的环境，我真的很感激！我也要加倍努力，做出对得起实验经费的成果才行！"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスの研究環境は研究所には及びませんが……い、いえ、衣食住保証されているだけで、かなり恵まれている方だと思います……とにかく、こうやって研究を支えてくださる環境に置いていただけて、本当に感謝感激です！もっともっと頑張って、研究費に見合った成果を出さないとですね！"
+        },
+        {
+          "language": "英文",
+          "content": "Rhodes Island maybe can't offer me a super comfortable life... No, I get enough food and warm clothes here, that's already pretty comfy... A-Anyway, I'm extremely grateful to have a work environment that supports my R&amp;D like this. I will double up my efforts, and get results worth the experimental funding."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드에서 풍족하게 지내는 건 아니지만, 아, 아뇨…… 배불리 먹고, 따뜻하게 지낼 수 있는 것만으로도 충분해요. ……어쨌든 이렇게 제가 과학 연구를 할 수 있는 환경을 만들어 주셔서 감사합니다. 저도 실험 경비에 부응하는 성과를 내기 위해 더 노력해볼게요!"
         },
         {
           "language": "繁体中文",

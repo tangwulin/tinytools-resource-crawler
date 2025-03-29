@@ -1,7 +1,12 @@
 {
   "name": "黑",
   "charaKey": "char_340_shwaz",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/7/7b/%E7%AB%8B%E7%BB%98_%E9%BB%91_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/d/db/%E7%AB%8B%E7%BB%98_%E9%BB%91_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/d/d7/%E7%AB%8B%E7%BB%98_%E9%BB%91_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/6/6c/%E7%AB%8B%E7%BB%98_%E9%BB%91_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -351,7 +356,7 @@
         },
         {
           "language": "韩文",
-          "content": "드디어 깨달았습니다. 로도스 아일랜드가 저를 필요로 하는 의미를…… 당신들의 이상은 저의 과거 따윈 희미해져 버릴 정도로, 어처구니없는 곳에 있군요."
+          "content": "드디어 깨달았습니다. 로도스 아일랜드가 왜 저를 필요로 했는지…… 당신들의 이상은 제가 과거에 했던 일보다 백 배 정도는 더 어처구니 없는 곳에 있군요."
         },
         {
           "language": "繁体中文",
@@ -507,7 +512,7 @@
         },
         {
           "language": "韩文",
-          "content": "도움이 될 것 같습니까?"
+          "content": "제 도움이 필요하신가요?"
         },
         {
           "language": "繁体中文",
@@ -915,15 +920,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "新年、ですか？新しい一年への期待は小さい頃になくしてしまいました。ただ……セイロン様はそういうのがお好きです。かつては年末になるたび、ご留学先のヴィクトリアからセイロン様を故郷に迎え、留学中のお話を色々伺ったものです。ドクター、もし嫌でなければ、のちほど紅茶をご一緒しませんか。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "New Year's? I only looked forward to New Year's when I was very young, then I lost interest, but... Lady Ceylon enjoys it. I used to escort her home from Victoria at the tail end of the year, and she'd tell me what she'd been up to while away at university. Right, Doctor, you can come have a cup of tea with us later if you are interested."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해, 말씀이신가요? 새로운 한 해를 기대하는 건 어릴 때 그만뒀습니다. 다만…… 실론 님은 그런 걸 좋아하십니다. 예전에는 연말이면 빅토리아로 가 실론 님을 모셔왔습니다. 오는 길에 실론 님은 유학 중에 겪은 이야기를 해주곤 하셨죠. 박사님, 괜찮으시다면, 잠시 후에 같이 홍차 한잔 마시지 않으시겠습니까?"
         },
         {
           "language": "繁体中文",
@@ -958,12 +963,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "老爷帮助我完成了复仇，带给我一段新的人生，小姐则是教会了我如何看到一个更温柔的大地。而你们，我也十分感谢，罗德岛让小姐坚定了她的目标，我也能更放心地去明确自己战斗的方向。"
+          "content": "给，生日礼物。小姐挑选礼物时我也在，所以选了和茶具相配套的下午茶餐碟。休息时除了泡茶放松，也可以吃一些点心。"
         },
         {
           "language": "日文",
@@ -976,6 +981,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "老爷帮助我完成了复仇，带给我一段新的人生，小姐则是教会了我如何看到一个更温柔的大地。而你们，我也十分感谢，罗德岛让小姐坚定了她的目标，我也能更放心地去明确自己战斗的方向。"
+        },
+        {
+          "language": "日文",
+          "content": "旦那様のおかげで私は復讐を遂げ、新しい人生を歩むことができました。セイロン様のおかげで、私はこの大地の優しい一面が見えるようになりました。そして、あなた方にも感謝しています。ロドスが背を押したことでセイロン様は進むべき道を定め、私自身も、気兼ねなく戦いの信条を明確化することができたのですから。"
+        },
+        {
+          "language": "英文",
+          "content": "Master Doykos helped me to get my revenge, and gave me a new life, while Lady Ceylon taught me to see a warmer, gentler world. I'm also greatly thankful to you all. Rhodes Island lets Lady Ceylon be firm in her goal, and I can be more confidently clear in knowing where my fight is headed."
+        },
+        {
+          "language": "韩文",
+          "content": "주인님 덕분에 저는 복수를 하고, 새로운 삶을 살 수 있었습니다. 그리고 실론 님은 제게 이 대지의 부드러운 면을 보여주셨죠…… 당신들에게도 정말 감사하고 있습니다. 로도스 아일랜드 덕분에 아가씨는 나아갈 길을 정할 수 있었고, 저도 제 싸움의 신조를 명확히 할 수 있었습니다."
         },
         {
           "language": "繁体中文",

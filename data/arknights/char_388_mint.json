@@ -1,7 +1,12 @@
 {
   "name": "薄绿",
   "charaKey": "char_388_mint",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/d/d8/%E7%AB%8B%E7%BB%98_%E8%96%84%E7%BB%BF_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/2/20/%E7%AB%8B%E7%BB%98_%E8%96%84%E7%BB%BF_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/e/e4/%E7%AB%8B%E7%BB%98_%E8%96%84%E7%BB%BF_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/6/62/%E7%AB%8B%E7%BB%98_%E8%96%84%E7%BB%BF_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -139,7 +144,7 @@
         },
         {
           "language": "英文",
-          "content": "I like reading, but I love hanging out with everyone too! It makes me so happy when I can be with the people I like. Also, don't let my looks fool you. I'm really good at sporty stuff! Especially climbing trees. I can climb super high!"
+          "content": "I like reading, but I like hanging out with everyone too! It makes me so happy when I can be with the people I like. Also, don't be fooled. I'm really good at sporty stuff! Especially climbing trees. I can climb super high!"
         },
         {
           "language": "韩文",
@@ -165,7 +170,7 @@
         },
         {
           "language": "英文",
-          "content": "Thank goodness my group's research wasn't halted after my accident, because I talked to Miss Eyjafjalla today, and she's given me a lot of new inspiration! She's very well-researched on environmental geology, heehee. If I can just get results this time, that'll let me reapply to the Institution to resume my studies."
+          "content": "I got some new inspiration after talking to Miss Eyjafjalla today! She's very well-researched on environmental geology. Thank goodness my group's research wasn't stopped because of my accident. Heheh! If I get results this time, I can reapply to the Institution to resume my studies."
         },
         {
           "language": "韩文",
@@ -915,15 +920,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "うーん……ちょっとパパとママに会いたくなっちゃったなぁ。スカイフレア先輩も、長い間ずっとお家に帰ってないし、どうやってホームシックを解消しているのか聞いてこようかな……あ、ドクター、今日ロドスにトランスポーターは来ますか？手紙を送りたいなと思って。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Hm... I'm starting to miss my mum and dad. Skyfire has been away from home for so long. Maybe I should ask her how she manages... Oh, Doctor. Will a Messenger visit Rhodes Island today? I have a letter I'd like to post."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "으음…… 부모님이 조금 보고 싶어졌어요. 스카이파이어 선배님도 오랫동안 집에 돌아가지 않으셨던데, 나중에 선배님한테 어떻게 극복하셨는지 물어볼까 봐요…… 아, 박사님, 혹시 오늘 로도스 아일랜드에 전달자분이 오시나요? 편지를 보내고 싶어서요."
         },
         {
           "language": "繁体中文",
@@ -958,12 +963,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "要是可以参与更多的研究项目就好啦，导师还有团队成员总是太照顾我，担心过度劳累对病情不好，都不太让我参与一线的勘测了。我一定要在罗德岛好好治病，这样才能尽快回去投身于研究呀。"
+          "content": "博士，这本书是礼物，生日快乐！看，我在封面上画了我最近捡到的好看的矿石，我可是专门找了和石头光泽非常相近的颜料呢！当然，这些小石头也是礼物，博士你喜欢吗？一起收下吧。"
         },
         {
           "language": "日文",
@@ -976,6 +981,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要是可以参与更多的研究项目就好啦，导师还有团队成员总是太照顾我，担心过度劳累对病情不好，都不太让我参与一线的勘测了。我一定要在罗德岛好好治病，这样才能尽快回去投身于研究呀。"
+        },
+        {
+          "language": "日文",
+          "content": "もっとたくさんの研究プロジェクトに参加できたらいいなと思うんですけど、先生もチームメンバーも過保護で、無理をすると症状が悪化するかもしれないからって、なかなか現場の調査には参加させてくれません。だから、絶対にロドスでちゃんと病気を治すんです。そうすれば、早めに戻って研究に専念できますから。"
+        },
+        {
+          "language": "英文",
+          "content": "I wish I could participate in more research projects. My instructor and teammates always take such good care of me. They're worried my illness could get worse if I push myself too hard, so they don't let me join them on the surveys... I must get better at Rhodes Island so I can go back and focus on my research."
+        },
+        {
+          "language": "韩文",
+          "content": "더 많은 연구 프로젝트에 참여할 수 있었으면 좋겠어요. 무리하면 증상이 악화될 수 있다며, 교수님도 다른 팀원들도 제가 현장 조사하는 걸 자꾸 만류하시거든요. 그래서 전, 꼭 로도스 아일랜드에서 열심히 치료받을 거예요. 그래야 빨리 돌아가서 연구에 전념할 수 있을 테니까요."
         },
         {
           "language": "繁体中文",

@@ -614,7 +614,7 @@
         },
         {
           "language": "韩文",
-          "content": "여러분이 상처를 입으셔도… 이 지팡이로 확실하게 치료해드릴게요!"
+          "content": "여러분이 상처를 입으셔도…… 이 지팡이로 확실하게 치료해드릴게요!"
         },
         {
           "language": "繁体中文",
@@ -692,7 +692,7 @@
         },
         {
           "language": "韩文",
-          "content": "안 되겠어… 응급 치료를…!"
+          "content": "안 되겠어…… 응급 치료를……!"
         },
         {
           "language": "繁体中文",
@@ -814,15 +814,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、新しい健康管理表ですよ！大丈夫です、安心してください。今日はこんなにごちそうが並んでいるんですし、特別に許可しますよ――揚げ物を一口！一口だけですからね！"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Here, Doctor, your new customized healthy daily schedule! Relax, given this full table of gourmet food we have here, I will make an exception today. I will allow you — one bite of fries! That'll be my most generous offer!"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "박사님, 새로운 건강 스케줄입니다! 걱정하실 필요 없어요. 오늘은 이렇게 맛있는 요리로 한 상 가득 차렸으니, 제가 특별히…… 튀김 한 입 정도는 허락할게요! 더 이상은 안 돼요!"
         },
         {
           "language": "繁体中文",
@@ -857,12 +857,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "原来今天有庆典啊，我忙得都忘了......不过，只要还有一个伤员，医生就不会休息。何况我还要成为更厉害的医师，我继续去忙了！"
+          "content": "博士，别藏着了，我已经看到蛋糕了！......送了这么多？打发一份奶油就需要三大勺的糖，更何况加进去的还有瘤奶和黄油，我知道是心意啦，用眼睛欣赏就——不要在我说话的时候偷吃啊！"
         },
         {
           "language": "日文",
@@ -875,6 +875,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "原来今天有庆典啊，我忙得都忘了......不过，只要还有一个伤员，医生就不会休息。何况我还要成为更厉害的医师，我继续去忙了！"
+        },
+        {
+          "language": "日文",
+          "content": "今日は記念日だったんですね。私ったら忙しくってすっかり忘れてしまいました……でも、患者が一人でもいる限り、医師に休みはありません。それに私は、今よりもっとすごいお医者さんにならなきゃいけませんから。では仕事に戻りますね！"
+        },
+        {
+          "language": "英文",
+          "content": "They had a celebration today? I was so occupied that I hardly noticed… Doesn't matter, as long as there are wounded looking for treatment, my job's not finished. Not to mention the goal I set for myself to become a better medic. See you then, Doctor, for I still got works to tend to!"
+        },
+        {
+          "language": "韩文",
+          "content": "오늘 축제가 있었군요. 바빠서 깜빡했네요…… 하지만 단 한 명의 환자라도 있다면, 의사에게 휴식은 없답니다. 게다가 저는 더욱 뛰어난 의사가 되고 싶은걸요. 그러니 저는 계속 일하러 가볼게요!"
         },
         {
           "language": "繁体中文",

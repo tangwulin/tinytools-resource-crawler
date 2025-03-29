@@ -1,7 +1,10 @@
 {
   "name": "历阵锐枪芬",
   "charaKey": "char_1036_fang2",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/6/6d/%E7%AB%8B%E7%BB%98_%E5%8E%86%E9%98%B5%E9%94%90%E6%9E%AA%E8%8A%AC_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/f/f5/%E7%AB%8B%E7%BB%98_%E5%8E%86%E9%98%B5%E9%94%90%E6%9E%AA%E8%8A%AC_2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -10,6 +13,14 @@
     {
       "language": "中文-普通话",
       "base": "voice_cn/char_1036_fang2"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_1036_fang2"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_1036_fang2"
     }
   ],
   "voiceList": [
@@ -23,7 +34,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、本日中に対応が必要な書類を種別に整理しておきました。続けて作業もお手伝いしますので、一緒に片付けましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "I've arranged today's paperwork by category, Doctor. Allow me to assist you with it."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 오늘 처리해야 할 문서들을 종류별로 정리해 뒀습니다. 이제부턴 제가 박사님의 업무를 도와드리겠습니다."
         }
       ]
     },
@@ -37,7 +56,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "前回帰艦した際にハイビスとラヴァを見かけたんですが、相変わらず口げんかをしていました。二人ともだいぶ成長したはずなのに、やっぱり気が合わないようです。ドクター、誰にでもずっと変わらない一面があるものなのでしょうか？"
+        },
+        {
+          "language": "英文",
+          "content": "I ran into Hibiscus and Lava the last time I came aboard. They were bickering about something or other, as per usual. The two sisters might've grown a lot, but they still love their daily squabbles. Doctor, do you think everybody has one thing about them... that they can never change?"
+        },
+        {
+          "language": "韩文",
+          "content": "지난번에 함선으로 돌아왔을 때, 히비스커스랑 라바를 만났어요. 분명 많이 성장한 모습이었는데 여전히 투닥거리더라고요. 박사님, 사람이라면 누구나 변하지 않는 구석이 있는 걸까요?"
         }
       ]
     },
@@ -51,7 +78,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "休暇中は何をするか、ですか？ええと……このあいだのお休みには、あの事件の生存者と「レッドハンド」の皆さんのところに伺ってきました。彼らが一生懸命に暮らしている様子を目の当たりにして、ロドスの「弱きを助く」理念への理解がより深まったように思います。"
+        },
+        {
+          "language": "英文",
+          "content": "What do I do with my time off? Hmm... Well, last time, I went to see the Red Hand Gang and the survivors of that incident. Their perseverance helped me understand, on a deeper level, why Rhodes Island helps people."
+        },
+        {
+          "language": "韩文",
+          "content": "휴가 땐 뭘 하냐고요? 으음…… 지난 휴가 땐, 그 사건의 생존자들과 '레드핸드' 사람들을 만나고 왔어요. 그들이 열심히 살아가는 모습을 보고 있자니, 로도스 아일랜드의 타인을 돕는다라는 이념에 대해서 더 깊이 이해할 수 있었죠."
         }
       ]
     },
@@ -65,7 +100,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、必要最低限のトレーニングはしっかり行った方がいいですよ。一度も訓練を欠席したことのない私ですら、戦場で怪我をする時はあるんです。この二本の傷跡が何よりの証拠です。"
+        },
+        {
+          "language": "英文",
+          "content": "Please don't avoid necessary training, Doctor. You see, I never missed a single training session. I wouldn't say it makes you totally untouchable in battle, but it can keep you alive. My two scars are proof of that."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 생존에 필요한 최소한의 훈련은 빼먹지 말아 주세요. 단 한 번도 훈련에 빠진 적이 없는 저조차도 전장에서 부상을 입을 때가 있습니다. 여기 이 두 개의 흉터가 바로 그 증거예요."
         }
       ]
     },
@@ -79,7 +122,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "Aceさんがロドス加入を勧めてくれた時のことをよく思い出します。きっと素晴らしいオペレーターになれると励ましてくださったんです。私はそれを目標に訓練に励んできましたが、正式なオペレーターになって初めて、その期待の重さを実感しました。"
+        },
+        {
+          "language": "英文",
+          "content": "I often think back to when Ace encouraged me to join Rhodes Island. He said I'd become a great operator. That's been my motivation to keep me going through my training. But... it was only when I officially became an operator, that I understood the weight of his expectations."
+        },
+        {
+          "language": "韩文",
+          "content": "Ace 씨가 로도스 아일랜드 합류를 권유해 주셨을 때가 떠오르곤 합니다. 분명 제가 훌륭한 오퍼레이터가 될 수 있을 거라고 격려해주셨었는데…… 전 그 목표를 이루기 위해 지금까지 훈련에 매진해왔지만, 정식 오퍼레이터가 되고 나서야 비로소 그 기대의 무게를 실감할 수 있었습니다."
         }
       ]
     },
@@ -93,7 +144,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクターは戦争からどのような教訓を得ましたか？私は戦場に身を置いて初めて、上官の目に映る兵士というものは、勝利のための消耗品でしかないことに気付かされました。それ以来、どうやってチームを率いるべきかをよく考えるようになったんです。私はああいう冷酷な指揮官になりたくありませんから。"
+        },
+        {
+          "language": "英文",
+          "content": "What has war revealed to you, Doctor? When I finally stood on the battlefield myself, I came to understand that many commanders see their troops as sacrificial pawns for victory. Ever since, I've always been reviewing and reassessing how I lead my squad. I'm not going to let myself become that kind of commander."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 박사님은 전쟁에서 어떤 교훈을 얻으셨나요? 전장에 발을 들이고 나서야, 전 상관의 눈에 비치는 병사들은 그저, 승리를 위한 소모품에 불과하다는 것을 깨달았습니다. 그 이후로 팀을 어떻게 이끌어야 할지에 대해서 자주 고민하게 되더군요. 전 그런 냉혹한 지휘관이 되고 싶지 않아요."
         }
       ]
     },
@@ -107,7 +166,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ロンディニウム滞在中、公爵連合軍の兵士に私たちの行いは愚かだとあざ笑われたことがありました。ですが、もしロドスのやっていることが「愚か」なのであれば、もうこの大地に「賢い」と言える行いはどこにもないと思います。"
+        },
+        {
+          "language": "英文",
+          "content": "Once back in Londinium, some soldiers from the coalition of dukes laughed at us, calling us fools. But if Rhodes Island's operations really are foolish, then I doubt any action on this land could be called wise."
+        },
+        {
+          "language": "韩文",
+          "content": "런디니움에 체류하던 당시, 공작 연합군의 병사들에게 저희의 행동은 어리석은 짓이라고 놀림받았던 적이 있습니다. 하지만 만약 로도스 아일랜드의 이런 행동이 '어리석다'라고 표현되는 거라면, 이 대지에는 더 이상 '현명하다'라고 할 수 있는 행동도 없겠죠."
         }
       ]
     },
@@ -121,7 +188,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "時々、訓練場に行って新人の訓練を手伝っています。新人たちが早く訓練に慣れるための力添えができればと常々願っているので、彼らがミスすると当人以上に焦ってしまうんですよね。ですがドーベルマン教官からは、いつも「焦らずゆっくりでいい」となだめられてしまって。はぁ、私もまだまだ未熟ですね。"
+        },
+        {
+          "language": "英文",
+          "content": "I sometimes go to the training grounds to guide the recruits. Most times, I'm more worried than they are about any mistakes. I always feel like I should be doing something to help push them along faster. But as Instructor Dobermann always says, I need to relax and give them more time. It looks like I still have a lot to learn."
+        },
+        {
+          "language": "韩文",
+          "content": "가끔 훈련장에 가서 신입들의 훈련을 돕고 있습니다. 신입들이 조금이라도 더 빨리 훈련에 적응했으면 하는 바람 때문일까요, 그들이 실수할 때면 실수한 당사자보다 제가 더 초조해 지곤 합니다. 하지만 그럴 때마다 도베르만 선생님께선 늘 마음을 내려놓고 천천히 해도 된다며 저를 달래주셨어요. 하아, 저도 아직 배워야 할 게 많이 남은 모양이에요."
         }
       ]
     },
@@ -135,7 +210,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "鉱石病や感染者の問題は、私にとってはあまりにも複雑で到底抱えきれないものなので、普段は思い悩まず目の前の人たちを守ることに専念しています。ですがきっといつの日か、そういった問題を根こそぎ解決できると信じています。これからもずっと力になります、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Oripathy and the Infected are two very big and complex topics. The only thing I can worried about is protecting the people in front of me. But I'd like to believe that, someday, we'll find a solution to those problems. I'll be supporting you the whole way, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "광석병과 감염자 문제는 제게 있어 너무나도 복잡하고 방대한 것이어서, 평소엔 그저 제 눈앞에 있는 사람들을 지키는 데 전념하고 있습니다. 하지만 언젠가는 이런 문제들을 근본적으로 해결할 수 있을 거라고 믿고 있습니다. 앞으로도 계속 곁에서 힘이 되어 드릴게요, 박사님."
         }
       ]
     },
@@ -149,7 +232,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター？寝ちゃったのかな……じゃあ残りの仕事は私が片付けておこう。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor...? Oh, you are asleep. I'll handle the rest of your work, then."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님? 주무시는 건가…… 그럼 남은 업무는 내가 처리해두자."
         }
       ]
     },
@@ -163,7 +254,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "オペレーター・フェン、ご報告に上がりました。私が随分変わったように見える？はい、もう昔の私じゃありません。"
+        },
+        {
+          "language": "英文",
+          "content": "Rhodes Island Operator Fang, reporting in. I look different from before? Yeah, that's right."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드 오퍼레이터 팽, 보고드립니다. 많이 달라진 것 같다고요? 네, 저도 많이 변했답니다."
         }
       ]
     },
@@ -177,7 +276,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "今なら以前学んだ内容をより多面的に理解できるはずです。"
+        },
+        {
+          "language": "英文",
+          "content": "Now I better understand what I've learned."
+        },
+        {
+          "language": "韩文",
+          "content": "전에 배운 내용을 더 완벽하게 이해할 수 있게 되었습니다."
         }
       ]
     },
@@ -191,7 +298,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "抜擢いただきありがとうございます。これからもより精進して自分を磨いて参ります。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you for the promotion. I'll work even harder to improve myself."
+        },
+        {
+          "language": "韩文",
+          "content": "발탁해 주셔서 감사합니다. 앞으로도 더 노력하고 정진하겠습니다."
         }
       ]
     },
@@ -205,7 +320,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "弱きを助け、仲間を守り抜く。この信念を貫いて、一歩一歩前に進んで参ります。"
+        },
+        {
+          "language": "英文",
+          "content": "To support the weak and protect my friends. That is my creed. The firm hand guiding me forward."
+        },
+        {
+          "language": "韩文",
+          "content": "약자를 돕고 동료를 지킨다. 이 신념을 관철하며 한 걸음 한 걸음 굳건하게 나아가겠습니다."
         }
       ]
     },
@@ -219,7 +342,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "今回の作戦資料はすべて読み込んであります。いつでも行けます。"
+        },
+        {
+          "language": "英文",
+          "content": "I've read the intelligence report for this operation. Awaiting orders."
+        },
+        {
+          "language": "韩文",
+          "content": "이번 작전 정보는 모두 숙지하고 있습니다. 언제든 명령을 내려 주세요."
         }
       ]
     },
@@ -233,7 +364,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "小隊の指揮を任せる？ご安心ください、手慣れたものです。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm leading the squad? No problem. I've got plenty of experience."
+        },
+        {
+          "language": "韩文",
+          "content": "지휘를 맡기신다고요? 걱정 마십시오, 팀을 이끄는 건 익숙하니까요."
         }
       ]
     },
@@ -247,7 +386,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "みんなリラックスして、訓練と同じようにやれば問題ないから。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't be nervous. Trust your training."
+        },
+        {
+          "language": "韩文",
+          "content": "모두 긴장하지 말고, 훈련 때처럼 하면 문제없을 거야."
         }
       ]
     },
@@ -261,7 +408,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "総員、接敵準備。"
+        },
+        {
+          "language": "英文",
+          "content": "All units, prepare for contact."
+        },
+        {
+          "language": "韩文",
+          "content": "전원, 접적 준비."
         }
       ]
     },
@@ -275,7 +430,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "いつでも出られます。"
+        },
+        {
+          "language": "英文",
+          "content": "Ready whenever."
+        },
+        {
+          "language": "韩文",
+          "content": "언제든 출발 가능합니다."
         }
       ]
     },
@@ -289,7 +452,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "はい。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm here."
+        },
+        {
+          "language": "韩文",
+          "content": "네."
         }
       ]
     },
@@ -303,7 +474,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "目標地点に到着。"
+        },
+        {
+          "language": "英文",
+          "content": "Arrived at the objective."
+        },
+        {
+          "language": "韩文",
+          "content": "목표 지점에 도착했습니다."
         }
       ]
     },
@@ -317,7 +496,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "隊列整え！戦線を押し広げろ！"
+        },
+        {
+          "language": "英文",
+          "content": "Squad, form up!"
+        },
+        {
+          "language": "韩文",
+          "content": "대열을 갖추고 전선을 펼쳐라!"
         }
       ]
     },
@@ -331,7 +518,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "止まれ！一歩も前に出るな！"
+        },
+        {
+          "language": "英文",
+          "content": "Halt! Freeze there!"
+        },
+        {
+          "language": "韩文",
+          "content": "멈춰! 한 발짝도 움직이지 마!"
         }
       ]
     },
@@ -345,7 +540,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "突撃！"
+        },
+        {
+          "language": "英文",
+          "content": "Charge!"
+        },
+        {
+          "language": "韩文",
+          "content": "돌격!"
         }
       ]
     },
@@ -359,7 +562,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "前進準備。"
+        },
+        {
+          "language": "英文",
+          "content": "Ready to advance."
+        },
+        {
+          "language": "韩文",
+          "content": "전진 준비."
         }
       ]
     },
@@ -373,7 +584,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "貫け！"
+        },
+        {
+          "language": "英文",
+          "content": "I'll run you through!"
+        },
+        {
+          "language": "韩文",
+          "content": "꿰뚫어라!"
         }
       ]
     },
@@ -387,7 +606,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "一致団結して堅実に進めば、どれほどの強敵でも恐れるに足りません！"
+        },
+        {
+          "language": "英文",
+          "content": "As long as we stay united and keep pushing forward, we have nothing to fear, even from the strongest enemy!"
+        },
+        {
+          "language": "韩文",
+          "content": "우리가 하나가 되어 착실히 나아간다면, 아무리 강한 적이라도 두렵지 않을 겁니다!"
         }
       ]
     },
@@ -401,7 +628,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "相変わらずの素晴らしい指揮でした、ドクター。隊員たちも興奮している様子ですし、皆からの賞賛をどうか受け取ってやってください。"
+        },
+        {
+          "language": "英文",
+          "content": "Excellent command as always, Doctor. The team is pretty excited. Why not let them congratulate you?"
+        },
+        {
+          "language": "韩文",
+          "content": "늘 그랬듯 훌륭한 지휘였습니다, 박사님. 팀원들도 이 결과에 매우 고무되어 있으니, 오늘만큼은 모두의 찬사를 받아주시기 바랍니다."
         }
       ]
     },
@@ -415,7 +650,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "なんとか作戦目標を達しましたね。反省会では、隊員たちと作戦の振り返りをして、次はもっと上手くやれるよう努めます。"
+        },
+        {
+          "language": "英文",
+          "content": "We barely managed to accomplish our objective. I'll get the team together for a postmortem debriefing. We'll do better next time."
+        },
+        {
+          "language": "韩文",
+          "content": "간신히 작전 목표를 달성했군요. 작전 복기 때 팀원들과 함께 모든 작전 과정을 되돌아보며, 다음에는 더 나은 결과를 얻을 수 있도록 노력하겠습니다."
         }
       ]
     },
@@ -429,7 +672,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "非常事態発生。各員安全確保をしつつ、直ちに撤退せよ！"
+        },
+        {
+          "language": "英文",
+          "content": "We've been blindsided! All units, ensure your safety, retreat now!"
+        },
+        {
+          "language": "韩文",
+          "content": "비상 사태 발생. 각자의 안전을 확보하면서 즉시 후퇴한다!"
         }
       ]
     },
@@ -443,7 +694,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ただいま戻りました。あれ？みんないたんだね。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm back. Oh? Everyone's here."
+        },
+        {
+          "language": "韩文",
+          "content": "다녀왔습니다. 응? 모두 여기 있었구나."
         }
       ]
     },
@@ -457,7 +716,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ん？"
+        },
+        {
+          "language": "英文",
+          "content": "Hmm?"
+        },
+        {
+          "language": "韩文",
+          "content": "음?"
         }
       ]
     },
@@ -471,7 +738,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "うわっ！はぁ、ドクターでしたか。またクルースがイタズラを仕掛けてきたのかと。"
+        },
+        {
+          "language": "英文",
+          "content": "Ah! It's you, Doctor. I thought Kroos was pulling another one of her pranks."
+        },
+        {
+          "language": "韩文",
+          "content": "앗! 박사님이셨군요, 전 또 크루스가 장난을 치는 줄 알았어요."
         }
       ]
     },
@@ -485,7 +760,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
         }
       ]
     },
@@ -499,7 +782,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あけましておめでとうございます、ドクター。本当に慌ただしい一年でしたね。ロドスと共に色んな場所を渡り歩き、多くのことを経験しました。新しい一年も、一緒に頑張りましょう！"
+        },
+        {
+          "language": "英文",
+          "content": "Happy New Year, Doctor. This past year's been really busy, but I got to see many places and experience a lot with Rhodes Island. Alright. Let's push ourselves just as hard next year too!"
+        },
+        {
+          "language": "韩文",
+          "content": "새해 복 많이 받으세요, 박사님. 지난 한 해는 정말 바쁘게 보냈네요. 로도스 아일랜드를 따라 여러 곳을 다니며 많은 것을 경험했습니다. 새로운 한 해도 같이 화이팅입니다!"
         }
       ]
     },
@@ -513,6 +804,36 @@
         },
         {
           "language": "日文",
+          "content": "いつでも側にいますよ、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm always here for you, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "늘 곁에 있겠습니다, 박사님."
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，生日快乐！生日愿望想好了吗？等等，别直接告诉我。如果还有什么我能帮得上忙的地方，千万别客气，直接使唤我就行。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
           "content": ""
         }
       ]
@@ -527,7 +848,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ロドスがまた一つ歳をとりました……時間が経つのは本当に早いものですね。行動予備隊A1も、みんなそれぞれ違う部署に配属されましたし。おっと、今はしんみりしている場合じゃないですね。解決していない問題がまだまだ山積みですから。"
+        },
+        {
+          "language": "英文",
+          "content": "Rhodes Island's another year older... Time sure flies, and all the former members of Reserve Op Team A1 have joined different departments... Ah, look at me. This is no time to get nostalgic. There's still plenty of new problems for us to tackle."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드도 한 살 더 먹었네요…… 시간이 정말 빠르게 흐르는 것 같아요. 예비작전팀 A1의 모두도 이젠 각자 다른 부서에 배치되어 일하고 있습니다. 아, 지금은 추억에 잠길 때가 아니겠죠. 아직 저희에겐 해결해야 할 문제가 잔뜩 있으니까요."
         }
       ]
     }

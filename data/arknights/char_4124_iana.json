@@ -1,7 +1,11 @@
 {
   "name": "双月",
   "charaKey": "char_4124_iana",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/d/dd/%E7%AB%8B%E7%BB%98_%E5%8F%8C%E6%9C%88_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/5/53/%E7%AB%8B%E7%BB%98_%E5%8F%8C%E6%9C%88_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/9/98/%E7%AB%8B%E7%BB%98_%E5%8F%8C%E6%9C%88_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "联动",
@@ -19,7 +23,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "目の前にいるのが、本物の私かどうか判断がつかない？なら、ヒントをあげるわ。ジェミニ・レプリケーターは言葉を話せないの。"
+        },
+        {
+          "language": "英文",
+          "content": "Not sure if it's really me standing before you? Here's a hint: the Gemini doesn't talk."
+        },
+        {
+          "language": "韩文",
+          "content": "네 앞에 서 있는 게 정말 나인지 확신을 못하겠다고? 힌트를 줄게, 제미니는 말을 하지 않아"
         }
       ]
     },
@@ -33,7 +45,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "昔から、マルチタスクは得意なの。"
+        },
+        {
+          "language": "英文",
+          "content": "Multitasking has never been a problem for me."
+        },
+        {
+          "language": "韩文",
+          "content": "멀티태스킹은 내게 단 한 번도 문제가 된 적이 없어."
         }
       ]
     },
@@ -47,7 +67,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "情報収集は戦いの半分を占めるものよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Intel is half the battle."
+        },
+        {
+          "language": "韩文",
+          "content": "정보에 신경을 기울이면, 전투가 더 수월해지지."
         }
       ]
     },
@@ -61,7 +89,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "美味しいコーヒーを飲みたいなら、こまめにポットを掃除したほうがいいわ。"
+        },
+        {
+          "language": "英文",
+          "content": "You need to clean your pot regularly, if you want decent coffee."
+        },
+        {
+          "language": "韩文",
+          "content": "괜찮은 커피를 마시고 싶다면, 커피포트를 자주 세척하는 게 좋을 거야."
         }
       ]
     },
@@ -75,7 +111,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "目に映るものが必ずしも真実だとは限らない。テクノロジーは隠された真実を明らかにしてくれるの。"
+        },
+        {
+          "language": "英文",
+          "content": "Seeing is not always believing. Technology reveals the hidden truth."
+        },
+        {
+          "language": "韩文",
+          "content": "눈으로 보이는 게 항상 믿을만한 건 아니지, 기술을 사용해야 숨겨진 진실을 알 수 있어."
         }
       ]
     },
@@ -89,7 +133,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "今まで、この見た目のせいでちょっと厄介な目には遭ってきたけど、あくまで「ちょっと」のことだったわ。"
+        },
+        {
+          "language": "英文",
+          "content": "I've encountered a few difficulties because of my appearance. No more than that, though."
+        },
+        {
+          "language": "韩文",
+          "content": "내 외모 때문에 곤란했던 적이야 가끔 있었지. 하지만 그게 다야."
         }
       ]
     },
@@ -103,7 +155,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あなたの指示に従うわ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll follow your lead."
+        },
+        {
+          "language": "韩文",
+          "content": "네 지시를 따르지."
         }
       ]
     },
@@ -117,7 +177,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あなたの判断を信じてる。"
+        },
+        {
+          "language": "英文",
+          "content": "I trust your judgment."
+        },
+        {
+          "language": "韩文",
+          "content": "네 판단을 믿어."
         }
       ]
     },
@@ -131,7 +199,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "この忘れがたい旅から、私はどんなお土産を持ち帰ることになるのかしら。"
+        },
+        {
+          "language": "英文",
+          "content": "I wonder what souvenirs I'll take home from this unforgettable journey."
+        },
+        {
+          "language": "韩文",
+          "content": "이 잊지 못할 여정 끝에 어떤 걸 기념품으로 챙겨서 돌아가야 할지 고민되는걸."
         }
       ]
     },
@@ -145,7 +221,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ちょっと待ってて。すぐに戻るわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Hold on, I'll be right back."
+        },
+        {
+          "language": "韩文",
+          "content": "잠깐만, 금방 올게."
         }
       ]
     },
@@ -159,7 +243,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "レインボー小隊メンバー、コードネームはIana。お互い、色々と共有し合える情報がありそうね。"
+        },
+        {
+          "language": "英文",
+          "content": "Code name Iana, Team Rainbow. There's a lot of intel we can share with each other."
+        },
+        {
+          "language": "韩文",
+          "content": "레인보우 팀 소속, 코드네임 Iana. 서로 나눌 만한 정보가 많겠어."
         }
       ]
     },
@@ -173,7 +265,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ホログラムでの記録を考えたことはある？"
+        },
+        {
+          "language": "英文",
+          "content": "Have you considered holographic recordings?"
+        },
+        {
+          "language": "韩文",
+          "content": "홀로그램 녹화는 생각해 봤어?"
         }
       ]
     },
@@ -187,7 +287,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "昇進？もっと閲覧権限の高いデータにもアクセスできるってこと？"
+        },
+        {
+          "language": "英文",
+          "content": "A promotion? Do I get more access permissions?"
+        },
+        {
+          "language": "韩文",
+          "content": "진급? 이걸로 더 높은 정보 액세스 권한을 받을 수 있나?"
         }
       ]
     },
@@ -201,7 +309,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "これで足を踏み入れたことのない場所にも行けるようになるといいんだけど。"
+        },
+        {
+          "language": "英文",
+          "content": "Here's hoping this helps me reach more unexplored corners."
+        },
+        {
+          "language": "韩文",
+          "content": "이게 내가 미지의 땅에 도달하는 데 도움이 되었으면 좋겠는걸."
         }
       ]
     },
@@ -215,7 +331,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "一つだけ注意。ホログラムは銃弾を弾かないわよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Friendly reminder, my hologram doesn't stop bullets."
+        },
+        {
+          "language": "韩文",
+          "content": "혹시나 해서 알려주는데, 내 홀로그램은 총알을 막지 못해."
         }
       ]
     },
@@ -229,7 +353,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ホログラムが案内してくれるわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Gemini will show the way."
+        },
+        {
+          "language": "韩文",
+          "content": "제미니가 길을 알려 줄 거야."
         }
       ]
     },
@@ -243,7 +375,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "光が絶えゆくことに怒りを抱きなさい。"
+        },
+        {
+          "language": "英文",
+          "content": "Rage against the dying of the light."
+        },
+        {
+          "language": "韩文",
+          "content": "저물어가는 빛에 분노하라."
         }
       ]
     },
@@ -257,7 +397,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ターゲット確認。"
+        },
+        {
+          "language": "英文",
+          "content": "Target detected."
+        },
+        {
+          "language": "韩文",
+          "content": "목표 발견."
         }
       ]
     },
@@ -271,7 +419,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "準備よし。"
+        },
+        {
+          "language": "英文",
+          "content": "Ready when you are."
+        },
+        {
+          "language": "韩文",
+          "content": "준비는 되어 있어."
         }
       ]
     },
@@ -285,7 +441,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "情報収集中。"
+        },
+        {
+          "language": "英文",
+          "content": "Gathering intel."
+        },
+        {
+          "language": "韩文",
+          "content": "정보 수집 중."
         }
       ]
     },
@@ -299,7 +463,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "援護お願い。"
+        },
+        {
+          "language": "英文",
+          "content": "Cover me."
+        },
+        {
+          "language": "韩文",
+          "content": "엄호해 줘."
         }
       ]
     },
@@ -313,7 +485,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "マイクチェック完了。"
+        },
+        {
+          "language": "英文",
+          "content": "Mic-check successful."
+        },
+        {
+          "language": "韩文",
+          "content": "마이크 체크 정상."
         }
       ]
     },
@@ -327,7 +507,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "隠れて！"
+        },
+        {
+          "language": "英文",
+          "content": "Stay out of sight!"
+        },
+        {
+          "language": "韩文",
+          "content": "엄폐해!"
         }
       ]
     },
@@ -341,7 +529,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "そばを離れないで！"
+        },
+        {
+          "language": "英文",
+          "content": "Stay close!"
+        },
+        {
+          "language": "韩文",
+          "content": "따라와!"
         }
       ]
     },
@@ -355,7 +551,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "再配置を。"
+        },
+        {
+          "language": "英文",
+          "content": "Resetting."
+        },
+        {
+          "language": "韩文",
+          "content": "리셋 중."
         }
       ]
     },
@@ -369,7 +573,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "敵を捕捉した！"
+        },
+        {
+          "language": "英文",
+          "content": "Hostile in my sights!"
+        },
+        {
+          "language": "韩文",
+          "content": "시야 내에 적 발견!"
         }
       ]
     },
@@ -383,7 +595,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "繋ぎ方さえ分かっていれば、全てのシステムは相補的なものよ。"
+        },
+        {
+          "language": "英文",
+          "content": "All systems are complementary, if you know how to connect them."
+        },
+        {
+          "language": "韩文",
+          "content": "연결 방법을 알고 있다면, 모든 시스템은 상호 보완적이지."
         }
       ]
     },
@@ -397,7 +617,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "理想的な結果ね。"
+        },
+        {
+          "language": "英文",
+          "content": "Exactly how it should be."
+        },
+        {
+          "language": "韩文",
+          "content": "예상대로 끝났군."
         }
       ]
     },
@@ -411,7 +639,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "闘志は残っているようね。奴らにあなたの底力を見せてやりなさい。"
+        },
+        {
+          "language": "英文",
+          "content": "You've still got fight in you, show them what you're made of."
+        },
+        {
+          "language": "韩文",
+          "content": "아직 싸울 수 있잖아, 놈들에게 본때를 보여 주라고."
         }
       ]
     },
@@ -425,7 +661,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あなたの物語は、こんなところでは終わらないわ。"
+        },
+        {
+          "language": "英文",
+          "content": "Your story doesn't end here."
+        },
+        {
+          "language": "韩文",
+          "content": "네 이야기는 여기서 끝나지 않아."
         }
       ]
     },
@@ -439,7 +683,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あなたが望むなら。"
+        },
+        {
+          "language": "英文",
+          "content": "If that's how you want it."
+        },
+        {
+          "language": "韩文",
+          "content": "네가 그렇게까지 이걸 원한다면야."
         }
       ]
     },
@@ -453,7 +705,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ほら、もうやめて。"
+        },
+        {
+          "language": "英文",
+          "content": "Come on."
+        },
+        {
+          "language": "韩文",
+          "content": "제발 좀."
         }
       ]
     },
@@ -467,7 +727,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ほら、私も手伝うから。"
+        },
+        {
+          "language": "英文",
+          "content": "Come on, I'll help."
+        },
+        {
+          "language": "韩文",
+          "content": "자, 내가 도와줄게."
         }
       ]
     },
@@ -481,7 +749,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
         }
       ]
     },
@@ -495,7 +771,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "バーチャルコピーとダンスがしたいって？ 面白い発想だけど、残念ながら不可能ね。"
+        },
+        {
+          "language": "英文",
+          "content": "You want to dance with the Gemini? Interesting. But no."
+        },
+        {
+          "language": "韩文",
+          "content": "제미니랑 춤을 춰 보고 싶다고? 흥미로운 생각이지만, 아쉽게도 안 돼."
         }
       ]
     },
@@ -509,6 +793,36 @@
         },
         {
           "language": "日文",
+          "content": "準備はできてる？"
+        },
+        {
+          "language": "英文",
+          "content": "Ready for more action?"
+        },
+        {
+          "language": "韩文",
+          "content": "준비됐어? 이제 움직여볼까?"
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "生日快乐，博士，今天就好好放松一下吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
           "content": ""
         }
       ]
@@ -523,7 +837,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ロドスにいる患者さんたちは本当にすごいと思うわ。私よりもよっぽど辛いでしょうに、決して諦めたりしないもの。"
+        },
+        {
+          "language": "英文",
+          "content": "I have a lot of respect for the patients on Rhodes Island. They face bigger challenges than me, but they've never given up."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드의 환자들은 존경스럽지. 나보다 더 큰 어려움을 겪고 있으면서도 굴하지 않으니까 말이야."
         }
       ]
     }

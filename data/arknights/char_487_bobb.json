@@ -1,0 +1,552 @@
+{
+  "name": "波卜",
+  "charaKey": "char_487_bobb",
+  "images": [
+    "https://media.prts.wiki/8/8b/%E7%AB%8B%E7%BB%98_%E6%B3%A2%E5%8D%9C_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/a/a4/%E7%AB%8B%E7%BB%98_%E6%B3%A2%E5%8D%9C_2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_487_bobb"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_487_bobb"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没问题，交给我吧。我明白，填表啦，整理材料啦，既枯燥又繁琐，可是要想借助地方政府的力量触及更多感染者，就必须忍着头晕眼花把手续办完。您大概和我一样，不得已磨炼了不少耐心吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不不，这些健康生活小贴士当然不是我贴的。我们机构希望人们过上更好的生活，但我不觉得我们就能随便定义什么是更好的生活。再说，我也总是用能量棒代替正餐......呃，我会注意的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "最近总有人找我说悄悄话？人事部干员也来问过我，但我只能保证，我绝不是想挖人去赤心医疗。您知道的，我必须为工作中接触到的每个人保密，无论对方是害死过至亲，还是偷吃了一块饼干。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，能帮我看看这份企业家大会的演讲稿吗？与拓荒地的矿石病药物配给有关。我还是更喜欢安安静静地谈话，不习惯高声演说......坚持要出危险任务的时候？那、那情况不一样呀！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "会谈很顺利，我其实不该沮丧，不过......又是“如果感染者能像你一样好脾气，我们早就捐出更多善款了”这种话。唉，宽容也好，谦让也好，人愿意后退一步，那是因为背后有路可退啊。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我护送过一些感染者离开那座城市，包括几名萨卡兹。那是一段很长的路。他们没有法杖，施术自保的话，会导致病情恶化，而我用源石技艺保护他们，无需任何代价......多讽刺啊。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯，感染者往往与人群隔绝，与他们进行肢体接触能有效传达善意。不过，拥抱本来就能让人感到幸福，人们并不需要是感染者，也不需要拥有其他特别的理由才能享受它。博士，您想要一个拥抱吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一定要说起伦蒂尼姆吗？......我去过贵族的聚会，人们遮住结晶，牵起舞伴的手；我帮工人拉过木料，听他们许愿在咽气前能建好自己的家。他们是笑着的，所以，我也笑着跟您说这些。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请坐，博士。您当然没有打扰我，我也不是在看什么特别的景色。光秃秃的荒野，灰蒙蒙的天，就只是又一个日出而已。我一直在告诉自己，每一天的日出都一样，那天我没有回头看见的日出也一样。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嘘——你好呀，博士在休息......不不，当然不是偷懒啦，人就是有时候精力充沛，有时候又提不起劲嘛，怎么可能每天都同样地全神贯注呢？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您好，我代表梅兰德基金会下属的赤心医疗，前来罗德岛交流学习。有干员在维多利亚境内见过我......？关于那段经历，我想暂时保持沉默，可以吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "抱歉，我可以暂停休息一下吗？实在是有点吵......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "谢谢您，博士。遗憾的是，罗德岛愿意重视我，我能提出的倡议却不比你们已经做到的更好。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "中学时的某个下午，我读到了一篇梅兰德发布的感染者生存报告，便决心救助那些可怜人。后来我一次次为那个年轻人的自以为是而感到愧疚，所幸从不后悔。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这些噪音......对我来说已经不再陌生了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "各位跟上我就好。计划都做好了，物资储备也很充足，不会有问题的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果有人发现自己冷得发抖，可以靠近我一些。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "来得及的话，先跟对方沟通。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您紧张吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "当然，我随时在。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呼......我的耳朵需要适应一下。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这是我们必须面对的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "火只是一道界线。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请不要强行通过。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不会后退，所以请你们绕道吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们本该有更多的选择......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "难怪那么多人视您为希望......啊，抱歉，我这样说会带给您压力吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呼——您可真厉害！想不想放松心情，现在就去庆祝一下？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，您同意的话，我去和他们聊聊。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......还好还好，有撤退预案，医疗物资也很充足，那就没什么可担心的了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "很难说服其他公司以这个标准对待感染者员工啊......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您如果想吓到我，大叫一声会更有效哦。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您想找我聊天吗？我把懒人沙发推过来......嗯，不用那么正式，您想说什么都可以，我都乐意听。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......您刚刚叫我了吗？抱歉抱歉，我戴了耳塞。还好大家只让我负责解开所有缠在一起的彩带，听不见也不影响——请别误会，我还是很喜欢新年的。人们会许愿，就说明对生活仍怀抱希望。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您如果有需要，请随时找我。啊，出去喝咖啡休息的时候也可以叫上我。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "您是赤心医疗的重要合作伙伴，在您的生日，我们当然会送来礼物，请拆开看看吧——哈哈，抱歉，我只是想看看您拆开礼物时惊讶的表情。这个抱枕是我个人的心意，希望您和我一样喜欢它。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "总结迄今为止的成就当然重要，不过，回头看的时候，一定也会看到许多遗憾与伤痛......今天的气氛可能不合适，之后我可以找您倾诉一些事情吗？是的，我找您。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

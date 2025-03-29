@@ -1,7 +1,11 @@
 {
   "name": "青枳",
   "charaKey": "char_488_buildr",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/f/f7/%E7%AB%8B%E7%BB%98_%E9%9D%92%E6%9E%B3_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/1/1a/%E7%AB%8B%E7%BB%98_%E9%9D%92%E6%9E%B3_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/d/d3/%E7%AB%8B%E7%BB%98_%E9%9D%92%E6%9E%B3_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -127,7 +131,7 @@
         },
         {
           "language": "韩文",
-          "content": "화산이 보이는 미완성 섹터에 있던 베테랑 건축 장인들이 과거 시에스타 이야기를 해주곤 했어. 물론 많이 들었던 이야기들이야. 그래도 할아버지의 이야기처럼 몇 번을 들어도 계속 듣고 싶더라고...... 시에스타는 과연 어떤 곳이었을까?"
+          "content": "화산이 보이는 미완성 섹터에 있던 베테랑 건축 장인들이 과거 시에스타 이야기를 해주곤 했어. 물론 많이 들었던 이야기들이야. 그래도 할아버지의 이야기처럼 몇 번을 들어도 계속 듣고 싶더라고…… 시에스타는 과연 어떤 곳이었을까?"
         }
       ]
     },
@@ -779,15 +783,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、ハッピーニューイヤー！夜のパーティーは君も参加するよね？実は会場を設置する人に、オペレーターの出身地でエリア分けしてみたらどうかって提案したんだよね……でしょ？こういう特別な日って、アットホームな感じが大事だもの。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy New Year, Doctor. You'll be there at the ceremony tonight, right? I gave the operators in charge of the hall's design a few suggestions and divided it into a few zones based on the operators' homeland... Right, on a special day like this, a sense of belonging is important."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "해피 뉴 이어, 박사. 오늘 디너파티에 너도 참석하는 거지? 이번에 파티장을 설계하는 오퍼레이터한테, 오퍼레이터들의 고향에 따라 구역을 나누는 건 어떻겠냐고 제안을 한번 해 봤어…… 응, 이런 특별한 날에는 소속감을 느끼게 하는 것도 중요하잖아."
         }
       ]
     },
@@ -814,12 +818,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "我刚刚整理了过去一年的建筑稿，没想到竟然有这么多，有种难得的充实感。虽然我一个人能为汐斯塔做的并不多，但我知道，画下去的每一笔都能代表我踏实走过的路。"
+          "content": "生日快乐，博士，这是我设计的“迷你破碎锤”，和我的武器原理一样，而且单手就可以操作。过几天我就要回汐斯塔了，我不在的时候您可以用它来砸坚果吃。"
         },
         {
           "language": "日文",
@@ -832,6 +836,28 @@
         {
           "language": "韩文",
           "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我刚刚整理了过去一年的建筑稿，没想到竟然有这么多，有种难得的充实感。虽然我一个人能为汐斯塔做的并不多，但我知道，画下去的每一笔都能代表我踏实走过的路。"
+        },
+        {
+          "language": "日文",
+          "content": "去年引いた図面を整理してたんだけど、思ったより多くてね。なんだかすごく充実感があったんだよ。一人の力でシエスタのためにできることって限られてるけど、引いた線の一本一本が、あたしの歩んできた道であるのは間違いないんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "I just tidied up our design documents from the past year. I didn't expect there to be so many, and it really gives me a rare sense of fulfillment. Although there isn't much I myself can do for Siesta, I know that each and every stroke I draw represents the journey I've traveled."
+        },
+        {
+          "language": "韩文",
+          "content": "작년에 그린 도면을 정리하고 있었어, 생각보다 많더라. 왠지 뿌듯한 느낌이 드는 거 있지? 비록 시에스타를 위해 나 혼자 할 수 있는 일은 그리 많지 않지만, 그려온 선 하나하나가 내가 걸어온 길임에는 틀림없어."
         }
       ]
     }

@@ -1,7 +1,11 @@
 {
   "name": "黑键",
   "charaKey": "char_4046_ebnhlz",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/8/88/%E7%AB%8B%E7%BB%98_%E9%BB%91%E9%94%AE_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/e/ef/%E7%AB%8B%E7%BB%98_%E9%BB%91%E9%94%AE_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/2/24/%E7%AB%8B%E7%BB%98_%E9%BB%91%E9%94%AE_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -169,7 +173,7 @@
         },
         {
           "language": "英文",
-          "content": "There'll always be a cohort eager to associate me with the previous Graf Urtica. I can't blame them though, I simply wish to live as a regular Infected. Abhorring inequality ... You say I'm faking to be common? Whatever you say. Even I am faking, I prefer to keep it that way till the very end."
+          "content": "There'll always be a cohort eager to associate me with the previous Graf Urtica. I can't blame them though, I simply wish to live as a regular Infected. Abhorring inequality ... You say I'm faking to be common? Whatever you say. Even if I am faking, I prefer to keep it that way till the very end."
         },
         {
           "language": "韩文",
@@ -919,15 +923,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "皆と共に新年を祝わないことに特別な理由などない。ただ、ああいう楽しげで和気藹々とした雰囲気に馴染めないだけだ……私が演奏を？いや、よしておこう。私の音楽はこういった場に相応しくない。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "I'm not omitting myself from the New Year celebrations for any special reason. I'm just not accustomed to that sort of harmonious atmosphere... You'd like to invite me to perform a song? Forget it, my music would be a horrible match for this mood."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "모두와 함께 새해를 축하하지 않는 건, 다른 특별한 이유가 있어서가 아니야. 그저, 그런 따스한 분위기에 익숙하지 않았을 뿐…… 내게 연주를 부탁하고 싶다고? 글쎄, 내 음악은 그런 분위기와는 어울리지 않아."
         },
         {
           "language": "繁体中文",
@@ -962,12 +966,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "在乌提卡的时候，每一天都过得很慢，到了罗德岛以后，一年却就这样无声无息地过去了......觉得时间变快了，这大概就是生活比以前幸福的证明吧。"
+          "content": "想听一首恐怖、阴沉、让人头痛的生日歌变奏曲吗——开个玩笑。生日快乐，博士。呃......也没必要这么惊讶吧，我就不能开个玩笑吗？"
         },
         {
           "language": "日文",
@@ -980,6 +984,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在乌提卡的时候，每一天都过得很慢，到了罗德岛以后，一年却就这样无声无息地过去了......觉得时间变快了，这大概就是生活比以前幸福的证明吧。"
+        },
+        {
+          "language": "日文",
+          "content": "ウルティカにいた頃は毎日が緩慢に過ぎていた。しかしロドスに来てからは、一年という時があっという間に……今は時間が飛ぶように早く感じるよ。これも以前より生活が満たされたという証だろうな。"
+        },
+        {
+          "language": "英文",
+          "content": "Every day passed at a crawl in Urtica, but now a year's silently flown by since coming to Rhodes Island... It feels like time's sped up. I imagine that's just proof life is more blessed now."
+        },
+        {
+          "language": "韩文",
+          "content": "우르티카에 있을 땐 하루하루가 일 년 같았지. 로도스 아일랜드에선, 일 년이 이렇게나 소리 없이 지나가 버리는군…… 시간의 흐름이 빠르다고 느껴진다는 건 즉, 이전보다 행복한 삶을 살고 있다는 뜻이겠지."
         },
         {
           "language": "繁体中文",

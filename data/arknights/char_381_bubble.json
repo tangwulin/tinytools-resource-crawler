@@ -1,7 +1,10 @@
 {
   "name": "泡泡",
   "charaKey": "char_381_bubble",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/3/39/%E7%AB%8B%E7%BB%98_%E6%B3%A1%E6%B3%A1_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/4/49/%E7%AB%8B%E7%BB%98_%E6%B3%A1%E6%B3%A1_2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -14,6 +17,10 @@
     {
       "language": "韩语",
       "base": "voice_kr/char_381_bubble"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_381_bubble"
     }
   ],
   "voiceList": [
@@ -57,7 +64,7 @@
         },
         {
           "language": "英文",
-          "content": "I'm probably only about as big as one of Papa's legs right now, but I'm gonna be as big as him and trample over all the bad guys! Graaagh!"
+          "content": "I'm probably only about as big as one of Papa's legs right now. But one day, I'm gonna be as big as him, and then I'll trample over all the bad guys! Graaagh!"
         },
         {
           "language": "韩文",
@@ -109,7 +116,7 @@
         },
         {
           "language": "英文",
-          "content": "Fighting is easy. I point my shield one way, and nobody can beat me. Huh? What if they get behind me? Uh oh, why didn't I think of that?"
+          "content": "Fighting is super easy. I point my shield one way, and nobody can beat me. Huh? What if they get behind me? Ohyeaah... I never thought of that!"
         },
         {
           "language": "韩文",
@@ -135,7 +142,7 @@
         },
         {
           "language": "英文",
-          "content": "Gavial? Never heard of her. She's tough? And famous in Sargon? Okay, whatever. I'll see for myself how tough she is."
+          "content": "Gavial? Never heard of her. She's tough? She's famous in Sargon? Okay, whatever. I'll see for myself how tough she is."
         },
         {
           "language": "韩文",
@@ -161,7 +168,7 @@
         },
         {
           "language": "英文",
-          "content": "Oh, you're talking about Gavial? I'm Gavial's number one fan. See, she even signed my shield for me. That's her autograph! I think, besides Papa, pretty much nobody could take down Gavial."
+          "content": "Oh, you're talking about Gavial? I'm Gavial's number one fan. See, she even signed my shield for me. That's her autograph! I think pretty much nobody could take down Gavial, besides Papa."
         },
         {
           "language": "韩文",
@@ -187,7 +194,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctor, shhh, tell me the truth. Kay says Vulcan can hammer straight through the floor, can she? No? I knew it. That means my Papa is definitely stronger. He could bust down a Rhodes smoke stack with one punch."
+          "content": "Doctor, shhh, tell me the truth. Kay says Vulcan can hammer straight through the floor, can she? No? Phew... Hehe. I knew it. That means my Papa is definitely stronger. He could bust down a Rhodes smoke stack with one punch."
         },
         {
           "language": "韩文",
@@ -213,7 +220,7 @@
         },
         {
           "language": "英文",
-          "content": "Do I really... have to keep writing this...? Fine... 'I knocked over Lancet-2 today. I won't do it again.'"
+          "content": "Do I really have to write it in the notebook...? Fine... 'I knocked over Lancet-2 today. I won't do it again.'"
         },
         {
           "language": "韩文",
@@ -265,7 +272,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctor, wake up! Somebody's here to see you."
+          "content": "Doctor, wake up! Someone's here to see you."
         },
         {
           "language": "韩文",
@@ -291,7 +298,7 @@
         },
         {
           "language": "英文",
-          "content": "You're the boss of this training camp? And they call you the Doctor? Hrm... But you don't look strong... Whatever. I'm Bubble. I may be the weakest in my tribe right now, but you're gonna train me until I'm the second strongest."
+          "content": "You're the boss of this training camp? And they call you the Doctor? Hrmmmm... But you don't look strong... Whatever. I'm Bubble. I may be the weakest in my tribe right now, but you're gonna train me until I'm the second strongest."
         },
         {
           "language": "韩文",
@@ -317,7 +324,7 @@
         },
         {
           "language": "英文",
-          "content": "Hit 'em! Hit 'em again! What, why'd they stop. Is it over?"
+          "content": "Fight! Fight! Fiiiiiight! What, why'd they stop. Is it over?"
         },
         {
           "language": "韩文",
@@ -369,7 +376,7 @@
         },
         {
           "language": "英文",
-          "content": "I think I got a good chance of beating Kay now! Okay, lemme at her. Doctor, you come watch!"
+          "content": "I think I got a good chance of beating Kay now! Okay, lemme at her. Doctor, you can come watch!"
         },
         {
           "language": "韩文",
@@ -421,7 +428,7 @@
         },
         {
           "language": "英文",
-          "content": "I count down to one and we charge, okay?"
+          "content": "I'll count down and we charge on one, okay?"
         },
         {
           "language": "韩文",
@@ -525,7 +532,7 @@
         },
         {
           "language": "英文",
-          "content": "Hehe."
+          "content": "Haha!"
         },
         {
           "language": "韩文",
@@ -655,7 +662,7 @@
         },
         {
           "language": "英文",
-          "content": "Shield striiiike!"
+          "content": "Spike striiiike!"
         },
         {
           "language": "韩文",
@@ -707,7 +714,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctor, if you're strong enough, you gotta be warrior like my Papa!"
+          "content": "Doctor, if you got your body as strong as your brain, you could be an awesome warrior like my Papa!"
         },
         {
           "language": "韩文",
@@ -785,7 +792,7 @@
         },
         {
           "language": "英文",
-          "content": "I can't beat them! What do I do?!"
+          "content": "We can't beat them! Whatdowedo?! Whatdowedo?!"
         },
         {
           "language": "韩文",
@@ -837,7 +844,7 @@
         },
         {
           "language": "英文",
-          "content": "Oof. That tickles."
+          "content": "Hey, that tickles."
         },
         {
           "language": "韩文",
@@ -911,15 +918,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "新年！休み！宿題なし！よーし、今日はケーちゃんと戦いに行くぞ！ドクターもずっと座ってないで、ボクたちと一緒に角相撲やろ！すっごく面白いから！"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "It's New Year's! We got the day off! No homework! That means it's time to challenge Kay! Doctor, you can't just sit there all day. Why don't you come wrestle with us? It'll be fun!"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해다! 방학이라고! 숙제도 없어! 좋아, 오늘 당장 케오한테 도전하러 가야지! 박사, 박사도 맨날 앉아만 있지 말고, 우리랑 함께 짝 맞추기 게임하는 건 어때? 엄청 재미있다고!"
         },
         {
           "language": "繁体中文",
@@ -954,12 +961,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "我要在罗德岛好好锻炼！首先要变得比小刻厉害，接着超过嘉维尔，最终超过火神大姐！然后就可以回家，成为和爸爸一样厉害的勇士了！......博士，到时候，你会想我吗？"
+          "content": "博士生日快乐！咦，这么说博士也长大了一岁。那泡泡什么时候才能长得和博士一样大呢？"
         },
         {
           "language": "日文",
@@ -972,6 +979,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我要在罗德岛好好锻炼！首先要变得比小刻厉害，接着超过嘉维尔，最终超过火神大姐！然后就可以回家，成为和爸爸一样厉害的勇士了！......博士，到时候，你会想我吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ボクは、ロドスでしっかり修行するぞ！まずはケーちゃんより強くなって、次にガヴィル姉ちゃんにも勝って、最後にはヴァルカンお姉ちゃんを超えるんだ！そしたら、部族に帰って、パパと同じくらいすごい戦士になるんだぞ！……ドクター、そうなったら、ボクのこと覚えててくれる？"
+        },
+        {
+          "language": "英文",
+          "content": "I have to train hard at Rhodes Island! First, I'm gonna get tougher than Kay, then I'll beat Gavial, until I finally outdo Vulcan! Then I can go back home and be a warrior as great as Papa...! Doctor, are you gonna miss me when I'm gone?"
+        },
+        {
+          "language": "韩文",
+          "content": "나 로도스 아일랜드에서 열심히 훈련할 거야! 우선 케오보다 강해지고, 다음은 가비알 언니, 마지막에는 벌컨 언니마저 뛰어넘을 거야! 그렇게 되면 집으로 돌아가 아빠처럼 강한 용사가 될 수 있겠지! ……박사, 그때가 되면 박사는 날 그리워하려나?"
         },
         {
           "language": "繁体中文",

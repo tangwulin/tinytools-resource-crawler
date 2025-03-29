@@ -1,7 +1,12 @@
 {
   "name": "夜魔",
   "charaKey": "char_164_nightm",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/5/50/%E7%AB%8B%E7%BB%98_%E5%A4%9C%E9%AD%94_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/0/0d/%E7%AB%8B%E7%BB%98_%E5%A4%9C%E9%AD%94_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/5/58/%E7%AB%8B%E7%BB%98_%E5%A4%9C%E9%AD%94_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/b/b5/%E7%AB%8B%E7%BB%98_%E5%A4%9C%E9%AD%94_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -915,15 +920,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あけましておめでとうございます……お願い事？ええっと、今年は身体の調子が良くなるといいなと思ってます。そうすれば、もっとドクターの役に立てますから……(ナイトメア状態) へぇ、じゃあ私の願いは、その「お願い事」がそう簡単には叶わないこと、かしら。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy New Year, Doctor... My wish? Good health, so that I can help you out more... Ah, well, then my wish is for this wish not to come true so easily."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "박사님, 새해 복 많이 받으세요…… 소원이요? 글쎄요, 올해는 더 건강했으면 좋겠어요. 그러면 박사님께 더 도움을 드릴 수 있으니까…… 아~ 그렇다면 내 소원은 말이지, 이 소원이 쉽게 이뤄지지 않게 만드는 거로 할게."
         },
         {
           "language": "繁体中文",
@@ -958,12 +963,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "今天罗德岛好热闹啊，其实，我非常非常喜欢这种忙来忙去，热热闹闹的氛围......欸？一起参加聚会？我、我就不了吧，只要看着大家开心的样子，我就很高兴了......"
+          "content": "博士，生日快乐哦。一直以来背负这么多责任，真是太辛苦你了。其实你也很想休息的，对不对？来，靠过来一点，闭上眼睛，让我为你编织一个轻松的梦......博士！离我远一点，不要听！"
         },
         {
           "language": "日文",
@@ -976,6 +981,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "今天罗德岛好热闹啊，其实，我非常非常喜欢这种忙来忙去，热热闹闹的氛围......欸？一起参加聚会？我、我就不了吧，只要看着大家开心的样子，我就很高兴了......"
+        },
+        {
+          "language": "日文",
+          "content": "今日のロドスはずいぶん賑やかですね。実はこういう慌ただしくて賑やかな雰囲気はすっごく好きなんです……えっ？一緒にパーティに参加しないか、ですか？わ、私は遠慮しておきます……皆さんの楽しそうな姿を見ているだけで、満足ですから……"
+        },
+        {
+          "language": "英文",
+          "content": "Rhodes Island feels so lively today. I like this sort of energetic atmosphere... Huh? A party? Er, maybe not... I'm happy enough watching everybody enjoy themselves..."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드가 엄청 활기차네요. 사실 이렇게 북적거리고 활기찬 분위기, 정말 좋아하거든요…… 네? 같이 파티에…… 가자고요? 저, 저는 사양할게요…… 전 모두가 기쁘게 있는 걸 보는 것만으로도 만족해요……"
         },
         {
           "language": "繁体中文",

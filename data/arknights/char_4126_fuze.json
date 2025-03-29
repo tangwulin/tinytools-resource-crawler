@@ -1,7 +1,10 @@
 {
   "name": "导火索",
   "charaKey": "char_4126_fuze",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/a/ad/%E7%AB%8B%E7%BB%98_%E5%AF%BC%E7%81%AB%E7%B4%A2_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/1/1f/%E7%AB%8B%E7%BB%98_%E5%AF%BC%E7%81%AB%E7%B4%A2_2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "联动",
@@ -19,7 +22,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "わかった……用件があれば言ってくれ。"
+        },
+        {
+          "language": "英文",
+          "content": "Right... Let me know if you need anything."
+        },
+        {
+          "language": "韩文",
+          "content": "그래…… 뭔가 필요하면 말하도록."
         }
       ]
     },
@@ -33,7 +44,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "気を付けろ。作業場には、危険な物が山ほどあるからな。"
+        },
+        {
+          "language": "英文",
+          "content": "Watch out. There are a lot of dangerous materials in the workroom."
+        },
+        {
+          "language": "韩文",
+          "content": "조심해, 작업실엔 위험한 물건이 많으니까."
         }
       ]
     },
@@ -47,7 +66,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "エンジニア部は……悪くない場所だ。しかし、あそこのトップはというと……少々饒舌すぎる。"
+        },
+        {
+          "language": "英文",
+          "content": "Engineering Department... Not bad. The head of the department, though... A bit too talkative."
+        },
+        {
+          "language": "韩文",
+          "content": "엔지니어링부는…… 나쁘지 않았어. 그저 담당자가 조금…… 말이 많더군."
         }
       ]
     },
@@ -61,7 +88,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "俺は機械が好きだ。こいつらは言葉を話さないが、プログラムには忠実だからな。"
+        },
+        {
+          "language": "英文",
+          "content": "I like machines. They don't talk, but they're always honest with their readings."
+        },
+        {
+          "language": "韩文",
+          "content": "난 기계가 좋아. 말은 하지 않지만, 수치는 항상 정직하거든."
         }
       ]
     },
@@ -75,7 +110,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "混沌が敵に回るのは、それに適応できていない時だけだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Chaos is only an enemy if you're unable to adapt."
+        },
+        {
+          "language": "韩文",
+          "content": "혼돈이란 네가 적응할 수 없는 적에 불과하다."
         }
       ]
     },
@@ -89,7 +132,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "迫り来る混沌が愛する者を危険にさらしている時、なすべきことは彼らを守ることじゃなく……できるだけ自分から遠ざけることだ。"
+        },
+        {
+          "language": "英文",
+          "content": "When the approaching chaos endangers your loved ones, the thing to do isn't to protect them. It's... to keep them as far away from you as possible."
+        },
+        {
+          "language": "韩文",
+          "content": "다가오는 혼돈이 네가 사랑하는 이들을 위협한다면, 네가 해야 할 일은 그들을 지키는 게 아니라…… 가능한 한 네게서 멀리 떨어뜨려 놓는 거다."
         }
       ]
     },
@@ -103,7 +154,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "いいや、俺の通信機に問題はない。心配することはないさ。"
+        },
+        {
+          "language": "英文",
+          "content": "No, my comms equipment's fine. Nothing to worry."
+        },
+        {
+          "language": "韩文",
+          "content": "아니, 내 통신 장비는 멀쩡해, 걱정할 거 없어."
         }
       ]
     },
@@ -117,7 +176,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "何か話せと？やれやれ、そういうのが一番苦手なんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "You want me to say something? Uh, that's the hardest part."
+        },
+        {
+          "language": "韩文",
+          "content": "뭐라고 말 좀 해 보라고? 으음, 그게 가장 어려운 주문이다만."
         }
       ]
     },
@@ -131,7 +198,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "俺の故郷？あそこは……広がる空も、その下の建物も、すべてが青いんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "My hometown? There... the sky is blue, and all the buildings under it are blue, too."
+        },
+        {
+          "language": "韩文",
+          "content": "내 고향? 거긴…… 하늘이 파랬지, 하늘 아래의 건물들도 파랬고."
         }
       ]
     },
@@ -145,7 +220,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "さて……何かやることでも見つけるか。"
+        },
+        {
+          "language": "英文",
+          "content": "Good... I'll find something to do."
+        },
+        {
+          "language": "韩文",
+          "content": "좋아…… 뭐든 할 일을 찾아보지."
         }
       ]
     },
@@ -159,7 +242,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "レインボー小隊メンバー、コードネームはFuzeだ。言うことは言った、行くぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "Rainbow Operator, codename Fuze. I've said everything I need to. Let's get to it."
+        },
+        {
+          "language": "韩文",
+          "content": "레인보우 팀 오퍼레이터, 코드네임 Fuze. 할 말은 다 했으니 이제 시작해볼까."
         }
       ]
     },
@@ -173,7 +264,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "了解。時間を見つけて、観てみるよ。"
+        },
+        {
+          "language": "英文",
+          "content": "No problem. I'll find some time to watch them."
+        },
+        {
+          "language": "韩文",
+          "content": "문제없다, 나중에 시간을 내서 보도록 하지."
         }
       ]
     },
@@ -187,7 +286,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "良いな。ありがとう。"
+        },
+        {
+          "language": "英文",
+          "content": "Good. Thank you."
+        },
+        {
+          "language": "韩文",
+          "content": "좋군…… 고맙다."
         }
       ]
     },
@@ -201,7 +308,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "大勢の前でスピーチでもしないとならないか？いらない？それは良かった。"
+        },
+        {
+          "language": "英文",
+          "content": "Do I need to give some crowd a speech? No? Good."
+        },
+        {
+          "language": "韩文",
+          "content": "사람들 앞에서 뭔가 말을 해야 하는 건가? 아니라고? 다행이군."
         }
       ]
     },
@@ -215,7 +330,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "指示をくれ。"
+        },
+        {
+          "language": "英文",
+          "content": "At your command."
+        },
+        {
+          "language": "韩文",
+          "content": "명령을."
         }
       ]
     },
@@ -229,11 +352,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "俺の指示通り動くように。"
         },
         {
           "language": "英文",
           "content": "Do exactly as I say."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 말하는 대로만 해라."
         }
       ]
     },
@@ -247,11 +374,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "お喋りは終わりだ。行動開始。"
         },
         {
           "language": "英文",
           "content": "Enough talk. Now we act."
+        },
+        {
+          "language": "韩文",
+          "content": "잡담은 그만, 움직일 때다."
         }
       ]
     },
@@ -265,11 +396,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "「マトリョーシカ」、いつでも行けるぞ。"
         },
         {
           "language": "英文",
-          "content": "Matryoshka gotov poruchit."
+          "content": "Матрёшка готов поручить."
+        },
+        {
+          "language": "韩文",
+          "content": "'마트료시카' 준비 완료."
         }
       ]
     },
@@ -283,11 +418,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "目の前のタスクに集中しろ。"
         },
         {
           "language": "英文",
           "content": "Focus on the task at hand."
+        },
+        {
+          "language": "韩文",
+          "content": "작전에 집중해라."
         }
       ]
     },
@@ -301,11 +440,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "目的を忘れるなよ。"
         },
         {
           "language": "英文",
           "content": "Remember our objectives."
+        },
+        {
+          "language": "韩文",
+          "content": "우리의 목표를 기억해라."
         }
       ]
     },
@@ -319,11 +462,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "声を落とせ。"
         },
         {
           "language": "英文",
           "content": "Lower your voice."
+        },
+        {
+          "language": "韩文",
+          "content": "목소리를 낮춰."
         }
       ]
     },
@@ -337,11 +484,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "静かにしてろ。"
         },
         {
           "language": "英文",
           "content": "Remain silent."
+        },
+        {
+          "language": "韩文",
+          "content": "침묵을 유지하도록."
         }
       ]
     },
@@ -355,11 +506,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ついてこい！"
         },
         {
           "language": "英文",
-          "content": "With me."
+          "content": "With me!"
+        },
+        {
+          "language": "韩文",
+          "content": "따라와!"
         }
       ]
     },
@@ -373,11 +528,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "警戒を怠るな。"
         },
         {
           "language": "英文",
           "content": "Remain alert."
+        },
+        {
+          "language": "韩文",
+          "content": "경계해!"
         }
       ]
     },
@@ -391,11 +550,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "集中しろ。"
         },
         {
           "language": "英文",
           "content": "Stay focused."
+        },
+        {
+          "language": "韩文",
+          "content": "집중해!"
         }
       ]
     },
@@ -409,11 +572,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ここは守り抜く。"
         },
         {
           "language": "英文",
           "content": "Hold position."
+        },
+        {
+          "language": "韩文",
+          "content": "현 위치를 지켜."
         }
       ]
     },
@@ -427,7 +594,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "すべての行動が、勝利を掴むチャンスに繋がるんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Every action builds our chances to win."
+        },
+        {
+          "language": "韩文",
+          "content": "모든 행동들이 우리에게 승리의 기회를 안겨 주었군."
         }
       ]
     },
@@ -441,11 +616,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "人質は無事だ。"
         },
         {
           "language": "英文",
           "content": "Asset secured."
+        },
+        {
+          "language": "韩文",
+          "content": "자산을 확보했다."
         }
       ]
     },
@@ -459,7 +638,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "立て。その傷は致命的なものじゃない。"
+        },
+        {
+          "language": "英文",
+          "content": "On your feet, your wounds are not fatal."
+        },
+        {
+          "language": "韩文",
+          "content": "얼른 일어나, 치명적인 상처는 아니니."
         }
       ]
     },
@@ -473,11 +660,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "逃げろ、今すぐに！"
         },
         {
           "language": "英文",
           "content": "Move, right now!"
+        },
+        {
+          "language": "韩文",
+          "content": "움직여! 당장!"
         }
       ]
     },
@@ -491,7 +682,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "悪くない場所だ。"
+        },
+        {
+          "language": "英文",
+          "content": "This place isn't bad."
+        },
+        {
+          "language": "韩文",
+          "content": "나쁘지 않은 곳이군."
         }
       ]
     },
@@ -505,7 +704,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "勘弁してくれ……"
+        },
+        {
+          "language": "英文",
+          "content": "Don't do that..."
+        },
+        {
+          "language": "韩文",
+          "content": "그만……"
         }
       ]
     },
@@ -519,7 +726,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "プロフを作ったんだが、お前も食べないか？"
+        },
+        {
+          "language": "英文",
+          "content": "I made some pilaf. Want some?"
+        },
+        {
+          "language": "韩文",
+          "content": "필라프를 만들었는데, 먹어 보겠나?"
         }
       ]
     },
@@ -533,7 +748,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
         }
       ]
     },
@@ -547,11 +770,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "今晩Tachankaと一杯やるんだが、あんたもどうだ？"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Tachanka and I are hitting the bar tonight. Coming?"
+        },
+        {
+          "language": "韩文",
+          "content": "Tachanka랑 오늘 밤에 몇 잔 하기로 했는데, 함께하겠나?"
         }
       ]
     },
@@ -565,6 +792,36 @@
         },
         {
           "language": "日文",
+          "content": "よう……"
+        },
+        {
+          "language": "英文",
+          "content": "Hey..."
+        },
+        {
+          "language": "韩文",
+          "content": "이봐……"
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "生日快乐，博士......没什么，一个铁皮玩意儿，是我自己做的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
           "content": ""
         }
       ]
@@ -579,11 +836,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "俺はここに居場所を見つけることができた。素晴らしいことだ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "I can find a sense of belonging here. It's wonderful."
+        },
+        {
+          "language": "韩文",
+          "content": "여기선 소속감을 조금 찾을 수 있었다, 아주 좋군."
         }
       ]
     }

@@ -1,7 +1,11 @@
 {
   "name": "图耶",
   "charaKey": "char_402_tuye",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/8/8a/%E7%AB%8B%E7%BB%98_%E5%9B%BE%E8%80%B6_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/a/a9/%E7%AB%8B%E7%BB%98_%E5%9B%BE%E8%80%B6_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/c/cd/%E7%AB%8B%E7%BB%98_%E5%9B%BE%E8%80%B6_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -911,15 +915,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "明けましておめでとうございます今年もよろしくお願いします。はい、挨拶は以上。ちゃんとしてただろ？お前が満足ならそれで――ボーナス？私に？本気か？ふん……ありがとう、今年もよろしく。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "TBU"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받고, 올해도 잘 부탁할게. 자, 끝. 어때, 완벽한 인사말이지? 네가 좋아하면 됐어…… 보너스? 나 주는 거야? 진짜로? 음…… 고마워, 진짜 새해 복 많이 받아."
         },
         {
           "language": "繁体中文",
@@ -954,12 +958,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "我查看过罗德岛的航线记录，你们走过的路线可真够凶险的。可为什么没有人显露出害怕的样子？你作为这艘船的领航者，有什么本事可以让所有人无条件地相信你？我很好奇......"
+          "content": "生日快乐。这把雨伞送给你，这是我从萨尔贡一个信得过的商人那里买来的，质量很好。今后要去很多地方，你总有用得到的时候。啊，如果你想撑着它从舰桥上往下跳的话，我也不会拦着你的。"
         },
         {
           "language": "日文",
@@ -972,6 +976,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我查看过罗德岛的航线记录，你们走过的路线可真够凶险的。可为什么没有人显露出害怕的样子？你作为这艘船的领航者，有什么本事可以让所有人无条件地相信你？我很好奇......"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスの運航記録を見たことがあるが、お前たちは相当危険なルートを進んで来てる。なのに誰もビビってないのはなんでだ？お前がこの船の舵取りとして、みんなから無条件で信頼される理由はなんだ？気になる……"
+        },
+        {
+          "language": "英文",
+          "content": "TBU"
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드의 항로 기록을 확인해 봤는데, 너희가 걸어온 이 길 엄청 험난했더라? 근데 왜 아무도 겁먹은 기색이 없지? 어떻게 이 많은 사람들이 아무런 의심 없이 널 믿는 건지, 이유가 궁금하네……"
         },
         {
           "language": "繁体中文",

@@ -1,7 +1,11 @@
 {
   "name": "维荻",
   "charaKey": "char_4107_vrdant",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/e/e6/%E7%AB%8B%E7%BB%98_%E7%BB%B4%E8%8D%BB_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/7/76/%E7%AB%8B%E7%BB%98_%E7%BB%B4%E8%8D%BB_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/3/3e/%E7%AB%8B%E7%BB%98_%E7%BB%B4%E8%8D%BB_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -779,15 +783,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "見ての通り、かかしの着せ替えをしてるところだよ。ボクの地元じゃ、新年になるとみんなそれぞれの家にあるかかしに新しい服を着せるんだ……えっと、意味や由来とかはよく知らないけど、一番の目的はたぶん、羽獣たちに同じ服ばかり見せないためだと思うよ。あいつら賢いからね。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "As you can see, I'm giving a Scarecrow a new change of clothes. Back in my quiet little hometown, families would all give their scarecrows a fresh bit of kit at the start of each year... Not sure what the cultural significance of that was, but the most important thing is, don't let the fowlbeasts get too used to seeing the same getup. Fowls, they're smart little buggers."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "응, 허수아비의 옷을 갈아입히고 있었어. 내 고향 마을에선 새해가 되면 집집마다 허수아비한테 새 옷을 입혀 주거든. 음…… 나도 여기에 무슨 의미나 유래가 담겨 있는지는 잘 모르지만, 주된 목적은 아마 파울비스트들에게 익숙함을 주지 않기 위해서일 거야. 파울비스트들은 굉장히 영리하거든."
         }
       ]
     },
@@ -814,12 +818,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "在野外观察植物的时候，我偶尔会想，假如那些能活成百上千年的植物也能感知到时间的流逝，它们会觉得一年时间有多长？......不过反正和我不一样吧，我觉得一年过得好快啊。"
+          "content": "生日快乐，博士，我想了很久该送你什么，最后还是决定让你自己挑。来，从我手里拿一颗种子，把它种下去，看看最终能开出怎样的花朵吧。"
         },
         {
           "language": "日文",
@@ -832,6 +836,28 @@
         {
           "language": "韩文",
           "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在野外观察植物的时候，我偶尔会想，假如那些能活成百上千年的植物也能感知到时间的流逝，它们会觉得一年时间有多长？......不过反正和我不一样吧，我觉得一年过得好快啊。"
+        },
+        {
+          "language": "日文",
+          "content": "野外で植物観察なんかをしてると、時々考えるんだ。もし、百年も千年も生きられるような植物たちにも時間の感覚があるのなら、人間たちの一年間をどれほどの長さに感じるんだろうって……まあ、きっとボクの感覚とは違うだろうね。ボクにとって、一年なんてあっという間だもん。"
+        },
+        {
+          "language": "英文",
+          "content": "When I observe plants in the wild, sometimes I'll think, what if the ones that live for hundreds or thousands of years sense the passage of time too? How long would their experience of one year be...? Whatever it is, I'm sure it's not like mine. It always feels like each year passes by in a flash."
+        },
+        {
+          "language": "韩文",
+          "content": "야외에서 식물 관찰을 하다보면 가끔 이런 생각이 들어. 만약 수백 수천 년을 사는 식물들도 시간의 흐름을 느낄 수 있다면, 1년이라는 시간을 그들은 어떻게 느낄까 하고 말이야…… 분명 내가 느끼는 것과는 다를 테지. 난 1년이 정말 순식간에 지나가는 것 같거든."
         }
       ]
     }

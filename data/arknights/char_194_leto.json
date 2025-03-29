@@ -1,7 +1,10 @@
 {
   "name": "烈夏",
   "charaKey": "char_194_leto",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/f/fa/%E7%AB%8B%E7%BB%98_%E7%83%88%E5%A4%8F_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/a/a6/%E7%AB%8B%E7%BB%98_%E7%83%88%E5%A4%8F_2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -783,7 +786,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、今夜は自治団もパーティをやるぜ。聞くまでもなくお前も来るよな？あーそうだ、母ちゃんも最近随分体調が良くなったから、近いうちに快気祝いをやろうと思ってんだ。でも二人だけじゃ寂しいから、お前も誘ってみてくれってさ。どうだ？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, the USSG's having a feast tonight too, so of course you're coming? Oh, also. Mama's gotten much better lately, so she's been thinking of hosting one of our own in a couple of days. But it'll be too quiet with just the two of us, so she asked me if you might be interested?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 오늘 저녁에 자치단에서도 파티를 열 건데, 박사도 참가하는 거지? 아 참, 엄마도 요즘 건강이 많이 좋아져서 며칠 뒤에 쾌유 축하 파티를 열려고 하는데, 우리 둘만 있으면 썰렁할 것 같아서 박사도 부를까 생각 중이야. 어때, 시간 괜찮아?"
         }
       ]
     },
@@ -810,6 +821,28 @@
       ]
     },
     {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "生日快乐！这是我特地去请拉达教我做的蜂蜜蛋糕，我偷偷吃了一块，自己都觉得太好吃了，你也赶紧尝尝！醉蜜？哦，对哦，难怪我从刚才就觉得有点晕......哎呀，小心蛋糕！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        }
+      ]
+    },
+    {
       "title": "周年庆典",
       "filename": "CN_044.wav",
       "text": [
@@ -819,7 +852,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ほら、今回の旅行の土産だ。まあまあイケるから食ってみな。私がいねぇうちに、ロドスもまた人が増えたんじゃねぇか？いいか、人がどんだけ増えたって、自治団本部にしてる部屋は絶対確保しといてくれよ。絶対だぞ！"
+        },
+        {
+          "language": "英文",
+          "content": "Here, a souvenir from my last trip. It's pretty good, so you gotta try some. Is it me, or did Rhodes get a lot more crowded since I was away? I don't care if you keep onboarding more people, but you'd better make sure the USSG's clubhouse stays as-is, got it?"
+        },
+        {
+          "language": "韩文",
+          "content": "자, 이번에 여행 갔다가 사 온 특산품이야. 꽤 맛있더라고, 한번 먹어 봐. 그나저나, 내가 없는 동안 로도스 아일랜드에 사람이 더 많아진 것 같다? 나야 뭐 상관없지만, 사람이 많아져도 학생 자치단이 쓸 활동실은 꼭 남겨 줘야 해! 꼭이야!"
         }
       ]
     }

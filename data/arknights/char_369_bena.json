@@ -1,7 +1,11 @@
 {
   "name": "贝娜",
   "charaKey": "char_369_bena",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/f/f5/%E7%AB%8B%E7%BB%98_%E8%B4%9D%E5%A8%9C_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/b/b1/%E7%AB%8B%E7%BB%98_%E8%B4%9D%E5%A8%9C_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/4/4a/%E7%AB%8B%E7%BB%98_%E8%B4%9D%E5%A8%9C_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -911,15 +915,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あけましておめでとう。アニーと一緒に新年の提灯を作ってるのよ。これはおばあちゃまへ、長生きしてくれますように。これはあんたへ……えーと……自分で願いを言って……"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "TBU"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "안녕? 새해 복 많이 받아. 나랑 애니는 새해맞이 꽃등을 만들고 있어. 이 꽃등은 오래 사시라는 의미로 할머니께 드리고, 이건 너한테 줄게. 이 꽃등의 의미는…… 어…… 소원은 알아서 빌어……"
         },
         {
           "language": "繁体中文",
@@ -954,12 +958,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "今天真是热闹啊。我来给这里拍张照吧，一、二......好，今天的快乐回忆已经被我保存下来啦。等你想要重温今天的回忆的时候，就来城堡找我吧。"
+          "content": "真是不明白，为什么很多人过生日的时候都很开心呢？长大了一岁，就离童真又远了一点。算了，这个枕头送给你，枕着它做个好梦吧。祝你在任何时候，都不会丢掉最宝贵的童心。"
         },
         {
           "language": "日文",
@@ -972,6 +976,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "今天真是热闹啊。我来给这里拍张照吧，一、二......好，今天的快乐回忆已经被我保存下来啦。等你想要重温今天的回忆的时候，就来城堡找我吧。"
+        },
+        {
+          "language": "日文",
+          "content": "今日は本当に賑やかね。あたしが写真を撮ってあげようじゃないの、いち、にの……よし、今日の楽しい記憶はもう保存したから。今日のことを振り返りたい時は、お城へ会いに来てね。"
+        },
+        {
+          "language": "英文",
+          "content": "TBU"
+        },
+        {
+          "language": "韩文",
+          "content": "오늘은 정말 시끌벅적하네. 내가 사진 찍어줄게. 하나, 둘…… 좋아, 오늘의 즐거운 기억은 내가 이미 보존해뒀어. 오늘의 기억이 다시 보고 싶을 땐, 성으로 와서 날 찾으면 돼."
         },
         {
           "language": "繁体中文",

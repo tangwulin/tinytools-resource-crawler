@@ -1,7 +1,11 @@
 {
   "name": "森蚺",
   "charaKey": "char_416_zumama",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/f/f8/%E7%AB%8B%E7%BB%98_%E6%A3%AE%E8%9A%BA_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/6/6c/%E7%AB%8B%E7%BB%98_%E6%A3%AE%E8%9A%BA_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/6/69/%E7%AB%8B%E7%BB%98_%E6%A3%AE%E8%9A%BA_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -911,15 +915,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、今日は何の祝いだ？……新年？新たな一年を迎える？……知らないな、私たちの部族にはない祭日だ。だが、皆とても楽しそうだな。私も参加して良いか？Lancet-2姉様はどこにいるんだ？"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "TBU"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "박사, 오늘 무슨 날이야? ……새해? 새로운 한 해를 맞이하는 날이라고? ……잘 모르겠네, 우리 부족엔 없는 기념일이라서. 근데 다들 즐거워 보이는데, 나도 참가해도 되나? Lancet-2 언니는 지금 어디 있지?"
         },
         {
           "language": "繁体中文",
@@ -954,12 +958,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "书上说，今天需要向自己的老板表示忠心，要表示出诚意。博士，忠心这个东西我不太好把握，这个是我自己设计，用工程部的车床制造出来的心形徽章。为什么是心形？不是忠心吗？"
+          "content": "我好像之前看到过你们过生日的方式，你要许个愿，还不能告诉别人，这样它就会在接下来的一年内实现。我也可以一起许个愿吗？可以？那我们闭上眼睛吧，嗯......对了，生日快乐，博士。"
         },
         {
           "language": "日文",
@@ -972,6 +976,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "书上说，今天需要向自己的老板表示忠心，要表示出诚意。博士，忠心这个东西我不太好把握，这个是我自己设计，用工程部的车床制造出来的心形徽章。为什么是心形？不是忠心吗？"
+        },
+        {
+          "language": "日文",
+          "content": "本によれば、今日は上司に忠心を示す日で、誠意が大事らしい。忠心というものをよくわかっていないのだが、ドクター、これはエンジニア部の旋盤を使って作ったハート形のバッジだ。私がデザインしたんだ。なんでハート形か？忠心なのだろ？"
+        },
+        {
+          "language": "英文",
+          "content": "TBU"
+        },
+        {
+          "language": "韩文",
+          "content": "책에 따르면, 오늘은 상사에게 충성심을 표하는 날이자, 성의를 보여야 하는 날이라고 하던데. 박사, 난 충성심이라는 게 뭘 의미하는 건지는 잘 몰라서 그냥 이걸 만들어 봤어. 받아줘. 이건 내가 엔지니어링부의 선반을 빌려서 직접 디자인한 하트 모양 배지야. 왜 하트 모양이냐고? 충성심은 하트 아닌가?"
         },
         {
           "language": "繁体中文",

@@ -1,7 +1,10 @@
 {
   "name": "罗小黑",
   "charaKey": "char_4067_lolxh",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/5/5b/%E7%AB%8B%E7%BB%98_%E7%BD%97%E5%B0%8F%E9%BB%91_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/8/88/%E7%AB%8B%E7%BB%98_%E7%BD%97%E5%B0%8F%E9%BB%91_2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语(猫形态)",

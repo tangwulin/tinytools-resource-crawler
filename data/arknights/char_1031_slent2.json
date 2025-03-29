@@ -1,7 +1,11 @@
 {
   "name": "淬羽赫默",
   "charaKey": "char_1031_slent2",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/b/b4/%E7%AB%8B%E7%BB%98_%E6%B7%AC%E7%BE%BD%E8%B5%AB%E9%BB%98_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/4/4f/%E7%AB%8B%E7%BB%98_%E6%B7%AC%E7%BE%BD%E8%B5%AB%E9%BB%98_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/1/19/%E7%AB%8B%E7%BB%98_%E6%B7%AC%E7%BE%BD%E8%B5%AB%E9%BB%98_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -779,15 +783,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "イフリータがあなたを寄越したんでしょう、ドクター。あの子、私に仕事を忘れさせようとしてあれこれ考えてるみたいなんだ。仕事の邪魔をしてきたかと思えば、実験レポートを燃やすぞなんて脅してくるし、こうして誰かを送ってくるのもあなたで三人目……仕方ない、今日の仕事はここまでにするよ。行こう。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Doctor, I imagine Ifrit sent you, didn't she? She tries everything she can to get me to put down my work—she's always making trouble for me—she even threatened to burn my lab reports. You're the third one she's sent... Alright, we'll break here for today. Let's go."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "이프리트가 박사를 보낸 거지? 그 아이는 어떻게든 날 쉬게 만들려고 열심이라니까. 늘 일을 방해하고, 심지어는 내 실험 보고서를 불태우겠다고 협박까지 했었어, 이렇게 사람을 보내는 것도 당신이 세 번째야…… 어쩔 수 없네, 오늘 일은 여기까지 해야겠어. 가자."
         }
       ]
     },
@@ -814,12 +818,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "当我刚进入莱茵时，科研是我的一切。“炎魔事件”后，伊芙利特和她的矿石病是我的一切。而现在，我知道了越来越多的东西，我想做的事也越来越多。但是，博士，我们最终会在同一个终点重逢的。"
+          "content": "博士，生日快乐。这是我准备的蛋糕，这是贺卡，这是一点小礼物，还有......我很熟练？嗯，是啊，我确实已经有些习惯给别人过生日了，这样的日子总是令人开心，不是吗？"
         },
         {
           "language": "日文",
@@ -832,6 +836,28 @@
         {
           "language": "韩文",
           "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "当我刚进入莱茵时，科研是我的一切。“炎魔事件”后，伊芙利特和她的矿石病是我的一切。而现在，我知道了越来越多的东西，我想做的事也越来越多。但是，博士，我们最终会在同一个终点重逢的。"
+        },
+        {
+          "language": "日文",
+          "content": "ライン生命に入ったばかりの頃は、研究が私のすべてだった。「炎魔事件」を経てからは、イフリータとあの子の病気が私のすべてになった。そして今は、たくさんの物事を知って、やりたいこともますます増えてきてる。でもね、ドクター。私たちは絶対、同じ終着点でまた会えるから。"
+        },
+        {
+          "language": "英文",
+          "content": "When I first joined Rhine, research was my everything. Following the Diαbolic Crisis, Ifrit and her Oripathy were my everything. But now, as I come to know more and more, the things I want to do grow in volume too. Still, Doctor, we'll reunite at the same destination, when all's said and done."
+        },
+        {
+          "language": "韩文",
+          "content": "라인 랩에 처음 입사했을 땐 연구가 내 전부였어. '다이아볼릭 사태' 이후로는 이프리트와 그 아이의 광석병이 내 전부가 되었고. 지금은, 많은 걸 알게 되면서 하고 싶은 일들도 많아졌어. 하지만 박사, 우린 결국 같은 종점에서 다시 만나게 될 거야."
         }
       ]
     }

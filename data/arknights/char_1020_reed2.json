@@ -1,7 +1,12 @@
 {
   "name": "焰影苇草",
   "charaKey": "char_1020_reed2",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/7/7c/%E7%AB%8B%E7%BB%98_%E7%84%B0%E5%BD%B1%E8%8B%87%E8%8D%89_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/d/d3/%E7%AB%8B%E7%BB%98_%E7%84%B0%E5%BD%B1%E8%8B%87%E8%8D%89_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/3/36/%E7%AB%8B%E7%BB%98_%E7%84%B0%E5%BD%B1%E8%8B%87%E8%8D%89_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/1/1d/%E7%AB%8B%E7%BB%98_%E7%84%B0%E5%BD%B1%E8%8B%87%E8%8D%89_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -221,7 +226,7 @@
         },
         {
           "language": "韩文",
-          "content": "'드라코는 싸움 속에서 살아갈 운명이다'라는 예언, 난 인정하지 않아. 하지만 만약, 언니가 죽음의 불꽃으로 타 버린 대지의 끝을 보지 못한다면…… 아니, 내가 언니를 막을 거야. 사람들이 바라는 리더의 모습은 그게 아닐 테니까."
+          "content": "드라코는 싸움 속에서 살아갈 운명이다'라는 예언, 난 인정하지 않아. 하지만 만약, 언니가 죽음의 불꽃으로 타 버린 대지의 끝을 보지 못한다면…… 아니, 내가 언니를 막을 거야. 사람들이 바라는 리더의 모습은 그게 아닐 테니까."
         },
         {
           "language": "繁体中文",
@@ -915,15 +920,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ここで花火を見てもいい？ありがとう。こういう日を祝いたいとは思わないけれど……荒野にこだまする鐘の音を聞いていると、火の灯るこの夜をとてもありがたく感じるよ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Can I sit here, and watch the flames? Mm, I'm not here to celebrate this day, not at all... but—hearing the bells echo through the wilds, it makes me glad for the firelight, on this night."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "여기에 앉아 불꽃놀이를 구경해도 될까? 응, 이런 날을 축하하고 싶지는 않지만…… 황야에서 메아리치는 종소리를 들을 때면, 이 밤에 불꽃이 있어 줘서 정말 고맙다는 생각이 들어."
         },
         {
           "language": "繁体中文",
@@ -958,12 +963,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "你们和我不同。深池是一个已有的梦想，那个梦想找到了我，但罗德岛却敢说服人们，去相信难以想象的事情。是罗德岛救了我，我会一直记得。"
+          "content": "你读过我夹在礼物里的诗笺了？......其实，它不是为今天而写的。只是昨晚给你包装礼物时，我突然想到了恰当的韵脚。"
         },
         {
           "language": "日文",
@@ -976,6 +981,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们和我不同。深池是一个已有的梦想，那个梦想找到了我，但罗德岛却敢说服人们，去相信难以想象的事情。是罗德岛救了我，我会一直记得。"
+        },
+        {
+          "language": "日文",
+          "content": "キミたちは私とは違う。私は、ダブリンという人々の夢に見つけてもらっただけ。でも、ロドスはまだ想像すらできない夢を、人々に見せてあげようとしている。ロドスに救われたこと、私は忘れないよ。"
+        },
+        {
+          "language": "英文",
+          "content": "You and I are different. Dublinn is a dream that took shape long ago, long before it found itself in me. But Rhodes Island—you take something so hard to envision, and convince people to believe in it. You are what saved me, and I will always remember that."
+        },
+        {
+          "language": "韩文",
+          "content": "너희들은 나와 달라. 난 더블린이라는 사람들의 꿈이 찾아낸 것뿐이지만, 로도스 아일랜드는 감히 상상조차 할 수 없는 꿈을 사람들에게 보여주려고 하고 있잖아. 날 구해 준 게 로도스 아일랜드라는걸, 절대 잊지 않을 거야."
         },
         {
           "language": "繁体中文",

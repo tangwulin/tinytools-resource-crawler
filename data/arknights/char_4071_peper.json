@@ -919,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あけおめ！こんな大勢の人と一緒に新年を迎えるなんて思いもしなかったっす！みんなでワイワイ願い事をしてるのめっちゃ賑やか！ドクターは今年なんてお願いするんすか？うちはもう、ばあちゃんの無事を……あっ、お願いってしゃべったら叶わないやつっすよね？ほらほらドクター早く忘れて！"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy New Year! I didn't expect such a crowd celebrating the new year together. It's so much fun hearing all the New Year's wishes! Doc, what's your wish this year? Me, I'm wishing for Nana to stay safe... Oh no, if I tell someone, the wish won't come true, right? Forget what I just said, instantly!"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받으세요! 이렇게 많은 사람들과 함께 새해를 맞이하게 될 줄은 몰랐어요! 다 함께 모여서 소원을 비니까 엄청 시끌벅적하네요! 박사의 올해 소원은 뭔가요? 전 그냥 할머니가 건강하셨으면 하고…… 앗, 소원은 남한테 말하면 안 된댔는데! 빨리 잊어버리세요, 박사!"
         },
         {
           "language": "繁体中文",
@@ -962,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "像罗德岛这样的好雇主不好找，我们之间的合作真的很愉快！当初在伦蒂尼姆被博士你打败的时候，我完全没想过会有这么一天......我们今后还可以继续合作，合作很久很久，对吧，博士？"
+          "content": "今天是什么日子？哈？博士你怎么可以不记得！今天可是你的生日欸！怎么可以把自己的生日忘掉！......欸，刚刚是骗我的？你还知道我替你准备了礼物？......欸？！"
         },
         {
           "language": "日文",
@@ -980,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "像罗德岛这样的好雇主不好找，我们之间的合作真的很愉快！当初在伦蒂尼姆被博士你打败的时候，我完全没想过会有这么一天......我们今后还可以继续合作，合作很久很久，对吧，博士？"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスみたいないい雇い主はなかなかいないっすから、ホントに楽しく仕事ができたんだ！ロンディニウムであんたたちにやられた時は、こんな日が来るなんて思いもしなかったな……これからもさ、協力関係を続けような。ずっと、ずーとな。いいよな、ドクター？"
+        },
+        {
+          "language": "英文",
+          "content": "A great employer like Rhodes Island is hard to find. Our partnership has been wonderful! I never thought I'd see a day like this when you guys first beat us back in Londinium... We're gonna keep this up for a very, very long time. Right, Doc?"
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드처럼 좋은 고용주는 좀처럼 찾기 힘든데, 덕분에 즐겁게 일했어요! 런디니움에서 박사한테 당했을 때만 해도 이런 날이 올 거라곤 상상도 못 했는데…… 앞으로도 쭉~ 같이 일하는 거예요. 알겠죠, 박사?"
         },
         {
           "language": "繁体中文",

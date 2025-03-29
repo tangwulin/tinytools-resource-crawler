@@ -1,7 +1,11 @@
 {
   "name": "伺夜",
   "charaKey": "char_427_vigil",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/f/f1/%E7%AB%8B%E7%BB%98_%E4%BC%BA%E5%A4%9C_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/b/b5/%E7%AB%8B%E7%BB%98_%E4%BC%BA%E5%A4%9C_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/8/8a/%E7%AB%8B%E7%BB%98_%E4%BC%BA%E5%A4%9C_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -1055,15 +1059,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "新たな一年、互いにブレない目標を持ち続けられることを祈る。乾杯。……ああ、リンゴジュースだから構わない。強すぎる酒は苦手でな。可笑しいか？ファミリーの構成員だからって酒飲みじゃないといけない決まりでもあるのか？"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "It's a brand new year. A toast to our goals, alla nostra salute. Oh, don't worry, this is just apple juice. I can't handle wine that's too strong. Why are you laughing? Whoever said that mafiosi have to drink?"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해에도 서로의 목표에 흔들림이 없길 바라며, 건배. 아, 이건 사과주스니까 괜찮아. 너무 독한 술은 잘 마시지 못 하거든. 왜 웃는 거지? 패밀리 구성원이라면 꼭 술을 잘 마셔야 한다는 법이라도 있어?"
         },
         {
           "language": "繁体中文",
@@ -1106,12 +1110,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "博士，我们还挺像的。我认为就算是一摊泥泞的叙拉古，也并非无法改变。而你的野心，哈，甚至比我的还要大。我们都必须拥有配得上这份野心的实力，我会继续磨炼自己，希望你也一样。"
+          "content": "生日？博士，你这个年纪还会庆祝生日吗？好吧，适当关怀合作伙伴也是我的责任。祝你生日快乐。生日快乐歌？别得寸进尺。"
         },
         {
           "language": "日文",
@@ -1124,6 +1128,36 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        },
+        {
+          "language": "意大利文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我们还挺像的。我认为就算是一摊泥泞的叙拉古，也并非无法改变。而你的野心，哈，甚至比我的还要大。我们都必须拥有配得上这份野心的实力，我会继续磨炼自己，希望你也一样。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、俺たちは似たもの同士だな。泥沼状態のシラクーザであっても変えようがあるはずだと俺は信じている。そしてお前の野心は……フンッ、俺以上かもしれないな。互いにこの野心に釣り合うだけの実力が求められるぞ。俺は自分磨きを怠るつもりはないが、お前もそうあってほしいものだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, the two of us are actually pretty similar. I believe that even a swamp like Siracusa can change. And your ambitions, hah, they are even bigger than mine. We both have what it takes to make this happen. I'll keep working on myself. I hope you'll do the same."
+        },
+        {
+          "language": "韩文",
+          "content": "우린 꽤 닮은 것 같네, 박사. 난 시라쿠사가 아무리 진흙탕 같은 곳이라고 해도, 결국은 바뀔 수 있으리라 믿어. 그리고 네 야망은…… 하아, 내 야망보다 더 클지도 모르겠군. 어쨌든 우린, 우리가 가진 야망에 걸맞은 실력을 갖춰야만 해. 난 앞으로도 계속해서 스스로를 단련시킬 생각인데, 부디 너도 그랬으면 좋겠군."
         },
         {
           "language": "繁体中文",

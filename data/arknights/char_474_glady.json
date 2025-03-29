@@ -1,7 +1,12 @@
 {
   "name": "歌蕾蒂娅",
   "charaKey": "char_474_glady",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/8/84/%E7%AB%8B%E7%BB%98_%E6%AD%8C%E8%95%BE%E8%92%82%E5%A8%85_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/6/61/%E7%AB%8B%E7%BB%98_%E6%AD%8C%E8%95%BE%E8%92%82%E5%A8%85_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/f/f9/%E7%AB%8B%E7%BB%98_%E6%AD%8C%E8%95%BE%E8%92%82%E5%A8%85_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/b/b8/%E7%AB%8B%E7%BB%98_%E6%AD%8C%E8%95%BE%E8%92%82%E5%A8%85_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -14,6 +19,10 @@
     {
       "language": "韩语",
       "base": "voice_kr/char_474_glady"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_474_glady"
     }
   ],
   "voiceList": [
@@ -31,7 +40,7 @@
         },
         {
           "language": "英文",
-          "content": "Please leave for the moment. I will not permit any disturbance as I work. I appreciate your understanding."
+          "content": "Please leave for now. Any disruption during my work hours is not permitted. Should there be any offense, I appreciate your understanding."
         },
         {
           "language": "韩文",
@@ -57,7 +66,7 @@
         },
         {
           "language": "英文",
-          "content": "I wish to avoid unnecessary headaches. On that point, we stand together. Given your rich experience, I am certain you are already well aware, but even when it is not their intention to do so, humans tend to lead themselves to their destruction. That said, until the time the others are fully prepared, it doesn't matter how much you rack your brains about the sea. It's all but futile."
+          "content": "To stop people from conducting foolish and meaningless deeds... At least you and I have that goal in common. Given your rich experience, I am certain you are well aware of how fervently most humans court their own destruction. That said, until the time the others are fully prepared, it would be all futile, no matter how much you rack your brains about the sea."
         },
         {
           "language": "韩文",
@@ -83,7 +92,7 @@
         },
         {
           "language": "英文",
-          "content": "Could you let your operators know to never touch my body or my weapons after combat? It would make me feel bad if anyone complained about any burns."
+          "content": "Please inform your operators to avoid any physical contact with me or my weapon after a battle. Intense excrise raises my surface temperature. If someone were to complain about being scalded, I would hate to feel guilty."
         },
         {
           "language": "韩文",
@@ -109,7 +118,7 @@
         },
         {
           "language": "英文",
-          "content": "I sound a little too polite...? I'm not yet familiar with the language used on the land. Besides... and this is my only my own opinion, you wouldn't want to see me impolite, would you?"
+          "content": "The language I use is overly polite...? Hm, I'm still getting acquainted with the language used on the land. But, besides, in my humble opinion, it would not be in your best interest to see me being impolite."
         },
         {
           "language": "韩文",
@@ -135,7 +144,7 @@
         },
         {
           "language": "英文",
-          "content": "As Abyssal Hunters, we must fulfill our responsibilities. To abandon the sacrifices of the past would be an unforgivable act of betrayal. That being said, how many Hunters can I still save other than Specter and Skadi? Even if I save another Hunter who survived, the fear may have crushed them whole long ago. It would only be dragging out their agony."
+          "content": "As Abyssal Hunters, we must fulfill our responsibilities. To abandon the sacrifices of the past would be an unforgivable act of betrayal.  That being said, how many Hunters can I still save other than Specter and Skadi? Even if I were to rescue another Hunter who survived by sheer luck, the fear may have crushed them whole long ago. Their future will be fraught with nothing but agony."
         },
         {
           "language": "韩文",
@@ -161,7 +170,7 @@
         },
         {
           "language": "英文",
-          "content": "Do you like to sing? What about dancing? How about a dance with me, then? It doesn't matter if you don't know the steps. I will teach you. Songs, art, music... You must never forget these things. These expressions are proof that all those who stand beneath that sky full of stars once lived. That's how they take form and live on. Come, let's dance."
+          "content": "Do you like to sing? What about dancing? Would you like to dance with me? It doesn't matter if you don't know the steps. I will teach you. Poetry, art, music... You must never forget these things. They are proof that all humans once lived beneath the starry night sky. Through these arts, and upheld by us, humans become eternal. Come, let's dance."
         },
         {
           "language": "韩文",
@@ -187,7 +196,7 @@
         },
         {
           "language": "英文",
-          "content": "Kal'tsit implored me to seek your help, but I don't completely trust you yet. Your technology is primitive compared to Ægir, and your mental state is even more problematic... Many of you are fearful and cowardly. I cannot begin to imagine you people taking on 'that.'"
+          "content": "Kal'tsit encouraged me to seek your help, though I still remain skeptical of its utility. The technology of land dwellers is primitive compared to that of Ægir, yet the average mental state is even more problematic. Fear and cowardice seem to pervade most of you. Honestly, I cannot imagine how you people would face 'that.'"
         },
         {
           "language": "韩文",
@@ -213,7 +222,7 @@
         },
         {
           "language": "英文",
-          "content": "The air here is dry. Fighting on land sometimes leaves me feeling dry. This is better than being surrounded by the dead bodies of my comrades, however... when the sea was filled to the brim with shreds of their bodies. Their deaths get etched onto your brain, and the stench of their rotting bodies will fill your mouth each and every time you open it. Even so, we must never hang our heads."
+          "content": "The air here is dry. Fighting on land sometimes feels sweltering. Uncomfortable as it is, this is still better than being surrounded by the dead bodies of my comrades... I remember how the sea was littered with shreds of corpses. Their deaths etched onto your brain, and the stench lingers on your tongue whenever you open your mouth. Yet you cannot hang your head."
         },
         {
           "language": "韩文",
@@ -239,7 +248,7 @@
         },
         {
           "language": "英文",
-          "content": "We are not of the same race. Do you think we can form an alliance in spite of that? Kal'tsit is far older than me, and I cannot begin to imagine the burden she carries, but they are all things that you must face one day... You need to get stronger. You need to not fear loss. I will watch you by your side."
+          "content": "Do you think we can form an alliance? We may not even be counted as the same species. Kal'tsit is far older than me. The burden she carries is beyond anyone's imagination, but it is also a burden you must face one day... You must get stronger, strong enough to fear no loss. I will watch you by your side."
         },
         {
           "language": "韩文",
@@ -343,7 +352,7 @@
         },
         {
           "language": "英文",
-          "content": "A new contract? I appreciate your recognition, but I already have many important missions assigned to me. It will be a while until I get to these new missions from you. I apologize for the inconvenience."
+          "content": "A new contract? While I appreciate your recognition, I already have many important missions demanding my attention. The matters you assigned will have to wait. I apologize, for the inconvenience.."
         },
         {
           "language": "韩文",
@@ -369,7 +378,7 @@
         },
         {
           "language": "英文",
-          "content": "War. The concept of victory doesn't exist in a war that revolves around the continuance of a race. The only conclusion it can lead to is the destruction of all other races under the night sky. We Abyssal Hunters put our lives on the line to fend off and delay this fate. Always, unrelenting, and without any regrets."
+          "content": "War. The concept of victory doesn't exist in a war that revolves around the continuance of a species. The only conclusion it can lead to is the destruction of the opposing side under the night sky. We Abyssal Hunters put our lives on the line to fend off and delay this fate. Unwavering, unrelenting, and without any regrets."
         },
         {
           "language": "韩文",
@@ -395,7 +404,7 @@
         },
         {
           "language": "英文",
-          "content": "As your squadron's aide, I will participate in your trainings."
+          "content": "I'll join this training as your squadron's aide."
         },
         {
           "language": "韩文",
@@ -421,7 +430,7 @@
         },
         {
           "language": "英文",
-          "content": "It seems this won't be a difficult battle. Allow me to use this as an opportunity to train your operators' hunting abilities."
+          "content": "This seems to be a low-intensity battle. Allow me to use it as hunting practice for your operators."
         },
         {
           "language": "韩文",
@@ -447,7 +456,7 @@
         },
         {
           "language": "英文",
-          "content": "You are as slow as though you are bogged down in mud, but don't let it get to you. I will slow down and wait."
+          "content": "You are slow like you're caught in an undertow. I will slow down and wait, try to catch up."
         },
         {
           "language": "韩文",
@@ -499,7 +508,7 @@
         },
         {
           "language": "英文",
-          "content": "Please, go ahead."
+          "content": "Speak your mind."
         },
         {
           "language": "韩文",
@@ -577,7 +586,7 @@
         },
         {
           "language": "英文",
-          "content": "I'll take care of it right away."
+          "content": "I'll manage them right away."
         },
         {
           "language": "韩文",
@@ -603,7 +612,7 @@
         },
         {
           "language": "英文",
-          "content": "Be careful. The currents here will swallow the weak whole."
+          "content": "Watch out. The currents will pull the weak into the abyss."
         },
         {
           "language": "韩文",
@@ -629,7 +638,7 @@
         },
         {
           "language": "英文",
-          "content": "Have you asked for my permission before you tried to run away from me, my dear prey?"
+          "content": "Have I granted you the permission to run away, my prey?"
         },
         {
           "language": "韩文",
@@ -655,7 +664,7 @@
         },
         {
           "language": "英文",
-          "content": "It won't take even half a second. This lance will pierce your heart."
+          "content": "Just a second, then this lance will pierce your heart."
         },
         {
           "language": "韩文",
@@ -681,7 +690,7 @@
         },
         {
           "language": "英文",
-          "content": "That's enough playtime with toys."
+          "content": "Playtime is over."
         },
         {
           "language": "韩文",
@@ -707,7 +716,7 @@
         },
         {
           "language": "英文",
-          "content": "Live. That's the only rule you must follow."
+          "content": "Survive. That's the only rule you must follow."
         },
         {
           "language": "韩文",
@@ -759,11 +768,11 @@
         },
         {
           "language": "英文",
-          "content": "If the preys that got away have no means to share information, then you still have a chance to live."
+          "content": "Better hope that the fleeing prey won't share information, so you still have a chance to savor the rest of your life at ease."
         },
         {
           "language": "韩文",
-          "content": "도망친 사냥감에게 정보를 전달하는 능력이 없다면, 당신의 목은 아직 간당간당하게 붙어 있었겠죠."
+          "content": "도망친 사냥감에게 정보를 전달하는 능력이 없다면, 당신의 목은 일단 안전할 테니, 한숨 정도는 돌려도 괜찮겠죠."
         },
         {
           "language": "繁体中文",
@@ -837,7 +846,7 @@
         },
         {
           "language": "英文",
-          "content": "Please, respect the land's etiquette, Doctor, or perhaps discourtesy is more your thing?"
+          "content": "Please respect the land's etiquette, Doctor, or perhaps discourtesy is more your thing?"
         },
         {
           "language": "韩文",
@@ -863,7 +872,7 @@
         },
         {
           "language": "英文",
-          "content": "Best be careful. My kind are all monsters in nature."
+          "content": "Best be careful. By nature, my kind are all monsters."
         },
         {
           "language": "韩文",
@@ -911,15 +920,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "新年ですわね。私たちの計画の進捗はどうなのかしら？海は今度どこの土を飲み込んで、海岸線を書き換えたかしら？ロドスのオペレーターたちが時の経過を祝うのは勝手ですけれど、私たちは、時間をかけて知れば知るほど、自らの所業をよく理解しなければなりませんわよ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "And so another year has come and passed. How far has our plan come? Has the sea engulfed more land from the coastlines without us even realizing? Rhodes Island's operators celebrate the New Year. Let them. As for us, the more we know, the more we must judge our own actions."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새로운 한 해가 시작됐군요. 우리의 계획은 어느 단계까지 진행됐죠? 바다는 또 얼마만큼의 흙을 집어삼키고 해안선을 바꿨을까요? 다른 오퍼레이터들이 새해를 축하하는 건 그들의 자유지만, 더 많은 걸 알고 있는 우리는 더욱더 스스로의 행동에 조심할 필요가 있습니다."
         },
         {
           "language": "繁体中文",
@@ -941,7 +950,7 @@
         },
         {
           "language": "英文",
-          "content": "Hello, Doctor."
+          "content": "Greetings, Doctor."
         },
         {
           "language": "韩文",
@@ -950,6 +959,32 @@
         {
           "language": "繁体中文",
           "content": "您好，博士。"
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果一个生命的诞生是值得庆祝的，那么首先，这个生命得拥有相当的价值才行。握住我的手吧。这是一支特殊的舞。您同样可以将它视作我的认可。生日快乐。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
         }
       ]
     },
@@ -963,15 +998,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "種の存続は、常に多様な脅威に晒されるものですわ。陸地に対する私の理解から判断しますと、ロドスのお仕事と、ハンターたちとは、本質的には同じものかもしれません。ドクター、あなた自身が下した決断の重みはよくよく認識せねばなりませんわよ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "A species faces many threats in its survival. Under my assessment of dry land, I might equate Rhodes Island's intrinsic work to that of my Hunters. Doctor. It is yours to gather the weight of your decisions."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "종족의 존속은 언제나 다양한 위협에 직면해 있습니다. 제가 육지에 대해 이해한 바로는, 로도스 아일랜드가 하고 있는 일과 헌터들의 일은 본질적으로 같더군요. 박사 박사님, 당신은 자신이 내리는 선택의 무게를 분명히 인식해야 합니다."
         },
         {
           "language": "繁体中文",

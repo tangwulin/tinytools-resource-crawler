@@ -1,7 +1,12 @@
 {
   "name": "炎客",
   "charaKey": "char_131_flameb",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/6/64/%E7%AB%8B%E7%BB%98_%E7%82%8E%E5%AE%A2_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/2/22/%E7%AB%8B%E7%BB%98_%E7%82%8E%E5%AE%A2_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/b/bc/%E7%AB%8B%E7%BB%98_%E7%82%8E%E5%AE%A2_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/3/33/%E7%AB%8B%E7%BB%98_%E7%82%8E%E5%AE%A2_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -915,15 +920,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "時は絶え間なく進み続けるものだ。もしその中で成長を遂げなければ、生きた歳月は枯れ木のように朽ち果て、新しい春を迎えることもできなくなる。こんな挨拶は柄ではないが……新年おめでとう。今年も己の目標を忘れないようにな。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Time never ceases to pass. If you make no progress at this stage in your journey, then as a wizened tree does, your hours will rot away, and lose any ability to meet the coming spring. Happy New Year, Doctor, and don't forget your own goals."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "시간은 끊임없이 나아가는 법이다. 만약 그 속에서 성장을 이루지 못한다면, 네가 살아온 세월은 말라버린 나무처럼 완전히 썩어버려 새로운 봄을 맞이할 수도 없게 되지. 이런 인사는 나와 어울리지 않지만…… 새해 복 많이 받아라, 박사. 올해도 자신의 목표를 잊지 말도록."
         },
         {
           "language": "繁体中文",
@@ -958,12 +963,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "我来到罗德岛的理由，只有你，博士。我允许你将我当作一柄刀来使用，但相应地，你要给我有趣的猎物，耐用的砥石。不要让我失望。否则，我可不能保证这柄刀下次会指向谁。"
+          "content": "这束花是我种的，收下吧。不用为它赋予太多意义。只是希望你在迎来生命的凋亡前，也能找到一个全力绽放的时刻。生日快乐。"
         },
         {
           "language": "日文",
@@ -976,6 +981,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我来到罗德岛的理由，只有你，博士。我允许你将我当作一柄刀来使用，但相应地，你要给我有趣的猎物，耐用的砥石。不要让我失望。否则，我可不能保证这柄刀下次会指向谁。"
+        },
+        {
+          "language": "日文",
+          "content": "俺をロドスに引き寄せたのはお前だ、「ドクター」。この俺を刀として使うことを許す代わりに、楽しめそうな獲物と良質な砥石は欠かさず用意してもらおう。期待を裏切ってくれるなよ。さもなければ、この刃がお前に向かない保証はできない。"
+        },
+        {
+          "language": "英文",
+          "content": "I think of what reasons brought me to Rhodes Island, Doctor, and there is only you. I allow you to use me as your blade, but in kind, you provide me amusing prey and durable whetstones. But don't disappoint me. For if you do, I cannot guarantee that someday this blade will not point at you."
+        },
+        {
+          "language": "韩文",
+          "content": "날 로도스 아일랜드로 끌어들인 건 너야, '박사'. 난 네가 날 무기로 쓰는 건 허락했지만, 그 대신에 넌 내게 흥미로운 사냥감과 제대로 된 숫돌을 준비해 줘야 해. 날 실망시키지 말라고. 그렇지 않으면 이 칼날이 가리킬 다음 상대가 누구일지, 나도 장담할 수 없을 것 같으니."
         },
         {
           "language": "繁体中文",

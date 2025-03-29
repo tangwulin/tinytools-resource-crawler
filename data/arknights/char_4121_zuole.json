@@ -1,7 +1,11 @@
 {
   "name": "左乐",
   "charaKey": "char_4121_zuole",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/6/64/%E7%AB%8B%E7%BB%98_%E5%B7%A6%E4%B9%90_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/7/7a/%E7%AB%8B%E7%BB%98_%E5%B7%A6%E4%B9%90_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/c/ce/%E7%AB%8B%E7%BB%98_%E5%B7%A6%E4%B9%90_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -919,7 +923,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "北地は軍事で忙しく、田家に閑かなる月少なく……公務のため、私は年中炎国の各地を奔走しています。炎国の人々はいつも忙しくしていますが、この時期になるといつもごちそうの並んだ食卓があり、高らかに響く鼓があり、団らんを祝う言葉があります……落ちる影はまだ消えていませんが、人の営みが絶えることもありません。"
+        },
+        {
+          "language": "英文",
+          "content": "The northern mandarins are busy, just as farmers have little time for leisure... My duties have me traveling all across Yan. The Yanese are always busy, but this time of year, they come together to eat, to beat the drums, and to enjoy their reunions... The shadows have yet to fade, but likewise, the fireworks will never cease."
+        },
+        {
+          "language": "韩文",
+          "content": "북부는 군사 일로 바쁘고, 시골은 쉬는 달이 적죠…… 저는 공무로 항상 염국 각지를 돌아다닙니다. 염국 사람들은 늘 바쁘게 지내지만, 매년 이맘때면 언제나 따뜻한 식사와 북소리, 화목한 말이 오가곤 합니다…… 드리운 그림자는 아직 흩어지지 않았으나, 사람들의 불꽃 역시 끊이지 않을 겁니다."
         },
         {
           "language": "中文-方言",
@@ -954,6 +966,32 @@
       ]
     },
     {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小时候顽劣，跳进玉门的沙渠，险些丢了性命。那天是我生日，所以父亲只是让我戴着这副面具一整天不许摘下。生日快乐，博士。罗德岛今天不会停，但您想下去看看吗？放心，我能带您飞上来。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "中文-方言",
+          "content": "我小时候可皮，跳进玉门嘞沙渠里，差点冇命。但那天是我生日，所以俺父亲就只罚我戴着这副面具一整天不能摘下来。生日快乐，博士。罗德岛今儿不会停，你想下去看看不？别担心，我还能捞住你飞上来。"
+        }
+      ]
+    },
+    {
       "title": "周年庆典",
       "filename": "CN_044.wav",
       "text": [
@@ -963,7 +1001,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ロンディニウム、グランファーロ、トリマウンツ……ロドスは各地に姿を見せています。もちろん、ロドスが単なる製薬会社ではないことを司歳台は承知していましたが、あなた方は予知できない災害を防ぐために力を尽くしているのも事実です。その事実は、我々が肩を並べるに足るものです。"
+        },
+        {
+          "language": "英文",
+          "content": "Londinium, Gran Faro, Trimounts... Rhodes Island has played a role in many crises. The Sui Regulator knows that you are not a simple pharmaceutical company, of course, but you have been doing everything in your power to prevent invisible disasters. And so you may stand shoulder-to-shoulder with us."
+        },
+        {
+          "language": "韩文",
+          "content": "런디니움, 그란파로, 트리마운츠…… 로도스 아일랜드의 흔적은 다양한 곳에서 발견할 수 있습니다. 물론 사세대도 로도스 아일랜드가 단순한 제약 회사가 아니라는 건 알고 있죠. 여러분이 보이지 않는 재이에 맞서 싸우고 계시는 것만으로도, 우리가 함께하기에 충분한 이유입니다."
         },
         {
           "language": "中文-方言",

@@ -1,0 +1,552 @@
+{
+  "name": "引星棘刺",
+  "charaKey": "char_1039_thorn2",
+  "images": [
+    "https://media.prts.wiki/c/c1/%E7%AB%8B%E7%BB%98_%E5%BC%95%E6%98%9F%E6%A3%98%E5%88%BA_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/b/bf/%E7%AB%8B%E7%BB%98_%E5%BC%95%E6%98%9F%E6%A3%98%E5%88%BA_2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_1039_thorn2"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_1039_thorn2"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，既然你决定加入我们的航程，就需要分担我们的工作。你可以试试掌舵？这是舵轮，向右打船就向右转，向左打船就向左转。记好了？那我们就出发吧。玩笑？不，我可没在开玩笑。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这就是你的吊床了，博士，这两天海浪不大，睡起来像摇篮，等到风刮起来，浪大了就不好入睡了，所以我还为你准备了一个桶，千万不要吐在地板上，打扫卫生的船员会嘀咕很久的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，最近我要花时间在炼金术实验上，你能暂时代我指挥吗？不，请不要告诉船员们，上次我的实验虽大幅提升了引擎效率，但因为损坏船体，庆功宴上他们投票把我挂在桅杆整整一夜。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这些银色的流体小球叫做“心相原质”，如今是它们构成了我的右臂，也是它们时时刻刻向我传达万物的动向，风、浪、鳞群......甚至人体内的血液。那种感觉，好像我在与万物一同流淌。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "老师曾说，人们建立连接意味着接受他人的一部分融入自身，他来自深海教会，我因此误读了这句话。但其实它的本意是指，每个人都是空心一片，需要与他人交流才能构建起完整的自己。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那些有关伊比利亚的问题，从前我只能以道听途说的言语回答你，它过去的辉煌与如今的荒芜都无法令我产生归属感，它的未来才是我真正想参与的。以这艘船为中心，我会诠释属于我的伊比利亚。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "船上的食物要吃光了，我正要坐小船去捉些鳞过来，你要一起吗，博士？用钓竿？不，那样效率太低，不如直接跳进海里施展至高之术把鳞挑上船来，不会浪费一点时间。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "现在要驶入风暴中心了！左满舵！扬帆！稳住，船员们！博士，你不用慌张，这些狂暴的浪花都在我的掌控中，我不会让你摔下栏杆的，我保证——哦，对不起，我没想到它会浇你一身......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呃，博士，你是怎么找到这里来的？我吗......平时船员叽叽喳喳的，有点吵，想清静一下，就会躲到这里来。奇怪，明明这里只有风声与海浪声，却让我想起罗德岛上大家的声音。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "睡着了？想不到你居然这么快就习惯了海浪的颠簸......我曾听说，人们在某个地方感到困倦，是因为他们觉得那里很安全。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，欢迎来到“宝宝摇篮”号，我......是它的船长。咳咳，这不是我起的名字。当时，我们把写了名字的纸条混在一起，让大副的宠物去抓的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这是我之前的作战录像？你居然带上船了......这招式一眼就能看穿，显然没有好好计算。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "庆祝我升任船长的贺礼？这都好久之前的事情了，博士你怎么突然想起这个？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "恭喜你，博士，鉴于你在船上的优异表现，以及与大副宠物结下的深厚友谊，我和船员们一致决定将你升为这艘船的高级饲养员。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，请你暂时代行船长之职，这将是一场艰苦的战斗，我需要和船员们并肩作战。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "像从前那般下达命令吧，博士，我会听从的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "升起旗帜，水手们！告诉敌人我们来了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大炮装填，瞄准右后方，全体待命！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "让我一个人待着，我知道该怎么做。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，请搭把手，我需要你的帮助。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "等海风吹起风帆，就该动手了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我听到海浪在拍击船舷，它在预告一场胜利。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "探针正常，心相原质......也正常。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "成像挺清晰的......啧，看看数据。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不错，数据合理，计算下试试。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "对吗？好像又不太对......算了，事到如今先运作吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真是一场酣畅淋漓的胜利，享受此刻的欢呼吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们所遭遇的只是航行中最微不足道的事故，打起精神，博士，前面还有更难的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "只是强弩之末，不必追击，我们返航吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "转向顺风，满帆行驶，我们需要尽快撤出这片海域！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别惊讶，就算是船长也要亲自打扫卫生，可以帮我递一下拖把吗？我得在天黑前结束，谢谢你，博士。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "它们感受到你的靠近了，博士。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的辫子松开了，可以帮我重新绑一下吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看今夜船员们这兴奋的样子，估计仓库里那箱朗姆酒要存不住了。我得提醒你，博士，到时可别靠在栏杆旁，你不会想喝醉后掉进海里的。啊，你问我怎么知道......咳咳，总之我就是知道。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们正朝着太阳升起的方向行进。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "今天是你的生日吗？在海上漂了这么久，时间记录可能会有误差，我已经尽力校准了。博士，看，迁徙的鳞群正从船下游过，真奇妙，明明每一条都不同，聚在一起却和谐得如此美妙。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，那时我还在你的船上......我曾想过结束流浪的生活，留在罗德岛，但人没办法永远停在一个地方的，每段旅程都有结束的那天，重要的是，大家此刻正陪伴着彼此。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

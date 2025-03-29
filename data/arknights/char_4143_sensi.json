@@ -22,7 +22,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "……お前の仕事のことはよくわからんが、食べたいものがあれば作ってやろう。オムライスか、野菜スープか、それとも炭火焼肉か？"
+        },
+        {
+          "language": "英文",
+          "content": "Can't say I wrap my head around your job. Anything you want me to cook? Rice omelette, veggie stew, barbecue?"
+        },
+        {
+          "language": "韩文",
+          "content": "……자네 업무는 잘 모르겠네만, 먹고 싶은 게 있으면 만들어 주겠네. 오므라이스? 야채수프? 아니면 숯불 구이?"
         }
       ]
     },
@@ -36,7 +44,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "落ち着いて深呼吸しろ、スカイフレア！それ以上体温が上がれば、揚げ物が焦げてしまうぞ！おお、グムよ、お前の作ったクッキーは素晴らしいな――ところで、ゴールデングロー。お前の作るポップコーンは、なぜそうも髪の毛にくっつくのだ？ウーム、解決法を考えてみよう。しばし時間をくれ……"
+        },
+        {
+          "language": "英文",
+          "content": "Take a deep breath! Skyfire, young lady, your body heat'll burn a fritter at this rate! Gummy, wonderful cookies you made—Goldenglow, why's your popcorn all stuck in your hair? There now, let me think how to go about this…"
+        },
+        {
+          "language": "韩文",
+          "content": "진정하고 심호흡하게, 스카이파이어! 거기서 더 체온이 오르면 튀김이 타 버릴 걸세! 오, 굼. 자네가 만든 쿠키는 훌륭하군…… 그런데 골든글로우. 자네가 만드는 팝콘은 왜 그렇게 머리카락에 달라붙는 건가? 음…… 해결책을 생각해 보겠네. 잠시만 시간을 주게나……"
         }
       ]
     },
@@ -50,7 +66,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ぶわっくしょん！……実はハガネガニを飼育している温室を見に行こうとしたのだが、そこでマルシルとパフューマーがわしのヒゲの匂いについて熱心に話し合っているのを聞いてしまってな。よからぬ気配を感じてその場を離れようとしたところで、マルシルに見つかり引き戻されて、妙なものをヒゲに吹きかけられてしまった……その香りのせいでタマネギの匂いもわからん始末だ！ぶわっくしょん！"
+        },
+        {
+          "language": "英文",
+          "content": "AH-CHOO! I was going to see inside the greenhouse where they raise the metal crabs, and fancy Marcille and Perfumer having a talk in there! I thought I'd slip out, but Marcille dragged me right back in to spray all these fancy smells on my beard. Now I can't even whiff an onion! AH-CHOO!"
+        },
+        {
+          "language": "韩文",
+          "content": "흐에취! ……실은 메탈 크랩을 사육하는 온실을 보러 가려했네만, 거기서 마르실과 퍼퓨머가 내 수염 냄새에 대해서 열심히 의논하는 걸 듣고 말았다네. 좋지 않은 낌새를 느끼고 자리를 뜨려 했는데, 거기서 마르실에게 들켜서 끌려가는 바람에 이상한 걸 수염에 묻히게 됐지…… 그 향기 때문에 양파 냄새도 못 맡는 상태라네! 흐엣취!"
         }
       ]
     },
@@ -64,7 +88,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ここがお前たちの厨房か。源石（オリジニウム）を使った炊飯器に、全自動式のオーブン、温度制御のできる八口コンロとな……！フーム、なかなかよい料理が作れそうだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Is this your kitchen? This is... unmistakably magic! Originium cookers, full-automatic ovens, an eight-burner range with temperature control—Aye, they're all for lazy people who lack of dedication to cooking. Take them away at once!"
+        },
+        {
+          "language": "韩文",
+          "content": "여기가 자네들 주방인가. 오리지늄을 사용한 밥솥, 전자동 오븐, 온도 제어 가능 8구짜리 화덕이라니……! 흠, 제법 좋은 요리를 만들 수 있겠어."
         }
       ]
     },
@@ -78,7 +110,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "強い身体を作るためには、食事をおろそかにしてはいかん。なに？生体変化系のアーツを使えば簡単に筋肉をつけられる……？ウーム。何かを手軽に済ませると何かが鈍る。便利と安易は違う、そうは思わんか？"
+        },
+        {
+          "language": "英文",
+          "content": "If you want a sturdy body, you can't go ignoring your diet. Biotransformative Arts, helping you build up body strength in no time, you say? ...Your body'll get dull if you keep trying to take short-cuts. There's a difference between convenience and laziness, aye?"
+        },
+        {
+          "language": "韩文",
+          "content": "강한 몸을 만들려면 식사를 소홀히 해선 안 되네. 뭐라고? 생체 변환계 아츠를 쓰면 쉽게 근육을 만들 수 있다……? 으음. 뭔가를 손쉽게 얻으면 다른 뭔가가 둔해지지. 편리와 안이는 다르다네. 그렇게 생각하지 않나?"
         }
       ]
     },
@@ -92,7 +132,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "水場を綺麗にし、そこで得た水を作物に与え、あちこちから出てきた廃材は回収倉庫へ。ここで育ったものを食べ、自らもこの世界に分け与える、そうした暮らしをしていると、わしもこの世界の一部になれたように思えて、それが嬉しい。"
+        },
+        {
+          "language": "英文",
+          "content": "Just cleaned your kitchen, gave the crops a sprinkling, and put everything I cleaned out into the composter. I eat the food your grow here, and I put my effort back into this land. Makes me feel like I'm a part of it that way. Couldn't be more satisfied."
+        },
+        {
+          "language": "韩文",
+          "content": "수원지를 깨끗이 관리하고, 그 물을 작물에 주고, 여기저기서 나온 폐자재는 회수용 창고로. 여기서 자란 걸 먹고, 또 직접 이 세계에 나눠 주는, 그런 삶을 살고 있다 보면, 나도 이 세계의 일부가 된 것 같아서 기쁘다네."
         }
       ]
     },
@@ -106,7 +154,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "「ジム」という場所に初めて行ってみたのだが、中にいた者に、こうも力持ちなドゥリン人は見たことがない、どうやって鍛えているのかと聞かれてな……ただ日々の料理をこなしているだけだと答えたが。なに？彼らはあの後、皆厨房で鍋を振っている？多くの人間が料理に興味を持ってくれるのは喜ばしいことだ。"
+        },
+        {
+          "language": "英文",
+          "content": "The first time I went to that 'gym' place, they said they never saw a Durin as strong as me, and asked me how I got that way. I told them I just cook everyday. What's that? Now they're all in the kitchen tossing up stir-frys? Well, I'm pleased as punch to get so many people interested in cooking."
+        },
+        {
+          "language": "韩文",
+          "content": "'체육관'이라는 곳에 처음 가 봤네만, 안에 있던 자들이 이렇게 힘이 센 두린족은 처음 본다며 어떻게 단련했는지 묻더군…… 그저 매일 요리를 해 먹는다고 대답했네만. 음? 그 뒤로는 다들 주방에서 냄비를 흔들고 있다고? 많은 인간이 요리에 관심을 가지는 건 기쁜 일이지."
         }
       ]
     },
@@ -120,7 +176,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "近頃は、ライオスたちも毎日きちんとしたものを食べていてわしは嬉しい。だがドクター、聞くところによると、お前は多忙を理由に即席食品ばかり食べているそうだな。それではあまりに不健康だ！栄養バランスを考えて、新鮮な野菜と良質なタンパク質を取らねばならんぞ！"
+        },
+        {
+          "language": "英文",
+          "content": "Makes me happy to see Laios's bunch eating proper everyday now. That said, Doctor, I hear that you've been eating nothing but instant food lately, using your busy schedule as an excuse, and that's no way to stay healthy! You want balanced nutrition, and that'll only start with more fresh veggies and good-quality proteins!"
+        },
+        {
+          "language": "韩文",
+          "content": "요즘은 라이오스 쪽도 매일 제대로 된 요리를 먹고 있어서 기쁘다네. 그런데 박사, 듣자 하니 자네는 바쁘다는 이유로 즉석식품만 먹는다던데. 그래서는 건강에 무척 나쁘다네! 영양 균형을 고려해서, 신선한 야채나 질 좋은 단백질을 섭취해야지!"
         }
       ]
     },
@@ -134,7 +198,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "お前たちが毎日何をしているかはよくわからん。だが、これほど多くの病人の面倒を見ているとは、尊敬に値する。病室の者たちはわしの料理を喜んで食べてくれるし、わしもそれは嬉しく思う。もし、ここと迷宮を行き来する方法が見つかったなら、その時はまた様子を見に来るとしよう。"
+        },
+        {
+          "language": "英文",
+          "content": "I might scratch my head at the things you all do everyday, but I respect you mightily for all the patients you'll take on. It warms the cockles of my heart too to see them enjoy my food so much. If we find any way to hop between here and the dungeon, I'll be coming back to visit you all."
+        },
+        {
+          "language": "韩文",
+          "content": "자네들이 매일 뭘 하는지는 모르네. 하지만 이렇게 많은 환자를 돌보는 건 존경스러워. 병실에 있는 자들이 내 요리를 기쁘게 먹어 줘서 나 역시 기쁘다네. 만약 이곳과 미궁을 왕래하는 방법이 발견된다면, 그땐 또 상황을 보러 오겠네."
         }
       ]
     },
@@ -148,7 +220,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ふむ、睡眠の質は良好だな。よしよし。"
+        },
+        {
+          "language": "英文",
+          "content": "Hmm, fine amount of sleep. Good, good."
+        },
+        {
+          "language": "韩文",
+          "content": "흠. 수면의 질은 양호하군. 좋아."
         }
       ]
     },
@@ -162,7 +242,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "うむ。各種揃った調理道具に、清潔で十分な火力を持つかまど、食材の備蓄も文句なし……どうやら、お前たちも料理のことをきちんと考えているようだな。わしはこの場所が気に入ったぞ！"
+        },
+        {
+          "language": "英文",
+          "content": "Hmm. Clean stovetops, all the utensils, nice and hot flames, and you store your ingredients well... Looks like you know the value of a healthy diet. I like the place you've got!"
+        },
+        {
+          "language": "韩文",
+          "content": "음. 잘 갖춰진 각종 조리 도구에 충분한 화력이 나오는 청결한 화덕, 재료 비축도 문제없고…… 아무래도 너희도 요리를 진지하게 생각하는가 보군. 난 이곳이 마음에 들었네!"
         }
       ]
     },
@@ -176,7 +264,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "秘蔵の調味料をどこかで失くしたと思っていたが、この時か！"
+        },
+        {
+          "language": "英文",
+          "content": "I was wondering when did I lose my rare spice collection. That's when it happened!"
+        },
+        {
+          "language": "韩文",
+          "content": "내 비장의 죠미료를 어디선가 잃어버렸나 했더니, 이때였나!"
         }
       ]
     },
@@ -190,7 +286,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "魔法にせよアーツにせよ、料理に用いて手間を省こうとばかりしていれば、いずれ人々は火の起こし方を忘れてしまうことだろう。火打石と薪の使い方こそ身に着けるべきスキルだ！"
+        },
+        {
+          "language": "英文",
+          "content": "Be it with magic or Originium Arts, people have been trying to save the effort of cooking so long they've forgotten how to start a fire. Proper use of a flint and tinder, that's the most essential skill to grasp!"
+        },
+        {
+          "language": "韩文",
+          "content": "마법이건 아츠건 간에, 요리에 이용해서 수고를 덜 생각만 한다면 언젠가 사람은 불을 피우는 방법을 잊어버리게 되겠지. 부싯돌과 장작을 쓰는 법은 꼭 습득해야 할 기술이네!"
         }
       ]
     },
@@ -204,7 +308,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "サーミ風の串焼きに、シーボーンのフルコース、墨魎のジャムとワインであれば作ったことがあるぞ。材料さえあれば、すぐにでも振舞ってやれるのだが……ん？どれも本来は食べられないものなのか？"
+        },
+        {
+          "language": "英文",
+          "content": "Sami-style kebabs, Seaborn full courses, Ink Spirit jams and wines, I've done it all. Just give me the ingredients, and I can make you them to try... Speak up? You say we can't be eating those things, now?"
+        },
+        {
+          "language": "韩文",
+          "content": "사미풍 꼬치구이나 시본 풀 코스, 묵량 잼과 와인이라면 만들어본 적 있지. 재료만 있으면 지금이라도 대접할 수 있네만…… 뭐? 원래는 다 못 먹는 것들이라고?"
         }
       ]
     },
@@ -218,7 +330,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "少し待て。調理道具と武器が揃っているかを確かめたい。"
+        },
+        {
+          "language": "英文",
+          "content": "One second, I'll double-check I've got all my kitchenware and weapons."
+        },
+        {
+          "language": "韩文",
+          "content": "잠깐 기다리게. 조리 도구와 무기가 갖춰졌는지 확인하고 싶군."
         }
       ]
     },
@@ -232,7 +352,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "案ずるな。お前たちを守るくらいはわしにもできる。"
+        },
+        {
+          "language": "英文",
+          "content": "Chin up, I've got it in me to protect the few of you."
+        },
+        {
+          "language": "韩文",
+          "content": "걱정 말게. 자네들을 지키는 것쯤은 나도 할 수 있어."
         }
       ]
     },
@@ -246,7 +374,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "準備完了じゃ！"
+        },
+        {
+          "language": "英文",
+          "content": "I'm ready!"
+        },
+        {
+          "language": "韩文",
+          "content": "준비 완료일세!"
         }
       ]
     },
@@ -260,7 +396,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "思っていたより魔物が多いのう……"
+        },
+        {
+          "language": "英文",
+          "content": "That's more monsters than I imagined..."
+        },
+        {
+          "language": "韩文",
+          "content": "생각보다 마물이 많군……"
         }
       ]
     },
@@ -274,7 +418,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "どうした、腹が減ったのか？"
+        },
+        {
+          "language": "英文",
+          "content": "What's the problem, you hungry?"
+        },
+        {
+          "language": "韩文",
+          "content": "왜, 배고픈가?"
         }
       ]
     },
@@ -288,7 +440,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "案ずるな。やりかたはわかっている。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't you worry, I know what to do."
+        },
+        {
+          "language": "韩文",
+          "content": "걱정 말게. 방법은 알고 있으니."
         }
       ]
     },
@@ -302,7 +462,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "悪くない配置だ。後ほどここで、食事を作ろう。"
+        },
+        {
+          "language": "英文",
+          "content": "Nice spot. Wouldn't mind cooking here later."
+        },
+        {
+          "language": "韩文",
+          "content": "나쁘지 않은 배치야. 나중에 여기서 식사를 만들도록 하세."
         }
       ]
     },
@@ -316,7 +484,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "この場はわしに任せておけ！"
+        },
+        {
+          "language": "英文",
+          "content": "Aye, you leave this to me!"
+        },
+        {
+          "language": "韩文",
+          "content": "여기는 나한테 맡기게나!"
         }
       ]
     },
@@ -330,7 +506,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "さて、何を作ったものか……"
+        },
+        {
+          "language": "英文",
+          "content": "Now, what's the best dish to make...?"
+        },
+        {
+          "language": "韩文",
+          "content": "자, 뭘 만들었는가……"
         }
       ]
     },
@@ -344,7 +528,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "どれ、塩加減を見てみよう。"
+        },
+        {
+          "language": "英文",
+          "content": "I'll just taste for salt."
+        },
+        {
+          "language": "韩文",
+          "content": "어디, 간을 좀 보도록 하지."
         }
       ]
     },
@@ -358,7 +550,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "食材を数回に分けて投入し……"
+        },
+        {
+          "language": "英文",
+          "content": "Add your ingredients in turns..."
+        },
+        {
+          "language": "韩文",
+          "content": "재료를 몇 차례에 나눠서 투입하고……"
         }
       ]
     },
@@ -372,7 +572,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "しばし待て、もうすぐ完成じゃ！"
+        },
+        {
+          "language": "英文",
+          "content": "Just a little longer, and it's done!"
+        },
+        {
+          "language": "韩文",
+          "content": "잠시 기다리게, 곧 완성일세!"
         }
       ]
     },
@@ -386,7 +594,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "フーム、これほど手強い魔物に遭うのは随分と久し振りだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Phew, I haven't tussled with a monster that tough in a long while."
+        },
+        {
+          "language": "韩文",
+          "content": "흠, 이렇게 버거운 마물을 만나는 건 꽤 오랜만이군."
         }
       ]
     },
@@ -400,7 +616,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター。この魔物を料理できないか、ライオスと試すことにしたのだが、お前も興味はあるか？"
+        },
+        {
+          "language": "英文",
+          "content": "I'm going to see with Laios if there's a way to cook these monsters. You interested, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사. 이 마물을 요리할 수 있는지 라이오스랑 시험해 보고 싶은데, 자네도 관심 있나?"
         }
       ]
     },
@@ -414,7 +638,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "どうやら、何か良くない食材をうっかり入れてしまったようだな……"
+        },
+        {
+          "language": "英文",
+          "content": "Seems I added something funny by mistake..."
+        },
+        {
+          "language": "韩文",
+          "content": "아무래도 무심코 뭔가 좋지 않은 재료를 넣어 버린 것 같군……"
         }
       ]
     },
@@ -428,7 +660,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "……撤退じゃ！"
+        },
+        {
+          "language": "英文",
+          "content": "...Get running!"
+        },
+        {
+          "language": "韩文",
+          "content": "……철수하세!"
         }
       ]
     },
@@ -442,7 +682,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "厨房まではどう行けばいい？"
+        },
+        {
+          "language": "英文",
+          "content": "Which way's the kitchen?"
+        },
+        {
+          "language": "韩文",
+          "content": "주방까지는 어떻게 가면 되나?"
         }
       ]
     },
@@ -456,7 +704,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "……今、わしをつついたか？ウーム……ヒゲの中を掻き回しても、何も出てはこないと思うぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "Are you poking me? Hmm... I say you're not going to get anything poking through my beard."
+        },
+        {
+          "language": "韩文",
+          "content": "……지금 날 찔렀나? 음…… 수염 안을 휘저어 봤자 아무것도 안 나올 걸세."
         }
       ]
     },
@@ -470,7 +726,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "美味いか？おかわりもあるぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "Like it? You want me to ladle you some more?"
+        },
+        {
+          "language": "韩文",
+          "content": "맛있나? 더 있다네."
         }
       ]
     },
@@ -484,7 +748,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주"
         }
       ]
     },
@@ -498,7 +770,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "オペレーターたちに手料理を振舞うのならば、しゃぶしゃぶにするといいだろう。調理が簡単でありながら、様々な食材を入れることができ、皆で同じ鍋をつつくこともできるからな。さあ、ついてこい。一番美味いしゃぶしゃぶの作り方を教えてやろう。"
+        },
+        {
+          "language": "英文",
+          "content": "If you want to make a dish for the operators, I recommend you go with hotpot. You can put in all kinds of stewing ingredients. It can feed a whole table at once, and it's simple to make. Come with me, I'll teach you how the tastiest hotpot's made."
+        },
+        {
+          "language": "韩文",
+          "content": "오퍼레이터들에게 직접 만든 요리를 대접하겠다면 샤부샤부가 좋겠군. 조리가 쉬우면서도 다양한 재료를 넣을 수 있어서, 함께 한 냄비에 둘러앉아 먹는 것도 가능하니 말일세. 자, 따라오게. 가장 맛있는 샤부샤부를 만드는 법을 알려 주겠네."
         }
       ]
     },
@@ -509,6 +789,28 @@
         {
           "language": "中文",
           "content": "料理已经做好了，过来尝尝老夫的手艺吧。"
+        },
+        {
+          "language": "日文",
+          "content": "完成じゃ！さあ、食べてみなさい。"
+        },
+        {
+          "language": "英文",
+          "content": "Just in time, it's done. Come give my work a taste."
+        },
+        {
+          "language": "韩文",
+          "content": "완성됐네! 자, 먹어 보게."
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不管想吃什么料理都告诉老夫吧，今天是你的生日，老夫也没有什么能送你的礼物，就给你做一顿大餐作为庆祝吧！"
         },
         {
           "language": "日文",
@@ -526,7 +828,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "つくづく、これはまったく予想のつかない旅だ……ライオスとマルシルは思っていたよりずっとしっかりしていたし、チルチャックもこの頃大人びてきた。わしはここでたくさんの面白い友と出会えたし、このような経験ができて、とても満足だ。"
+        },
+        {
+          "language": "英文",
+          "content": "This whole journey's been one endless surprise... Laios and Marcille are both much tougher than I'd thought, Chilchuck's really acting like a grown-up now, and I've made plenty of exciting new friends. It's been a fulfilling time, this."
+        },
+        {
+          "language": "韩文",
+          "content": "정말이지, 이건 전혀 예상이 안 되는 여행이야…… 라이오스와 마르실은 생각보다 훨씬 견실해졌고, 칠책도 최근 어른다워졌지. 난 여기서 재밌는 친구들을 많이 만나기도 했고, 이런 경험도 하게 되어서 아주 만족스럽다네."
         }
       ]
     }

@@ -1,7 +1,11 @@
 {
   "name": "乌有",
   "charaKey": "char_455_nothin",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/b/bb/%E7%AB%8B%E7%BB%98_%E4%B9%8C%E6%9C%89_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/6/68/%E7%AB%8B%E7%BB%98_%E4%B9%8C%E6%9C%89_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/2/2f/%E7%AB%8B%E7%BB%98_%E4%B9%8C%E6%9C%89_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -1191,15 +1195,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "寄ってらっしゃい、見てらっしゃい……やや、ドクターじゃないか。今日は休みだからね、休憩エリアに人が多いし、ここでちょっとばかり生活に役立つ豆知識を書いた本を安く売って、皆が気持ちよく新年を始められるようにしようと思ったんだよ。ドクターは最近ちゃんと寝れているかな？ちょうどここに『冬季睡眠導入呼吸法』という本があってね。見てみないかい？"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Come one, come all! Ah, hello, Doctor! Nice to see you here on such a holiday. The rest area's full of people, so I thought I'd issue some secret little tomes to life, at low prices to boot! Good tidings to all, won't you agree? Oh, speaking of which, Have you been sleeping well recently? I just so happen to have a copy of 'Winter Sleep-Aiding Breathing and Respiration Techniques'. What say you have a look?"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "어서 오세요, 편하게 구경하시고…… 아, 박사 아니신가! 오늘은 쉬는 날이라 휴식 공간에 사람이 많길래, 새해에 좋은 기운도 나눌 겸 저렴한 가격에 생활 속 작은 노하우에 관한 책을 좀 팔아보려 했네. 박사는 요즘 어떤가? 잠은 잘 주무시는가? 마침 여기 《겨울철 수면을 돕는 호흡법》이라는 책이 한 권 있는데, 구경해 보지 않겠나?"
         },
         {
           "language": "繁体中文",
@@ -1250,12 +1254,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "师父当年说我适合习武，但从没教过这功夫有何用处，只教我们要对得起良心。啊，我只是在想，要是没来罗德岛，我这会儿大概在龙门开健身馆吧？且不论赚钱的事，这把扇子恐怕就不会再用了吧。"
+          "content": "博士啊，我给您占了一卦，卦辞我写在这扇子上了，意思是您新的一岁将会顺风顺水......您不信？除非我拿扇子给您表演一段？咳，我这点拳脚功夫真不好意思献丑。但您是老板，您说了算。"
         },
         {
           "language": "日文",
@@ -1268,6 +1272,40 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        },
+        {
+          "language": "中文-方言",
+          "content": "博士啊，我给你占了一卦，卦辞我写到扇子上头了，意思是你新的一岁将会顺风顺水......你不信啊？除非我拿扇子给你表演一段？咳，我这点儿拳脚功夫真不好意思献丑。但你是老板，你说了算。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "师父当年说我适合习武，但从没教过这功夫有何用处，只教我们要对得起良心。啊，我只是在想，要是没来罗德岛，我这会儿大概在龙门开健身馆吧？且不论赚钱的事，这把扇子恐怕就不会再用了吧。"
+        },
+        {
+          "language": "日文",
+          "content": "師匠は昔、私が武の道に向いていると言ったが、磨いた腕をどう使うのかは教えてくれなかったんだ。自分の良心に恥じない行いをしなさいとだけ、伝えられてね。ああ、もしロドスに来ていなかったら、今ごろ龍門でジムでも開いているだろうと思って。金稼ぎのことはともかく、この扇子を使うことは二度とないだろうな。"
+        },
+        {
+          "language": "英文",
+          "content": "My master did tell me I was suited to martial arts, but she never taught of any place where you could use it, only that we shouldn't let down the conscience... Ah, I'm just thinking. If I'd not come to Rhodes Island, I'd probably be in Lungmen running a gym, I suppose? But all moneymaking aside, I fear I'd never have used this fan again."
+        },
+        {
+          "language": "韩文",
+          "content": "스승님께선 내게 무도의 길이 적합하다고만 말씀하셨지, 갈고닦은 실력을 어떻게 사용해야 하는지에 대해서는 말씀해 주지 않으셨다네. 그저 양심에 부끄럽지 않게 떳떳하게 살라고만 하셨지. 아, 만약 로도스 아일랜드에 오지 않았다면, 용문에서 체육관을 운영하고 있지 않았을까라는 생각이 들어서 말이야. 수입이야 어찌 됐든, 아마 이 부채를 다시 사용할 일은 없었을 것 같다는 생각이 드는군그래."
         },
         {
           "language": "繁体中文",

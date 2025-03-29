@@ -1,7 +1,11 @@
 {
   "name": "薇薇安娜",
   "charaKey": "char_4098_vvana",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/6/60/%E7%AB%8B%E7%BB%98_%E8%96%87%E8%96%87%E5%AE%89%E5%A8%9C_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/6/62/%E7%AB%8B%E7%BB%98_%E8%96%87%E8%96%87%E5%AE%89%E5%A8%9C_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/6/66/%E7%AB%8B%E7%BB%98_%E8%96%87%E8%96%87%E5%AE%89%E5%A8%9C_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -303,7 +307,7 @@
         },
         {
           "language": "英文",
-          "content": "Are you going to grant me a title as well?  There's no need for that, but it probably won't matter anyway. This place is no arena."
+          "content": "Are you going to grant me a title as well? There's no need for that, but it probably won't matter anyway. This place is no arena."
         },
         {
           "language": "韩文",
@@ -783,7 +787,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "毎年この日になると、父は領内の貴族と共に新年を祝い、付近の住民も祝儀を受け取ることができるのです。その時間だけは部屋で声を張れるようになります。誰も私に注意を払うことはなく、私も外の賑わいには加わりません……まだ年端もいかない幼子でしたが、すべて覚えています。"
+        },
+        {
+          "language": "英文",
+          "content": "Every year, my father spent the New Year with the nobles of the territory, and everyone who lived nearby were given their rewards. That was when I could finally speak loudly in my room. No one was ever there to notice me, and I paid no mind to the boisterousness outside, either... I was still young, but I still remember."
+        },
+        {
+          "language": "韩文",
+          "content": "매년 이맘때가 되면 아버지께선 영지 내의 다른 귀족들과 함께 새해를 축하하셨습니다. 인근에 살고 있는 사람들도 하사품을 받을 수 있었죠. 그리고 그 시간만큼은 저도 방 안에서 큰 소리로 말할 수 있었습니다. 그 누구도 제게 신경을 쓰지 않았고, 저 역시 바깥의 소란스러움에 눈을 돌리지 않았어요…… 그땐 아직 어린 나이였지만, 지금도 똑똑히 기억이 나네요."
         }
       ]
     },
@@ -810,6 +822,28 @@
       ]
     },
     {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "陪我看会儿书吧。来到这里后，我已经很少会烦躁得无法阅读了。哦对了，要是喜欢哪本，你离开的时候都可以带走，虽然有不少还是你送我的......生日快乐，博士。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        }
+      ]
+    },
+    {
       "title": "周年庆典",
       "filename": "CN_044.wav",
       "text": [
@@ -819,7 +853,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "詩歌は今の時代には必要ない、気晴らしにはならないと言う向きは強いですし、風流を形だけなぞる人々のせいで余計に疎まれることもあります。ですが、「思い出させる」ということの価値を私に示した人がいます。私もあなたと共に、一本の蝋燭と一編の詩でもって、この時代に知らしめたいのです。"
+        },
+        {
+          "language": "英文",
+          "content": "People often say that the era we live in has no need for poetry. They claim it cannot provide leisure, and it is loathed for certain men's pretentious elegance. But there is someone who once proved to me the value of 'reminders.' In that case, I wish to walk with you to remind this era, with a candle, and a poem."
+        },
+        {
+          "language": "韩文",
+          "content": "사람들은 지금 같은 시대에 시는 필요하지 않다고 말합니다. 오락거리도 될 수 없고, 겉치레로만 이용하는 사람들 때문에 더욱 무시당하고 있죠. 하지만, 제게 '일깨움'의 가치를 보여준 사람이 있습니다. 그러니 저도 촛불 하나, 시 한 편으로 당신과 함께 이 시대를 일깨우고 싶습니다."
         }
       ]
     }

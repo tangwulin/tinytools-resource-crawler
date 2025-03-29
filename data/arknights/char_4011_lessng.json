@@ -1,7 +1,11 @@
 {
   "name": "止颂",
   "charaKey": "char_4011_lessng",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/a/ad/%E7%AB%8B%E7%BB%98_%E6%AD%A2%E9%A2%82_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/1/11/%E7%AB%8B%E7%BB%98_%E6%AD%A2%E9%A2%82_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/8/8c/%E7%AB%8B%E7%BB%98_%E6%AD%A2%E9%A2%82_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -783,7 +787,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "時が経つのは早いな。いつか機会があれば、リターニアへの里帰りについてこないか。郊外に行けば、野生のスプルースが真っ直ぐ天高くまで伸びてる様子が見える……小さい頃は、あの木たちは塔の上まで伸びてるって思ってた。"
+        },
+        {
+          "language": "英文",
+          "content": "The days go by fast. You should come back with me to Leithanien if you get the chance. We'll go to the countryside, where patches of wild spruce trees grow straight and tall... When I was young, I thought they could grow even taller than the spires."
+        },
+        {
+          "language": "韩文",
+          "content": "시간이 참 빠르네. 나중에 기회가 되면 박사도 나와 함께 라이타니엔에 가보지 않을래? 교외에 가면 하늘 높이 곧게 뻗어 있는 피세아 나무도 볼 수 있는데…… 어릴 때 난, 그 나무들이 고탑보다 더 높게 자랄 줄 알았어."
         }
       ]
     },
@@ -810,6 +822,28 @@
       ]
     },
     {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......您不能走，再紧急的事情也待会儿再说。反正您再等会儿。看来您已经猜到了，是的，我们要为您庆祝生日，我负责把您留住......这项任务很难，但我必须完成。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        }
+      ]
+    },
+    {
       "title": "周年庆典",
       "filename": "CN_044.wav",
       "text": [
@@ -819,7 +853,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、自分の向いてる方向がいつまでも正しいことを保証できる奴はいないが、あなたが道を選んだなら、俺も共に歩んでそれを確かめる。道を逸れたら正せばいいし、正しい道ならもっと先を目指すだけだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, there is no one who can guarantee they're always headed in the right direction. You need only make a choice, and I'll follow you to verify. I'll correct your path if its askew, and we'll simply continue further on if it holds true ."
+        },
+        {
+          "language": "韩文",
+          "content": "지금 이 순간, 자신이 나아가고 있는 방향이 옳은 건지 장담할 수 있는 사람은 없겠지만, 박사가 가는 길이라면 난 끝까지 따라가서 확인해 보고 싶어. 길을 벗어났을 땐 다시 바로잡으면 되고, 옳은 길이라면 그대로 계속 나아가면 되는 거잖아."
         }
       ]
     }

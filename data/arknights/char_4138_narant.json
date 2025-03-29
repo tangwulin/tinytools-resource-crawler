@@ -13,6 +13,14 @@
     {
       "language": "中文-普通话",
       "base": "voice_cn/char_4138_narant"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4138_narant"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_4138_narant"
     }
   ],
   "voiceList": [
@@ -26,7 +34,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "いいよ、あたしが皆の訓練をまとめて、競技大会の準備をして、駄獣の調教もやるから。あなたは書類を見たり、演説の原稿を仕上げておくだけでよろしい……割り振りがおかしい？一番楽な仕事を振ってるでしょ？"
+        },
+        {
+          "language": "英文",
+          "content": "Alright, I'll schedule the training, organize a tournament, and manage the burdenbeasts. You handle all the talking and writing here. I got it wrong? But I thought I gave you the easiest tasks?"
+        },
+        {
+          "language": "韩文",
+          "content": "좋아, 내가 조직의 훈련이랑, 대회 준비랑, 버든비스트 훈련을 담당할 테니까, 당신은 서류를 보고, 연설 원고를 마무리하도록 해. ……업무 분배가 이상하다고? 당신한테 제일 쉬운 일을 맡겼는데, 어디가?"
         }
       ]
     },
@@ -40,7 +56,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "喉を掻っ切って放血するのも、筋を切って骨を断つのもなんでもござれ。刃捲れはないし、刃文も完璧。どう、あたしの刀は美しいでしょ？……別にあなたの服で血を拭ったりしないし、なんで後退るわけ？さっきデッキで角跳獣を何匹か締めただけよ。今晩ごちそうしてあげるから待ってて。"
+        },
+        {
+          "language": "英文",
+          "content": "Check out this knife. It just cut through tough bones, yet its edge hasn't dulled a bit, and its patterns remain intact. What a beauty, isn't it? What? Why are you backing away? It's not like I'm going to wipe the blood on your clothes. This is just from the Leporibeasts I slaughtered on the deck. Come tonight, and I'll treat you all to a nice meal."
+        },
+        {
+          "language": "韩文",
+          "content": "울대를 끊고 방혈을 해도, 근육을 찢고 뼈를 부숴도, 이 칼은 무뎌지지도, 칼날의 문양도 희미해지지 않아. 어때, 내 칼 정말 아름답지? ……당신 옷에 피 닦을 생각도 없는데, 왜 뒤로 빼는 거야? 방금 갑판에서 레포리비스트 몇 마리 잡았을 뿐이야. 오늘 밤은 파티니까 기대해."
         }
       ]
     },
@@ -54,7 +78,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "そうよ。これは、あなたたちが捏ね繰り回している毒薬さ。ちょっと見てみようと借りているだけだって。確かにラボの鍵はあたしにはどうしようもないけど、だから昼間の開いている時に入って、「ロックをかけないで」って貼ってきたの。ん？その顔……知っていたの？かなり気を付けてこっそりやったのに。"
+        },
+        {
+          "language": "英文",
+          "content": "Yep, this is the toxin you're developing. I simply borrowed it for a look. It's true that I couldn't pick the laboratory's lock, so when I saw the door open during the day, I pasted a 'Do not lock the door' notice inside. Wait... that face of yours... You knew it already? But I was so careful..."
+        },
+        {
+          "language": "韩文",
+          "content": "그래 맞아, 이건 너희가 연구한 독약이야. 잠깐 보려고 빌렸어. 내겐 연구실 열쇠가 없으니까, 낮에 연구실 문이 열려 있을 때 들어가서 “문 잠그지 마시오”라는 알림문을 붙여 뒀지. 응? 그 표정…… 흐음~ 알고 있었던 거야? 꽤 조심스럽게 들어간 거였는데."
         }
       ]
     },
@@ -68,7 +100,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "金貨の山なら、あたしもその上に座ったことがあるよ。とある首長が別の首長の宝に邪心を持ったから、あたしらが願いを叶えてやった。約束の報酬は一枚残らずきっちりもらったけど――メッキした鉄貨だった。詐欺じゃないかって？あいつの領地だから、貨幣をどう作るかもそいつ次第でしょ。けど、そいつの城から出たら、あたしの気分が全てよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I've sat on a mountain of gold coins before. One lord ameer coveted the treasury of another, so we did the job for him. He paid us the full amount as promised—not a single coin less, and, all in gilded metal. A cheat? On his turf, he gets to say what counts as a gold coin. But once we're outside his city? Then it's up to me."
+        },
+        {
+          "language": "韩文",
+          "content": "금화 더미라면 나도 앉아본 적 있어. 다른 아미르의 보물을 탐낸 아미르가 있었거든? 우리가 그의 소원을 들어줬지. 약속한 보수도 한 푼 빠짐없이 받았고…… 도금된 철로 만든 화폐였지만. 사기당한 거 아니냐고? 그의 영지니까 화폐를 어떻게 만들든 그의 마음이지. 물론 그의 성 밖으로 나오는 순간 얘기가 달라지겠지만."
         }
       ]
     },
@@ -82,7 +122,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あなたたちの「高級染毛剤」でも染まらないの？それじゃあ変装が必要な潜入任務は手下の誰かにやらせるしかなさそうだね。あ～、ほんとになんなんだろうねぇ。皆寄ってたかって「血統」って言うけどさぁ、別にあたしの血が他のやつより赤いなんてことないし。ただ髪の毛がべらぼうに艶やかなだけよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Even your 'high-grade hair dye' isn't working on me? I guess we'd better find someone else for our infiltration mission. I don't get it, people always talk about 'bloodlines', but I bleed the same red as everyone else. It only made my hair EXTRA red.."
+        },
+        {
+          "language": "韩文",
+          "content": "너희의 '고급 염색약'도 안 듣는다고? 아무래도 변장이 필요한 잠입 임무는 다른 부하한테 맡기는 수밖에 없겠네. 하아, 정말이지. 다들 '혈통' 운운하지만, 그걸로 내 피가 남들보다 더 붉은 것도 아니고, 그냥 머리카락 색깔만 유난히 더 화려한 것뿐인데."
         }
       ]
     },
@@ -96,7 +144,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "空を見れば、どこに行くべきか分かるのさ。南風が吹いてる時は飢えた野獣を避けて、木材は大水が来る前に下流に運ぶ。熱波が寄せてる時には誰も骨董の絵を運ぼうとなんてしないし、干ばつの後はどこもかしこも祈祷のための祭器ばっかりだ。今はあなたたちについて天災を追っかけてるけど、いつかは、皆を連れて太陽を追ってもいいかもね。"
+        },
+        {
+          "language": "英文",
+          "content": "I just have to watch the sky and I'll know where to go. Like, stay clear of hungry beasts when the southern wind blows. Ship all the wood downstream before a flood hits. Plus, I know no one will transport any ancient paintings during a heatwave. But prayer vessels can be seen all over the ground in a long dry spell. Now I follow you chasing Catastrophes. As for the future, I might gather up a gang and go after the sun."
+        },
+        {
+          "language": "韩文",
+          "content": "하늘을 보면 어디로 가야 할지 알 수 있어. 남풍이 불 때는 굶주린 짐승을 피해야 하고, 홍수가 오기 전에 목재를 강 하류로 옮겨야 하지. 폭염이 기승을 부릴 때는 아무도 골동품을 옮기려 들지 않고, 가뭄이 지난 후에는 여기저기 복을 기원하는 제기들로 가득해져. 지금은 너희와 같이 재앙을 쫓고 있지만, 언젠가는 모두를 이끌고 태양을 쫓을지도 몰라."
         }
       ]
     },
@@ -110,7 +166,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "手仕事に関しちゃ、あたしはなかなかよ。うちの方には「獣が一匹死ねば百の使い道が生まれる。生きた人間はその百の道を極めるべし」って言葉があるんだから。あたしに遠慮なんかしないで平気。いい子に座ってて。あなたのフードの紐を編み込んで、ビーズも付けてあげるから。ね？"
+        },
+        {
+          "language": "英文",
+          "content": "I'm pretty good at handicrafts. We have a saying: 'A dead beast has a hundred uses, worthy of a living person to master a hundred skills.' So don't be shy. Just sit here, be good. Wait for me to braid your hood drawstring and thread beads onto it, alright? I'm sure the patterns are going be great."
+        },
+        {
+          "language": "韩文",
+          "content": "손재주라면 나도 어디 빠지진 않지. 우리 쪽에선 “한 마리의 죽은 짐승은 백 가지 용도가 있고, 한 명의 살아있는 인간은 그 백 가지 용도를 익혀야 한다”라는 말이 있어. 그러니까 사양하지 말고 얌전히 있어. 당신 후드 끈으로 꽃을 다 만들고 나면, 구슬도 달아줄 테니까, 알았지?"
         }
       ]
     },
@@ -124,7 +188,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "過去に知り合った指揮官たちは、戦術立案の面じゃ見所を感じなくもなかったけど、手下を脅したり、あたしにちょっかい出すからさ。その点、あなたは違うから、大体全部気に入ってる。でも、ここのお頭はあなたじゃなくてアーミヤだからね。将来的にあたしはサルゴン中に名前を轟かせるけど、あなたは半分くらいかな。"
+        },
+        {
+          "language": "英文",
+          "content": "There were some commanders I admired. They are good with tactics, but they always scare their minions and cause trouble for me. You're different, and I like that. But since Amiya is the real boss here and not you, you'll probably get your name known by half of Sargon, while I'll be known by the whole, for sure."
+        },
+        {
+          "language": "韩文",
+          "content": "예전에 알고 지내던 몇몇 지휘관들은 전술적인 측면에선 나름 배울 점이 있었지만, 항상 부하들을 위협하거나 날 귀찮게 하는 스타일이었어. 하지만 당신은 그들과 달라, 여러모로 전부 내 마음에 들어. 음, 근데 이곳의 수장은 아미야잖아? 그럼 나중에 내가 사르곤 전체에 이름을 떨친다면 당신은 아마 그 절반 정도 되려나?"
         }
       ]
     },
@@ -138,7 +210,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あたしの家族、友達、それから手下は、皆お星様みたいにあちこちに散らばっているの。でも、見上げれば皆が同じ夜空を眺めている。これってすごく浪漫があるでしょ。あなたも見に行ってみる？たまに思うのよ。お星様を全て集めたらどうなるかって……はあ？大爆発するってどういうことよ？"
+        },
+        {
+          "language": "英文",
+          "content": "My kin, friends, and my men are all scattered, like the stars in the sky. Have you ever tried stargazing? The fun thing is, wherever we look up, we all see the same night sky with the same stars... Hehe, sometimes I wonder what would it look like, if all the stars gathered together...? Huh? What do you mean by 'a big bang'?"
+        },
+        {
+          "language": "韩文",
+          "content": "내 가족, 친구 그리고 부하들은 마치 별처럼 곳곳에 흩어져 있어. 하지만 고개를 들면 우리 모두 같은 밤하늘을 바라보고 있지. 정말 낭만적이지 않아? 당신도 보러 갈래? 난 가끔 그런 생각을 해. 만약 저 별들을 한데 모으면 어떻게 될까 하고…… 뭐라고? 대폭발?"
         }
       ]
     },
@@ -152,7 +232,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あなたが仕事中毒だって皆言うけど、普通にすやすやしてるよねぇ……それとも、今やってる仕事がつまんないやつなの？"
+        },
+        {
+          "language": "英文",
+          "content": "They all say you're a workaholic, but it's not as if you're always awake... Hmm… or these work just isn't exciting enough for you to stay up all night?"
+        },
+        {
+          "language": "韩文",
+          "content": "다들 당신보고 일 중독이네 뭐네 하더만, 지금 보니 틈틈이 잘 자는 것 같은데…… 아니면 지금 하고 있는 일이 재미 없는 건가?"
         }
       ]
     },
@@ -166,7 +254,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "相乗りさせてくれてありがとう。このナラントゥヤ・カプダンが天路の途上で死んだりしたら、サルゴンは取り返しのつかない損失を負うとこだった……あたしを知らないの？別にいいさ。知らないやつはいないって日がいつか来るからね。"
+        },
+        {
+          "language": "英文",
+          "content": "Thanks a lot for the free ride. If I, Narantuya Kapudan were to die on my Khaganquest, what a loss it would be for Sargon… You have never heard of me? Doesn't matter, one day, everyone will know who I am."
+        },
+        {
+          "language": "韩文",
+          "content": "배에 태워줘서 고마워. 이 천하의 나란투야 카푸단이 천도의 길에서 죽는다면, 분명 사르곤에겐 되돌릴 수 없는 큰 손실일 테지…… 내 이름을 못 들어봤다고? 괜찮아, 언젠가 모두가 이 이름을 알게 될 테니까."
         }
       ]
     },
@@ -180,7 +276,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "この録画システムすごく便利じゃない！もしうちにあったら……いや、だめだめ。高すぎるね。やっぱり砂に直接作戦地図を描いた方がいい。"
+        },
+        {
+          "language": "英文",
+          "content": "This recording system seems very useful! If I had one of my own... No... forget it. It's too expensive. Better to just draw my battle plans in the sand."
+        },
+        {
+          "language": "韩文",
+          "content": "이 녹화 기능 엄청 유용한데! 나도 이런 거 하나 있었으면…… 아, 아니지, 이건 너무 비싸. 역시 모래 위에 직접 작전 지도를 그리는 편이 낫겠어."
         }
       ]
     },
@@ -194,7 +298,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "階級とか、肩書とか、協力相手としての信頼レベルとか、そういうのは全部いいものさ。でも、一番いいのは何人か手下を貸してくれることだと思うんだけど、そこのところはどう？借りた後に返すかどうかは――本人たちの気持ち次第だね。"
+        },
+        {
+          "language": "英文",
+          "content": "Rank, title, trust level, all good stuff. But what I want the most is for you to lend me a few of your people. As for when I'll give them back—We'll see when they want to come back."
+        },
+        {
+          "language": "韩文",
+          "content": "계급이나 직함, 협력 파트너로서의 신뢰도, 뭐 다 좋은데…… 그래도 제일 좋은 건 믿음직한 부하 몇 명을 빌려 주는 거라고 보는데, 당신은 어떻게 생각해? 빌리고 돌려줄지 말지는…… 본인들 의사에 달렸지만."
         }
       ]
     },
@@ -208,7 +320,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "荷物を運んだり、人を救ったり、あたしたちも随分とまあ、一緒にたくさんの仕事をしてきたね。あぁ、先に言っとくよ。あたしは空を見て、自分がどこに行くか決めることがある。もしここを離れないといけない日が来たとしても……恋しがって泣いたりしないでね。"
+        },
+        {
+          "language": "英文",
+          "content": "Delivery today, rescue tomorrow. We've accomplished so much together. But hey, let me get this straight—sometimes I'll look at the sky to decide where to go next, so when I do have to leave one day… Ahem, you'd better not miss me too much."
+        },
+        {
+          "language": "韩文",
+          "content": "짐도 나르고 사람도 구하고, 그러고 보니 우리 그동안 꽤 많은 일들을 함께 해낸 것 같지 않아? 아, 미리 말해두는데, 난 가끔 하늘을 보고 어디로 갈지 정할 때가 있어. 만약 내가 여길 떠나야 하는 날이 오더라도…… 날 너무 그리워하진 말라고."
         }
       ]
     },
@@ -222,7 +342,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "鞭を振り上げ、砂を巻き上げて日光を遮る。それで、欲しいものがあれば持ってくんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Raise your whips, swirl the sand, shade the sun. Then take whatever you want."
+        },
+        {
+          "language": "韩文",
+          "content": "채찍을 휘둘러 모래를 날려봐. 모래가 햇빛을 가리면, 맞아, 원하는 물건을 마음껏 가져가는 거야."
         }
       ]
     },
@@ -236,7 +364,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "目標と人手、その二つをくれれば十分だよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Just give me the target and enough hands."
+        },
+        {
+          "language": "韩文",
+          "content": "임무 목표와 그걸 도울 인력. 그 두 가지만 내게 주면 충분해."
         }
       ]
     },
@@ -250,7 +386,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "太陽の位置がちょうどいいね。潜伏地点に向かうよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Sun's perfectly positioned. Let's head to the ambush point."
+        },
+        {
+          "language": "韩文",
+          "content": "태양의 위치가 딱 좋은걸. 잠복 지점으로 이동할게."
         }
       ]
     },
@@ -264,7 +408,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あいつらにあたしの足音は聞こえない。せいぜい刀が風を断つ音くらいだね。"
+        },
+        {
+          "language": "英文",
+          "content": "The only sound they will hear is my blade slicing through wind, not my footsteps."
+        },
+        {
+          "language": "韩文",
+          "content": "저 녀석들은 내 발소리를 듣지 못할 거야. 듣는다고 해 봤자 칼이 바람을 가르는 소리 정도겠지."
         }
       ]
     },
@@ -278,7 +430,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あたしに考えがある。"
+        },
+        {
+          "language": "英文",
+          "content": "I've got an idea…"
+        },
+        {
+          "language": "韩文",
+          "content": "좋은 생각이 떠올랐어."
         }
       ]
     },
@@ -292,7 +452,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "安心して。あたしならなんとかできるから。"
+        },
+        {
+          "language": "英文",
+          "content": "Relax, I'll always help you out."
+        },
+        {
+          "language": "韩文",
+          "content": "안심해, 내가 어떻게든 당신을 도울 테니까."
         }
       ]
     },
@@ -306,7 +474,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "毒と罠。これは戦術ね。"
+        },
+        {
+          "language": "英文",
+          "content": "Toxins and traps are my tactics."
+        },
+        {
+          "language": "韩文",
+          "content": "독약과 함정, 이건 전술이야."
         }
       ]
     },
@@ -320,7 +496,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "幻覚と威嚇、これも戦術よ。"
+        },
+        {
+          "language": "英文",
+          "content": "Illusion and intimidation are my tactcis too."
+        },
+        {
+          "language": "韩文",
+          "content": "환각과 위협, 이것도 전술이지."
         }
       ]
     },
@@ -334,7 +518,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "何が一番怖い？"
+        },
+        {
+          "language": "英文",
+          "content": "What do you fear most?"
+        },
+        {
+          "language": "韩文",
+          "content": "네가 가장 두려워하는 건, 뭘까?"
         }
       ]
     },
@@ -348,7 +540,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ポンッ！ほぉら、太陽が飲まれたよ！"
+        },
+        {
+          "language": "英文",
+          "content": "Bam! I've swallowed up the sun!"
+        },
+        {
+          "language": "韩文",
+          "content": "펑! 봐, 내가 태양을 삼켰어!"
         }
       ]
     },
@@ -362,7 +562,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あたしと奪い合いをする気？"
+        },
+        {
+          "language": "英文",
+          "content": "What, you think you're a better robber than ME?"
+        },
+        {
+          "language": "韩文",
+          "content": "설마 나한테서 뺏어보겠다고?"
         }
       ]
     },
@@ -376,7 +584,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "寝言は夢でどうぞ。あたしがいる限り悪夢だけどね。"
+        },
+        {
+          "language": "英文",
+          "content": "Enough dreaming. Only nightmares come with me."
+        },
+        {
+          "language": "韩文",
+          "content": "꿈 깨, 내 앞에선 달콤한 꿈 같은 건 없으니까."
         }
       ]
     },
@@ -390,7 +606,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "……仲間があたしに怯えてる？ちょっと時間ちょうだい。さっき暴れた辺りを散歩して、頭冷やしてくるから。"
+        },
+        {
+          "language": "英文",
+          "content": "I'm scaring some of our own men? Alright, give me some time to stroll around the battlefield. Need to cool off my blood."
+        },
+        {
+          "language": "韩文",
+          "content": "……동료들이 날 무서워하고 있다고? 잠깐 시간 좀 줘, 방금 싸웠던 곳을 걸으면서 머리 좀 식히고 올게."
         }
       ]
     },
@@ -404,7 +628,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あなたも、あなたの周りの連中も、なんでこうも頼りになるかね？あ～あ、ロドスのお頭が羨ましいよ。"
+        },
+        {
+          "language": "英文",
+          "content": "You're reliable, the people around you are reliable. Man, how can everybody here be so reliable? I'm starting to envy the captain of this landship…"
+        },
+        {
+          "language": "韩文",
+          "content": "당신도 그렇고, 당신 주변 사람들도 그렇고, 왜 이렇게 믿음직스러운 거야? 하아~ 로도스 아일랜드의 수장이 참 부럽단 말이지."
         }
       ]
     },
@@ -418,7 +650,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あたしたちもたまに金貨を川に放り込んだりするよ。それが必要になった時に拾えることを祈ってさ。"
+        },
+        {
+          "language": "英文",
+          "content": "You know, sometimes we'll toss our gold coins into a stream, and pray we find them in times of need."
+        },
+        {
+          "language": "韩文",
+          "content": "우리도 가끔 금화를 강에 던지곤 해. 나중에 필요로 할 때 주울 수 있기를 바라며 말이야."
         }
       ]
     },
@@ -432,7 +672,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "浮かない顔してるなぁ？さっきのはただのテストでしょ？計画っていうのは、試してみて、調整して、それから何度も試してやっとバッチリ使えるもんになるのよ。あたしがいつだって成功する秘訣はこれ。"
+        },
+        {
+          "language": "英文",
+          "content": "You don't look so good...? Wasn't that just an early test? Every plan has to be tested, adjusted, and you repeat that until it's good to go. That's my secret to a foolproof success."
+        },
+        {
+          "language": "韩文",
+          "content": "표정이 안 좋아 보이네? 방금 그건 그냥 사전 테스트였잖아? 계획이란 건 원래 시도, 조정, 그리고 시도의 연속이야. 그래야 비로소 쓸만해 지는 거라고. 내가 항상 성공하는 비결은 바로 여기에 있어."
         }
       ]
     },
@@ -446,7 +694,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "寝床はふかふかだし、空調も快適だね！で、ちょっと聞きたいんだけど……相乗りの宿代ってタダ？"
+        },
+        {
+          "language": "英文",
+          "content": "This bed is so soft, and the air conditioning is so perfect! But I have one tiny question... do I have to pay for the lodging?"
+        },
+        {
+          "language": "韩文",
+          "content": "침대도 푹신하고 에어컨도 시원하잖아! 어, 그게 좀 물어보고 싶은게 있는데…… 혹시 히치하이킹해서 탄 사람도 숙박비 공짜야?"
         }
       ]
     },
@@ -460,7 +716,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "はは、あたしもあなたが大好きさ！"
+        },
+        {
+          "language": "英文",
+          "content": "Haha! I like you too!"
+        },
+        {
+          "language": "韩文",
+          "content": "하하, 나도 당신이 정말 좋아!"
         }
       ]
     },
@@ -474,7 +738,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あなたが刀を持ってないのが残念だよ。もしあったら、ついでに研いでやれるのに。"
+        },
+        {
+          "language": "英文",
+          "content": "What a shame. If you had a blade of your own, I could sharpen it for you now."
+        },
+        {
+          "language": "韩文",
+          "content": "당신이 칼을 가지고 있지 않은 게 정말 아쉽네. 만약 있었다면, 내 것 가는 김에 같이 갈아줄 수 있는데."
         }
       ]
     },
@@ -488,7 +760,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
         }
       ]
     },
@@ -502,7 +782,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "さあ、踊ろう！祭りの時の音楽は、いつだってご機嫌さ！リズムってもんがあるし、導いてくれる。頭を空っぽにそいつに従って、足を鳴らして自分の体を叩けばいい……自分じゃなくてあなたの手を叩いてる？飲み過ぎって？当たり前でしょ、タダ酒を逃すバカはいねえよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Come, let's dance! Festive music's always nice to groove to! Relax, I'll lead, you just stomp to the rhythm, and slap your own—I'm hitting your hand? I've had a bit too much? I mean... All the drinks are free here, you know!"
+        },
+        {
+          "language": "韩文",
+          "content": "자, 춤추자! 축제 음악은 언제 들어도 기분이 좋아진단 말이지! 리듬이 당신을 이끌어 줄 테니까 그냥 머리를 비우고 그 리듬을 따라 발을 구르며 자기 몸을 두드리면 돼…… 내가 지금 두드리고 있는 건 당신 손이라고? 너무 많이 마셨다고? 그거야 당연하잖아! 공짜 술을 놓치는 바보가 어디 있겠어!"
         }
       ]
     },
@@ -513,6 +801,28 @@
         {
           "language": "中文",
           "content": "怎么样，博士，有没有做什么美梦？想到我们的下一个目标了吗？梦到的也行。"
+        },
+        {
+          "language": "日文",
+          "content": "どうよ、ドクター。良い夢は見れた？あたしらの次の目標は思い付いた？夢で見たのでもいいよ。"
+        },
+        {
+          "language": "英文",
+          "content": "So, Doctor. Had a good dream? Tell me about our next objective, even if it's from your dream."
+        },
+        {
+          "language": "韩文",
+          "content": "어때, 박사, 좋은 꿈 꿨어? 우리 다음 목표는 떠올랐고? 꿈에서 본 거라도 괜찮으니까, 말해봐."
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我们总说，让一个人长大的，不是他行过的时间，而是他踏过的路途，所以这个日子我们会打扮驮兽，或者......你要把这些彩绳挂在办公椅上？不行，把手给我。路也是可以自己走出来的嘛。"
         },
         {
           "language": "日文",
@@ -530,7 +840,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あたしもいろんなやつに欲張りだって言われてきたけど、あたしに言わせればあなたたちも同じだね。こっちが欲しいのは金銀財宝のお宝で、そっちは一番いい結果を得ようとしてる。たとえ思い通りにいくことが少なくて、がっかりする方が多くても、手に掴んだものでさえいつかは砂みたいにこぼれてくとしても……そうね。だから、あたしはこんなにあなたのことが好きなのか。"
+        },
+        {
+          "language": "英文",
+          "content": "People often call me greedy, but you guys are the same, no? You fight for the best outcome, same as I fight for the best treasures. Even if we turn up more losses than wins, even if what we hold slips away like sand... Hehe, well, no wonder I like you so much."
+        },
+        {
+          "language": "韩文",
+          "content": "나야 뭐 욕심쟁이라는 소리는 많이 들었지만, 내가 보기엔 너희도 마찬가지야. 나는 최고의 금은보화를, 너희는 최고의 결과를 얻으려고 하니까. 비록 뜻대로 되는 일이 적어 실망할 때도 많고, 손에 쥔 것조차 언제 모래알처럼 흩날려 사라질지 모르지만…… 그런 건가, 그래서 내가 이렇게 당신을 좋아하는 건가 봐."
         }
       ]
     }

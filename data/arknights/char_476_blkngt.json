@@ -1,7 +1,12 @@
 {
   "name": "夜半",
   "charaKey": "char_476_blkngt",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/a/ac/%E7%AB%8B%E7%BB%98_%E5%A4%9C%E5%8D%8A_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/7/7e/%E7%AB%8B%E7%BB%98_%E5%A4%9C%E5%8D%8A_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/2/20/%E7%AB%8B%E7%BB%98_%E5%A4%9C%E5%8D%8A_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/1/1e/%E7%AB%8B%E7%BB%98_%E5%A4%9C%E5%8D%8A_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -915,15 +920,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "今日から新年か。冬が過ぎれば、交易に行く商隊が増えるんだ。昔ならこの時期は一つ大仕事でもして、貴族サマのおごりで食卓を豊かにして祝ってたところなんだけどね。今はこんな心地いいところにいるし、いつになったらあの子たちを迎えられるだろ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Well, New Year's today. Once winter passes, the caravans start coming again. If things were usual, we'd pull off a big job, and have a feast on the nobles' dime, celebrating all around. It's comfy times here, though, and I have no need for my old job. I wonder when I'll finally get the chance to bring those kids in."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "오늘이 새해구나. 겨울이 지나면 거리도 다시 사람들로 붐비겠지. 예전 같았으면 큰 건 하나 해서 귀족 나리의 돈으로 먹고 마시고 축하했을 텐데 말이야. 지금 이렇게 편안해서, 언제야 그 아이들을 다시 데려올 수 있을지 모르겠네."
         },
         {
           "language": "繁体中文",
@@ -958,12 +963,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "我还记得小时候家里的炉火，妈妈的怀抱，爸爸送的手工小兽。后来我离开了荒地，再一次失去了自己的家。我知道在能力变得更强之前，我无法保护好我想守护的人，所以，我不会停下自己的脚步。"
+          "content": "对荒地的孩子来说，肚子里有吃的，有安全的藏身处就算万幸，还哪里顾得上过生日，我还真不知道要送你什么。这样吧，我可以为你做十件事，不是罗德岛的博士交代的任务，而是你想让我做的事。"
         },
         {
           "language": "日文",
@@ -976,6 +981,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我还记得小时候家里的炉火，妈妈的怀抱，爸爸送的手工小兽。后来我离开了荒地，再一次失去了自己的家。我知道在能力变得更强之前，我无法保护好我想守护的人，所以，我不会停下自己的脚步。"
+        },
+        {
+          "language": "日文",
+          "content": "子供の時、家の暖炉で燃えてた火、母さんの抱擁、それから父さんが作ってくれた幼獣のおもちゃ……今もまだ覚えてる。あれから私は荒野を離れて、次にできた家も失った。自分がもっと強くならなくちゃ、守りたい人も守り切れない。だから、決して歩みを止めないよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I still remember some of my toddler days. The fireplace at home. Mum holding me. The little handicraft beastling from my dad. That was my first home. Then I left the wilds, and lost my home again. I know there's no protecting who I want to protect yet, not before I get stronger. So, you're not going to stop me in my step. No one will."
+        },
+        {
+          "language": "韩文",
+          "content": "어릴 적 살던 집의 난롯불과 어머니의 포옹, 아버지가 직접 만들어서 선물해 준 인형이 아직도 기억나. 나중에 황야를 떠나면서 난 집을 다시 한번 잃었지. 힘을 더 기르지 않으면, 내가 지키고자 하는 사람들을 지킬 수 없다는 걸 알아. 그러니까 난 걸음을 멈추지 않을 거야."
         },
         {
           "language": "繁体中文",

@@ -1,0 +1,552 @@
+{
+  "name": "死芒",
+  "charaKey": "char_450_necras",
+  "images": [
+    "https://media.prts.wiki/8/8e/%E7%AB%8B%E7%BB%98_%E6%AD%BB%E8%8A%92_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/9/93/%E7%AB%8B%E7%BB%98_%E6%AD%BB%E8%8A%92_2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_450_necras"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_450_necras"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "想吃些甜食吗？我可以为你准备一些。佐餐的酒？也有。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的仆臣热衷操纵他人的命运。他们中有自以为是的阴谋家，也有意志脆弱的空想家。不过在消费他人的生命时，他们的冷漠如出一辙。而我？呵呵，无论操纵还是受人操纵，生命的终点都在我这里。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那位凯尔希医生的眼神很是凶锐，每当她盯着我，我都觉得她是想把我钉死在甲板上。不过不用担心，身在罗德岛的这一点点时间里，我都是你的死芒，也只是你的死芒。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的躯体冰冷，我的触觉迟钝，我体内翻涌着永不停歇、宛如被自己的火焰灼烧般冰冷刺骨的疼痛......偏偏就是这点疼痛令人着迷，不然，我甚至会忘记自己已经驯服了死亡。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛也是个美丽的地方，无论什么样的人都可以在这里自由书写自己的生命，简直是付出了无数血肉代价才建立起来的想象中的城邦。幻象易逝，尽力去维持它吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你对我的邀约保持沉默，或是顾左右而言他，我都允许，可这不意味着你能从我这抽身。我抓住你，你的魂灵就归我所有。时间、生活和快乐任你挥霍，但始终记好，你的终点也在我这。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我为什么在这？因为你在这。还是说，你更愿意向我解释我瞥见的那一缕......连死亡本身都死去了的未来？无论你先向我臣服，还是那个未来先到，我都没有意见。我很乐意接着等下去。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "拉芙希妮？若她仍是在雪夜里颤抖的孩子，我会随手送她一辈子平安顺遂，直到死亡让我们团聚。可惜，她终究明白了如何在刀锋和谎言中跳舞，而一个令人怜爱的好舞伴有多难得，你不会不知道。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你怎样才愿意归顺于我？是想我恳求，还是呵斥？是要我展现从未示人的模样，还是要我将驾驭死亡的权柄交付于你？你想要的，我全都......拒绝。你首先要属于我，然后我们再说别的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "......深沉的睡眠与死无异。希望你能像往常一样悠悠醒来，学者。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你终于愿意让步了？那么，把登记表给我吧。“死芒”这个代号怎么样，学者？嗯？既然罗德岛需要一个代号来代表我，我自然也会用合适的方式称呼你。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真让人高兴，他们又一次短暂逃离了命定的终点。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "晋升，这是不是意味着我在贵司正式有了位置？学者，这合适吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这枚勋章代表你的信任，可死亡即是对生命永恒的背叛。如果你想清楚了，不妨给我个期限，在那之前，我会尽量不辜负你的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "需要我遮掩自己的容貌吗？不必？明智的判断。死者自当铭记，生者自会忘却。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你的干员未必能容忍我的苛刻。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "启程吧，去制造更多尸骸。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "人们哀悼死亡，而死亡从不哀悼。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的火没有温度。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我看见了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我接受你的邀请。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这就是你的判断吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "指尖轻轻一触，你们的意志就会溃散如泥。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "生命枯萎消散，徒留残渣徘徊。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "烈火中，亡魂会因恐惧狂舞不歇。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "死者的喧嚣终有尽头，那尽头的名字叫做忘却。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你和你的战术一样致命，学者。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "为什么要压抑自己呢？我在你身上看见了毁灭的欲望，你理应将其倾泻出去，毫无保留。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别太伤心，生命就是有缺陷的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要我把他们全都带走吗？只要你向我付出一点点代价......你当然付得起。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊，很温和的住处。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你想要什么？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "忍住这点冰冷的灼痛，你尽可以一直握着我的手。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "新年理当有火。用火把过去的一切全部烧掉，在这废墟上建立起新的事物，然后往复循环。虽说如此，面前这团小小的火，我也很喜欢。随便帮我烤些什么吧，做些我的火焰做不到的事情。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "见到我高兴吗，学者？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "需要我为你准备一束花吗？为什么？不为什么，只是想收到你的回礼，看着你送我的花束在我指间化成灰烬，仅此而已。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "除了拉芙希妮，罗德岛上还留着些许属于深池的残迹......别紧张。那个梦想既然已经实现，深池就理应死去，但死亡并不意味着凭空消失。就这样把深池的墓碑留在罗德岛上吧，我允许了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

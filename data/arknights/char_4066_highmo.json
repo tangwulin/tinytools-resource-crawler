@@ -1,7 +1,11 @@
 {
   "name": "海沫",
   "charaKey": "char_4066_highmo",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/d/df/%E7%AB%8B%E7%BB%98_%E6%B5%B7%E6%B2%AB_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/b/bc/%E7%AB%8B%E7%BB%98_%E6%B5%B7%E6%B2%AB_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/9/9c/%E7%AB%8B%E7%BB%98_%E6%B5%B7%E6%B2%AB_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -915,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "新年に期待するものは何もないですし、期待したいとも思いません。やりたいことと言えば、あちこち見て回って、去年の記憶と照らし合わせてみるくらいのものです。退屈だと思わないなら、付いてきてもいいですよ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "I don't expect much for the new year, nor do I want to. I just want to take a walk around and see whether anything's changed, compared to my memories of the last year. If it won't bore you, I don't mind you accompanying me."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해에 기대하는 건 특별히 없어요, 무언가를 기대하고 싶지도 않고요. 그저 이곳저곳을 돌아다니면서 작년의 기억과 비교해 달라진 점이 있는지 알아보는 것 정도랄까요. 만약 당신만 괜찮다면 따라와도 상관없어요."
         },
         {
           "language": "繁体中文",
@@ -958,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "罗德岛意图解决矿石病问题，是出于作为医者的天职，还是核心成员作为感染者的自救？如今星空之下另有威胁所有人的顽疾，罗德岛又会怎么做呢。你已经有答案了吧，博士？"
+          "content": "看看这些堆成小山的礼物盒，它们象征着身边每一个珍视你的人。以及，这一份是我要送给你的礼物。我很庆幸母亲交给我的这些花瓣和珍珠没有因岁月而失色，就像她教给我的花环编织手艺一样。"
         },
         {
           "language": "日文",
@@ -976,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛意图解决矿石病问题，是出于作为医者的天职，还是核心成员作为感染者的自救？如今星空之下另有威胁所有人的顽疾，罗德岛又会怎么做呢。你已经有答案了吧，博士？"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスが鉱石病（オリパシー）問題の解決に取り組むのは、医者としての責任感からでしょうか、それとも感染者である自らを救うためでしょうか？いずれにせよ、全ての人を脅かす新たな病がこの星空の下に現れた今、ロドスの次の一手が気がかりです。もう答えは出ていますよね、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Does Rhodes Island's intent to cure Oripathy stem from its mission as a healer, or its core members' self-interest as Infected? Now, under this starry sky, another threat has appeared to endanger us all. What will Rhodes Island do? You already have an answer, don't you, Doctor?"
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드가 광석병 문제를 해결하려는 건, 의료인으로서의 사명 때문인가요, 아니면 주축을 이루는 구성원들이 감염자이기에 펼치는 자구책인가요? 모든 이들을 위협하는 또 다른 악재가 이 하늘 아래에 모습을 드러낸 지금, 로도스 아일랜드는 또 어떤 행동을 취하게 될까요. 당신은 이미 답을 내렸겠죠, 박사?"
         },
         {
           "language": "繁体中文",

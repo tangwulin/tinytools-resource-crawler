@@ -1,7 +1,12 @@
 {
   "name": "仇白",
   "charaKey": "char_4082_qiubai",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/6/60/%E7%AB%8B%E7%BB%98_%E4%BB%87%E7%99%BD_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/4/4e/%E7%AB%8B%E7%BB%98_%E4%BB%87%E7%99%BD_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/d/d8/%E7%AB%8B%E7%BB%98_%E4%BB%87%E7%99%BD_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/7/77/%E7%AB%8B%E7%BB%98_%E4%BB%87%E7%99%BD_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -915,15 +920,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "炎国では、どれほど貧しい家でも、この日に子供へ新しい服を仕立ててやり、来る年の豊穣を願います。場所は変わっても、旧きを辞して新しきを迎うというのは、良き概念でしょう。降ろすべきものを置いて身軽になってこそ、前へ進めるのです。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "In Yan, even those who struggle the most will find ways to gift clothes to their children on this day, praying for a bountiful harvest in the coming year. No matter where you are, parting with the old and welcoming the new is a good notion. Only by letting go of bygones can we move forward."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "염국에선 아무리 가난한 사람이라도, 오늘은 아이를 위해 새로운 옷을 사 주고 다가오는 새해의 풍요를 기원하죠. 옛것을 보내고 새것을 맞이한다는 건 좋은 개념이라고 생각합니다. 내려놓아야 할 것을 내려놓아야, 앞으로 더 나아갈 수 있으니까요."
         },
         {
           "language": "繁体中文",
@@ -958,12 +963,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "博士，我打算在这里再待上一段时间。罗德岛要走的路似乎很长，我很好奇它到底通向哪里。不过世事难料，尽你我所能，活得恣意就好。"
+          "content": "博士，我最近回了趟炎国，这个送你......不过是江南百姓自己酿的米酒而已。没必要收藏了，开了封，我陪你喝几杯。"
         },
         {
           "language": "日文",
@@ -976,6 +981,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我打算在这里再待上一段时间。罗德岛要走的路似乎很长，我很好奇它到底通向哪里。不过世事难料，尽你我所能，活得恣意就好。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、私はもうしばらくここに滞在するつもりです。貴公らの行く道はどうやら長いようですが、末がどこに繋がっているのか私も気になりますから。とはいえ、先のことは誰にもわかりません。お互い力及ぶ限りを尽くして、心のままに生きましょう。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, I plan to stay here a while longer. The path before Rhodes Island seems long indeed, and I'm curious as to where it will lead. But we all know this land is unpredictable, so just give it our all, and live freely as we can."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 전 이곳에 조금 더 머물 생각입니다. 로도스 아일랜드가 갈 길은 아직 멀겠지만, 당신들의 끝이 어디로 향할지 알고 싶어서 말이죠. 하지만 세상일은 한 치 앞도 모르는 법. 그러니 마음이 가는 대로 한번 살아보도록 하죠."
         },
         {
           "language": "繁体中文",

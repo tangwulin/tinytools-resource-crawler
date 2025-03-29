@@ -1,7 +1,11 @@
 {
   "name": "涤火杰西卡",
   "charaKey": "char_1034_jesca2",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/3/3b/%E7%AB%8B%E7%BB%98_%E6%B6%A4%E7%81%AB%E6%9D%B0%E8%A5%BF%E5%8D%A1_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/f/fc/%E7%AB%8B%E7%BB%98_%E6%B6%A4%E7%81%AB%E6%9D%B0%E8%A5%BF%E5%8D%A1_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/c/c3/%E7%AB%8B%E7%BB%98_%E6%B6%A4%E7%81%AB%E6%9D%B0%E8%A5%BF%E5%8D%A1_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -779,15 +783,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "こうやってドクターと並んで新年の挨拶を交わせるだけで、すごく幸せです。以前にボリバルで年を越した時なんかは、一緒に新年を迎えてくれたのは、こーんなに大きな銃だけだったんですよ。それはもう、わたしの背よりも大きな銃だったんですから。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Doctor, getting to sit here with you exchanging New Year's wishes is already pretty nice. I remember that time in Bolívar, the only thing I had to share the New Year with was a gun thiiiiiiiis big. Yeah, bigger than me."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "박사님, 이렇게 박사님이랑 같이 새해를 보낼 수 있다는 게 정말 행복해요. 전에 볼리바르에서 저와 함께 새해를 보냈던 건 이—만큼 기다란 총이었거든요. 네, 저보다도 더 큰 총이었어요."
         }
       ]
     },
@@ -814,12 +818,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "从前，我总关注自己将来要达成什么目标，获得什么成果，但这些年的经历却打破了我所有对未来的想象。能让身边的人过得幸福有尊严，那就足够了。"
+          "content": "生日快乐，博士，我从拓荒地带了礼物给您......是一罐天然枫糖，虽然不比以前送您的东西名贵，但在我住的地方，却是紧俏的货物，有钱也很难买到，只能自己去林子里采集。"
         },
         {
           "language": "日文",
@@ -832,6 +836,28 @@
         {
           "language": "韩文",
           "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "从前，我总关注自己将来要达成什么目标，获得什么成果，但这些年的经历却打破了我所有对未来的想象。能让身边的人过得幸福有尊严，那就足够了。"
+        },
+        {
+          "language": "日文",
+          "content": "昔のわたしは、自分がどんな目標を達成して、どんな成果を残せるかなんてことを考えてばかりでしたが、ここ数年の出来事でそんな未来への展望はすべて崩れました。今では、周りの人たちがみんな幸せで尊厳のある暮らしを送れるようにできたら、それでもう十分だと思っています。"
+        },
+        {
+          "language": "英文",
+          "content": "I used to be so preoccupied with what goals and achievements I would score in the future. But my experiences in recent years have shattered those fantasies. Just getting to grant some happiness and dignity to the people in your life is already good enough."
+        },
+        {
+          "language": "韩文",
+          "content": "과거엔, 앞으로 어떤 목표를 이루고 어떤 성과를 거두어야 하는지에 대해서만 고민했지만, 최근 몇 년간 겪은 일로 그런 생각은 사치였다는 걸 깨달았어요. 이제 저는 주변 사람들이 행복하고 존중받는 삶을 살 수만 있다면, 그걸로 충분하다고 생각해요."
         }
       ]
     }

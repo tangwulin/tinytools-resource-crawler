@@ -1,7 +1,12 @@
 {
   "name": "陈",
   "charaKey": "char_010_chen",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/b/bc/%E7%AB%8B%E7%BB%98_%E9%99%88_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/d/d0/%E7%AB%8B%E7%BB%98_%E9%99%88_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/5/53/%E7%AB%8B%E7%BB%98_%E9%99%88_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/c/c5/%E7%AB%8B%E7%BB%98_%E9%99%88_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -145,7 +150,7 @@
         },
         {
           "language": "韩文",
-          "content": "흥…"
+          "content": "흥……"
         },
         {
           "language": "繁体中文",
@@ -179,7 +184,7 @@
         },
         {
           "language": "韩文",
-          "content": "용문 거리를 여기저기 돌아다녔다. 항구, 길거리의 간판이나 언덕길… 마음속 깊이 새겨진 이 도시의 풍경을, 난 영원히 잊지 못하겠지."
+          "content": "용문 거리를 여기저기 돌아다녔다. 항구, 길거리의 간판이나 언덕길…… 마음속 깊이 새겨진 이 도시의 풍경을, 난 영원히 잊지 못하겠지."
         },
         {
           "language": "繁体中文",
@@ -247,7 +252,7 @@
         },
         {
           "language": "韩文",
-          "content": "언젠가는 그 사람에게 인정받을지도 몰라. 그때까지는…"
+          "content": "언젠가는 그 사람에게 인정받을지도 몰라. 그때까지는……"
         },
         {
           "language": "繁体中文",
@@ -281,7 +286,7 @@
         },
         {
           "language": "韩文",
-          "content": "아미야는 널 깊이 신뢰하는 모양이더군. 너희 둘을 보면, 내게도… 그런 사람이 있었으면 하는 생각이 든다."
+          "content": "아미야는 널 깊이 신뢰하는 모양이더군. 너희 둘을 보면, 내게도…… 그런 사람이 있었으면 하는 생각이 든다."
         },
         {
           "language": "繁体中文",
@@ -315,7 +320,7 @@
         },
         {
           "language": "韩文",
-          "content": "난… 지금까지 누구에게도 등 뒤를 맡겨본 적이 없다. 그 사람에게 조차도…"
+          "content": "난…… 지금까지 누구에게도 등 뒤를 맡겨본 적이 없다. 그 사람에게 조차도……"
         },
         {
           "language": "繁体中文",
@@ -349,7 +354,7 @@
         },
         {
           "language": "韩文",
-          "content": "…박사? 자고 있는 건가? 흥, 긴장감 없는 녀석이군."
+          "content": "……박사? 자고 있는 건가? 흥, 긴장감 없는 녀석이군."
         },
         {
           "language": "繁体中文",
@@ -417,7 +422,7 @@
         },
         {
           "language": "韩文",
-          "content": "모든 것은 보다 빈틈없는 임무 수행을 위해…"
+          "content": "모든 것은 보다 빈틈없는 임무 수행을 위해……"
         },
         {
           "language": "繁体中文",
@@ -1191,15 +1196,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、この前の件の報告書だが――なんだ、キミもまだ仕事していたのか？意外だな。外じゃもうバカ騒ぎしてるから、てっきり執務室の中も新年を祝う者で一杯だと思っていた。そうだな、ハッピーニューイヤーとでも言っておくか。それで、これが印刷した事件の報告書なんだが――"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Doctor, about that last report—You're still working? That's unexpected. With all the commotion out there, I thought I'd open the door to find a room full of celebrating operators. Happy new year, and here's a printout of the report—"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "박사, 지난번 보고에 대해서…… 박사는 아직도 일하는 건가? 그래, 예상 밖이긴 했어. 밖이 이렇게 떠들썩하니, 문을 열면 축하하는 오퍼레이터들로 온 방이 꽉 차 있을 줄 알았거든. 새해 복 많이 받도록. 자, 이건 인쇄된 사건 보고서다……"
         },
         {
           "language": "繁体中文",
@@ -1250,12 +1255,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "我离开龙门只是为了寻求一种方式，这是我自己的事，并不需要你们过多的干预。罗德岛，你们确实有着能让他人信服你们所代表东西的力量，希望你们不要让我失望。我？仍是不够，仍需更快。"
+          "content": "我来了，找我有什么事？......生日？你现在还有闲心过这个？还在期待什么，等我给你唱生日歌吗，想得挺好......生日快乐，走了。"
         },
         {
           "language": "日文",
@@ -1268,6 +1273,40 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        },
+        {
+          "language": "中文-方言",
+          "content": "我来了，找我有什么事？......生日？你现在还有心情整这些？还在期待些什么，等我唱生日歌给你听吗，想得挺好......生日快乐，我先走了。"
+        },
+        {
+          "language": "繁体中文-方言",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我离开龙门只是为了寻求一种方式，这是我自己的事，并不需要你们过多的干预。罗德岛，你们确实有着能让他人信服你们所代表东西的力量，希望你们不要让我失望。我？仍是不够，仍需更快。"
+        },
+        {
+          "language": "日文",
+          "content": "龍門を離れたのは、解決策を探すためだ。これは私自身の問題だから、キミたちの余計な手出しは不要だ。ロドス、キミたちは確かに理想を叶えるかもしれないと、人々に信じさせる力がある。私を失望させるなよ。私？まだ足りないな。もっと速くならないと。"
+        },
+        {
+          "language": "英文",
+          "content": "I left Lungmen in search of something. Something that I can only find on my own... But you Rhodes Islanders, you have the strength to win people over with your ideals, and I hope you won't let me down. Me? I'm not there yet, I need to be faster."
+        },
+        {
+          "language": "韩文",
+          "content": "나는 단지 방법을 찾기 위해 용문을 떠났고, 이것은 나 자신의 일이니 너희가 지나치게 간섭할 필요는 없다. 로도스 아일랜드, 너희들은 확실히 다른 사람들이 너희를 표하는 것을 믿게 하는 힘을 가지고 있지. 부디 나를 실망시키지 않기를 바란다. 나 말인가? 아직 부족하다, 더 서둘러야 해."
         },
         {
           "language": "繁体中文",

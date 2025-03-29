@@ -17,6 +17,10 @@
     {
       "language": "韩语",
       "base": "voice_kr/char_163_hpsts"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_163_hpsts"
     }
   ],
   "voiceList": [
@@ -60,11 +64,11 @@
         },
         {
           "language": "英文",
-          "content": "Only weapons that are never in use will remain undamaged. Therefore, leaving a weapon spotless is actually the worst sacrilege for it."
+          "content": "Only weapons that don't see use go undamaged. Therefore, a spotless weapon is actually a terrible sacrilege."
         },
         {
           "language": "韩文",
-          "content": "흠집 하나 없다는 건, 쓰인 적이 없단 거잖아… 무기로썬 흠집이 없다는 거야말로 제일 수치스러운 일이지."
+          "content": "흠집 하나 없다는 건, 쓰인 적이 없단 거잖아…… 무기로썬 흠집이 없다는 거야말로 제일 수치스러운 일이지."
         },
         {
           "language": "繁体中文",
@@ -86,7 +90,7 @@
         },
         {
           "language": "英文",
-          "content": "The modernized weaponry and equipment manufacturing processes have left many traditional craftsmen jobless. But those who can't keep up with the times will of course be left behind... that's only natural."
+          "content": "Nowadays, weapon and equipment manufacturing is all modernized. Traditional craftsmen lose their livelihoods because of it. Times change. Those who can't keep up get left behind... that's only natural."
         },
         {
           "language": "韩文",
@@ -112,7 +116,7 @@
         },
         {
           "language": "英文",
-          "content": "Firearms... these weapons will truly change the world completely."
+          "content": "Firearms… these weapons will change the world completely."
         },
         {
           "language": "韩文",
@@ -138,7 +142,7 @@
         },
         {
           "language": "英文",
-          "content": "My right leg? Oh, it's fine. You know, all craftsmen make mistakes."
+          "content": "My right leg? Oh, It's no big deal. You know, all craftsmen make mistakes."
         },
         {
           "language": "韩文",
@@ -190,7 +194,7 @@
         },
         {
           "language": "英文",
-          "content": "You saw my name engraved on some equipment? No... that's not me."
+          "content": "You saw my name engraved on some equipment? Well, no need to mind that. Probably has nothing to do with me."
         },
         {
           "language": "韩文",
@@ -216,7 +220,7 @@
         },
         {
           "language": "英文",
-          "content": "With steel and copper as the core..."
+          "content": "Steel and bronze form the bone, and then…"
         },
         {
           "language": "韩文",
@@ -242,7 +246,7 @@
         },
         {
           "language": "英文",
-          "content": "My greatest wish is for the hammer I forged to come in useful to you."
+          "content": "If me and my hammer can still be of use to you, I'm honored."
         },
         {
           "language": "韩文",
@@ -268,7 +272,7 @@
         },
         {
           "language": "英文",
-          "content": "They're promoting new drinks at the bar. What should I have today?"
+          "content": "They're promoting new drinks at the bar... What should I have today?"
         },
         {
           "language": "韩文",
@@ -294,7 +298,7 @@
         },
         {
           "language": "英文",
-          "content": "They call me Vulcan. I can do maintenance for your damaged weapons if you want. Oh, by the way, the forging equipment I need is all listed here in this blueprint."
+          "content": "Vulcan, that's what everyone call me. I can do maintenance on your weapons, if it comes up. The equipment I need for the forge is listed here, in this blueprint."
         },
         {
           "language": "韩文",
@@ -320,11 +324,11 @@
         },
         {
           "language": "英文",
-          "content": "Ah, I'm feeling inspired. Get the blower machine ready, it's time to get down to business."
+          "content": "Hmm… I'm feeling inspired. Gotta start the blowers. It's time to work."
         },
         {
           "language": "韩文",
-          "content": "흠, 뭔가 영감이 반짝 떠올랐는데… 지금은 업무시간이지, 일단은 송풍기 준비부터 끝내놓자…"
+          "content": "흠, 새로운 영감이 떠올랐어. 슬슬 송풍기를 준비하고 일을 시작해야겠는걸……"
         },
         {
           "language": "繁体中文",
@@ -346,11 +350,11 @@
         },
         {
           "language": "英文",
-          "content": "I see that you, too, understand the importance of an excellent craftsperson to a military organization."
+          "content": "A skilled craftsman is crucial to a military organization. I see you understand that well."
         },
         {
           "language": "韩文",
-          "content": "왜 군사 조직에 우수한 장인을 놔둬야 하는지, 드디어 깨달은 것 같네."
+          "content": "군사 조직 내 우수한 장인의 중요성을, 박사도 잘 아는 것 같네."
         },
         {
           "language": "繁体中文",
@@ -372,7 +376,7 @@
         },
         {
           "language": "英文",
-          "content": "Keeping your weapons in good condition is the best way to keep yourself safe. Ah, you agree with me? I see that I've finally found my soulmate."
+          "content": "Keeping your weapons in good condition is the best way to keep your people safe. You agree with me? Seems I made the right choice joining you."
         },
         {
           "language": "韩文",
@@ -398,7 +402,7 @@
         },
         {
           "language": "英文",
-          "content": "I just want to... focus on my work."
+          "content": "I just want to focus on my work."
         },
         {
           "language": "韩文",
@@ -424,7 +428,7 @@
         },
         {
           "language": "英文",
-          "content": "Leader? Well, if I have to... Still, compared to giving orders, I'm much better at designing and manufacturing weapons."
+          "content": "You're making me the leader…? If you insist… Still, I'm much better at designing and producing weapons than giving orders."
         },
         {
           "language": "韩文",
@@ -450,7 +454,7 @@
         },
         {
           "language": "英文",
-          "content": "Can't I just stay behind and work?"
+          "content": "Can I stay behind and work? No?"
         },
         {
           "language": "韩文",
@@ -502,7 +506,7 @@
         },
         {
           "language": "英文",
-          "content": "Ah."
+          "content": "Yes?"
         },
         {
           "language": "韩文",
@@ -554,7 +558,7 @@
         },
         {
           "language": "英文",
-          "content": "Okay..."
+          "content": "I'm on it."
         },
         {
           "language": "韩文",
@@ -580,7 +584,7 @@
         },
         {
           "language": "英文",
-          "content": "Everything's normal."
+          "content": "Ready and waiting."
         },
         {
           "language": "韩文",
@@ -606,7 +610,7 @@
         },
         {
           "language": "英文",
-          "content": "Suit up."
+          "content": "Armed up!"
         },
         {
           "language": "韩文",
@@ -632,7 +636,7 @@
         },
         {
           "language": "英文",
-          "content": "Raging flames!"
+          "content": "Let the fires rage!"
         },
         {
           "language": "韩文",
@@ -684,7 +688,7 @@
         },
         {
           "language": "英文",
-          "content": "I'll destroy your weapon with my next blow!"
+          "content": "Your weapon will shatter under my next blow!"
         },
         {
           "language": "韩文",
@@ -710,7 +714,7 @@
         },
         {
           "language": "英文",
-          "content": "If you pick up some enemy equipment, show it to me. Could be useful for future development."
+          "content": "Please bring me any enemy equipment you find. I want to know what they're making now."
         },
         {
           "language": "韩文",
@@ -736,7 +740,7 @@
         },
         {
           "language": "英文",
-          "content": "A victory, just as expected! That's why we need high-quality weapons."
+          "content": "A victory, just as planned! This is why we need high-quality equipment for our fighters."
         },
         {
           "language": "韩文",
@@ -762,7 +766,7 @@
         },
         {
           "language": "英文",
-          "content": "Please submit a damage report for each of your weapons. I will work on repairs when we get back."
+          "content": "Please submit damage reports for all of your equipment. I'll work on repairs when we get back."
         },
         {
           "language": "韩文",
@@ -788,7 +792,7 @@
         },
         {
           "language": "英文",
-          "content": "My crafting skills are still lacking..."
+          "content": "My skills are still lacking…"
         },
         {
           "language": "韩文",
@@ -814,7 +818,7 @@
         },
         {
           "language": "英文",
-          "content": "Got a melting pot here?"
+          "content": "Do you have a furnace here?"
         },
         {
           "language": "韩文",
@@ -914,15 +918,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あけましておめでとう、ドクター。炉（フォージ）の調整をするから少し待っててほしい。私たち鍛冶師の習わしで、年始めに起こした火が強く燃えれば燃えるほど、いい装備が作れるようになるというものがあるんだ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy New Year, Doctor. A moment please, I'm working the forge. In our trade, we believe that the flames must burn bright over the new year, so that we'll be able to craft strong equipment."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받아, 박사. 용광로를 조정하는 중이니까 조금만 기다려줘. 우리 대장장이들 관습 중에, “새해에 붙인 불이 세게 타야, 그 한 해 좋은 장비를 만들 수 있다”라는 말이 있거든."
         },
         {
           "language": "繁体中文",
@@ -957,12 +961,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "罗德岛里喜爱武器的人越来越多了，我之前已经习惯了一个人，现在他们几个经常跑到我这里来......也挺有趣的，我不讨厌这种热闹，有时候还会觉得，也许再多几个也不是坏事。"
+          "content": "生日快乐，博士。您不用武器，我也不知道该送什么礼物。吧台最近推了几款新饮品，我喜欢的那几款也没有下架，我去请您喝一杯吧。"
         },
         {
           "language": "日文",
@@ -975,6 +979,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛里喜爱武器的人越来越多了，我之前已经习惯了一个人，现在他们几个经常跑到我这里来......也挺有趣的，我不讨厌这种热闹，有时候还会觉得，也许再多几个也不是坏事。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスの武器愛好家も増えてきたな。昔は一人でいるのに慣れていたが、今はあいつらがしょっちゅう工房に来るから……まあ愉快だ。ああいう活気は嫌いじゃない、時々もう何人か増えてもいいと思うくらいだ。"
+        },
+        {
+          "language": "英文",
+          "content": "People at Rhodes Island are beginning to understand the wonders of weapons. I was used to being alone, but now I get a few regular visitors... not that I mind. It's kind of fun, actually. Sometimes I even feel like a few more would be nice."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드에 무기를 좋아하는 사람들이 갈수록 많아지고 있어. 예전엔 혼자가 익숙했는데, 지금은 워낙 자주 찾아오니까…… 그래도 꽤 즐거워. 이런 시끌벅적한 분위기도 싫지 않고. 가끔은 몇 명 더 늘어도 나쁘지 않겠다는 생각도 든다니까."
         },
         {
           "language": "繁体中文",

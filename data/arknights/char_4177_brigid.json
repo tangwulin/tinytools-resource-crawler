@@ -1,0 +1,552 @@
+{
+  "name": "水灯心",
+  "charaKey": "char_4177_brigid",
+  "images": [
+    "https://media.prts.wiki/b/b6/%E7%AB%8B%E7%BB%98_%E6%B0%B4%E7%81%AF%E5%BF%83_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/3/36/%E7%AB%8B%E7%BB%98_%E6%B0%B4%E7%81%AF%E5%BF%83_2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4177_brigid"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4177_brigid"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "虽然不知道“助理”是什么意思，但待在一起，各自干自己的事，这个我明白。我们相遇，唱歌，分享食物和喜悦，然后分开。总是这样的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "就算没有信要送，也没有天灾来临的迹象，我还是会带着我的驮兽群迁徙，从不在一个地方久留。躺在驮兽的背上，盖着天幕入睡......离它们越远，我就越想念那样的生活。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "下面那些地方，走出门去也看不到天，还是待在甲板上更舒服。那儿有个鲁珀小孩的帐篷，扎得不太稳，我用绳索和钉子帮她固定了一下，这样它就不会因为船在跑被风吹得左右乱晃了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我去你们锻造武器的地方看过了。炉膛很大，火光就能把铁皮烫红，但天花板很低，整个屋子里只有一个人。就是他给这里所有人打造了武器吗？“锅炉房”？那是什么地方？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯，是有这样的传说，被死灵换走的孩子会成为守灵人，一辈子守在遗迹里。但我知道涅梅丝就不这样，她在遗迹里出生，又从遗迹出走，成为守灵人又放弃。这些传说，说到底也只是故事而已呀。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要做这把刀，得把驮兽的骨头放在撒了石灰的磐蟹壳上打磨，得到刀刃，插进把手里，连睡觉也握紧它，让骨和铁长在一起。我用这把刀旋出一个方向，从此离开部落，等我死后，它才会带我回去。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，有你的回信！这样说还挺新奇的。以前除了给涅梅丝帮忙，我都奔波在天灾预警，或为人们传递最后一封信的路上。其他天灾信使是桥梁，而我，硬要说的话，更像是用尽全力掷出去的石头吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我给你的绳子乱了？涂了兽油的，应该不会呀......这样，你先把缠住的地方都弄松，找到最长的绳头，往上撑开洞，再把手腕穿进去，最后，绳头往外一拉——行，这下你就被捆住了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "通讯器我会用，也会一直带在身上，如果在外面没有及时回复，那就是顾不上。不过博士，如果你实在需要我，想见我，可以站到甲板上喊我的名字。风会把你的呼唤送到我身边，那比什么工具都快。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里没有篝火需要看顾......我能不能在墙上再画一个我，坐在这里陪着博士呢？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我是——呃，天灾信使，我叫水灯心。这封信要交给罗德岛的博士，你认识博士吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我能不能把这些东西带到甲板上，到露天的地方去看？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我帮一些人转交过这样的金属块，收到它们的人总是会哭。如果现在是一个令人高兴的时刻，那当时他们也一定是因为高兴才哭的，对吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果这样的活动还会有很多次，那我就没法把这些金属块都戴在身上了......但我也不想拿它们去换东西。博士，你能不能帮我保管？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "刀都已经重新打磨过了，我们什么时候出发？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "就像打仗的时候那样，是吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我觉得跑起来比较好哦。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "集中注意力，别让猎物逃掉！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "需要先埋伏吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "告诉我方位就行。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "注意啦，这是一把刀，不是回旋镖！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "天气不好吗？没关系，我的刀可以割开浓雾。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我可以一直追。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不要以为自己能躲过去哦。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "像这样扔出去！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我已经在这里待太久了，快点结束吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "敌人和野兽，在逃窜的时候都一样呢。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哼哼哼♪哼哼哼♪哼哼哼——哼♪哼哼哼♪哼哼哼♪哼哼......♪"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这也很不错了，走吧，我做烤肉给你吃！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "胜利也像驮兽一样会随时迁徙吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "感觉伸手就能摸到天花板，和纳斯尔纱一样。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯？博士，你推不动我的哦。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我尾巴上的毛很卷吧？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“铜铃第十一次被敲响的时候，把三叶结符文刻在石头上。来年的坏运气就会被封进石头里，只留下光明的前景。”传说里也有好心肠的指导人生活的部分，我每年都这样做。博士，你也试试吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "要多出去走走哦，博士。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我还在部落里的时候，过生日总是会有瘤奶做的绿奶酪可吃。吃下奶酪就是吃下月亮，这样到了晚上，你的火——或者说灵魂，才不会因为被双月注视而熄灭。所以，来吧博士，这可是我亲手做的！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果没有来到这里，我也许不会知道，在塔拉之外还有更广阔的原野。虽然船上的生活也很有趣，但我还是更希望能用自己的双脚——在火燃尽之前，一直跑，一直跑，就像在纳斯尔纱时一样。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

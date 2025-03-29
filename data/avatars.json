@@ -4,1019 +4,1099 @@
     "female": [
       {
         "description": "小鸟游星野",
-        "url": "https://static.kivo.fun/images/students/小鸟游 星野/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/小鸟游 星野/avatar.png"
+      },
+      {
+        "description": "小鸟游星野(一年级)",
+        "url": "https://static.kivo.wiki/images/students/小鸟游 星野/昔日/avatar.png"
       },
       {
         "description": "小鸟游星野(临战)",
-        "url": "https://static.kivo.fun/images/students/小鸟游 星野/临战/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/小鸟游 星野/临战/avatar.png"
       },
       {
         "description": "小鸟游星野(泳装)",
-        "url": "https://static.kivo.fun/images/students/小鸟游 星野/泳装/avatar.png"
-      },
-      {
-        "description": "砂狼白子",
-        "url": "https://static.kivo.fun/images/students/砂狼 白子/avatar.png"
-      },
-      {
-        "description": "砂狼白子(泳装)",
-        "url": "https://static.kivo.fun/images/students/砂狼 白子/泳装/avatar.png"
-      },
-      {
-        "description": "砂狼白子(骑行服)",
-        "url": "https://static.kivo.fun/images/students/砂狼 白子/单车/avatar.png"
-      },
-      {
-        "description": "砂狼白子*恐怖",
-        "url": "https://static.kivo.fun/images/students/砂狼 白子*恐怖/original/avatar.png"
-      },
-      {
-        "description": "奥空绫音",
-        "url": "https://static.kivo.fun/images/students/奥空 绫音/avatar.png"
-      },
-      {
-        "description": "奥空绫音(泳装)",
-        "url": "https://static.kivo.fun/images/students/奥空 绫音/泳装/avatar.png"
-      },
-      {
-        "description": "黑见芹香",
-        "url": "https://static.kivo.fun/images/students/黑见 芹香/avatar.png"
-      },
-      {
-        "description": "黑见芹香(正月)",
-        "url": "https://static.kivo.fun/images/students/黑见 芹香/正月/avatar.png"
-      },
-      {
-        "description": "黑见芹香(泳装)",
-        "url": "https://static.kivo.fun/images/students/黑见 芹香/泳装/avatar.png"
-      },
-      {
-        "description": "十六夜野宫",
-        "url": "https://static.kivo.fun/images/students/十六夜 野宫/avatar.png"
-      },
-      {
-        "description": "十六夜野宫(泳装)",
-        "url": "https://static.kivo.fun/images/students/十六夜 野宫/泳装/avatar.png"
-      },
-      {
-        "description": "仲正一花",
-        "url": "https://static.kivo.fun/images/students/仲正 一花/original/avatar.png"
-      },
-      {
-        "description": "杏山和纱",
-        "url": "https://static.kivo.fun/images/students/杏山 和纱/avatar.png"
-      },
-      {
-        "description": "杏山和纱(乐队)",
-        "url": "https://static.kivo.fun/images/students/杏山 和纱/乐队/avatar.png"
-      },
-      {
-        "description": "柚鸟夏",
-        "url": "https://static.kivo.fun/images/students/柚鸟 夏/avatar.png"
-      },
-      {
-        "description": "伊原木好美",
-        "url": "https://static.kivo.fun/images/students/伊原木 好美/avatar.png"
-      },
-      {
-        "description": "伊原木好美(乐队)",
-        "url": "https://static.kivo.fun/images/students/伊原木 好美/乐队/avatar.png"
-      },
-      {
-        "description": "下江小春",
-        "url": "https://static.kivo.fun/images/students/下江 小春/avatar.png"
-      },
-      {
-        "description": "下江小春(泳装)",
-        "url": "https://static.kivo.fun/images/students/下江 小春/泳装/avatar.png"
-      },
-      {
-        "description": "圆堂志美子",
-        "url": "https://static.kivo.fun/images/students/圆堂 志美子/avatar.png"
-      },
-      {
-        "description": "古关忧",
-        "url": "https://static.kivo.fun/images/students/古关 忧/avatar.png"
-      },
-      {
-        "description": "古关忧(泳装)",
-        "url": "https://static.kivo.fun/images/students/古关 忧/泳装/avatar.png"
-      },
-      {
-        "description": "若叶日向",
-        "url": "https://static.kivo.fun/images/students/若叶 日向/avatar.png"
-      },
-      {
-        "description": "若叶日向(泳装)",
-        "url": "https://static.kivo.fun/images/students/若叶 日向/泳装/avatar.png"
-      },
-      {
-        "description": "阿慈谷日富美",
-        "url": "https://static.kivo.fun/images/students/阿慈谷 日富美/avatar.png"
-      },
-      {
-        "description": "阿慈谷日富美(泳装)",
-        "url": "https://static.kivo.fun/images/students/阿慈谷 日富美/泳装/avatar.png"
-      },
-      {
-        "description": "圣园未花",
-        "url": "https://static.kivo.fun/images/students/圣园未花/avatar.png"
-      },
-      {
-        "description": "白洲梓",
-        "url": "https://static.kivo.fun/images/students/白洲梓/avatar.png"
-      },
-      {
-        "description": "白洲梓(泳装)",
-        "url": "https://static.kivo.fun/images/students/白洲 梓/泳装/avatar.png"
-      },
-      {
-        "description": "歌住樱子",
-        "url": "https://static.kivo.fun/images/students/歌住 樱子/avatar.png"
-      },
-      {
-        "description": "桐藤渚",
-        "url": "https://static.kivo.fun/images/students/桐藤 渚/avatar.png"
-      },
-      {
-        "description": "栗村爱莉",
-        "url": "https://static.kivo.fun/images/students/栗村 爱莉/avatar.png"
-      },
-      {
-        "description": "栗村爱莉(乐队)",
-        "url": "https://static.kivo.fun/images/students/栗村 爱莉/乐队/avatar.png"
-      },
-      {
-        "description": "伊落玛丽",
-        "url": "https://static.kivo.fun/images/students/伊落 玛丽/avatar.png"
-      },
-      {
-        "description": "伊落玛丽(体育服)",
-        "url": "https://static.kivo.fun/images/students/伊落 玛丽/体育服/avatar.png"
-      },
-      {
-        "description": "宇泽玲纱",
-        "url": "https://static.kivo.fun/images/students/宇泽 玲纱/avatar.png"
-      },
-      {
-        "description": "静山真白",
-        "url": "https://static.kivo.fun/images/students/静山 真白/avatar.png"
-      },
-      {
-        "description": "静山真白(泳装)",
-        "url": "https://static.kivo.fun/images/students/静山 真白/泳装/avatar.png"
-      },
-      {
-        "description": "苍森美弥",
-        "url": "https://static.kivo.fun/images/students/苍森 美弥/avatar.png"
-      },
-      {
-        "description": "浦和花子",
-        "url": "https://static.kivo.fun/images/students/浦和 花子/avatar.png"
-      },
-      {
-        "description": "浦和花子(泳装)",
-        "url": "https://static.kivo.fun/images/students/浦和 花子/泳装/avatar.png"
-      },
-      {
-        "description": "朝颜花江",
-        "url": "https://static.kivo.fun/images/students/朝颜 花江/avatar.png"
-      },
-      {
-        "description": "朝颜花江(圣诞节)",
-        "url": "https://static.kivo.fun/images/students/朝颜 花江/圣诞节/avatar.png"
-      },
-      {
-        "description": "鹫见芹娜",
-        "url": "https://static.kivo.fun/images/students/鹫见 芹娜/avatar.png"
-      },
-      {
-        "description": "鹫见芹娜(圣诞节)",
-        "url": "https://static.kivo.fun/images/students/鹫见 芹娜/圣诞节/avatar.png"
-      },
-      {
-        "description": "羽川莲见",
-        "url": "https://static.kivo.fun/images/students/羽川 莲见/avatar.png"
-      },
-      {
-        "description": "羽川莲见(体育服)",
-        "url": "https://static.kivo.fun/images/students/羽川 莲见/体育服/avatar.png"
-      },
-      {
-        "description": "守月铃美",
-        "url": "https://static.kivo.fun/images/students/守月 铃美/avatar.png"
-      },
-      {
-        "description": "剑先鹤城",
-        "url": "https://static.kivo.fun/images/students/剑先 鹤城/avatar.png"
-      },
-      {
-        "description": "剑先鹤城(泳装)",
-        "url": "https://static.kivo.fun/images/students/剑先 鹤城/泳装/avatar.png"
-      },
-      {
-        "description": "天雨亚子",
-        "url": "https://static.kivo.fun/images/students/天雨 亚子/avatar.png"
-      },
-      {
-        "description": "天雨亚子(礼服)",
-        "url": "https://static.kivo.fun/images/students/天雨 亚子/礼服/avatar.png"
-      },
-      {
-        "description": "枣伊吕波",
-        "url": "https://static.kivo.fun/images/students/枣 伊吕波/avatar.png"
-      },
-      {
-        "description": "丹花伊吹",
-        "url": "https://static.kivo.fun/images/students/丹花 伊吹/avatar.png"
-      },
-      {
-        "description": "银镜伊织",
-        "url": "https://static.kivo.fun/images/students/银镜 伊织/avatar.png"
-      },
-      {
-        "description": "银镜伊织(泳装)",
-        "url": "https://static.kivo.fun/images/students/银镜 伊织/泳装/avatar.png"
-      },
-      {
-        "description": "鬼方佳代子",
-        "url": "https://static.kivo.fun/images/students/鬼方 佳代子/avatar.png"
-      },
-      {
-        "description": "鬼方佳代子(正月)",
-        "url": "https://static.kivo.fun/images/students/鬼方 佳代子/正月/avatar.png"
-      },
-      {
-        "description": "鬼方佳代子(礼服)",
-        "url": "https://static.kivo.fun/images/students/鬼方 佳代子/礼服/avatar.png"
-      },
-      {
-        "description": "火宫千夏",
-        "url": "https://static.kivo.fun/images/students/火宫 千夏/avatar.png"
-      },
-      {
-        "description": "火宫千夏(温泉)",
-        "url": "https://static.kivo.fun/images/students/火宫 千夏/温泉/avatar.png"
-      },
-      {
-        "description": "下仓惠",
-        "url": "https://static.kivo.fun/images/students/下仓 惠/avatar.png"
-      },
-      {
-        "description": "空崎日奈",
-        "url": "https://static.kivo.fun/images/students/空崎 日奈/avatar.png"
-      },
-      {
-        "description": "空崎日奈(泳装)",
-        "url": "https://static.kivo.fun/images/students/空崎 日奈/泳装/avatar.png"
-      },
-      {
-        "description": "空崎日奈(礼服)",
-        "url": "https://static.kivo.fun/images/students/空崎 日奈/礼服/avatar.png"
-      },
-      {
-        "description": "鳄渊明里",
-        "url": "https://static.kivo.fun/images/students/鳄渊 明里/avatar.png"
-      },
-      {
-        "description": "鳄渊明里(正月)",
-        "url": "https://static.kivo.fun/images/students/鳄渊 明里/正月/avatar.png"
-      },
-      {
-        "description": "黑馆晴奈",
-        "url": "https://static.kivo.fun/images/students/黑馆 晴奈/avatar.png"
-      },
-      {
-        "description": "黑馆晴奈(体育服)",
-        "url": "https://static.kivo.fun/images/students/黑馆 晴奈/体育服/avatar.png"
-      },
-      {
-        "description": "黑馆晴奈(正月)",
-        "url": "https://static.kivo.fun/images/students/黑馆 晴奈/正月/avatar.png"
-      },
-      {
-        "description": "牛牧朱莉",
-        "url": "https://static.kivo.fun/images/students/牛牧 茱莉/avatar.png"
-      },
-      {
-        "description": "爱清枫香",
-        "url": "https://static.kivo.fun/images/students/爱清 枫香/avatar.png"
-      },
-      {
-        "description": "爱清枫香(正月)",
-        "url": "https://static.kivo.fun/images/students/爱清 枫香/正月/avatar.png"
-      },
-      {
-        "description": "狮子堂泉",
-        "url": "https://static.kivo.fun/images/students/狮子堂 泉/avatar.png"
-      },
-      {
-        "description": "狮子堂泉(泳装)",
-        "url": "https://static.kivo.fun/images/students/狮子堂 泉/泳装/avatar.png"
-      },
-      {
-        "description": "冰室濑名",
-        "url": "https://static.kivo.fun/images/students/冰室濑名/avatar.png"
-      },
-      {
-        "description": "羽沼真琴",
-        "url": "https://static.kivo.fun/images/students/羽沼 真琴/avatar.png"
-      },
-      {
-        "description": "浅黄睦月",
-        "url": "https://static.kivo.fun/images/students/浅黄 睦月/avatar.png"
-      },
-      {
-        "description": "浅黄睦月(正月)",
-        "url": "https://static.kivo.fun/images/students/浅黄 睦月/正月/avatar.png"
-      },
-      {
-        "description": "赤司纯子",
-        "url": "https://static.kivo.fun/images/students/赤司 纯子/avatar.png"
-      },
-      {
-        "description": "赤司纯子(正月)",
-        "url": "https://static.kivo.fun/images/students/赤司 纯子/正月/avatar.png"
-      },
-      {
-        "description": "夜樱绮良",
-        "url": "https://static.kivo.fun/images/students/夜樱 绮良/avatar.png"
-      },
-      {
-        "description": "伊草遥香",
-        "url": "https://static.kivo.fun/images/students/伊草 春香/avatar.png"
-      },
-      {
-        "description": "伊草遥香(正月)",
-        "url": "https://static.kivo.fun/images/students/伊草 遥香/正月/avatar.png"
-      },
-      {
-        "description": "陆八魔阿露",
-        "url": "https://static.kivo.fun/images/students/陆八魔 阿露/avatar.png"
-      },
-      {
-        "description": "陆八魔阿露(正月)",
-        "url": "https://static.kivo.fun/images/students/陆八魔 阿露/正月/avatar.png"
-      },
-      {
-        "description": "陆八魔阿露(礼服)",
-        "url": "https://static.kivo.fun/images/students/陆八魔 阿露/礼服/avatar.png"
-      },
-      {
-        "description": "鬼怒川霞",
-        "url": "https://static.kivo.fun/images/students/鬼怒川 霞/original/avatar.png"
-      },
-      {
-        "description": "早濑优香",
-        "url": "https://static.kivo.fun/images/students/早瀬 优香/avatar.png"
-      },
-      {
-        "description": "早濑优香(体育服)",
-        "url": "https://static.kivo.fun/images/students/早濑 优香/avatar.png"
-      },
-      {
-        "description": "各务千寻",
-        "url": "https://static.kivo.fun/images/students/各务千寻/avatar.png"
-      },
-      {
-        "description": "猫冢响",
-        "url": "https://static.kivo.fun/images/students/猫冢 响/avatar.png"
-      },
-      {
-        "description": "猫冢响(应援团)",
-        "url": "https://static.kivo.fun/images/students/猫塚 响/avatar.png"
-      },
-      {
-        "description": "乙花堇",
-        "url": "https://static.kivo.fun/images/students/乙花 堇/avatar.png"
-      },
-      {
-        "description": "美甘妮禄",
-        "url": "https://static.kivo.fun/images/students/美甘 尼禄/avatar.png"
-      },
-      {
-        "description": "美甘妮禄(兔女郎)",
-        "url": "https://static.kivo.fun/images/students/美甘 尼禄/兔女郎/avatar.png"
-      },
-      {
-        "description": "音濑小玉",
-        "url": "https://static.kivo.fun/images/students/音濑 小玉/avatar.png"
-      },
-      {
-        "description": "音濑小玉(露营)",
-        "url": "https://static.kivo.fun/images/students/音濑 小玉/露营/avatar.png"
-      },
-      {
-        "description": "黑崎小雪",
-        "url": "https://static.kivo.fun/images/students/黑崎 小雪/avatar.png"
-      },
-      {
-        "description": "丰见小鸟",
-        "url": "https://static.kivo.fun/images/students/丰见 小鸟/avatar.png"
-      },
-      {
-        "description": "丰见小鸟(应援团)",
-        "url": "https://static.kivo.fun/images/students/丰见 小鸟/应援团/avatar.png"
-      },
-      {
-        "description": "明星日鞠",
-        "url": "https://static.kivo.fun/images/students/明星 日鞠/avatar.png"
-      },
-      {
-        "description": "飞鸟马时",
-        "url": "https://static.kivo.fun/images/students/飞鸟马 时/avatar.png"
-      },
-      {
-        "description": "飞鸟马时(兔女郎)",
-        "url": "https://static.kivo.fun/images/students/飞鸟马 时/兔女郎/avatar.png"
-      },
-      {
-        "description": "一之濑明日奈",
-        "url": "https://static.kivo.fun/images/students/一之瀬 明日奈/avatar.png"
-      },
-      {
-        "description": "一之濑明日奈(兔女郎)",
-        "url": "https://static.kivo.fun/images/students/一之濑 明日奈/兔女郎/avatar.png"
-      },
-      {
-        "description": "小钩晴",
-        "url": "https://static.kivo.fun/images/students/小钩 晴/avatar.png"
-      },
-      {
-        "description": "小钩晴(露营)",
-        "url": "https://static.kivo.fun/images/students/小钩 晴/露营/avatar.png"
-      },
-      {
-        "description": "花冈柚子",
-        "url": "https://static.kivo.fun/images/students/花冈 柚子/avatar.png"
-      },
-      {
-        "description": "花冈柚子(女仆)",
-        "url": "https://static.kivo.fun/images/students/花冈 柚子/女仆/avatar.png"
-      },
-      {
-        "description": "才羽桃井",
-        "url": "https://static.kivo.fun/images/students/才羽桃井/avatar.png"
-      },
-      {
-        "description": "才羽桃井(女仆)",
-        "url": "https://static.kivo.fun/images/students/才羽 桃井/女仆/avatar.png"
-      },
-      {
-        "description": "白石歌原",
-        "url": "https://static.kivo.fun/images/students/白石 歌原/avatar.png"
-      },
-      {
-        "description": "白石歌原(应援团)",
-        "url": "https://static.kivo.fun/images/students/白石 歌原/应援团/avatar.png"
-      },
-      {
-        "description": "天童爱丽丝",
-        "url": "https://static.kivo.fun/images/students/天童 爱丽丝/avatar.png"
-      },
-      {
-        "description": "天童爱丽丝(女仆)",
-        "url": "https://static.kivo.fun/images/students/天童 爱丽丝/女仆/avatar.png"
-      },
-      {
-        "description": "小涂真纪",
-        "url": "https://static.kivo.fun/images/students/小涂 真纪/avatar.png"
-      },
-      {
-        "description": "才羽绿",
-        "url": "https://static.kivo.fun/images/students/才羽绿/avatar.png"
-      },
-      {
-        "description": "才羽绿(女仆)",
-        "url": "https://static.kivo.fun/images/students/才羽 绿/女仆/avatar.png"
-      },
-      {
-        "description": "和泉元艾米",
-        "url": "https://static.kivo.fun/images/students/和泉元 艾米/avatar.png"
-      },
-      {
-        "description": "和泉元艾米(泳装)",
-        "url": "https://static.kivo.fun/images/students/和泉元 艾米/泳装/avatar.png"
-      },
-      {
-        "description": "角楯花凛",
-        "url": "https://static.kivo.fun/images/students/角楯 花凛/avatar.png"
-      },
-      {
-        "description": "角楯花凛(兔女郎)",
-        "url": "https://static.kivo.fun/images/students/角楯 花凛/兔女郎/avatar.png"
-      },
-      {
-        "description": "室笠茜",
-        "url": "https://static.kivo.fun/images/students/室笠 茜/avatar.png"
-      },
-      {
-        "description": "室笠茜(兔女郎)",
-        "url": "https://static.kivo.fun/images/students/室笠 茜/兔女郎/avatar.png"
-      },
-      {
-        "description": "生盐诺亚",
-        "url": "https://static.kivo.fun/images/students/生盐 诺亚/avatar.png"
-      },
-      {
-        "description": "连河切里诺",
-        "url": "https://static.kivo.fun/images/students/连河 切里诺/avatar.png"
-      },
-      {
-        "description": "连河切里诺(温泉)",
-        "url": "https://static.kivo.fun/images/students/连河 切利诺/温泉/avatar.png"
-      },
-      {
-        "description": "天见和香",
-        "url": "https://static.kivo.fun/images/students/天见 和香/avatar.png"
-      },
-      {
-        "description": "天见和香(温泉)",
-        "url": "https://static.kivo.fun/images/students/天见 和香/温泉/avatar.png"
-      },
-      {
-        "description": "安守实梨",
-        "url": "https://static.kivo.fun/images/students/安守 未乃里/avatar.png"
-      },
-      {
-        "description": "间宵时雨",
-        "url": "https://static.kivo.fun/images/students/间宵 时雨/avatar.png"
-      },
-      {
-        "description": "间宵时雨(温泉)",
-        "url": "https://static.kivo.fun/images/students/间宵 时雨/温泉/avatar.png"
-      },
-      {
-        "description": "佐城智惠",
-        "url": "https://static.kivo.fun/images/students/佐城 智惠/avatar.png"
-      },
-      {
-        "description": "佐城智惠(旗袍)",
-        "url": "https://static.kivo.fun/images/students/佐城 智惠/旗袍/avatar.png"
-      },
-      {
-        "description": "姬木梅露",
-        "url": "https://static.kivo.fun/images/students/姬木 梅露/original/avatar.png"
-      },
-      {
-        "description": "池仓玛丽娜",
-        "url": "https://static.kivo.fun/images/students/池仓 玛利娜/avatar.png"
-      },
-      {
-        "description": "池仓玛丽娜(旗袍)",
-        "url": "https://static.kivo.fun/images/students/池仓 玛丽娜/旗袍/avatar.png"
-      },
-      {
-        "description": "秋泉红叶",
-        "url": "https://static.kivo.fun/images/students/秋泉 红叶/original/avatar.png"
-      },
-      {
-        "description": "近卫南",
-        "url": "https://static.kivo.fun/images/students/佐藤 南/avatar.png"
-      },
-      {
-        "description": "春原心奈",
-        "url": "https://static.kivo.fun/images/students/春原心奈/avatar.png"
-      },
-      {
-        "description": "朱城留美",
-        "url": "https://static.kivo.fun/images/students/朱城 留美/avatar.png"
-      },
-      {
-        "description": "春原瞬",
-        "url": "https://static.kivo.fun/images/students/春原 瞬/avatar.png"
-      },
-      {
-        "description": "春原瞬(幼女)",
-        "url": "https://static.kivo.fun/images/students/春原 瞬/幼女/avatar.png"
-      },
-      {
-        "description": "药子纱绫",
-        "url": "https://static.kivo.fun/images/students/药子 纱绫/avatar.png"
-      },
-      {
-        "description": "药子纱绫(私服)",
-        "url": "https://static.kivo.fun/images/students/药子 纱绫/私服/avatar.png"
-      },
-      {
-        "description": "尾刃叶渚",
-        "url": "https://static.kivo.fun/images/students/尾刃 叶渚/avatar.png"
-      },
-      {
-        "description": "尾刃叶渚(泳装)",
-        "url": "https://static.kivo.fun/images/students/尾刃 叶渚/泳装/avatar.png"
-      },
-      {
-        "description": "合欢垣吹雪",
-        "url": "https://static.kivo.fun/images/students/合欢垣 吹雪/avatar.png"
-      },
-      {
-        "description": "合欢垣吹雪(泳装)",
-        "url": "https://static.kivo.fun/images/students/合欢垣 吹雪/泳装/avatar.png"
-      },
-      {
-        "description": "中务桐乃",
-        "url": "https://static.kivo.fun/images/students/中务 桐乃/avatar.png"
-      },
-      {
-        "description": "中务桐乃(泳装)",
-        "url": "https://static.kivo.fun/images/students/中务 桐乃/泳装/avatar.png"
-      },
-      {
-        "description": "和乐千世",
-        "url": "https://static.kivo.fun/images/students/和乐 千世/avatar.png"
-      },
-      {
-        "description": "和乐千世(泳装)",
-        "url": "https://static.kivo.fun/images/students/和乐 千世/泳装/avatar.png"
-      },
-      {
-        "description": "水羽弥守",
-        "url": "https://static.kivo.fun/images/students/水羽弥守/avatar.png"
-      },
-      {
-        "description": "水羽弥守(泳装)",
-        "url": "https://static.kivo.fun/images/students/水羽 弥守/泳装/avatar.png"
-      },
-      {
-        "description": "大野月咏",
-        "url": "https://static.kivo.fun/images/students/大野 月咏/avatar.png"
-      },
-      {
-        "description": "桑上果穗",
-        "url": "https://static.kivo.fun/images/students/桑上 果穗/avatar.png"
-      },
-      {
-        "description": "勇美枫",
-        "url": "https://static.kivo.fun/images/students/勇美 枫/avatar.png"
-      },
-      {
-        "description": "桐生桔梗",
-        "url": "https://static.kivo.fun/images/students/桐生 桔梗/avatar.png"
-      },
-      {
-        "description": "春日椿",
-        "url": "https://static.kivo.fun/images/students/春日 椿/avatar.png"
-      },
-      {
-        "description": "春日椿(导游)",
-        "url": "https://static.kivo.fun/images/students/春日 椿/导游/avatar.png"
-      },
-      {
-        "description": "久田泉奈",
-        "url": "https://static.kivo.fun/images/students/久田 泉奈/avatar.png"
-      },
-      {
-        "description": "久田泉奈(泳装)",
-        "url": "https://static.kivo.fun/images/students/久田 泉奈/泳装/avatar.png"
-      },
-      {
-        "description": "里滨海夏",
-        "url": "https://static.kivo.fun/images/students/里浜 海夏/avatar.png"
-      },
-      {
-        "description": "千鸟满",
-        "url": "https://static.kivo.fun/images/students/千鸟 满/avatar.png"
-      },
-      {
-        "description": "勘解由小路紫",
-        "url": "https://static.kivo.fun/images/students/勘解由小路 紫/avatar.png"
-      },
-      {
-        "description": "狐坂若藻",
-        "url": "https://static.kivo.fun/images/students/狐坂若藻/avatar.png"
-      },
-      {
-        "description": "狐坂若藻(泳装)",
-        "url": "https://static.kivo.fun/images/students/狐坂 若藻/avatar.png"
-      },
-      {
-        "description": "不破莲华",
-        "url": "https://static.kivo.fun/images/students/不破 莲华/avatar.png"
-      },
-      {
-        "description": "朝比奈菲娜",
-        "url": "https://static.kivo.fun/images/students/朝比奈 菲娜/avatar.png"
-      },
-      {
-        "description": "河和静子",
-        "url": "https://static.kivo.fun/images/students/河和 静子/avatar.png"
-      },
-      {
-        "description": "河和静子(泳装)",
-        "url": "https://static.kivo.fun/images/students/河和 静子/泳装/avatar.png"
-      },
-      {
-        "description": "秤亚津子",
-        "url": "https://static.kivo.fun/images/students/秤 亚津子/avatar.png"
-      },
-      {
-        "description": "秤亚津子(泳装)",
-        "url": "https://static.kivo.fun/images/students/秤 亚津子/泳装/avatar.png"
-      },
-      {
-        "description": "槌永日和",
-        "url": "https://static.kivo.fun/images/students/槌永 日和/avatar.png"
-      },
-      {
-        "description": "槌永日和(泳装)",
-        "url": "https://static.kivo.fun/images/students/槌永 日和/泳装/avatar.png"
-      },
-      {
-        "description": "锭前纱织",
-        "url": "https://static.kivo.fun/images/students/锭前 纱织/avatar.png"
-      },
-      {
-        "description": "锭前纱织(泳装)",
-        "url": "https://static.kivo.fun/images/students/锭前 纱织/泳装/avatar.png"
-      },
-      {
-        "description": "戒野美咲",
-        "url": "https://static.kivo.fun/images/students/戒野 美咲/avatar.png"
-      },
-      {
-        "description": "空井咲",
-        "url": "https://static.kivo.fun/images/students/空井咲/avatar.png"
-      },
-      {
-        "description": "空井咲(泳装)",
-        "url": "https://static.kivo.fun/images/students/空井 咲/泳装/avatar.png"
-      },
-      {
-        "description": "月雪宫子",
-        "url": "https://static.kivo.fun/images/students/月雪宫子/avatar.png"
-      },
-      {
-        "description": "月雪宫子(泳装)",
-        "url": "https://static.kivo.fun/images/students/月雪 宫子/泳装/avatar.png"
-      },
-      {
-        "description": "霞泽美游",
-        "url": "https://static.kivo.fun/images/students/霞泽美游/avatar.png"
-      },
-      {
-        "description": "霞泽美游(泳装)",
-        "url": "https://static.kivo.fun/images/students/霞泽 美游/泳装/avatar.png"
-      },
-      {
-        "description": "风仓萌绘",
-        "url": "https://static.kivo.fun/images/students/风仓萌绘/avatar.png"
-      },
-      {
-        "description": "风仓萌绘(泳装)",
-        "url": "https://static.kivo.fun/images/students/风仓 萌绘/泳装/avatar.png"
-      },
-      {
-        "description": "初音未来",
-        "url": "https://static.kivo.fun/images/students/初音 未来/avatar.png"
-      },
-      {
-        "description": "食蜂操祈",
-        "url": "https://static.kivo.fun/images/students/食蜂 操祈/avatar.png"
-      },
-      {
-        "description": "佐天泪子",
-        "url": "https://static.kivo.fun/images/students/佐天 泪子/avatar.png"
-      },
-      {
-        "description": "御坂美琴",
-        "url": "https://static.kivo.fun/images/students/御坂 美琴/avatar.png"
-      },
-      {
-        "description": "微笑教授",
-        "url": "https://static.kivo.fun/images/students/ 笑面教授/original/avatar.png"
-      },
-      {
-        "description": "栗滨明美",
-        "url": "https://static.kivo.fun/images/students/栗滨 明美/original/avatar.png"
-      },
-      {
-        "description": "小鸟游星野(昔日)",
-        "url": "https://static.kivo.fun/images/students/小鸟游 星野/昔日/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/小鸟游 星野/泳装/avatar.png"
       },
       {
         "description": "栀子梦",
-        "url": "https://static.kivo.fun/images/students/梦/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/梦/avatar.png"
+      },
+      {
+        "description": "砂狼白子",
+        "url": "https://static.kivo.wiki/images/students/砂狼 白子/avatar.png"
+      },
+      {
+        "description": "砂狼白子(泳装)",
+        "url": "https://static.kivo.wiki/images/students/砂狼 白子/泳装/avatar.png"
+      },
+      {
+        "description": "砂狼白子(骑行服)",
+        "url": "https://static.kivo.wiki/images/students/砂狼 白子/单车/avatar.png"
+      },
+      {
+        "description": "砂狼白子*恐怖",
+        "url": "https://static.kivo.wiki/images/students/砂狼 白子*恐怖/original/avatar.png"
+      },
+      {
+        "description": "奥空绫音",
+        "url": "https://static.kivo.wiki/images/students/奥空 绫音/avatar.png"
+      },
+      {
+        "description": "奥空绫音(泳装)",
+        "url": "https://static.kivo.wiki/images/students/奥空 绫音/泳装/avatar.png"
+      },
+      {
+        "description": "黑见芹香",
+        "url": "https://static.kivo.wiki/images/students/黑见 芹香/avatar.png"
+      },
+      {
+        "description": "黑见芹香(正月)",
+        "url": "https://static.kivo.wiki/images/students/黑见 芹香/正月/avatar.png"
+      },
+      {
+        "description": "黑见芹香(泳装)",
+        "url": "https://static.kivo.wiki/images/students/黑见 芹香/泳装/avatar.png"
+      },
+      {
+        "description": "十六夜野宫",
+        "url": "https://static.kivo.wiki/images/students/十六夜 野宫/avatar.png"
+      },
+      {
+        "description": "十六夜野宫(泳装)",
+        "url": "https://static.kivo.wiki/images/students/十六夜 野宫/泳装/avatar.png"
+      },
+      {
+        "description": "仲正一花",
+        "url": "https://static.kivo.wiki/images/students/仲正 一花/original/avatar.png"
+      },
+      {
+        "description": "杏山和纱",
+        "url": "https://static.kivo.wiki/images/students/杏山 和纱/avatar.png"
+      },
+      {
+        "description": "杏山和纱(乐队)",
+        "url": "https://static.kivo.wiki/images/students/杏山 和纱/乐队/avatar.png"
       },
       {
         "description": "百合园圣娅",
-        "url": "https://static.kivo.fun/images/students/百合园 圣娅/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/百合园 圣娅/original/Student_Portrait_CH0070_Collection.png"
+      },
+      {
+        "description": "柚鸟夏",
+        "url": "https://static.kivo.wiki/images/students/柚鸟 夏/avatar.png"
       },
       {
         "description": "柚鸟夏(乐队)",
-        "url": "https://static.kivo.fun/images/students/柚鸟 夏/乐队/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/柚鸟 夏/乐队/avatar.png"
       },
       {
-        "description": "「雷帝」",
-        "url": "https://static.kivo.fun/images/students/ 「雷帝」/original/avatar.png"
+        "description": "伊原木好美",
+        "url": "https://static.kivo.wiki/images/students/伊原木 好美/avatar.png"
+      },
+      {
+        "description": "伊原木好美(乐队)",
+        "url": "https://static.kivo.wiki/images/students/伊原木 好美/乐队/avatar.png"
+      },
+      {
+        "description": "下江小春",
+        "url": "https://static.kivo.wiki/images/students/下江 小春/avatar.png"
+      },
+      {
+        "description": "下江小春(泳装)",
+        "url": "https://static.kivo.wiki/images/students/下江 小春/泳装/avatar.png"
+      },
+      {
+        "description": "圆堂志美子",
+        "url": "https://static.kivo.wiki/images/students/圆堂 志美子/avatar.png"
+      },
+      {
+        "description": "古关忧",
+        "url": "https://static.kivo.wiki/images/students/古关 忧/avatar.png"
+      },
+      {
+        "description": "古关忧(泳装)",
+        "url": "https://static.kivo.wiki/images/students/古关 忧/泳装/avatar.png"
+      },
+      {
+        "description": "若叶日向",
+        "url": "https://static.kivo.wiki/images/students/若叶 日向/avatar.png"
+      },
+      {
+        "description": "若叶日向(泳装)",
+        "url": "https://static.kivo.wiki/images/students/若叶 日向/泳装/avatar.png"
+      },
+      {
+        "description": "阿慈谷日富美",
+        "url": "https://static.kivo.wiki/images/students/阿慈谷 日富美/avatar.png"
+      },
+      {
+        "description": "阿慈谷日富美(泳装)",
+        "url": "https://static.kivo.wiki/images/students/阿慈谷 日富美/泳装/avatar.png"
+      },
+      {
+        "description": "圣园未花",
+        "url": "https://static.kivo.wiki/images/students/圣园未花/avatar.png"
+      },
+      {
+        "description": "白洲梓",
+        "url": "https://static.kivo.wiki/images/students/白洲梓/avatar.png"
+      },
+      {
+        "description": "白洲梓(泳装)",
+        "url": "https://static.kivo.wiki/images/students/白洲 梓/泳装/avatar.png"
+      },
+      {
+        "description": "歌住樱子",
+        "url": "https://static.kivo.wiki/images/students/歌住 樱子/avatar.png"
+      },
+      {
+        "description": "歌住樱子(偶像)",
+        "url": "https://static.kivo.wiki/images/students/歌住 樱子/偶像/Student_Portrait_CH0274_Collection.png"
+      },
+      {
+        "description": "桐藤渚",
+        "url": "https://static.kivo.wiki/images/students/桐藤 渚/avatar.png"
+      },
+      {
+        "description": "栗村爱莉",
+        "url": "https://static.kivo.wiki/images/students/栗村 爱莉/avatar.png"
+      },
+      {
+        "description": "栗村爱莉(乐队)",
+        "url": "https://static.kivo.wiki/images/students/栗村 爱莉/乐队/avatar.png"
+      },
+      {
+        "description": "伊落玛丽",
+        "url": "https://static.kivo.wiki/images/students/伊落 玛丽/avatar.png"
+      },
+      {
+        "description": "伊落玛丽(体育服)",
+        "url": "https://static.kivo.wiki/images/students/伊落 玛丽/体育服/avatar.png"
+      },
+      {
+        "description": "伊落玛丽(偶像)",
+        "url": "https://static.kivo.wiki/images/students/伊落 玛丽/偶像/Student_Portrait_CH0273_Collection.png"
+      },
+      {
+        "description": "宇泽玲纱",
+        "url": "https://static.kivo.wiki/images/students/宇泽 玲纱/avatar.png"
+      },
+      {
+        "description": "静山真白",
+        "url": "https://static.kivo.wiki/images/students/静山 真白/avatar.png"
+      },
+      {
+        "description": "静山真白(泳装)",
+        "url": "https://static.kivo.wiki/images/students/静山 真白/泳装/avatar.png"
+      },
+      {
+        "description": "苍森美弥",
+        "url": "https://static.kivo.wiki/images/students/苍森 美弥/avatar.png"
+      },
+      {
+        "description": "苍森美弥(偶像)",
+        "url": "https://static.kivo.wiki/images/students/苍森 美弥/偶像/Student_Portrait_CH0275_Collection.png"
+      },
+      {
+        "description": "浦和花子",
+        "url": "https://static.kivo.wiki/images/students/浦和 花子/avatar.png"
+      },
+      {
+        "description": "浦和花子(泳装)",
+        "url": "https://static.kivo.wiki/images/students/浦和 花子/泳装/avatar.png"
+      },
+      {
+        "description": "朝颜花江",
+        "url": "https://static.kivo.wiki/images/students/朝颜 花江/avatar.png"
+      },
+      {
+        "description": "朝颜花江(圣诞节)",
+        "url": "https://static.kivo.wiki/images/students/朝颜 花江/圣诞节/avatar.png"
+      },
+      {
+        "description": "鹫见芹娜",
+        "url": "https://static.kivo.wiki/images/students/鹫见 芹娜/avatar.png"
+      },
+      {
+        "description": "鹫见芹娜(圣诞节)",
+        "url": "https://static.kivo.wiki/images/students/鹫见 芹娜/圣诞节/avatar.png"
+      },
+      {
+        "description": "羽川莲见",
+        "url": "https://static.kivo.wiki/images/students/羽川 莲见/avatar.png"
+      },
+      {
+        "description": "羽川莲见(体育服)",
+        "url": "https://static.kivo.wiki/images/students/羽川 莲见/体育服/avatar.png"
+      },
+      {
+        "description": "守月铃美",
+        "url": "https://static.kivo.wiki/images/students/守月 铃美/avatar.png"
+      },
+      {
+        "description": "剑先鹤城",
+        "url": "https://static.kivo.wiki/images/students/剑先 鹤城/avatar.png"
+      },
+      {
+        "description": "剑先鹤城(泳装)",
+        "url": "https://static.kivo.wiki/images/students/剑先 鹤城/泳装/avatar.png"
+      },
+      {
+        "description": "天雨亚子",
+        "url": "https://static.kivo.wiki/images/students/天雨 亚子/avatar.png"
+      },
+      {
+        "description": "天雨亚子(礼服)",
+        "url": "https://static.kivo.wiki/images/students/天雨 亚子/礼服/avatar.png"
+      },
+      {
+        "description": "枣伊吕波",
+        "url": "https://static.kivo.wiki/images/students/枣 伊吕波/avatar.png"
+      },
+      {
+        "description": "丹花伊吹",
+        "url": "https://static.kivo.wiki/images/students/丹花 伊吹/avatar.png"
+      },
+      {
+        "description": "银镜伊织",
+        "url": "https://static.kivo.wiki/images/students/银镜 伊织/avatar.png"
+      },
+      {
+        "description": "银镜伊织(泳装)",
+        "url": "https://static.kivo.wiki/images/students/银镜 伊织/泳装/avatar.png"
+      },
+      {
+        "description": "鬼方佳代子",
+        "url": "https://static.kivo.wiki/images/students/鬼方 佳代子/avatar.png"
+      },
+      {
+        "description": "鬼方佳代子(正月)",
+        "url": "https://static.kivo.wiki/images/students/鬼方 佳代子/正月/avatar.png"
+      },
+      {
+        "description": "鬼方佳代子(礼服)",
+        "url": "https://static.kivo.wiki/images/students/鬼方 佳代子/礼服/avatar.png"
+      },
+      {
+        "description": "火宫千夏",
+        "url": "https://static.kivo.wiki/images/students/火宫 千夏/avatar.png"
+      },
+      {
+        "description": "火宫千夏(温泉)",
+        "url": "https://static.kivo.wiki/images/students/火宫 千夏/温泉/avatar.png"
       },
       {
         "description": "元宫千明",
-        "url": "https://static.kivo.fun/images/students/千秋/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/元宫 千明/original/Student_Portrait_CH0238_Collection.png"
+      },
+      {
+        "description": "下仓惠",
+        "url": "https://static.kivo.wiki/images/students/下仓 惠/avatar.png"
+      },
+      {
+        "description": "空崎日奈",
+        "url": "https://static.kivo.wiki/images/students/空崎 日奈/avatar.png"
+      },
+      {
+        "description": "空崎日奈(泳装)",
+        "url": "https://static.kivo.wiki/images/students/空崎 日奈/泳装/avatar.png"
+      },
+      {
+        "description": "空崎日奈(礼服)",
+        "url": "https://static.kivo.wiki/images/students/空崎 日奈/礼服/avatar.png"
+      },
+      {
+        "description": "鳄渊明里",
+        "url": "https://static.kivo.wiki/images/students/鳄渊 明里/avatar.png"
+      },
+      {
+        "description": "鳄渊明里(正月)",
+        "url": "https://static.kivo.wiki/images/students/鳄渊 明里/正月/avatar.png"
+      },
+      {
+        "description": "黑馆晴奈",
+        "url": "https://static.kivo.wiki/images/students/黑馆 晴奈/avatar.png"
+      },
+      {
+        "description": "黑馆晴奈(体育服)",
+        "url": "https://static.kivo.wiki/images/students/黑馆 晴奈/体育服/avatar.png"
+      },
+      {
+        "description": "黑馆晴奈(正月)",
+        "url": "https://static.kivo.wiki/images/students/黑馆 晴奈/正月/avatar.png"
+      },
+      {
+        "description": "牛牧朱莉",
+        "url": "https://static.kivo.wiki/images/students/牛牧 茱莉/avatar.png"
+      },
+      {
+        "description": "牛牧朱莉(打工)",
+        "url": "https://static.kivo.wiki/images/students/牛牧 朱莉/打工/Student_Portrait_CH0286_Collection.png"
+      },
+      {
+        "description": "爱清枫香",
+        "url": "https://static.kivo.wiki/images/students/爱清 枫香/avatar.png"
+      },
+      {
+        "description": "爱清枫香(正月)",
+        "url": "https://static.kivo.wiki/images/students/爱清 枫香/正月/avatar.png"
+      },
+      {
+        "description": "爱清枫香(私服)",
+        "url": "https://static.kivo.wiki/images/students/爱清 枫香/私服/fuuka.png"
+      },
+      {
+        "description": "狮子堂泉",
+        "url": "https://static.kivo.wiki/images/students/狮子堂 泉/avatar.png"
       },
       {
         "description": "狮子堂泉(正月)",
-        "url": "https://static.kivo.fun/images/students/狮子堂 泉/正月/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/狮子堂 泉/正月/Student_Portrait_CH0197_Collection.png"
       },
       {
-        "description": "京极皐月",
-        "url": "https://static.kivo.fun/images/students/皐月/avatar.png"
+        "description": "狮子堂泉(泳装)",
+        "url": "https://static.kivo.wiki/images/students/狮子堂 泉/泳装/avatar.png"
+      },
+      {
+        "description": "冰室濑名",
+        "url": "https://static.kivo.wiki/images/students/冰室濑名/avatar.png"
+      },
+      {
+        "description": "冰室濑名(私服)",
+        "url": "https://static.kivo.wiki/images/students/冰室 濑名/私服/Student_Portrait_CH0082_Collection.png"
+      },
+      {
+        "description": "京极皋月",
+        "url": "https://static.kivo.wiki/images/students/京极 皋月/original/Student_Portrait_CH0080_Collection.png"
+      },
+      {
+        "description": "羽沼真琴",
+        "url": "https://static.kivo.wiki/images/students/羽沼 真琴/avatar.png"
+      },
+      {
+        "description": "浅黄睦月",
+        "url": "https://static.kivo.wiki/images/students/浅黄 睦月/avatar.png"
+      },
+      {
+        "description": "浅黄睦月(正月)",
+        "url": "https://static.kivo.wiki/images/students/浅黄 睦月/正月/avatar.png"
       },
       {
         "description": "浅黄睦月(礼服)",
-        "url": "https://static.kivo.fun/images/students/浅黄 睦月/礼服/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/浅黄 睦月/礼服/avatar.png"
       },
       {
         "description": "浅黄睦月(西装)",
-        "url": "https://static.kivo.fun/images/students/浅黄 睦月/西装/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/浅黄 睦月/西装/avatar.png"
+      },
+      {
+        "description": "赤司纯子",
+        "url": "https://static.kivo.wiki/images/students/赤司 纯子/avatar.png"
+      },
+      {
+        "description": "赤司纯子(正月)",
+        "url": "https://static.kivo.wiki/images/students/赤司 纯子/正月/avatar.png"
       },
       {
         "description": "旗见绘里香",
-        "url": "https://static.kivo.fun/images/students/旗见 艾丽卡/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/旗见 艾丽卡/avatar.png"
+      },
+      {
+        "description": "夜樱绮良",
+        "url": "https://static.kivo.wiki/images/students/夜樱 绮良/avatar.png"
+      },
+      {
+        "description": "伊草遥香",
+        "url": "https://static.kivo.wiki/images/students/伊草 春香/avatar.png"
+      },
+      {
+        "description": "伊草遥香(正月)",
+        "url": "https://static.kivo.wiki/images/students/伊草 遥香/正月/avatar.png"
       },
       {
         "description": "伊草遥香(礼服)",
-        "url": "https://static.kivo.fun/images/students/伊草 遥香/礼服/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/伊草 遥香/礼服/avatar.png"
       },
       {
         "description": "伊草遥香(西装)",
-        "url": "https://static.kivo.fun/images/students/伊草 遥香/西装/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/伊草 遥香/西装/avatar.png"
+      },
+      {
+        "description": "陆八魔阿露",
+        "url": "https://static.kivo.wiki/images/students/陆八魔 阿露/avatar.png"
+      },
+      {
+        "description": "陆八魔阿露(正月)",
+        "url": "https://static.kivo.wiki/images/students/陆八魔 阿露/正月/avatar.png"
+      },
+      {
+        "description": "陆八魔阿露(礼服)",
+        "url": "https://static.kivo.wiki/images/students/陆八魔 阿露/礼服/avatar.png"
+      },
+      {
+        "description": "鬼怒川霞",
+        "url": "https://static.kivo.wiki/images/students/鬼怒川 霞/original/avatar.png"
+      },
+      {
+        "description": "早濑优香",
+        "url": "https://static.kivo.wiki/images/students/早瀬 优香/avatar.png"
+      },
+      {
+        "description": "早濑优香(体育服)",
+        "url": "https://static.kivo.wiki/images/students/早濑 优香/avatar.png"
+      },
+      {
+        "description": "早濑优香(睡衣)",
+        "url": "https://static.kivo.wiki/images/students/早濑 优香/睡衣/Student_Portrait_CH0284_Collection.png"
+      },
+      {
+        "description": "各务千寻",
+        "url": "https://static.kivo.wiki/images/students/各务千寻/avatar.png"
+      },
+      {
+        "description": "各务千寻(睡衣)",
+        "url": "https://static.kivo.wiki/images/students/各务 千寻/睡衣/chihiro.png"
       },
       {
         "description": "各务千寻(露营)",
-        "url": "https://static.kivo.fun/images/students/各务 千寻/露营/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/各务 千寻/露营/avatar.png"
+      },
+      {
+        "description": "猫冢响",
+        "url": "https://static.kivo.wiki/images/students/猫冢 响/avatar.png"
+      },
+      {
+        "description": "猫冢响(应援团)",
+        "url": "https://static.kivo.wiki/images/students/猫塚 响/avatar.png"
+      },
+      {
+        "description": "乙花堇",
+        "url": "https://static.kivo.wiki/images/students/乙花 堇/avatar.png"
+      },
+      {
+        "description": "乙花堇(打工)",
+        "url": "https://static.kivo.wiki/images/students/乙花 堇/打工/Student_Portrait_CH0287_Collection.png"
+      },
+      {
+        "description": "美甘妮禄",
+        "url": "https://static.kivo.wiki/images/students/美甘 尼禄/avatar.png"
+      },
+      {
+        "description": "美甘妮禄(兔女郎)",
+        "url": "https://static.kivo.wiki/images/students/美甘 尼禄/兔女郎/avatar.png"
+      },
+      {
+        "description": "美甘妮禄(制服)",
+        "url": "https://static.kivo.wiki/images/students/美甘 妮禄/校服/Student_Portrait_CH0280_Collection.png"
+      },
+      {
+        "description": "音濑小玉",
+        "url": "https://static.kivo.wiki/images/students/音濑 小玉/avatar.png"
+      },
+      {
+        "description": "音濑小玉(睡衣)",
+        "url": "https://static.kivo.wiki/images/students/音濑 小玉/睡衣/kotama.png"
+      },
+      {
+        "description": "音濑小玉(露营)",
+        "url": "https://static.kivo.wiki/images/students/音濑 小玉/露营/avatar.png"
+      },
+      {
+        "description": "黑崎小雪",
+        "url": "https://static.kivo.wiki/images/students/黑崎 小雪/avatar.png"
       },
       {
         "description": "黑崎小雪(兔女郎)",
-        "url": "https://static.kivo.fun/images/students/黑崎 小雪/兔女郎/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/黑崎 小雪/兔女郎/avatar.png"
+      },
+      {
+        "description": "黑崎小雪(睡衣)",
+        "url": "https://static.kivo.wiki/images/students/黑崎 小雪/睡衣/koyuki.png"
+      },
+      {
+        "description": "丰见小鸟",
+        "url": "https://static.kivo.wiki/images/students/丰见 小鸟/avatar.png"
+      },
+      {
+        "description": "丰见小鸟(应援团)",
+        "url": "https://static.kivo.wiki/images/students/丰见 小鸟/应援团/avatar.png"
+      },
+      {
+        "description": "明星日鞠",
+        "url": "https://static.kivo.wiki/images/students/明星 日鞠/avatar.png"
+      },
+      {
+        "description": "飞鸟马时",
+        "url": "https://static.kivo.wiki/images/students/飞鸟马 时/avatar.png"
+      },
+      {
+        "description": "飞鸟马时(兔女郎)",
+        "url": "https://static.kivo.wiki/images/students/飞鸟马 时/兔女郎/avatar.png"
+      },
+      {
+        "description": "飞鸟马时(制服)",
+        "url": "https://static.kivo.wiki/images/students/飞鸟马 时/original/toki.png"
+      },
+      {
+        "description": "一之濑明日奈",
+        "url": "https://static.kivo.wiki/images/students/一之瀬 明日奈/avatar.png"
+      },
+      {
+        "description": "一之濑明日奈(兔女郎)",
+        "url": "https://static.kivo.wiki/images/students/一之濑 明日奈/兔女郎/avatar.png"
+      },
+      {
+        "description": "一之濑明日奈(制服)",
+        "url": "https://static.kivo.wiki/images/students/一之濑 明日奈/校服/Student_Portrait_CH0281_Collection.png"
+      },
+      {
+        "description": "小钩晴",
+        "url": "https://static.kivo.wiki/images/students/小钩 晴/avatar.png"
+      },
+      {
+        "description": "小钩晴(睡衣)",
+        "url": "https://static.kivo.wiki/images/students/小钩 晴/睡衣/hare.png"
+      },
+      {
+        "description": "小钩晴(露营)",
+        "url": "https://static.kivo.wiki/images/students/小钩 晴/露营/avatar.png"
+      },
+      {
+        "description": "未来",
+        "url": "https://static.kivo.wiki/images/students/ 未来/original/未来.png"
+      },
+      {
+        "description": "花冈柚子",
+        "url": "https://static.kivo.wiki/images/students/花冈 柚子/avatar.png"
+      },
+      {
+        "description": "花冈柚子(女仆)",
+        "url": "https://static.kivo.wiki/images/students/花冈 柚子/女仆/avatar.png"
+      },
+      {
+        "description": "才羽桃井",
+        "url": "https://static.kivo.wiki/images/students/才羽桃井/avatar.png"
+      },
+      {
+        "description": "才羽桃井(女仆)",
+        "url": "https://static.kivo.wiki/images/students/才羽 桃井/女仆/avatar.png"
+      },
+      {
+        "description": "白石歌原",
+        "url": "https://static.kivo.wiki/images/students/白石 歌原/avatar.png"
+      },
+      {
+        "description": "白石歌原(应援团)",
+        "url": "https://static.kivo.wiki/images/students/白石 歌原/应援团/avatar.png"
+      },
+      {
+        "description": "天童爱丽丝",
+        "url": "https://static.kivo.wiki/images/students/天童 爱丽丝/avatar.png"
+      },
+      {
+        "description": "天童爱丽丝(女仆)",
+        "url": "https://static.kivo.wiki/images/students/天童 爱丽丝/女仆/avatar.png"
+      },
+      {
+        "description": "小涂真纪",
+        "url": "https://static.kivo.wiki/images/students/小涂 真纪/avatar.png"
+      },
+      {
+        "description": "小涂真纪(睡衣)",
+        "url": "https://static.kivo.wiki/images/students/小涂 真纪/睡衣/maki.png"
       },
       {
         "description": "小涂真纪(露营)",
-        "url": "https://static.kivo.fun/images/students/小涂 真纪/露营/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/小涂 真纪/露营/Student_Portrait_CH0235_Collection.png"
+      },
+      {
+        "description": "才羽绿",
+        "url": "https://static.kivo.wiki/images/students/才羽绿/avatar.png"
+      },
+      {
+        "description": "才羽绿(女仆)",
+        "url": "https://static.kivo.wiki/images/students/才羽 绿/女仆/avatar.png"
+      },
+      {
+        "description": "和泉元艾米",
+        "url": "https://static.kivo.wiki/images/students/和泉元 艾米/avatar.png"
+      },
+      {
+        "description": "和泉元艾米(泳装)",
+        "url": "https://static.kivo.wiki/images/students/和泉元 艾米/泳装/avatar.png"
+      },
+      {
+        "description": "角楯花凛",
+        "url": "https://static.kivo.wiki/images/students/角楯 花凛/avatar.png"
+      },
+      {
+        "description": "角楯花凛(兔女郎)",
+        "url": "https://static.kivo.wiki/images/students/角楯 花凛/兔女郎/avatar.png"
+      },
+      {
+        "description": "角楯花凛(制服)",
+        "url": "https://static.kivo.wiki/images/students/角楯 花凛/校服/Student_Portrait_CH0282_Collection.png"
+      },
+      {
+        "description": "室笠茜",
+        "url": "https://static.kivo.wiki/images/students/室笠 茜/avatar.png"
+      },
+      {
+        "description": "室笠茜(兔女郎)",
+        "url": "https://static.kivo.wiki/images/students/室笠 茜/兔女郎/avatar.png"
+      },
+      {
+        "description": "室笠茜(制服)",
+        "url": "https://static.kivo.wiki/images/students/室笠 茜/校服/akane.png"
       },
       {
         "description": "调月莉音",
-        "url": "https://static.kivo.fun/images/students/莉音/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/调月 莉音/original/Student_Portrait_CH0158_Collection.png"
       },
       {
         "description": "野正莱依",
-        "url": "https://static.kivo.fun/images/students/玲/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/野正 莱依/original/Student_Portrait_CH0245_Collection.png"
+      },
+      {
+        "description": "生盐诺亚",
+        "url": "https://static.kivo.wiki/images/students/生盐 诺亚/avatar.png"
+      },
+      {
+        "description": "生盐诺亚(睡衣)",
+        "url": "https://static.kivo.wiki/images/students/生盐 诺亚/睡衣/Student_Portrait_CH0285_Collection.png"
       },
       {
         "description": "荒槇八云",
-        "url": "https://static.kivo.fun/images/students/八云/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/八云/avatar.png"
+      },
+      {
+        "description": "连河切里诺",
+        "url": "https://static.kivo.wiki/images/students/连河 切里诺/avatar.png"
       },
       {
         "description": "连河切里诺(旗袍)",
-        "url": "https://static.kivo.fun/images/students/连河 切里诺/original/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/连河 切里诺/original/avatar.png"
+      },
+      {
+        "description": "连河切里诺(温泉)",
+        "url": "https://static.kivo.wiki/images/students/连河 切利诺/温泉/avatar.png"
+      },
+      {
+        "description": "天见和香",
+        "url": "https://static.kivo.wiki/images/students/天见 和香/avatar.png"
+      },
+      {
+        "description": "天见和香(温泉)",
+        "url": "https://static.kivo.wiki/images/students/天见 和香/温泉/avatar.png"
+      },
+      {
+        "description": "安守实梨",
+        "url": "https://static.kivo.wiki/images/students/安守 未乃里/avatar.png"
+      },
+      {
+        "description": "间宵时雨",
+        "url": "https://static.kivo.wiki/images/students/间宵 时雨/avatar.png"
+      },
+      {
+        "description": "间宵时雨(温泉)",
+        "url": "https://static.kivo.wiki/images/students/间宵 时雨/温泉/avatar.png"
+      },
+      {
+        "description": "佐城智惠",
+        "url": "https://static.kivo.wiki/images/students/佐城 智惠/avatar.png"
+      },
+      {
+        "description": "佐城智惠(旗袍)",
+        "url": "https://static.kivo.wiki/images/students/佐城 智惠/旗袍/avatar.png"
+      },
+      {
+        "description": "姬木梅露",
+        "url": "https://static.kivo.wiki/images/students/姬木 梅露/original/avatar.png"
       },
       {
         "description": "姬木梅露(温泉)",
-        "url": "https://static.kivo.fun/images/students/姬木 爱瑠/温泉/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/姬木 爱瑠/温泉/avatar.png"
+      },
+      {
+        "description": "池仓玛丽娜",
+        "url": "https://static.kivo.wiki/images/students/池仓 玛利娜/avatar.png"
+      },
+      {
+        "description": "池仓玛丽娜(旗袍)",
+        "url": "https://static.kivo.wiki/images/students/池仓 玛丽娜/旗袍/avatar.png"
+      },
+      {
+        "description": "秋泉红叶",
+        "url": "https://static.kivo.wiki/images/students/秋泉 红叶/original/avatar.png"
       },
       {
         "description": "三善贵音",
-        "url": "https://static.kivo.fun/images/students/三善 贵音/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/三善 贵音/avatar.png"
+      },
+      {
+        "description": "「香主」",
+        "url": "https://static.kivo.wiki/images/students/ 「香主」/original/Common2.png"
       },
       {
         "description": "鹿山丽情",
-        "url": "https://static.kivo.fun/images/students/鹿山 丽情/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/鹿山 丽情/original/avatar.png"
       },
       {
         "description": "凛华",
-        "url": "https://static.kivo.fun/images/students/凛华/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/凛华/avatar.png"
+      },
+      {
+        "description": "近卫南",
+        "url": "https://static.kivo.wiki/images/students/佐藤 南/avatar.png"
       },
       {
         "description": "龙华妃咲",
-        "url": "https://static.kivo.fun/images/students/龙华 妃咲/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/龙华 妃咲/original/avatar.png"
+      },
+      {
+        "description": "春原心奈",
+        "url": "https://static.kivo.wiki/images/students/春原心奈/avatar.png"
       },
       {
         "description": "申谷海",
-        "url": "https://static.kivo.fun/images/students/申谷 廻/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/申谷 廻/avatar.png"
+      },
+      {
+        "description": "朱城留美",
+        "url": "https://static.kivo.wiki/images/students/朱城 留美/avatar.png"
+      },
+      {
+        "description": "春原瞬",
+        "url": "https://static.kivo.wiki/images/students/春原 瞬/avatar.png"
+      },
+      {
+        "description": "春原瞬(幼女)",
+        "url": "https://static.kivo.wiki/images/students/春原 瞬/幼女/avatar.png"
+      },
+      {
+        "description": "药子纱绫",
+        "url": "https://static.kivo.wiki/images/students/药子 纱绫/avatar.png"
+      },
+      {
+        "description": "药子纱绫(私服)",
+        "url": "https://static.kivo.wiki/images/students/药子 纱绫/私服/avatar.png"
       },
       {
         "description": "裴（CBT）",
-        "url": "https://static.kivo.fun/images/students/裴/CBT/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/裴/CBT/avatar.png"
       },
       {
         "description": "漆原辉夜",
-        "url": "https://static.kivo.fun/images/students/漆原 辉夜/original/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/漆原 辉夜/original/辉夜.png"
+      },
+      {
+        "description": "尾刃叶渚",
+        "url": "https://static.kivo.wiki/images/students/尾刃 叶渚/avatar.png"
+      },
+      {
+        "description": "尾刃叶渚(泳装)",
+        "url": "https://static.kivo.wiki/images/students/尾刃 叶渚/泳装/avatar.png"
+      },
+      {
+        "description": "合欢垣吹雪",
+        "url": "https://static.kivo.wiki/images/students/合欢垣 吹雪/avatar.png"
+      },
+      {
+        "description": "合欢垣吹雪(泳装)",
+        "url": "https://static.kivo.wiki/images/students/合欢垣 吹雪/泳装/avatar.png"
       },
       {
         "description": "心华",
-        "url": "https://static.kivo.fun/images/students/ 木乃香/original/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/ 木乃香/original/avatar.png"
+      },
+      {
+        "description": "中务桐乃",
+        "url": "https://static.kivo.wiki/images/students/中务 桐乃/avatar.png"
+      },
+      {
+        "description": "中务桐乃(泳装)",
+        "url": "https://static.kivo.wiki/images/students/中务 桐乃/泳装/avatar.png"
+      },
+      {
+        "description": "和乐千世",
+        "url": "https://static.kivo.wiki/images/students/和乐 千世/avatar.png"
+      },
+      {
+        "description": "和乐千世(泳装)",
+        "url": "https://static.kivo.wiki/images/students/和乐 千世/泳装/avatar.png"
       },
       {
         "description": "御稜名草",
-        "url": "https://static.kivo.fun/images/students/御稜 名草/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/御稜 名草/avatar.png"
       },
       {
         "description": "天地尼娅",
-        "url": "https://static.kivo.fun/images/students/天地 尼娅/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/天地 尼娅/avatar.png"
+      },
+      {
+        "description": "水羽弥守",
+        "url": "https://static.kivo.wiki/images/students/水羽弥守/avatar.png"
+      },
+      {
+        "description": "水羽弥守(泳装)",
+        "url": "https://static.kivo.wiki/images/students/水羽 弥守/泳装/avatar.png"
       },
       {
         "description": "新",
-        "url": "https://static.kivo.fun/images/students/新/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/新/avatar.png"
+      },
+      {
+        "description": "大野月咏",
+        "url": "https://static.kivo.wiki/images/students/大野 月咏/avatar.png"
+      },
+      {
+        "description": "桑上果穗",
+        "url": "https://static.kivo.wiki/images/students/桑上 果穗/avatar.png"
+      },
+      {
+        "description": "勇美枫",
+        "url": "https://static.kivo.wiki/images/students/勇美 枫/avatar.png"
       },
       {
         "description": "勇美枫(导游)",
-        "url": "https://static.kivo.fun/images/students/勇美 枫/导游/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/勇美 枫/导游/avatar.png"
+      },
+      {
+        "description": "桐生桔梗",
+        "url": "https://static.kivo.wiki/images/students/桐生 桔梗/avatar.png"
       },
       {
         "description": "箭吹棕榈",
-        "url": "https://static.kivo.fun/images/students/箭吹 棕榈/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/箭吹 棕榈/avatar.png"
+      },
+      {
+        "description": "春日椿",
+        "url": "https://static.kivo.wiki/images/students/春日 椿/avatar.png"
+      },
+      {
+        "description": "春日椿(导游)",
+        "url": "https://static.kivo.wiki/images/students/春日 椿/导游/avatar.png"
+      },
+      {
+        "description": "久田泉奈",
+        "url": "https://static.kivo.wiki/images/students/久田 泉奈/avatar.png"
+      },
+      {
+        "description": "久田泉奈(泳装)",
+        "url": "https://static.kivo.wiki/images/students/久田 泉奈/泳装/avatar.png"
+      },
+      {
+        "description": "里滨海夏",
+        "url": "https://static.kivo.wiki/images/students/里浜 海夏/avatar.png"
+      },
+      {
+        "description": "千鸟满",
+        "url": "https://static.kivo.wiki/images/students/千鸟 满/avatar.png"
+      },
+      {
+        "description": "勘解由小路紫",
+        "url": "https://static.kivo.wiki/images/students/勘解由小路 紫/avatar.png"
+      },
+      {
+        "description": "狐坂若藻",
+        "url": "https://static.kivo.wiki/images/students/狐坂若藻/avatar.png"
+      },
+      {
+        "description": "狐坂若藻(泳装)",
+        "url": "https://static.kivo.wiki/images/students/狐坂 若藻/avatar.png"
+      },
+      {
+        "description": "不破莲华",
+        "url": "https://static.kivo.wiki/images/students/不破 莲华/avatar.png"
+      },
+      {
+        "description": "朝比奈菲娜",
+        "url": "https://static.kivo.wiki/images/students/朝比奈 菲娜/avatar.png"
       },
       {
         "description": "朝比奈菲娜(导游)",
-        "url": "https://static.kivo.fun/images/students/朝比奈 菲娜/导游/avatar.png"
-      },
-      {
-        "description": "葛叶",
-        "url": "https://static.kivo.fun/images/students/葛叶/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/朝比奈 菲娜/导游/avatar.png"
       },
       {
         "description": "虞美人",
-        "url": "https://static.kivo.fun/images/students/虞美人/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/虞美人/avatar.png"
+      },
+      {
+        "description": "河和静子",
+        "url": "https://static.kivo.wiki/images/students/河和 静子/avatar.png"
+      },
+      {
+        "description": "河和静子(泳装)",
+        "url": "https://static.kivo.wiki/images/students/河和 静子/泳装/avatar.png"
+      },
+      {
+        "description": "秤亚津子",
+        "url": "https://static.kivo.wiki/images/students/秤 亚津子/avatar.png"
+      },
+      {
+        "description": "秤亚津子(泳装)",
+        "url": "https://static.kivo.wiki/images/students/秤 亚津子/泳装/avatar.png"
+      },
+      {
+        "description": "槌永日和",
+        "url": "https://static.kivo.wiki/images/students/槌永 日和/avatar.png"
+      },
+      {
+        "description": "槌永日和(泳装)",
+        "url": "https://static.kivo.wiki/images/students/槌永 日和/泳装/avatar.png"
+      },
+      {
+        "description": "锭前纱织",
+        "url": "https://static.kivo.wiki/images/students/锭前 纱织/avatar.png"
+      },
+      {
+        "description": "锭前纱织(泳装)",
+        "url": "https://static.kivo.wiki/images/students/锭前 纱织/泳装/avatar.png"
       },
       {
         "description": "锭前纱织(礼服)",
-        "url": "https://static.kivo.fun/images/students/锭前 纱织/礼服/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/锭前 纱织/礼服/avatar.png"
+      },
+      {
+        "description": "戒野美咲",
+        "url": "https://static.kivo.wiki/images/students/戒野 美咲/avatar.png"
       },
       {
         "description": "戒野美咲(泳装)",
-        "url": "https://static.kivo.fun/images/students/戒野 美咲/泳装/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/戒野 美咲/泳装/泳装美咲.png"
+      },
+      {
+        "description": "空井咲",
+        "url": "https://static.kivo.wiki/images/students/空井咲/avatar.png"
+      },
+      {
+        "description": "空井咲(泳装)",
+        "url": "https://static.kivo.wiki/images/students/空井 咲/泳装/avatar.png"
       },
       {
         "description": "妮可",
-        "url": "https://static.kivo.fun/images/students/妮可/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/妮可/avatar.png"
+      },
+      {
+        "description": "月雪宫子",
+        "url": "https://static.kivo.wiki/images/students/月雪宫子/avatar.png"
+      },
+      {
+        "description": "月雪宫子(泳装)",
+        "url": "https://static.kivo.wiki/images/students/月雪 宫子/泳装/avatar.png"
+      },
+      {
+        "description": "霞泽美游",
+        "url": "https://static.kivo.wiki/images/students/霞泽美游/avatar.png"
+      },
+      {
+        "description": "霞泽美游(泳装)",
+        "url": "https://static.kivo.wiki/images/students/霞泽 美游/泳装/avatar.png"
       },
       {
         "description": "胡桃",
-        "url": "https://static.kivo.fun/images/students/胡桃/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/胡桃/avatar.png"
+      },
+      {
+        "description": "风仓萌绘",
+        "url": "https://static.kivo.wiki/images/students/风仓萌绘/avatar.png"
+      },
+      {
+        "description": "风仓萌绘(泳装)",
+        "url": "https://static.kivo.wiki/images/students/风仓 萌绘/泳装/avatar.png"
       },
       {
         "description": "七度雪乃",
-        "url": "https://static.kivo.fun/images/students/七度 雪乃/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/七度 雪乃/avatar.png"
       },
       {
         "description": "音葵",
-        "url": "https://static.kivo.fun/images/students/音葵/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/音葵/avatar.png"
       },
       {
         "description": "风卷舞",
-        "url": "https://static.kivo.fun/images/students/舞/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/舞/avatar.png"
       },
       {
         "description": "川流诗乃",
-        "url": "https://static.kivo.fun/images/students/川流 诗乃/avatar.png"
-      },
-      {
-        "description": "奈央（CBT）",
-        "url": "https://static.kivo.fun/images/students/奈央/CBT/avatar.png"
-      },
-      {
-        "description": "康娜（CBT）",
-        "url": "https://static.kivo.fun/images/students/Kanna/CBT/avatar.png"
-      },
-      {
-        "description": "由加利（CBT）",
-        "url": "https://static.kivo.fun/images/students/由加利/CBT/avatar.png"
-      },
-      {
-        "description": "米莉亚（CBT）",
-        "url": "https://static.kivo.fun/images/students/米莉亚/CBT/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/川流 诗乃/avatar.png"
       },
       {
         "description": "椎名纺",
-        "url": "https://static.kivo.fun/images/students/䌷/avatar.png"
-      },
-      {
-        "description": "露音（CBT）",
-        "url": "https://static.kivo.fun/images/students/露音/CBT/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/䌷/avatar.png"
       },
       {
         "description": "河驹风兰舞",
-        "url": "https://static.kivo.fun/images/students/兰舞/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/兰舞/avatar.png"
       },
       {
         "description": "河驹风兰舞(泳装)",
-        "url": "https://static.kivo.fun/images/students/河驹风 兰舞/泳装/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/河驹风 兰舞/泳装/avatar.png"
+      },
+      {
+        "description": "马路库特",
+        "url": "https://static.kivo.wiki/images/students/ 马路库特/original/malkuth.png"
       },
       {
         "description": "橘光",
-        "url": "https://static.kivo.fun/images/students/海兰德双子A/avatar.jpg"
+        "url": "https://static.kivo.wiki/images/students/橘 光/original/光.png"
       },
       {
         "description": "朝雾周防",
-        "url": "https://static.kivo.fun/images/students/朝雾 周防/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/朝雾 周防/avatar.png"
       },
       {
         "description": "橘望",
-        "url": "https://static.kivo.fun/images/students/海兰德双子B/avatar.jpg"
+        "url": "https://static.kivo.wiki/images/students/橘 望/original/望.png"
+      },
+      {
+        "description": "奈央（CBT）",
+        "url": "https://static.kivo.wiki/images/students/奈央/CBT/avatar.png"
+      },
+      {
+        "description": "康娜（CBT）",
+        "url": "https://static.kivo.wiki/images/students/Kanna/CBT/avatar.png"
+      },
+      {
+        "description": "微笑教授",
+        "url": "https://static.kivo.wiki/images/students/ 微笑教授/original/教授.png"
+      },
+      {
+        "description": "栗滨明美",
+        "url": "https://static.kivo.wiki/images/students/栗滨 明美/original/姐贵.png"
       },
       {
         "description": "清澄晶",
-        "url": "https://static.kivo.fun/images/students/清澄 晶/avatar.png"
+        "url": "https://static.kivo.wiki/images/students/清澄 晶/avatar.png"
+      },
+      {
+        "description": "由加利（CBT）",
+        "url": "https://static.kivo.wiki/images/students/由加利/CBT/avatar.png"
+      },
+      {
+        "description": "米莉亚（CBT）",
+        "url": "https://static.kivo.wiki/images/students/米莉亚/CBT/avatar.png"
+      },
+      {
+        "description": "露音（CBT）",
+        "url": "https://static.kivo.wiki/images/students/露音/CBT/avatar.png"
+      },
+      {
+        "description": "初音未来",
+        "url": "https://static.kivo.wiki/images/students/初音 未来/avatar.png"
+      },
+      {
+        "description": "食蜂操祈",
+        "url": "https://static.kivo.wiki/images/students/食蜂 操祈/avatar.png"
+      },
+      {
+        "description": "佐天泪子",
+        "url": "https://static.kivo.wiki/images/students/佐天 泪子/avatar.png"
+      },
+      {
+        "description": "御坂美琴",
+        "url": "https://static.kivo.wiki/images/students/御坂 美琴/avatar.png"
       }
     ]
   },
@@ -1064,6 +1144,10 @@
         "url": "https://patchwiki.biligame.com/images/umamusume/thumb/1/13/rou9qz3ci4nqnoj5f5ifsau9idiquc5.png/100px-Chr_icon_1004_100402_01.png"
       },
       {
+        "description": "【祝ひ寿ぐ神速天女】丸善斯基",
+        "url": "https://patchwiki.biligame.com/images/umamusume/thumb/8/82/qmgzyzgodjjkmappurdursp6ww5dcx3.png/100px-Chr_icon_1004_100403_01.png"
+      },
+      {
         "description": "富士奇迹",
         "url": "https://patchwiki.biligame.com/images/umamusume/thumb/f/f1/401ez4dqmogz7qbiyouqyr4ytjxgcdl.png/100px-Chr_icon_1005_100501_01.png"
       },
@@ -1106,6 +1190,10 @@
       {
         "description": "【セイントジェード・ヒーラー】草上飞",
         "url": "https://patchwiki.biligame.com/images/umamusume/thumb/d/d9/29w6hgblitwriahe4uwh116j6p9ht7d.png/100px-Chr_icon_1011_101102_01.png"
+      },
+      {
+        "description": "【蒼炎の誉】草上飞",
+        "url": "https://patchwiki.biligame.com/images/umamusume/thumb/7/71/l9biuvg1v8ibodbw9uzzdbs0iqejnaz.png/100px-Chr_icon_1011_101103_01.png"
       },
       {
         "description": "菱亚马逊",
@@ -1200,8 +1288,16 @@
         "url": "https://patchwiki.biligame.com/images/umamusume/thumb/8/8f/rbxeu278ccawjlt64k08475kgknaav8.png/100px-Chr_icon_1023_102302_01.png"
       },
       {
+        "description": "【Engineered Victory】琵琶晨光",
+        "url": "https://patchwiki.biligame.com/images/umamusume/thumb/5/57/62a78lqj8yl4yyj4z5io6ujikozp919.png/100px-Chr_icon_1023_102303_01.png"
+      },
+      {
         "description": "【サンライト·ブ一ケ】摩耶重炮",
         "url": "https://patchwiki.biligame.com/images/umamusume/thumb/b/bc/0la67lzig3bhn9t2m12wqu3uvvv2tc8.png/100px-Chr_icon_1024_102402_01.png"
+      },
+      {
+        "description": "【ろっきん☆MewMeow】摩耶重炮",
+        "url": "https://patchwiki.biligame.com/images/umamusume/thumb/4/47/bq2kgvc4f92pofggkn5gdzanrhb1z77.png/100px-Chr_icon_1024_102403_01.png"
       },
       {
         "description": "曼城茶座",
@@ -1266,6 +1362,10 @@
       {
         "description": "爱慕织姬",
         "url": "https://patchwiki.biligame.com/images/umamusume/thumb/d/dd/qbqowwstr3s6tq9q4v1xky6vqtpwvwf.png/100px-Chr_icon_1033_103301_01.png"
+      },
+      {
+        "description": "【Glacialis Vega】爱慕织姬",
+        "url": "https://patchwiki.biligame.com/images/umamusume/thumb/0/08/js9oa2jznuebhrw5dj9p3a3h3l6xna0.png/100px-Chr_icon_1033_103302_01.png"
       },
       {
         "description": "稻荷一",
@@ -1336,6 +1436,10 @@
         "url": "https://patchwiki.biligame.com/images/umamusume/thumb/4/48/nhu57vnlwk3yy8y6pk2w3as5kfn7xo2.png/100px-Chr_icon_1042_104201_01.png"
       },
       {
+        "description": "【Be♪Witched】采珠",
+        "url": "https://patchwiki.biligame.com/images/umamusume/thumb/a/a1/aqslzl1qhy4ua1hf4hlbues3poy37tu.png/100px-Chr_icon_1042_104202_01.png"
+      },
+      {
         "description": "新光风",
         "url": "https://patchwiki.biligame.com/images/umamusume/thumb/c/cd/h7z4tkdt3zjcmup9ltv569y7t29mr7b.png/100px-Chr_icon_1043_104301_01.png"
       },
@@ -1392,6 +1496,10 @@
         "url": "https://patchwiki.biligame.com/images/umamusume/thumb/0/0b/hke9udzvm2c7rr5jg7s8jry9nxm93ob.png/100px-Chr_icon_1050_105002_01.png"
       },
       {
+        "description": "【迷光オーヴァライド】成田大进",
+        "url": "https://patchwiki.biligame.com/images/umamusume/thumb/f/f5/q75005t5jznykqui9yga84fa13q4apc.png/100px-Chr_icon_1050_105003_01.png"
+      },
+      {
         "description": "西野花",
         "url": "https://patchwiki.biligame.com/images/umamusume/thumb/7/7c/7zipbyvsopzlsbeazfka5pk06rr6m66.png/100px-Chr_icon_1051_105101_01.png"
       },
@@ -1422,6 +1530,10 @@
       {
         "description": "千明代表",
         "url": "https://patchwiki.biligame.com/images/umamusume/thumb/c/c2/6ckqexbqwx0g4q2wl8r0kje6s3vqr5y.png/100px-Chr_icon_1057_105701_01.png"
+      },
+      {
+        "description": "【絢爛花道歌舞く君】千明代表",
+        "url": "https://patchwiki.biligame.com/images/umamusume/thumb/e/ef/q9jm1ias97sbmpkp3m3p1m44xr8znna.png/100px-Chr_icon_1057_105702_01.png"
       },
       {
         "description": "名将怒涛",
@@ -1544,8 +1656,20 @@
         "url": "https://patchwiki.biligame.com/images/umamusume/thumb/2/2d/jyiroeard8g68o5wyk4kooamnghylwp.png/100px-Chr_icon_1077_107701_01.png"
       },
       {
+        "description": "【Celestial Road】成田路",
+        "url": "https://patchwiki.biligame.com/images/umamusume/thumb/c/c1/5ohii95mub0uovfhzm9nvajb6n4u0to.png/100px-Chr_icon_1077_107702_01.png"
+      },
+      {
         "description": "也文摄辉",
         "url": "https://patchwiki.biligame.com/images/umamusume/thumb/1/14/r4oe6dz6w03wwey738ocgr376vnq3uw.png/100px-Chr_icon_1078_107801_01.png"
+      },
+      {
+        "description": "【Sugary Wind】也文摄辉",
+        "url": "https://patchwiki.biligame.com/images/umamusume/thumb/4/4d/htie6l5f7rjdje60mzhhmasm3891acg.png/100px-Chr_icon_1078_107802_01.png"
+      },
+      {
+        "description": "狂怒乐章",
+        "url": "https://patchwiki.biligame.com/images/umamusume/thumb/e/e6/9831o3hy7w5ykhul407ksetktxfn92c.png/100px-Chr_icon_1079_107901_01.png"
       },
       {
         "description": "创升",
@@ -1584,6 +1708,10 @@
         "url": "https://patchwiki.biligame.com/images/umamusume/thumb/2/2c/7tcezf5gjotfmw2hw92bc0dtvyw6vou.png/100px-Chr_icon_1087_108701_01.png"
       },
       {
+        "description": "【溶けない砂糖菓子】真弓快车",
+        "url": "https://patchwiki.biligame.com/images/umamusume/thumb/f/f2/f7714v1kwwwqbru2mxnlxuc95x22jt7.png/100px-Chr_icon_1087_108702_01.png"
+      },
+      {
         "description": "里见皇冠",
         "url": "https://patchwiki.biligame.com/images/umamusume/thumb/f/f6/nhjfux683q7i29l113tmhjy42n60hqo.png/100px-Chr_icon_1088_108801_01.png"
       },
@@ -1602,6 +1730,10 @@
       {
         "description": "森林宝穴",
         "url": "https://patchwiki.biligame.com/images/umamusume/thumb/5/53/2k7mwmnalcfyvvadrz2c4555da690t3.png/100px-Chr_icon_1094_109401_01.png"
+      },
+      {
+        "description": "莫名其妙",
+        "url": "https://patchwiki.biligame.com/images/umamusume/thumb/b/b7/3dzgwfpbg30xwawtcwt47bn3vg5anj5.png/100px-Chr_icon_1096_109601_01.png"
       },
       {
         "description": "小林历奇",
@@ -1628,6 +1760,10 @@
         "url": "https://patchwiki.biligame.com/images/umamusume/thumb/b/bc/autnhh344jxbx6ss61ws0ed3svcikyc.png/100px-Chr_icon_1104_110401_01.png"
       },
       {
+        "description": "【雅号・墨龍】葛城王牌",
+        "url": "https://patchwiki.biligame.com/images/umamusume/thumb/f/fc/rrnjqt6i0q1799zd0ik2my0x9zi759m.png/100px-Chr_icon_1104_110402_01.png"
+      },
+      {
         "description": "新宇宙",
         "url": "https://patchwiki.biligame.com/images/umamusume/thumb/e/e8/906duo40f95i0awsj2dt3g497a9afft.png/100px-Chr_icon_1105_110501_01.png"
       },
@@ -1652,8 +1788,24 @@
         "url": "https://patchwiki.biligame.com/images/umamusume/thumb/3/3a/83q4gk6uw2f80if4rea7mcmf98eb8dl.png/100px-Chr_icon_1109_110901_01.png"
       },
       {
+        "description": "西沙里奥",
+        "url": "https://patchwiki.biligame.com/images/umamusume/thumb/1/19/7fztctailu964ku6e6h3gu939cz0uye.png/100px-Chr_icon_1110_111001_01.png"
+      },
+      {
+        "description": "空中救世主",
+        "url": "https://patchwiki.biligame.com/images/umamusume/thumb/6/62/jl2l36cc2lqhta4r436m61u95mzy2x3.png/100px-Chr_icon_1111_111101_01.png"
+      },
+      {
+        "description": "黄金巨匠",
+        "url": "https://patchwiki.biligame.com/images/umamusume/thumb/8/83/bbr6e8rebtspanl316qar1o0cndr8n1.png/100px-Chr_icon_1115_111501_01.png"
+      },
+      {
         "description": "贵妇人",
         "url": "https://patchwiki.biligame.com/images/umamusume/thumb/e/e7/eoiwfwqduvakap66kqr5vampejutuwq.png/100px-Chr_icon_1116_111601_01.png"
+      },
+      {
+        "description": "凯旋芭蕾",
+        "url": "https://patchwiki.biligame.com/images/umamusume/thumb/d/d4/0smdzkoa2w627zust8z0jjh3mjmm44q.png/100px-Chr_icon_1117_111701_01.png"
       },
       {
         "description": "梦之旅",
@@ -1662,11 +1814,35 @@
       {
         "description": "金镇之光",
         "url": "https://patchwiki.biligame.com/images/umamusume/thumb/a/a2/18xyv70l1dm0jkw2jep8wf5puycmt62.png/100px-Chr_icon_1120_112001_01.png"
+      },
+      {
+        "description": "多旺达",
+        "url": "https://patchwiki.biligame.com/images/umamusume/thumb/7/7d/gkdxe2ntoq8imgriipz6xqnkqzkmf16.png/100px-Chr_icon_1121_112101_01.png"
+      },
+      {
+        "description": "吹波糖",
+        "url": "https://patchwiki.biligame.com/images/umamusume/thumb/0/02/t9i0kce42jyzxivxokkaij2jzox23hp.png/100px-Chr_icon_1124_112401_01.png"
+      },
+      {
+        "description": "放声欢呼",
+        "url": "https://patchwiki.biligame.com/images/umamusume/thumb/c/c8/5szputfgq475b3ezswwvvinceqm1o9m.png/100px-Chr_icon_1131_113101_01.png"
       }
     ]
   },
   "starRail": {
     "male": [
+      {
+        "description": "万敌",
+        "url": "https://patchwiki.biligame.com/images/sr/d/d9/0dyo0uk3edcfpjbz82qbwep032ge0m4.png"
+      },
+      {
+        "description": "星期日",
+        "url": "https://patchwiki.biligame.com/images/sr/8/8d/65lqy256fqzq7jiaznl1bys2ito0oez.png"
+      },
+      {
+        "description": "貊泽",
+        "url": "https://patchwiki.biligame.com/images/sr/6/61/rkegujumye2mz2bddqhg976ijosbv0k.png"
+      },
       {
         "description": "椒丘",
         "url": "https://patchwiki.biligame.com/images/sr/e/e0/qaochn30qkct2gzvcop1l7galoy9d63.png"
@@ -1728,12 +1904,12 @@
         "url": "https://patchwiki.biligame.com/images/sr/8/87/54l5z1oah8mtzujm4ceha0sn121mpv7.png"
       },
       {
-        "description": "阿兰",
-        "url": "https://patchwiki.biligame.com/images/sr/e/e3/h92y0hgibbww0f4ayg9xsc9lkkrbm1t.png"
-      },
-      {
         "description": "桑博",
         "url": "https://patchwiki.biligame.com/images/sr/4/4f/o084kh5szvjt4c9pg2u5u0djj3qg8xt.png"
+      },
+      {
+        "description": "阿兰",
+        "url": "https://patchwiki.biligame.com/images/sr/e/e3/h92y0hgibbww0f4ayg9xsc9lkkrbm1t.png"
       },
       {
         "description": "丹恒",
@@ -1741,6 +1917,34 @@
       }
     ],
     "female": [
+      {
+        "description": "缇宝",
+        "url": "https://patchwiki.biligame.com/images/sr/1/16/s15opurtx1s67wf670orxm0ysqnr7nk.png"
+      },
+      {
+        "description": "阿格莱雅",
+        "url": "https://patchwiki.biligame.com/images/sr/b/b3/js5tt9qxs66y1o04vi921zmgsrt54le.png"
+      },
+      {
+        "description": "大黑塔",
+        "url": "https://patchwiki.biligame.com/images/sr/0/0f/k7y0cams5glai70zx3zq20dy4nvzcbp.png"
+      },
+      {
+        "description": "忘归人",
+        "url": "https://patchwiki.biligame.com/images/sr/b/b7/knwf151e2owlehhkauisj3wlcpqg4gh.png"
+      },
+      {
+        "description": "乱破",
+        "url": "https://patchwiki.biligame.com/images/sr/0/0d/3wrmrv02fzul9srx9ft5r4ytbzh02ip.png"
+      },
+      {
+        "description": "灵砂",
+        "url": "https://patchwiki.biligame.com/images/sr/6/60/kwdehoxn9net3nsjwub5r16ix6ipofo.png"
+      },
+      {
+        "description": "飞霄",
+        "url": "https://patchwiki.biligame.com/images/sr/d/df/iq1o5mvremm66200xe7a5klm5lb1vc4.png"
+      },
       {
         "description": "云璃",
         "url": "https://patchwiki.biligame.com/images/sr/d/d9/q1kzn8lehteph6x95tlyzjzf9re3ek8.png"
@@ -1822,24 +2026,28 @@
         "url": "https://patchwiki.biligame.com/images/sr/6/6a/fy5jpy31k53qtntk0aetrjq9ior9gs2.png"
       },
       {
-        "description": "白露",
-        "url": "https://patchwiki.biligame.com/images/sr/e/e9/8o1y9m2cxem13m623px85i0kpcec8f5.png"
+        "description": "希儿",
+        "url": "https://patchwiki.biligame.com/images/sr/3/38/3ugfna3k4fw7dfo0qipt4lfrctt50x0.png"
       },
       {
-        "description": "姬子",
-        "url": "https://patchwiki.biligame.com/images/sr/7/73/gbf9yt1fk2878nc3hmvdv1kodx49ieg.png"
+        "description": "白露",
+        "url": "https://patchwiki.biligame.com/images/sr/e/e9/8o1y9m2cxem13m623px85i0kpcec8f5.png"
       },
       {
         "description": "克拉拉",
         "url": "https://patchwiki.biligame.com/images/sr/5/55/57uq8vc3fvs2m34t6ha06rf03343rzn.png"
       },
       {
-        "description": "希儿",
-        "url": "https://patchwiki.biligame.com/images/sr/3/38/3ugfna3k4fw7dfo0qipt4lfrctt50x0.png"
-      },
-      {
         "description": "布洛妮娅",
         "url": "https://patchwiki.biligame.com/images/sr/c/ca/agb28atc6hthmiwkqomw4kmtuidzyt9.png"
+      },
+      {
+        "description": "姬子",
+        "url": "https://patchwiki.biligame.com/images/sr/7/73/gbf9yt1fk2878nc3hmvdv1kodx49ieg.png"
+      },
+      {
+        "description": "素裳",
+        "url": "https://patchwiki.biligame.com/images/sr/a/a8/185ah8131wpphlzanol8nz8509jxqhr.png"
       },
       {
         "description": "停云",
@@ -1850,12 +2058,12 @@
         "url": "https://patchwiki.biligame.com/images/sr/4/40/szkhonn9zbsqwp4fd3g4t88a5mdo94w.png"
       },
       {
-        "description": "黑塔",
-        "url": "https://patchwiki.biligame.com/images/sr/2/29/mqe2vm7uhe42uhaw76pvhmnpsjm48s8.png"
+        "description": "虎克",
+        "url": "https://patchwiki.biligame.com/images/sr/d/d9/cng0jc28j1hikbidgetsoyeq81pp2he.png"
       },
       {
-        "description": "素裳",
-        "url": "https://patchwiki.biligame.com/images/sr/a/a8/185ah8131wpphlzanol8nz8509jxqhr.png"
+        "description": "佩拉",
+        "url": "https://patchwiki.biligame.com/images/sr/4/48/0yerfr40s6ls15ousv1pu8clfeeur5j.png"
       },
       {
         "description": "娜塔莎",
@@ -1866,25 +2074,41 @@
         "url": "https://patchwiki.biligame.com/images/sr/1/19/algq66demezhksajce9t8s6df8f6qv0.png"
       },
       {
-        "description": "佩拉",
-        "url": "https://patchwiki.biligame.com/images/sr/4/48/0yerfr40s6ls15ousv1pu8clfeeur5j.png"
-      },
-      {
-        "description": "虎克",
-        "url": "https://patchwiki.biligame.com/images/sr/d/d9/cng0jc28j1hikbidgetsoyeq81pp2he.png"
-      },
-      {
-        "description": "三月七",
-        "url": "https://patchwiki.biligame.com/images/sr/6/62/bke5waazntxa8nmxz85ix881v4318fv.png"
+        "description": "黑塔",
+        "url": "https://patchwiki.biligame.com/images/sr/2/29/mqe2vm7uhe42uhaw76pvhmnpsjm48s8.png"
       },
       {
         "description": "艾丝妲",
         "url": "https://patchwiki.biligame.com/images/sr/b/bf/st0z27ry91aovv8okirwqtbhwygaex7.png"
+      },
+      {
+        "description": "三月七",
+        "url": "https://patchwiki.biligame.com/images/sr/6/62/bke5waazntxa8nmxz85ix881v4318fv.png"
       }
     ]
   },
   "arknights": {
     "male": [
+      {
+        "description": "诺威尔",
+        "url": "https://media.prts.wiki/6/69/头像_诺威尔.png"
+      },
+      {
+        "description": "余",
+        "url": "https://media.prts.wiki/6/66/头像_余.png"
+      },
+      {
+        "description": "引星棘刺",
+        "url": "https://media.prts.wiki/3/3b/头像_引星棘刺.png"
+      },
+      {
+        "description": "裁度",
+        "url": "https://media.prts.wiki/4/4a/头像_裁度.png"
+      },
+      {
+        "description": "波卜",
+        "url": "https://media.prts.wiki/d/d5/头像_波卜.png"
+      },
       {
         "description": "莱欧斯",
         "url": "https://media.prts.wiki/9/9c/头像_莱欧斯.png"
@@ -2223,6 +2447,70 @@
       }
     ],
     "female": [
+      {
+        "description": "死芒",
+        "url": "https://media.prts.wiki/d/d9/头像_死芒.png"
+      },
+      {
+        "description": "钼铅",
+        "url": "https://media.prts.wiki/2/20/头像_钼铅.png"
+      },
+      {
+        "description": "水灯心",
+        "url": "https://media.prts.wiki/3/3b/头像_水灯心.png"
+      },
+      {
+        "description": "隐德来希",
+        "url": "https://media.prts.wiki/4/4c/头像_隐德来希.png"
+      },
+      {
+        "description": "烛煌",
+        "url": "https://media.prts.wiki/c/c4/头像_烛煌.png"
+      },
+      {
+        "description": "寻澜",
+        "url": "https://media.prts.wiki/6/65/头像_寻澜.png"
+      },
+      {
+        "description": "行箸",
+        "url": "https://media.prts.wiki/4/42/头像_行箸.png"
+      },
+      {
+        "description": "特克诺",
+        "url": "https://media.prts.wiki/2/2e/头像_特克诺.png"
+      },
+      {
+        "description": "瑰盐",
+        "url": "https://media.prts.wiki/8/8a/头像_瑰盐.png"
+      },
+      {
+        "description": "荒芜拉普兰德",
+        "url": "https://media.prts.wiki/0/04/头像_荒芜拉普兰德.png"
+      },
+      {
+        "description": "忍冬",
+        "url": "https://media.prts.wiki/7/79/头像_忍冬.png"
+      },
+      {
+        "description": "弑君者",
+        "url": "https://media.prts.wiki/1/12/头像_弑君者.png"
+      },
+      {
+        "description": "菲莱",
+        "url": "https://media.prts.wiki/0/00/头像_菲莱.png"
+      },
+      {
+        "description": "云迹",
+        "url": "https://media.prts.wiki/6/67/头像_云迹.png"
+      },
+      {
+        "description": "维娜·维多利亚",
+        "url": "https://media.prts.wiki/6/68/头像_维娜·维多利亚.png"
+      },
+      {
+        "description": "凯瑟琳",
+        "url": "https://media.prts.wiki/e/e9/头像_凯瑟琳.png"
+      },
       {
         "description": "玛露西尔",
         "url": "https://media.prts.wiki/8/84/头像_玛露西尔.png"
@@ -3260,6 +3548,10 @@
   "genshin": {
     "male": [
       {
+        "description": "基尼奇",
+        "url": "https://patchwiki.biligame.com/images/ys/5/50/k7gyxmsaaju3kjzg0r8k76r8ae85vg5.png"
+      },
+      {
         "description": "莱欧斯利",
         "url": "https://patchwiki.biligame.com/images/ys/d/d7/jvb2oapa38w7k6t4zd9y5x21hex5ku2.png"
       },
@@ -3328,6 +3620,10 @@
         "url": "https://patchwiki.biligame.com/images/ys/9/90/lwq85ylshqji1oozf7odkv3xlquvttt.png"
       },
       {
+        "description": "欧洛伦",
+        "url": "https://patchwiki.biligame.com/images/ys/a/a0/er29qthpa8eeze76b33jeused5d5i1h.png"
+      },
+      {
         "description": "赛索斯",
         "url": "https://patchwiki.biligame.com/images/ys/c/c9/pcpvdp91xt41afueycw2juyj4rv2m63.png"
       },
@@ -3385,6 +3681,30 @@
       }
     ],
     "female": [
+      {
+        "description": "瓦雷莎",
+        "url": "https://patchwiki.biligame.com/images/ys/d/df/923uzs0ddvfnagy7zu9e9zk941dp1wg.png"
+      },
+      {
+        "description": "梦见月瑞希",
+        "url": "https://patchwiki.biligame.com/images/ys/f/ff/3o8mr0u4bl7ud05988n9k4fgyqpse60.png"
+      },
+      {
+        "description": "玛薇卡",
+        "url": "https://patchwiki.biligame.com/images/ys/f/f2/98s7xgph19fwlwcl9rdw0wxeiix6uj8.png"
+      },
+      {
+        "description": "茜特菈莉",
+        "url": "https://patchwiki.biligame.com/images/ys/b/b8/dqg8bmkq6cotszvj0gh4byh3vyc7bwb.png"
+      },
+      {
+        "description": "恰斯卡",
+        "url": "https://patchwiki.biligame.com/images/ys/5/5d/fbry1sdkvyct1youivlxqv81002lyao.png"
+      },
+      {
+        "description": "希诺宁",
+        "url": "https://patchwiki.biligame.com/images/ys/a/a6/35nazkolfbybwwg2njmcsbr2w2sj8yb.png"
+      },
       {
         "description": "玛拉妮",
         "url": "https://patchwiki.biligame.com/images/ys/c/c0/itpnzb7gy571ojwjnkr8936tb6lu0f9.png"
@@ -3496,6 +3816,14 @@
       {
         "description": "七七",
         "url": "https://patchwiki.biligame.com/images/ys/0/05/049fpv6jcr66mln0nmbbfgigfrkgrzo.png"
+      },
+      {
+        "description": "伊安珊",
+        "url": "https://patchwiki.biligame.com/images/ys/d/db/8c0jt9caudqbfayt7ib6s8pp1o592op.png"
+      },
+      {
+        "description": "蓝砚",
+        "url": "https://patchwiki.biligame.com/images/ys/1/1a/bub4a5fvem717ykupen2y5ykuxgaq1v.png"
       },
       {
         "description": "卡齐娜",
@@ -3612,6 +3940,152 @@
       {
         "description": "荧",
         "url": "https://i0.hdslb.com/bfs/article/4c46a8c0a2c52f91568bfd03ba25451bcf2a230a.jpg@1256w_1256h_!web-article-pic.avif"
+      }
+    ]
+  },
+  "wutheringwaves": {
+    "male": [
+      {
+        "description": "漂泊者·气动",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_4_UI.webp"
+      },
+      {
+        "description": "布兰特",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_44_UI.webp"
+      },
+      {
+        "description": "相里要",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_25_UI.webp"
+      },
+      {
+        "description": "漂泊者·湮灭",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_4_UI.webp"
+      },
+      {
+        "description": "渊武",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_15_UI.webp"
+      },
+      {
+        "description": "凌阳",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_14_UI.webp"
+      },
+      {
+        "description": "卡卡罗",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_18_UI.webp"
+      },
+      {
+        "description": "莫特斐",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_13_UI.webp"
+      },
+      {
+        "description": "忌炎",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_11_UI.webp"
+      },
+      {
+        "description": "秋水",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_12_UI.webp"
+      },
+      {
+        "description": "漂泊者·衍射",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_4_UI.webp"
+      }
+    ],
+    "female": [
+      {
+        "description": "漂泊者·气动",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_5_UI.webp"
+      },
+      {
+        "description": "坎特蕾拉",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_34_UI.webp"
+      },
+      {
+        "description": "菲比",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_45_UI.webp"
+      },
+      {
+        "description": "珂莱塔",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_32_UI.webp"
+      },
+      {
+        "description": "洛可可",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_33_UI.webp"
+      },
+      {
+        "description": "守岸人",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_28_UI.webp"
+      },
+      {
+        "description": "釉瑚",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_31_UI.webp"
+      },
+      {
+        "description": "灯灯",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_30_UI.webp"
+      },
+      {
+        "description": "折枝",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_27_UI.webp"
+      },
+      {
+        "description": "长离",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_26_UI.webp"
+      },
+      {
+        "description": "今汐",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_24_UI.webp"
+      },
+      {
+        "description": "鉴心",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_23_UI.webp"
+      },
+      {
+        "description": "漂泊者·湮灭",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_5_UI.webp"
+      },
+      {
+        "description": "吟霖",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_17_UI.webp"
+      },
+      {
+        "description": "椿",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_29_UI.webp"
+      },
+      {
+        "description": "丹瑾",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_10_UI.webp"
+      },
+      {
+        "description": "安可",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_8_UI.webp"
+      },
+      {
+        "description": "白芷",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_6_UI.webp"
+      },
+      {
+        "description": "漂泊者·衍射",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_5_UI.webp"
+      },
+      {
+        "description": "桃祈",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_9_UI.webp"
+      },
+      {
+        "description": "散华",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_7_UI.webp"
+      },
+      {
+        "description": "维里奈",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_3_UI.webp"
+      },
+      {
+        "description": "炽霞",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_2_UI.webp"
+      },
+      {
+        "description": "秧秧",
+        "url": "https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_1_UI.webp"
       }
     ]
   }

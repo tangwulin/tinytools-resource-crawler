@@ -1,7 +1,11 @@
 {
   "name": "战车",
   "charaKey": "char_459_tachak",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/7/7b/%E7%AB%8B%E7%BB%98_%E6%88%98%E8%BD%A6_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/3/33/%E7%AB%8B%E7%BB%98_%E6%88%98%E8%BD%A6_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/f/f1/%E7%AB%8B%E7%BB%98_%E6%88%98%E8%BD%A6_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "联动",
@@ -903,15 +907,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "明日の太陽を目にできるなんてうれしく思う、同志よ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Excuse me?"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "내일 뜨는 해를 함께 맞이할 수 있어서 기쁘군, 동지."
         },
         {
           "language": "繁体中文",

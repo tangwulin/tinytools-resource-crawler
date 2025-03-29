@@ -1,7 +1,11 @@
 {
   "name": "至简",
   "charaKey": "char_4054_malist",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/d/d5/%E7%AB%8B%E7%BB%98_%E8%87%B3%E7%AE%80_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/f/fb/%E7%AB%8B%E7%BB%98_%E8%87%B3%E7%AE%80_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/f/ff/%E7%AB%8B%E7%BB%98_%E8%87%B3%E7%AE%80_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -915,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ああ、今日は地上の暦で言う新年でしょ、聞いたことあるよ。過ぎた一年を送り出す、こんな意味のある日は、ただ何の目的もなく欲に流された時を過ごすのに比べればずっといい……にしてもまた一年が経ったのか、時間を大事にしなよ、ドクター。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Ah, this is the calendar you keep on the surface. I've heard of it. The significance in a holiday like this to commemorate a year's end—it's such an improvement over those days of pure idle indulgence... So another year's already passed. Be sure to cherish your time well, Doctor."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "아, 이게 지상에서 사용 중인 역법이구나. 들어 본 적 있어. 한 해의 마지막을 기념하는 날이라고 말이지. 아무런 의미도 없이 향락에 빠져 사는 나날보다는, 이렇게 의미 있게 하루를 보내는 편이 훨씬 좋겠지…… 또 이렇게 한 해가 가는구나. 시간을 소중히 여기자, 박사."
         },
         {
           "language": "繁体中文",
@@ -958,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "我的生命已经注定如此短暂，我又怎么可能真的能与它和解？我真的很难做到坦然......但，你也不必安慰我，如果真的这么脆弱，我现在根本就不会站在这里。"
+          "content": "我前几天手腕肌肉过劳，医疗部干员说平时用这种腕部支架会好一点，我就多买了几个备用。本来今天也不知道送你什么，这两个就当礼物了，你固定在桌子上就行。"
         },
         {
           "language": "日文",
@@ -976,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的生命已经注定如此短暂，我又怎么可能真的能与它和解？我真的很难做到坦然......但，你也不必安慰我，如果真的这么脆弱，我现在根本就不会站在这里。"
+        },
+        {
+          "language": "日文",
+          "content": "生い先短い人生を押し付けてきた運命を、素直に受け入れられるわけないでしょ。でも別に、慰めもいらないよ。そこまで弱かったら、オレはそもそもここにいないよ。"
+        },
+        {
+          "language": "英文",
+          "content": "My life is doomed to be as short as it is. How could I ever reconcile with that? I find it genuinely difficult to keep calm... not that you—need to console me. If I was truly that weak, then I wouldn't be standing here right now."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 단명할 운명이라는 걸 어떻게 순순히 받아들일 수 있겠어? 태연하게 받아들이기엔 힘든 사실이긴 하지만…… 그렇다고 날 위로할 필요는 없어. 내가 정말 그렇게 나약했더라면, 애초에 이곳에 서 있지도 않았겠지."
         },
         {
           "language": "繁体中文",

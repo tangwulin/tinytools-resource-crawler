@@ -171,7 +171,7 @@
         },
         {
           "language": "韩文",
-          "content": "다른 오퍼레이터들의 활약을 보고 있으면, 왠지 부럽게 느껴져…"
+          "content": "다른 오퍼레이터들의 활약을 보고 있으면, 왠지 부럽게 느껴져……"
         },
         {
           "language": "繁体中文",
@@ -197,7 +197,7 @@
         },
         {
           "language": "韩文",
-          "content": "박사를 위해 싸우고 싶다는 마음에 이유 따윈 없어. 언젠가는, 우리에게도 최전선에서 활약할 수 있는 날이 왔으면 좋겠네…"
+          "content": "박사를 위해 싸우고 싶다는 마음에 이유 따윈 없어. 언젠가는, 우리에게도 최전선에서 활약할 수 있는 날이 왔으면 좋겠네……"
         },
         {
           "language": "繁体中文",
@@ -249,7 +249,7 @@
         },
         {
           "language": "韩文",
-          "content": "뱅가드 오퍼레이터 야토라고 한다. 당신이… 내가 지켜야 하는 사람인가?"
+          "content": "뱅가드 오퍼레이터 야토라고 한다. 당신이…… 내가 지켜야 하는 사람인가?"
         },
         {
           "language": "繁体中文",
@@ -561,7 +561,7 @@
         },
         {
           "language": "韩文",
-          "content": "하아아아…!"
+          "content": "하아아아……!"
         },
         {
           "language": "繁体中文",
@@ -691,7 +691,7 @@
         },
         {
           "language": "韩文",
-          "content": "미안, 박사의 작전대로 움직일 수 없었어…"
+          "content": "미안, 박사의 작전대로 움직일 수 없었어……"
         },
         {
           "language": "繁体中文",
@@ -813,15 +813,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、あけましておめでとう。昨年はお疲れ様。新しい一年も、どうか引き続き我々を導いてくれ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy holidays, Doctor. Thank you for your work over the past year, and may you continue to guide us this year."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "박사, 새해 복 많이 받아. 올 한 해도 고생 많았다. 새로운 한 해도 우릴 잘 이끌어 주길 바랄게."
         },
         {
           "language": "繁体中文",
@@ -856,12 +856,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "刀需要有鞘，是安身之所，也是归处。对我来说，罗德岛就是这样的鞘。"
+          "content": "博士，生日快乐。一点薄礼，还请收下。是的，我当然记得您的生日。"
         },
         {
           "language": "日文",
@@ -874,6 +874,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "刀需要有鞘，是安身之所，也是归处。对我来说，罗德岛就是这样的鞘。"
+        },
+        {
+          "language": "日文",
+          "content": "刀には、鞘が必要となるもの。それは帰るべき場所であり、その身を休ませる場所でもある。私にとって、ロドスはまさにその鞘なんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "A blade needs a sheath. It is a shelter, and a place to return. For me, Rhodes Island is that sheath."
+        },
+        {
+          "language": "韩文",
+          "content": "칼에겐 칼집이 안식처이자 돌아갈 집이지. 나에겐 로도스 아일랜드가 그런 칼집이야."
         },
         {
           "language": "繁体中文",

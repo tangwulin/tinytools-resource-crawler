@@ -2,7 +2,8 @@
   "name": "香草",
   "charaKey": "char_240_wyvern",
   "images": [
-    "https://media.prts.wiki/a/a0/%E7%AB%8B%E7%BB%98_%E9%A6%99%E8%8D%89_1.png?image_process=format,webp/quality,Q_90"
+    "https://media.prts.wiki/a/a0/%E7%AB%8B%E7%BB%98_%E9%A6%99%E8%8D%89_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/0/0c/%E7%AB%8B%E7%BB%98_%E9%A6%99%E8%8D%89_skin1.png?image_process=format,webp/quality,Q_90"
   ],
   "voiceBase": [
     {
@@ -67,7 +68,7 @@
         },
         {
           "language": "韩文",
-          "content": "생화학 팀의 선배님 두 분도 여기 와 계신가요? 그렇다면… 앞으론 선배님들 팀에 넣어주실 수 있을까요?"
+          "content": "생화학 팀의 선배님 두 분도 여기 와 계신가요? 그렇다면…… 앞으론 선배님들 팀에 넣어주실 수 있을까요?"
         },
         {
           "language": "繁体中文",
@@ -93,7 +94,7 @@
         },
         {
           "language": "韩文",
-          "content": "후우… 하아… 앞으로 3세트만 더 하면… 오늘 트레이닝 코스의 절반이 끝나… 박사님… 죄송해요… 물병 좀 집어주실 수 있을까요…"
+          "content": "후우…… 하아…… 앞으로 3세트만 더 하면…… 오늘 트레이닝 코스의 절반이 끝나…… 박사님…… 죄송해요…… 물병 좀 집어주실 수 있을까요……"
         },
         {
           "language": "繁体中文",
@@ -119,7 +120,7 @@
         },
         {
           "language": "韩文",
-          "content": "제 고향에 대해 듣고 싶으시다고요? 그곳은… 무척 황폐한, 살아가는 것만으로도 버거운 땅이었어요. 그곳에 비하면, 로도스 아일랜드는 정말 천국 같은 곳이죠."
+          "content": "제 고향에 대해 듣고 싶으시다고요? 그곳은…… 무척 황폐한, 살아가는 것만으로도 버거운 땅이었어요. 그곳에 비하면, 로도스 아일랜드는 정말 천국 같은 곳이죠."
         },
         {
           "language": "繁体中文",
@@ -171,7 +172,7 @@
         },
         {
           "language": "韩文",
-          "content": "블랙스틸 규정 제22조, “무기를 방치한 자는 일률 해고에 처한다”. 그래서 이 핼버드를 몸에서 떼지 않고 갖고 있는 거예요. 네? 평소에는 안 그래도 된다고요? 그럴 리가, 잠시만요... “이 규정은 계약 기간 또는 신입 훈련 중인 오퍼레이터한테 해당된다.” 프란카 씨는 어째서 저한테 설명해 주시지 않은 걸까요..."
+          "content": "블랙스틸 규정 제22조, “무기를 방치한 자는 일률 해고에 처한다”. 그래서 이 핼버드를 몸에서 떼지 않고 갖고 있는 거예요. 네? 평소에는 안 그래도 된다고요? 그럴 리가, 잠시만요…… “이 규정은 계약 기간 또는 신입 훈련 중인 오퍼레이터한테 해당된다.” 프란카 씨는 어째서 저한테 설명해 주시지 않은 걸까요……"
         },
         {
           "language": "繁体中文",
@@ -223,7 +224,7 @@
         },
         {
           "language": "韩文",
-          "content": "저… 프란카 씨나 리스캄 씨가 로도스 아일랜드에 남아있는 이유를 조금 알 것 같아요. 블랙스틸보다 여기가 훨씬 더 집 같은 곳인 걸요. 임무 외에도 재밌는 일이 이렇게나 많다니…"
+          "content": "저…… 프란카 씨나 리스캄 씨가 로도스 아일랜드에 남아있는 이유를 조금 알 것 같아요. 블랙스틸보다 여기가 훨씬 더 집 같은 곳인 걸요. 임무 외에도 재밌는 일이 이렇게나 많다니……"
         },
         {
           "language": "繁体中文",
@@ -327,7 +328,7 @@
         },
         {
           "language": "韩文",
-          "content": "이건… 정예 메달? 이걸 저한테 주신다고요? 가, 감사합니다!"
+          "content": "이건…… 정예 메달? 이걸 저한테 주신다고요? 가, 감사합니다!"
         },
         {
           "language": "繁体中文",
@@ -743,7 +744,7 @@
         },
         {
           "language": "韩文",
-          "content": "제 힘이… 부족했네요…"
+          "content": "제 힘이…… 부족했네요……"
         },
         {
           "language": "繁体中文",
@@ -865,15 +866,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あけましておめでとうございます！こんなご馳走の山に出し物大会まであるなんて至れり尽くせりですね……故郷にいた頃は、夜ご飯のメニューは昼間の狩りの結果次第だったんです。なので年越しの日は、朝早くから狩りに出ないといけなくて大変だったんですよ……"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy New Year! There's so much good food, plus the party tonight; this is bliss... Back home, our evening supper depended on how much we could catch that day. So we'd be out hunting before sunrise, just to celebrate the New Year. It really wore you out..."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받으세요! 맛있는 것들이 이렇게나 많은 거로도 모자라 파티까지, 너무 좋아요…… 고향에 있었을 때는, 저녁에 반찬을 몇 가지 먹을 수 있을지는 낮에 얼마나 많은 사냥감을 잡았느냐에 달렸었거든요. 새해를 축하하기 위해서는 아침 일찍 사냥을 나가야 했죠. 어지간히 힘든 게 아니었어요……"
         },
         {
           "language": "繁体中文",
@@ -908,12 +909,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "我来到罗德岛有一段时间了，非常感谢大家对我的帮助，现在我已经很适应这里的生活了。被自动门吓到这种事情再也不会——啊！博士，刚才好像有一个长得像驮兽的机器走过去了......"
+          "content": "博士，听说今天是您的生日啊。我这里有一些老家寄来的兽肉干，不嫌弃的话，就请收下吧。在老家，人们都喜欢吃这种肉干，所以大家都很强壮！生日快乐博士，祝您新的一年身体健康！"
         },
         {
           "language": "日文",
@@ -926,6 +927,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我来到罗德岛有一段时间了，非常感谢大家对我的帮助，现在我已经很适应这里的生活了。被自动门吓到这种事情再也不会——啊！博士，刚才好像有一个长得像驮兽的机器走过去了......"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスに来てしばらく経ちましたが、皆さんのお力添えもあって、ここでの暮らしにもすっかり馴染めました。自動ドアにびっくりするなんてもう――わぁっ！ドクター、今そこを駄獣みたいなロボットが通りませんでしたか……"
+        },
+        {
+          "language": "英文",
+          "content": "It's been a while since I came to Rhodes Island, and I'm so grateful to everyone for helping me get settled in with life here. I don't freak out whenever an automatic door opens anymo—ah! Doctor, I think a burdenbeast-looking robot just passed by..."
+        },
+        {
+          "language": "韩文",
+          "content": "제가 로도스 아일랜드에 온 지도 꽤 오래됐네요. 다들 많이 도와줘서 너무 감사해요. 이제는 여기 생활에 꽤 익숙해졌어요. 자동문에 놀라는 일도 이젠 없을 거고요…… 앗! 박사님, 방금 버든비스트처럼 생긴 기계가 지나간 것 같은데……"
         },
         {
           "language": "繁体中文",

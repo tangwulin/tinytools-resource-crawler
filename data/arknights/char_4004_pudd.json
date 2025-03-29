@@ -1,7 +1,11 @@
 {
   "name": "布丁",
   "charaKey": "char_4004_pudd",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/3/30/%E7%AB%8B%E7%BB%98_%E5%B8%83%E4%B8%81_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/e/ed/%E7%AB%8B%E7%BB%98_%E5%B8%83%E4%B8%81_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/a/a6/%E7%AB%8B%E7%BB%98_%E5%B8%83%E4%B8%81_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -91,7 +95,7 @@
         },
         {
           "language": "韩文",
-          "content": "로도스 아일랜드의 엔지니어링부에 있으면 다양한 걸 배울 수 있어요. 여러분이 가지고 오는 다양한 무기랑 장치도 그렇고, 게다가 전엔 본 적도 없는 기술 운용까지… 전부 다 시간을 들여서 공부할 가치가 있는 것뿐이에요. 제대로 노력한다면, 분명 저도 계속 엔지니어링부에 있을 수 있겠죠."
+          "content": "로도스 아일랜드의 엔지니어링부에 있으면 다양한 걸 배울 수 있어요. 여러분이 가지고 오는 다양한 무기랑 장치도 그렇고, 게다가 전엔 본 적도 없는 기술 운용까지…… 전부 다 시간을 들여서 공부할 가치가 있는 것뿐이에요. 제대로 노력한다면, 분명 저도 계속 엔지니어링부에 있을 수 있겠죠."
         },
         {
           "language": "繁体中文",
@@ -117,7 +121,7 @@
         },
         {
           "language": "韩文",
-          "content": "이 아이는 이름이 ‘베개’에요. 어렸을 때부터 계속 같이 지낸 친구죠. 우리 가족은 꽤 먼 곳에서 컬럼비아로 이사를 했다 보니, 학교에는 동족이 거의 없었거든요. 그래서, 부모님이 저 외롭지 말라고 선물해 준 거예요. 아, 박사님, 이 아이는 말 못 해요!"
+          "content": "이 아이는 이름이 '베개'에요. 어렸을 때부터 계속 같이 지낸 친구죠. 우리 가족은 꽤 먼 곳에서 컬럼비아로 이사를 했다 보니, 학교에는 동족이 거의 없었거든요. 그래서, 부모님이 저 외롭지 말라고 선물해 준 거예요. 아, 박사님, 이 아이는 말 못 해요!"
         },
         {
           "language": "繁体中文",
@@ -143,7 +147,7 @@
         },
         {
           "language": "韩文",
-          "content": "예전에 야외에서 단독 조사를 하다가 사고가 난 적이 있어요. 아무리 시간이 지나도 구조대랑 연락이 되지 않아서, 어쩔 수 없이 ‘베개’를 안고 걸었는데, 어찌저찌 사람이 사는 동네에 도착하게 됐죠. 그때부터는…… 그다지 바깥에 잘 안 나가게 되더라고요."
+          "content": "예전에 야외에서 단독 조사를 하다가 사고가 난 적이 있어요. 아무리 시간이 지나도 구조대랑 연락이 되지 않아서, 어쩔 수 없이 '베개'를 안고 걸었는데, 어찌저찌 사람이 사는 동네에 도착하게 됐죠. 그때부터는…… 그다지 바깥에 잘 안 나가게 되더라고요."
         },
         {
           "language": "繁体中文",
@@ -273,7 +277,7 @@
         },
         {
           "language": "韩文",
-          "content": "박사님… 주무시네…… 그럼 기계의 출력을 좀 낮춰 놔야겠다……"
+          "content": "박사님…… 주무시네…… 그럼 기계의 출력을 좀 낮춰 놔야겠다……"
         },
         {
           "language": "繁体中文",
@@ -915,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、明けましておめでとうございます！へへ、私は何日かお休みを取って、近くの雪山リゾートに行こうと思っています。あそこには大きなスキー場があって、それから温泉と氷上釣りも楽しめちゃうんですよ！それでは、行ってきま――電力システムのメンテナンスが必要なんですか？うう、分かりました……"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Doctor, Happy New Year! Heheh, I'm going to take a few days off at a mountain resort nearby. There's a towering ski slope there, and hot springs, and ice fishing! Alright, see you la— The electrics need maintenance? Ohh... okay..."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받으세요, 박사님! 헤헤, 전 며칠 휴가를 내고 인근에 있는 설산 리조트에 다녀오려고요. 거기엔 정말 큰 스키장이랑 온천이 있고, 얼음낚시도 즐길 수 있거든요! 그럼 잘 다녀오겠…… 전력 시스템의 점검이 필요하다고요? 으음…… 알겠어요……"
         },
         {
           "language": "繁体中文",
@@ -949,11 +953,37 @@
         },
         {
           "language": "韩文",
-          "content": "좋은 아침이에요, 박사님. 하암… 나도 슬슬 자야겠다…"
+          "content": "좋은 아침이에요, 박사님. 하암…… 나도 슬슬 자야겠다……"
         },
         {
           "language": "繁体中文",
           "content": "早上好，博士。呼哈......我也該去補覺了。"
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，生日快乐！这个玩偶送给您，和我的小抱枕长得很像，很可爱吧？您说这个玩偶长得有点像我？才......才没有！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
         }
       ]
     },
@@ -967,15 +997,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "今日はみんなのためにサプライズを用意したと、クロージャさんが言ってました。夜のライトショーを楽しみにしててくださいね、ドクター。実は、イルミネーションの省電力プランは私が作ったんです。これのために一週間も残業して……いえ、なんでもないです……"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Closure says she has a surprise for everyone today. Soo… I hope you'll like the light show tonight, Doctor. Actually, the energy-saving proposal for the string lights was mine, which I worked a whole week of overtime on to... no, never mind..."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "클로저 씨가 모두를 위해서 깜짝 선물을 준비했다고 하셨어요. 박사님도 오늘 밤에 있을 조명쇼를 기대해 주세요. 사실 조명 장식의 에너지 절약 계획은 전부 제가 세웠거든요. 이걸 위해서 일주일이나 야근을…… 아, 아무것도 아니에요……"
         },
         {
           "language": "繁体中文",

@@ -919,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ん？今日は特別な日なのか？新年？知らん。ルナカブは毎日が新鮮だし、お腹いっぱいな日はめでたい日だ。とはいえ……ドクター、ルナカブが焼いたお肉食べるか？うまいぞ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Hmm? Is today special? A new year? Don't get it. I think every day is brand new. Any day's worth celebrating as long as you get to fill your stomach. Anyway... Do you want to try the meat I roasted? It's very yummy."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "응? 오늘은 특별한 날이라고? 새해? 잘 모르겠는데. 나한텐 매일매일이 새롭고, 배부르게 먹을 수 있는 날이 축제였거든. 그건 그렇고…… 내가 구운 고기 먹어볼래? 엄청 맛있어."
         },
         {
           "language": "繁体中文",
@@ -962,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "说实话，我还是搞不懂你们要干什么。不过，争取让所有人都能不会因为石头而生病，都能放心地大吃大喝，可能也不错。在睡觉时要警惕四周的一切还是很累的，我在这里......能睡得很安稳。"
+          "content": "生日就是出生的日子对吧，这个我知道，我昨天发现一片开满花的草地，很好闻，我没告诉任何人，走，我已经探好路了。"
         },
         {
           "language": "日文",
@@ -980,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "说实话，我还是搞不懂你们要干什么。不过，争取让所有人都能不会因为石头而生病，都能放心地大吃大喝，可能也不错。在睡觉时要警惕四周的一切还是很累的，我在这里......能睡得很安稳。"
+        },
+        {
+          "language": "日文",
+          "content": "正直、お前たちのしたいことは今でも分からん。でも、みんなが石ころの病気にかからないように、安心していっぱい食べられるようにするのは、悪くないと思う。眠る時に周りを警戒し続けるのは、とても疲れるのだ。ルナカブはロドスだと……安心して眠れるぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "To be honest, I still don't get what you people are trying to do. But I can see you're working to keep that rock-disease away from everyone, so that they can eat and drink all they want. I suppose it's probably a good thing. Another good thing, is I don't having to sleep with one eye open like I do outside. Here, I can sleep soundly."
+        },
+        {
+          "language": "韩文",
+          "content": "솔직히 난 아직도 너희들이 뭘 하려는 건지 잘 모르겠어. 그렇지만 사람들이 돌 때문에 아프지 않게 하고, 모두가 안심하고 먹고 마실 수 있게 하는 건 좋은 일인 것 같아. 사실 잘 때도 주위를 경계하는 건 엄청 피곤한 일이거든, 근데 여기선 나도…… 안심하고 잠을 잘 수 있어서 좋아."
         },
         {
           "language": "繁体中文",

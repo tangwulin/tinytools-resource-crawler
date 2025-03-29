@@ -1,7 +1,12 @@
 {
   "name": "帕拉斯",
   "charaKey": "char_485_pallas",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/e/ef/%E7%AB%8B%E7%BB%98_%E5%B8%95%E6%8B%89%E6%96%AF_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/e/ea/%E7%AB%8B%E7%BB%98_%E5%B8%95%E6%8B%89%E6%96%AF_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/3/3e/%E7%AB%8B%E7%BB%98_%E5%B8%95%E6%8B%89%E6%96%AF_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/7/7a/%E7%AB%8B%E7%BB%98_%E5%B8%95%E6%8B%89%E6%96%AF_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -295,7 +300,7 @@
         },
         {
           "language": "英文",
-          "content": "I am Pallas,  priestess of Minos. I shall be convalescing at Rhodes Island for a time… Nevertheless, I hope to enjoy my share of wine and theatre, and I yearn even more for battle."
+          "content": "I am the Minoan priestess, Pallas. I shall be convalescing at Rhodes Island for a time... Be that as it may, I hope to enjoy my share of alcohol and theatre, and I yearn even more for battle."
         },
         {
           "language": "韩文",
@@ -915,15 +920,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "また新しい一年が始まりましたね。十二英雄殿の聖火も変わらず猛々しく燃え盛っていることでしょう。私はもう二度と聖火を点すことなどできませんが……しかし、ロドスでならば花火などを楽しむのも許されますよね。？この「爆竹」というものに、デッキで火を点けてもいいでしょうか？"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "A happy new year to you, Doctor. I have dined upon many delicacies of the East today, and experienced a uniquely different kind of celebration. I have even obtained many fun prizes, such as this... Oh? This 'firecracker', it is not to be used indoors?"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "또 새로운 한 해가 되어도, 12영웅의 전당의 성화는 여전히 활활 타오르겠지만, 전 더 이상 성화를 지필 자격이 없군요…… 그래도, 로도스 아일랜드에서 폭죽을 터뜨리는 건 괜찮겠죠? 이 '양자폭죽'은 갑판에서 터뜨려도 괜찮은 걸까요?"
         },
         {
           "language": "繁体中文",
@@ -958,12 +963,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "无论身在何处，热闹的庆典永远令人心潮澎湃。高歌吧，欢呼吧！让此刻幸福的氛围在笑声中被铭记，明日的愿景应该用美酒来开启——唔，即使是在今天，也要限制我的饮酒量吗......"
+          "content": "博士，恭贺诞辰。这顶象征着胜利与荣誉的花环赠予您。祝您在前行的道路上，永远有勇气和智慧相伴。在荆棘遍布的险路尽头，一定有属于英雄的荣耀在等待着您。"
         },
         {
           "language": "日文",
@@ -976,6 +981,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "无论身在何处，热闹的庆典永远令人心潮澎湃。高歌吧，欢呼吧！让此刻幸福的氛围在笑声中被铭记，明日的愿景应该用美酒来开启——唔，即使是在今天，也要限制我的饮酒量吗......"
+        },
+        {
+          "language": "日文",
+          "content": "この身がいずこにあろうと、賑やかな祭典とはかくも変わらず心躍るものですね。さあ声を高らかに歌い上げ、歓声を上げましょう！このひと時の幸福は歓喜の中に刻まれ、明日への願掛けを行うには美酒こそ似合いです――うっ、今日のような日でも、お酒を控えなければなりませんか……"
+        },
+        {
+          "language": "英文",
+          "content": "A boisterous celebration is always exciting no matter the venue. Sing! Rejoice! Let us engrave this moment's animated air into our mirth, and we ought to open our vision for tomorrow with some fine wine— What? I should limit my drinking, even on such a day as this...?"
+        },
+        {
+          "language": "韩文",
+          "content": "어디에 있든 흥겨운 축제는 언제나 가슴을 설레게 하는군요. 큰 소리로 노래하고, 환호하세요! 지금 이 순간의 행복한 분위기는 웃음 속에 새기고, 내일을 향한 희망은 좋은 술로 불러오세요…… 앗, 오늘 같은 날에도 제 음주량을 제한하시려는 건가요……"
         },
         {
           "language": "繁体中文",

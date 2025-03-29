@@ -1,7 +1,11 @@
 {
   "name": "野鬃",
   "charaKey": "char_496_wildmn",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/b/bc/%E7%AB%8B%E7%BB%98_%E9%87%8E%E9%AC%83_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/4/4d/%E7%AB%8B%E7%BB%98_%E9%87%8E%E9%AC%83_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/9/97/%E7%AB%8B%E7%BB%98_%E9%87%8E%E9%AC%83_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -221,7 +225,7 @@
         },
         {
           "language": "韩文",
-          "content": "‘저스티스 나이트’는 내 펫이야. 전에 다른 사람에게 부탁해서 다양한 기능을 추가했으니까, 이제 웬만한 일은 다 할 줄 알아. 그래, 아주 똘똘한 녀석이란 말이지!"
+          "content": "'저스티스 나이트'는 내 펫이야. 전에 다른 사람에게 부탁해서 다양한 기능을 추가했으니까, 이제 웬만한 일은 다 할 줄 알아. 그래, 아주 똘똘한 녀석이란 말이지!"
         },
         {
           "language": "繁体中文",
@@ -247,7 +251,7 @@
         },
         {
           "language": "韩文",
-          "content": "‘거친 갈기의 기사’라는 칭호는 말이야, 내가 직접 노력해서 세상한테 인정 받은 거야. 강한 기사, 그것도 감염자 기사의 상징이지. 우리 목숨과 명예를 상품이나 소모품으로만 보는 상업연합회 따위는…… 칫, 지금 당장 녀석들이 쓴 가면을 산산조각 못 내주는 게 한이네."
+          "content": "'거친 갈기의 기사'라는 칭호는 말이야, 내가 직접 노력해서 세상한테 인정 받은 거야. 강한 기사, 그것도 감염자 기사의 상징이지. 우리 목숨과 명예를 상품이나 소모품으로만 보는 상업연합회 따위는…… 칫, 지금 당장 녀석들이 쓴 가면을 산산조각 못 내주는 게 한이네."
         },
         {
           "language": "繁体中文",
@@ -299,7 +303,7 @@
         },
         {
           "language": "韩文",
-          "content": "‘와일드메인’ 이보나. 피누스 실베스트리스 기사단 소속, ‘거친 갈기의 기사’야. 소나한테 들었는데, 여기는 감염자한테도 잘해 준다며? 그럼 오케이지."
+          "content": "'와일드메인' 이보나. 피누스 실베스트리스 기사단 소속, '거친 갈기의 기사'야. 소나한테 들었는데, 여기는 감염자한테도 잘해 준다며? 그럼 오케이지."
         },
         {
           "language": "繁体中文",
@@ -915,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "へへ、休憩エリアの露店でクラッカーを買ったぜ。わざわざキンキラキンのやつを選んだんだ！説明書はっと……字がごちゃっと詰まってるからいいや。ほらドクターも一つ持って、三、二、一――あれ、なんで鳴らねぇんだよ？あぁ？製造日が八年前だと！？あの店主め待ってろよ！"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Haha, just bought some confetti cannons from the stand over there. Sparking Golden ones, of course, to suit the day best! The instructions here... Gah, never mind, I'm not reading through this wordy crap. Here, Doctor, hold this one in your hand and I'll count to three. Three! Two! One— What the...? Where's the BOOM?  Production date, you say? ... EIGHT YEARS AGO?! Where's that stand owner? He'd better be gone for REAL!"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "하하, 휴게실 매점에서 폭죽을 샀어. 특별히 금색으로 골라왔다고! 자 어디 설명서를 한 번 볼까…… 글자가 왜 이렇게 많은 거야, 됐어, 안 볼래. 박사, 한 개 줄 테니까 해봐. 3, 2, 1…… 뭐야? 왜 안 터져? 제조일자가 뭐? 8년 전? 매점 주인 어디 갔어!"
         },
         {
           "language": "繁体中文",
@@ -958,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "来罗德岛是索娜的意思，虽然很多事情我没有她想得那么清楚，我的能力也远远不够。但迟早有一天，我要让所有人都看清楚，我做的事情不只是为了证明我自己的实力，还有让他们正视感染者。"
+          "content": "来，拿着，给你准备的生日礼物，保证你喜欢！之前我送过索娜她们，虽然都装作普普通通的样子，但我知道她们都高兴得不得了。快拆开，让我看看你惊喜的表情——闪电花纹袜子！怎么样？哈哈！"
         },
         {
           "language": "日文",
@@ -976,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "来罗德岛是索娜的意思，虽然很多事情我没有她想得那么清楚，我的能力也远远不够。但迟早有一天，我要让所有人都看清楚，我做的事情不只是为了证明我自己的实力，还有让他们正视感染者。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスに来るのはソーナの決めたことだ。あたしはあいつみたいに色んなことをはっきり整理しきれてないけど。その能力も足りねぇしな。でも、いつの日か、あたしがしたことは自分の実力を証明するためだけじゃなくて、感染者のことを真正面から向き合わせるためでもあるって、あいつらに分からせてやるんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "I only agreed to move with the others to Rhodes Island at first because it was Sona's idea. I may not have her perception and capability, but one day people will come to realize I'm doing more than just proving my strength, that I'm giving my all so that people can look at us infected with unbiased eyes."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드에 온 건 소나가 원해서였어. 나는 소나처럼 명확하게 생각을 구상하지도 못하고, 능력도 부족하지만, 언젠가는 모든 사람들에게 내가 하는 일은 내 능력을 증명하는 것을 넘어서, 감염자들의 상황을 알리는 것이라는 걸 알게 할 거야."
         },
         {
           "language": "繁体中文",

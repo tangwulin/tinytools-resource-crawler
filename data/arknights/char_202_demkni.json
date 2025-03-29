@@ -70,7 +70,7 @@
         },
         {
           "language": "韩文",
-          "content": "만물의 진화는 절대적인 섭리다. 그런데도 라인 랩은 그걸 바꾸고, 지배하려고 까지 하고 있지. 어리석긴…"
+          "content": "만물의 진화는 절대적인 섭리다. 그런데도 라인 랩은 그걸 바꾸고, 지배하려고 까지 하고 있지. 어리석긴……"
         },
         {
           "language": "繁体中文",
@@ -96,7 +96,7 @@
         },
         {
           "language": "韩文",
-          "content": "너도 연구자로서, 금기를 건드리는 실험에 손을 댄 적은… 그래, 안 했다면 그걸로 됐다."
+          "content": "너도 연구자로서, 금기를 건드리는 실험에 손을 댄 적은…… 그래, 안 했다면 그걸로 됐다."
         },
         {
           "language": "繁体中文",
@@ -196,11 +196,11 @@
         },
         {
           "language": "英文",
-          "content": "You've seen me arguing with Silence? Yes, we do that a lot... Sorry for causing trouble for you and Rhodes Island"
+          "content": "You've seen me arguing with Silence? Yes, we do that a lot... Sorry for causing trouble for you and Rhodes Island."
         },
         {
           "language": "韩文",
-          "content": "사일런스와 언성을 높이는 모습을 봤다고? 흥, 늘 있는 일이다… 아니지… 미안하다. 로도스 아일랜드에게도 네게도, 폐를 끼쳤군."
+          "content": "사일런스와 언성을 높이는 모습을 봤다고? 흥, 늘 있는 일이다…… 아니지…… 미안하다. 로도스 아일랜드에게도 네게도, 폐를 끼쳤군."
         },
         {
           "language": "繁体中文",
@@ -226,7 +226,7 @@
         },
         {
           "language": "韩文",
-          "content": "이프리트에게 전해줘… “앞으론 무슨 일이 있어도 내가 지켜주겠다”고… 만나라고? 아니, 그건 아직 마음의 준비가…"
+          "content": "이프리트에게 전해줘…… “앞으론 무슨 일이 있어도 내가 지켜주겠다”고…… 만나라고? 아니, 그건 아직 마음의 준비가……"
         },
         {
           "language": "繁体中文",
@@ -382,7 +382,7 @@
         },
         {
           "language": "韩文",
-          "content": "승진? 높은 평가를 받는 건 바라던 바가 아니지만, 그 아이를 위해서라도 네 협력이 꼭 필요하다. 뒤틀려버린 모든 것들을 바로잡기 위해서…!"
+          "content": "승진? 높은 평가를 받는 건 바라던 바가 아니지만, 그 아이를 위해서라도 네 협력이 꼭 필요하다. 뒤틀려버린 모든 것들을 바로잡기 위해서……!"
         },
         {
           "language": "繁体中文",
@@ -720,7 +720,7 @@
         },
         {
           "language": "韩文",
-          "content": "너의 전술은 현대적인데, 구상은 또 상당히 오래된 거로군. 넌 대체… 어떤 사람이지?"
+          "content": "너의 전술은 현대적인데, 구상은 또 상당히 오래된 거로군. 넌 대체…… 어떤 사람이지?"
         },
         {
           "language": "繁体中文",
@@ -798,7 +798,7 @@
         },
         {
           "language": "韩文",
-          "content": "어디서 길을 잘못 든 거지…?"
+          "content": "어디서 길을 잘못 든 거지……?"
         },
         {
           "language": "繁体中文",
@@ -876,7 +876,7 @@
         },
         {
           "language": "韩文",
-          "content": "박사. 나중에 시간이 되면, 과거의 지식을 배워보는 것도 좋을 거다."
+          "content": "박사. 나중에 시간이 되면, 과거의 지식을 배워보는 것도 좋을 거다. 그곳에서 많은 흥미로운 것들을 발견할 수 있을 테니."
         },
         {
           "language": "繁体中文",
@@ -920,15 +920,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "人生とは成長という砦を築くようなものだ。新たな一年も、自分磨きを怠らないようにな、ドクター。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Life is the accumulation of maturity. Hone yourself well in the coming year, Doctor."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "인생이란 성장의 벽돌을 쌓아올리는 것과도 같지. 새로운 한 해에도, 스스로를 갈고 닦는 것을 게을리하지 말도록, 박사 박사."
         },
         {
           "language": "繁体中文",
@@ -963,12 +963,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "规则和传统，它的建立代表着它会被破坏，我要做的并不是审判或是制裁，我要做的只是将乱序的转回有序，将混乱的重归井然。这条路很难走，但我不会被阻挡。"
+          "content": "根据排班，今天是你的工作日，我会告诉来送礼的干员在你结束工作后再来庆祝，送来的礼物我会帮你收下并放到门口。以及，我的礼物也会放在那里，生日快乐，开始工作吧。"
         },
         {
           "language": "日文",
@@ -981,6 +981,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "规则和传统，它的建立代表着它会被破坏，我要做的并不是审判或是制裁，我要做的只是将乱序的转回有序，将混乱的重归井然。这条路很难走，但我不会被阻挡。"
+        },
+        {
+          "language": "日文",
+          "content": "規則と伝統。その確立は、いずれ破壊されることを意味する。私が為そうとしているのは裁決でも制裁でもなく、ただ乱れたものを整え直し、秩序によって混乱を収めることだ。困難な道であるが、私が諦めることはない。"
+        },
+        {
+          "language": "英文",
+          "content": "The founding of regulations and traditions symbolizes that they might be broken, and it is not my job to judge nor to punish, but simply to see disorder rewound to order and chaos returned to organization. The road is a challenging one, but I won't be stopped."
+        },
+        {
+          "language": "韩文",
+          "content": "규칙과 전통, 이 두 가지는 언젠가 파괴될 것을 상정하며 탄생하지. 내가 할 일은 심판이나 제재가 아니다. 난 어지럽혀진 질서를 바로잡고, 혼란을 없애고 싶을 뿐이다. 분명 힘든 여정이겠지, 하지만 난 멈추지 않을 거다."
         },
         {
           "language": "繁体中文",

@@ -13,6 +13,14 @@
     {
       "language": "中文-普通话",
       "base": "voice_cn/char_4139_papyrs"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4139_papyrs"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_4139_papyrs"
     }
   ],
   "voiceList": [
@@ -26,7 +34,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、ご安心ください。ファイリングは一番得意なことですから、必要な資料がいつでもお手元に揃っていると約束しますよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, archiving and categorizing documents is my specialty. Rest assured, I will put the files you need precisely where you want them."
+        },
+        {
+          "language": "韩文",
+          "content": "서류 정리는 제가 가장 잘하는 일이니까 안심하고 맡겨 주세요, 박사님. 박사님께서 필요하신 자료는 제가 꼭 가져다 드릴게요."
         }
       ]
     },
@@ -40,7 +56,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ッ――あっ、大丈夫です。紙で手を切っただけで、血ももう止まりましたから、心配いりませんよ。気を抜くとすぐ怪我をする奴だって、よくペペに笑われたものです。ただ部屋でじっとしててもひゃっ！――い、いえ、平気です。ちょっとコーヒーが熱すぎて……"
+        },
+        {
+          "language": "英文",
+          "content": "Eek—It's okay, Doctor. I got a papercut, that's all. Please don't worry. It's not bleeding anymore."
+        },
+        {
+          "language": "韩文",
+          "content": "아야…… 아, 괜찮아요, 박사님. 종이에 손을 베인 것뿐이에요. 이젠 피도 안 나는걸요. 걱정 마세요. 예전에 페페가 절 보고 잠깐 한눈 판 사이에 다치는 칠칠맞은 녀석이라는 얘기를 하곤 했었는데, 그냥 아무것도 안 하고 계속 실내에 있어도…… 앗! 괜, 괜찮아요, 방금은 커피가 너무 뜨거워서……"
         }
       ]
     },
@@ -54,7 +78,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "これですか？ただのノートですよ。つまらない議事録や、代わり映えしない設営の流れなど、博物館の日々のお仕事を記録してるだけのもので……ごちゃごちゃしたメモもありますけどね。例えばこの羽獣の写真ですが、これはわたしの部屋の窓辺によく停まってた子です。"
+        },
+        {
+          "language": "英文",
+          "content": "This? It's only a notebook for my work at the museum. It's mostly meeting minutes and exhibition schedules, nothing really interesting... But there are some silly mementoes. Like this photo here. It's a little bird that often stops by my window."
+        },
+        {
+          "language": "韩文",
+          "content": "이거요? 그냥 평범한 노트예요. 박물관의 일상 업무를 기록하는 용도로 사용하고 있죠. 노트에 적혀 있는 건 지루한 회의 기록 아니면 단조로운 전시품 배치 계획 정도고요…… 뒤죽박죽 잡다한 메모도 있긴 한데. 음 예를 들면 이 사진 속의 파울비스트는 제 방 창가에 자주 앉아 있다가 가는 아이에요."
         }
       ]
     },
@@ -68,7 +100,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "小さい時、ペペとティティが遊びに誘いに来たことがあって……お父様から禁足を命じられていたわたしのために、二人は窓越しに手でいろんな動物の形を作ってくれて、どれもよく似ていて凄かったんです。大人になってからはそう頻繁に会わなくなっちゃいましたが、今でも窓の外を眺めるとその時のことが目に浮かびます。"
+        },
+        {
+          "language": "英文",
+          "content": "I still remember how Pepe and Titi would come by and play with me when we were kids. Even when Father had me grounded in the study, they'd stand outside the window and make animals with their hands. They were so animated… We haven't seen each other so much since we grew up. But when I look out my window, I sometimes think of those times."
+        },
+        {
+          "language": "韩文",
+          "content": "어렸을 때 페페랑 티티가 놀러 온 적이 있어요…… 전 아버지한테 외출 금지를 받아서 못 나가고 있었는데, 그 둘은 창문 너머 손으로 다양한 동물 모양을 만들어 보여주었죠. 얼마나 실감 나던지 신기하게 봤던 기억이 나네요. 어른이 되고 나선 그리 자주 만나진 못했지만, 지금도 창밖을 바라볼 때면 가끔 그때가 생각나곤 해요."
         }
       ]
     },
@@ -82,7 +122,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、実はわたし、今まで進学や就職をずっとお父様に決めてもらっていて、故郷から離れることなんて考えたこともなかったんです。そのことについて不満はありませんし、確かに歩みやすい道を選んでくれたのだと思います。ただ、時々考えちゃうんです。もし自分で選んでいたら、今頃どんな人生を送っているんだろうって。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, truth be told, I've spent most of my life following Father's plans, from my education to my career. He did pick a path that's been fairly easy for me. So I have nothing to complain about, and the idea of leaving home never truly crossed my mind. If I had made my own choices, what would life be like?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 사실 전 학교부터 일자리까지 아버지의 말을 따랐기 때문에 고향을 떠나는 일은 평생 생각해 본 적도 없었어요. 그 점에 대해서 불만이 있는 건 아니에요. 아버지 덕분에 제가 편한 길을 걷게 된 건 사실이니까요. 하지만 가끔 그런 생각을 하곤 해요. 만약 제가 스스로의 선택대로 살았더라면, 지금쯤 어떤 인생을 살고 있을까……하고요."
         }
       ]
     },
@@ -96,7 +144,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、羽獣って二種類いるんです。羽を広げて大空を飛び回り、あちこちへ大移動を繰り返すものと、小さな翼を持って、森の中で木々の庇護を受けながら、葉っぱの隙間から覗く狭い空を楽しむしかないものがいます。わたし？そうですね……わたしは羽獣じゃなくて、空を遮らないような木になりたいです。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, there are two kinds of fowlbeasts. One soars through the skies, roaming freely. The other, with its shorter wings, dwells in the woods, catching only glimpses of the blue sky through the leaves as it enjoys the shade. Which one am I? Hm... In truth, I don't wish to be a fowlbeast at all. I would rather be a tree that doesn't block the sky."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 이 세상에는 두 가지 종류의 파울비스트가 존재해요. 날개를 활짝 펴고 하늘 이곳저곳 날아다니는 파울비스트, 그리고 날개가 상당히 짧아서 숲에서만 생활이 가능한 파울비스트. 후자는 나무의 보호를 받지만 잎사귀 틈으로 보이는 좁은 하늘밖엔 보지 못하죠. 전 어느 쪽이냐고요? 으음, 전 파울비스트보단 하늘을 가리지 않는 한 그루의 나무가 되고 싶어요."
         }
       ]
     },
@@ -110,7 +166,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あれ、ドクターもいらっしゃるんですね。わたしですか？わたしは毎週この日、入院してる子供たちのお見舞いをしに来るんです。読み聞かせをしたり、話し相手になってあげたり……まだこんな小さいのに、毎日病室で過ごさなければならないその辛さは、わたしにはよく分かりますから。"
+        },
+        {
+          "language": "英文",
+          "content": "Oh, Doctor, you're here today, too? Me? I visit the Medical Department once a week to spend time with the children. I tell them stories, or simply chat with them. They're so young, confined to their sickrooms... I know how they feel... truly."
+        },
+        {
+          "language": "韩文",
+          "content": "어라, 박사님도 여기 계셨군요? 저요? 아, 전 매주 이날마다 입원 중인 아이들에게 책을 읽어주거나 이야기를 들어주러 와요. 아직 이렇게나 어린데, 매일 병실에서 지내는 게 얼마나 힘든 일인지, 저도 잘 알거든요."
         }
       ]
     },
@@ -124,7 +188,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "小さい頃は何か間違いを犯してしまうと、お父様に一日中禁足を命じられたものです。退屈になったら、本棚にある本を全部取り出しては、違う順番に並べ替えて戻し、それを何度も繰り返していました。思えば、その頃からアーカイブズ学と縁があったのかもしれませんね。"
+        },
+        {
+          "language": "英文",
+          "content": "When I was little, if I misbehaved, Father would confine me to the study for an entire day. In those moments of boredom, I would take all the books off the shelves and reorder them in different ways, again and again. Reflecting on it now, it seems I was perhaps fated to pursue archival science."
+        },
+        {
+          "language": "韩文",
+          "content": "어렸을 때 뭔가 잘못하면, 아버지께선 절 하루종일 방에 가두셨어요. 방 안에 갇혀 심심할 때쯤이면 책장에 있는 책들을 전부 꺼내서 다른 순서로 책을 정리하고 또 정리하고…… 그걸 계속 반복했었어요. 지금 생각해 보면, 그때부터 기록학과 인연이 있었네요."
         }
       ]
     },
@@ -138,7 +210,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "わたしの一番好きな展示品ですか？そんなの選べっこないですよ！個人の好みで言うなら？……うん、でしたら、とある古代の植物の種でしょうか。暗闇の中で何百年も封じられてきたのに、生を絶やすことなく、発芽処理を行ったらすぐ花をつけることができたんです。なんだか尊敬しちゃいますね。"
+        },
+        {
+          "language": "英文",
+          "content": "My favorite exhibit? I couldn't choose. What does my heart say? Hmm... Okay... There is an ancient seed. It was sealed away in darkness for centuries, yet it persevered and quickly blossomed with just a little care. Ahh... Truly an inspiring miracle."
+        },
+        {
+          "language": "韩文",
+          "content": "제가 가장 좋아하는 전시품이요? 그런 걸 어떻게 골라요! 개인적인 취향은 따로 없냐고요…… 그렇다면, 어떤 오래된 식물의 씨앗을 고를게요. 그 씨앗은 수백 년 동안 어둠 속에 있었지만, 버티고 버텨 재배를 통해 결국 꽃까지 피워 냈거든요. 이런 걸 보면 왠지 모를 존경심이 생겨요."
         }
       ]
     },
@@ -152,7 +232,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、執務室は乾燥しやすいので、こまめに水分補給を行ってくださいね。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, it's dry here in the office. Don't forget to hydrate."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 집무실 공기는 쉽게 건조해지니까, 잊지 말고 자주 수분 보충해 주셔야 해요."
         }
       ]
     },
@@ -166,7 +254,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "こんにちは、ペペに言われてきました――オフィスから飛び出して旅に出る決心がついたら、ここに来て「ドクター」という方を訪ねるといいよとのことなので……何のドクターかまでは聞いてなくて、ただ会えばわかるからってあの子が。"
+        },
+        {
+          "language": "英文",
+          "content": "Hello, Pepe told me that once I'm ready to leave my office and go on a journey, I should come here and ask for a Doctor... She didn't specify a Doctor in which field, just that I'd know as soon as I saw the right one."
+        },
+        {
+          "language": "韩文",
+          "content": "안녕하세요, 페페가 사무실 밖으로 나와 여행을 떠날 준비가 됐다면 이곳에서 “박사”라는 분을 찾으면 된다고 해서 왔는데…… 어떤 분야의 박사님인지는 말을 안 해 줘서요. 그냥 보면 알 거라고……"
         }
       ]
     },
@@ -180,7 +276,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "より多くの知見を得るには、やはり外に出るのが大事ですね……"
+        },
+        {
+          "language": "英文",
+          "content": "My hypothesis was correct… There is so much I can learn only by stepping out of the office."
+        },
+        {
+          "language": "韩文",
+          "content": "역시 사무실 밖으로 나와야만 더 많은 것들을 볼 수 있군요……"
         }
       ]
     },
@@ -194,7 +298,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "やるべきことをしたまでですから、お気遣いなく。"
+        },
+        {
+          "language": "英文",
+          "content": "I am only doing my job. It's nothing worth mentioning."
+        },
+        {
+          "language": "韩文",
+          "content": "해야 할 일을 한 것뿐인걸요. 그래도 고맙습니다."
         }
       ]
     },
@@ -208,7 +320,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "認めてくださってありがとうございます……わたしは別として、この勲章やサッシュを見たら、うちの父はきっと喜ぶでしょう。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you very much for your recognition of my work. Father would likely hold these ribbons and medals in high esteem. Me... I don't think they matter as much as your approval."
+        },
+        {
+          "language": "韩文",
+          "content": "인정해 주셔서 고맙습니다…… 전 아무래도 좋지만, 아버지께선 이 훈장과 장식을 보시면 분명 기뻐하실 거예요."
         }
       ]
     },
@@ -222,7 +342,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "今回の任務のために周到な計画を立ててきました。いつでも行けます。"
+        },
+        {
+          "language": "英文",
+          "content": "I've made a complete, thorough plan for the mission. I'm ready to sortie at any time."
+        },
+        {
+          "language": "韩文",
+          "content": "이번 임무에 대한 계획은 제가 철저하게 세워뒀어요. 언제든 출발 가능해요."
         }
       ]
     },
@@ -236,7 +364,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "皆さん、今回の任務はわたしが指揮をとらせていただきます。お配りしたマニュアルに従って行動してください。安全注意でお願いしますね。"
+        },
+        {
+          "language": "英文",
+          "content": "Everyone, I'll be leading this one. Please follow the operation manual I distributed, and stay safe."
+        },
+        {
+          "language": "韩文",
+          "content": "여러분, 이번 임무는 제가 지휘를 맡게 되었습니다. 나눠 드린 매뉴얼대로 행동해 주시고, 항상 안전에 유의해 주세요."
         }
       ]
     },
@@ -250,7 +386,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "やっぱりノートはもう一冊持っていこう、記録したくなることがいっぱいあるかも。"
+        },
+        {
+          "language": "英文",
+          "content": "Perhaps I should bring an extra notebook. There may be lots of things out there worth documenting."
+        },
+        {
+          "language": "韩文",
+          "content": "역시 노트를 한 권 더 챙겨야겠어요. 기록하고 싶은 게 많을지도 모르니까요."
         }
       ]
     },
@@ -264,7 +408,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "敵の動きは予測済みなので大丈夫です。パターンも詳しく書き起こしてますから。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't worry. I have anticipated the enemy's plans and written them down in detail."
+        },
+        {
+          "language": "韩文",
+          "content": "적의 움직임은 이미 예상하고 있으니까 괜찮을 거예요. 패턴도 자세히 적어뒀는걸요. 모두 걱정하지 마세요."
         }
       ]
     },
@@ -278,7 +430,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ま、待ってください。もう少し準備を……"
+        },
+        {
+          "language": "英文",
+          "content": "Wait, please! I-I still need a bit more time…"
+        },
+        {
+          "language": "韩文",
+          "content": "자, 잠시만요, 전 아직 준비가 덜 돼서……"
         }
       ]
     },
@@ -292,7 +452,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ふぅ……じゅ、準備できました。何とかやってみます！"
+        },
+        {
+          "language": "英文",
+          "content": "Phew... I-I'm ready. Please let me give it a try!"
+        },
+        {
+          "language": "韩文",
+          "content": "휴우…… 주, 준비됐어요! 일단 한번 해볼게요!"
         }
       ]
     },
@@ -306,7 +474,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ここだったら……誰も見落とすことはないよね？"
+        },
+        {
+          "language": "英文",
+          "content": "From here, I should be able to cover everyone, right?"
+        },
+        {
+          "language": "韩文",
+          "content": "여기라면…… 모두를 도울 수 있겠지?"
         }
       ]
     },
@@ -320,7 +496,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "どうかすべて上手くいきますように。"
+        },
+        {
+          "language": "英文",
+          "content": "I really hope nothing goes wrong."
+        },
+        {
+          "language": "韩文",
+          "content": "제발 무사히 잘 넘어가기를……"
         }
       ]
     },
@@ -334,7 +518,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "落ち着いて、わたし。対応策は全部ノートに用意してるんだから。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't panic. I have everything I need to know in my notebook."
+        },
+        {
+          "language": "韩文",
+          "content": "진정하자 진정하자, 대책은 전부 노트에 적어뒀잖아."
         }
       ]
     },
@@ -348,7 +540,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あれ、どのページに書いたんだっけ？"
+        },
+        {
+          "language": "英文",
+          "content": "Um, which page did I put my notes in...?"
+        },
+        {
+          "language": "韩文",
+          "content": "어라, 몇 페이지에 적었더라?"
         }
       ]
     },
@@ -362,7 +562,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "どうしよう……全然見つからないよ……"
+        },
+        {
+          "language": "英文",
+          "content": "Oh no… I can't find it anywhere…"
+        },
+        {
+          "language": "韩文",
+          "content": "어떡하지…… 전혀 못 찾겠어……"
         }
       ]
     },
@@ -376,7 +584,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "むぎゃああ！なるようになれ！！"
+        },
+        {
+          "language": "英文",
+          "content": "Ahhh! I'll just improvise!"
+        },
+        {
+          "language": "韩文",
+          "content": "아아, 몰라! 어떻게든 돼라!!"
         }
       ]
     },
@@ -390,7 +606,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "よかった、皆さんご無事で……これもすべてドクターの閃きのおかげですね！"
+        },
+        {
+          "language": "英文",
+          "content": "Thank goodness everyone's alright... Your quick thinking was the key, Doctor!"
+        },
+        {
+          "language": "韩文",
+          "content": "다들 무사해서 정말 다행이에요…… 이건 모두 박사님의 빠른 상황 판단 덕분이에요!"
         }
       ]
     },
@@ -404,7 +628,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "計画通りに上手くいって、本当に良かったです。"
+        },
+        {
+          "language": "英文",
+          "content": "How wonderful. The operation went according to plan."
+        },
+        {
+          "language": "韩文",
+          "content": "작전이 계획대로 잘 되어서 정말 다행이에요."
         }
       ]
     },
@@ -418,7 +650,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "わたしがもっと先を見越して計画を立てられたら……今回の結果からしっかり学びたいと思います。"
+        },
+        {
+          "language": "英文",
+          "content": "If only I had planned for more variables. I'll definitely reflect this in my notes!"
+        },
+        {
+          "language": "韩文",
+          "content": "제가 조금 더 멀리 내다보고 계획을 세웠더라면 더 좋은 결과가 있었을 텐데…… 이번 일을 교훈으로 삼을게요."
         }
       ]
     },
@@ -432,7 +672,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "計画は失敗しました……撤退の命令をお願いします、ドクター！"
+        },
+        {
+          "language": "英文",
+          "content": "Our plan has failed. Please give the order to retreat, Doctor!"
+        },
+        {
+          "language": "韩文",
+          "content": "계획 실패네요…… 어서 퇴각 명령을 내려 주세요, 박사님!"
         }
       ]
     },
@@ -446,7 +694,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、聞いてください、この本は仕事の合間に読もうってわけじゃないんです！ただお昼寝の時、本の山を枕にするのが癖で。ほらこうやって、頭を乗せると気持ちいいんですよ……"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, please let me explain! I didn't bring all these books here for leisure! I just prefer to rest my head on a stack of books during lunch. Like so. It's surprisingly comfy…"
+        },
+        {
+          "language": "韩文",
+          "content": "일단 제 말을 들어 주세요, 박사님! 제가 딴짓하려고 이렇게 책을 쌓아 두는 건 절~대 아니고요! 전 그냥 낮잠 잘 때 책 몇 권을 베고 자는 걸 좋아해서 그런 것뿐이에요. 이렇게, 머리를 올려 두면 엄청 편안하거든요……"
         }
       ]
     },
@@ -460,7 +716,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ひゃっ！び、びっくりさせないでくださいよぉ……"
+        },
+        {
+          "language": "英文",
+          "content": "Hnngh! D-Don't tease me like that…"
+        },
+        {
+          "language": "韩文",
+          "content": "앗! 노, 놀리지 마세요……"
         }
       ]
     },
@@ -474,7 +738,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、わ、わたしの耳を軽く揉んでもらってもいいですか？……心が落ち着かない時は、いつも友達にそうしてもらってるんです。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, could you please pinch my ear? When I get anxious... my friends comfort me like that."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 제 귀를 주물러 주실 수 있나요? 마음이 불안할 때면…… 친구한테 그렇게 해달라고 하거든요."
         }
       ]
     },
@@ -488,7 +760,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주"
         }
       ]
     },
@@ -502,7 +782,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "以前、新年のやることはすべてお父様が決めていました。親戚を訪ね回ったり、食事会や集まりに参加したり、予定が次から次へと押しかけて休む間もありませんでした。なので、今年は気ままに過ごそうと思います。そうですね……夜の帰りを三十分くらい延ばしましょうか？"
+        },
+        {
+          "language": "英文",
+          "content": "When we celebrated the New Year Festival at home, Father would always have the entire day planned. We'd visit family and friends, attend parties and banquets. It was all so overwhelming. This year, I hope to relax a bit more… Maybe... play an extra thirty minutes tonight?"
+        },
+        {
+          "language": "韩文",
+          "content": "예전엔 새해 당일 일정을 전부 아버지가 결정하셨어요. 친척을 만난다든가, 모임에 참석한다든가, 여러 일정들이 연달아 있어 쉴 틈조차 없었죠. 그래서 이번엔 조금 제멋대로 보내볼까 해요. 음, 오늘은 밤에 30분 정도 더 놀아도 괜찮겠죠?"
         }
       ]
     },
@@ -513,6 +801,28 @@
         {
           "language": "中文",
           "content": "博士，下一次出行是在什么时候呢？我是否可以一同前往？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、次の外勤予定はいつですか？わたしがついて行ってもいいでしょうか？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, when will your next trip be? Would you mind if I went with you?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님, 다음 외근 일정은 언제인가요? 혹시 제가 따라가도 될까요?"
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "请不要动，博士，小心被扎到。这是博物馆为VIP观众定制的胸针，如果......我是说如果，您愿意来馆内走一走，我可以担任您的讲解员。就今天吗？好、好呀，我请了假，一整天都有空。"
         },
         {
           "language": "日文",
@@ -530,7 +840,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクターと様々な場所を巡り、最近ようやくわかってきたことがあります。それは旅立ちの地が往々にして終着点でもあるということです。どんな場所へ行こうと、どんなに遠くまで旅しようと、最後には出発した地へ戻り、別れを告げた人々とも再会して……そしてまた新たな旅を心待ちにするんです。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, after visiting so many places with you, I've come to realize that the true destination of every journey is also its beginning. We may wander far and wide, but we always return to where we started, to reunite with those from whom we parted. And then, we wait... until the next journey."
+        },
+        {
+          "language": "韩文",
+          "content": "박사님이랑 여러 곳을 돌아다니면서 깨달은 점이 한 가지 있어요. 그건 바로 여행의 출발지가 종종 종착지가 되기도 한다는 점이에요. 어떤 곳을 가든, 또 얼마나 멀리 가든, 결국은 출발했던 장소로 다시 돌아와, 헤어졌던 사람들과 다시 만나고…… 그리고 또 다른 여행의 출발을 기대하게 되죠."
         }
       ]
     }

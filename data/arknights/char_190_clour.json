@@ -1,7 +1,11 @@
 {
   "name": "红云",
   "charaKey": "char_190_clour",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/3/3d/%E7%AB%8B%E7%BB%98_%E7%BA%A2%E4%BA%91_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/d/d9/%E7%AB%8B%E7%BB%98_%E7%BA%A2%E4%BA%91_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/4/49/%E7%AB%8B%E7%BB%98_%E7%BA%A2%E4%BA%91_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -819,7 +823,7 @@
         },
         {
           "language": "韩文",
-          "content": "벽에 천장도 있다니… 좋은 방이잖아."
+          "content": "벽에 천장도 있다니…… 좋은 방이잖아."
         },
         {
           "language": "繁体中文",
@@ -915,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "みんな新年を祝ってるのか……荒野にいた頃はこんな安らげる環境なんてなかったから、干し肉を少し出してきて、貯めといたベリーをチマチマ食いながら、また一年生き延びたってお祝いするくらいだった。まあ、祝うほどのことでもねぇかもしれねぇけどな……"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Everyone's celebrating New Year's... It was never this easy in the wild. We got a little cured meat out, ate a few berries we had stored, and that's how we celebrated surviving another year. Maybe it wasn't worth celebrating..."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "다들 새해를 축하하고 있구나…… 황야에 있을 땐 이런 안락한 환경은 상상도 할 수 없었어. 육포 조금에, 저장해 둔 베리 몇 알을 먹으면서, 또 한 해를 살아남았다는 걸 자축하곤 했지. 뭐, 축하할 일이 아닐 수도 있지만……"
         },
         {
           "language": "繁体中文",
@@ -958,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "过去的仇人我一个也没有放过，别人给予我的恩情我也绝不会忘记。那位拉特兰老爷爷已经去世了，但罗德岛还在这里。在剩下的生命里，我清楚战斗的理由。"
+          "content": "这件披风送给你，是我在部落的时候学到的手艺。如果哪天你不小心在荒野上迷路了，你的那身兜帽可没法挡风沙。当然，如果可能的话，我还是希望能在你身边保护你......"
         },
         {
           "language": "日文",
@@ -976,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "过去的仇人我一个也没有放过，别人给予我的恩情我也绝不会忘记。那位拉特兰老爷爷已经去世了，但罗德岛还在这里。在剩下的生命里，我清楚战斗的理由。"
+        },
+        {
+          "language": "日文",
+          "content": "昔の仇を一人も見逃さなかったように、オレは人から受けた恩は一つだって忘れねぇ。あのラテラーノの爺さんはもう逝っちまったが、ロドスはまだここにある。オレの残りの人生にも、はっきりとした戦う理由ができたってことだ。"
+        },
+        {
+          "language": "英文",
+          "content": "I never forgave any of my old enemies, and I'll never forget those who showed me kindness. The old Lateran guy's dead, but there's still Rhodes Island. I have a clear reason to fight with the time I've got left."
+        },
+        {
+          "language": "韩文",
+          "content": "과거의 원수는 한 명도 놓치지 않았어. 그리고 난 받은 은혜도 절대 잊지 않아. 그 라테라노 할아버지는 이미 세상을 떠났지만, 로도스 아일랜드는 아직 여기 있지. 난 내 목숨이 다하는 날까지 무엇을 위해 싸워야 하는지 아주 명확히 알고 있어."
         },
         {
           "language": "繁体中文",

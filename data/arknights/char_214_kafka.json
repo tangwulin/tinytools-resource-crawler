@@ -1,7 +1,11 @@
 {
   "name": "卡夫卡",
   "charaKey": "char_214_kafka",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/e/ef/%E7%AB%8B%E7%BB%98_%E5%8D%A1%E5%A4%AB%E5%8D%A1_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/a/a1/%E7%AB%8B%E7%BB%98_%E5%8D%A1%E5%A4%AB%E5%8D%A1_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/2/2e/%E7%AB%8B%E7%BB%98_%E5%8D%A1%E5%A4%AB%E5%8D%A1_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -217,7 +221,7 @@
         },
         {
           "language": "英文",
-          "content": "Y'know the secrets everyone tries their best to hide? They're like monsters, hidden in the dead shadows, waitin' for their chance. Beautiful... and dangerous. That's exactly why I do my darndest to collect them! Doctor, don't you got anything for my hoard?"
+          "content": "...Y'know the secrets everyone tries their best to hide? They're like monsters, hidden in the dead shadows, waitin' for their chance. Beautiful... and dangerous. That's exactly why I do my darndest to collect them! Doctor, don't you got anything for my hoard?"
         },
         {
           "language": "韩文",
@@ -915,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、カフカと一緒に雪だるまを作ろうよ！そうだね、まずは大きな雪玉を二つ作って……まーるいフードの形を描いて、ながーい裾も足してあげれば……ほら、「ドクター」の出来上がり！あっ、でも、「ドクター」をデッキに独りぼっちにさせたら、ちょっと可哀そうかもね？"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Doctor, let's build us a snowman! First we roll up two big snowballs. We make the hat kinda round, then we do the clothes reaaal long... Ta-dah, one 'Doctor,' made to order! Oh, I dunno though, feels kinda sad seeing a Doctor all alone on the deck!"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "박사, 카프카랑 눈사람 만들자! 우선 큰 눈덩이 두 개를 만들고, 모자는 조금 더 둥그렇게 만든 다음, 긴 옷자락을 늘어뜨리면…… 봐봐, '박사' 완성! 아, 근데 '박사' 혼자 갑판 위에 있으니까 좀 쓸쓸해 보이네."
         },
         {
           "language": "繁体中文",
@@ -958,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "来到这里有一段时间了，发现罗德岛各位都是很好的人呢。好人受到欺负，是我最不能容忍的事。博士，如果有什么无法解决的坏人，就来找我吧。我有一些特殊的手段——不用这样？好吧，听你的。"
+          "content": "博士，给你生日蛋糕！外面的裱花可是我做的哦。你能数清这上面有多少朵花吗？我的剪刀当然也可以做到这么精细的事啦，因为是重要的朋友，得准备得充分一点嘛。哎，别急着吃啊，先仔细看看！"
         },
         {
           "language": "日文",
@@ -976,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "来到这里有一段时间了，发现罗德岛各位都是很好的人呢。好人受到欺负，是我最不能容忍的事。博士，如果有什么无法解决的坏人，就来找我吧。我有一些特殊的手段——不用这样？好吧，听你的。"
+        },
+        {
+          "language": "日文",
+          "content": "ここに来てからだいぶ経つけど、ロドスは本当にいい人ばかりだよ。カフカが一番許せないのは、そういういい人がいじめられることなんだ。だからドクター、手に負えないような悪いやつに出くわしたら頼ってね。カフカにはとっておきの手が――そんなことしなくてもいいって？んー、わかったよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Yannow, I've been here long enough to see all you Rhodes Islanders are real good people. And nothing gets me more heated than good people getting bullied. So if there's ever any bad guys you just can't handle, you drop me a line. A Kafka's always saving some secret sauce—what, no need? Fine. You're the boss, boss."
+        },
+        {
+          "language": "韩文",
+          "content": "카프카가 여기 온 지 꽤 됐는데, 로도스 아일랜드에는 좋은 사람이 참 많은 것 같아. 좋은 사람이 괴롭힘을 당하는 건 카프카가 가장 용납할 수 없는 일이야. 박사, 혹시 상대하기 어려운 나쁜 사람이 있으면 카프카한테 말해. 카프카가 특별한 방법으로…… 그러지 말라고? 알겠어, 박사 말 들을게."
         },
         {
           "language": "繁体中文",

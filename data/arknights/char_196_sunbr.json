@@ -229,7 +229,7 @@
         },
         {
           "language": "韩文",
-          "content": "굼은 늘 즐거워 보인다고? 사실… 그런 광경을 보고 나면 도저히 즐겁게 있을 수가 없거든… 그래서, 언니들이 그 괴로운 과거를 빨리 잊을 수 있게, 굼이 많이 웃어줘야 돼!"
+          "content": "굼은 늘 즐거워 보인다고? 사실…… 그런 광경을 보고 나면 도저히 즐겁게 있을 수가 없거든…… 그래서, 언니들이 그 괴로운 과거를 빨리 잊을 수 있게, 굼이 많이 웃어줘야 돼!"
         },
         {
           "language": "繁体中文",
@@ -255,7 +255,7 @@
         },
         {
           "language": "韩文",
-          "content": "굼은 있잖아… 사실은 몇 번이나 아빠나 엄마를 찾으러 가려고 했었거든… 근데, 혹시 지금 모두를 떠나게 되면 굼은 아무것도 못 할 것 같은 느낌이 들더라고… 그니까 박사, 부탁할게! 굼한테 식사 준비뿐만 아니라, 싸우는 법도 배울 수 있게 해줘!"
+          "content": "굼은 있잖아…… 사실은 몇 번이나 아빠나 엄마를 찾으러 가려고 했었거든…… 근데, 혹시 지금 모두를 떠나게 되면 굼은 아무것도 못 할 것 같은 느낌이 들더라고…… 그니까 박사, 부탁할게! 굼한테 식사 준비뿐만 아니라, 싸우는 법도 배울 수 있게 해줘!"
         },
         {
           "language": "繁体中文",
@@ -749,7 +749,7 @@
         },
         {
           "language": "韩文",
-          "content": "사실은 이렇게까지 철저하게 할 생각은 없었어… 그치만 안 싸우면, 우리가 당해버린다구!"
+          "content": "사실은 이렇게까지 철저하게 할 생각은 없었어…… 그치만 안 싸우면, 우리가 당해버린다구!"
         },
         {
           "language": "繁体中文",
@@ -923,15 +923,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、聞いて！グムね、今日一日キッチンで大忙しだったの。本当はみんなで新年のご馳走を準備しようねって約束してたのに……ズィマーお姉ちゃんは朝からお出かけしてて、ロサお姉ちゃんは食堂の飾り付けを――あれ、イースチナお姉ちゃん！お部屋の中で花火なんか持ってたら危ないよ！"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Doctor, I've been busy all day today in the kitchen. Zima went out to do something early this morning, and Rosa's still busy decorating the hall. Even though we all promised to make New Year's dinner together... Istinaaaa! You can't set off fireworks inside!"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "박사, 굼은 오늘 하루 종일 주방에서 바빴어. 지마 언니는 아침부터 놀러 나가고, 로사 언니도 식당을 꾸미느라 바빴거든. 전에 분명 같이 새해 만찬 준비하기로 해놓고…… 이스티나 언니! 실내에서 불꽃놀이는 안 된다고!"
         },
         {
           "language": "繁体中文",
@@ -966,12 +966,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "博士！快来尝尝古米烤的馅饼，是不是比之前更好吃了？嘿嘿，古米也是在成长的嘛。为了让爸爸妈妈放心，也为了让凛冬姐他们放心。古米会更坚强的！"
+          "content": "哈~中午好，博士......昨天晚上，古米被一群哥哥姐姐困在厨房里做了一整晚各种口味的蛋糕......哼，不过，这一份才是古米做得最美味的，生日快乐博士！啊——"
         },
         {
           "language": "日文",
@@ -984,6 +984,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士！快来尝尝古米烤的馅饼，是不是比之前更好吃了？嘿嘿，古米也是在成长的嘛。为了让爸爸妈妈放心，也为了让凛冬姐他们放心。古米会更坚强的！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター！グムの焼いたパイを食べてみて！どう、前より美味しくなった？えへへっ、グムだって成長してるんだよ。これからも、お父さんとお母さん、それとズィマーお姉ちゃんたちにも安心してもらえるように、もっと強い子になるんだから！"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor! Come try the piroshki I baked! They're even tastier than before, right? Heheh, I'm growing up too, you know. And then Mama and Papa, and Zima and all my friends won't have to worry about me. I'm going to get even stronger!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사! 빨리 와서 굼이 구운 파이를 먹어봐. 어때, 전에 만든 것보다 더 맛있지 않아? 헤헤, 굼도 성장하고 있다고. 아빠 엄마도, 지마 언니네도 걱정하지 않게, 굼은 반드시 강해질 거야!"
         },
         {
           "language": "繁体中文",

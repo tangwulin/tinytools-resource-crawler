@@ -1,7 +1,10 @@
 {
   "name": "休谟斯",
   "charaKey": "char_491_humus",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/2/29/%E7%AB%8B%E7%BB%98_%E4%BC%91%E8%B0%9F%E6%96%AF_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/7/7f/%E7%AB%8B%E7%BB%98_%E4%BC%91%E8%B0%9F%E6%96%AF_2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -779,15 +782,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あのボロ処理場にぶち込まれた当初は、祝日なんて祝おうとは思わなかったな。あんなのは希望がある連中のやることだからってな。だけどガキどもがどうしても花火を作ってくれってせがむもんで、やってみたらテントを燃やしちまってな……いやー、今思い出すと笑えてくるな、ハハ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "When I first got to that stinking place, I didn't celebrate any holidays. That's for men who still got something to look forward to. But the kids kept pestering me, asking me to make them some fireworks. In the end, I burned the whole tent... Save it. Thinking back, I guess it <i>was</i> pretty funny, hahaha."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "그 거지 같은 처리장에 처박혀있었을 땐, 기념일 같은 건 한 번도 챙기지 않았어. 그런 건 전부 희망이 있는 녀석들이나 하는 거라고 생각했었으니까. 근데 꼬맹이들이 불꽃놀이를 보고 싶다고 하도 졸라대길래, 결국엔 불꽃을 터뜨리다가 텐트를 태워 먹기도 했지…… 지금 생각해 보면 그것도 즐거운 추억이네, 하하."
         }
       ]
     },
@@ -814,12 +817,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "在处理站里拾拾捡捡这么些年，有不少东西，洗洗刷刷就能再用，再不行，就修补修补，坏得实在不行了，里面的零件拆出来也能用。博士你说，人也是这样的，对吧？没谁是真的一点用都没有。"
+          "content": "今天你过生日啊......唉，这个我确实不知道，我什么也没给你准备。要不这样，明天我请你去吃一顿，吃什么你定。不过......也别太贵了。"
         },
         {
           "language": "日文",
@@ -832,6 +835,28 @@
         {
           "language": "韩文",
           "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在处理站里拾拾捡捡这么些年，有不少东西，洗洗刷刷就能再用，再不行，就修补修补，坏得实在不行了，里面的零件拆出来也能用。博士你说，人也是这样的，对吧？没谁是真的一点用都没有。"
+        },
+        {
+          "language": "日文",
+          "content": "処理場でなげーこと物拾いをしてたけどよ、綺麗にすりゃ使えるもんは多かったし、それでダメなら修理すりゃよかったし、それも無理なくらい壊れてても、分解すりゃ中のパーツは使えたもんだ。ドクター、人も同じだと思わねえか？何の役にも立たねえ奴なんて本当はいねえよな？"
+        },
+        {
+          "language": "英文",
+          "content": "I sorted through tons of trash at the disposal center, for years. You can use most things after a little cleaning. If cleaning isn't enough, you can probably still fix it. If that doesn't do the trick, you can disassemble it and use its parts. That goes for people too, don't you think? No one out there's completely useless."
+        },
+        {
+          "language": "韩文",
+          "content": "처리장에서 오랫동안 쓰레기를 줍고 다녔는데, 몇몇 물건들은 깨끗하게 닦기만 해도 다시 쓸 수 있는 것들이었고, 망가진 물건도 조금만 손을 보면 다시 쓸 수 있거나, 못 쓰더라도 그 안의 부품은 재활용할 수 있었어. 박사, 사람도 마찬가지 아닐까? 이 세상에 쓸모없는 사람 같은 건 없을지도 몰라."
         }
       ]
     }

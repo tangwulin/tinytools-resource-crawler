@@ -1,7 +1,11 @@
 {
   "name": "归溟幽灵鲨",
   "charaKey": "char_1023_ghost2",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/f/fc/%E7%AB%8B%E7%BB%98_%E5%BD%92%E6%BA%9F%E5%B9%BD%E7%81%B5%E9%B2%A8_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/1/16/%E7%AB%8B%E7%BB%98_%E5%BD%92%E6%BA%9F%E5%B9%BD%E7%81%B5%E9%B2%A8_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/0/0d/%E7%AB%8B%E7%BB%98_%E5%BD%92%E6%BA%9F%E5%B9%BD%E7%81%B5%E9%B2%A8_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -585,7 +589,7 @@
         },
         {
           "language": "韩文",
-          "content": "지금 정말로...... 기분이 좋네요!"
+          "content": "지금 정말로…… 기분이 좋네요!"
         },
         {
           "language": "繁体中文",
@@ -915,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "新年のパーティー？苦しい中でも楽しもうとする姿勢は確かに尊敬できるわ……もちろん私も参加するわ。郷に入っては郷に従え、そうでしょ？じゃあまたあとでね、ドクター。ハッピーニューイヤー、めでたくまた死に一歩近づいたわね。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "A New Year's feast? Your desire for seeking joy in suffering is truly admirable... Of course I'll join. When on land, do as the landwalkers do, no? I'll see you then, Doctor. Happy New Year, and here's to death come closer to us still."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "신년 파티요? 힘든 와중에도 즐거움을 찾으려는 자세는 존경할만하네요…… 물론 저도 참석할 거예요. 로도스 아일랜드에 온 이상, 로도스 아일랜드의 법을 따라야죠, 안 그래요? 그럼 나중에 봐요, 박사님, 새해 복 많이 받으세요. 경사스럽게도 우리 모두 죽음에 한 걸음 더 가까워졌네요."
         },
         {
           "language": "繁体中文",
@@ -958,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "我能感觉到，过去将我包裹住的疯狂，与你们试图攻克的矿石病有微妙的差别......而有趣的是，即使连我拥有的知识也无法给出一个明确的答案。至少在探明这一点上，我会不吝与你们合作。"
+          "content": "我听说了，今天是你的生日。我支持一切对仪式感的追求，即使那可能不会产生任何意义。所以，祝你生日快乐，博士，祝你承受苦难的时间又多了一年。"
         },
         {
           "language": "日文",
@@ -976,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我能感觉到，过去将我包裹住的疯狂，与你们试图攻克的矿石病有微妙的差别......而有趣的是，即使连我拥有的知识也无法给出一个明确的答案。至少在探明这一点上，我会不吝与你们合作。"
+        },
+        {
+          "language": "日文",
+          "content": "わかるのよ、かつて私を包んでいた狂気と、あなたたちが克服しようとしている鉱石病はどこか違うって……しかも面白いのは、私の知識をもってしてもはっきりとした答えは出せないってこと。少なくともこれを解明するためになら、惜しまずに協力してあげるわ。"
+        },
+        {
+          "language": "英文",
+          "content": "I can sense that the madness which used to bind me is slightly different to the Oripathy you're attempting to overcome... and what's interesting is, even having the knowledge I do, I can't give a clear solution. On that exploratory note, at least, I'm prepared to work with you all."
+        },
+        {
+          "language": "韩文",
+          "content": "전 느낄 수 있어요. 한때 저를 감쌌던 광기와 당신들이 극복하려는 광석병에는 미묘한 차이가 있다는 걸 말이에요…… 더욱 흥미로운 건, 제가 가진 지식으로도 명확한 답을 낼 수 없다는 거예요. 적어도 이 부분을 해명하는 데에는, 협력을 아끼지 않을게요."
         },
         {
           "language": "繁体中文",

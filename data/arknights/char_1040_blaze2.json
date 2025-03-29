@@ -1,0 +1,552 @@
+{
+  "name": "烛煌",
+  "charaKey": "char_1040_blaze2",
+  "images": [
+    "https://media.prts.wiki/9/96/%E7%AB%8B%E7%BB%98_%E7%83%9B%E7%85%8C_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/f/fa/%E7%AB%8B%E7%BB%98_%E7%83%9B%E7%85%8C_2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_1040_blaze2"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_1040_blaze2"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "给，这些文件全部按照重要紧急度分类排序了，剩下的我会——看着我做什么，不认识了？快~抓紧时间搞定文书，然后派我出战！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哎——小兔子怎么见我就跑？工作时间我又不会抱起她举高高！我最近不正常吗？哈，经历了一些事之后，再见到你们，不知怎么地就特别开心，总想——呃，你怎么不躲？那，一二三，举高高？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你怎么知道我在宿舍研究这个？我在找这炉子把我的源石技艺放大的极限点，最不可思议的是——什么？被投诉有消防隐患？咳咳，一包瘤奶糖豆，对阿米娅保密，嘘——五、五包？！你好黑！成交！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我来，碗要这么涮。别管能涮掉什么，炎国的饭桌习惯就是奇怪得很。不过有一条我特别喜欢——不管熟不熟，凡是同桌吃饭就得分享同一盘菜。吃着一样的味道聊天，啪！就能交上朋友了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我这次去百灶，认识了几个新朋友，吃了好几顿大餐，了结了一点理不清的麻烦事。这片大地上多的是不公和无奈，我作为精英干员要做的事不会变，让自己的血再热一些——啊，烫着你了？对不起！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的经历应该也算挺传奇的吧？那么多的波折没有杀死我，反而把我送来了罗德岛——这就是“命运”？如果没有那些意外，我现在也不会——不不不，我还是更喜欢现在的生活，还有小兔子和博士！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "走，回去看你妈去。不对，看我妈去？啊啊更不对！呃，博士？你都听到了？算不上烦恼，能带妹妹回去我可高兴了。只是，我得捋捋顺——这突然变得乱七八糟的家庭关系。习惯了就好了吧，哈哈。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我现在看我爸，就像某个爱做傻事的同龄人。自己活得惨兮兮的，还拿饭钱给女儿寄点心吃——啊？这点像我？好吧，但他有时候懦弱得让人想揍他。我的脾气还是随我妈。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我身份牌上的联络人的确是你。真到用上的那天，我希望你最先接到消息。你懂我所有没说完的话、未完成的目标。想到这点我就能毫无顾虑地投入战斗。等等，你怎么知道——我说被我丢哪儿去了！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这衣服的袖子裹得、难受！呼——舒服多了。嘘，别告诉惊蛰，否则她又要骂我把她的衣服穿得没规没矩了......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我回来了！嗯，签的是我的本名，顾烛煌。这个名字被藏起来这么多年，总算能光明正大地写出来了。不过我还是我，博士，你不用改口，叫我煌就好。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，你知道所有作战记录我都复盘过，不用拉着我一起看吧。等等，这个不是——不要！不要反复看我的尾巴着火的样子！那只是一开始不熟练！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呼——还以为是工作谈话，吓死我了。这么说，你认可了我作为术师的表现？太好了！这就去加练六个小时！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我愿意。看到这个阵仗我就能猜到你要干什么，我们早就有这默契了，对吧！欸，你还真的什么都不说，直接就上来别徽章啊。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "正好想试试新招，带我出战吧，博士！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的火焰将为你们开道。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "炉子里的火焰在兴奋地跳动！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "现在投降，我可以收住火势。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "源石技艺机械自动化也好难学！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的血液在沸腾。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "战场动态，一清二楚！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "空气灼烧着肺部，温度刚刚好。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "想领教我火球的威力，就上前吧！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "三火熯天道！洪炉......啥来着？不管了，没影响！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "天亮了？是我的血燃向了地平线！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不想被火舌追上？那你跑得还不够快！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我支持你，博士。管他们谁惹得起，谁惹不起。就算是“大人物”，也要为自己的错误负责！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "只要我还站着，我的炉火就不会熄灭！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "走，去撮一顿！没有什么不爽，是一顿美食抚平不了的——这是我最喜欢的炎国道理，哈哈。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你要是对结果不满意，我随时待命。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我才走没几天，我冰箱里的饮料呢？！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好冰！我的皮肤太烫？是你的手太冷了！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这炉子还能用来养生来着，卖我这个的人说早晚熏一熏包治百病，这叫——艾炙？艾灸？咳！咳！咳！什么味道！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "火而已，有、有什么好看——呃，阿米娅，博士，还有大家，都这么期待......好吧，都离远点，小心烫伤。一、二！成功了？战场外的火焰，原来真的可以像烟花一样好看。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗨。去训练了，一会儿见！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博——士——再加把劲！用力！我不行了，要倒了——倒了！博士，你掰手腕原来这么厉害~啊？演技？我真的输给你了啊，我——唉，趁你生日想哄你开心，你就不能偶尔装装糊涂！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "过去一年的训练室使用时长我居然只排第三？第一名是——博士？！哦，没开通行证的新干员都用管理员的名字登录啊，吓我一跳。等等，那第二名是谁？谁呀？！透露一下，今年我肯定不会输！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

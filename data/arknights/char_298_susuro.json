@@ -1,7 +1,12 @@
 {
   "name": "苏苏洛",
   "charaKey": "char_298_susuro",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/1/1c/%E7%AB%8B%E7%BB%98_%E8%8B%8F%E8%8B%8F%E6%B4%9B_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/6/6e/%E7%AB%8B%E7%BB%98_%E8%8B%8F%E8%8B%8F%E6%B4%9B_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/7/7c/%E7%AB%8B%E7%BB%98_%E8%8B%8F%E8%8B%8F%E6%B4%9B_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/b/bd/%E7%AB%8B%E7%BB%98_%E8%8B%8F%E8%8B%8F%E6%B4%9B_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -911,15 +916,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "明けましておめでとう、ドクター。お正月だからしっかり休んで、あまり疲れすぎないようにね。でもこのあとのご飯ではハメを外しすぎたらだめだよ。去年は食べ過ぎで消化不良になったの忘れてないから、今年はしっかり見張るよ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "TBU"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받아, 박사. 새해니까 푹 쉬어야 해, 너무 피곤해지면 안 된단 말이야. 그래도 이따가 식사할 때는 너무 풀어지면 안 돼. 작년에 너무 많이 먹어서 소화가 안 됐던 모습이 아직도 기억나는걸. 이번에는 똑바로 지켜볼 거야!"
         },
         {
           "language": "繁体中文",
@@ -954,12 +959,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "我不知道像这样的日子还要过多久，有时候甚至觉得自己也有些看不清未来，但如果连我们做医生的都觉得辛苦，那些等待我们治疗的病人岂不是会更加绝望？博士，我们总有看到曙光的那一天吧。"
+          "content": "博士生日快乐，这是我做的针筒蛋糕，最近好像挺流行的。不用藏啦，我早就能猜到，博士您今天一定会蛋糕大丰收的......咳，总之，千万别吃太多，注意糖的摄入量！"
         },
         {
           "language": "日文",
@@ -972,6 +977,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不知道像这样的日子还要过多久，有时候甚至觉得自己也有些看不清未来，但如果连我们做医生的都觉得辛苦，那些等待我们治疗的病人岂不是会更加绝望？博士，我们总有看到曙光的那一天吧。"
+        },
+        {
+          "language": "日文",
+          "content": "こんな日々がいつまで続くんだろう。時々、自分でも未来が見えないと思う時があるんだよ。でも医者である私たちまで辛いと思ったら、治療を待っている患者さんたちはもっと絶望するでしょ？ドクター、いつか私たちにも希望が見える日が来るよね？"
+        },
+        {
+          "language": "英文",
+          "content": "TBU"
+        },
+        {
+          "language": "韩文",
+          "content": "이런 날들을 아직 얼마나 더 보내야 할지 모르겠어. 심지어 가끔은 미래가 흐릿하게 보일 때도 있다니까. 하지만 의사인 우리도 이렇게 힘든데, 치료를 기다리는 환자들은 얼마나 더 절망적일까? 박사, 언젠가는 희망의 빛을 볼 수 있는 날이 오겠지?"
         },
         {
           "language": "繁体中文",

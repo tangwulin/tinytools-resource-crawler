@@ -1,7 +1,12 @@
 {
   "name": "龙舌兰",
   "charaKey": "char_486_takila",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/4/41/%E7%AB%8B%E7%BB%98_%E9%BE%99%E8%88%8C%E5%85%B0_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/8/87/%E7%AB%8B%E7%BB%98_%E9%BE%99%E8%88%8C%E5%85%B0_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/8/89/%E7%AB%8B%E7%BB%98_%E9%BE%99%E8%88%8C%E5%85%B0_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/b/be/%E7%AB%8B%E7%BB%98_%E9%BE%99%E8%88%8C%E5%85%B0_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -911,15 +916,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あけましておめでとう、ドクター。新しく買ったトランプが届いてさ、ワンゲームどう？ロドスのレクリエーションはドッソレスほど多くないけど、俺がいるからには安心していいよ。こういう日に相応しく場を盛り上げるのは得意なんだ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "TBU"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받아, 박사. 새로 산 카드가 도착했는데, 한 게임 어때? 로도스 아일랜드는 도솔레스에 비해 오락거리가 많진 않지만, 내가 있으니 걱정하지 마. 축제 분위기를 띄우는 건 자신 있거든."
         },
         {
           "language": "繁体中文",
@@ -954,12 +959,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "如果真的想要改变什么，却在一开始就选错了方向的话，即便外表看起来如何光鲜亮丽，内里仍旧会是不堪一击的吧。在这一点上，我还是挺佩服罗德岛的。干杯，祝我们都能走出条正确的路。"
+          "content": "来，博士，生日礼物，猜猜这个盒子里装的是什么......哎，等等，别这么用力摇啊，很贵的，打碎了就没的喝了！"
         },
         {
           "language": "日文",
@@ -972,6 +977,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果真的想要改变什么，却在一开始就选错了方向的话，即便外表看起来如何光鲜亮丽，内里仍旧会是不堪一击的吧。在这一点上，我还是挺佩服罗德岛的。干杯，祝我们都能走出条正确的路。"
+        },
+        {
+          "language": "日文",
+          "content": "本当に何かを変えたいと思ってるのに、最初に方向性を間違えると、どんなに外見を華やかに取り繕えても、中身は脆いまんまなんだよ。この点に関しては、ロドスのやり方には感心するなぁ。お互い正しい道を歩めることを祈って、乾杯しようか。"
+        },
+        {
+          "language": "英文",
+          "content": "TBU"
+        },
+        {
+          "language": "韩文",
+          "content": "만약 무언가를 바꾸길 원하지만, 처음부터 방향이 잘못된 거라면, 겉이 아무리 화려한들 그 속은 정말 별 볼 일 없을 거야. 이 점에 있어서 난 로도스 아일랜드가 정말 대단하다고 생각해. 자, 건배할까? 우리 모두 올바른 길을 나아갈 수 있기를."
         },
         {
           "language": "繁体中文",

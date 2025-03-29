@@ -1,7 +1,10 @@
 {
   "name": "戴菲恩",
   "charaKey": "char_4110_delphn",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/b/bc/%E7%AB%8B%E7%BB%98_%E6%88%B4%E8%8F%B2%E6%81%A9_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/a/a4/%E7%AB%8B%E7%BB%98_%E6%88%B4%E8%8F%B2%E6%81%A9_2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -779,15 +782,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "明けましておめでとうございます、ドクター……え、みんながパーティーに呼んでいるんですか？どうしよう……今まではずっと母と二人で過ごしていたんですよ。まあいいでしょう、どうせ他にすることもないし、行きましょう。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy New Year, Doctor... Um, everyone's asking me to attend the party? I used to spend the day with just Mum, so I don't know... Never mind, I have nothing else to do today anyway, so let's go, Doctor."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받으세요, 박사님…… 아, 다들 저를 파티에 초대했다고요? 음…… 예전엔 새해를 늘 어머니랑 둘이서 보냈거든요. 뭐, 어차피 오늘은 다른 할 일도 없으니…… 좋습니다, 가시죠, 박사님."
         }
       ]
     },
@@ -814,12 +817,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "那次意外发生时我们都在场......我至今忘不掉那时的无力感。随着你们被越来越多的势力关注到，同样的事情只会更加频繁地发生在你们身上。面对无法抵抗的灾祸时，你们还能坚持下去吗？"
+          "content": "这是某次游历中我站在高处拍下的照片，人如蝼蚁，你分得清他们为谁而战吗？也许你从未从这个角度看过维多利亚的土地，不知道你又会有什么新的想法？不用告诉我哦。生日快乐，博士。"
         },
         {
           "language": "日文",
@@ -832,6 +835,28 @@
         {
           "language": "韩文",
           "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那次意外发生时我们都在场......我至今忘不掉那时的无力感。随着你们被越来越多的势力关注到，同样的事情只会更加频繁地发生在你们身上。面对无法抵抗的灾祸时，你们还能坚持下去吗？"
+        },
+        {
+          "language": "日文",
+          "content": "あの事件が起きた時、私たちはみんなその場にいました……今でもあの時の無力感は忘れられません。ロドスが注目されるようになればなるほど、同じようなことが何度もあなたたちの身に降りかかると思います。抗いようのない災いに直面した時、あなたたちは諦めずに進み続けられますか？"
+        },
+        {
+          "language": "英文",
+          "content": "We were all there when that happened out of the blue... Even now I still can't forget just how powerless I felt then. Such occasions will only happen even more often, as you get more and more factions watching you. Can you still persevere on, even when facing an unstoppable disaster?"
+        },
+        {
+          "language": "韩文",
+          "content": "그 사건이 일어났을 때, 우린 모두 현장에 있었죠…… 전, 아직도 그때의 무력감을 잊을 수 없습니다. 앞으로 로도스 아일랜드가 주목을 받으면 받을수록, 그때와 비슷한 일들이 계속해서 여러분을 찾아올 거예요. 저항할 수 없는 재난과 마주했을 때, 여러분은 포기하지 않고 계속 나아갈 수 있을까요?"
         }
       ]
     }

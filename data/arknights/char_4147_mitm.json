@@ -1,7 +1,10 @@
 {
   "name": "渡桥",
   "charaKey": "char_4147_mitm",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/7/74/%E7%AB%8B%E7%BB%98_%E6%B8%A1%E6%A1%A5_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/e/e9/%E7%AB%8B%E7%BB%98_%E6%B8%A1%E6%A1%A5_2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -23,7 +26,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ここでも働くのかよ。俺、のんびりする気満々でロドスに来たんだけどなぁ。資料の整理くらいならやらなくもないけど……で、ここの残業手当っていくらくらいもらえんの？"
+        },
+        {
+          "language": "英文",
+          "content": "More work? I thought I was here on vacation. Well, I suppose I could help with organizing a few files. How does overtime pay work here?"
+        },
+        {
+          "language": "韩文",
+          "content": "여기서도 일해야 하는 거야? 난 좀 쉬어볼까 하고 로도스 아일랜드에 온 건데…… 뭐 그냥 자료 정리 정도라면 괜찮긴 하지만…… 그래서 여기 야근 수당은 어떻게 계산한다고 했더라?"
         }
       ]
     },
@@ -37,7 +48,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "言われた報告書、机に置いてくぜ。ああそうだよ、一枚だけ。カズデルにニュースなんてそう頻繁に起こらないだろ。何が知りたいっていうの？知識の殿堂の入り口がどこにあるかとか？へぇ、勘弁してくれよ、俺はただのスラムの下っ端とば口で――えと、あんたらんとこでいう諜報員ってやつな。"
+        },
+        {
+          "language": "英文",
+          "content": "The report you wanted is on the desk. Just one page. It's not there's anything new going on in Kazdel. What did you expect to learn, which way the Temple of Knowledge's doors open? Come on, I'm just a mole in the slums. Well, intelligence officer, in your terminology."
+        },
+        {
+          "language": "韩文",
+          "content": "네가 말한 보고서는 책상 위에 올려 뒀어. 그래 맞아, 그냥 한 장이야. 카즈델에 새로운 소식이 있어봤자 얼마나 있겠어. 뭐가 알고 싶은 건데? 지식 전당의 입구가 어디에 있냐고? 난 그냥 슬럼가의 하급 수문에 불과하다고…… 어, 그러니까 너희 말로는 정보원 말이야."
         }
       ]
     },
@@ -51,7 +70,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "俺らんとこのルールはロドスのとは訳が違うし、わざわざ明文化して貼り出すようなこともしない――スラムには字が読める奴なんて殆どいないし、何より紙代が勿体なすぎるからな。街から少しでも離れればもう誰も俺を「顧問」なんて呼ばないさ。あんたがそう呼びたいんなら好きにしていいけど、そっちの面倒事に巻き込まれるのは御免だぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "Our rules don't work quite the same as Rhodes Island, and we don't have them written down in black and white—paper is expensive, and it's not like most people can read. Nobody calls me Advisor outside the district. You can call me that if you want, but don't expect me to solve your troubles."
+        },
+        {
+          "language": "韩文",
+          "content": "우리 쪽과 로도스 아일랜드의 규칙은 많이 달라. 게다가 그 규칙들을 이렇게 너희처럼 종이에 써서 붙여 두지도 않지…… 종잇값도 아까운 데다, 슬럼가에는 글을 읽을 줄 아는 사람도 거의 없으니까. 그 거리를 벗어난 이상 날 '고문'이라고 부르는 사람은 없을 거야. 물론 네가 날 그렇게 부르고 싶다면 마음대로 해, 상관없어. 하지만 그쪽의 귀찮은 일에 말려드는 건 사양할게."
         }
       ]
     },
@@ -65,7 +92,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "指の包帯？あー、そういうファッションなんだよ。そういやこの間、市場でイチャモンつけてたチンピラどもをしばいてやった時、八百屋の旦那もこれを見てケガだって勘違いして、どうしてもネギを差し入れたいと言って聞かなくってさ。ん？まだ血が出てるって？コホン、ビーツの汁だろ。"
+        },
+        {
+          "language": "英文",
+          "content": "The bandages on my fingers? It's just for show. Taught a few hoodlums a lesson at the market a few days ago, and the veggie stall owner gave me a few leeks because he saw my bandages and thought I got hurt. What? The blood's seeping through? Oh, er, just beet juice."
+        },
+        {
+          "language": "韩文",
+          "content": "손가락에 감은 붕대? 이건 그냥 장식이야. 그러고 보니 재미있는 일이 있었는데, 얼마 전에 시장에서 시비 걸고 다니는 깡패들을 혼내준 적이 있었단 말이야. 근데 야채 가게 사장이 이 붕대를 보더니 내가 다친 줄 알고 파 몇 단을 더 주더라니까. 응? 또 피가 새어나온다고? 크흠, 이건 비트즙이야."
         }
       ]
     },
@@ -79,7 +114,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "黒パンは「レンガ」、ロングコートは「カベ」、ソーセージ？ソーセージはまんまソーセージだ。何でかって？三、四年に一回お目にかかれたら上出来なもんに別名なんてつけるかよ。ま、カズデルの巷に伝わる隠語なんてこんくらいのもんだ。工事現場にでも行って適当にふらつけば、大抵耳に入るさ。"
+        },
+        {
+          "language": "英文",
+          "content": "Rye bread is 'bricks'. Coats are 'wallskin'. Sausage? That's just sausage. Why? Would you give a nickname to something that you only get to eat once every three or four years? That's basically the gist of Kazdel street slang. Take a walk around the construction sites, and you've heard just about everything."
+        },
+        {
+          "language": "韩文",
+          "content": "검은 빵은 '벽돌', 코트는 '벽면', 소시지? 소시지는 그냥 소시지지. 왜냐고? 3, 4년에 한 번 먹을까 말까 한 물건에 별명을 붙일 리가 없잖아. 카즈델에서 쓰이는 길바닥 은어도 끽해봤자 이 정도야. 뭐 공사장 같은 데라도 가서 몇 바퀴 돌면 대충 알아들을 수 있을 거야."
         }
       ]
     },
@@ -93,7 +136,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ロドスにはこんなに大勢の人が集まってんのに、よく喧嘩にならないな。俺らんとこじゃ、バルブの捻り方ひとつで殴り合いになるぜ？あん時は数十ものレーキやら鋤に囲まれながら、なんとか説得して帰らせたもんだ。俺だけ最後まで残ってたけど、ありゃ腰が抜けて動けなかったんだよな。"
+        },
+        {
+          "language": "英文",
+          "content": "I can't believe you don't get fight every day here on Rhodes Island, with so many people around. At Kazdel, people can get into fights over whether a valve should be turned a full circle or a half circle. You have no idea how hard it is to talk down a few dozen people all holding pitchforks and hoes. I was the last one to leave because my legs were shaking so badly they couldn't move."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드에는 이렇게 다양하고 많은 사람들이 모여있는데, 보면 별로 싸우는 거 같지도 않더라? 우리 거긴 밸브를 반 바퀴 돌리니 한 바퀴 돌리니 이런 걸로도 툭하면 싸우곤 했었는데. 뭐 그땐 내가 수십 개의 갈퀴와 호미에 둘러싸인 채로 어떻게든 설득해서 잘 돌려보냈지만. 근데 있지, 그때 나 거기에 한참 있었어, 다 가고 조용해질 때까지. 다리에 힘이 풀려서 움직일 수가 없었거든."
         }
       ]
     },
@@ -107,7 +158,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "飴いる？俺、出かける時はいつも飴をポケットに忍ばせておくんだ。道を塞ぐガキんちょがいたらこれをばっと撒けばいい。そうすりゃ俺のことなんかもう目になくて、みんなして一番先に飴に手を伸ばそうとした奴にかぶりつくからな。戦術？違う違う考え過ぎ、ただの笑い話だよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Want some sugar? I always carry a few lumps with me when I go out, and throw them at any kids trying to waylay me. If anyone of them reaches for it, they get set upon by the rest of the gang, and then nobody's paying attention to me. What do you mean, tactics? Just telling a little story, that's all."
+        },
+        {
+          "language": "韩文",
+          "content": "사탕 먹을래? 아~ 난 외출할 때마다 사탕을 주머니에 넣고 다니거든. 길 막는 꼬맹이들이 있다 그럼 이걸 확 뿌리면 게임 끝. 그러면 내가 앞에 있든 도망가든, 제일 먼저 사탕을 손에 넣은 애한테로 달려들곤 해. 전술? 이런 걸로 무슨, 그냥 애들 장난에 불과하지. 너무 과하게 생각하진 말라고."
         }
       ]
     },
@@ -121,7 +180,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "そのクーポン券、もういらない？捨てるんなら俺にくれよ、タダ焼肉まであとちょっとなんだ。いや間違いないね、注意書きには一度のお会計で一枚までとだけあるから、一皿ごとに会計すれば問題ないだろ？おい、クロージャにチクるなよ！あ、そうだ、俺半額ペア券も持ってるから、今夜一緒にどう？"
+        },
+        {
+          "language": "英文",
+          "content": "You don't want all these coupon? Well, don't throw them away, I've almost gotten enough to get a free barbecue dinner. Nope, no mistake at all, it just says the coupons can't be used together. I'll just pay after each plate. Is there a problem? Hey, don't tell Closure! I've got a 50% off coupon for two here. How about we go together?"
+        },
+        {
+          "language": "韩文",
+          "content": "그 쿠폰 이제 필요 없어? 아 버릴 거면 나 줘. 이럼 공짜 고기 한 끼 제대로 먹을 수 있겠는데. 아니, 분명 쓸 수 있어. 사용 규정에 한 번에 한 장만 쓸 수 있다고 했으니까, 한 접시 먹을 때마다 계산하면 문제없잖아, 안 그래? 잠깐, 클로저한테 말하면 안 된다! 그, 나한테 2인 반값 쿠폰이 있는데, 이따 밤에 같이 갈래?"
         }
       ]
     },
@@ -135,7 +202,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "来期から任務中で使える予算がちょっとばかし増えたみたいだな。俺は情報屋じゃないが、奴らの掟の一つには共感してる――価値ある情報は、価値のある人間にだけ渡せってね。俺がしょうもないことであんたの時間を取ったりしないのは、ただ単にいい給料で雇ってくれてるからじゃないんだぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "Looks like budget for next season got a bump? I'm not an information dealer, but I do agree with one of their rules: Valuable information for valuable people only. The reason I don't waste your time with small stuff isn't just because you pay well."
+        },
+        {
+          "language": "韩文",
+          "content": "흠, 다음 분기 작전 예산이 조금 늘어난 것 같은데? 내가 정보상은 아니지만, 그래도 그쪽 규칙 중 한 가지 공감하는 게 있어. 가치 있는 정보는 가치 있는 사람에게 줄 것. 내가 쓸데없는 일로 네 시간을 뺏지 않는 건, 단순히 네가 많은 월급을 주고 날 고용해 줘서가 아니야."
         }
       ]
     },
@@ -149,7 +224,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "仕事を先に進めててくれ、俺はひと息ついてくるよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Well, you go about your work, I'm taking a break."
+        },
+        {
+          "language": "韩文",
+          "content": "하던 일 계속해, 난 잠깐 쉬다 올게."
         }
       ]
     },
@@ -163,7 +246,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "俺の紹介状ね、もう人事部の確認済みなんだけど、ちょっと待ってくれ――あったあった。悪りぃ、このコートポケットが多くてさ、ごっちゃになるんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Here's my recommendation letter. It's been checked by HR. One moment... pardon me. Too many pockets, it gets really confusing."
+        },
+        {
+          "language": "韩文",
+          "content": "이건 내 소개서야. 인사부에서 이미 확인은 했는데, 어디 보자, 잠깐만…… 여깄다. 실례실례, 코트에 주머니가 좀 많아서 찾기가 쉽지 않네."
         }
       ]
     },
@@ -177,7 +268,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "チンピラどもの喧嘩よりよっぽど面白いなこりゃ。"
+        },
+        {
+          "language": "英文",
+          "content": "Much more interesting than watching two hoodlums fight."
+        },
+        {
+          "language": "韩文",
+          "content": "깡패들 싸움보다는 훨씬 재밌네."
         }
       ]
     },
@@ -191,7 +290,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "この勲章より、ドクターからの評価の方がずっと価値あるぜ。ところで、こいつって純金で間違いないよな？歯ごたえがちょっと硬い気がするつうか……"
+        },
+        {
+          "language": "英文",
+          "content": "Your recognition is more precious than any medal, Doctor. Is this pure gold, by the way? I tried biting it, and it's harder than I thought."
+        },
+        {
+          "language": "韩文",
+          "content": "이 훈장보다 박사의 인정이 더 값지다고 생각해. 그나저나 그냥 궁금해서 묻는 건데 이거 순금 맞아? 물었을 때 조금 딱딱해서."
         }
       ]
     },
@@ -205,7 +312,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ここまで来ると、もう正真正銘ロドスのために命張ってる感あるねぇ。けどマジで命を落としてきてほしいとは思わねぇだろ？お互い命は大事にしようぜ。やりたいことを成し遂げる日まで生き抜いてこそだと思うんだよね、俺は。"
+        },
+        {
+          "language": "英文",
+          "content": "Sure, I put my head on the line for you guys, but you don't really want me to lose it, do you? Best that we both keep on living, until the day we've done all that we need to."
+        },
+        {
+          "language": "韩文",
+          "content": "여기까지 오니까 내가 정말 로도스 아일랜드를 위해 목숨을 걸고 있다는 느낌이 들어. 하지만 정말 우리가 목숨까지 거는 걸 바라는 건 아니잖아, 그렇지? 목숨은 소중히 여기자고. 하고 싶은 일을 정말로 이루는 그날까지. 잘 살아남자, 우리."
         }
       ]
     },
@@ -219,7 +334,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あーあせっかくの休みが……はいはい心配すんな。こんな時にヘマをやらかす俺じゃないさ。"
+        },
+        {
+          "language": "英文",
+          "content": "And I thought I was going to get a few days off... well, don't worry, I never let you down, do I?"
+        },
+        {
+          "language": "韩文",
+          "content": "간만에 며칠 쉬나 했더니…… 알겠어, 좋아. 걱정하지 마. 내가 언제 뭐 실수하는 거 봤어?"
         }
       ]
     },
@@ -233,7 +356,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "こいつは責任重大だな。皆々様、どうぞお手柔らかに。"
+        },
+        {
+          "language": "英文",
+          "content": "This is a big responsibility, guys. I'm counting on you."
+        },
+        {
+          "language": "韩文",
+          "content": "책임감이 막중하네. 모두 잘 부탁해."
         }
       ]
     },
@@ -247,7 +378,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "それでは作戦計画書を配布する。不明な箇所は……自分でなんとかしてくれ。"
+        },
+        {
+          "language": "英文",
+          "content": "Here's the battle plan. If there's anything you don't understand, figure it out yourself."
+        },
+        {
+          "language": "韩文",
+          "content": "이제 작전 계획서를 나눠 줄 거거든? 이해 안 되는 부분은…… 각자 알아서 잘 이해해 봐."
         }
       ]
     },
@@ -261,7 +400,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "警告する必要はない、直接かかれ。反応する隙を与えるなよ。"
+        },
+        {
+          "language": "英文",
+          "content": "No need for warnings. Hit them fast and hard, don't give them a chance to react."
+        },
+        {
+          "language": "韩文",
+          "content": "경고할 필요가 뭐 있어, 바로 해 버려야지. 쟤들한텐 반응할 틈조차 주면 안 돼."
         }
       ]
     },
@@ -275,7 +422,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "そんじゃ、行きますか。"
+        },
+        {
+          "language": "英文",
+          "content": "Let's go."
+        },
+        {
+          "language": "韩文",
+          "content": "자, 그럼 가 볼까."
         }
       ]
     },
@@ -289,7 +444,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "もう俺の番？"
+        },
+        {
+          "language": "英文",
+          "content": "My turn already?"
+        },
+        {
+          "language": "韩文",
+          "content": "벌써 내 차례야?"
         }
       ]
     },
@@ -303,7 +466,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "入り組んだ状況だ。ここからの方がよく見渡せる。"
+        },
+        {
+          "language": "英文",
+          "content": "It's a complicated situation. This place offers a good view."
+        },
+        {
+          "language": "韩文",
+          "content": "형세가 복잡하네. 여기 시야가 딱이다."
         }
       ]
     },
@@ -317,7 +488,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "手強そうな相手だ。給料を二倍にしてもらわねぇとな？"
+        },
+        {
+          "language": "英文",
+          "content": "No extra pay for tough-than-expected enemies?"
+        },
+        {
+          "language": "韩文",
+          "content": "만만치 않아 보이는데. 이 정도면 월급을 두 배는 줘야 하지 않을까?"
         }
       ]
     },
@@ -331,7 +510,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あんたに説明する道理はない。"
+        },
+        {
+          "language": "英文",
+          "content": "I don't need to explain things to you."
+        },
+        {
+          "language": "韩文",
+          "content": "너한테 설명할 필요는 없지."
         }
       ]
     },
@@ -345,7 +532,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "お喋りしてる余裕なんかあんの？"
+        },
+        {
+          "language": "英文",
+          "content": "You think you've got the time to chat?"
+        },
+        {
+          "language": "韩文",
+          "content": "어쭈, 어디 떠들 여유가 있나 보네?"
         }
       ]
     },
@@ -359,7 +554,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "悪いね、降伏は受け付けないよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Sorry, not taking any prisoners."
+        },
+        {
+          "language": "韩文",
+          "content": "이거 미안해서 어쩌나, 항복은 받지 않아."
         }
       ]
     },
@@ -373,7 +576,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "目が回ったって？それが狙いさ。"
+        },
+        {
+          "language": "英文",
+          "content": "Getting dizzy? Good."
+        },
+        {
+          "language": "韩文",
+          "content": "아주 어질어질하지? 정상이야."
         }
       ]
     },
@@ -387,7 +598,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "危なかったぜ。ここのシノギが全部こんなにハードってんなら、保険の追加購入を考えなくちゃな。"
+        },
+        {
+          "language": "英文",
+          "content": "Wow, that was a close call. One insurance isn't enough if jobs are gonna be that tough."
+        },
+        {
+          "language": "韩文",
+          "content": "이 정도로 위험할 줄은 정말 몰랐는데. 앞으로도 계속 이렇게 힘든 일뿐이라면 보험을 몇 개 더 들어 둬야겠는걸?"
         }
       ]
     },
@@ -401,7 +620,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "手が震えるのは普通の生理現象、全力で頑張った証さ……だから普通の生理現象だって！"
+        },
+        {
+          "language": "英文",
+          "content": "Trembling hand, perfectly normal, proof that I gave my all... I said, perfectly normal!"
+        },
+        {
+          "language": "韩文",
+          "content": "손이 떨리는 건 정상적인 신체 반응이자, 내가 최선을 다했다는 증거라고…… 그, 그냥 정상적인 반응이라니까!"
         }
       ]
     },
@@ -415,7 +642,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "むやみに追いかける必要はない、どうせ遠くまでは逃げらんないから。まずは態勢を立て直すのに専念しよう。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't worry about chasing them, they won't get far. Let's get rested."
+        },
+        {
+          "language": "韩文",
+          "content": "어차피 멀리 못 달아나니까 무리해서 쫓을 필요 없어. 우선 태세 재정비에 집중하자."
         }
       ]
     },
@@ -429,7 +664,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "慌てるな、みんな俺の後ろについて来い。こっちに抜け道を用意してある！"
+        },
+        {
+          "language": "英文",
+          "content": "Don't panic, there's a way out here, follow me."
+        },
+        {
+          "language": "韩文",
+          "content": "당황하지 말고 내 뒤를 따라와! 이쪽에 퇴로를 만들어 뒀어!"
         }
       ]
     },
@@ -443,7 +686,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "結構広々としてんじゃん。賄いのほうはどうかな？"
+        },
+        {
+          "language": "英文",
+          "content": "Well, the place is spacious enough. I wonder how the food is like."
+        },
+        {
+          "language": "韩文",
+          "content": "공간은 꽤 넓네, 그나저나 먹을 건 잘 나오나 몰라."
         }
       ]
     },
@@ -457,7 +708,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "指に気を付けな、刺さるぜ。"
+        },
+        {
+          "language": "英文",
+          "content": "Don't prick your finger."
+        },
+        {
+          "language": "韩文",
+          "content": "손가락 찔릴라, 조심해."
         }
       ]
     },
@@ -471,7 +730,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "今日はフルーツ半額らしいぜ？ポイントでの引き換えもやっててさ――シーッ、言い触らすなよ。ほら、早く買いに行けって。"
+        },
+        {
+          "language": "英文",
+          "content": "Fruit's on sale at half-price, and you can use points to redeem them—shh, don't tell anyone, get them before they're gone."
+        },
+        {
+          "language": "韩文",
+          "content": "오늘 과일 반값에, 포인트까지 사용할 수 있다고 하니까…… 쉿, 아무한테도 말하지 말고 조용히 가서 사."
         }
       ]
     },
@@ -485,7 +752,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
         }
       ]
     },
@@ -499,7 +774,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "前は、こんなにたくさんの灯りや飾りが見られるのは安魂祭のパレードの時くらいだったな。意味するところは大いに違うが、心揺さぶるのは変わらないね。会場に降りる？いや、俺は遠目で眺めるだけで十分だよ。それにこのあと新年の特売があるから、早めに並びに行かないと。"
+        },
+        {
+          "language": "英文",
+          "content": "Only ever saw so many lights and decorations at the Sauin parade. The meaning's different, but the impact's the same. No, I'm not going down there. Perfectly happy up here, plus there's the New Year's sale that I've got to queue up for."
+        },
+        {
+          "language": "韩文",
+          "content": "예전엔 서우인 때나 이렇게 많은 등불과 장식을 볼 수 있었는데…… 의미는 많이 다르지만, 마음을 울리는 건 다르지 않네. 같이 내려가자고? 난 됐어. 여기서 바라보는 걸로도 충분해. 게다가 이따가 새해맞이 특별 할인 행사가 있거든, 빨리 가서 줄 서야지."
         }
       ]
     },
@@ -510,6 +793,28 @@
         {
           "language": "中文",
           "content": "博士，休息得怎么样？我好像还有点困呢。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、ちゃんと休めたかい？俺はちょっと寝足りない感じかな。"
+        },
+        {
+          "language": "英文",
+          "content": "How's your break, Doctor? I still feel a little drowsy."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 잘 쉬었어? 난 아직 좀 졸린 거 같은데."
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "四处打听也没有问出你最想要什么生日礼物，不过据我观察，你应该不会讨厌这个——尝尝我的手艺，是不是你喜欢的口味？一碗热汤能够驱散所有忧虑，喝了这碗汤，要更加开心哦。"
         },
         {
           "language": "日文",
@@ -527,7 +832,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、要求通りに報告書をまとめて、アーカイブしてきたぞ。別れの挨拶も書いてきたから、アクセス権限の抹消を進めつつ聞いててくれ。昨年であんたが最も興味を持った情報は――ん？もういいのか？昨日あんたが言ってたじゃないか、道を外れないためには常に振り返りをしないとダメだって。"
+        },
+        {
+          "language": "英文",
+          "content": "All the reports have been filed in accordance with your requirements. I even prepared a farewell statement that you can listen to while revoking access. The information that you were most interested in last year was—what's that, you don't need this? But you were saying that looking back is the only way to make sure we're walking straight."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 요청대로 보고서는 전부 정리해서 보관해 뒀어. 그리고 작별 인사도 써왔는데, 액세스 권한 말소하면서 들어 줘. 작년에 네가 가장 관심 있어 하던 정보는…… 응? 안 읽어도 된다고? 그렇지만 네가 어제도 그랬잖아, 뒤를 자주 돌아봐야 앞으로 제대로 나아갈 수 있다고."
         }
       ]
     }

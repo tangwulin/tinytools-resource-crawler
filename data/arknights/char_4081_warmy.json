@@ -1,7 +1,11 @@
 {
   "name": "温米",
   "charaKey": "char_4081_warmy",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/1/15/%E7%AB%8B%E7%BB%98_%E6%B8%A9%E7%B1%B3_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/2/20/%E7%AB%8B%E7%BB%98_%E6%B8%A9%E7%B1%B3_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/d/dd/%E7%AB%8B%E7%BB%98_%E6%B8%A9%E7%B1%B3_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -779,7 +783,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "もう新年ですよ、ドクターさん、ドクターさん！一緒にデッキで花火を見ませんか？えっと……アーツじゃなくて、本物の花火ですよ。ロドスのみんなで用意したんです！しーっ、ほら。音、聞こえました？"
+        },
+        {
+          "language": "英文",
+          "content": "Happy New Year, Doctor! Do you want to go up to the deck to watch the fireworks together? Uh... It's not Arts. It's real fireworks. Everybody at Rhodes Island pitched in to make it happen! Shh—Do you hear that?"
+        },
+        {
+          "language": "韩文",
+          "content": "새해예요 박사님! 같이 갑판에서 불꽃놀이 구경하는 거 어떠세요? 어…… 오리지늄 아츠가 아니라 진짜 폭죽이에요! 로도스 아일랜드 사람들이 다같이 준비한 거라고요! 쉿…… 소리 들으셨죠?"
         }
       ]
     },
@@ -806,6 +818,28 @@
       ]
     },
     {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "生日快乐，博士！我和兰娜姐为您准备了萝卜蛋糕！......您今天已经吃过好多人送的蛋糕了？那......欸？您愿意尝几块，再分给阿米娅姐和暴行姐几块？太好啦！我来点蜡烛！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        }
+      ]
+    },
+    {
       "title": "周年庆典",
       "filename": "CN_044.wav",
       "text": [
@@ -815,7 +849,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "小さい頃、わたしにはたくさんの夢がありました。でも、パパはわたしが元気で幸せに育ってくれれば良いって言うだけで……今やっとその意味を理解したんです。まずは元気で幸せな暮らしをして、それから残りの夢が叶うのをのんびり待てばいいって。これからロドスが迎える新しい一年、ドクターさんも幸せになれますように。"
+        },
+        {
+          "language": "英文",
+          "content": "When I was still small, I had so, so many wishes, but Dad only ever wished for me to grow up happily... Now I understand. I need to be happy first, then I'll wait for my other wishes to slowly come true. Doctor, you need to make sure you'll be happy during this new year onboard Rhodes Island, too."
+        },
+        {
+          "language": "韩文",
+          "content": "어릴 때 전 꿈이 많았어요. 하지만 아빠는 늘 제가 건강하고 행복하기만을 바라셨죠…… 저도 이제 알아요. 가장 중요한 건 행복하게 사는 거고, 그걸 먼저 이룬 다음, 다른 소원들은 마치 약불에 조리하듯 느긋하게 이뤄지길 기다리며 살아가면 된다는 걸요. 박사님, 로도스 아일랜드에서 맞이할 새로운 한 해도 행복하시길 바랄게요."
         }
       ]
     }

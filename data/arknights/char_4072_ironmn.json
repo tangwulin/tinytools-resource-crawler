@@ -919,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ハッピーニューイヤー、ドクター！何飲む？ジンジャービールとかどう……ダンス？はは、俺の手先の器用さとステップの上手さは反比例なんだよ。まっ、あんたが付き合ってくれるってなら踊ってみてもいいけど。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Want a drink, Doctor? How about some ginger ale... what, a dance? Haha, my hands might be skilled at work, but my legs are naff dancers—it all cancels out. Still, if you're okay with me, I can try. Happy New Year, Doctor."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받아, 박사. 뭐 좀 마실래? 진저비어라던가…… 춤? 하하. 난 손재주는 자신 있는데, 발재간은 영 아니라서. 물론 박사가 나랑 함께하고 싶다면 시도는 해 볼 수 있겠지만 말이지."
         },
         {
           "language": "繁体中文",
@@ -962,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "博士，谢谢你。和罗德岛的友谊让我进一步认清了自己在反抗什么。我们战斗，是为了争取每一个人在自己的城市里自由奔跑的权利。那样的未来同样属于感染者。"
+          "content": "博士，帮我看看这面板怎么在冒火......你也搞不定？那当然，我是故意弄坏......糟糕，说漏嘴了。要是就这么让你走过去，破坏了他们为你准备的惊喜，可露希尔小姐不会杀了我吧？"
         },
         {
           "language": "日文",
@@ -980,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，谢谢你。和罗德岛的友谊让我进一步认清了自己在反抗什么。我们战斗，是为了争取每一个人在自己的城市里自由奔跑的权利。那样的未来同样属于感染者。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、ありがとな。ロドスとの絆が、自分は何に抗ってるのかをはっきりさせてくれたよ。俺たちの戦いは、一人一人が自分の街で自由に行動できる権利を勝ち取るためのものだ。こういう未来は、感染者が進む先にもあるべきだと思うよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, thank you. Being with my Rhodes Island companions makes me see more clearly what it is I'm resisting. Everyone should have the freedom to run about their own city, and we fight for that right. That's a future that belongs to us all, including the Infected."
+        },
+        {
+          "language": "韩文",
+          "content": "고마워, 박사. 로도스 아일랜드와의 유대 덕분에, 난 내가 무엇을 위해 싸우고 있는지 확실히 알게 되었어. 우린 모든 사람들이 각자의 도시에서 자유롭게 뛰어다닐 권리를 쟁취하기 위해 싸울 거야. 이런 미래는, 감염자들도 누려야 한다고 생각해."
         },
         {
           "language": "繁体中文",

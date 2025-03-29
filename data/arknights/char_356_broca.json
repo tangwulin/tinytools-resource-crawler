@@ -1,7 +1,11 @@
 {
   "name": "布洛卡",
   "charaKey": "char_356_broca",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/1/1c/%E7%AB%8B%E7%BB%98_%E5%B8%83%E6%B4%9B%E5%8D%A1_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/f/fb/%E7%AB%8B%E7%BB%98_%E5%B8%83%E6%B4%9B%E5%8D%A1_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/b/b3/%E7%AB%8B%E7%BB%98_%E5%B8%83%E6%B4%9B%E5%8D%A1_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -14,6 +18,10 @@
     {
       "language": "韩语",
       "base": "voice_kr/char_356_broca"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_356_broca"
     }
   ],
   "voiceList": [
@@ -31,7 +39,7 @@
         },
         {
           "language": "英文",
-          "content": "Stand guard? ...Tch, fine."
+          "content": "Stand guard? How annoying... Fine."
         },
         {
           "language": "韩文",
@@ -57,7 +65,7 @@
         },
         {
           "language": "英文",
-          "content": "That Amiya girl is one of this place's leaders? What a black-hearted organization Rhodes Island is."
+          "content": "That Amiya girl is one of this place's leaders? What a black-hearted company Rhodes Island is."
         },
         {
           "language": "韩文",
@@ -83,7 +91,7 @@
         },
         {
           "language": "英文",
-          "content": "I have no intent on being a freeloader. If you need any manual labor done, just let me know."
+          "content": "I'm not about to freeload here. Just let me know if you need some elbow grease."
         },
         {
           "language": "韩文",
@@ -135,7 +143,7 @@
         },
         {
           "language": "英文",
-          "content": "My hobbies? I have no reason to tell you, do I? ...Good grief, stop making that face. You'll leave me alone if I tell you, right... I like modifying various things."
+          "content": "My hobbies? Why should I tell you? Ugh... Alright, alright, I'll tell you. Just stop making that face... I like tinkering."
         },
         {
           "language": "韩文",
@@ -161,7 +169,7 @@
         },
         {
           "language": "英文",
-          "content": "Back then, had it not been for Chiave and Aosta, I would've been dead in that alley. So, my life belongs to them. No matter what they want me to do, I will do it without hesitation."
+          "content": "Without Chiave and Aosta, I'd be a corpse in an alley. I owe them my life. So no matter what they want, I'll help them without a second thought."
         },
         {
           "language": "韩文",
@@ -213,7 +221,7 @@
         },
         {
           "language": "英文",
-          "content": "Work hard, make money, and continue surviving. I used to think that was all there was to life. However, Aosta was right. In a country like Siracusa, something like that is nothing more than a pipe dream."
+          "content": "Do what you're told, keep the wolf from the door, live life. They all seemed like simple ideas once to me... But Aosta was right. In a country like Siracusa, things like those aren't ideas, they're dreams."
         },
         {
           "language": "韩文",
@@ -239,7 +247,7 @@
         },
         {
           "language": "英文",
-          "content": "I acknowledge your right to lead.... However, Aosta once said that corruption begins to seep into an organization the moment you let your guard down. To prevent that from happening, I'll be keeping a close eye on you."
+          "content": "I gotta say, your leadership skills are decent... But Aosta once said that an organization turns rotten when people let their guard down. So, I'll be keeping a close eye on you."
         },
         {
           "language": "韩文",
@@ -265,7 +273,7 @@
         },
         {
           "language": "英文",
-          "content": "Asleep? Good grief, what a carefree fellow... Tch, where'd the blanket go..."
+          "content": "Asleep? What a carefree Doctor... Gah, where'd the blanket go…?"
         },
         {
           "language": "韩文",
@@ -291,7 +299,7 @@
         },
         {
           "language": "英文",
-          "content": "Since Chiave decided for me to join you, I don't have much else to say. You can call me Broca. I will listen to your orders, but don't count on me to do anything extra. I have no love for large organizations like yours."
+          "content": "Since Chiave decided I'm joining you, I don't have much else to say. You can call me Broca. I'll follow your orders, but don't count on me doing anything extra. I have no love for big organizations like yours."
         },
         {
           "language": "韩文",
@@ -317,7 +325,7 @@
         },
         {
           "language": "英文",
-          "content": "...Thanks."
+          "content": "Thanks."
         },
         {
           "language": "韩文",
@@ -343,7 +351,7 @@
         },
         {
           "language": "英文",
-          "content": "A raise? ...Don't particularly need it."
+          "content": "A raise...? Don't particularly need one."
         },
         {
           "language": "韩文",
@@ -369,7 +377,7 @@
         },
         {
           "language": "英文",
-          "content": "Maybe Aosta was right, maybe Rhodes Island is trustworthy. If that's the case, I..."
+          "content": "Maybe Aosta was right, maybe Rhodes Island <i>is</i> actually trustworthy. And if so…"
         },
         {
           "language": "韩文",
@@ -395,7 +403,7 @@
         },
         {
           "language": "英文",
-          "content": "Very well."
+          "content": "Alright."
         },
         {
           "language": "韩文",
@@ -473,7 +481,7 @@
         },
         {
           "language": "英文",
-          "content": "Well then, time to fight."
+          "content": "Time to fight."
         },
         {
           "language": "韩文",
@@ -577,7 +585,7 @@
         },
         {
           "language": "英文",
-          "content": "I'll figure something out."
+          "content": "I can handle it."
         },
         {
           "language": "韩文",
@@ -655,7 +663,7 @@
         },
         {
           "language": "英文",
-          "content": "Drop dead."
+          "content": "Die, you moron!"
         },
         {
           "language": "韩文",
@@ -681,7 +689,7 @@
         },
         {
           "language": "英文",
-          "content": "Shut up."
+          "content": "Shaddap you face."
         },
         {
           "language": "韩文",
@@ -707,7 +715,7 @@
         },
         {
           "language": "英文",
-          "content": "You... aren't half bad."
+          "content": "Alright… You've got a few tricks."
         },
         {
           "language": "韩文",
@@ -785,7 +793,7 @@
         },
         {
           "language": "英文",
-          "content": "No need to panic. You did what you could. Even Aosta makes mistakes."
+          "content": "Relax. You did what you could. Even Aosta makes mistakes."
         },
         {
           "language": "韩文",
@@ -837,7 +845,7 @@
         },
         {
           "language": "英文",
-          "content": "Oy...!"
+          "content": "Hey…!"
         },
         {
           "language": "韩文",
@@ -863,7 +871,7 @@
         },
         {
           "language": "英文",
-          "content": "You're rather rude."
+          "content": "You're pretty annoying, Doctor."
         },
         {
           "language": "韩文",
@@ -911,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あけましておめでとう、ドクター。……なんだその顔は。世話になった人にあいさつをするくらいの常識は持ち合わせている。それにシラクーザにいた頃は、こんな光景は想像すらできなかった。ロドスは悪くないところだな。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy New Year, Doctor... What? I have to pay for my freeloading. Besides, occasions like these are incredible to me. Comparing to my time in Siracusa, Rhodes Island is decent."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받아라, 박사. ……뭐야, 그 얼굴은. 얹혀사는 입장에 이 정도 예의는 보여야 한다는 것쯤은 나도 안다고. 게다가, 시라쿠사에 있을 적과 비교한다면, 이런 평화로움은 상상조차 못했을 일이기도 하고. 그래, 로도스 아일랜드 나쁘지 않다고 생각해."
         },
         {
           "language": "繁体中文",
@@ -954,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "没想到在这里遇到了，我刚清理完自己的工具台，最近武器制作的单子还挺多的。我怎么不监督你了？因为目前来看，你似乎没有什么堕落的倾向，更何况我已经认同了你的目标，一起努力吧，博士。"
+          "content": "我之前没送过谁礼物，不太会挑，奥斯塔说让我自己做一个。给，这是一块我做了完整防腐流程的木雕原料。木材有桐油可以防腐，人没有，你可以把它摆在办公桌前，就当是我在监督你。"
         },
         {
           "language": "日文",
@@ -972,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没想到在这里遇到了，我刚清理完自己的工具台，最近武器制作的单子还挺多的。我怎么不监督你了？因为目前来看，你似乎没有什么堕落的倾向，更何况我已经认同了你的目标，一起努力吧，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "まさかここで会うとはな。ちょうど作業台の片付けが終わったところだ。最近は武器のオーダーが多くてな。見張りはもういいのかって？今のところ道を踏み外す兆しもないし、この頃はお前の考え方も一理あると思えてきてな。共に目標を目指して頑張ろうか、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "I didn't think I'd run into you here. I just finished cleaning up my workbench— there's been a lot of orders in for weapons lately. Why haven't I been supervising you lately? Because you don't seem like you're about to turn rotten these days. And I approve of your goals. Let's work hard together, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "여기서 보게 될 줄은 몰랐는데, 방금 작업대를 정리한 참이야. 요즘 무기 제작 요청이 꽤 많이 들어와서 말이지. 왜 너를 감시하지 않냐고? 현재로서는 네게 타락의 조짐이 보이지 않거든. 게다가 네 목표에 동의하기도 했고 말이야. 같이 노력하자고, 박사."
         },
         {
           "language": "繁体中文",

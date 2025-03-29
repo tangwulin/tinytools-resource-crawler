@@ -199,7 +199,7 @@
         },
         {
           "language": "韩文",
-          "content": "드디어 내가 눈에 들어오기 시작한 거야? 난 처음부터 박사가 계속 눈에 밟혀서, 참기 힘들었는데…"
+          "content": "드디어 내가 눈에 들어오기 시작한 거야? 난 처음부터 박사가 계속 눈에 밟혀서, 참기 힘들었는데……"
         },
         {
           "language": "繁体中文",
@@ -225,7 +225,7 @@
         },
         {
           "language": "韩文",
-          "content": "박사한텐 늘 신세를 지고 있으니까, 그렇지… “내 카시미어 기사의 이름을 걸고, 이 은혜에 반드시 보답하겠…” 응? 이상해? 이래 보여도 어엿한 기사인걸? 기사다운 대사라면 얼마든지 할 수 있어~"
+          "content": "박사한텐 늘 신세를 지고 있으니까, 그렇지…… “내 카시미어 기사의 이름을 걸고, 이 은혜에 반드시 보답하겠……” 응? 이상해? 이래 보여도 어엿한 기사인걸? 기사다운 대사라면 얼마든지 할 수 있어~"
         },
         {
           "language": "繁体中文",
@@ -251,7 +251,7 @@
         },
         {
           "language": "韩文",
-          "content": "유괴당해서 카시미어에 끌려갔을 때 이후로, 누가 이렇게 따뜻하게 대해주는 건 정말 오랜만이네… 그러니까, 박사가 싫지 않다면, 기사의 명예를 걸고… 이 그라벨, 아니… 이 세노미는, 영원히 당신을 섬기도록 할게."
+          "content": "유괴당해서 카시미어에 끌려갔을 때 이후로, 누가 이렇게 따뜻하게 대해주는 건 정말 오랜만이네…… 그러니까, 박사가 싫지 않다면, 기사의 명예를 걸고…… 이 그라벨, 아니…… 이 세노미는, 영원히 당신을 섬기도록 할게."
         },
         {
           "language": "繁体中文",
@@ -381,7 +381,7 @@
         },
         {
           "language": "韩文",
-          "content": "그러니까… 박사한텐 내가 필요하다, 이거지? 후후~"
+          "content": "그러니까…… 박사한텐 내가 필요하다, 이거지? 후후~"
         },
         {
           "language": "繁体中文",
@@ -485,7 +485,7 @@
         },
         {
           "language": "韩文",
-          "content": "적을… 후후…"
+          "content": "적을…… 후후……"
         },
         {
           "language": "繁体中文",
@@ -637,7 +637,7 @@
         },
         {
           "language": "英文",
-          "content": "hehe..."
+          "content": "Hehehe..."
         },
         {
           "language": "韩文",
@@ -745,7 +745,7 @@
         },
         {
           "language": "韩文",
-          "content": "이 칼이, 아직 피에 목마르다고 말하고 있어, 후후…"
+          "content": "이 칼이, 아직 피에 목마르다고 말하고 있어, 후후……"
         },
         {
           "language": "繁体中文",
@@ -845,7 +845,7 @@
         },
         {
           "language": "英文",
-          "content": "hehe..."
+          "content": "Hehehe..."
         },
         {
           "language": "韩文",
@@ -875,7 +875,7 @@
         },
         {
           "language": "韩文",
-          "content": "응, 난 여기 있어. 언제나…"
+          "content": "응, 난 여기 있어. 언제나……"
         },
         {
           "language": "繁体中文",
@@ -919,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "明けましておめでとう、ドクター。手を貸して――チュッ――ん？どうしていきなりって？守ると誓った相手の手に口づけをするのは、カジミエーシュ騎士流の新年のお祝いなのよ～。聞いたことない？いくらあなたでも、たまにはこの手の知識を仕入れておかないと～。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy New Year, Doctor. Give me your hand—mmmwah—hm? What are you so surprised for? Kissing the hands of those we've sworn to protect is how us knights of Kazimierz celebrate the New Year, you know. You've never heard of it? Sounds like you need to pay a little more attention."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받아, 박사. 손 이리 줘 봐, 쪽. 응? 갑자기 왜 그러냐고? 계약을 맺은 수호 상대의 손등에 입을 맞추는 건, 카시미어 기사의 새해 축하 의식이거든~ 못 들어 봤다고? 흐음, 박사도 이런 쪽으로 좀 더 관심을 갖는 편이 좋을 거야."
         },
         {
           "language": "繁体中文",
@@ -962,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "博士，你会因为找不回过去的一切痕迹而......无法安眠吗？当踏上罗德岛的甲板时我在想，走出去，会不会就能和自己遗忘的记忆更近一点？博士，这种时候，安慰我才是解风情的做法哦~"
+          "content": "博士，毫无警惕地拆开没有署名的礼物可是很危险的，这样疏于防范，可是会出事的哦~身为博士的护卫，这种日子就最应该一直守护左右呀，就让我来为你查明里面都放了些什么吧。"
         },
         {
           "language": "日文",
@@ -980,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，你会因为找不回过去的一切痕迹而......无法安眠吗？当踏上罗德岛的甲板时我在想，走出去，会不会就能和自己遗忘的记忆更近一点？博士，这种时候，安慰我才是解风情的做法哦~"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、あなたも過去の痕跡を取り戻せないことで……眠れなくなったりする？あたしはね、初めてロドスのデッキに登った時、カジミエーシュの外に出れば失った記憶に少しは近付けるのかしらって思っていたわ。ドクター、ここはあたしを慰めるのが正解よ～。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, does it ever keep you up at night... that you might never find any trace of your past again? Whenever I step out onto Rhodes Island's deck, I wonder, would walking away from here bring me any closer to my forgotten memories?... Say, Doctor, don't you know you're supposed to console me, when I bring down the mood like this?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 박사는 되찾을 수 없는 과거 때문에 잠들지 못한 적 있어? 로도스 아일랜드의 갑판 위에 설 때마다 난, 이곳을 떠나면 잃어버린 기억에 더 가까워질 수 있지 않을까라는 생각을 하곤 해. 박사, 이럴 땐 날 위로해 주는 편이 분위기가 풀리지 않겠어, 어떻게 생각해?"
         },
         {
           "language": "繁体中文",

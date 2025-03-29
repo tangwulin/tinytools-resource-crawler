@@ -1,7 +1,11 @@
 {
   "name": "号角",
   "charaKey": "char_4039_horn",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/4/49/%E7%AB%8B%E7%BB%98_%E5%8F%B7%E8%A7%92_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/9/98/%E7%AB%8B%E7%BB%98_%E5%8F%B7%E8%A7%92_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/f/f6/%E7%AB%8B%E7%BB%98_%E5%8F%B7%E8%A7%92_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -91,7 +95,7 @@
         },
         {
           "language": "韩文",
-          "content": "'화이트 울프'라는 호칭은 아슬란이 왕좌에 오르는 데까지의 역사만큼 유구합니다. 그런데 무엇 때문에 갑자기 이런 일에 흥미가 생기셨나요? ……아, 전에…… 제 송곳니가 보였다고요? 죄송합니다, 제 실수였습니다. 같은 실수를 반복하지 않도록 주의하겠습니다."
+          "content": "화이트 울프'라는 호칭은 아슬란이 왕좌에 오르는 데까지의 역사만큼 유구합니다. 그런데 무엇 때문에 갑자기 이런 일에 흥미가 생기셨나요? ……아, 전에…… 제 송곳니가 보였다고요? 죄송합니다, 제 실수였습니다. 같은 실수를 반복하지 않도록 주의하겠습니다."
         },
         {
           "language": "繁体中文",
@@ -247,7 +251,7 @@
         },
         {
           "language": "韩文",
-          "content": "박사님, 당신처럼 훌륭한 지휘관도 슬프거나, 분노하거나… 원망할 때가 있나요? 최대한 사사로운 감정에 휩쓸리지 않도록 노력하고는 있지만, 역시 잊지는 못할 겁니다. 절대로 잊지 않을 거라고 그들 앞에 맹세했으니까요."
+          "content": "박사님, 당신처럼 훌륭한 지휘관도 슬프거나, 분노하거나…… 원망할 때가 있나요? 최대한 사사로운 감정에 휩쓸리지 않도록 노력하고는 있지만, 역시 잊지는 못할 겁니다. 절대로 잊지 않을 거라고 그들 앞에 맹세했으니까요."
         },
         {
           "language": "繁体中文",
@@ -819,7 +823,7 @@
         },
         {
           "language": "韩文",
-          "content": "이곳은 빅토리아와는 전혀 다르긴 하지만… 제가 로열 가드 스쿨에서 공부하던 시절을 떠올리게 하네요."
+          "content": "이곳은 빅토리아와는 전혀 다르긴 하지만…… 제가 로열 가드 스쿨에서 공부하던 시절을 떠올리게 하네요."
         },
         {
           "language": "繁体中文",
@@ -915,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "Miseryさんに救出された時、もう年越しの時期は過ぎたと教えていただきました。新年を祝い損ねたのはあれが初めてでした。あの日から、私にとってこういう祝日は意味をなさなくなったんです。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "When Misery rescued me, he told me the New Year had already come and gone. That was the first one I ever missed. Ever since, I've begun to pay less attention to these holidays at all."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "제가 미저리 씨에게 구해졌을 당시, 그분께선 새해가 이미 지났다고 알려주셨습니다. 새해를 기념하지 못했던 것은 그때가 처음이었어요. 그날 이후로, 제게 이런 명절은 의미가 없게 됐습니다."
         },
         {
           "language": "繁体中文",
@@ -958,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "阶段性的总结和庆祝都是很有必要的。在阿米娅结束讲话，身边的人突然开始大笑和尖叫的那一瞬间，我不知为何松了口气。过去的事情已经过去了。"
+          "content": "我该用哪一种礼仪为您庆祝生日？我不认为您喜欢酒会，那就为您唱首歌吧。这是以前风暴突击队的小小仪式。"
         },
         {
           "language": "日文",
@@ -976,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "阶段性的总结和庆祝都是很有必要的。在阿米娅结束讲话，身边的人突然开始大笑和尖叫的那一瞬间，我不知为何松了口气。过去的事情已经过去了。"
+        },
+        {
+          "language": "日文",
+          "content": "マイルストーン的な区切りと、お祝いは重要なものです。アーミヤさんが話し終わった時、周りの方々が一斉に沸いたあの瞬間、どうしてか肩の力が抜けたんです。過去に起きたことは、もう、過ぎたことです。"
+        },
+        {
+          "language": "英文",
+          "content": "Periodic summations and celebrations both can't be dispensed with. When Amiya's speech wound up, the instant the people around me started laughing and bellowing, I relaxed. That surprised me. I see what's past is past now."
+        },
+        {
+          "language": "韩文",
+          "content": "단계적인 결산과 경축은 모두 꼭 필요한 것들입니다. 아미야가 얘기를 끝내고, 옆에 있던 사람들이 갑자기 웃고 떠들기 시작하자, 전 왠지 모르게 안심이 되었습니다. 역시 과거의 일은, 그저 지나간 일에 불과한 것이겠지요."
         },
         {
           "language": "繁体中文",

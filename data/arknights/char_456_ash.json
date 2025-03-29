@@ -1,7 +1,11 @@
 {
   "name": "灰烬",
   "charaKey": "char_456_ash",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/3/37/%E7%AB%8B%E7%BB%98_%E7%81%B0%E7%83%AC_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/2/28/%E7%AB%8B%E7%BB%98_%E7%81%B0%E7%83%AC_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/2/22/%E7%AB%8B%E7%BB%98_%E7%81%B0%E7%83%AC_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "联动",
@@ -903,15 +907,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "新年ね、何か計画はあるの？"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy New Year. Got any plans?"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해가 다가오는군. 특별한 계획이라도 있나?"
         },
         {
           "language": "繁体中文",

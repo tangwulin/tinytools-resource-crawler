@@ -1,7 +1,11 @@
 {
   "name": "刻刀",
   "charaKey": "char_301_cutter",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/5/51/%E7%AB%8B%E7%BB%98_%E5%88%BB%E5%88%80_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/e/e8/%E7%AB%8B%E7%BB%98_%E5%88%BB%E5%88%80_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/1/12/%E7%AB%8B%E7%BB%98_%E5%88%BB%E5%88%80_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -31,7 +35,7 @@
         },
         {
           "language": "英文",
-          "content": "Excuse me, Doctor, am I on duty today... Huh? Umm, how'd my blade get stuck in the doorframe..."
+          "content": "Hello, Doctor, I'm on duty today... Oh, sorry, my blade got stuck in the doorframe…"
         },
         {
           "language": "韩文",
@@ -57,7 +61,7 @@
         },
         {
           "language": "英文",
-          "content": "Back home, the soil gets more and more barren each day, and what we harvest isn't enough to feed ourselves. Most people aren't able to make a living, so their only option is to become mercenaries. They'll do anything, as long as it pays."
+          "content": "Back home, the soil goes more and more barren every day, and we don't harvest enough to feed ourselves. Most people can't make a living, so they have to become mercenaries to survive. They'll do anything, as long as it pays."
         },
         {
           "language": "韩文",
@@ -83,7 +87,7 @@
         },
         {
           "language": "英文",
-          "content": "Uhh, they said my blade was too dangerous and forbade me from going back into the kitchen. I just wanted to help, but, as soon as I tapped that cutting board with my blade, it split wide open... Well, um, should I pay for it?"
+          "content": "They said my blade was too dangerous and wouldn't let me into the kitchen. I just wanted to help, but as soon as I tapped that cutting board with my blade, it split in two... Umm... should I pay for it?"
         },
         {
           "language": "韩文",
@@ -109,7 +113,7 @@
         },
         {
           "language": "英文",
-          "content": "Every time I bask in the sun, I can't help but to get a bit sleepy. But don't worry, before I've confirmed that it's completely safe, I won't actually fall... asleep... ZZZzzzzz..."
+          "content": "Every time I bask in the sun, I can't help but get a bit sleepy. But don't worry, I'm on guard... Keeping you safe... I won't fall... asleep... ZZZzzzzz…"
         },
         {
           "language": "韩文",
@@ -135,7 +139,7 @@
         },
         {
           "language": "英文",
-          "content": "In my line of work, I have a set of principles that I follow: I don't harm the innocent, and I don't get bystanders involved... To be honest, it's really hard."
+          "content": "I have standards in my line of work: Don't harm the innocent, don't get bystandars involved… To be honest, it's hard to stick to them…"
         },
         {
           "language": "韩文",
@@ -161,7 +165,7 @@
         },
         {
           "language": "英文",
-          "content": "This necklace, I'm lending it to you, it's a protective charm. No, I can't give you my blade. When I'm not here, just use this."
+          "content": "I'm lending you this necklace, take good care of it. It's a protective charm. No, I can't give you my blade. Just remember to keep the charm with you when I'm not around."
         },
         {
           "language": "韩文",
@@ -187,7 +191,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctor, I need you to look at me, and don't move. Hey, I said not to move... Hm, hmm... Don't worry, you're not the kind of person who would use others to commit evil. I can tell."
+          "content": "Doctor, I need you to look me in the eye, and don't move. Come on, hold still... Hmm… Good, you're not the type to use people for evil. I can tell."
         },
         {
           "language": "韩文",
@@ -213,7 +217,7 @@
         },
         {
           "language": "英文",
-          "content": "To be honest, I don't really remember much from when I was little. My teacher raised me and taught me how to use a knife. He also told me that my parents got caught up in a fight and died because of it. When he found me, I was holding onto a knife and wouldn't let go even if it was cutting into me."
+          "content": "Honestly, I don't remember much from when I was little. My teacher raised me, and taught me to use a blade. He told me my parents got mixed up in a fight that got them killed. When he found me, I was clutching this blade and wouldn't let it go, even as it dug into me."
         },
         {
           "language": "韩文",
@@ -239,7 +243,7 @@
         },
         {
           "language": "英文",
-          "content": "Those who wield the blade will always pursue the duel, and those who kill will eventually become a notch on the blade of another. Perhaps one day, I will also find such an ending... and when that happens, I hope you'll be there to witness it."
+          "content": "She who wields a blade will always look to duel, and she who takes a life will eventually become a notch on the blade of another. Maybe one day, I'll meet an end like that... When that happens, Doctor, I hope you'll be there to witness it."
         },
         {
           "language": "韩文",
@@ -265,7 +269,7 @@
         },
         {
           "language": "英文",
-          "content": "I'm standing guard, so you can rest easy."
+          "content": "I'll stand guard. You can rest easy."
         },
         {
           "language": "韩文",
@@ -291,7 +295,7 @@
         },
         {
           "language": "英文",
-          "content": "Cutter. Just an ordinary mercenary. I have Oripathy, so I plan to trade my abilities for some treatment. Hope this blade's good enough to get things done for you... Mm, that's about it."
+          "content": "Cutter. Just an ordinary mercenary. I have Oripathy, so I'm looking to trade my skills for treatment. Hope this blade's good enough to get things done for you... Yeah, that's about it."
         },
         {
           "language": "韩文",
@@ -317,7 +321,7 @@
         },
         {
           "language": "英文",
-          "content": "Amazing! Didn't know you could use a blade like that!"
+          "content": "Nice moves! Didn't know you could use a blade like that."
         },
         {
           "language": "韩文",
@@ -343,7 +347,7 @@
         },
         {
           "language": "英文",
-          "content": "Other than this blade, freedom's the only treasure I have. If you're willing to protect that, then I'll listen to you."
+          "content": "Freedom's the only treasure I have, besides my blade. If you're willing to protect it, I'll listen to you."
         },
         {
           "language": "韩文",
@@ -369,7 +373,7 @@
         },
         {
           "language": "英文",
-          "content": "A mercenary's blade isn't some toy that's never tasted blood before. Maybe one day, I'll no longer be able to control it. But don't worry, at least for now... it'll work for you."
+          "content": "A mercenary's blade isn't a toy that never sees bloodshed, it feeds on it. Maybe one day, I won't be able to control it anymore. But don't worry, at least for now... it works for you."
         },
         {
           "language": "韩文",
@@ -421,7 +425,7 @@
         },
         {
           "language": "英文",
-          "content": "Understood. Can I select my own teammates then?"
+          "content": "Understood. Can I select my own teammates?"
         },
         {
           "language": "韩文",
@@ -447,7 +451,7 @@
         },
         {
           "language": "英文",
-          "content": "Prepare yourself, and make sure not to get any innocents involved."
+          "content": "Be ready. And make sure you don't get any innocents involved."
         },
         {
           "language": "韩文",
@@ -473,7 +477,7 @@
         },
         {
           "language": "英文",
-          "content": "Hey, blade, you sharp enough?"
+          "content": "Your blades all sharp?"
         },
         {
           "language": "韩文",
@@ -551,7 +555,7 @@
         },
         {
           "language": "英文",
-          "content": "The battlefield is the cemetery."
+          "content": "The battlefield is a graveyard."
         },
         {
           "language": "韩文",
@@ -577,7 +581,7 @@
         },
         {
           "language": "英文",
-          "content": "Wielding a blade is all I need to do."
+          "content": "All I need to do is wield my blade."
         },
         {
           "language": "韩文",
@@ -707,7 +711,7 @@
         },
         {
           "language": "英文",
-          "content": "Maybe one day, there'll be something that my blade can't cut. But that day isn't today, and it certainly isn't you."
+          "content": "Maybe one day, there'll be something my blade can't cut. But that day isn't today, and it certainly isn't these guys."
         },
         {
           "language": "韩文",
@@ -733,7 +737,7 @@
         },
         {
           "language": "英文",
-          "content": "Phew... Everything done, just as specified in the contract. Need to take a look?"
+          "content": "Phew... All done, just as specified in the contract. Need to take a look?"
         },
         {
           "language": "韩文",
@@ -759,7 +763,7 @@
         },
         {
           "language": "英文",
-          "content": "Those who've lost the will to fight should not be my targets."
+          "content": "They've lost their will to fight. Not my targets anymore."
         },
         {
           "language": "韩文",
@@ -811,7 +815,7 @@
         },
         {
           "language": "英文",
-          "content": "Finally, some sunlight... Ahh, so warm..."
+          "content": "My sunny spot… Ahh, so warm…"
         },
         {
           "language": "韩文",
@@ -911,15 +915,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "新しい一年に、ドクターの健康を祈るよ。そう、充実な毎日を過ごせるように、そしてたくさん日に当たれるように。とにかく、私のできる範囲で気にかけてあげるから。あけましておめでとう、ドクター。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "To a happy and healthy New Year. Mm, gotta live your best life every day, and get plenty of sunshine. Basically, I'll try to keep looking out for you, within my means anyway. Happy New Year, Doctor."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새로운 한 해에는 박사가 건강하길 기원할게. 그래, 보람차게 매일매일을 보내고 햇볕도 더 많이 쬐는 거야. 아무튼 난 내 힘이 닿는 데까지 계속 박사를 지켜볼게. 새해 복 많이 받아, 박사."
         },
         {
           "language": "繁体中文",
@@ -941,7 +945,7 @@
         },
         {
           "language": "英文",
-          "content": "Oh, Doctor, you're here. Got any work today?"
+          "content": "Oh, you're here, Doctor. Got any work today?"
         },
         {
           "language": "韩文",
@@ -950,6 +954,32 @@
         {
           "language": "繁体中文",
           "content": "啊，博士你來了。今天有哪些工作？"
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，生日快乐。这个蛋糕，是一周前我出外勤任务的时候带回来的。虽然很想自己来做，但我暂时还没有获得食堂使用权......我会继续努力，争取在明年，让您吃到我亲手做的蛋糕。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
         }
       ]
     },
@@ -963,15 +993,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "一人っきりで、自分のルールを守り通せるような傭兵であり続けるのは、実は難しいんだ。船も同じだよ。目印になるようなものがないと、行き先を見失いやすいでしょ。でもロドスと一緒なら安心だよ。自分が正しいことをしてるって信じられるから。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "I want to be a principled merc, but it's actually hard to do it alone. Just like a ship without a point of reference, you get lost real easy. But here at Rhodes Island, I can rest easy. I can trust I'm doing the right thing."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "홀로 룰을 지키며 용병 생활을 한다는 건 사실 매우 어려운 일이야. 마치 참고 대상이 없으면 배도 방향을 잃기 쉬운 것처럼 말이지. 하지만 로도스 아일랜드에선 안심할 수 있어. 난 내가 올바른 일을 하고 있다고 믿으니까."
         },
         {
           "language": "繁体中文",

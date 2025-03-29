@@ -1,7 +1,10 @@
 {
   "name": "泰拉大陆调查团",
   "charaKey": "char_4077_palico",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/8/88/%E7%AB%8B%E7%BB%98_%E6%B3%B0%E6%8B%89%E5%A4%A7%E9%99%86%E8%B0%83%E6%9F%A5%E5%9B%A2_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/5/56/%E7%AB%8B%E7%BB%98_%E6%B3%B0%E6%8B%89%E5%A4%A7%E9%99%86%E8%B0%83%E6%9F%A5%E5%9B%A2_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "联动",

@@ -1,7 +1,10 @@
 {
   "name": "微风",
   "charaKey": "char_275_breeze",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/e/e7/%E7%AB%8B%E7%BB%98_%E5%BE%AE%E9%A3%8E_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/0/01/%E7%AB%8B%E7%BB%98_%E5%BE%AE%E9%A3%8E_2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -195,7 +198,7 @@
         },
         {
           "language": "韩文",
-          "content": "'신앙'은 정말 흥미로운 주제야. 라테라노에 가볼 기회는 없었지만, 로도스 아일랜드의 오퍼레이터 분을 통해서 라테라노에 대해 이렇게 많이 알게 될 줄이야. 그건 그렇고, 이야기를 해 준 그 사람 정말 활기찬 분이었는데…… 라테라노는 저런 사람들이 모여있는 곳일까?"
+          "content": "신앙'은 정말 흥미로운 주제야. 라테라노에 가볼 기회는 없었지만, 로도스 아일랜드의 오퍼레이터 분을 통해서 라테라노에 대해 이렇게 많이 알게 될 줄이야. 그건 그렇고, 이야기를 해 준 그 사람 정말 활기찬 분이었는데…… 라테라노는 저런 사람들이 모여있는 곳일까?"
         },
         {
           "language": "繁体中文",
@@ -889,15 +892,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ハッピーニューイヤー、ドクターさん。あっという間にまた一年が過ぎたのね。もう家を出てから何年目になるかしら……ちょっと、そんな顔で頭を撫でないでちょうだい。別にホームシックになんかかかってないわよ！"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy New Year, Doctor. Seems a whole year's flown by. How long does that make it since I left home, then... wait, don't give me that look, or the head-patting! I'm not homesick!"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받아, 박사! 눈 깜짝할 새에 벌써 일 년이 지나갔네. 음, 그럼 집을 떠난 지 이게 몇 년째지? ……잠깐, 그런 얼굴로 내 머리 만지는 거 금지, 난 집이 그립거나 한 게 아니라고!"
         },
         {
           "language": "繁体中文",
@@ -932,12 +935,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "偶尔也会想，如果父母看到了现在我在罗德岛工作的样子，他们会以我为荣吗？还是依然无法原谅我呢......但无论怎样，拯救更多生命，是我绝对不会动摇的理想。"
+          "content": "博士，生日快乐！这有三块维多利亚蛋糕，其中——哎呀，您怎么这么着急，我还没说完呢。您好像幸运地挑到了最辣的那个。来，喝口红茶吧。"
         },
         {
           "language": "日文",
@@ -950,6 +953,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "偶尔也会想，如果父母看到了现在我在罗德岛工作的样子，他们会以我为荣吗？还是依然无法原谅我呢......但无论怎样，拯救更多生命，是我绝对不会动摇的理想。"
+        },
+        {
+          "language": "日文",
+          "content": "たまに考えるの。もしお父様とお母様がわたくしのロドスで働く姿を目にしたら、誇りに思ってくれるかしら？それとも、まだわたくしのことを怒っているのかしら……どちらにしても、より多くの命を救う夢は、絶対に揺るがないわ。"
+        },
+        {
+          "language": "英文",
+          "content": "I wonder from time to time what my parents would think of me now, working at Rhodes Island. Would they be proud of me? Or maybe they still wouldn't forgive me... Either way, saving more lives is an ideal I'll never be swayed from."
+        },
+        {
+          "language": "韩文",
+          "content": "가끔 말이야, 로도스 아일랜드에서 일하며 지내는 나의 모습을, 엄마 아빠가 보게 되면 어떤 마음일까 궁금해져. 날 자랑스러워 할까? 아니면 여전히 나를 용서하지 못하고 있으려나…… 어쨌든 난 더 많은 생명을 구하기 위해 노력할 거야. 그 어떤 것도 나의 이상을 흔들 수는 없어."
         },
         {
           "language": "繁体中文",

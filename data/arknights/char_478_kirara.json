@@ -1,7 +1,11 @@
 {
   "name": "绮良",
   "charaKey": "char_478_kirara",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/7/78/%E7%AB%8B%E7%BB%98_%E7%BB%AE%E8%89%AF_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/c/ce/%E7%AB%8B%E7%BB%98_%E7%BB%AE%E8%89%AF_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/3/33/%E7%AB%8B%E7%BB%98_%E7%BB%AE%E8%89%AF_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -31,7 +35,7 @@
         },
         {
           "language": "英文",
-          "content": "Done with everything. Um... Sorry, do you mind if I read my manga here?"
+          "content": "All done now. Um… do you mind if I read my manga here?"
         },
         {
           "language": "韩文",
@@ -57,7 +61,7 @@
         },
         {
           "language": "英文",
-          "content": "Doing human relationships is so not working out... And all you've gotta do on SNS is send a request and you're friends. Reality is a nightmare."
+          "content": "A-ah. I'm just not cut out for real life relationships… On SNS, all I gotta do is send a request to make friends. Reality is such a nightmare."
         },
         {
           "language": "韩文",
@@ -83,7 +87,7 @@
         },
         {
           "language": "英文",
-          "content": "Utage was my classmate in middle school, and the one who introduced me here. What are we like? Not bad, I guess... but, Doctor, this is what you wanna remember: riajuu are a terrifying species!"
+          "content": "Utage was my classmate in middle school, and the one who introduced me here. We're… friends, I guess, but Doctor, be warned, riajuus are terrifying!"
         },
         {
           "language": "韩文",
@@ -109,7 +113,7 @@
         },
         {
           "language": "英文",
-          "content": "Whuh? Why send messages even though we're face to face? I mean... it's 'cause it's easier that way, right, of course..."
+          "content": "Eh? Why send messages when we're face to face? Uh, cuz, you know, it's easier that way…"
         },
         {
           "language": "韩文",
@@ -135,7 +139,7 @@
         },
         {
           "language": "英文",
-          "content": "Back in Higashi, I saw Koga election vans on the street a bunch. I guess their representative was pretty cool... uh, but I don't understand much about that whole side of things, so usually I just voted whatever."
+          "content": "Back in Higashi, I saw Koga election vans on the street a bunch. Their representative is kinda hot... Um, but I don't understand much about that whole side of things, so usually I just voted whatever."
         },
         {
           "language": "韩文",
@@ -161,7 +165,7 @@
         },
         {
           "language": "英文",
-          "content": "My family says that we all came out of the sea onto dry land forever ago, and that's how we settled down. Huh? Would I wanna go back into the sea? Mmnn... honestly, I could take it or leave it. As long as none of them get Oripathy, all of them are doing pretty fine in Higashi anyway."
+          "content": "My family says that we all came out of the sea onto dry land forever ago, and that's how we settled down. Would I wanna go back into the sea? Mmnn... honestly, I don't really care.  As long as they don't get Oripathy, life's pretty good in Higashi."
         },
         {
           "language": "韩文",
@@ -187,7 +191,7 @@
         },
         {
           "language": "英文",
-          "content": "World's been kinda messy lately, huh. I hear us and the Kougon guys up north of us are getting heated again. This could suck... I wonder if the new games from them are gonna make it over..."
+          "content": "There's some trouble lately. I hear things between us and the Kougon guys up north are getting heated again. This sucks... I wonder if their latest games will make it through…"
         },
         {
           "language": "韩文",
@@ -213,7 +217,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctor, do you... think my hobbies are weird, or anything? When I was young, all the other kids made fun of me a bunch, like, I was so gloomy, or gross, stuff like that. H-Hmph. Who cares what they said, not like it was anything to care about..."
+          "content": "Um… Doctor, do you think my hobbies are weird or anything? When I was young, the other kids would make fun of me, calling me gross and gloomy. Hmph. Who cares what they said, I certainly don't."
         },
         {
           "language": "韩文",
@@ -239,7 +243,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctoooor, I'll lend you this game, and this manga and CD too! These are all masterpieces I chose from the heart so once you know them all we'll be soulmates, and then we can have so much to talk about! If you have any other genres you like you can tell me—oh—okay, how about you come over to mine and pick something out?"
+          "content": "Doctoooor! I'll lend you this game, this manga, and this CD! They're masterpieces that I handpicked, so once you go through them, we'll be otaku buddies for life! We will have so much to talk about. If you're into other genres, just say the word. Better yet, just come over and pick something you like."
         },
         {
           "language": "韩文",
@@ -265,7 +269,7 @@
         },
         {
           "language": "英文",
-          "content": "Oh jeez, gimme a sec here, just a little bit more... just need to land one more hit! —Nice! Rare drop, please and thank you!"
+          "content": "Not now, pal, I'm busy right here! Just one more hit... one more hit and he's down! Perfect! Got the rare drop!"
         },
         {
           "language": "韩文",
@@ -291,7 +295,7 @@
         },
         {
           "language": "英文",
-          "content": "...I'm Kirara. Nice to meet you... Uh, um... So that's all then? Can I leave?"
+          "content": "I'm Kirara. Nice to meet you... Uh… um… If you don't need anything else, can I leave?"
         },
         {
           "language": "韩文",
@@ -317,7 +321,7 @@
         },
         {
           "language": "英文",
-          "content": "Crap, this goes... uhhhh, but this is kind of a... humiliating name to give a special move, isn't it."
+          "content": "Wow, that's cool… Uhhhh, the ultimate's name's kinda cringe though."
         },
         {
           "language": "韩文",
@@ -343,7 +347,7 @@
         },
         {
           "language": "英文",
-          "content": "A promotion? As in a whole job upgrade...? Ugh, middle management is gonna wear us all out in the end."
+          "content": "A promotion? As in a job promotion? Ugh, a middle management job is gonna kill me."
         },
         {
           "language": "韩文",
@@ -369,7 +373,7 @@
         },
         {
           "language": "英文",
-          "content": "I wanted to thank everyone for sticking by me all this way, and... uh, I guess this isn't something you should really do by text, so... um, tha-I mean, it-it's not anything other than that, even! I just wanted to say that!"
+          "content": "I just want to thank everyone for, uh, sticking by me all this time. I realize that, uh some things are better… said in person than by text... So, um, I guess... Tha-that's all I want to say! Thank you!"
         },
         {
           "language": "韩文",
@@ -395,7 +399,7 @@
         },
         {
           "language": "英文",
-          "content": "If you want a supporter, I guess I can help out... I think."
+          "content": "If you want a support, maybe I can help out… I guess."
         },
         {
           "language": "韩文",
@@ -421,7 +425,7 @@
         },
         {
           "language": "英文",
-          "content": "...Huh? Me? Captain? Me? Are you being serious?"
+          "content": "...Huh? Me? Captain? Really? Are you serious?"
         },
         {
           "language": "韩文",
@@ -473,7 +477,7 @@
         },
         {
           "language": "英文",
-          "content": "Ah. Yeah, look over there. Enemy came right out of the tall grass."
+          "content": "Ah. Look over there. Enemy came right out of the tall grass."
         },
         {
           "language": "韩文",
@@ -499,7 +503,7 @@
         },
         {
           "language": "英文",
-          "content": "Huh? Started already?"
+          "content": "Whuh? Started already?"
         },
         {
           "language": "韩文",
@@ -525,7 +529,7 @@
         },
         {
           "language": "英文",
-          "content": "Hfff... phew..."
+          "content": "Hfff... ha…"
         },
         {
           "language": "韩文",
@@ -551,7 +555,7 @@
         },
         {
           "language": "英文",
-          "content": "Oh, crap. I think I'm getting a little nervous."
+          "content": "Oh boy, I'm kinda nervous."
         },
         {
           "language": "韩文",
@@ -577,7 +581,7 @@
         },
         {
           "language": "英文",
-          "content": "I've... seriously never seen scenes like this beyond manga before."
+          "content": "Woah, the mangas do not lie."
         },
         {
           "language": "韩文",
@@ -603,7 +607,7 @@
         },
         {
           "language": "英文",
-          "content": "Cakewalk, coming through."
+          "content": "Feels like I'm smurfing here."
         },
         {
           "language": "韩文",
@@ -629,7 +633,7 @@
         },
         {
           "language": "英文",
-          "content": "This is good, right? Okay, I got it."
+          "content": "Just like this, right? Okay."
         },
         {
           "language": "韩文",
@@ -655,7 +659,7 @@
         },
         {
           "language": "英文",
-          "content": "Give me five seconds."
+          "content": "Give me five minutes."
         },
         {
           "language": "韩文",
@@ -681,7 +685,7 @@
         },
         {
           "language": "英文",
-          "content": "Huh? Hey, that move was kind of... kind of pretty cool just now, right?"
+          "content": "Wait… That move was pretty awesome, huh?"
         },
         {
           "language": "韩文",
@@ -707,7 +711,7 @@
         },
         {
           "language": "英文",
-          "content": "Hoooooh, holy crap! You're kidding! You can take no-damage runs this far?!"
+          "content": "Uso! I've seen no-damage runs, but this is on a whole new level!"
         },
         {
           "language": "韩文",
@@ -733,7 +737,7 @@
         },
         {
           "language": "英文",
-          "content": "Quest complete. Phew... done."
+          "content": "Mission Accomplished. Phew… it's done."
         },
         {
           "language": "韩文",
@@ -759,7 +763,7 @@
         },
         {
           "language": "英文",
-          "content": "Aaarrnngh, missed, darn. No savescumming in real life. Whatever..."
+          "content": "Aaarrnngh, missed, darn. No save scumming in real life. I guess…"
         },
         {
           "language": "韩文",
@@ -785,7 +789,7 @@
         },
         {
           "language": "英文",
-          "content": "Yeah, this is done for. Let's quit out."
+          "content": "That's it, time to remake."
         },
         {
           "language": "韩文",
@@ -811,7 +815,7 @@
         },
         {
           "language": "英文",
-          "content": "I mean, if it's an option, I'd like to just stay in my room forever..."
+          "content": "If it's an option, I'd like to just stay in my room forever…"
         },
         {
           "language": "韩文",
@@ -837,7 +841,7 @@
         },
         {
           "language": "英文",
-          "content": "Whah! Aaaahh, mispress... this one's seriously not happening."
+          "content": "Whah! Aaaahh, wrong button... this round is lost."
         },
         {
           "language": "韩文",
@@ -863,7 +867,7 @@
         },
         {
           "language": "英文",
-          "content": "Oh, hey, Doctor. What, hey, you want me to step in to clear an action game or something?"
+          "content": "Oh, hey, Doctor. What? Got an action game you want me to take over?"
         },
         {
           "language": "韩文",
@@ -911,15 +915,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "今日はなんもなかったら、絶対呼ばないで……いやあのさ、初対面の人たちに一人ひとり新年の挨拶をしなきゃいけない恐怖は、ドクターにはわからないよ。とにかく、今日は一日部屋にこもってゲームするからよろしく。ドクターも来たかったら来ていいからさ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "First off, please do not invite me to anything today without a good reason. Nothing's wrong, it's just…urgh, you wouldn't get it—the terror of having to say Happy New Year to strangers at a party. Besides, I've decided to just dorm it up and play games all day. You're always welcome by the way, Doctor."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "오늘 별일 없으면 절대 나 부르지마, 절대…… 아니 바쁜 건 아니고, 낯선 이들에게 새해 인사를 건네야 하는 무언의 압박과 그 공포를…… 박사는 절대 모를 거야. 어쨌든, 나 오늘은 하루종일 방에 박혀서 게임할 건데, 어때, 박사도 같이 할래?"
         },
         {
           "language": "繁体中文",
@@ -941,7 +945,7 @@
         },
         {
           "language": "英文",
-          "content": "Oh, good stuff on the login bonuses today."
+          "content": "Good stuff in the login rewards today."
         },
         {
           "language": "韩文",
@@ -950,6 +954,32 @@
         {
           "language": "繁体中文",
           "content": "哦，今天的登入獎勵真不錯。"
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "生日快乐，这个专用传呼机送给你。看，只要按下这个按钮，我手上的这台就会亮起来，我这边也是一样的。嘿嘿，想找人联机打游戏的时候就用这个叫我吧！那个，一般好朋友之间，会这样做的吧？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
         }
       ]
     },
@@ -963,15 +993,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "感染者なのに、こんな平穏な生活を送れて、仕事の合間に漫画読んだりゲームしたりもできる……そんなファンタジーでしかない生活が実現するなんて思わなかったよ。ワンチャン私にも、もっとたくさんの幻想を形にできるのかも……"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "As an Infected, I get to live a stable life, and I can still read manga and play games outside of work… I never thought a fantasy like this could come true. Maybe there are more dreams that I can make real… Say, Doctor, let's take on the world, together."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "감염자인 내가 이렇게 평온한 생활을 하며, 일도 하고 틈틈이 만화책을 읽거나 게임도 할 수 있다니…… 그런 판타지물이 내게도 펼쳐질 줄이야, 정말 생각지도 못했는데. 어쩌면 나도 더 많은 판타지를 실현할 수 있을지도 모르겠네……"
         },
         {
           "language": "繁体中文",

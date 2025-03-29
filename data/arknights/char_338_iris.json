@@ -1,7 +1,11 @@
 {
   "name": "爱丽丝",
   "charaKey": "char_338_iris",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/6/62/%E7%AB%8B%E7%BB%98_%E7%88%B1%E4%B8%BD%E4%B8%9D_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/e/ef/%E7%AB%8B%E7%BB%98_%E7%88%B1%E4%B8%BD%E4%B8%9D_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/c/c0/%E7%AB%8B%E7%BB%98_%E7%88%B1%E4%B8%BD%E4%B8%9D_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -911,15 +915,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "また一年の月日が流れたのね。時間が過ぎて行くこの感覚には、いつも少しだけ恐ろしくなりますの。子供たちは年々成長していくけれど、それは良いことなのかしら？ドクターさん、成長することは……良いことだと言えるの？"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Another year has gone by. As time passes like this, I always feel a little frightened. The children will grow up gradually, year by year, but I have to wonder, is that a good thing? Doctor, is growing up... something good?"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "또 1년이 지났네요. 이런 시간의 흐름은 점점 더 무섭게 느껴지네요. 아이들은 해가 갈수록 자라나는데, 이게 과연 좋은 일일까요? 박사님, 자란다는 건…… 정말 좋은 일일까요?"
         },
         {
           "language": "繁体中文",
@@ -954,12 +958,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "孩子本该是大地的希望，有许多孩子，却被矿石病早早地画上了生命的休止符。我无法拯救他们的生命，只希望尽可能去守护他们的小小梦想。为了这个理想，我需要与罗德岛同行。"
+          "content": "你醒了？还记得在梦里看到了什么吗？一望无际的鸢尾花海、城堡里的舞会、星空下的烟火，是不是有种不愿意醒来的感觉？这些景色原本只是为孩子准备的，不过也可以为你破例一次。生日快乐。"
         },
         {
           "language": "日文",
@@ -972,6 +976,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "孩子本该是大地的希望，有许多孩子，却被矿石病早早地画上了生命的休止符。我无法拯救他们的生命，只希望尽可能去守护他们的小小梦想。为了这个理想，我需要与罗德岛同行。"
+        },
+        {
+          "language": "日文",
+          "content": "子供たちはこの大地の希望ですのに、彼らの多くは鉱石病によって、あまりにも短い人生を迎えましたわ。私は彼らの命をつなぐことはできませんが、その心に抱く小さな夢を守れたらと願っています。この理想を叶えるため、私はロドスと協力する必要がありますの。"
+        },
+        {
+          "language": "英文",
+          "content": "TBU"
+        },
+        {
+          "language": "韩文",
+          "content": "아이들은 본래 이 대지의 희망이어야 하지만, 많은 아이들이 광석병으로 너무나 일찍 생의 마침표를 찍고 있어요. 저는 생명을 구할 힘이 없지만, 그들의 작은 꿈을 지켜내고 싶어요. 이 이상을 실현하기 위해서, 저는 로도스 아일랜드와 함께 나아갈 거예요!"
         },
         {
           "language": "繁体中文",

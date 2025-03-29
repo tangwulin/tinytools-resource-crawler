@@ -43,7 +43,7 @@
         },
         {
           "language": "韩文",
-          "content": "자아, 박사. 그대의 오늘 운세는…"
+          "content": "자아, 박사. 그대의 오늘 운세는……"
         },
         {
           "language": "繁体中文",
@@ -69,7 +69,7 @@
         },
         {
           "language": "韩文",
-          "content": "그대도 미래의 운명을 알고 싶은 것인가…"
+          "content": "그대도 미래의 운명을 알고 싶은 것인가……"
         },
         {
           "language": "繁体中文",
@@ -251,7 +251,7 @@
         },
         {
           "language": "韩文",
-          "content": "…'죽음'을 점치는 건 점술가들 사이에선 금기시되어 있지. 다만, 우린 ‘죽음’을 끝이 아닌 새로운 시작으로 여긴다네…"
+          "content": "……'죽음'을 점치는 건 점술가들 사이에선 금기시되어 있지. 다만, 우린 '죽음'을 끝이 아닌 새로운 시작으로 여긴다네……"
         },
         {
           "language": "繁体中文",
@@ -277,7 +277,7 @@
         },
         {
           "language": "韩文",
-          "content": "꿈에선 아주 가끔 흥미로운 계시를 얻을 수 있지. 꾼 꿈은 잘 기억해두는 게 좋을 걸세, 박사…"
+          "content": "꿈에선 아주 가끔 흥미로운 계시를 얻을 수 있지. 꾼 꿈은 잘 기억해두는 게 좋을 걸세, 박사……"
         },
         {
           "language": "繁体中文",
@@ -919,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "新春まことに喜ばしいのう、ドクター。どうじゃ、今年の運勢が気になってわらわに占ってほしいのではないか？実はすでにこっそり水晶を覗いておるぞ。わらわの卜占（ぼくせん）に頼るのも良いが、運命というのは己の手で詳らかにしてこそ意味がある。案ずるな、わらわも傍についておるのじゃ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy new year, Doctor. I bet you are eager to learn your fortune this year from me, aren't you? I have, truth be told, stolen a peek into it. My divination was reliable, as always. Still, only by unveiling the fate's mask with your own hands will you discover what lies beneath, don't you agree? No need to worry, I will be there to help you."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받게나, 박사. 올해의 운세를 봐주길 원하나? 실은 이미 봐버렸다네. 내가 친 점이야 당연히 믿을만하지. 그래도 운명이란 자기가 직접 알아내는 것이 의미 있지 않겠나. 걱정 말게, 내가 함께할 것이니."
         },
         {
           "language": "繁体中文",
@@ -962,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "从来都不存在预设好的道路，也没有无法改变的命运。事到如今，罗德岛各位不是已经多次证明了这一点吗？看看这个水晶球吧，只要您的内心没有阴霾，就永远可以看到希望的光亮。"
+          "content": "生日快乐哦。作为礼物，我可以回答你一个和未来相关的问题哦。嗯，什么都可以。不过这种机会可不是常有的，在提问前可要好好想清楚哦。"
         },
         {
           "language": "日文",
@@ -980,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "从来都不存在预设好的道路，也没有无法改变的命运。事到如今，罗德岛各位不是已经多次证明了这一点吗？看看这个水晶球吧，只要您的内心没有阴霾，就永远可以看到希望的光亮。"
+        },
+        {
+          "language": "日文",
+          "content": "全てが想定通りに進むことはないし、変えられぬ運命というのも存在せぬ。今日に至るまで、ロドスの皆が幾度も証（しょう）しておることではないか。この水晶を覗き込んでみよ、おぬしの心に闇がない限り、必ずや希望の光明が見えるのじゃ。"
+        },
+        {
+          "language": "英文",
+          "content": "There's no preordained path where one shall walk, nor predestined fate which one shall suffer. And everyone on Rhodes Island has proved that many, many times. Here, Doctor, Peek into the crystall ball. As long as your heart is not shadowed by the clouds, you will see the light of hope at the end of the haze."
+        },
+        {
+          "language": "韩文",
+          "content": "정해진 길도, 바꿀 수 없는 운명도 존재하지 않는다. 오늘에 이르기까지, 그건 이미 로도스 아일랜드 모두가 여러 번 증명하지 않았나? 이 수정구슬을 보게나, 그대의 마음속에 어둠이 비치지만 않는다면, 희망의 불빛은 영원히 꺼지지 않을 것이네."
         },
         {
           "language": "繁体中文",

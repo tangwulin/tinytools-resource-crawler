@@ -1,7 +1,10 @@
 {
   "name": "麒麟R夜刀",
   "charaKey": "char_1029_yato2",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/f/f4/%E7%AB%8B%E7%BB%98_%E9%BA%92%E9%BA%9FR%E5%A4%9C%E5%88%80_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/9/9a/%E7%AB%8B%E7%BB%98_%E9%BA%92%E9%BA%9FR%E5%A4%9C%E5%88%80_2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",

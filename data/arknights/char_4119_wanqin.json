@@ -1,7 +1,11 @@
 {
   "name": "万顷",
   "charaKey": "char_4119_wanqin",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/7/76/%E7%AB%8B%E7%BB%98_%E4%B8%87%E9%A1%B7_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/9/9e/%E7%AB%8B%E7%BB%98_%E4%B8%87%E9%A1%B7_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/c/c6/%E7%AB%8B%E7%BB%98_%E4%B8%87%E9%A1%B7_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -779,7 +783,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "小さい頃に読んだ詩で、冬の雪を布団に喩えて、種たちは春の芽吹きを待ちながら、布団の中で眠っているんだってやつがありました。年末年始は大荒城では珍しい閑散期なので、僕たち子供は耳を塞ぎながら凍った川に爆竹を投げて、氷の花を咲かせて遊んでましたね。いつもシャオマンが一番大きな声ではしゃいでましたよ。ドクターもやってみますか？"
+        },
+        {
+          "language": "英文",
+          "content": "The poems I read when I was little always compared winter snow to a thick blanket. The seedlings sleep beneath the snows, ready to welcome the spring days with new life. Dahuang is always busy this time of year. People my age go to the frozen rivers and throw firecrackers at the frost while covering their ears. Grain Buds always shouts the loudest. Would you like to give it a try?"
+        },
+        {
+          "language": "韩文",
+          "content": "어릴 때 읽었던 시가 기억나요. 시에서는 겨울에 내린 눈을 이불에 비유했고, 씨앗들은 눈 이불을 덮은 채 겨울잠을 자며 싹을 틔울 봄날을 기다린다……라고 표현했죠. 지금은 대황성에 드물 게 찾아온 휴식기에요. 제 또래들은 얼어붙은 강가로 가서 귀를 막고 폭죽을 던져 얼음꽃을 만들면서 놀곤 한답니다. 그중 가장 큰 소리를 내면서 노는 건 당연히 소만이고요, 하하. 박사님도 한번 해 보실래요?"
         }
       ]
     },
@@ -806,6 +818,28 @@
       ]
     },
     {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "因为今天是您的生日我才答应的，我会在旁边看着，但您最好还是把下盘扎稳些，没有经验的人用这个天师仪很容易被风筝带上半空，一定要稳住重心......啊，还是飞上去了......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        }
+      ]
+    },
+    {
       "title": "周年庆典",
       "filename": "CN_044.wav",
       "text": [
@@ -815,7 +849,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "どうして先生が製薬会社を僕のインターン先に選んだのか、最初はよく理解できませんでした。でも皆さんと月日を共にするうちに、ここにいる一人ひとりが大荒城の人々と同じように、大地で困窮する無数の人を救おうとしているんだってことが身に染みてわかったんです。僕たちは道を同じくする同志というわけですね。"
+        },
+        {
+          "language": "英文",
+          "content": "At first I didn't really understand why my master wanted me to go on a study visit to a pharmaceutical company. But after spending all this time here, I've come to realize that you're all just like the people of Dahuang. They are fighting to provide for the countless people of this land who cannot provide for themselves. We walk the same path."
+        },
+        {
+          "language": "韩文",
+          "content": "처음엔 이해하지 못했어요. 왜 선생님이 저한테 제약회사에서 인턴십을 해 보라고 하셨는지. 하지만 시간이 지나고 보니, 이곳의 모든 사람들은 마치 대황성의 사람들처럼, 이 대지에서 죽어가는 수없이 많은 이들을 위해서 노력하고 있었던 거예요. 저희는 같은 길을 걷고 있던 거죠."
         }
       ]
     }

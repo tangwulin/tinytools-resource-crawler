@@ -866,15 +866,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ある瞬間、心の奥底で響く怒号が聞こえたんです――薄いカレンダーを一枚二枚めくったところで、この大地に永らく存在する苦難は何も変わりはしない、と……でもドクター、私は諦めません。私たちの歩みは、私たちの戦いには、きっと意味があると信じていますから。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "For a brief moment, I could hear a voice growling deep within my heart: The suffering on these lands is eternal, and nothing can be turned around in such a short span of time... No, I refuse to accept that, Doctor. I trust that our journey and our fight are meaningful."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "가끔씩 제 마음속에서 외치는 소리가 들려요. 이 땅에서 오랫동안 지속돼 온 고난은, 저희가 얇은 달력 한두 장을 더 넘긴다 해서 새로운 전환점을 맞이할 리는 없다고 말이에요…… 하지만 전 그 말을 믿지 않아요, 박사님. 우리가 나아가는 길과 전투에는, 반드시 의미가 있을 거예요."
         },
         {
           "language": "繁体中文",
@@ -909,6 +909,20 @@
       ]
     },
     {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "庆祝一个自己不记得的生日，会觉得奇怪吗？会觉得......那好像不是自己吗？......不会吗？那就太好了。博士，我想再把小提琴取出来试试，也许今天我不会弄断琴弦了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
       "title": "周年庆典",
       "filename": "CN_044.wav",
       "text": [
@@ -918,15 +932,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "憎しみの連鎖を断ち切るには、傷や痛みを避けては通れません……でも、いつか私がこの剣を必要としなくなる日が来ると信じています。ドクター、その日まで、私はあなたを守り続けます。叶うなら……傷付くのがドクターでなければいいと願っています。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "There is no avoiding pain if we are to end the vicious cycle that is hatred. Nevertheless, I believe there will come a day when I can set down this blade. Doctor, until that day comes, I'll protect you at all costs. I only hope that... it won't be you who gets hurt."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "끊임없이 반복되는 원한을 끊어내려면 고통은 피할 수 없어요…… 하지만 저는 언젠가 제가 이 검을 손에서 놓을 수 있을 거라 믿어요. 박사님, 그날이 올 때까지, 제가 꼭 박사님을 지켜 드릴게요. 저는…… 상처받는 사람이 박사님이 아니길 바라요."
         },
         {
           "language": "繁体中文",

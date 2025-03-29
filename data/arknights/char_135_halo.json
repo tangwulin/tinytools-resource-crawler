@@ -1,7 +1,11 @@
 {
   "name": "星源",
   "charaKey": "char_135_halo",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/a/ad/%E7%AB%8B%E7%BB%98_%E6%98%9F%E6%BA%90_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/5/5f/%E7%AB%8B%E7%BB%98_%E6%98%9F%E6%BA%90_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/6/65/%E7%AB%8B%E7%BB%98_%E6%98%9F%E6%BA%90_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -143,7 +147,7 @@
         },
         {
           "language": "韩文",
-          "content": "내가 병에 걸렸기 때문에 언니도, 하아...... 남들은 눈치채지 못한 것 같지만, 사실 언니도 엄청 침울해하고 있어. 그렇다고 계속 이대로 있을 순 없지, 언니를 도와줘야겠어."
+          "content": "내가 병에 걸렸기 때문에 언니도, 하아…… 남들은 눈치채지 못한 것 같지만, 사실 언니도 엄청 침울해하고 있어. 그렇다고 계속 이대로 있을 순 없지, 언니를 도와줘야겠어."
         },
         {
           "language": "繁体中文",
@@ -915,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "うーん、また一年が過ぎたなぁ、新しい計画を立てなきゃ。……まぁ、そんな手間でもないけどね。願い事を決めて、心の中で大事に抱えてればいいんだから。新年の日の願い事が一番叶いやすいはずだよ。ドクターも試してみて？"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Hm, that's another year, come and gone. It's time to come up with new plans. No, it's not really that much work. All you have to do is make a wish and keep it in mind. Your first wish of the year is always the easiest to fulfill. Give it a try."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "으음, 또 한 해가 지나갔으니까 다시 새로운 계획을 세워야겠네. 사실 그렇게 번거로운 일은 아냐, 그냥 소망 하나를 마음속에 간직해 두면 돼. 새해의 첫 소망은 항상 쉽게 이루어지곤 하니까, 박사도 한번 시도해 봐."
         },
         {
           "language": "繁体中文",
@@ -958,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "该起来活动一下了，博士。麻烦事可不会因为多花一两分钟就能解决。起来陪我跳支舞吧，动动身体。没事，这不难的，只要牵住手，迈开步子，对......对，就这样。有没有觉得身体轻快些了？"
+          "content": "生日快乐！来来来，这是我给你准备的礼物，打开看看吧~怎么样，这个八音盒不错是不是，嘿嘿~博士，你知道我生日什么时候吧，那到了那天，你也得给我一个惊喜，就这么约定了哦~"
         },
         {
           "language": "日文",
@@ -976,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "该起来活动一下了，博士。麻烦事可不会因为多花一两分钟就能解决。起来陪我跳支舞吧，动动身体。没事，这不难的，只要牵住手，迈开步子，对......对，就这样。有没有觉得身体轻快些了？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、ちょっとは体を動かさないとね。面倒事はそんな一分二分争ったところで解決しないんだから。私と一曲踊ろう？いい運動になるよ。大丈夫、難しくないから。ただ手をとって、ステップをこう踏んで、そう……そう、そんな感じ。どう、体が軽くなった？"
+        },
+        {
+          "language": "英文",
+          "content": "Time to get up and stretch a little, Doctor. All that trouble won't go away just because you spend a couple more minutes grinding away. Come on, share a dance with me and move your body. Don't worry, it's not hard. Just take my hand, step forward. Right... Right, like that. Does it feel like your body just lightened up some?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 일어나서 몸이라도 좀 움직여, 성가신 일들은 몇 분 더 투자하는 정도론 해결되지 않는다고. 나랑 춤이라도 좀 추면서 움직여 보는 건 어때? 괜찮아, 어렵지 않으니까. 손을 잡고, 스텝을 밟으면서, 그래…… 그래, 바로 그거야. 어때, 몸이 좀 가벼워진 것 같지 않아?"
         },
         {
           "language": "繁体中文",

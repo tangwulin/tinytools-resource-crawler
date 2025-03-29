@@ -1,7 +1,10 @@
 {
   "name": "THRM-EX",
   "charaKey": "char_376_therex",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/8/8a/%E7%AB%8B%E7%BB%98_THRM-EX_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/a/aa/%E7%AB%8B%E7%BB%98_THRM-EX_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -35,7 +38,7 @@
         },
         {
           "language": "英文",
-          "content": "Thermal-EX, ready to commence thermal shock! What, it's not yet the designated combat time? Then, I shall postpone it. Commencing thermal shock after ten second delay!"
+          "content": "Thermal-EX, ready to commence thermal shock! What, the designated combat time has not been reached yet? Then, I shall postpone it. Commencing thermal shock after a delay of 10 seconds!"
         },
         {
           "language": "韩文",
@@ -87,7 +90,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctor, it's a great honor to be with you! My burning heart just can't calm down! And by that, I mean the Raythean Industries custom-made full-thermal Arts impact generator I have installed!"
+          "content": "Doctor, it's great to be with you! My burning heart won't calm down! —I'm talking about the Raythean Industries custom-made full-thermal Arts impact generator on my body!"
         },
         {
           "language": "韩文",
@@ -165,7 +168,7 @@
         },
         {
           "language": "英文",
-          "content": "Dazzling though I am, you, the peerless Doctor, are the only one I could call my brightest sun!"
+          "content": "Even though I'm already this dazzling, only you, the peerless Doctor, are worthy of becoming the brightest sun!"
         },
         {
           "language": "韩文",
@@ -659,7 +662,7 @@
         },
         {
           "language": "英文",
-          "content": "My retreat was just a fluke. Nothing can be allowed through our battlefield net."
+          "content": "My retreat was just a fluke. Nothing must be allowed through our net on the battlefield."
         },
         {
           "language": "韩文",
@@ -811,15 +814,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ハッピーニューイヤー！ドクター様、セイレーン製のスピーカーで曲を流す程度では雰囲気が出ませんので、ここは私が熱く、ダイレクトに、花火大会を彩って見せましょう！ポーン！ヒューーポンポーン！"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy New Year, Doctor! There's too much excess and zero majesty to playing songs on Monster Siren hi-fis and related devices! Allow me to use a hotter, more direct method to boost the vigor of this fireworks show! BANG!! Pewwwwww... BANG!!!"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "박사님, 새해 복 많이 받으십시오! 몬스터 사이렌 브랜드의 스피커로 음악을 재생하는 것만으로는 축제의 분위기가 살지 않습니다! 이 불꽃 축제에 더 열정적이고 직접적인 방식으로 기여하겠습니다! 퍼~엉!! 휘유~~~ 퍼퍼펑!!!"
         },
         {
           "language": "繁体中文",
@@ -854,12 +857,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "博士！！如此热闹的场面，连我都觉得耀眼！不要再犹豫了，快跟着我，和大家一起庆祝吧！"
+          "content": "听说大家都在用送礼物的方式表达对博士的喜爱之情，不过我觉得博士与我根本不需要这些繁琐的东西来表达心意！我们的内心早已被热与冲击力连接在了一起！博士！生日快乐！"
         },
         {
           "language": "日文",
@@ -872,6 +875,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士！！如此热闹的场面，连我都觉得耀眼！不要再犹豫了，快跟着我，和大家一起庆祝吧！"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター様！！このように熱い光景は、この私ですら、眩く感じます！さあ、迷いを捨てて私についてきてください。皆と共に熱く祝いましょう！"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor!! Even I'm dazzled by the liveliness of this spectacle! Hesitate no more, come with me! Let us celebrate with the others!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사님!! 열정으로 반짝이는 이곳의 분위기에 저마저도 눈이 부실 지경입니다. 고민하지 마시고 저를 따라오십시오! 모두와 함께 축하하는 겁니다!"
         },
         {
           "language": "繁体中文",

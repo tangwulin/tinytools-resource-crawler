@@ -1,0 +1,552 @@
+{
+  "name": "钼铅",
+  "charaKey": "char_4171_wulfen",
+  "images": [
+    "https://media.prts.wiki/a/af/%E7%AB%8B%E7%BB%98_%E9%92%BC%E9%93%85_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/e/ef/%E7%AB%8B%E7%BB%98_%E9%92%BC%E9%93%85_2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4171_wulfen"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4171_wulfen"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我上次给你介绍的矿石知识你都记住了吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，来玩个游戏吧，这里有三种矿石，如果你能把它们的名字都说对，我就把它们送给你，怎么样？呃，猜得没错。嗯？算你对了。欸......可惜！就差一个。再接再厉哦，博士。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "过来过来，别动......放心，我没有给你涂什么奇怪的东西，这是防晒霜，据说非常有效！下次出任务要去的地方太阳可毒了，不做好准备可是要吃亏的。走，我们去甲板上试试效果！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，这袋东西放我尾巴上吧，这样方便一点。放心，我尾巴的力量比我的手强多了。这可是我最自豪的部位。听我奶奶说，尾巴厉害的人在萨尔贡一些地方是会受到尊敬的，你觉得我怎么样？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "曾经有人问我，为什么不收集宝石呢，宝石不是更美吗？但我并不喜欢那种美。对对！宝石的美是经过定义的，而矿石却不受拘束，我更喜欢它的不规则！博士，你果然是明白人呀！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "找到矿石并不是结束，博士。当你一点一点地去分析它，了解它，你会惊讶地发现，你找到它之前所看到的一切，都可能是影响它诞生的一环。然后？然后我第一次对这片大地的历史有了实感。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "咦，我怎么听到了自己的声音？博士，你在看我以前拍的探险视频啊。没事没事，无论你是想要了解矿石的美，还是想要了解我，我都很高兴。当然，要是能直接来问我就更好了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小时候，我曾经有幸进入帕夏大人的宝库。在那里，我见到了一块巨大的矿石，它的颜色和我的发色一样鲜艳动人。我花了很长时间才找到它的名字——钼铅，而这，就是我收集矿石的起点了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，你应该也看到我的申请了吧？我打算在罗德岛内部开设一档新的节目，好让更多的人对地质学有所了解！第一期节目，我想邀请你来做嘉宾，可以吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，你是不是有点无聊？我给你表演一下我的特技——精准地吹起我额头上的这撮白发。看好了，呼——！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你好，博士，我是新干员钼铅，以后我们就要一起工作了。对了，我们先来彼此了解一下吧，我来自哥伦比亚，喜欢探险和收藏矿石，还有......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛上竟然有这么厉害的探险家......我也要努力了！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我可以申请一个房间做我的矿石陈列室吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，快看，我顺利通过能力测试了，现在我有资格自己带领一支小队去探险了！我有许——多想去探索的矿脉，你要和我一起去吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这一次要去哪里挖掘矿石？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "交给我吧，我已经做好了万全的准备。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大家不用担心，跟紧我，不会有问题的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "开始寻找矿石吧！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，你找到矿脉了吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "什么，又有人来妨碍我们？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "今天又会挖到什么样的矿石呢？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "快点把这些碍事的家伙赶走吧！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不要来妨碍我们！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哇，这种矿石我好像没见过！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "当心碎石，我要引爆这里了！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "吃我一锤！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呼......呼......博士，能不能扶我一把，我快累死了。我......我先喘口气，再继续勘探工作......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，快看，我发现了这种矿石！它可稀有了！我们真走运！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，别露出这种表情嘛，有这样的收获也已经很了不起了！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "唉，博士，我们回去吧，这里看来没有我想要的矿石。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "仓库在哪里来着，我要存放一下刚挖到的矿石......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，想和我的尾巴玩拔河吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哎呀，博士，正好，我有块矿石想给你看看。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，新的一年你有给自己定下什么目标吗？我？有啊，我每年都会给自己定下新的一年去哪里探索和获得多少稀有矿石的目标，去年的已经完成了！博士，我们可以一起制定目标，互相监督！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，一起去采矿吧！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，给你。对，是你之前想要的那种矿石。我特意帮你找来的，费了我不少功夫呢。没事，跟我客气什么呀。话说，今天你也打算一个人闷在办公室里吗？这也太浪费了，走，我们去举办派对吧！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我回来了！呼，呼......嘿嘿，博士，你是不是以为我今天也会泡在矿区里？我特地赶回来了！这么重要的日子我怎么会错过呢？对了对了，你快过来，我给你看看这次的成果！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

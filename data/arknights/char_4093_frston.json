@@ -1,7 +1,9 @@
 {
   "name": "Friston-3",
   "charaKey": "char_4093_frston",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/4/46/%E7%AB%8B%E7%BB%98_Friston-3_1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -119,7 +121,7 @@
         },
         {
           "language": "日文",
-          "content": "ドクター、どうか僕をキャッスル-3たちと同列に扱わないでくれよ。彼らはとても……可愛らしいけれど、僕のこのロボットの身体は君のフードと同じで、ただの様式であって、ある種の……スタイルだ。僕は自分が誰であるかは理解しているし、僕たちこそが同じなんだ。"
+          "content": "ドクター、どうか僕をCastle-3たちと同列に扱わないでくれよ。彼らはとても……可愛らしいけれど、僕のこのロボットの身体は君のフードと同じで、ただの様式であって、ある種の……スタイルだ。僕は自分が誰であるかは理解しているし、僕たちこそが同じなんだ。"
         },
         {
           "language": "英文",
@@ -207,7 +209,7 @@
         },
         {
           "language": "日文",
-          "content": "初めまして、僕はフリストンだ。そう、「フリストン」であって、「フリストン-3」などという名ではない。僕は誰かのコピーではないし、コピーのコピーでもない。理解してくれると助かる。"
+          "content": "初めまして、僕はフリストンだ。そう、「フリストン」であって、「Friston-3」などという名ではない。僕は誰かのコピーではないし、コピーのコピーでもない。理解してくれると助かる。"
         },
         {
           "language": "英文",
@@ -339,7 +341,7 @@
         },
         {
           "language": "日文",
-          "content": "サーマル-EXとランセット-2に作戦を共有しておくよ。"
+          "content": "サーマル-EXとLancet-2に作戦を共有しておくよ。"
         },
         {
           "language": "英文",
@@ -691,15 +693,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "祝祭日の意義は追懐と憧憬にある。良い一日を、ドクター。残念ながら、僕にはもう懐かしむべき過去も、焦がれるべき未来もないのだ……っと、「ジャスティスナイト」に、サーマル-EX、どうしたんだ？ドクター、君が彼らを呼んだのかな？"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "The point of festivals is to wallow in nostalgia and longing. I wish you happiness, Doctor. It's a pity that I no longer have a past to miss, and no future worth anticipating... Oh? 'Justice Knight,' THRM-EX, what you doing? Doctor, did you call them over?"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받게나, 박사. 기념일은 그리움과 동경에 의미를 두고 있지만, 아쉽게도 내겐 이제 그리워할 만한 과거도, 동경할 만한 미래도 없다네…… 아니, '저스티스 나이트', THRM-EX, 뭐 하는 건가? 박사, 자네가 이 아이들을 부른 건가?"
         }
       ]
     },
@@ -726,12 +728,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "凯尔希一遍遍提起那些我不记得的“变故”，是希望我能够接受，我知道。我了解自己现在的情况，我会留在罗德岛，但未来该怎么样，我希望自己找到答案......不是通过“运算”。"
+          "content": "博士，祝你生日快乐。对了，我想趁这个机会再声明一次：不要再在11月13号那天为我庆祝了，那只是“Friston-3”的出厂日，不是Friston的生日。"
         },
         {
           "language": "日文",
@@ -744,6 +746,28 @@
         {
           "language": "韩文",
           "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "凯尔希一遍遍提起那些我不记得的“变故”，是希望我能够接受，我知道。我了解自己现在的情况，我会留在罗德岛，但未来该怎么样，我希望自己找到答案......不是通过“运算”。"
+        },
+        {
+          "language": "日文",
+          "content": "ケルシーが繰り返し僕の記憶にない「事故」を述べるのは、僕に現実を受け入れてほしいからであると了解している。僕は今の自分の状況を理解しているし、ロドスには留まるつもりだ。しかしこの先どうすべきであるかの答えは、自分で見つけたい……「演算」によってではなくね。"
+        },
+        {
+          "language": "英文",
+          "content": "I know that Kal'tsit keeps bringing up these 'incidents' I have no recollection of, hoping that I will gradually come to accept them. I understand my current situation, and I will stay with Rhodes Island. But for the future, I hope that I can find the answer myself... and not just through a 'calculation.'"
+        },
+        {
+          "language": "韩文",
+          "content": "켈시가 계속해서 내가 기억하지 못하는 '사고'를 언급하는 건, 내가 이 상황을 받아들이길 원하기 때문이겠지. 그건 나도 이해하네. 나도 내 상황을 이해하고 있고, 로도스 아일랜드에 머무를 생각이네. 하지만 앞으로 어떻게 할 것인지에 대해선, 스스로 답을 찾고 싶군…… '연산'을 통하지 않고 말일세."
         }
       ]
     }

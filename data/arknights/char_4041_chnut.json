@@ -1,7 +1,11 @@
 {
   "name": "褐果",
   "charaKey": "char_4041_chnut",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/0/04/%E7%AB%8B%E7%BB%98_%E8%A4%90%E6%9E%9C_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/1/1b/%E7%AB%8B%E7%BB%98_%E8%A4%90%E6%9E%9C_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/8/8d/%E7%AB%8B%E7%BB%98_%E8%A4%90%E6%9E%9C_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -14,6 +18,10 @@
     {
       "language": "韩语",
       "base": "voice_kr/char_4041_chnut"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_4041_chnut"
     }
   ],
   "voiceList": [
@@ -31,7 +39,7 @@
         },
         {
           "language": "英文",
-          "content": "Um, Doctor, the documents on the shelves are a bit messy. Back home, I had a tabletop assistant device that automatically organized our files. All you had to do was stick the files in, then it would package and seal them. I think you should get something like that too."
+          "content": "Ummm... Doctor, the documents on the shelves are a bit messy. Back home, I had a tabletop assistant device that automatically organized our files. All you had to do was stick the files in, then it would package and seal them. I think you should get something like that too."
         },
         {
           "language": "韩文",
@@ -57,7 +65,7 @@
         },
         {
           "language": "英文",
-          "content": "Wanting to see new places is a pretty common reason for leaving home, isn't it? But every time I climb a tall mountain or dive into a deep lake, I feel like I've made the right choice."
+          "content": "Wanting to see new places is a pretty common reason for leaving home, isn't it? To be honest, every time I climb a tall mountain or dive into a deep lake, I feel like I've made the right choice."
         },
         {
           "language": "韩文",
@@ -83,7 +91,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctor, are you fan of wide-open landscapes? For example, imagine yourself next to a lake, watching the surface of the water rise and fall, the clouds gathering and dispersing, the sun slowly drooping behind the horizon, painting the lake a dazzling gold... That's the kind of scenery I love."
+          "content": "Doctor, are you a fan of wide-open landscapes? For example, imagine yourself next to a lake, watching the surface of the water rise and fall, the clouds gathering and dispersing, the sun slowly drooping behind the horizon, painting the lake a dazzling gold... That's the kind of scenery I love."
         },
         {
           "language": "韩文",
@@ -109,7 +117,7 @@
         },
         {
           "language": "英文",
-          "content": "A Catastrophe? Are we really going to cruise past a Catastrophe?! I didn't get to see the last one up close, so I can't let this opportunity slip by! Lemme see–– Huh? The door to the bridge is locked?"
+          "content": "A Catastrophe? Are we really going to cruise past a Catastrophe?! I didn't get to see the last one up close, so I can't let this opportunity slip by! I'm going out right–– What? The door to the bridge is locked?"
         },
         {
           "language": "韩文",
@@ -135,7 +143,7 @@
         },
         {
           "language": "英文",
-          "content": "My staff turns minerals into healing agents, sometimes with other special effects depending on the type of material used. Don't believe me? I'm being serious here, Doctor!"
+          "content": "My staff turns minerals into healing agents, sometimes with other special effects depending on the type of material used. You don't believe me...? I'm being serious here, Doctor."
         },
         {
           "language": "韩文",
@@ -187,7 +195,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctor, have you seen fluorescent mushrooms before? There used to be a bunch of them growing by the rocks near the waterfall I played at as a kid. Some of them grew taller than the tallest person in the clan, bringing light to places where the city could not reach."
+          "content": "Doctor, have you seen fluorescent mushrooms before? There used to be a bunch of them growing by the rocks near the waterfall I played at as a kid. Some of them grew taller than the tallest person in the clan, serving as lamps to bring light to places where the city could not reach."
         },
         {
           "language": "韩文",
@@ -213,7 +221,7 @@
         },
         {
           "language": "英文",
-          "content": "My original reason for coming above ground was simple –&nbsp;I wanted to survey the geography around my homeland, and soak up the sights and sounds along the way. But the more I traveled, what kept me up here wasn't the places I had been, but the people who needed my help."
+          "content": "My original reason for coming above ground was simple:&nbsp;I wanted to survey the geography around my homeland, and soak up the sights and sounds along the way. Now I travel further and further not only for the sights I haven't seen, but also for the people who need my help."
         },
         {
           "language": "韩文",
@@ -239,7 +247,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctor, why do people bloody themselves fighting each other? I can treat a wound or two, maybe even a lot more than that, but what can I do as a physician if we can't change their minds?"
+          "content": "Doctor, why do people bloody themselves fighting each other? I can treat a wound or two, maybe even a lot more than that, but what can I do as a physician if the people don't change their minds?"
         },
         {
           "language": "韩文",
@@ -291,7 +299,7 @@
         },
         {
           "language": "英文",
-          "content": "Please to meet you, Doctor. This is for you. It's a specimen box made from gemstones I collected –&nbsp;lapis lazuli, turquoise, plum tourmaline, chalcedony..."
+          "content": "Pleased to meet you, Doctor. This is for you. It's a specimen box made from gemstones I collected –&nbsp;lapis lazuli, turquoise, plum tourmaline, chalcedony…"
         },
         {
           "language": "韩文",
@@ -317,7 +325,7 @@
         },
         {
           "language": "英文",
-          "content": "The lens doesn't move, Doctor. Do you think if we gave this to Operator Durin, she'd be able to upgrade it so it automatically followed the subject? I should do it, since I thought of it? Hrmm..."
+          "content": "The lens doesn't move, Doctor. Do you think if we gave this to a Durin operator, they'd be able to upgrade it to automatically follow the subject? If it's my idea, it's my responsibility? Ughh…"
         },
         {
           "language": "韩文",
@@ -395,7 +403,7 @@
         },
         {
           "language": "英文",
-          "content": "The mood among the squad members might deteriorate over time due to injuries sustained in battle..."
+          "content": "Whenever I think of my squadmates getting hurt in battle, I start to feel uneasy."
         },
         {
           "language": "韩文",
@@ -499,7 +507,7 @@
         },
         {
           "language": "英文",
-          "content": "Direct me."
+          "content": "Waiting for your command."
         },
         {
           "language": "韩文",
@@ -551,7 +559,7 @@
         },
         {
           "language": "英文",
-          "content": "I will take away your pain."
+          "content": "I'll heal your wounds and dull your pain."
         },
         {
           "language": "韩文",
@@ -707,7 +715,7 @@
         },
         {
           "language": "英文",
-          "content": "The more prep work we do, the more beautiful scenery we'll get to see. Hard work pays off."
+          "content": "The more prep work we do, the better the outcome we'll see. This is all thanks to everyone's hard work."
         },
         {
           "language": "韩文",
@@ -759,7 +767,7 @@
         },
         {
           "language": "英文",
-          "content": "We fight now so there may be peace later...? If only our enemies felt that way."
+          "content": "We fight now for a peaceful future…? If only our enemies wanted the same."
         },
         {
           "language": "韩文",
@@ -837,7 +845,7 @@
         },
         {
           "language": "英文",
-          "content": "Hmm, who's there...? Oh, it's you, Doctor."
+          "content": "Hm? Who is it? Oh, it's you, Doctor."
         },
         {
           "language": "韩文",
@@ -911,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "わあ、みんな集まってる。一緒にお祝いできるなんて最高だよ――あ、でも、一年に一回しかこういう機会がないのは、残念だね。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Woah, it's nice to see everyone coming together to celebrate! But, I suddenly realized, it's a darned shame this occasion only comes once a year!"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "우와, 다 함께 모여서 기념하니까 정말 좋네…… 그런데 이런 날이 일 년에 한 번밖에 없다고 생각하니, 갑자기 너무 아쉬워!"
         },
         {
           "language": "繁体中文",
@@ -941,7 +949,7 @@
         },
         {
           "language": "英文",
-          "content": "Want to head up to the deck for some fresh air?"
+          "content": "Doctor, wanna head up to the deck for some fresh air?"
         },
         {
           "language": "韩文",
@@ -950,6 +958,32 @@
         {
           "language": "繁体中文",
           "content": "去甲板上吹吹風嗎？"
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这块水晶有稳定情绪的功效，心情不好的时候可以佩戴它，啊、心情好的时候也可以戴的！是我从家里带出来的，送给你，生日快乐，博士。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
         }
       ]
     },
@@ -963,15 +997,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ロドスにやってきて、ドクターや医療部のみんなと一緒に働いて、色んな人たちを助けてきて、思えばもう結構経つんだね。改めてじっくり振り返ってみると、前じゃ気にすることもなかったような、貴重な経験がいっぱいできたなって。一つ一つ、大切に胸にしまっておくよ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "I've been here at Rhodes Island a while now, done a lotta work with you and the folks in Medical, helped a bunch of people. Sitting here mulling it over now, I've gained a ton of precious experience I never picked up on before. I'll remember this, keep it all with me, right in here."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "내가 로도스 아일랜드에 온 지도 벌써 오래되었네. 박사, 그리고 의료부 사람들과 함께 일하며 많은 이들을 도왔었지. 이제 와서 생각해 보면, 그동안은 깨닫지 못했지만 소중한 일들을 많이 경험한 것 같아. 모두 가슴속에 소중한 추억으로 간직해 둘게."
         },
         {
           "language": "繁体中文",

@@ -1,0 +1,556 @@
+{
+  "name": "荒芜拉普兰德",
+  "charaKey": "char_1038_whitw2",
+  "images": [
+    "https://media.prts.wiki/9/99/%E7%AB%8B%E7%BB%98_%E8%8D%92%E8%8A%9C%E6%8B%89%E6%99%AE%E5%85%B0%E5%BE%B7_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/0/0b/%E7%AB%8B%E7%BB%98_%E8%8D%92%E8%8A%9C%E6%8B%89%E6%99%AE%E5%85%B0%E5%BE%B7_2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_1038_whitw2"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_1038_whitw2"
+    },
+    {
+      "language": "意大利语",
+      "base": "voice_custom/char_1038_whitw2_ita"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "把这些活都交给我？哈哈，我喜欢你的信任。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "按叙拉古的传统，穿礼服戴面具是为了上街杀人，而新沃尔西尼人认为这样的装扮意味着拥抱新生活。不管是哪一种，都该找最好的剪裁师来做，对吧？就像我这一身。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哎呀，天气真好——叙拉古的雨季也结束了，无数渴望机会的人都在往那儿跑，灰厅的老家伙们也都坐不住了。哈哈，要不是我帮了他们一把，那场狂欢节哪能这么成功！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "左手的剑先落地，那些酒庄捐给市政府，右手的剑先落地，它们无偿向明年的狂欢节开放——哈哈，这样我那亲爱的想要掌控一切的父亲哪怕待在监狱里，叙拉古人都会记得他！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "家族、政府、西西里夫人......每个人都验证了自己的猜想，各有收获。但一座新城市怎么够，他们要的可是一个崭新的国家！我？我当然要让所有人都得偿所愿！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "安静一点，别再让我听到你们念叨什么“荒野”“文明”——新游戏可没那么无聊，你们要快一点理解人类的游戏规则......哈哈，你听到了？那就做我的敌人吧，博士。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "德克萨斯说我迟早会现身？她还真了解我。所有人都指望用一把火烧掉困住自己的东西，但有多少人敢留下来看看灰烬里还剩什么？哈哈，逃走才不可耻，祈祷自己不要每天做梦回到火场吧！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "威士忌，冰块，薄荷，我在你这儿喝几杯。你就继续这些伟大的工作吧。好的品质不宜过多，不然看着一些东西破灭，痛苦可是会加倍的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你很在意罗德岛，就像德克萨斯在意她的那些同伴——很好，你的表情认真起来了，既然如此，我们就拿这艘船打个赌......我也是这里的一分子？你刚刚说了很有意思的话，博士。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士啊博士，你愿意拿什么交换曾经的安眠？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好久不见。哎呀，我把武器放在沙发上，是不是害你没地方坐了......你问狂欢节上发生了什么？关心那么多干嘛。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啧，还不够有趣！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "拒绝。罗德岛哪怕办一场所有人戴上假面的狂欢，也不会多么有趣。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "想以这种方式让我安分一些，还是说你也觉得游戏需要更多乐趣......猜不透，难怪我喜欢你对我的信任！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哪里是荒野？哪里是城市？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我就是狼群。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呀，游行的队伍过来了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "疯子在领着瞎子赶路，哈哈，难怪你们永远不知疲倦！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "好戏还没开场，就已经这么热闹了吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "扎罗，看看人类生来就会的游戏——"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "武器就在各位面前，等什么呢？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "不要藏着掖着，秘密暴露在所有人面前，就等于没有暴露。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "怎么办？一下子就认出你是谁了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "演出都要结束了，你们还在等什么？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "所有人都在看着我们呢，哈哈！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "朋友们，别辜负这个夜晚！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "场面盛大，流程完美，所有人都体面退场......很好，但我不会为这样的事情鼓掌——起码得有一件事情在意料之外，哈哈。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "收工，去喝一杯。德克萨斯呢？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明明都是被揭下了面具，有些人无动于衷，有些人丑态百出，有些人终于舍得全情投入......多有意思！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "失败？哈哈哈哈，演出才刚刚开始。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这么安静——你不担心错过外面的好戏吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哈哈......你也是这么和德克萨斯打招呼的？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "来来来，与狼共舞。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "新年快乐。你想邀请我进去吗？你要怎么介绍我？德克萨斯的死敌，萨卢佐家的叛徒，还是想要征服一切的白狼？享受今天吧，博士。过了今晚，双月依然只为狩猎而升。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我这里有一套狂欢节的礼服，换上它。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有次生日，我亲爱的父亲带我参观丰收的葡萄园，我当时想，怎么没有一辆巨型载具把它碾成废墟，顺便将整个叙拉古——你说什么？不，送你的这瓶酒是我随便买的，那个庄园早就成了垃圾场。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哈，我确实对你们，对罗德岛在做的事情很感兴趣。叙拉古，不，这片大地的每个地方都像肮脏的泥潭，罗德岛能坚持到现在，是你们适应得太好，还是——你们参与制定了游戏的规则？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

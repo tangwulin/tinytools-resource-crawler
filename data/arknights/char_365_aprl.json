@@ -1,7 +1,11 @@
 {
   "name": "四月",
   "charaKey": "char_365_aprl",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/2/2c/%E7%AB%8B%E7%BB%98_%E5%9B%9B%E6%9C%88_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/7/77/%E7%AB%8B%E7%BB%98_%E5%9B%9B%E6%9C%88_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/1/12/%E7%AB%8B%E7%BB%98_%E5%9B%9B%E6%9C%88_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -143,7 +147,7 @@
         },
         {
           "language": "韩文",
-          "content": "림 빌리턴에서는 회사에서 감염자한테 보조금을 준다고 들었는데, 실제로 받는 돈은 너무 적더라고, 게다가 일거리도 줄었고…… 로도스 아일랜드가 광고하는 걸 보고 시험 삼아 응모하길 정말 잘했지 뭐야. 여기선 사람 취급받는다는 느낌이 들거든."
+          "content": "림 빌리턴에서는 회사에서 감염자한테 보조금을 준다고는 해도, 실제로 받는 돈은 너무 적더라고, 게다가 일거리도 줄었고…… 로도스 아일랜드가 광고하는 걸 보고 시험 삼아 응모하길 정말 잘했지 뭐야. 여기선 사람 취급받는다는 느낌이 들거든."
         },
         {
           "language": "繁体中文",
@@ -871,7 +875,7 @@
         },
         {
           "language": "韩文",
-          "content": "박사는 집무실에 있어야 되는 거 아니야?"
+          "content": "박사는 집무실에 있겠지?"
         },
         {
           "language": "繁体中文",
@@ -915,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "これまでだったら、あたしはきっと一人荒野でたき火を起こして暖を取ってる頃だと思うよ。遠くの都市で花火が上がったら、新年だってわかるんだ。それもそれで刺激的だったけど、こうしてみんなと一緒に年越ししてる方が好きなんだよねぇ。ハッピーニューイヤードクター、新しい一年もよろしくね～。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Around this time of the year, I was usually in the wilderness all by myself, trying to get warm by the campfire, watching the fireworks in the cities far away. That's usually how I found out it was New Year's. Exciting enough, but I'd rather be counting down with everyone else. Happy New Year, Doctor. Keep looking after me this year, yeah?"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "예전 이맘때면 난 황야에서 홀로 모닥불을 피워 추위를 피하곤 했어. 저 멀리 도시에서 폭죽이 터지면, 아 새해구나…… 했지. 물론 그때의 생활도 짜릿했지만, 그래도 난 역시 모두와 함께 새해를 보내는 게 더 좋아. 새해 복 많이 받아, 박사. 올 한 해도 잘 부탁해."
         },
         {
           "language": "繁体中文",
@@ -958,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "虽然成为了感染者，但我的打猎本领可没有半点生疏，原来的公司因为矿石病而开除我，其实是他们的损失吧。现在能加入罗德岛，我还是很幸运的呀。我也希望更多的感染者，能和我一样幸运。"
+          "content": "生日快乐，博士！我来陪你玩啦！今天想做什么呢？去唱歌，还是去购物？啊，我还知道一个可以射箭的体验馆，参加比赛还有奖品可以拿哦。让我去露一手，赢下的奖品，就送给博士当礼物吧！"
         },
         {
           "language": "日文",
@@ -976,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "虽然成为了感染者，但我的打猎本领可没有半点生疏，原来的公司因为矿石病而开除我，其实是他们的损失吧。现在能加入罗德岛，我还是很幸运的呀。我也希望更多的感染者，能和我一样幸运。"
+        },
+        {
+          "language": "日文",
+          "content": "感染者にはなっちゃったけど、狩りの腕前は全然衰えてないよ。前いた会社は鉱石病（オリパシー）であたしをクビにしたけど、むしろ向こうの損失だよね。それで今はロドスの一員になれたし、あたしってホントに運がいいな～って思うよ。もっとたくさんの感染者が、あたしみたいに幸運を掴めたらいいのにな。"
+        },
+        {
+          "language": "英文",
+          "content": "Getting infected didn't make my hunting any worse. But the company still fired me for catching Oripathy. I'd say it's their loss, but to be honest, joining Rhodes Island was a stroke of luck for me. I only hope other Infected out there can be just as happy."
+        },
+        {
+          "language": "韩文",
+          "content": "난 감염자가 됐지만, 사냥 실력은 하나도 녹슬지 않았어. 원래 있던 회사에서 날 광석병 때문에 쫓아낸 건 오히려 그들의 손해라고 생각해. 아~ 내가 로도스 아일랜드에 들어올 수 있었던 건, 정말 행운이었던 것 같아! 나는 더 많은 감염자들에게 나처럼 이런 행운이 찾아왔으면 좋겠어."
         },
         {
           "language": "繁体中文",

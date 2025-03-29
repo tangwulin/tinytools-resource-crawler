@@ -1,7 +1,11 @@
 {
   "name": "妮芙",
   "charaKey": "char_4146_nymph",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/d/de/%E7%AB%8B%E7%BB%98_%E5%A6%AE%E8%8A%99_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/d/db/%E7%AB%8B%E7%BB%98_%E5%A6%AE%E8%8A%99_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/9/96/%E7%AB%8B%E7%BB%98_%E5%A6%AE%E8%8A%99_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -23,7 +27,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ほかの部署宛ての書類は片したし、植物にお水もあげたし……あ、ドクターのお水はこっち。おやつも食堂にお願いしといたからね。安心してよー、オペレーターのみんなにあれこれやり方教わってるから、やらかしたりしないって。"
+        },
+        {
+          "language": "英文",
+          "content": "I've finished organizing the files to be sent to other departments, and watered the plants... oh, here's your water, and I've asked the cafeteria to prepare the snacks. Don't worry, I've asked other operators first. There'll be no problem."
+        },
+        {
+          "language": "韩文",
+          "content": "다른 부서로 보낼 문서는 다 정리했고, 식물에도 물 줬고…… 아, 박사 물은 여기. 간식도 이미 식당에 부탁해 뒀어. 걱정하지 마, 다른 오퍼레이터들한테 많이 배웠으니까 절대 실수하지 않을 거야."
         }
       ]
     },
@@ -37,7 +49,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あたしのおうちの隣にはね、エネルギー輸送用の溶炉がドーンって設置されてたんだよ。ちゃんとした使い方はエルミーから聞いてたけど、結局あたしたちは焼き料理をしたり、お洋服を乾かしたり、暖を取るために使ってばっかだったなぁ。なんか噂だと、コンコンって挨拶してから使えば、ご先祖様がずーっと側でお守りしてくれるんだって。"
+        },
+        {
+          "language": "英文",
+          "content": "There's a little energy furnace next to my house. Ermi told me what it's for, but we usually use it to cook food, dry clothes, and get warm. People say the ancestor's blessing will be with you if you knock on the furnace twice before using it."
+        },
+        {
+          "language": "韩文",
+          "content": "우리 집 옆에는 에너지 수송을 위한 작은 용광로가 있었어. 용광로가 어디에 쓰이는지 에르미가 알려주긴 했는데 우린 보통 그걸로 음식을 데우거나 옷을 말리고, 또 어떨 땐 난로처럼 사용했지. 소문에 따르면, 사용하기 전에 똑똑~하고 두 번 콩콩 두드리면 선조님이 계속 옆에서 지켜주신대."
         }
       ]
     },
@@ -51,7 +71,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ジャールは人の心なんて読めないし、感情を吸い取ったりもしない。脳みそを食べちゃうなんてもっとあり得ないから！もーっ、そんなデタラメ誰から聞いたの！？あんまりしつこく言うと怒っちゃうからねっ！今すぐ飛びかかって、ドクターの頭をバリバリむしゃむしゃ食べてみせちゃおうか！？"
+        },
+        {
+          "language": "英文",
+          "content": "Djalls don't read minds, we don't suck out emotions, and we most certainly don't eat brains! Where did you hear all these crazy rumors? I'm gonna get angry if you say this stuff again, and I just might eat your brains out!"
+        },
+        {
+          "language": "韩文",
+          "content": "디얄은 사람의 마음을 읽지도, 감정을 빼앗아 가지도 않아. 뇌를 먹는다느니 그런 건 더더욱 있을 수 없는 일이고! 정말이지, 그런 헛소리는 대체 누구한테서 들은 거야! 계속 이런 걸 물어보면 나도 화낼 거야! 지금 당장 달려들어 박사의 머리를 와구와구 우적우적 씹어 먹어 버릴 거라고!"
         }
       ]
     },
@@ -65,7 +93,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "前に街でご先祖様を探してた時、エルミーがご先祖様を一旦入れとく用にってこのキューブちゃんをくれたの。まあ今はおっきな荷物の収納代わりにしちゃってるけどね。どういう仕組みになってるのかすっごく知りたいとこだけど、リッチの技術は複雑すぎて、たとえエルミーが心の内を全部見せてくれたってあたしにはさっぱりかも。"
+        },
+        {
+          "language": "英文",
+          "content": "Ermi gave me this box to store the ancestors when I was looking for them in the city. Now, I use to to store large luggage. I want to know how it works, but Lich techniques are so complicated, it's hard to understand even if Ermi bares her soul to me."
+        },
+        {
+          "language": "韩文",
+          "content": "전에 거리에서 선조님을 찾아다닐 때 에르미가 선조님을 잠시 담아둘 수 있다며 이 큐브를 줬어. 지금은 큰 짐을 보관하는 용도로 쓰고 있지만. 나도 이게 어떤 원리로 작동하는 건지 알고 싶지만, 리치의 기술은 너무 복잡해서…… 설사 에르미가 마음을 다 보여준다고 해도 뭐가 뭔지 전혀 이해하지 못할 거야."
         }
       ]
     },
@@ -79,7 +115,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "このお金の使い道はちゃんと考えなきゃ、へへ……あっ、こんにちはドクター。このお金？クリーンな収入だよ。みんなの悩み事を解決して、ちょっとお気持ちをもらうのって変じゃないでしょ。何をしたかって？えっとね、ペット探しとか、気持ちの整理のお手伝いとか、別に大したことはしてないよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Let me think how I should use this money... oh, hello, Doctor. This? Completely legitimate income that I earned by helping my friends solve their problems. What did I do? Nothing really special, just stuff like looking for missing pets, or helping someone organize their thoughts."
+        },
+        {
+          "language": "韩文",
+          "content": "이 돈을 어떻게 쓸까, 지금부터 잘 생각해야지, 헤헤…… 흐음. 아, 안녕, 박사. 이 돈은 뭐냐고? 이건 합법적인 수입이야. 고민을 해결해주고 감사 표시로 약간의 답례를 받는 게 이상한 건 아니잖아. 뭘 했냐고? 음, 애완동물을 찾아 준다거나, 마음을 정리할 수 있게 들어준다거나, 뭐 그런 평범한 일들이야."
         }
       ]
     },
@@ -93,7 +137,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あたしの最近の活躍はどう？満足してくれてるかな？だって信頼と好意はちょっと違うでしょ。あたしたちジャールは好意なら持たれやすいけど、信頼ってなると……うん、気持ちは伝わったよ。信頼してくれてありがと、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "How have I been doing? It's easy enough for a Djall to earn praise, but earning trust is another matter... but I can hear it. Thank you for your trust, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "요즘 내 활약 어땠어? 만족스러워? 음…… 신뢰와 호의는 조금 다른 거잖아. 우리 디얄 종족은 호의라면 쉽게 얻을 수 있지만, 신뢰는…… 응, 너의 마음 충분히 전해졌어. 신뢰해 줘서 고마워, 박사."
         }
       ]
     },
@@ -107,7 +159,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "パパとママのもとを離れてからもうだいぶ経っちゃったな。恋しいかって？うーん……それほどでもないかな。あたしは二人の娘であって付属品じゃないしね。もう親離れしたんだから、両親にずっとくっついてるのも変な話でしょ。二人からの愛はずっと感じてるし、パパとママにはあたしに構わず自由に暮らしてほしいもん。"
+        },
+        {
+          "language": "英文",
+          "content": "Dad and mom have been away for a while. Do I miss them? Hm... I guess I'm doing ok. I'm their daughter, but I'm not part of them. No reason to force them to stay with me when I can handle myself. I can feel their love, so I'll let them be."
+        },
+        {
+          "language": "韩文",
+          "content": "엄마아빠가 떠난 지도 벌써 이렇게 됐네. 그립진 않냐고? 음…… 괜찮아. 난 두 분의 딸이지, 부속품 같은 게 아니니까. 혼자서도 잘 지낼 수 있는데, 계속 붙어 있는 게 더 이상하지. 난 엄마아빠가 나는 이제 덜 신경 쓰고 자유롭게 지냈으면 좋겠어. 나를 사랑하는 두 분의 마음이라면 여전히 잘 느껴지니까."
         }
       ]
     },
@@ -121,7 +181,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ジャールは人の心を鞭打つ種族ってイメージかもしれないけど、相手の心に鞭を振るうだけじゃなくて、自分の心もビシバシやらなきゃダメなんだよ。昔、心を放任して好き放題してたらおかしくなっちゃって、結局魔王の手で殺されちゃったジャールの子もいたとか。も、もちろん自分の目で見たわけじゃないけどね。とにかく、自分の心にもしっかり目を光らせておけば問題ないよっ！"
+        },
+        {
+          "language": "英文",
+          "content": "A Djall must treat her own soul with care. Legends speak of a Djall who went mad because they were too callous with their soul, and was finally killed by the King of Sarkaz. I-I haven't seen it myself, of course, but it's important to stick to principles!"
+        },
+        {
+          "language": "韩文",
+          "content": "디얄을 그저 다른 사람의 마음을 채찍질하는 종족으로 생각할 수도 있지만, 사실 우린 상대방뿐만 아니라, 자신의 마음도 채찍질할 줄 알아야 해. 옛날에 자신의 마음은 신경 쓰지 않고 다른 마음만을 탐닉하다 이성을 잃은 동족이 있었는데, 이내 마왕의 손에 죽임을 당했다고 하더라고…… 무, 물론 나도 직접 본 건 아니지만! 아무튼 자기 마음을 잘 지키면 문제없을 거라는 얘기야!"
         }
       ]
     },
@@ -135,7 +203,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "心を鞭打つのってお遊びじゃないんだよ、ほんとにやってみたいの？わ、わかった。ちゃんと手加減するからね。そんじゃあたしの目を見て……いや、ちょっとごめん、なんかドキドキしちゃって口から心臓が飛び出しそう。ま、また今度にしよ、ちょっとこっちにも準備がいるから……"
+        },
+        {
+          "language": "英文",
+          "content": "Are you sure you want to feel a Djall's touch? Alright, if you insist... look into my eyes... oh dear, I'm really nervous. It's like my heart's about to fly out of my chest. Maybe next time... I need time to prepare..."
+        },
+        {
+          "language": "韩文",
+          "content": "마음을 채찍질한다는 건 장난 같은 게 아니야. 정말 해 보고 싶어? 조, 좋아. 내가 적당히 조절해 볼게. 그럼 내 눈을 바라봐…… 앗, 아 잠깐만, 미안. 갑자기 심장이 막 두근거려서…… 입 밖으로 막 튀어나올 것만 같아. 다, 다음에 하자. 나도 준비를 좀 더 해보고……"
         }
       ]
     },
@@ -149,7 +225,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "いい夢だなぁ。あたしも眠くなってきちゃった……"
+        },
+        {
+          "language": "英文",
+          "content": "What a nice dream. I'm getting sleepy too..."
+        },
+        {
+          "language": "韩文",
+          "content": "좋은 꿈을 꾸고 있네. 나도 슬슬 졸려오는데……"
         }
       ]
     },
@@ -163,7 +247,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "遅れてごめんなさいっ！人事部のお姉さんとお喋りしてたら時間を忘れちゃって……あなたがドクターで合ってるよね。あたしはニンフ。面倒事があればいつでも相談してね。トラブル解決はお手の物なんだから。"
+        },
+        {
+          "language": "英文",
+          "content": "Sorry I'm late! I was talking to the folks at HR and didn't notice the time... you're the Doctor, right? I'm Nymph. Feel free to come to me if there's anything you need help with!"
+        },
+        {
+          "language": "韩文",
+          "content": "늦어서 미안! 인사부 언니랑 얘기하다 보니 시간 가는 줄 몰랐네…… 당신이 박사지? 나는 님프라고 해. 귀찮은 일이 있으면 언제든 상담하러 와. 그런 걸 해결하는 게 내 특기거든."
         }
       ]
     },
@@ -177,7 +269,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "けっこう面白いね。何本か部屋に持ってってもいい？"
+        },
+        {
+          "language": "英文",
+          "content": "Interesting. Can I take it? I would like to put it up in my room."
+        },
+        {
+          "language": "韩文",
+          "content": "꽤 흥미롭네, 몇 개 가져가도 될까?"
         }
       ]
     },
@@ -191,7 +291,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "こんな勲章、軍事委員会のお偉いさんが付けてるのしか見たことないよ。ありがとね～。"
+        },
+        {
+          "language": "英文",
+          "content": "Thank you! I've only seen these medals on Military Commission folks before."
+        },
+        {
+          "language": "韩文",
+          "content": "이런 훈장은 군사위원회의 높은 사람들이 다는 것만 봤는데, 고마워 박사~"
         }
       ]
     },
@@ -205,7 +313,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "心の見せ合いっこしよっか、ドクター。そしたらもっとお互いのことが分かるようになるからさっ。"
+        },
+        {
+          "language": "英文",
+          "content": "Let's learn more about what's in each other's minds, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "우리 서로 마음을 보여줘 볼까, 박사? 그럼 더 서로에 대해 잘 알게 될 테니까."
         }
       ]
     },
@@ -219,7 +335,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "本当に力で解決するしかないのかな……？"
+        },
+        {
+          "language": "英文",
+          "content": "Do we really have to use force?"
+        },
+        {
+          "language": "韩文",
+          "content": "정말 무력으로 문제를 해결해야겠어……?"
         }
       ]
     },
@@ -233,7 +357,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "わかった……あたしがなんとかするから、心配しないで。"
+        },
+        {
+          "language": "英文",
+          "content": "I see... don't worry, I'll think of something."
+        },
+        {
+          "language": "韩文",
+          "content": "알겠어…… 어떻게든 해볼 테니까, 걱정하지 마."
         }
       ]
     },
@@ -247,7 +379,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "そろそろ行こうか。ずっとウジウジしててもしょうがないもんね。"
+        },
+        {
+          "language": "英文",
+          "content": "It's time to go. We can't wait forever."
+        },
+        {
+          "language": "韩文",
+          "content": "슬슬 출발할까, 계속 망설인다고 해결되는 것도 아니고."
         }
       ]
     },
@@ -261,7 +401,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "集中して、ニンフ。こ、こんなのなんてことないんだから。"
+        },
+        {
+          "language": "英文",
+          "content": "Focus, Nymph... it's not that hard..."
+        },
+        {
+          "language": "韩文",
+          "content": "집중하자, 님프야. 이, 이런 건 아무것도 아니잖아."
         }
       ]
     },
@@ -275,7 +423,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あ、あたし？"
+        },
+        {
+          "language": "英文",
+          "content": "M-Me?"
+        },
+        {
+          "language": "韩文",
+          "content": "내, 내가?"
         }
       ]
     },
@@ -289,7 +445,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "はぁ……"
+        },
+        {
+          "language": "英文",
+          "content": "*sigh*..."
+        },
+        {
+          "language": "韩文",
+          "content": "하아……"
         }
       ]
     },
@@ -303,7 +467,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "やっぱ緊張する……"
+        },
+        {
+          "language": "英文",
+          "content": "I'm still nervous..."
+        },
+        {
+          "language": "韩文",
+          "content": "조금 긴장되네……"
         }
       ]
     },
@@ -317,7 +489,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "頑張れあたしっ！"
+        },
+        {
+          "language": "英文",
+          "content": "You can do it!"
+        },
+        {
+          "language": "韩文",
+          "content": "힘내볼게!"
         }
       ]
     },
@@ -331,7 +511,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あたしの目を見なさい！"
+        },
+        {
+          "language": "英文",
+          "content": "Look into my eyes!"
+        },
+        {
+          "language": "韩文",
+          "content": "내 눈을 바라봐!"
         }
       ]
     },
@@ -345,7 +533,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "引き返して。心がバラバラになっちゃう前に……"
+        },
+        {
+          "language": "英文",
+          "content": "Turn around, or your soul will shatter here."
+        },
+        {
+          "language": "韩文",
+          "content": "돌아가. 마음이 산산조각나기 싫다면 말이야."
         }
       ]
     },
@@ -359,7 +555,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "このキーウィップで心を打ち据えてあげる！"
+        },
+        {
+          "language": "英文",
+          "content": "I will chain your soul!"
+        },
+        {
+          "language": "韩文",
+          "content": "이 키윕으로 마음을 뒤흔들어 주겠어!"
         }
       ]
     },
@@ -373,7 +577,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ロックはもう解けたよ。"
+        },
+        {
+          "language": "英文",
+          "content": "The lock has been opened."
+        },
+        {
+          "language": "韩文",
+          "content": "자물쇠는 이미 풀렸어."
         }
       ]
     },
@@ -387,7 +599,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "今の戦略ってもう条件反射になってるのかな？すごーい！"
+        },
+        {
+          "language": "英文",
+          "content": "Wow! It all seems to come so naturally to you."
+        },
+        {
+          "language": "韩文",
+          "content": "방금 그 지휘는 조건 반사 같은 거야? 대단해!"
         }
       ]
     },
@@ -401,7 +621,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクターの指揮はすっごくお勉強になるね。あたしもいつか使う時が来るかも。"
+        },
+        {
+          "language": "英文",
+          "content": "I've learned a lot from working under you. Maybe I can pick up a trick or two."
+        },
+        {
+          "language": "韩文",
+          "content": "박사의 지휘는 정말 배울 부분이 많네. 언젠가 활용할 날이 올지도 모르니까 잘 기억해둬야겠어!"
         }
       ]
     },
@@ -415,7 +643,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "もうやめにして、行かせてあげようよ。あたしたちも帰らなきゃ。"
+        },
+        {
+          "language": "英文",
+          "content": "Just let them go. It's time for us to go too."
+        },
+        {
+          "language": "韩文",
+          "content": "이제 그만하고 가자, 우리도 돌아가야지."
         }
       ]
     },
@@ -429,7 +665,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "大丈夫だよ！あ、あたしに任せて。きっと手はあるから……"
+        },
+        {
+          "language": "英文",
+          "content": "Don't worry, I-I'll find a way..."
+        },
+        {
+          "language": "韩文",
+          "content": "걱정하지 마! 나, 나한테 맡겨, 분명 방법이 있을 거야……"
         }
       ]
     },
@@ -443,7 +687,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "綺麗なお部屋だね。ちょっとデコレーションしたらきっと居心地抜群のおうちになるよ。"
+        },
+        {
+          "language": "英文",
+          "content": "It's so clean! It could become a really nice room with a little bit of work."
+        },
+        {
+          "language": "韩文",
+          "content": "깨끗한 방이네. 조금만 꾸미면 분명 아늑한 숙소가 될 거야."
         }
       ]
     },
@@ -457,7 +709,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "イタズラはめっ、だよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Enough messing around."
+        },
+        {
+          "language": "韩文",
+          "content": "장난치지 마."
         }
       ]
     },
@@ -471,7 +731,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "心の底にあるロックの鍵が見つからないの？大丈夫、このあたしが見つけてあげるから。"
+        },
+        {
+          "language": "英文",
+          "content": "There's no key for the lock in your heart? Don't worry, I'll find it for you."
+        },
+        {
+          "language": "韩文",
+          "content": "마음속 깊은 곳의 자물쇠 열쇠가 안 보인다고? 걱정 마, 내가 찾아 줄게."
         }
       ]
     },
@@ -485,7 +753,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
         }
       ]
     },
@@ -499,7 +775,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あっちこっちで盛り上がって楽しそうな声が溢れてるね。こんな幸せな空気に浸ってたら、心も溶けちゃいそう……今日は心ゆくまで盛り上がっちゃおう、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "Smiles and laughter everywhere. It's making my heart melt... today is a day to celebrate, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "여기저기서 즐거운 목소리와 웃음소리가 들려. 이런 따뜻한 분위기에 젖어있으니까 마음도 다 녹아버릴 것만 같아…… 오늘은 마음껏 즐겨보자, 박사."
         }
       ]
     },
@@ -510,6 +794,28 @@
         {
           "language": "中文",
           "content": "让自己的思绪休息下吧，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "心もしっかり休ませてあげてね、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "You should rest your mind, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "마음에도 휴식이 필요해, 박사."
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "今天是您的生日吧，博士，怎么还在头疼这些文书呢？别看了，看着我......现在，去食堂，吃顿大餐，吃完以后不许回这里，好吗？......对啦，生日就得把担子卸下来嘛，走吧。"
         },
         {
           "language": "日文",
@@ -527,7 +833,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "改めて振り返ったら、この一年こーんなにたくさんのことをしてきたんだってビックリ。ロドスとカズデルを行ったり来たりでもう足が棒になっちゃったよ。疲れたか？そうでもないみたい。けっこう満足してるし、ここから先は……ううん、やめよ。未来は分からないからこそワクワクするんだもんね。"
+        },
+        {
+          "language": "英文",
+          "content": "Looking back, it's sure been a busy year. Going back and forth Rhodes Island and Kazdel is putting a real toll on my legs. Tired? Not really, the satisfaction makes up for it. As for next year... I wouldn't think too much about it. There's no expectation without the unknown, is there?"
+        },
+        {
+          "language": "韩文",
+          "content": "돌이켜보니 올 한 해 정말 많은 일들을 해낸 것 같아. 로도스 아일랜드랑 카즈델을 왔다 갔다 하다 보니 다리가 끊어질 지경이지만…… 힘들진 않냐고? 아니, 괜찮아. 오히려 꽤 만족스럽달까. 내년에는…… 아니다, 됐다. 미래는 알 수 없기에 더 설레는 거니까, 그렇지?"
         }
       ]
     }

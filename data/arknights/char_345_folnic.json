@@ -1,7 +1,11 @@
 {
   "name": "亚叶",
   "charaKey": "char_345_folnic",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/5/5f/%E7%AB%8B%E7%BB%98_%E4%BA%9A%E5%8F%B6_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/a/a7/%E7%AB%8B%E7%BB%98_%E4%BA%9A%E5%8F%B6_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/3/32/%E7%AB%8B%E7%BB%98_%E4%BA%9A%E5%8F%B6_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -14,6 +18,10 @@
     {
       "language": "韩语",
       "base": "voice_kr/char_345_folnic"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_345_folnic"
     }
   ],
   "voiceList": [
@@ -57,7 +65,7 @@
         },
         {
           "language": "英文",
-          "content": "Have you experienced any bodily discomfort recently? Umm, dry skin, err, um, stiff shoulders, dry eyeballs, hair loss, fatigue? ...Very good, just an old problem then, nothing serious. As long as you start exercising, these problems should go away in no time."
+          "content": "Have you experienced any bodily discomfort recently? Umm, dry skin, stiff shoulders... dry eyeballs, hair loss, fatigue? ...Very good, just old problems then, nothing serious. As long as you start exercising, these problems should go away in no time."
         },
         {
           "language": "韩文",
@@ -83,7 +91,7 @@
         },
         {
           "language": "英文",
-          "content": "Life in the Medical Department is just daily meetings, visits around the Island, learning the operators' physical conditions, and developing new drugs. Never anything fresh and exciting."
+          "content": "Life in the Medical Department is just daily meetings, visits around the Island, learning the operators' physical conditions, and developing new drugs. Nothing really fresh or exciting."
         },
         {
           "language": "韩文",
@@ -135,7 +143,7 @@
         },
         {
           "language": "英文",
-          "content": "Thanks for always taking care of us medics. I feel so much less anxiety while working, and am very happy. Of course, there are troublesome things to deal with as well, for example, when Blaze comes back, her body is always covered in blood. Does she know how hard it is to clean up those bodily fluids?"
+          "content": "Thanks for always taking care of us medics. I feel so much less anxiety while working, and I'm very happy. Of course, there are troublesome things to deal with as well, for example, when Blaze comes back, her body is always covered in blood, each and every time! Does she know how hard it is to clean up those bodily fluids?"
         },
         {
           "language": "韩文",
@@ -161,7 +169,7 @@
         },
         {
           "language": "英文",
-          "content": "How many times have I told you, don't stay up late, and don't overeat! You just won't listen, right? How are you going to take care of other peoples' health then? You might as well spend the rest of your life in that chair then!! ......I'm sorry, I need to go calm down first."
+          "content": "How many times have I told you, don't stay up late, and don't overeat! You just won't listen, right? How are you going to take care of your health then? You might as well spend the rest of your life in that chair!! ...... I'm sorry, I need to go calm down first."
         },
         {
           "language": "韩文",
@@ -239,7 +247,7 @@
         },
         {
           "language": "英文",
-          "content": "The word 'Ursus' only gives me pain. I don't want to hear it, not again for the rest of my life. But it is a giant, and its voice is deafening. And I'm the only it's going to drive mad."
+          "content": "The word 'Ursus' only gives me pain. I don't want to hear it, not again for the rest of my life. But it's giant, its voice deafening, and I'm the only one it's going to drive mad."
         },
         {
           "language": "韩文",
@@ -265,7 +273,7 @@
         },
         {
           "language": "英文",
-          "content": "You also know that your previous environmental cleanliness evaluation scores weren't very high, right? If you don't turn things around, Doctor, you'll be on the business end of the Rhodes Island sanitation crane. Phew, I'll help you take care of these for now, so make sure you clean up the rest in your free time."
+          "content": "You also know that your previous environmental cleanliness evaluation scores weren't very high, right? If you don't turn things around, Doctor, you'll be on the business end of the Rhodes Island sanitation crane. ... I'll help you take care of these for now, so make sure you clean up the rest in your free time."
         },
         {
           "language": "韩文",
@@ -395,7 +403,7 @@
         },
         {
           "language": "英文",
-          "content": "I will do my best to protect everyone's life."
+          "content": "Medical support ready. I'll protect everyone's life."
         },
         {
           "language": "韩文",
@@ -421,7 +429,7 @@
         },
         {
           "language": "英文",
-          "content": "The whole squad has been covered by medical support. The rest is up to you, Doctor."
+          "content": "Medical support has covered the whole squad. The rest is up to you, Doctor."
         },
         {
           "language": "韩文",
@@ -473,7 +481,7 @@
         },
         {
           "language": "英文",
-          "content": "Enemy engaged. Preparing for counterattack and treatment."
+          "content": "Enemy engaged. Prepare for counterattack and treatment."
         },
         {
           "language": "韩文",
@@ -603,7 +611,7 @@
         },
         {
           "language": "英文",
-          "content": "Begin administering medication."
+          "content": "Start medication."
         },
         {
           "language": "韩文",
@@ -911,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、あけましておめでとうございます。この機会に、あなたの去年の健康状態の振り返りと評価をさせてください。では早速……いえ、やめておきましょう。あなたの健康管理については、私にも至らない点があったと言わざるを得ません。新たな一年は、これまでの倍努力するつもりです。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy New Year, Doctor. Why don't we take this chance to look back on your health over the last year? Let's see... Forget it. I have to admit my management of your health still has room for improvement. I will work extra hard on that this year."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "박사님, 새해 복 많이 받으세요. 이참에 작년 건강 상태에 대한 전반적인 리뷰를 해드리겠습니다. 어디 보자…… 에휴 됐다. 당신의 건강 관리에 있어서, 제가 소홀했다는 걸 인정해야겠군요. 올해는 두 배로 열심히 관리해 드리겠습니다."
         },
         {
           "language": "繁体中文",
@@ -954,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "在母亲的消息断绝之后，于我而言，这片大地上就不存在“家”了。而罗德岛是最像家的地方了。这里寄寓了凯尔希老师的理想，也有我的理想。博士，请见证我的决心。"
+          "content": "博士，生日快乐。我特意为您准备了礼物，是一套医疗部研发的颈椎按摩仪。请您现在就试试吧，可能会有点痛，但对您的健康一定是有好处的。啊，别想逃跑。我一定会履行好健康管理的责任的。"
         },
         {
           "language": "日文",
@@ -972,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在母亲的消息断绝之后，于我而言，这片大地上就不存在“家”了。而罗德岛是最像家的地方了。这里寄寓了凯尔希老师的理想，也有我的理想。博士，请见证我的决心。"
+        },
+        {
+          "language": "日文",
+          "content": "母が消息を絶ったことで、私にとっての「家」はこの大地から失われてしまいました。今ではロドスが一番「家」に近い存在だと思います。ここにはケルシー先生の理想や、私の理想が居着いていますから。ドクター、どうか私の決意を見届けてください。"
+        },
+        {
+          "language": "英文",
+          "content": "Ever since my mother went missing, I haven't had a place to call home. Rhodes Island is the closest I have. Dr. Kal'tsit invested her ideals in this company, and so have I. Doctor, bear witness to my determination."
+        },
+        {
+          "language": "韩文",
+          "content": "엄마와의 연락이 끊긴 이후, 이 대지엔 더이상 '집'이라 부를 곳이 없게 되었습니다. 그러던 제게 로도스 아일랜드가 집 같은 존재가 되었죠. 여기에는 켈시 선생님의 이상과 저의 이상이 깃들어 있습니다. 박사님, 제 결심이 옳았음을 확인시켜 주세요."
         },
         {
           "language": "繁体中文",

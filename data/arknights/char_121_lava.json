@@ -68,7 +68,7 @@
         },
         {
           "language": "韩文",
-          "content": "업무가 있으면 뭐든 다 얘기해도 되는데, 그 녀석이랑 같이하는 일만 좀 빼줘, 마음에 안 들거든. 특히 억지로 먹이는 그 이상한 음식은… 상상만 해도… 우웩……"
+          "content": "업무가 있으면 뭐든 다 얘기해도 되는데, 그 녀석이랑 같이하는 일만 좀 빼줘, 마음에 안 들거든. 특히 억지로 먹이는 그 이상한 음식은…… 상상만 해도…… 우웩……"
         },
         {
           "language": "繁体中文",
@@ -198,7 +198,7 @@
         },
         {
           "language": "韩文",
-          "content": "배고프네…… 음, 이건 뭐지? 누가 사탕을 숨겨 놨었나? 얌… 나 아직 훈련 중인데, 이런 거 먹어도 되나?"
+          "content": "배고프네…… 음, 이건 뭐지? 누가 사탕을 숨겨 놨었나? 얌…… 나 아직 훈련 중인데, 이런 거 먹어도 되나?"
         },
         {
           "language": "繁体中文",
@@ -224,7 +224,7 @@
         },
         {
           "language": "韩文",
-          "content": "사실, 히비스를 그렇게 막 싫어하는 건 아니야…… 옛날 일은 옛날 일이고, 지금은 이상한 약이나 음식 같은 것만 억지로 먹이려 그러지만 않으면, 나도 불만은 없어. 어찌 됐든 내 목숨을 구해준 건… 그 녀석이었으니까……"
+          "content": "사실, 히비스를 그렇게 막 싫어하는 건 아니야…… 옛날 일은 옛날 일이고, 지금은 이상한 약이나 음식 같은 것만 억지로 먹이려 그러지만 않으면, 나도 불만은 없어. 어찌 됐든 내 목숨을 구해준 건…… 그 녀석이었으니까……"
         },
         {
           "language": "繁体中文",
@@ -328,7 +328,7 @@
         },
         {
           "language": "韩文",
-          "content": "말했지? 단체를 위해서 일할 생각은 없다고. 팀 같은 건 필요 없어… 그래도… 뭐, 고마워."
+          "content": "말했지? 단체를 위해서 일할 생각은 없다고. 팀 같은 건 필요 없어…… 그래도…… 뭐, 고마워."
         },
         {
           "language": "繁体中文",
@@ -640,7 +640,7 @@
         },
         {
           "language": "韩文",
-          "content": "점괘 결과가 나왔어… 완승이네."
+          "content": "점괘 결과가 나왔어…… 완승이네."
         },
         {
           "language": "繁体中文",
@@ -814,15 +814,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、アタシは別にデブってないよな？さっきフライド羽獣を食おうとしたら、ハイビスの奴が皮を全部剥がしやがったんだ！旨みが詰まったジューシーな皮をだぞ！！こんな日にまでこれはダメあれはダメって言われるのはもううんざりだ。あとで絶対抗議してやらないと……まぁ、今日はやめとくか、ふん。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "I need your help, Doctor. Tell me, Just in what world do I fall under the category of 'Out of Shape?' I was feeding myself some fried-foulbeast, and that annoying Hibiscus took it away, before peeling the coat off and handing the rest back to me! The crispy, crunchy coat! She took it! Gone! There's *NO* way I can get my hands on what I want to eat with her around! There's gonna be a fight... Ugh! Never mind."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "박사, 나 뚱뚱해 보이진 않지? 아까 파울비스트 고기 튀김을 먹으려는데, 히비스가 허락도 없이 튀김 껍질을 벗겨 버리는 거 있지! 그게 얼마나 맛있는 건데!! 걔 때문에 오늘 같은 날도 이게 뭐야, 이것도 못 먹고, 저것도 못 먹고. 아무래도 이따 히비스랑 한바탕 해야겠…… 에휴, 됐다."
         },
         {
           "language": "繁体中文",
@@ -857,12 +857,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "自从我变成感染者，姐姐也受了很多苦，其实我明白姐姐想做的事是什么的，她和我一样，都想用自己的努力去帮助别人。而且她好像今天也还在忙呢，还总说我不让人放心，她其实才是吧！"
+          "content": "博士，生日快乐，我给你做了一副手套，上面的花纹是不是很酷？这可不是胡画的，这些可都是我占卜得到的结果，我的占卜不会出错，一切都会在未来应验的。"
         },
         {
           "language": "日文",
@@ -875,6 +875,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "自从我变成感染者，姐姐也受了很多苦，其实我明白姐姐想做的事是什么的，她和我一样，都想用自己的努力去帮助别人。而且她好像今天也还在忙呢，还总说我不让人放心，她其实才是吧！"
+        },
+        {
+          "language": "日文",
+          "content": "アタシが感染者になってから、姉ちゃんもたくさん苦労してきたんだ。アイツのやりたいことくらい……アタシと同じで、自分の努力で人助けがしたいってことくらい、アタシにだってよくわかってるよ。今日みたいな日もなんか忙しそうにしてるし。アタシのことが心配で目が離せないとかいつも言ってるけど、そりゃこっちのセリフだっての！"
+        },
+        {
+          "language": "英文",
+          "content": "My infection made my sister's life hell as well. It may not look like it, but deep inside my heart resonates with hers, because what we all want is to help those in need with our hands. Speaking of which, isn't she still on shift today? Huh, how can someone have the right to call me the one that worries when she pushes herself this hard?"
+        },
+        {
+          "language": "韩文",
+          "content": "내가 감염자가 된 후로, 언니도 고생 많이 했지. 실은 나도 언니가 하려는 일이 뭔진 알아. 언니나 나나 다른 사람을 돕기 위해 열심히 노력하는 중이니까. 아마 오늘도 일하느라 바쁠걸? 그런 주제에 맨날 내가 걱정이라는 말이나 하고, 정말로 걱정되는 게 누군데!"
         },
         {
           "language": "繁体中文",

@@ -122,7 +122,7 @@
         },
         {
           "language": "韩文",
-          "content": "로도스 아일랜드의 통신 기술은 정말이지, 너무 대단한 거 아니에요? 이러다가 저… 실업자라도 되면 어떡하죠?!"
+          "content": "로도스 아일랜드의 통신 기술은 정말이지, 너무 대단한 거 아니에요? 이러다가 저…… 실업자라도 되면 어떡하죠?!"
         },
         {
           "language": "繁体中文",
@@ -174,7 +174,7 @@
         },
         {
           "language": "韩文",
-          "content": "음? 편지에서 향기가 난다고요? 에이… 기분 탓일 거예요 기분 탓."
+          "content": "음? 편지에서 향기가 난다고요? 에이…… 기분 탓일 거예요 기분 탓."
         },
         {
           "language": "繁体中文",
@@ -252,7 +252,7 @@
         },
         {
           "language": "韩文",
-          "content": "……당신에겐 못 당하겠네요… 그럼 이 영업용 미소는 일단 넣어두도록 하죠. 에헴… 앞으로도, 진짜 모습으로 당신과 마주할 수 있었으면 좋겠네요."
+          "content": "……당신에겐 못 당하겠네요…… 그럼 이 영업용 미소는 일단 넣어두도록 하죠. 에헴…… 앞으로도, 진짜 모습으로 당신과 마주할 수 있었으면 좋겠네요."
         },
         {
           "language": "繁体中文",
@@ -278,7 +278,7 @@
         },
         {
           "language": "韩文",
-          "content": "박사님, 새로운 메시지가… 아니다, 다음에 주지 뭐."
+          "content": "박사님, 새로운 메시지가…… 아니다, 다음에 주지 뭐."
         },
         {
           "language": "繁体中文",
@@ -798,7 +798,7 @@
         },
         {
           "language": "韩文",
-          "content": "일단은 여기를 벗어나죠… 이쪽입니다, 어서요!"
+          "content": "일단은 여기를 벗어나죠…… 이쪽입니다, 어서요!"
         },
         {
           "language": "繁体中文",
@@ -920,15 +920,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、イェラグの年越し料理を持ってきましたよ。まだホカホカです、熱いうちにどうでしょう？……そんなに気に入ったんですか？あ、あまりがっつきすぎないでください！獣肉は消化しにくいものですから！"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Doctor, I've brought you some food from Kjerag to celebrate the New Year. They're still warm, so would you like to try...? Are they to your taste? D—Don't eat so many! The beastmeat isn't that easy to digest!"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "박사님, 박사님을 위해서 쉐라그의 새해맞이 음식을 준비해 봤어요. 따뜻할 때 드셔 보세요. ……그렇게 맛있으세요? 너, 너무 많이 드시면 안 돼요! 짐승 고기는 소화하기 힘들다고요!"
         },
         {
           "language": "繁体中文",
@@ -963,12 +963,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "银灰老板选择与罗德岛合作，在下相信他的选择。而在罗德岛度过这段日子后，在下相信银灰老板，现在也同样相信着您。"
+          "content": "博士，生日快乐！这些是在下为您准备的礼物，现在就要拆开吗？要不要猜猜里面是什么呢？嗯......是个香囊没错啦！希望您带在身上的时候，能感觉到仿佛我就在您身边。"
         },
         {
           "language": "日文",
@@ -981,6 +981,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "银灰老板选择与罗德岛合作，在下相信他的选择。而在罗德岛度过这段日子后，在下相信银灰老板，现在也同样相信着您。"
+        },
+        {
+          "language": "日文",
+          "content": "シルバーアッシュ様はロドスと共に歩む決断を下し、僕もあの方の選択を信じました。あれからロドスに来て日々を過ごしてきた今、シルバーアッシュ様のことと同じように、僕はあなたのことも信じています。"
+        },
+        {
+          "language": "英文",
+          "content": "It was Master SilverAsh's choice to partner with Rhodes Island, but I believed in his decision. And my days at Rhodes Island have proven not only how right he was, but also how trustworthy you are."
+        },
+        {
+          "language": "韩文",
+          "content": "실버애쉬 님께선 로도스 아일랜드와의 협력을 결정하셨고, 전 그 결정을 존중해요. 그리고 로도스 아일랜드에서 지내는 동안, 전 실버애쉬 님을 믿는 것과 마찬가지로 박사님도 신뢰하게 되었어요."
         },
         {
           "language": "繁体中文",

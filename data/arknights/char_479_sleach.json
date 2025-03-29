@@ -1,7 +1,12 @@
 {
   "name": "琴柳",
   "charaKey": "char_479_sleach",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/3/3c/%E7%AB%8B%E7%BB%98_%E7%90%B4%E6%9F%B3_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/0/09/%E7%AB%8B%E7%BB%98_%E7%90%B4%E6%9F%B3_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/5/5d/%E7%AB%8B%E7%BB%98_%E7%90%B4%E6%9F%B3_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/6/6e/%E7%AB%8B%E7%BB%98_%E7%90%B4%E6%9F%B3_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -273,7 +278,7 @@
         },
         {
           "language": "韩文",
-          "content": "지금 박사의 모습을 보면, 로도스 아일랜드의 사무소에 틀어박혀 놀던 때가 떠올라… 햇살, 카드 게임, 동료들… 아아, 그때 생각나네…"
+          "content": "지금 박사의 모습을 보면, 로도스 아일랜드의 사무소에 틀어박혀 놀던 때가 떠올라…… 햇살, 카드 게임, 동료들…… 아아, 그때 생각나네……"
         },
         {
           "language": "繁体中文",
@@ -871,7 +876,7 @@
         },
         {
           "language": "韩文",
-          "content": "피곤해 보이네? 스콘 구웠는데, 차랑 같이 먹을래? 음… 그러지말고 잠깐 여기 앉아봐, 고민거리라도 있어?"
+          "content": "피곤해 보이네? 스콘 구웠는데, 차랑 같이 먹을래? 음…… 그러지말고 잠깐 여기 앉아봐, 고민거리라도 있어?"
         },
         {
           "language": "繁体中文",
@@ -915,15 +920,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "これクランブルと、あとプディングと、キャロットケーキ……あ、作りすぎたかな？ごめん、朝起きた時からなんだか緊張してて……つい、いっぱい作っちゃった。コホンッ、毎日頑張っているドクターへの差し入れということで。どうか、この甘い味が、次の一年でドクターの癒しになりますように。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Here's some trifle, pudding, and carrot cake... Oh, is it too much? Sorry, I've been a little nervous for the whole morning. Before I knew it, I'd already made this much... Hehe, let's just say I made you all these desserts to thank you for everything you've done. I hope you can spend the year surrounded by sweetness."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "이건 치즈, 그리고 이건 푸딩, 이건 당근 케이크…… 앗, 너무 많았나? 미안해, 아침에 일어났을 때부터 왠지 긴장이 돼서…… 나도 모르게 이렇게 많이 만들어 버렸지 뭐야. 흠흠, 항상 고생하는 박사를 위한 간식이라고 생각해줘. 이 달콤한 맛이 올 한 해 쭉 박사와 함께하길."
         },
         {
           "language": "繁体中文",
@@ -958,12 +963,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "虽然脱离了军队，但过去的使命、荣耀，我都不会放下，将来我也会回到自己责任所在的地方。请不用担心，与罗德岛各位共同的回忆、共同的理想，都会铭刻在这面旗帜上，永远陪在我身边。"
+          "content": "这本维多利亚诗集，是我在小丘郡的时候经常读的，送给您。我非常喜欢其中的一句，“阳光拥城市入怀，月色亲吻荒野”，博士给人的感觉，就像这句诗一样温柔呢。呵呵，祝您生日快乐。"
         },
         {
           "language": "日文",
@@ -976,6 +981,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "虽然脱离了军队，但过去的使命、荣耀，我都不会放下，将来我也会回到自己责任所在的地方。请不用担心，与罗德岛各位共同的回忆、共同的理想，都会铭刻在这面旗帜上，永远陪在我身边。"
+        },
+        {
+          "language": "日文",
+          "content": "軍を離れたとは言え、私は過去の使命と栄光から手を放すつもりはない。いずれは自分が負うべき責任があるところに戻るよ。心配しないで、ロドスのみんなと一緒に過ごした時間も、一緒に見た夢も、この旗に刻まれて、ずっと私のそばにあるから。"
+        },
+        {
+          "language": "英文",
+          "content": "I may have left the military, but my honor and calling are things I won't lay aside. In future, I'll return to where my duty lies. Please, don't worry. The memories we've made, the ideals we've borne together at Rhodes Island, they will always be carved upon this ensign, to be forever by my side."
+        },
+        {
+          "language": "韩文",
+          "content": "비록 군대를 떠났지만, 과거의 사명과 명예는 놓지 않았어. 언젠가는 나도 내 책임이 있는 곳으로 돌아갈 거야. 하지만 걱정하지 마. 로도스 아일랜드의 모두와 함께 쌓은 추억, 그리고 공통의 이상은, 모두 이 깃발에 새겨 두고 영원히 함께할 테니까."
         },
         {
           "language": "繁体中文",

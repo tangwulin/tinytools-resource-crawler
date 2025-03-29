@@ -95,7 +95,7 @@
         },
         {
           "language": "韩文",
-          "content": "왜일까, 여기 온 뒤로 켈시 선생님한테 자주 잔소리를 듣는데 말이야… 환자한텐 상냥하게 대하라고."
+          "content": "왜일까, 여기 온 뒤로 켈시 선생님한테 자주 잔소리를 듣는데 말이야…… 환자한텐 상냥하게 대하라고."
         },
         {
           "language": "繁体中文",
@@ -121,7 +121,7 @@
         },
         {
           "language": "韩文",
-          "content": "평범한 의사는 어떻게 자기 몸을 지킬지 자주 고민한다는데, 나 같은 경우에는… “어떻게 해야 환자가 겁을 안 먹을까”가 가장 큰 고민이지."
+          "content": "평범한 의사는 어떻게 자기 몸을 지킬지 자주 고민한다는데, 나 같은 경우에는…… “어떻게 해야 환자가 겁을 안 먹을까”가 가장 큰 고민이지."
         },
         {
           "language": "繁体中文",
@@ -173,7 +173,7 @@
         },
         {
           "language": "韩文",
-          "content": "의사와 병사, 구하는 쪽과 죽이는 쪽… 정반대의 존재라는 말을 자주 듣지만, 내게 있어선 어느 쪽이든 똑같아. 모두 희생자야."
+          "content": "의사와 병사, 구하는 쪽과 죽이는 쪽…… 정반대의 존재라는 말을 자주 듣지만, 내게 있어선 어느 쪽이든 똑같아. 모두 희생자야."
         },
         {
           "language": "繁体中文",
@@ -199,7 +199,7 @@
         },
         {
           "language": "韩文",
-          "content": "뭐 인마? 안 때렸어, 그런 건 인사잖아 인사. 봐봐, 이렇게… 스킨십으로 거리를 좁힌다고들 하잖아?"
+          "content": "뭐 인마? 안 때렸어, 그런 건 인사잖아 인사. 봐봐, 이렇게…… 스킨십으로 거리를 좁힌다고들 하잖아?"
         },
         {
           "language": "繁体中文",
@@ -225,7 +225,7 @@
         },
         {
           "language": "韩文",
-          "content": "조금, 고향이 그리워졌어… 내가 고른 길이긴 하지만, 설마 여기까지 올 줄이야. 인생의 갈림길이란 게 정말 있긴 있나 봐."
+          "content": "조금, 고향이 그리워졌어…… 내가 고른 길이긴 하지만, 설마 여기까지 올 줄이야. 인생의 갈림길이란 게 정말 있긴 있나 봐."
         },
         {
           "language": "繁体中文",
@@ -277,7 +277,7 @@
         },
         {
           "language": "韩文",
-          "content": "이 자식… 자고 있는 건가? 하하"
+          "content": "이 자식…… 자고 있는 건가? 하하"
         },
         {
           "language": "繁体中文",
@@ -329,7 +329,7 @@
         },
         {
           "language": "韩文",
-          "content": "칫… 격투 레슨인 줄 알았건만, 이거였냐."
+          "content": "칫…… 격투 레슨인 줄 알았건만, 이거였냐."
         },
         {
           "language": "繁体中文",
@@ -919,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "やっと年明けだな！まずはゆっくり休もうぜ。そういえば、故郷の外での年越しってずいぶん静かなもんだな。アカフラ式の年越しパーティーが恋しくなるぜ。でもロドスでやるのはどうせケルシー先生に許してもらえねぇよな……"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Finally, New Year's! The croc doc is in and she says today's a rest day! Speaking of, they really celebrate New Year's peacefully out here. I kinda miss the Acahualla-style ceremony. Kal'tsit probably wouldn't approve holding it here at Rhodes Island though..."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "드디어 새해구나! 뭐 일단은 푹 쉬어볼까! 말이 나와서 그러는데, 고향 밖의 새해 축하는 되게 차분한 것 같아. 가끔은 아카후알라 스타일의 새해맞이 축제가 그리워. 하지만 로도스 아일랜드에서 그런 축제를 켈시가 동의하지 않겠지……"
         },
         {
           "language": "繁体中文",
@@ -962,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "问我在罗德岛当医生有什么感想？也没什么特别的。不管是用拳头让敌人服服帖帖，还是用法杖让病人乖乖听话，都是让人有成就感的事嘛。既然做出了选择，就没什么好踌躇不前的。"
+          "content": "生日快乐啊博士。说起来，我是不是也该有点表示啊......对了！要不就趁此机会，给博士做一次全套深入体检吧！"
         },
         {
           "language": "日文",
@@ -980,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "问我在罗德岛当医生有什么感想？也没什么特别的。不管是用拳头让敌人服服帖帖，还是用法杖让病人乖乖听话，都是让人有成就感的事嘛。既然做出了选择，就没什么好踌躇不前的。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスで医者をやるのはどんな感じかって？別にどうもこうもねぇよ。拳で敵を黙らせるのも、杖で患者を大人しくさせるのも、同じようにやりがいがあることだからな。やるって決めたからには、足踏みしてるつもりはねぇよ。"
+        },
+        {
+          "language": "英文",
+          "content": "You want my thoughts on what being a Rhodes Island doctor's been like? Nothing too special. Whether punching enemies into submission or using my staff to make patients listen, there's always a sense of accomplishment. It was my choice and I made it, so there's nothing to waffle over."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드에서 의사로 지내는 게 어떠냐고? 특별할 건 없어. 주먹으로 적을 입 다물게 하는 거나, 스태프로 환자들이 순순히 말을 듣게 만드는 거나, 다 성취감을 주는 일이야. 선택을 한 이상, 주저할 건 없다고 생각해."
         },
         {
           "language": "繁体中文",

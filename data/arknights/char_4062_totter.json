@@ -919,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "雪が結構降っていたので、ここへ来る途中デッキが真っ白になっていてすごくキレイだった。よかったら行ってみるといい。そうだ、あけましておめでとう、ドクター。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "I saw all the snow outside when I came today. One vast blanket over the deck, it's beautiful. You should go take a look. Oh, right, Happy New Year."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "갑판이 온통 새하얗게 덮일 정도로 눈이 잔뜩 내렸더군. 좋은 경치니까 박사도 한 번 가서 보는 건 어떻겠나. 아, 그렇지. 새해 복 많이 받도록."
         },
         {
           "language": "繁体中文",
@@ -962,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "我离开家乡的原因没有那么复杂，当年只是想找一个冬天下雪的地方住下来而已。你呢，博士？奔波这些年，想要的得到了吗？"
+          "content": "生日快乐，博士，我从自己的收藏中选了一样送给你，希望你能喜欢......好了，别这么看我，喜欢雪的人热爱收藏雪花球很奇怪吗？"
         },
         {
           "language": "日文",
@@ -980,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我离开家乡的原因没有那么复杂，当年只是想找一个冬天下雪的地方住下来而已。你呢，博士？奔波这些年，想要的得到了吗？"
+        },
+        {
+          "language": "日文",
+          "content": "俺が故郷を離れたのは七面倒な理由があったからじゃない。ただ、冬に雪が降るような場所に住みたいと思っただけなんだ。そちらはどうなんだ、ドクター？何年もあちこち駆け回ってきて、欲しいものは手に入れたか？"
+        },
+        {
+          "language": "英文",
+          "content": "Nothing complicated went into me leaving home. I just wanted to live somewhere it snows in winter. How about you, Doctor? Have you gotten what you want, on the move all these years?"
+        },
+        {
+          "language": "韩文",
+          "content": "딱히 이유가 있어서 고향을 떠난 건 아니야. 그냥 겨울에 눈이 내리는 곳에서 살고 싶었을 뿐이지. 박사는 어떤가? 분주했던 몇 년간, 원했던 것은 얻었나?"
         },
         {
           "language": "繁体中文",

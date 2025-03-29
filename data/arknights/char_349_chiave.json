@@ -1,7 +1,10 @@
 {
   "name": "贾维",
   "charaKey": "char_349_chiave",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/2/2d/%E7%AB%8B%E7%BB%98_%E8%B4%BE%E7%BB%B4_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/8/80/%E7%AB%8B%E7%BB%98_%E8%B4%BE%E7%BB%B4_2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -14,6 +17,10 @@
     {
       "language": "韩语",
       "base": "voice_kr/char_349_chiave"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_349_chiave"
     }
   ],
   "voiceList": [
@@ -31,7 +38,7 @@
         },
         {
           "language": "英文",
-          "content": "Yo, Doctor, got anything fun for me?"
+          "content": "Ehi, Doctor, got anything fun to do?"
         },
         {
           "language": "韩文",
@@ -57,7 +64,7 @@
         },
         {
           "language": "英文",
-          "content": "Tsk, I need to think of some way to make all the bell peppers disappear from the cafeteria forever."
+          "content": "Tsk, goddamn peppers... I gotta find a way to make them disappear from the canteen forever."
         },
         {
           "language": "韩文",
@@ -83,7 +90,7 @@
         },
         {
           "language": "英文",
-          "content": "There's this Yan saying that goes something like, 'Live life in the present.' Heh, don't you think that saying is really well-suited for me? The future? Eh, I'll let Aosta chew on that kind of stuff."
+          "content": "I heard Yanese got some old sayings similar to 'Catch the moment'. Heh, the line I like. Don't you think it suits me very well? The future? Meh, I'll let Aosta chew on those sorts of things."
         },
         {
           "language": "韩文",
@@ -109,7 +116,7 @@
         },
         {
           "language": "英文",
-          "content": "Hey Doctor, don't just sit there all the time. Why don't we have some fun, like remodeling this whole office?"
+          "content": "Oi, Doctor, don't just sit there all day. Why don't we have some fun, like… remodeling your whole office?"
         },
         {
           "language": "韩文",
@@ -135,7 +142,7 @@
         },
         {
           "language": "英文",
-          "content": "Aosta once said that I'm not gonna live long like this. At the time I told him, what's the point of living for a long time if I can't do what I want?"
+          "content": "Aosta once said I wouldn't live long like this. At the time, I told him, what's the point of long life if I can't do what I want?"
         },
         {
           "language": "韩文",
@@ -161,7 +168,7 @@
         },
         {
           "language": "英文",
-          "content": "Fight for what you want, snatch up what you like. There's no such thing as 'giving up' in my vocabulary!"
+          "content": "Fight for what you want, snatch what you like. I don't know the meaning of the word 'Surrender'!"
         },
         {
           "language": "韩文",
@@ -187,7 +194,7 @@
         },
         {
           "language": "英文",
-          "content": "I think up what to do, Aosta thinks up how to do it, and Broca's responsible for making sure we get it done together. That's how we've always done things, and it's how we ended up here."
+          "content": "I think up what to do, Aosta thinks up how to do it, and Broca makes sure we get it done together. That's how we've always gotten by, and it's how we ended up here."
         },
         {
           "language": "韩文",
@@ -213,7 +220,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctor, what are you doing all frowny-faced over there? If there's anything weighing down on you, just lemme hear it. I'm good at that kind of stuff."
+          "content": "Doctor, what are you doing all frowny-faced over there? If there's anything weighing on you, just lay it on me. I'm good at that sort of stuff."
         },
         {
           "language": "韩文",
@@ -239,7 +246,7 @@
         },
         {
           "language": "英文",
-          "content": "I told you, Doctor, if you decide that becoming the head of Rhodes Island ain't for you, how about you come work with us? I normally don't answer to anyone, but in your case, I'll make an exception."
+          "content": "Say, Doctor, if someday you decide to quit running Rhodes Island, why not come along with us? Chiave doesn't take orders from anyone, but in your case, I'll make an exception."
         },
         {
           "language": "韩文",
@@ -265,7 +272,7 @@
         },
         {
           "language": "英文",
-          "content": "Yo, Doctor... How the heck did you fall asleep? Whatever, guess I'll tell you later."
+          "content": "Ehi, Doctor... You fell asleep? Whatever, I'll be back later."
         },
         {
           "language": "韩文",
@@ -291,7 +298,7 @@
         },
         {
           "language": "英文",
-          "content": "Yo, are you the Doctor? Hello, and well met. The name's Chiave. I'm your underling from now on!"
+          "content": "Yo, are you the Doctor? Hello, and well met. The name's Chiave. Starting today, I'm your goon!"
         },
         {
           "language": "韩文",
@@ -317,7 +324,7 @@
         },
         {
           "language": "英文",
-          "content": "Tsk, tsk. Hey Aosta, get over here. I'm gonna become this strong one day!"
+          "content": "Whoa-ho-ho... Hey Aosta, check this out! Give me a moment and I'll be even stronger than these guys!"
         },
         {
           "language": "韩文",
@@ -343,7 +350,7 @@
         },
         {
           "language": "英文",
-          "content": "Huh? Promotion? What's that?"
+          "content": "Huh? Promotion? What do you mean?"
         },
         {
           "language": "韩文",
@@ -369,7 +376,7 @@
         },
         {
           "language": "英文",
-          "content": "Incredible. There are just too many amazing people here at Rhodes Island. How am I supposed to just stay in my seat? I've gotta get stronger and stronger!"
+          "content": "Incredible. There are just too many interesting people here at Rhodes Island. How am I supposed to just stay in my seat? I've gotta get stronger and stronger!"
         },
         {
           "language": "韩文",
@@ -395,7 +402,7 @@
         },
         {
           "language": "英文",
-          "content": "Yo, let's go!"
+          "content": "Ha, here we go!"
         },
         {
           "language": "韩文",
@@ -499,7 +506,7 @@
         },
         {
           "language": "英文",
-          "content": "It's still not my turn yet?"
+          "content": "Still not my turn yet?"
         },
         {
           "language": "韩文",
@@ -525,7 +532,7 @@
         },
         {
           "language": "英文",
-          "content": "Don't keep me waiting."
+          "content": "C'mon, don't make me yawn."
         },
         {
           "language": "韩文",
@@ -551,7 +558,7 @@
         },
         {
           "language": "英文",
-          "content": "I've already been waiting forever!"
+          "content": "I can't wait any longer!"
         },
         {
           "language": "韩文",
@@ -577,7 +584,7 @@
         },
         {
           "language": "英文",
-          "content": "Haha, you're all dead meat!"
+          "content": "Haha, I'm gonna end you all!"
         },
         {
           "language": "韩文",
@@ -603,7 +610,7 @@
         },
         {
           "language": "英文",
-          "content": "Taste this!"
+          "content": "Take this!"
         },
         {
           "language": "韩文",
@@ -629,7 +636,7 @@
         },
         {
           "language": "英文",
-          "content": "Hey, don't just run away!"
+          "content": "Hey! Why are you running?!"
         },
         {
           "language": "韩文",
@@ -655,7 +662,7 @@
         },
         {
           "language": "英文",
-          "content": "Fine, fine. You've all done a great job."
+          "content": "Yeah, yeah, you've all done a great JOB!"
         },
         {
           "language": "韩文",
@@ -681,7 +688,7 @@
         },
         {
           "language": "英文",
-          "content": "I'm getting pumped up!"
+          "content": "I'm on FIRE!"
         },
         {
           "language": "韩文",
@@ -707,7 +714,7 @@
         },
         {
           "language": "英文",
-          "content": "Hah, now this kind of task is the fun stuff!"
+          "content": "Hah, now this is the fun stuff!"
         },
         {
           "language": "韩文",
@@ -733,7 +740,7 @@
         },
         {
           "language": "英文",
-          "content": "Tsk, tsk. Where's the challenge in that, Doctor?"
+          "content": "Ah. Where's the challenge in that, Doctor?"
         },
         {
           "language": "韩文",
@@ -785,7 +792,7 @@
         },
         {
           "language": "英文",
-          "content": "Che cazzo uomo！"
+          "content": "Shit, for real?!"
         },
         {
           "language": "韩文",
@@ -811,7 +818,7 @@
         },
         {
           "language": "英文",
-          "content": "'ello, bruthas and sistahs!"
+          "content": "ello, bruthas and sistahs!"
         },
         {
           "language": "韩文",
@@ -837,7 +844,7 @@
         },
         {
           "language": "英文",
-          "content": "The hell?"
+          "content": "What is it?"
         },
         {
           "language": "韩文",
@@ -863,7 +870,7 @@
         },
         {
           "language": "英文",
-          "content": "Yo, Doctor, you seem to be in a pretty good mood."
+          "content": "Yo, Doctor, you're in a pretty good mood."
         },
         {
           "language": "韩文",
@@ -911,15 +918,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター！アオスタとブローカと一緒に元日の計画を立てたんだが知りてぇか？ヘヘッ、聞いた上で参加しねぇってのはナシだぜ。いいか、まず食堂のチョコレートソースを全部シラクーザ風ミートソースに取っ替えて、それから――おいドクター、逃げんな！ケルシー先生にはチクんなよ！"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Doctor! Aosta, Broca, and I have a new New Year's plan. Heh heh, once I tell you, you're in on the game. We're going to swap out all the chocolate sauce in the canteen for Siracusan meat sauce, then— Huh? Doctor, where are you going?! Don't you tell Dr. Kal'tsit!"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "박사! 아오스타, 브로카랑 새해 계획을 세웠는데, 헤헤, 듣고 싶어? 근데 이걸 듣고 나면 박사도 우리 계획에 참여해야만 해. 자, 그럼 잘 들어. 먼저 식당의 초콜릿 시럽을 전부 시라쿠사 미트소스로 바꾼 다음…… 어이, 박사. 거기 서! 닥터 켈시한테 말하면 안 된다고!"
         },
         {
           "language": "繁体中文",
@@ -941,7 +948,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctor, have you eaten yet?"
+          "content": "Ehi Doc, did you have a good meal?"
         },
         {
           "language": "韩文",
@@ -950,6 +957,32 @@
         {
           "language": "繁体中文",
           "content": "博士，吃過沒？"
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哟，博士。生、日、快、乐！铛铛——看这个汽车模型，小爷亲手做的，送给你啦。其实有条件的话，我也想组装一辆真的送给你啊。就这么说定了。博士，有机会来叙拉古，用这个找我换辆真车啊。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
         }
       ]
     },
@@ -963,15 +996,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ロドスにゃすげー奴が山ほどいるし、ドクターみてぇに頭がキレる奴もいるだろ。俺様だっていつか、いつか絶対一発ドデケェことをやってみせるぜ！遅くとも死んじまう前にな！あ？まずは死なないことを考えろ？それもそうだな、ハハッ……"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Rhodes Island's got all these heavies, plus smart people like you. One day, someday, I'm gonna do something big that'll rock the whole world! At the very least, I'll do it before I die! Uh, I should try to stay alive...? I guess you're right, haha…"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "로도스 아일랜드에는 대단한 사람들이 정말 많아. 박사처럼 똑똑한 사람도 있고. 나도 언젠가는, 꼭 이 대지를 들었다 놓는 일을 벌일 거야! 적어도 내가 죽기 전에는 반드시! 윽, 일단 잘 살아남기나 하라고? 그것도 그렇네, 하하……"
         },
         {
           "language": "繁体中文",

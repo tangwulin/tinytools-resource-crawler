@@ -1,7 +1,11 @@
 {
   "name": "莱伊",
   "charaKey": "char_4117_ray",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/6/6c/%E7%AB%8B%E7%BB%98_%E8%8E%B1%E4%BC%8A_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/3/39/%E7%AB%8B%E7%BB%98_%E8%8E%B1%E4%BC%8A_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/3/37/%E7%AB%8B%E7%BB%98_%E8%8E%B1%E4%BC%8A_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -779,7 +783,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "これ、短期離艦申請。今ロドスが泊ってるところは、サンドビーストのごはんが獲れるはずなんだ。半日で戻ってくるから。みんな仕事部屋にいなかったから、ドクターに会えてよかった……うん、今日から新しい一年だよ。あけましておめでとう。それで？"
+        },
+        {
+          "language": "英文",
+          "content": "Short-term disembarkment application. Rhodes stopping over here's perfect to hunt some sandbeast food. I'll be gone half a day. Offices are deserted—lucky I ran into you... Yeah, it <i>is</i> New Year's today, Happy New Year. So?"
+        },
+        {
+          "language": "韩文",
+          "content": "단기 이함 신청이야. 지금 로도스 아일랜드가 정박 중인 곳 근처라면 아마 샌드비스트의 먹이를 사냥할 수 있을 테니까, 한나절만 나갔다가 돌아올게. 다들 사무실에 없던데, 박사를 만나서 다행이야…… 응, 오늘은 새해지. 새해 복 많이 받아. 그래서?"
         }
       ]
     },
@@ -806,6 +818,28 @@
       ]
     },
     {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "祝你生日快乐，博士。这是我做的蛋糕，这是我拍的巨型沙地兽的脚印......为什么觉得我不会来？我是你的朋友，忘记你的生日，会让你伤心的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        }
+      ]
+    },
+    {
       "title": "周年庆典",
       "filename": "CN_044.wav",
       "text": [
@@ -815,7 +849,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ロドスのことを「バカげた理想論者」って言ってるのを、聞いたことあるよ。うちの目標はロドスとは違うし、比べものにもならない。けど、そんなうちだって、君たちのおかげで自分の夢を実現しかけてるんだから、ロドスだって絶対に理想を叶えることができるよ。信じてる。"
+        },
+        {
+          "language": "英文",
+          "content": "A 'pipe dream'—that's how I hear some people describe Rhodes. My destination's nothing like this ship's—apples to oranges, really—but I've gotten up close and personal with my own dream thanks to you all, and I'm sure you can make yours come true. I know it."
+        },
+        {
+          "language": "韩文",
+          "content": "누군가가 로도스 아일랜드를 '바보 같은 이상론자'라 부르는 걸 들은 적이 있어. 내 목적지는 이 배의 목적지와 다르고, 비교할 수도 없겠지. 하지만, 너희들 덕분에 나도 꿈을 실현하고 있으니까, 너희들도 분명 꿈을 이뤄 낼 수 있을 거야. 분명히."
         }
       ]
     }

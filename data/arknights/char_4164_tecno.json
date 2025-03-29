@@ -1,0 +1,552 @@
+{
+  "name": "特克诺",
+  "charaKey": "char_4164_tecno",
+  "images": [
+    "https://media.prts.wiki/5/5e/%E7%AB%8B%E7%BB%98_%E7%89%B9%E5%85%8B%E8%AF%BA_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/5/52/%E7%AB%8B%E7%BB%98_%E7%89%B9%E5%85%8B%E8%AF%BA_2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4164_tecno"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4164_tecno"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "帮你工作？好啊，涂鸦、舞蹈编排、木偶制作......我样样精通。要我帮你做什么？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛上有没有我认识的杜林族？没有。再说我才不想回地下呢。知道我为什么离开吗？当时我们投票决定当月的音乐风格，我提议放死亡金属，他们居然投了我一个一千比一！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "走廊上的涂鸦？都说了我只是忘了擦。再说我主动去跟可露希尔承认了错误，给被冤枉的酸糖送了礼物，还替负责清洁的清流顶了班——不是训我？好吧，那......下次涂鸦要不要一起来？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这个纱布嘛，一开始确实是想挡源石结晶，可到处有结晶往外冒，根本挡不住，反而让结晶更显眼了。那为什么还不摘？不觉得它像一种宣言吗？别人看见看不见，结晶都在那里，我也都还活着。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在街头艺术社区的木偶被毁之后，我找电工邻居学了半个月，再加上我的源石技艺，现在我的木偶可不只是艺术品了。只要我一施术她们就会出现，还能和我一样，在坏蛋下巴上狠狠来一拳。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这件作品怎么样？像棺材？就是棺材。顺便，还得麻烦你给我写段悼词——别担心，就是参加个艺术展而已。许多人和死亡的距离比我要远，可他们活着却与死了没区别，我只想给他们小小提个醒。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "多索雷斯有个《社会报》喜欢造社区的谣，还说我们反社会。于是我就在报社外墙上办了个“反社会报”，写我们饿了吃，困了睡，孤单了就去爱别人的事。这要真算反社会，那还是社会的问题更大。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "虽说我们最后确实把马特奥揍扁了，但冲进艺术馆，尤其是我带着大家冲上阳台，救下雷内尔那个混球的时候，不少人受了伤，甚至有人伤了手，再也没法画画......唉，我宁愿伤的是我自己。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别摸我头——说了不要摸！换成其他人已经挨揍了，看在你不怎么禁打的份上，头低下来，再低一点，现在闭上眼睛——好，罚单已经贴在你头上了。想知道罚单贴在哪里？摸自己的头去吧，嘿嘿。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我知道自己错了，我不该把自己的药藏起来，更不该尝试把药寄到多索雷斯去，你别生气了，好不好好不好——在打呼噜？睡了？！......唉，我可跟你道过歉了哦。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你就是博士？我是特克诺，埃内斯托让我来罗德岛治病，我就来打个招呼......不叫我小朋友吗？你还蛮不错的嘛，还是说罗德岛上的杜林人其实很多？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那家伙打人的动作像是某种舞步......很有学习价值。学打人还是学跳舞？不告诉你。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，咳，那个，一直受你照顾，这是我拜托街头艺术社区的朋友给你做的手链——啊？你要先给我东西？那我......不客气了？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，徽章就算了，我拜托艺术社区给你做了一个几层楼高的大木偶，现在就缺一个能给木偶戴的兜帽......你有没有备用的衣服？我拿回去研究一下。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "又要去揍坏蛋了是吧？算我一个，我和我的木偶都派得上用场。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "带人打架？交给我了，我一定把大家安全带回来。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们想怎么打我都不管，只有一点，千万别逞英雄，有事记得叫我。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啧，对面气势汹汹的，这下只能武力解决了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有话快说，我正拉伸呢。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "快下令吧，我和木偶都等不及了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "站这么高真不习惯......我能到下面去吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "就这样吧，反正靠木偶也足够揍扁这群坏蛋了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "方形步！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "换重心！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "螺旋转！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哎，你！你是挨揍的那个，你不用跟着跳！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，还愣着干什么？我手都伸给你了，跟着我舞起来！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呼，又教训了一帮不长记性的家伙，今天过得真充实。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "有人跑了？随他们去吧。再说不是还有不打不相识这回事嘛。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "算你们今天运气好！博士，我们快走！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "罗德岛上的设施真不错......搞得我也想帮艺术社区做点改造了。总不能只有我一个人在你们这儿享福。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "木偶在你背后——什么嘛，你根本不害怕，一点都不好玩。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "拍肩膀？......算了，不是摸头就行。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "来，听听我们的新年音乐会，是不是很有节奏感，听着就让人想跳舞？我跟你说，莱塔尼亚人的音乐在这一点上完全不行，好的音乐就是应该让人想手舞足蹈的嘛！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "早啊博士，我昨天教你的舞步你还记得吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "来和我的木偶共舞一曲吧！......脚卡在木偶的关节里了？你别动啊，我调整一下——好了，现在你有一辆代步车了！生日快乐！至于怎么把脚拿出来，哼哼，等明天再告诉你。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，老爹来罗德岛看我啦！......谁哭了，我才没哭！给你，“热辣克里斯达尔罗德岛分店”的优惠券，记得去吃！一定要记得哦！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

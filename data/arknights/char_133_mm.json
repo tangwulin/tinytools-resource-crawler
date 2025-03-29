@@ -1,7 +1,10 @@
 {
   "name": "梅",
   "charaKey": "char_133_mm",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/a/a4/%E7%AB%8B%E7%BB%98_%E6%A2%85_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/8/86/%E7%AB%8B%E7%BB%98_%E6%A2%85_2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -14,6 +17,10 @@
     {
       "language": "韩语",
       "base": "voice_kr/char_133_mm"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_133_mm"
     }
   ],
   "voiceList": [
@@ -31,7 +38,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctor, even though I'm now your employee, if your conduct is even slightly shady, I won't stand by idly!"
+          "content": "Doctor, I may be in your employ, but every murderer is probably somebody's old friend—so if your conduct is even slightly suspect, I won't turn a blind eye!"
         },
         {
           "language": "韩文",
@@ -57,7 +64,7 @@
         },
         {
           "language": "英文",
-          "content": "Rhodes Island has a suspicious smell about it..."
+          "content": "This Rhodes Island has no less of a suspicious smell about it…"
         },
         {
           "language": "韩文",
@@ -83,7 +90,7 @@
         },
         {
           "language": "英文",
-          "content": "Careful observation is fundamental to all investigations! It might seem basic, but it always works!"
+          "content": "Careful observation is fundamental to all investigatory work! Elementary, true, but it always comes in handy!"
         },
         {
           "language": "韩文",
@@ -109,7 +116,7 @@
         },
         {
           "language": "英文",
-          "content": "You, over there! Face me, and put your hands where I can see 'em! Ah, sorry... I got the wrong person..."
+          "content": "You there! Face this way, hands where I can see them! Ah, sorry, I thought you were someone else…"
         },
         {
           "language": "韩文",
@@ -135,7 +142,7 @@
         },
         {
           "language": "英文",
-          "content": "I always thought that penguin over there is super suspicious. Look, even though it dresses like that, it spends money like it's water or something. It's even wearing a gold necklace! You know how much detectives like me make... that kind of lifestyle is simply unthinkable!"
+          "content": "I've always had my misgivings about that penguin. I mean, it spends money like water, and it's a PENGUIN! It even has a gold necklace on! Do you know how LITTLE detectives like us make in a month?"
         },
         {
           "language": "韩文",
@@ -161,7 +168,7 @@
         },
         {
           "language": "英文",
-          "content": "Mmmm... so frustrating! How am I going to investigate that shady logistics company? ...Should I break in? Err, but those two guards give off fierce vibes that make my skin crawl... No, no, I'm not scared or anything, I'll just have to use my head and come up with a plan!"
+          "content": "Mmmgh... so frustrating! How do I get my investigation on that suspect logistics company started? Do I break in? Hrmm, not when those two guards look so dead fierce... No, no, I'm not scared... I'm just warming up the little grey cells!"
         },
         {
           "language": "韩文",
@@ -187,7 +194,7 @@
         },
         {
           "language": "英文",
-          "content": "Why are you giving me this bean paste bun? I would neber eat shumfing libe ris on an inweshtigation, you musht watch too mush TV or...(chewing)... A real detective only eats donuts while on a mission!"
+          "content": "What are you giving me anpan for? I don't eat this sort of thing while I'm mid-investigation—you must be getting funny ideas from all those TV shows! When a real detective's on the case, it's doughnuts or nothing!"
         },
         {
           "language": "韩文",
@@ -213,7 +220,7 @@
         },
         {
           "language": "英文",
-          "content": "Three months, then three months after that. Then another three months after that. I've already been undercover for ten months! Chief, what the heck is going on...? ...Hey! You scoundrels, stop eavesdropping on my call!"
+          "content": "You told me it was only for three months. But after three months came another three months, and another. I've been almost ten months undercover, guv! ...Hey! I see you there! Stop eavesdropping on my call!"
         },
         {
           "language": "韩文",
@@ -239,11 +246,11 @@
         },
         {
           "language": "英文",
-          "content": "Doctor, that penguin seems to have noticed that I'm investigating it... I'm starting to fear for my life...!"
+          "content": "Doctor, I fear that penguin has noticed I've been investigating it... I fear for my life, too...!"
         },
         {
           "language": "韩文",
-          "content": "박사…… 그 펭귄, 내 조사를 눈치챈 것 같다… 생명의 위험을 느끼고 있는 것이다……"
+          "content": "박사…… 그 펭귄, 내 조사를 눈치챈 것 같다…… 생명의 위험을 느끼고 있는 것이다……"
         },
         {
           "language": "繁体中文",
@@ -265,7 +272,7 @@
         },
         {
           "language": "英文",
-          "content": "Wake up! Waaake uppp! Stop slacking off!"
+          "content": "Wake up! Waaake uppp! No sleeping on the jooob!"
         },
         {
           "language": "韩文",
@@ -291,7 +298,7 @@
         },
         {
           "language": "英文",
-          "content": "I'm the Royal Detective, May. Please cooperate with my investigation! Eh? I've got the wrong address? Impossible! I have evidence that proves that penguin is hiding here!"
+          "content": "I'm Royal Detective May, and I ask you cooperate with me in my investigation! Eh? I've got the wrong address? Impossible! That penguin's holed up here, and I have the evidence!"
         },
         {
           "language": "韩文",
@@ -317,7 +324,7 @@
         },
         {
           "language": "英文",
-          "content": "Don't I look super cool when I'm conducting my investigation?"
+          "content": "Don't I look so dashing when I'm on the case?"
         },
         {
           "language": "韩文",
@@ -343,7 +350,7 @@
         },
         {
           "language": "英文",
-          "content": "Thank you for the promotion Chief I'm so very grateful for... Hey, wait, you aren't even my real boss!"
+          "content": "Thank you for the promotion, guv'nor! I'm so grateful you... Wait, forget that! You're not even my ACTUAL superior!"
         },
         {
           "language": "韩文",
@@ -369,7 +376,7 @@
         },
         {
           "language": "英文",
-          "content": "Elite team? Hey, I'm a Royal Detective! Why am I being promoted by some mercenary organization?!"
+          "content": "Elite team? Wait, wait, wait, wait, wait, I'm a Royal Detective! Why is some mercenary organization the one promoting me?!"
         },
         {
           "language": "韩文",
@@ -395,7 +402,7 @@
         },
         {
           "language": "英文",
-          "content": "Be careful not to let any shady people onto the team."
+          "content": "No letting any suspects sneak onto the team, okay?"
         },
         {
           "language": "韩文",
@@ -421,7 +428,7 @@
         },
         {
           "language": "英文",
-          "content": "Hehehe! Leader? Nay, call me Inspector General!"
+          "content": "Heheheh! Leader? Nay, call me DETECTIVE CHIEF INSPECTOR!"
         },
         {
           "language": "韩文",
@@ -447,7 +454,7 @@
         },
         {
           "language": "英文",
-          "content": "All troops, move out! All troops, moooove outttt!!"
+          "content": "All units move out! Mooove ooout!!"
         },
         {
           "language": "韩文",
@@ -499,7 +506,7 @@
         },
         {
           "language": "英文",
-          "content": "What? Did something happen?"
+          "content": "What's happening? An incident?"
         },
         {
           "language": "韩文",
@@ -525,7 +532,7 @@
         },
         {
           "language": "英文",
-          "content": "Sure, sure, I got it!"
+          "content": "Yes, guv, understood!"
         },
         {
           "language": "韩文",
@@ -551,7 +558,7 @@
         },
         {
           "language": "英文",
-          "content": "It's time to investigate the scene!"
+          "content": "Crime scene investigation!"
         },
         {
           "language": "韩文",
@@ -577,7 +584,7 @@
         },
         {
           "language": "英文",
-          "content": "Let me see your documents!"
+          "content": "I'll need to see proof of identity!"
         },
         {
           "language": "韩文",
@@ -629,7 +636,7 @@
         },
         {
           "language": "英文",
-          "content": "Freeze! Please!"
+          "content": "Stop right there, criminal scum!"
         },
         {
           "language": "韩文",
@@ -655,7 +662,7 @@
         },
         {
           "language": "英文",
-          "content": "Now you're going to get a taste of my taser!"
+          "content": "I'll give you a taste of my taser!"
         },
         {
           "language": "韩文",
@@ -681,7 +688,7 @@
         },
         {
           "language": "英文",
-          "content": "It won't hurt, it'll just give you a little buzz!"
+          "content": "It won't hurt, you'll just get a little buzz!"
         },
         {
           "language": "韩文",
@@ -733,7 +740,7 @@
         },
         {
           "language": "英文",
-          "content": "Take away all these suspects! Ugh... Fine, I'll do it myself..."
+          "content": "I want all these suspects taken away! Ohh, fine, I'll do it myself..."
         },
         {
           "language": "韩文",
@@ -759,7 +766,7 @@
         },
         {
           "language": "英文",
-          "content": "Hmm... I feel like we missed some of the clues?"
+          "content": "Hmm... I feel like we've missed some clues, haven't we?"
         },
         {
           "language": "韩文",
@@ -785,7 +792,7 @@
         },
         {
           "language": "英文",
-          "content": "R-requesting backupppp..."
+          "content": "R-requesting backupppp…"
         },
         {
           "language": "韩文",
@@ -811,7 +818,7 @@
         },
         {
           "language": "英文",
-          "content": "I have a hunch as to what will happen here!"
+          "content": "My instinct tells me there'll be a case afoot here!"
         },
         {
           "language": "韩文",
@@ -863,7 +870,7 @@
         },
         {
           "language": "英文",
-          "content": "D-don't think you can wash away your crime just like that...!"
+          "content": "D-don't think this is some express ticket to clearing your name...!"
         },
         {
           "language": "韩文",
@@ -911,15 +918,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、ハッピーニューイヤーなのだ！王室探偵として、去年も多くの事件を解決してきたのだ！ただ、ペンギン急便の真実を暴くには一歩及ばなかったのだ……今年も頑張るのだ～！"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Doctor, Happy New Year! I solved plenty more cases last year as a Royal Detective! The only thing is, I'm still a little ways away from baring the truth of Penguin Logistics... Not that an inspector leaves any puzzle unsolved! I've got to give it my all this year too!"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "박사, 새해 복 많이 받으란 것이다! 왕실 탐정으로서, 작년 한 해 정말 많은 사건을 해결한 것이다! 하지만, 펭귄 로지스틱스의 진실을 파헤치기엔 한걸음, 딱 한걸음 부족했던 것이다…… 올해에도 열심히 하는 것이다~!"
         },
         {
           "language": "繁体中文",
@@ -954,12 +961,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "张贴的彩带，布置好的点心，各色的气球，博士，根据我的推理，今天一定有一场什么节日的庆祝！什么？预告通知昨天就发到每位干员的终端上了？呀呀！！"
+          "content": "欸欸！——不要说不要说，先听听我的！今天一定是博士的生日对不对？我专门什么都没有问，从各种线索里推理出来的！以及，这也是我推理出的博士一定会喜欢的礼物——甜甜圈！"
         },
         {
           "language": "日文",
@@ -972,6 +979,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "张贴的彩带，布置好的点心，各色的气球，博士，根据我的推理，今天一定有一场什么节日的庆祝！什么？预告通知昨天就发到每位干员的终端上了？呀呀！！"
+        },
+        {
+          "language": "日文",
+          "content": "飾り付けられたリボン、整然と並んだスイーツ、色とりどりのバルーン……ドクター、私の推理が正しければ、今日はきっと何かの記念日を祝うパーティがあるのだ！なにっ？昨日全オペレーターの端末にお知らせを送ってある？嘘なのだー！！"
+        },
+        {
+          "language": "英文",
+          "content": "Streamers stuck up, snacks laid out, balloons of every color. Yes, one truth prevails! Doctor, based on my deductions, today must be some holiday celebration! What? They sent an advance notice to every operator's terminal yesterday? It can't be!!"
+        },
+        {
+          "language": "韩文",
+          "content": "알록달록한 장식 리본, 먹음직스럽게 준비된 간식들, 오색찬란한 풍선까지…… 박사! 이 왕실 탐정의 추리에 따르면, 오늘은 분명 중요한 기념일인 게 분명한 것이다! 뭐라고? 어제 이미 모든 오퍼레이터의 단말기로 안내를 했다는 것이냐? 아아??"
         },
         {
           "language": "繁体中文",

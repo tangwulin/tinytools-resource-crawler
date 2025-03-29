@@ -3,7 +3,8 @@
   "charaKey": "char_4063_quartz",
   "images": [
     "https://media.prts.wiki/d/da/%E7%AB%8B%E7%BB%98_%E7%9F%B3%E8%8B%B1_1.png?image_process=format,webp/quality,Q_90",
-    "https://media.prts.wiki/7/78/%E7%AB%8B%E7%BB%98_%E7%9F%B3%E8%8B%B1_2.png?image_process=format,webp/quality,Q_90"
+    "https://media.prts.wiki/7/78/%E7%AB%8B%E7%BB%98_%E7%9F%B3%E8%8B%B1_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/5/5b/%E7%AB%8B%E7%BB%98_%E7%9F%B3%E8%8B%B1_skin1.png?image_process=format,webp/quality,Q_90"
   ],
   "voiceBase": [
     {
@@ -918,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、明けましておめでとう。そうだ、この後、新年の挨拶をする時は長くなり過ぎないようにな。ケーキの分配を待ちきれない者が多いんだ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Doctor, Happy New Year. Hey, do me a favor and watch the length of your New Year's speech. Everyone is waiting to cut the cake."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받아, 박사. 맞다, 이따가 새해 인사할 때, 너무 길게 하진 말아줘. 다들 케이크 커팅을 기다리고 있거든."
         },
         {
           "language": "繁体中文",
@@ -961,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "如果没有遇见罗德岛，我是会一个人继续在荒野上游荡，还是最终回到城市接受惩罚......我不知道，也不需要那个答案了，我现在正在罗德岛，和您站在一起。"
+          "content": "生日快乐，博士。送您一块怀表......当然不是我自己这块，也不是哥伦比亚企业家们喜欢收集的那种名表，虽然您也不需要这样的物件来彰显身份，但看看时间也是可以的。"
         },
         {
           "language": "日文",
@@ -979,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果没有遇见罗德岛，我是会一个人继续在荒野上游荡，还是最终回到城市接受惩罚......我不知道，也不需要那个答案了，我现在正在罗德岛，和您站在一起。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスと出会わなければ、私はあのままずっと一人で荒野を彷徨っていたのか、それとも街へ戻り罰を受け入れたのか……わからない、だがもう考える必要もないだろう。なぜなら私は今、ロドスと共に、あなたと共にいるのだからね。"
+        },
+        {
+          "language": "英文",
+          "content": "If I hadn't come across Rhodes Island, would I still be wandering the wilderness by myself, or would I have returned to the city to face the music...? I don't know, but I don't need the answer, either. I stand with you and Rhodes Island now."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드를 만나지 못했다면, 난 여전히 황야에서 혼자 헤매고 있었을까, 아니면 도시로 돌아가 벌을 받았을까…… 잘 모르겠어. 하지만 이젠 그 답을 생각할 필요도 없겠지. 난 지금 로도스 아일랜드에서 당신과 함께하고 있으니까."
         },
         {
           "language": "繁体中文",

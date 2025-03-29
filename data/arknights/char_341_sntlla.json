@@ -1,7 +1,11 @@
 {
   "name": "寒檀",
   "charaKey": "char_341_sntlla",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/7/7a/%E7%AB%8B%E7%BB%98_%E5%AF%92%E6%AA%80_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/4/43/%E7%AB%8B%E7%BB%98_%E5%AF%92%E6%AA%80_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/4/44/%E7%AB%8B%E7%BB%98_%E5%AF%92%E6%AA%80_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -779,15 +783,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "炎は破滅の象徴でありながら、活力と情熱をも内包しています。この大地を覆った赤き炎が、腐敗し朽ち果てたすべてを灰へと変えました。この先は困難に直面しても、今日この日に感じた熱さをどうか忘れないでください。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Flames represent destruction, but also contain vitality and warmth. The wither and decay has been burned away, and a red light spreads across this land. Regardless of what difficulties you may face in the future, please do not forget today's vision of passion."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "화염은 파멸을 의미하지만, 활력과 열정 또한 담고 있지요. 가뭄과 부패는 전부 재가 되어 붉은빛이 대지를 메웠으니, 차후 곤경과 마주하더라도 부디 오늘의 열기를 잊지 말아 주시길 바랍니다."
         }
       ]
     },
@@ -814,12 +818,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "许多部落准备离开故土去往南方，许多战士辞别亲人向北进发。萨米人像是要分裂成两支，从此再不相见。我改变不了这一切，我只希望，所有人都能平安无事......"
+          "content": "祝贺您的生命在一个年岁中完成循环，博士。今天应当是您最具力量的日子，有什么想要实现的，就从现在开始吧。"
         },
         {
           "language": "日文",
@@ -832,6 +836,28 @@
         {
           "language": "韩文",
           "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "许多部落准备离开故土去往南方，许多战士辞别亲人向北进发。萨米人像是要分裂成两支，从此再不相见。我改变不了这一切，我只希望，所有人都能平安无事......"
+        },
+        {
+          "language": "日文",
+          "content": "多くの部族が南を目指して故郷を後にし、多くの戦士が家族に別れを告げて北へ向かいました。そうして両断されたサーミ人は、もうお互い交わることもないのでしょう。私に変えられることなど何もありませんから、皆が無事であることを祈るのみです……"
+        },
+        {
+          "language": "英文",
+          "content": "Many tribes prepare to leave their homeland behind and go south, whereas many warriors bade farewell to their loved ones and are making their way north. The Sami people seem to be splitting in two, never to see each other again. I cannot change this, but all I hope... is for everyone to be safe and sound."
+        },
+        {
+          "language": "韩文",
+          "content": "수많은 부족들이 고향을 떠나 남쪽으로 향하고, 또 수많은 전사들이 가족들과 작별한 뒤 북쪽으로 나아가고 있습니다. 사미의 사람들은 이렇게 두 갈래로 갈라져, 다시는 서로와 만나지 않으려고 하는 것만 같습니다. 저로서는 이를 막을 수가 없습니다. 그저 모두가 무사하길 바랄 뿐……"
         }
       ]
     }

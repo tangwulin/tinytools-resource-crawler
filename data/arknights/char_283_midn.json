@@ -814,15 +814,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "お客様の心を掴むのに、あまり飾った言葉を必要としないこともあるんだよ。電光石火の一瞬、花火が咲き誇る刹那、たとえそれがほんの四秒でも、お客様の目に映るのは俺だけで――俺もあなたの目を覗きこみ……ちょっとオーキッドさん、なんで引っ張るの！"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Sometimes, it doesn't take flowery tricks to capture a customer's heart. See the fireworks here? The sight of them going off, even just for an instant, will be enough to focus all the customers' attention solely on me, their souls scorched by my gaze... Orchid? Why are you dragging me away?"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "손님의 마음을 사로잡는 순간은, 간단하면서도 담백한 말 한마디일 때가 많아. 번개가 치는 순간, 폭죽이 터지는 순간처럼 시간은 길지 않아도 3초면 손님들의 시선을 내게로 집중시킬 수 있지. 네 눈을 들여다보면…… 오키드 씨, 또 왜 잡아당기는 건데!"
         },
         {
           "language": "繁体中文",
@@ -857,12 +857,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "博士，您一直以来的努力造就了今天的这番局面，有什么比陪伴一个正在欣赏自己完美的工作现状的人更让我欣喜呢？希望明年这个时候，我也能拥有您的指名。"
+          "content": "生日快乐，今天就把手中的工作暂且放下，我可以陪您闲聊到日出前。如果您还想看日出，我也可以和您一起。当然，如果梓兰小姐问起为何今晚我没有加班，博士可要帮我证明。"
         },
         {
           "language": "日文",
@@ -875,6 +875,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，您一直以来的努力造就了今天的这番局面，有什么比陪伴一个正在欣赏自己完美的工作现状的人更让我欣喜呢？希望明年这个时候，我也能拥有您的指名。"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、あなたが重ねてきた努力が今のこの光景を作り出しているんだよ。自分の完璧な仕事ぶりを堪能している人の隣にいられること以上の喜びはないよ。願わくば来年の今頃も、あなたに指名され続ける俺でありたいね。"
+        },
+        {
+          "language": "英文",
+          "content": "What you see today is the fruit of all your hard work, Doctor. Nothing makes me happier than accompanying someone in admiring their own marvelous achievements. I do hope you'll still choose me to stay by your side this time next year."
+        },
+        {
+          "language": "韩文",
+          "content": "박사 박사의 노력 덕분에 오늘의 우리가 있을 수 있었어. 자신의 완벽함을 추구하는 사람과 함께하는 것보다 더 기쁜 일은 없을 테지. 내년에도 박사의 지명을 받을 수 있기를 바랄게."
         },
         {
           "language": "繁体中文",

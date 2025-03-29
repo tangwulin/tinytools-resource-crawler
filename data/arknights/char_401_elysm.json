@@ -1,12 +1,13 @@
 {
   "name": "极境",
   "charaKey": "char_401_elysm",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/5/5a/%E7%AB%8B%E7%BB%98_%E6%9E%81%E5%A2%83_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/4/40/%E7%AB%8B%E7%BB%98_%E6%9E%81%E5%A2%83_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/0/0a/%E7%AB%8B%E7%BB%98_%E6%9E%81%E5%A2%83_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/6/68/%E7%AB%8B%E7%BB%98_%E6%9E%81%E5%A2%83_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
-    {
-      "language": "日语",
-      "base": "voice/char_401_elysm"
-    },
     {
       "language": "中文-普通话",
       "base": "voice_cn/char_401_elysm"
@@ -911,15 +912,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "もしもし、聞こえる？……信号よし、本艦との通信も問題ないね。ドクター、今僕がどの通信ポイントにいるかわかる？……よし、ドクターの気がそれた、今のうちにクラッカーを……いけっ！へへっ、どうだったドクター？なかなか情熱的な新年の挨拶でしょう？"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "TBU"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "여보세요, 잘 들려? ……신호도 잘 잡히고, 본함과의 연락도 원활하네. 박사, 내가 어느 통신소에 있는지 맞춰보겠어? ……좋아, 박사가 다른데 정신이 팔린 틈에…… 지금이야, 폭죽을 터뜨려! 흐흥, 어때 박사? 엄청 정열적인 새해 축하지?"
         },
         {
           "language": "繁体中文",
@@ -954,12 +955,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "和我刚来时相比，现在的罗德岛可要热闹多了，值得信赖的同伴不断增加，总是被投诉的干员好像也不止我一个了。出于感慨，我精心准备了一份去年聚会大家的醉酒录音剪辑，希望能收获热烈反响！"
+          "content": "生日快乐，博士。今年的礼物由我精心特制，吸取了之前的教训，这一次一定会是意想不到的惊喜......等、等等，博士，别走，相信我，这次绝对不是整蛊玩具了！"
         },
         {
           "language": "日文",
@@ -972,6 +973,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "和我刚来时相比，现在的罗德岛可要热闹多了，值得信赖的同伴不断增加，总是被投诉的干员好像也不止我一个了。出于感慨，我精心准备了一份去年聚会大家的醉酒录音剪辑，希望能收获热烈反响！"
+        },
+        {
+          "language": "日文",
+          "content": "僕が来たばかりの頃に比べて、ロドスはすっかり賑やかになったね。信頼できる仲間もどんどん増えて、苦情を言われてばかりの奴も僕一人じゃなくなったみたいだよ。感動のあまり、去年のパーティでみんなが酔っ払った時の録音を用意しちゃったんだ。みんなのあつーい反応を期待してるからね！"
+        },
+        {
+          "language": "英文",
+          "content": "TBU"
+        },
+        {
+          "language": "韩文",
+          "content": "지금의 로도스 아일랜드는 내가 처음 왔을 때보다 훨씬 더 떠들썩해졌네. 믿을 만한 동료들도 늘었고, 항상 컴플레인을 받는 오퍼레이터도 이젠 나뿐만이 아닌가 봐. 그런 의미에서, 작년 파티에서 사람들이 취했을 때의 녹음 편집본을 준비해 왔지. 뜨거운 반응 기대할게!"
         },
         {
           "language": "繁体中文",

@@ -1,7 +1,11 @@
 {
   "name": "燧石",
   "charaKey": "char_415_flint",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/2/24/%E7%AB%8B%E7%BB%98_%E7%87%A7%E7%9F%B3_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/4/49/%E7%AB%8B%E7%BB%98_%E7%87%A7%E7%9F%B3_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/d/d7/%E7%AB%8B%E7%BB%98_%E7%87%A7%E7%9F%B3_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -911,15 +915,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "食べ物も、プレゼントもたくさんあるな……ここで新年の祝いに、ボクシング大会で盛り上げようじゃないか！そんなことしたら医療部が大変になる、だと？バカ言うな、ガヴィルがいるだろ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "TBU"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "먹을 것도, 선물도 엄청 많잖아…… 격투 대회라도 열어서 활기찬 새해를 맞이하는 건 어때? 그럼 의료부 부담이 너무 클 거라고? 그럴 리가 없잖아. 의료부엔 가비알이 있잖아!"
         },
         {
           "language": "繁体中文",
@@ -954,12 +958,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "我以前下定决心，要把每个瞧不起我的大块头都揍趴下。来到罗德岛才发现，原来证明自己的办法还有很多。比如完成任务，帮助别人......嗯，我学到了很多新东西。"
+          "content": "喏，拳击手套，还有这束花，你想要哪个？打架和花都可以让心情变好，希望你能开心一点。总觉得，你把自己逼得太紧了。啊，要不还是都送给你好了。生日快乐。"
         },
         {
           "language": "日文",
@@ -972,6 +976,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我以前下定决心，要把每个瞧不起我的大块头都揍趴下。来到罗德岛才发现，原来证明自己的办法还有很多。比如完成任务，帮助别人......嗯，我学到了很多新东西。"
+        },
+        {
+          "language": "日文",
+          "content": "昔、私を見下すデカブツは全員ぶっ倒すと決めたんだ。でもロドスに来てから、自分を証明する方法は他にもたくさんあると気づいた。例えば、任務をこなしたり、人を助けたり……ああ、新しいことをたくさん覚えたな。"
+        },
+        {
+          "language": "英文",
+          "content": "TBU"
+        },
+        {
+          "language": "韩文",
+          "content": "예전에, 날 깔보는 덩치만 큰 녀석들은 내 주먹으로 다 뭉개버리리라 다짐했었어. 근데 로도스 아일랜드에 오고 나서 깨달은 게 있지. 나 자신을 증명할 방법은 주먹뿐만이 아니라는 걸 말이야. 임무를 수행하고, 다른 사람을 돕는 것…… 그래 맞아, 여기서 정말 많은 걸 배웠어."
         },
         {
           "language": "繁体中文",

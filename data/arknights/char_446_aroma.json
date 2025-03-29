@@ -1,7 +1,10 @@
 {
   "name": "阿罗玛",
   "charaKey": "char_446_aroma",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/4/47/%E7%AB%8B%E7%BB%98_%E9%98%BF%E7%BD%97%E7%8E%9B_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/d/d8/%E7%AB%8B%E7%BB%98_%E9%98%BF%E7%BD%97%E7%8E%9B_2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -10,6 +13,14 @@
     {
       "language": "中文-普通话",
       "base": "voice_cn/char_446_aroma"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_446_aroma"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_446_aroma"
     }
   ],
   "voiceList": [
@@ -23,7 +34,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "紙に目立つ丸い跡があるの？私じゃないよ。ドクターの書類に落書きするわけないでしょ？"
+        },
+        {
+          "language": "英文",
+          "content": "The neat little circles on that page? I didn't draw them. I wouldn't doodle on your documents."
+        },
+        {
+          "language": "韩文",
+          "content": "종이에 특이한 동그라미가 있다고? 내가 그린 거 아니야. 박사의 서류에 내가 낙서할 리가 없잖아?"
         }
       ]
     },
@@ -37,7 +56,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、ちょ、待ってその蓋開けちゃだめ！それ泡を作るのに使うやつで……ぷっ、ち、違うよ！ドクターが全身泡だらけなのを笑ったわけじゃなくて、ただ細かい泡が集まってもこもこしてるのが好きなだけなの！本当だよ、嘘ついたりしないもん！"
+        },
+        {
+          "language": "英文",
+          "content": "W-Wait, Doctor! Don't open that lid! That's a device I use to make bubbles... Sorry, I'm not laughing at you for getting all bubbled up. I-I just like seeing a bunch of bubbles together! Really! I'm not lying!"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 잠, 잠깐! 그 뚜껑 열면 안 돼! 그건 거품 만들 때 쓰는 거…… 풉, 아, 아니, 박사가 거품 뒤집어써서 웃은 게 아니야. 그냥 난 폭신한 거품이 한데 뭉쳐 있는 걸 좋아하는 것뿐이라고! 진짜야, 거짓말 아니라니까!"
         }
       ]
     },
@@ -51,7 +78,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ごめんね、ドクター。私が洗剤に入れる芳香剤の割合を上手く調整できなかったのがいけないんだ。実はその、この前レシピをリメイクしたんだけど、香りがずっとずっと鼻の奥に残っちゃう感じになっててね、もしかしたらここから半月くらいは、時々匂いを感じるかも……"
+        },
+        {
+          "language": "英文",
+          "content": "Sorry, Doctor. I didn't have the detergent-to-aroma formula under control. Um… I made some changes to it, and the aroma might linger in your nose for a very, very long time. You might smell it every now and then for the next two weeks..."
+        },
+        {
+          "language": "韩文",
+          "content": "미안, 박사. 내가 세제에 넣는 방향제 비율을 잘못 맞췄어…… 그, 사실은 저번에 세제 제조법을 바꿨는데, 향기가 상당히 오래 남는달까. 아마 보름 정도는 시도 때도 없이 이 향기를 맡게 될 수도 있어……"
         }
       ]
     },
@@ -65,7 +100,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "今日ね、医療部の小さい患者さんたちにシャボン玉ショーを見せたんだ。どんなショーか気になるの？えっとね……大大大バブルの中に、大大バブル、そのまた中に大バブルっていう層になってて、一番真ん中に普通のバブルが入ってるの。あっ、最後のはシャボン玉じゃないからね。私の相棒のバブルちゃんだよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I put on a bubble show for the young patients at Medical today. What kind of show? It's like this... There’s a big, big, big bubble with a big, big bubble inside. And then the big, big bubble’s got a big bubble. And Bubble’s inside the big bubble. Oh, that last one is my partner, Bubble, not a normal bubble."
+        },
+        {
+          "language": "韩文",
+          "content": "오늘 의료부의 어린 환자들에게 버블 쇼를 보여줬어. 무슨 쇼였는지 궁금하다고? 어떤 거냐면…… 엄청엄청엄청 큰 버블 안에 엄청엄청 큰 버블을 넣고, 그 엄청엄청 큰 버블 안에 또 엄청 큰 버블을 넣은 다음, 마지막엔 그 엄청 큰 버블 속에 버블을 넣는 거야. 아, 마지막 그 버블은 평범한 비눗방울이 아니라 내 단짝 '버블'이야."
         }
       ]
     },
@@ -79,7 +122,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、うちの調合師は他の同業とは違っててね。よそは香りで人の記憶の中で一番いい瞬間を思い出させるのが目的なんだけど、うちは……うちは、一番ひどくて、忘れられない記憶を覆い隠すために調合してるの。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, my family's formulators aren't quite like the others in our industry. Our peers try to create aromas that remind users of a certain beautiful moment in their memories. But my family, we work to suppress the worst, most terrible smells in their memories."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 우리 집안의 조향사는 다른 조향사와는 조금 달라. 다른 조향사들은 누군가의 기억 속에 존재하는 가장 아름다운 순간을 떠올리게 하는 게 목적이지만, 우리는…… 누군가의 기억 속에 존재하는 가장 끔찍하고 잊고 싶은 기억을 덮기 위해서 향을 만들고 있어."
         }
       ]
     },
@@ -93,7 +144,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ちょっとやそっとのいい香りだけじゃ嫌な臭いを全部消すのは無理だってずっと思ってるんだ。一番大事なのは窓を開けて、臭い自体を遠くにやっちゃうことだよ。じゃないと、いい香りと嫌な臭いが混じって、もっと気持ち悪い臭いになるだけだもん。"
+        },
+        {
+          "language": "英文",
+          "content": "All this time, I've thought that aromas by themselves couldn’t eradicate stenches. The most important thing is to open the windows and let the foul air out. Otherwise, the aroma and stench blend together, and that would just be a different, disgusting smell."
+        },
+        {
+          "language": "韩文",
+          "content": "전부터 쭉 생각해왔던 건데, 좋은 향기만으로는 모든 악취를 없앨 수 없어. 제일 중요한 건 창문을 열고 악취 자체를 멀리 날려 보내야 해. 안 그러면 좋은 향과 악취가 한데 뒤섞여서 더 끔찍한 냄새가 날 뿐이거든."
         }
       ]
     },
@@ -107,7 +166,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "部屋の掃除をしてるとこなんだけど、ドクターちょうどよかった。一番上のライトを拭くの手伝ってくれる？ちょっと高すぎて、私だと台を使っても届かないんだよ。そうそう、そこからちょっと左の方、黒い汚れがあって……わっ！よ、汚れが、飛んだ！？"
+        },
+        {
+          "language": "英文",
+          "content": "I'm cleaning the room right now, and you came at just the right time, Doctor. Would you help me wipe the light tubes up top? They're a bit too high, and I can't reach them, even on a ladder. Yeah, there's a small black spot just a little to the left... Ah! W-Why is that black spot flying?!"
+        },
+        {
+          "language": "韩文",
+          "content": "마침 잘 왔어, 박사. 방 청소 중이었거든. 저~기 맨 위에 조명 말이야, 닦는 거 좀 도와줄래? 얼마나 높은지 사다리 위에 올라갔는데도 손이 안 닿더라고. 맞아 맞아, 거기서 조금 더 왼쪽, 거기 보면 검은 얼룩이 있는데…… 앗! 어, 얼룩이 날아가 버렸잖아!"
         }
       ]
     },
@@ -121,7 +188,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、うちで作ったシャンプーをロドスに持ってきたよ。小さな工房の商品だけど、中に入ってる精油は全部天然の植物由来なんだよ。例えばこのレモンフレーバーのやつ、材料で使ったレモンは、私が生まれた年におばあちゃんが家の裏庭に植えた樹から採ってるんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, I brought some shampoo my family made onto the landship. It's from a small workshop, but we source all the essential oils we use from plants in nature. Like this lemon-scented one. We used lemons taken from my family's backyard, where my grandmother planted a lemon tree the year I was born."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 우리 집에서 만든 샴푸를 좀 가져왔어. 작은 공방에서 만든 샴푸지만, 여기에 들어간 재료는 모두 천연 식물에서 추출한 오일이야. 여기 이 레몬 향은, 내가 태어난 해에 할머니가 집 뒷마당에 심은 레몬 나무에서 따온 레몬을 사용해 만든 거야."
         }
       ]
     },
@@ -135,7 +210,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "昔、シラクーザでほぼ毎日凶悪事件が起きてたやばい時期があって、うちは現場の掃除を専門にする「始末屋」だったんだよね。その稼業をやめてからずいぶん経つけど、今でもあのすっごく濃くて、何もかも塗りつぶすみたいな血の臭いをたまに思い出しちゃうんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "There was a chaotic time where murders were a daily occurrence in Siracusa, and my family served as 'cleaners' charged with clearing out the aftermath. We left that line of work a long time ago, but every now and then, we still remember the thick stench of blood that seemed to overpower everything else."
+        },
+        {
+          "language": "韩文",
+          "content": "예전에 시라쿠사에 매일같이 강력 범죄가 일어나던 시기가 있었거든? 그때 우리 가족은 전문적으로 그런 현장 뒤처리를 하는 '청소부'였어. 그 일을 그만둔 지는 꽤 오래됐는데. 이상하지, 아직도 가끔 그때의 역한 피비린내가 떠오르곤 해."
         }
       ]
     },
@@ -149,7 +232,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "どうしよ、泡が部屋に飛んでいって、ドクターの鼻にくっついちゃった……もし誰かが部屋に入って、ドクターが昼寝で洟提灯を膨らませてるとか思ったら、まずいよね……？"
+        },
+        {
+          "language": "英文",
+          "content": "Oh no. A bubble floated into the room and landed on the Doctor's nose... If somebody goes in there and thinks the Doctor's got a snot bubble, that wouldn't be good…"
+        },
+        {
+          "language": "韩文",
+          "content": "어떡하지, 버블이 방으로 날아 들어가 박사 코끝에 붙어버렸어…… 만약 누가 그걸 보고 낮잠 자는 박사의 콧물 방울이라고 생각한다면…… 큰일인데……"
         }
       ]
     },
@@ -163,7 +254,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、こんにちは。後方支援オペレーターのアロマだよ。あのね、手をこんな風に広げてみて？いや……すごく良い天気だから、ドクターの手のひらに虹が映るシャボン玉を乗せたら綺麗だろうなって思って。"
+        },
+        {
+          "language": "英文",
+          "content": "Hello, Doctor. I'm Logistics Operator Aroma. Would you open your hands like this? Don't worry... I just thought that with how nice and bright the sun is today, it would be perfect to put a bubble reflecting a rainbow onto your palm."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 안녕. 후방지원 오퍼레이터 아로마라고 해. 저기, 혹시 이렇게 손바닥 한번 펼쳐 줄 수 있어? 별건 아니고…… 오늘 날이 너무 좋기도 하고, 박사의 손에 무지개 빛깔 버블을 올리면 예쁘겠다는 생각이 들어서."
         }
       ]
     },
@@ -177,7 +276,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "すごく参考になるなぁ。洗浄液がこんなところでも使い道があるなんて。"
+        },
+        {
+          "language": "英文",
+          "content": "This will make a very useful reference. I never knew detergent could be used like that."
+        },
+        {
+          "language": "韩文",
+          "content": "참고 많이 됐어. 세정액이 이런 곳에서도 쓰일 수 있다니."
         }
       ]
     },
@@ -191,7 +298,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクターの使用した感想と応援の声は全部持ち帰って家族に伝えるよ。うちの商品を気に入ってくれてありがと。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, I will pass on your encouragement and feedback to my family. I'm pleased that you like our products so much."
+        },
+        {
+          "language": "韩文",
+          "content": "박사의 사용 후기와 응원은 내가 가족에게 전달할게. 우리 제품을 좋아해 줘서 고마워."
         }
       ]
     },
@@ -205,7 +320,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、うちの商品がみんなに好評ですごく嬉しいよ……え……ロドスと共同生産？ほ、ほんとうにいいの？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, I'm humbled that my family's products are so well-liked by the operators here... Huh...? A manufacturing cooperation with Rhodes Island? Can we really?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 우리 제품이 이렇게 많은 오퍼레이터들에게 호평을 받을 줄이야, 너무 기뻐…… 응? 로도스 아일랜드랑 공동 생산? 저, 정말 괜찮겠어?"
         }
       ]
     },
@@ -219,7 +342,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ちょうどよかった、新しい泡用薬液のレシピを試したかったの。"
+        },
+        {
+          "language": "英文",
+          "content": "How convenient. I want to test out my new bubbling formula."
+        },
+        {
+          "language": "韩文",
+          "content": "마침 잘 됐다. 새로운 거품용액 레시피를 테스트해 보고 싶었거든."
         }
       ]
     },
@@ -233,7 +364,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ちゃんと鼻を塞いでおいてね。今回の匂いは刺激があるかもしれないから、むせたらくしゃみが止まらなくなるよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Remember to cover your noses. The aroma this time might be a little intense. Don't let the smell get you sneezing."
+        },
+        {
+          "language": "韩文",
+          "content": "이 향은 조금 자극적일 수도 있으니까, 코 잘 막고 있어. 잘못 맡으면 계속 재채기 날 거야."
         }
       ]
     },
@@ -247,7 +386,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ここに立て看板を置いとくね――足元注意。滑りやすくなってます。"
+        },
+        {
+          "language": "英文",
+          "content": "I put a sign here— Wet floor. Be extra careful."
+        },
+        {
+          "language": "韩文",
+          "content": "여기에 표지판 하나 세워 둘게. 바닥이 미끄러우니 조심하세요."
         }
       ]
     },
@@ -261,7 +408,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ここの匂い、すごく怖いことを思い出しちゃうな。"
+        },
+        {
+          "language": "英文",
+          "content": "The smell here reminds me of something really scary."
+        },
+        {
+          "language": "韩文",
+          "content": "여기 냄새를 맡으니까, 그때 무서웠던 기억이 다시 떠오르네."
         }
       ]
     },
@@ -275,7 +430,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "洗浄剤レシピの調整オッケー！"
+        },
+        {
+          "language": "英文",
+          "content": "Detergent formula tuning complete!"
+        },
+        {
+          "language": "韩文",
+          "content": "세정제 레시피 조정 완료!"
         }
       ]
     },
@@ -289,7 +452,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "泡発生器の配置完了！"
+        },
+        {
+          "language": "英文",
+          "content": "Bubbling equipment ready to go!"
+        },
+        {
+          "language": "韩文",
+          "content": "거품 발생기 배치 완료!"
         }
       ]
     },
@@ -303,7 +474,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ちょっとやそっと突いたくらいじゃこの泡は消えないよ。"
+        },
+        {
+          "language": "英文",
+          "content": "These bubbles won't burst so easily."
+        },
+        {
+          "language": "韩文",
+          "content": "그렇게 살짝살짝 찌르는 정도로는 이 버블을 사라지게 할 수 없을걸."
         }
       ]
     },
@@ -317,7 +496,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "使ってみた感想を後で教えてね。"
+        },
+        {
+          "language": "英文",
+          "content": "Remember to give your honest feedback on our products."
+        },
+        {
+          "language": "韩文",
+          "content": "나중에 사용 후기 들려줘."
         }
       ]
     },
@@ -331,7 +518,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "泡の発生量、合格！"
+        },
+        {
+          "language": "英文",
+          "content": "Bubble richness, up to standard!"
+        },
+        {
+          "language": "韩文",
+          "content": "거품 발생량, 합격!"
         }
       ]
     },
@@ -345,7 +540,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "泡の消える速度、良好！"
+        },
+        {
+          "language": "英文",
+          "content": "Bubble dissipation speed, perfect!"
+        },
+        {
+          "language": "韩文",
+          "content": "거품 소멸 속도, 양호!"
         }
       ]
     },
@@ -359,7 +562,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "泡の展延性、優秀！"
+        },
+        {
+          "language": "英文",
+          "content": "Bubble expanding power, excellent!"
+        },
+        {
+          "language": "韩文",
+          "content": "거품 신축성, 우수!"
         }
       ]
     },
@@ -373,7 +584,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "汚れ除去の効率、完璧！"
+        },
+        {
+          "language": "英文",
+          "content": "Stain removal efficiency, impeccable!"
+        },
+        {
+          "language": "韩文",
+          "content": "오염 제거 효율, 완벽!"
         }
       ]
     },
@@ -387,7 +606,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "うん……匂い的に空気が、かなり綺麗になったね。"
+        },
+        {
+          "language": "英文",
+          "content": "Hm... smells a lot more refreshing now."
+        },
+        {
+          "language": "韩文",
+          "content": "으음…… 냄새를 맡아 보니까, 공기가 꽤 맑아진 것 같아."
         }
       ]
     },
@@ -401,7 +628,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "この新しい成分はいい感じだね。効果もあるし、肌にも優しいし。"
+        },
+        {
+          "language": "英文",
+          "content": "I like this new ingredient. It's effective, and it doesn't harm your skin."
+        },
+        {
+          "language": "韩文",
+          "content": "이 새로운 성분 좋은데? 효과도 좋고 피부도 안 상해!"
         }
       ]
     },
@@ -415,7 +650,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "次はもっと強力な汚れ落としのレシピが必要だね。"
+        },
+        {
+          "language": "英文",
+          "content": "Looks like we'll need a stronger stain removing formula next time."
+        },
+        {
+          "language": "韩文",
+          "content": "다음에는 좀 더 강력한 얼룩 제거 레시피가 필요하겠어."
         }
       ]
     },
@@ -429,7 +672,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "本当に頑固な汚れだね……"
+        },
+        {
+          "language": "英文",
+          "content": "What a stubborn stain..."
+        },
+        {
+          "language": "韩文",
+          "content": "정말 지우기 까다로운 얼룩이잖아……"
         }
       ]
     },
@@ -443,7 +694,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、ち、違うよ。話す時は相手の方を見るのがマナーなのは分かってるし……窓の外の景色を見てたわけでもないんだ。ただ、ガラスの上に水垢があるのに気がついて……見てるだけじゃ気持ち悪くて、綺麗にしたかったの。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, n-no, I know it's polite to look at the person you're talking to... I-I'm not looking out the window. It's just... the water stains on the glass are making me really uncomfortable. I really want to wipe it."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 그, 그게 아니라. 나도 대화할 땐 상대방을 보는 게 예의라는 건 알고 있지만…… 그, 창밖의 경치를 보고 있던 것도 아니야. 그냥 창문 유리 위에 물때가 있는 걸 보니까…… 계속 신경 쓰여서. 이걸 빨리 닦아버리고 싶었을 뿐이야."
         }
       ]
     },
@@ -457,7 +716,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "わっ、やめて。持ってる洗浄液をドクターにかけちゃうとこだったよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Ah! Please don't do that. I almost splashed some of the soap I'm holding on you."
+        },
+        {
+          "language": "韩文",
+          "content": "앗, 하지 마. 세정액을 박사한테 쏟아 버릴 뻔했잖아."
         }
       ]
     },
@@ -471,7 +738,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "気を付けてね、ドクター！床が洗剤だらけだから、滑って転んじゃうかも。"
+        },
+        {
+          "language": "英文",
+          "content": "Watch out, Doctor! There's soapy water all over the floor. You could slip if you aren't careful."
+        },
+        {
+          "language": "韩文",
+          "content": "조심해, 박사! 바닥이 세제투성이라서 미끄러질 수도 있어."
         }
       ]
     },
@@ -485,7 +760,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주."
         }
       ]
     },
@@ -499,7 +782,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "新しい年には、変化がないとね。ドクターの部屋の窓辺に小さい鉢植えを置いておいたよ。家の台所でたくさんレモンの種を集めて、苗になるまで育てた中で、一番元気な一株なんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "The New Year calls for new vibes, Doctor, so I put a small plant on your windowsill. I collected a bunch of lemon seeds from my family's kitchen and planted them. This is the one that grew the best."
+        },
+        {
+          "language": "韩文",
+          "content": "새로운 한 해에는 새로운 변화가 있어야지. 내가 박사 방 창가에 작은 화분을 놔뒀는데 이따가 가서 봐봐. 우리 집 부엌에 있는 레몬 씨앗들을 잔뜩 가져와서 모종이 될 때까지 키웠는데, 박사한테 준 건 그중에서도 가장 잘 자란 녀석이야."
         }
       ]
     },
@@ -513,6 +804,36 @@
         },
         {
           "language": "日文",
+          "content": "ドクター、ちょっと外に行って散歩でもしようよ。ずっと執務室に閉じこもってないでさ。"
+        },
+        {
+          "language": "英文",
+          "content": "You should go take a walk, Doctor. It's not good to stay in your office all day."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 우리 잠깐 나가서 산책하고 오자, 계속 그렇게 사무실에 틀어박혀 있으면 안 좋아."
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "香氛？博士，你为什么觉得我会送你香氛？博士身上的气味不应该被其他味道掩盖，它闻起来很舒服很自然，比调配的香水还要好闻。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
           "content": ""
         }
       ]
@@ -527,7 +848,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "医療部で患者さんが亡くなると、着てた服は全部私のところに送られてきて、洗った後に遺族の人に渡すまで保管するの。すぐに引き取られる服もあるけど……ずっと誰も取りに来ないものもあるんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Every time a patient at Medical passes away, the clothing they wore gets sent to me to be washed and stored until their family comes to retrieve it one day. Some are picked up soon after, but others... still haven't been picked up even after a long, long time."
+        },
+        {
+          "language": "韩文",
+          "content": "환자가 사망하면, 의료부에선 환자가 생전에 입었던 옷들을 전부 나한테 보내와. 그럼 난 그걸 깨끗하게 세탁해서 보관해두지. 유족들이 금방 가져가는 경우도 있지만, 일부는…… 아무리 오래 기다려도 끝끝내 아무도 찾으러 오지 않곤 해."
         }
       ]
     }

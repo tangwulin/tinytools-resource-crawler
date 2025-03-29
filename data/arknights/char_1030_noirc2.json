@@ -1,7 +1,10 @@
 {
   "name": "火龙S黑角",
   "charaKey": "char_1030_noirc2",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/d/d2/%E7%AB%8B%E7%BB%98_%E7%81%AB%E9%BE%99S%E9%BB%91%E8%A7%92_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/2/2b/%E7%AB%8B%E7%BB%98_%E7%81%AB%E9%BE%99S%E9%BB%91%E8%A7%92_2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",

@@ -1,7 +1,10 @@
 {
   "name": "闪击",
   "charaKey": "char_457_blitz",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/d/df/%E7%AB%8B%E7%BB%98_%E9%97%AA%E5%87%BB_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/9/96/%E7%AB%8B%E7%BB%98_%E9%97%AA%E5%87%BB_2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "联动",
@@ -903,15 +906,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "今年は仲間たちにとってより良い一年になるといいな。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Friends, I hope this year is even better to you all."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "모두 작년보다 나은 한 해가 되길."
         },
         {
           "language": "繁体中文",

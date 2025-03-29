@@ -1,0 +1,552 @@
+{
+  "name": "瑰盐",
+  "charaKey": "char_4163_rosesa",
+  "images": [
+    "https://media.prts.wiki/9/90/%E7%AB%8B%E7%BB%98_%E7%91%B0%E7%9B%90_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/2/24/%E7%AB%8B%E7%BB%98_%E7%91%B0%E7%9B%90_2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4163_rosesa"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4163_rosesa"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哎呀，博士，你看我刚出外勤回来，胳膊痛腿也痛，这点事情我能不能明天再做呀？不能？嘁，死兜帽头......我要的通行证罗德岛已经办好了——哈哈~我开玩笑的，我现在就做呀。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哦，你醒来了？喂喂，回回神，怎么一脸茫然的样子？你刚刚说你好累不想工作，我就和人事干员说你昏过去了，还帮你请了病假。空气里的味道？是迷烟啦，伊西多就试过，我记得他睡得很香。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "什么鳞屎课程表？我为什么要和那群蠢蛋小屁孩一起上礼仪课？还有这又是什么玩意？“不许说的脏话词语表：咸人干、经棍......”嘁，你们算什么东——呜啊！你干嘛打我的头！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我申请外勤证明半个月了，您看——怎么只有我要在罗德岛干满三年还没不良记录才行！通融一下嘛~用罗德岛的名义做坏事？才不会！求求你！最好的博士！尊敬的上司！至高无上的指挥官！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "多吗？我觉得我屋子里的东西不多啊，无非就是各种漂亮衣服，各种好吃的，各种珠宝。看什么，都是我自己买的！我就喜欢曾经想要的东西都在身边的感觉，和它们挤在一起，晚上睡觉都更安心。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "比这更软的床我睡过，盐漠、船板我也睡过，睡上去的感觉我都记得，所以我绝对不要再去过那种会被人赶走的日子。总有一天我能靠自己睡在最舒服的大床上，我一定要过最好的生活！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，审判庭那帮经棍就是一群饿疯了的盐鳞，闻到血味就用那些死鳞眼一直盯着你，直到他们确定你是一个必死的猎物，恶心！下贱！绝对不要和他们扯上关系！欸？你说刚才和我跳舞的小鸟就是？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "伊比利亚有我不熟的镇子吗？我连镇长们的私房钱藏哪都知道，怎么了？哦......你们想要那边的消息，又不好直接去查？哼哼，也有你们求我的时候？那先叫一声帕斯卡拉大人来听听吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哎，博士，你说，是去哥伦比亚赚得多，还是去卡西米尔赚得多？我听说那些地方遍地都是有钱的冤大头，满街都是赚钱的机会呢！放心放心，要是我找到赚大钱的路子，到时候肯定少不了你的~"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯......一个人就能有一间办公室可真好，我以后也想要有......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "各位哥哥姐姐好！我是今天新入职的干员，是极境哥哥和温蒂姐姐推荐我来这里的！希望和大家能好好相处呀——小红毛？你在旁边吐什么？我装什么了？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "看吧，我说过的，我可是有真本领的！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "涨工资了？真好！博士您真是我的好领导！罗德岛也是我最喜欢的公司，我要在这里干一辈子！我们什么时候再涨工资呀？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这只是刚开始的一小步，再多一点，再多一点，我想要的东西总有一天我会把它们都抓在手里。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "来啦来啦，我又来干活啦。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哥哥姐姐们，现在我是队长，你们所有人都要听我的指挥哦！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哥哥姐姐们要小心点哦，我的医术没有那么厉害呀。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "呜呜，好害怕......哥哥姐姐们一定要保护我呀！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "干嘛？你担心我不好好给他们治疗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "放心，你的干员都对我不差，我还是有点良心的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这里挺好，敌人看不到我。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "再检查一下，这个是迷烟，打不过就把他们都迷晕......"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "记得要站在药草烟雾的范围内呀~"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "药草烟雾没有长腿，不会追着你跑，老实点别乱动！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "伤重了一定要告诉我呀，我会加大药量的~"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我的烟雾是有毒吗？加大药量熏不死你，别乱叫唤！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哎呀，跟你们一起干活就是舒服！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真不错，这里随便找一个人挖走当我的保镖，以后就完全不用担心遇上什么危险了嘛......什么叫露出本来面目了？我是舍不得哥哥姐姐们呀。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这群该死的东西下手真狠......迟早有一天我吃的亏要在你们身上讨回来！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真没想到你这么讲义气，还等着我！快，再不跑我们就要死在一块了！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯嗯......环境很不错嘛。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哎哎哎，别动手动脚的！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哎呀，博士，是你呀，要喝水吗？要吃饭吗？不管什么时候叫我一声我都可以帮忙的呀。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不明白过这种节有什么意思，时间流逝有什么好庆祝的？要是我来规定，人们就该在得到自己想要的东西的时候庆祝，我要庆祝我所吃的那些苦头，最后都变成了我手中真切拥有的东西。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士好呀！有什么事情需要帮忙都可以来找我呀！"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你的生日我当然记得，不过我承认，我最开始记这个是为了巴结你让你给我点好处，但后来嘛......你确实是一个不错的上司，一个不错的朋友。喏，我之前从盐船上拿的朗姆酒，送你啦。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，祝你，祝我在这里认识的所有朋友，都能在未来过上自己想要的生活。哎呀，说不定等下次再见，我就是一个鼎鼎有名的大富豪，前来资助罗德岛了呢。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

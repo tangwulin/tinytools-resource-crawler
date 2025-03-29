@@ -1,7 +1,11 @@
 {
   "name": "铎铃",
   "charaKey": "char_4083_chimes",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/9/96/%E7%AB%8B%E7%BB%98_%E9%93%8E%E9%93%83_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/3/36/%E7%AB%8B%E7%BB%98_%E9%93%8E%E9%93%83_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/3/36/%E7%AB%8B%E7%BB%98_%E9%93%8E%E9%93%83_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -915,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "明けましておめでとうございます、ドクター。いつか故郷の村にご招待できる日が来ることを願ってやみません。一年の締めくくりに、皆で余った食料と秋の収穫期に作ったお酒を持ち寄って、無事に一年を過ごせたことをお祝いするんです……あんな風景、今ではもうなかなか目にすることはできませんね。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy holidays, Doctor. I would love to invite you to villages of my homeland, if there's a chance... We open up the granaries at the end of the year, and celebrate it with spirits that we brewed in the autumn... Scenes like that are rare these days."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받으세요, 박사님. 기회가 된다면 나중에 박사님을 제 고향 마을에 초대하고 싶네요. 한 해가 끝나면 사람들은 남은 식량과 가을 추수 때 빚었던 술을 가지고, 무사히 한 해를 보낸 것을 축하하죠…… 요즘은 그런 풍경을 보기 힘들겠지만요."
         },
         {
           "language": "繁体中文",
@@ -958,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "在大地上那些偏远的角落，总会有默默无闻，容易被忽视的人们。罗德岛在做的事，帮到了许多这样的人。谢谢您，博士。"
+          "content": "博士，生日快乐。尝尝这碗长寿面吧。这是我老家的做法，只是淋了一点葱油，再加一点炒料......做法很简单，但香味很绵长。还合您的口味吗？太好了。祝您新的一年里也能平安健康。"
         },
         {
           "language": "日文",
@@ -976,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在大地上那些偏远的角落，总会有默默无闻，容易被忽视的人们。罗德岛在做的事，帮到了许多这样的人。谢谢您，博士。"
+        },
+        {
+          "language": "日文",
+          "content": "人目につかない大地の片隅には、誰にも知られず、蔑ろにされ続けてきた人たちが常にいるものです。ロドスの行いは、そんな人たちの力になっていると思います。ありがとうございます、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "People who live in the distant corners of the land are often forgotten, but what Rhodes Island is doing has helped many of them. I want to thank you for that, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "이 대지의 외딴곳에는, 아무도 알지 못하고 소외된 사람들이 존재하기 마련입니다. 지금 로도스 아일랜드가 하고 있는 일들은 이러한 사람들에게 힘이 되어 주고 있습니다. 감사합니다, 박사 박사님."
         },
         {
           "language": "繁体中文",

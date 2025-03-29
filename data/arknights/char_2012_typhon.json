@@ -1,7 +1,12 @@
 {
   "name": "提丰",
   "charaKey": "char_2012_typhon",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/8/8e/%E7%AB%8B%E7%BB%98_%E6%8F%90%E4%B8%B0_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/9/9f/%E7%AB%8B%E7%BB%98_%E6%8F%90%E4%B8%B0_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/0/01/%E7%AB%8B%E7%BB%98_%E6%8F%90%E4%B8%B0_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/3/30/%E7%AB%8B%E7%BB%98_%E6%8F%90%E4%B8%B0_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -779,15 +784,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ふむ、最近は誰もかれもこの日を祝うようになったんだな。ここでも宴を開くのか？花火は？どっちもある？フッ、来て正解だったな。目ぼしい催し物でもないか見てくる。ドクターはわたしに構わなくていいぞ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Oh, there have been more and more people celebrating this festival. Will you have a feast too? What about fireworks? Always? Seems I've come to the right place. I'm going to look around for activities I've never tried before, so you don't have to entertain me."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "음, 새해를 축하하는 사람들이 점점 많아지는 것 같네. 여기서도 축제를 여는 거야? 불꽃놀이는? 그것도 있다고? 제대로 왔나 보네. 처음 보는 이벤트가 있나 확인하러 가보려는 거뿐이니까 박사가 날 신경 쓸 필요 없어."
         }
       ]
     },
@@ -814,12 +819,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "清点猎物是个好习惯，因为狩猎是不会有尽头的。我看到你们战胜了许多对手，拯救了许多生灵，做得好。但是你们想从这片大地上彻底赶走你们的敌人？不行，想要一劳永逸是不对的。"
+          "content": "我帮你找到了安全的地方。树木，雪水，腐烂于泥土的兽的血肉，你要感谢它们结成了你的灵性，让你起身在大地上行走。走吧，抓好我的手。"
         },
         {
           "language": "日文",
@@ -832,6 +837,28 @@
         {
           "language": "韩文",
           "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "清点猎物是个好习惯，因为狩猎是不会有尽头的。我看到你们战胜了许多对手，拯救了许多生灵，做得好。但是你们想从这片大地上彻底赶走你们的敌人？不行，想要一劳永逸是不对的。"
+        },
+        {
+          "language": "日文",
+          "content": "獲物の棚卸しか？いい心がけだ。狩りというのは終わりがないからな。お前たちが数々の相手を破り、多くの命を救ったのを見てきたが、本当によくやったと思う。だが、この大地から敵を一掃しようと思っているのなら、それはやめた方がいい。一度の努力で永久の安逸を図ろうとするのは間違ってるからな。"
+        },
+        {
+          "language": "英文",
+          "content": "It's good practice to always check up on your prey, because the hunt never truly ends. I've seen you defeat many opponents and save many lives. Good on you, but... you wish to fully wipe your enemy from the face of this land? No, a permanent extermination is just wrong."
+        },
+        {
+          "language": "韩文",
+          "content": "수확한 사냥감을 정리해 두는 건 좋은 습관이야. 사냥엔 끝이 없으니까. 그동안 너희들이 수많은 승리를 거두고, 또 수많은 생명들을 구해내는 걸 봤어. 잘하더라. 하지만 이 대지에서 너희들의 적을 완전히 몰아내려는 거라면 그만두는 게 좋을 거야. 한 번의 노력으로 영원한 안식을 얻으려 하는 건 잘못된 거니까."
         }
       ]
     }

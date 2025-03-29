@@ -1,7 +1,10 @@
 {
   "name": "乌尔比安",
   "charaKey": "char_4145_ulpia",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/1/11/%E7%AB%8B%E7%BB%98_%E4%B9%8C%E5%B0%94%E6%AF%94%E5%AE%89_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/e/e7/%E7%AB%8B%E7%BB%98_%E4%B9%8C%E5%B0%94%E6%AF%94%E5%AE%89_2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -10,6 +13,14 @@
     {
       "language": "中文-普通话",
       "base": "voice_cn/char_4145_ulpia"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_4145_ulpia"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_4145_ulpia"
     }
   ],
   "voiceList": [
@@ -23,7 +34,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "異論はない。だがこういう形ばかりの陸の慣習で俺たちの時間を浪費すれば、責任を取るのはお前だ。"
+        },
+        {
+          "language": "英文",
+          "content": "I have no objections. If these long-winded documents turned out to be a waste of our time, you would be the one to suffer the consequences."
+        },
+        {
+          "language": "韩文",
+          "content": "이견은 없다. 하지만 이러한 육지의 허례허식으로 우리의 시간을 낭비한다면, 마지막에 책임은 네가 져야 할 거다."
         }
       ]
     },
@@ -37,7 +56,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "グレイディーアの訓練を見かけたことくらいはあるだろう。あんなものは自虐も同然だ。深海で方向感覚を保つことは游泳速度を磨くよりも難しく、また重要であると忠告したというのに、相も変わらず……確かに、俺にはもとより彼女たち以上の方向感覚が備わっているがな。"
+        },
+        {
+          "language": "英文",
+          "content": "You should see how Gladiia trains. It could almost be called self-flagellation. I once reminded her that in the depths of the abyss, maintaining your sense of direction is both more difficult and more important than increasing your speed. Yes, of course my navigational skills are better than the other Hunters,"
+        },
+        {
+          "language": "韩文",
+          "content": "너도 글래디아가 훈련하는 걸 본 적이 있겠지. 저런 방식은 자학이나 다름없다. 바다 깊은 곳에선 방향 감각을 유지하는 게 속도를 높이는 것보다 더 어렵고 중요하다고 충고했거늘, 변하질 않는군…… 확실히, 내가 그녀들보단 방향 감각이 뛰어나다."
         }
       ]
     },
@@ -51,7 +78,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "……見るだけ無駄だ、陸の人間にエーギルの楽譜は読めないだろう。戦争に臨む際、即興で一曲起こして隊員たちに覚えさせ、収束後にそれを一音違わず歌わせるのが習慣化していたんだ。芸術を解さないシーボーンを釣るには有効な手なのでな。"
+        },
+        {
+          "language": "英文",
+          "content": "There's no point in staring at it. Ægir's musical notation would be unfamiliar to you land-dwellers. I make it a habit to compose a song before battle, and I ask my teammates to memorize it. Once the battle is over, they are to sing it with utmost accuracy. The Seaborn have no taste for artistry, so it has proved a useful test."
+        },
+        {
+          "language": "韩文",
+          "content": "……봐도 소용없다. 육지 사람은 에기르의 악보를 읽을 수 없을 테니. 난 전투에 임하기 전, 즉흥적으로 곡을 만들어 대원들에게 외우게 하고 있다. 그리고 전투가 끝나면 그 곡을 한 음도 틀리지 않고 다시 부르게 하지. 시본은 예술을 이해하지 못하니, 이건 아주 효과적인 방법이다."
         }
       ]
     },
@@ -65,7 +100,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "サルゴン語、イベリア語、レム・ビリトン語……陸で過ごした僅かな時間で、俺はいくつもの言語を身に着けた。シーボーンは進化のために他の「群れ」と積極的にコミュニケーションを取るというのに、我々人間は言い訳を探しては視野を狭めてばかり。恥ずべきことだと思わないか。"
+        },
+        {
+          "language": "英文",
+          "content": "Sargonian, Iberian, Rim Billitonian... During my short time on the land, I have learned several languages. The Seaborn are willing to communicate with other kinds for the sake of their evolution, while humanity uses whatever excuses it can to divide itself. We should be ashamed of ourselves."
+        },
+        {
+          "language": "韩文",
+          "content": "사르곤어, 이베리아어, 림 빌리턴어…… 육지에서 보낸 그 짧은 시간 동안 나는 꽤 많은 언어를 익힐 수 있었다. 시본은 진화를 위해 타 종족과 교류하는데, 정작 인류는 온갖 핑계를 대며 스스로를 편협하게 만들고 있지. 우리는 응당 부끄러움을 느껴야 한다."
         }
       ]
     },
@@ -79,7 +122,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "団結力を高める方法はいくらでもある。破滅の責任をすべて同じ敵に押し付けること、戦局を変える航路を切り拓くこと、それから、恥知らずの裏切り者を追放すること……ふん、それも俺がもたらせる価値の一つと言えるだろう。"
+        },
+        {
+          "language": "英文",
+          "content": "There are many ways to foster unity. Perhaps you could blame your collapse on a common foe, or open up a waterway that changes the tide of war, or maybe send a disgraced, fallen man into exile... Hmm. This really is the only value I can bring to the table."
+        },
+        {
+          "language": "韩文",
+          "content": "집단의 단결력을 높이는 방법은 다양하다. 파멸의 책임을 공공의 적에게 돌리는 것, 전세를 뒤바꿀 항로를 개척하는 것, 혹은…… 수치스러운 배신자를 추방하는 것…… 흠, 그러고 보면 그것도 내가 가져다줄 수 있는 가치라 할 수 있겠군."
         }
       ]
     },
@@ -93,7 +144,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "シーボーンの問題はもはや御し難い。一本の航路や数回の戦争で奴らを根絶できるのなら、こんなところまで協力を仰ぎに来るものか。俺はもう行くが、連絡は絶やすなよ……奴らと交わり、真に滅する方法を見つけるのが唯一残された活路だ。"
+        },
+        {
+          "language": "英文",
+          "content": "The Seaborn issue is already out of our control. If a single waterway or several battles could annihilate them, I would not be here seeking your cooperation. I should be off now. Stay in contact... Become one of them, then uncover their fatal weakness from within... this is the only way."
+        },
+        {
+          "language": "韩文",
+          "content": "시본 문제는 이미 우리가 손을 쓸 수 없는 지경에 이르렀다. 만약 한 번의 항로 개척이나 몇 차례의 전쟁으로 그들을 소멸시킬 수 있었다면, 내가 이곳까지 협력을 요청하러 오지도 않았겠지. 나는 이만 가 보겠다. 연락은 자주 하지…… 이 문제를 해결하기 위해선, 직접 그들이 되는 수밖에. 그것만이 유일한 살길이다."
         }
       ]
     },
@@ -107,7 +166,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ハンターたちの状態はもう把握済みだ。会うまでもなかろう……彼女たちの健康状態に気を配り、正気でいられるよう尽くしてやってくれ。俺もまた来る。最初に生まれたアビサルハンターが、最後の一人になるなど真っ平なのでな。"
+        },
+        {
+          "language": "英文",
+          "content": "No need to arrange a meeting. I have already ascertained the status of the other Hunters. Please continue to monitor their health, and help them keep their heads clear. I will return and check. As Ægir's first Abyssal Hunter, I hope that I will not be its last."
+        },
+        {
+          "language": "韩文",
+          "content": "헌터들의 상태는 이미 확인했으니, 굳이 만날 필요는 없다…… 부디 그녀들의 건강 상태에 주의를 기울이고, 제정신을 유지할 수 있도록 도움을 줬으면 한다. 나도 다시 돌아올 거다. 나는 첫 번째 어비설 헌터스다. 내가 마지막이 아니길 바라지."
         }
       ]
     },
@@ -121,7 +188,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "随分と遺伝子技術に対する先見性があるようだが、シーボーンとアビサルハンター以外の議題は、現状時間を費やしてまで論ずる価値はない……ドクター、奴らは今この時も陸へと這い寄っているが、答えは未だ深海の奥底に眠っているんだ。"
+        },
+        {
+          "language": "英文",
+          "content": "You are very forward-thinking with your vision of the future of gene therapy, but right now, discussing anything other than the Seaborn or the Hunters is a waste of our time. Doctor, they continue their endless march onto dry land, but the answer lies deep in the abyss."
+        },
+        {
+          "language": "韩文",
+          "content": "유전자 기술에 대해 꽤나 전망적인 사고를 갖고 있는 것 같다만, 지금 우리에게 있어 가장 중요한 건 시본과 어비설 헌터스다. 그 외의 것을 논한다는 건 시간 낭비일 뿐이지…… 박사, 지금 이 순간에도 시본들은 육지를 향한 발걸음을 멈추지 않고 있다. 하지만 그들을 막을 해답은, 여전히 저 바다 깊은 곳에 잠들어 있지."
         }
       ]
     },
@@ -135,7 +210,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ハンターたちは脱水症で気を失うこともあるが、海に戻ってしまえば過去までもが蘇る。お前が記憶を取り戻すにはどんなきっかけが必要なんだ？何故記憶を失い、そして何を忘れた？かつて海の底に訪れたお前は、そこにあるすべてと繋がっているんだ。思い出してもらおうか、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "The Hunters will lose awareness if deprived of water, but they need only return to the sea to awake their past. How about you? What opportunity would you need? What did you forget, and why did you forget it? You have been to the depths of the abyssal sea, you are connected to all this. I need you to recall, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "헌터들은 탈수로 의식을 잃을 수도 있지만, 바다로 돌아가기만 하면 과거의 기억이 되살아나지. 그렇다면 박사, 네 기억을 되찾으려면 어떤 계기가 필요한가? 넌 왜 기억을 잃었고, 또 어떤 기억을 잃은 거지? 넌 심해에 발을 디뎠었다. 그리고 이 모든 것은 너와 관련이 있지. 기억을 떠올려라, 박사."
         }
       ]
     },
@@ -149,7 +232,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "夢を見ているのか。話相手は、いったい「どの」お前なんだ？"
+        },
+        {
+          "language": "英文",
+          "content": "You are dreaming. Which part of yourself do you speak to?"
+        },
+        {
+          "language": "韩文",
+          "content": "꿈을 꾸고 있는 건가. 지금 너와 이야기를 나누고 있는 상대는, 어떤 너지?"
         }
       ]
     },
@@ -163,7 +254,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "また顔を突き合せることになるとはな。今回の情報交換にこんなやり方を強いたのは、ロドスの規則によるものか、それとも俺の自己認識が変化していないことを確かめるためか？……まあいい。アビサルハンター、ウルピアヌスだ。"
+        },
+        {
+          "language": "英文",
+          "content": "We meet again. This method of contact that you are imposing upon me, is it Rhodes Island's standard treatment, or perhaps it is you trying to confirm if my sense of self has already begun to change… Hmph. Ulpianus, Abyssal Hunter."
+        },
+        {
+          "language": "韩文",
+          "content": "또 만나는군. 이번 정보 교환에 이러한 방식을 강요한 건 로도스 아일랜드의 규칙 때문인 건가, 아니면 내 자기 인식이 아직 뚜렷한지 확인하기 위해서인가? ……뭐, 상관없다. 어비설 헌터스, 울피아누스다."
         }
       ]
     },
@@ -177,7 +276,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "何をもとに戦争を組み立てるか、よく考えろ。"
+        },
+        {
+          "language": "英文",
+          "content": "You must think carefully on what you base your battle plans upon."
+        },
+        {
+          "language": "韩文",
+          "content": "무엇을 바탕으로 이 전쟁을 설계할지를, 잘 생각해 두는 게 좋을 거다."
         }
       ]
     },
@@ -191,7 +298,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "どのみち死の洗礼を乗り越えねば先はない。こんな表彰など、戦士にとっては無意味だ。"
+        },
+        {
+          "language": "英文",
+          "content": "Only when baptized in death does one exist. This ceremony is not much use for a warrior."
+        },
+        {
+          "language": "韩文",
+          "content": "죽음의 세례를 견뎌 낸 자만이 살아남는 법. 이런 형식적인 의식은 전사에게 아무런 의미도 없다."
         }
       ]
     },
@@ -205,7 +320,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "万物を統べる者が本当にいるのなら、今日に蔓延る災禍の元凶として、首を差し出してもらわねばな。"
+        },
+        {
+          "language": "英文",
+          "content": "If there truly is a creator of all things, then it should be the one to suffer the plagues that torment us."
+        },
+        {
+          "language": "韩文",
+          "content": "만물을 다스리는 자가 정말 존재한다면, 그자는 오늘날의 재난에 대해 책임을 지고 목을 내놓아야 할 거다."
         }
       ]
     },
@@ -219,7 +342,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "……ふ、お前が望む結果を見せてやろう。"
+        },
+        {
+          "language": "英文",
+          "content": "You will obtain the result that you seek."
+        },
+        {
+          "language": "韩文",
+          "content": "네가 바라는 결과를 보여주지."
         }
       ]
     },
@@ -233,7 +364,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "スカジたちは暴力の専門家も同然だったが、このチームの連中にそれができるのか？"
+        },
+        {
+          "language": "英文",
+          "content": "Skadi and the other Hunters are masters of violence. What about the ones on this team?"
+        },
+        {
+          "language": "韩文",
+          "content": "스카디를 포함한 그녀들은 모두 폭력의 전문가나 다름없다. 이 팀의 이들도 그게 가능한가?"
         }
       ]
     },
@@ -247,7 +386,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "行くぞ。"
+        },
+        {
+          "language": "英文",
+          "content": "Embark."
+        },
+        {
+          "language": "韩文",
+          "content": "간다."
         }
       ]
     },
@@ -261,7 +408,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "漂うにおいが変わりつつある。"
+        },
+        {
+          "language": "英文",
+          "content": "The scent in the air is changing."
+        },
+        {
+          "language": "韩文",
+          "content": "공기의 냄새가 변하고 있군."
         }
       ]
     },
@@ -275,7 +430,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "聞こえた。"
+        },
+        {
+          "language": "英文",
+          "content": "I hear them."
+        },
+        {
+          "language": "韩文",
+          "content": "소리가 들렸다."
         }
       ]
     },
@@ -289,7 +452,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "俺がやる。"
+        },
+        {
+          "language": "英文",
+          "content": "I will handle it."
+        },
+        {
+          "language": "韩文",
+          "content": "내가 해결하지."
         }
       ]
     },
@@ -303,7 +474,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "役に立つ情報を奴らに吐かせてやる。"
+        },
+        {
+          "language": "英文",
+          "content": "They will cough up some useful information."
+        },
+        {
+          "language": "韩文",
+          "content": "쓸모 있는 정보를 뱉어내게 만들어 주지."
         }
       ]
     },
@@ -317,7 +496,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "取るに足らん処刑だ。立ち会う価値もない。"
+        },
+        {
+          "language": "英文",
+          "content": "This execution is not worth witnessing."
+        },
+        {
+          "language": "韩文",
+          "content": "지켜볼 가치도 없는 처형이다."
         }
       ]
     },
@@ -331,7 +518,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "堕落に小躍りする愚図はどこだ。"
+        },
+        {
+          "language": "英文",
+          "content": "Who takes joy in the fall?"
+        },
+        {
+          "language": "韩文",
+          "content": "타락하여 날뛰던 자는 어디 있나."
         }
       ]
     },
@@ -345,7 +540,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "派手な傷跡を刻みつけてやろう。"
+        },
+        {
+          "language": "英文",
+          "content": "Your wounds will be rather striking."
+        },
+        {
+          "language": "韩文",
+          "content": "잊지 못할 상처를 남겨 주지."
         }
       ]
     },
@@ -359,7 +562,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "骨は海淵に拾ってもらえ。"
+        },
+        {
+          "language": "英文",
+          "content": "The depths will devour your bones."
+        },
+        {
+          "language": "韩文",
+          "content": "바다의 심연이 너희의 뼈를 집어삼킬 거다."
         }
       ]
     },
@@ -373,7 +584,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "小細工を弄してみるといい、無様な死を望むならな。"
+        },
+        {
+          "language": "英文",
+          "content": "Your useless tricks will only make your death more miserable."
+        },
+        {
+          "language": "韩文",
+          "content": "그런 하찮은 잔기술은 너희의 죽음을 더 추하게 만들 뿐이다."
         }
       ]
     },
@@ -387,7 +606,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "よし。俺たちにもまだ時間が残されているということだな……"
+        },
+        {
+          "language": "英文",
+          "content": "Good. That means we still have time…"
+        },
+        {
+          "language": "韩文",
+          "content": "좋아. 우리에겐 아직 시간이 남아 있다는 거군……"
         }
       ]
     },
@@ -401,7 +628,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "どうやらグレイディーアと戦争設計について意見交換をしたことがあるようだな。いくつか相通ずる理念が窺えた。"
+        },
+        {
+          "language": "英文",
+          "content": "From watching you and Gladiia discuss your battle plans, I see that the two of you share similar lines of thought."
+        },
+        {
+          "language": "韩文",
+          "content": "아무래도 글래디아와 전쟁을 어떻게 설계할 것인지에 대해 이야기를 나눈 적이 있는 모양이군. 몇 가지 공통적인 이념을 볼 수 있었다."
         }
       ]
     },
@@ -415,7 +650,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "たった一度の勝利を拾うことと、最後に存続を勝ち取ること……お前が目指すのはどちらだ？"
+        },
+        {
+          "language": "英文",
+          "content": "Is your objective victory, or is it ultimately survival?"
+        },
+        {
+          "language": "韩文",
+          "content": "한 순간의 승리와 끝까지 살아남는 것 중…… 네 목표는 어느 쪽이지?"
         }
       ]
     },
@@ -429,7 +672,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "皆で勝利を迎えられる保証はないが、失敗の対価はすべからく全員に降りかかる。"
+        },
+        {
+          "language": "英文",
+          "content": "Not everyone is able to taste victory, but all must bear the burden of defeat."
+        },
+        {
+          "language": "韩文",
+          "content": "모두가 승리를 맞이할 수 있는 건 아니지. 하지만 실패의 대가는 모두가 짊어져야만 한다."
         }
       ]
     },
@@ -443,7 +694,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "どこで連絡を取り合っても構わないが、俺のことは誰にも悟らせるな。わかってるだろう。"
+        },
+        {
+          "language": "英文",
+          "content": "You can contact me from anywhere, but do not let others learn of my whereabouts. You should know that."
+        },
+        {
+          "language": "韩文",
+          "content": "어디서 연락을 주고 받든 상관없지만, 내 행적은 그 누구에게도 밝히지 마라. 왜인지는 너라면 잘 알고 있겠지."
         }
       ]
     },
@@ -457,7 +716,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "お前、腕が何本あると思ってる？"
+        },
+        {
+          "language": "英文",
+          "content": "How many hands do you have?"
+        },
+        {
+          "language": "韩文",
+          "content": "넌 팔이 몇 개나 있지?"
         }
       ]
     },
@@ -471,7 +738,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "陸で過ごした時間はほんの僅かだが、これがお前たちの礼儀作法でないことくらいはわかる。"
+        },
+        {
+          "language": "英文",
+          "content": "I am not entirely new to the land. What you just did falls outside your etiquette."
+        },
+        {
+          "language": "韩文",
+          "content": "나도 육지에서 시간을 보낸 적이 있다. 이건 너희의 예의에 맞지 않아."
         }
       ]
     },
@@ -485,7 +760,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文",
+          "content": "명일방주"
         }
       ]
     },
@@ -499,7 +782,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "新たなる都市の建設、新たなる芸術の誕生、そして新たなる思潮の勃興、いずれも祝う価値はあるが、時間の流れそのものに意味はない。だが今ばかりは、お前と共に祝おう――潮は未だ海洋に囚われ、完全なる破滅の訪れまで猶予が与えられていることをな。"
+        },
+        {
+          "language": "英文",
+          "content": "The establishment of a new city. The birth of a new artform. The rising of a new line of thought. These are all worth celebrating, as opposed to the mere passage of time. But now, I wish to mark this occasion with you—the tides have not yet broken free of the ocean, and ruination has not yet arrived in full."
+        },
+        {
+          "language": "韩文",
+          "content": "새로운 도시의 건설, 새로운 예술의 탄생, 그리고 새로운 사상의 출현. 이 모든 것은 축하할 가치가 있지만, 시간의 흐름 자체는 아무런 의미가 없다. 그러나 이 순간만큼은 너와 함께 축하하도록 하지. 파도는 바다에 갇혀있고, 파멸은 아직 완전히 오지 않았으니."
         }
       ]
     },
@@ -510,6 +801,28 @@
         {
           "language": "中文",
           "content": "别回头，几句话而已。"
+        },
+        {
+          "language": "日文",
+          "content": "振り返るな、二言三言で済む。"
+        },
+        {
+          "language": "英文",
+          "content": "No need to turn your head. I will keep my report brief."
+        },
+        {
+          "language": "韩文",
+          "content": "뒤돌아볼 필요 없다, 한두 마디면 끝나니까."
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "拿去。我理解对陆地人来说，仪式感不可或缺。掌握阿戈尔的音符，对你来说应该用不了多少时间。或者你可以去找猎人们，她们会唱给你听......我？我必须警惕自己的歌声。"
         },
         {
           "language": "日文",
@@ -527,7 +840,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "「アビサルハンター」はシーボーン根絶のために生まれた。ならば、「ロドス」はどうだ？……お前たちはこの鈍臭い船で、片時も止まらずにここまで歩き続けてきた。ハンターに勝るとも劣らない屈強さでな。果たしてお前たちは何のために生まれて、何処へ向かう？答えてくれ、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "The Abyssal Hunters were created to annihilate the Seaborn. What of Rhodes Island? Relying on this clumsy ship to take you this far, yet you show no will to stop. This speaks to your tenacity that rivals even us Hunters. Why were you established, and what is your endpoint? Answer me, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "'어비설 헌터스'는 시본을 소멸하기 위해 탄생했다. 그렇다면 '로도스 아일랜드'는 무엇을 위해 존재하지? ……너희는 이 육중한 선박에 몸을 맡긴 채 잠시도 멈추지 않고 여기까지 도달했다. 헌터 못지않은 강인함으로 말이다. 너희는 무엇을 위해 탄생했고, 또 어디로 나아가는 거지? 그 대답을 들려줬으면 한다, 박사."
         }
       ]
     }

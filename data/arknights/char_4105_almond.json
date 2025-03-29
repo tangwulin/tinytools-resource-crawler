@@ -1,7 +1,11 @@
 {
   "name": "杏仁",
   "charaKey": "char_4105_almond",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/8/88/%E7%AB%8B%E7%BB%98_%E6%9D%8F%E4%BB%81_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/4/4a/%E7%AB%8B%E7%BB%98_%E6%9D%8F%E4%BB%81_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/f/f2/%E7%AB%8B%E7%BB%98_%E6%9D%8F%E4%BB%81_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -779,15 +783,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ひっく、ドクター、なんで頭が三つになっちゃったの……誕プレで用意した音楽プレイヤーのい、イヤホンを四つ足さないといけないじゃん――えぇ、飲みすぎ？飲んでないもん！フランカちゃんには大ジョッキ煽られたけど、ほんのちょこっーとしか飲んでないよ！"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Doctor, why you suddenly have three heads...? Now I gotta make four more sets of... uh... ear plugs, for the player that's gonna be your birthday gift...Wha? I had too much to drink? Don't be silly! Franka tried to get me to drink a whole big-ass mug, but I only had a-a teeny tiny little bit!"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "어어, 박사? 머리가 왜 세 개가 된 거야…… 이럼 박사한테 생일 선물로 주려고 했던 플레이어에, 이, 이어폰을 네 개는 더 만들어야 하잖아…… 뭐, 취했다고? 안 취했거든! 프란카가 나한테 이따만큼 큰 컵을 주긴 했지만, 난 겨우 요……만큼 마셨다고!"
         }
       ]
     },
@@ -814,12 +818,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "在罗德岛上，我每天都过得很快乐，可是人一快乐起来，项目反而没法像在黑钢时那样心无旁骛地推进了。嗯，该怎么说呢，黑钢更像个工作的地方，而罗德岛更像一个......家。"
+          "content": "生日快乐！我特意为你的生日准备了一套谜题，解开它就能知道我究竟送了你什么，是不是很期待？......欸，你看起来怎么一副已经知道了的样子？"
         },
         {
           "language": "日文",
@@ -832,6 +836,28 @@
         {
           "language": "韩文",
           "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在罗德岛上，我每天都过得很快乐，可是人一快乐起来，项目反而没法像在黑钢时那样心无旁骛地推进了。嗯，该怎么说呢，黑钢更像个工作的地方，而罗德岛更像一个......家。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスでは、毎日とっても楽しいんだ。でも楽しくなっちゃうとさぁ、BSWにいた時みたいに一心不乱にプロジェクトに取り組むことができなくなっちゃうんだよね。うーん、なんていうか、BSWはいかにも職場って感じだけど、ロドスはもっとこう……家、みたいなんだよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Every day I've spent on Rhodes Island has been very fun, but since I started having fun, it's been hard to get absobed in my work like I did at Blacksteel. Er, how should I put it? Blacksteel feels more like a place for work, while Rhodes Island is more like... hehe, you know, home."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드에선 매일이 즐거워. 근데 즐겁다 보니까 프로젝트 진전은 블랙스틸에 있던 때보다 못한 것 같아. 음, 뭐랄까, 블랙스틸은 좀 더 직장 같은 느낌이고, 로도스 아일랜드는 마치…… 집 같은 느낌이 든다고 해야 하나……"
         }
       ]
     }

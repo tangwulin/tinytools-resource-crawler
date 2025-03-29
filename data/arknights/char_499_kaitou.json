@@ -1,7 +1,11 @@
 {
   "name": "折光",
   "charaKey": "char_499_kaitou",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/e/e7/%E7%AB%8B%E7%BB%98_%E6%8A%98%E5%85%89_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/c/c2/%E7%AB%8B%E7%BB%98_%E6%8A%98%E5%85%89_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/a/a2/%E7%AB%8B%E7%BB%98_%E6%8A%98%E5%85%89_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -779,7 +783,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "こちらの装飾はあちらの壁に飾り付ければよろしいですか？……そんな目で見ないでください。僕は本当にただ良い一年を迎えたいだけですよ。新たな年を迎える度に、何か幸運が舞い込んでほしいと願わずにはいられないのです。犠牲がなければ何も変わらないということを知りながらもね。"
+        },
+        {
+          "language": "英文",
+          "content": "Should I hang this up on that wall over there...? Don't look at me like that, I just want to have a good holiday season. I always hope for good things to happen when a new year comes around, even though I know that nothing ever changes without sacrifice."
+        },
+        {
+          "language": "韩文",
+          "content": "이 장식들은 저쪽 벽에 걸면 될까요? ……저 역시 그저 좋은 한 해를 맞이하고 싶을 뿐이니, 그런 눈으로 쳐다보진 말아 주셨으면 합니다. 새해를 맞이할 때면, 저도 왠지 모르게 좋은 일들이 생겼으면 하고 바라게 되거든요. 희생 없이는 아무것도 변하지 않는다는 걸 알면서도 말이죠."
         }
       ]
     },
@@ -806,6 +818,28 @@
       ]
     },
     {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊，吃蛋糕的时候小心一些，博士。我在里面埋了一小颗红宝石，希望您有好运气。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        }
+      ]
+    },
+    {
       "title": "周年庆典",
       "filename": "CN_044.wav",
       "text": [
@@ -815,7 +849,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ただの石を後生大事にする人々をあざ笑ってきましたが、あなたたちを前にすると、笑うことなどできようもありません。感染者の命にも価値があることを本気で証明しようとしているなんて、まるで僕のように滑稽で、否定の言葉すら出てきませんよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I laugh at those people who put such value on a rock, but I couldn't laugh at you, because you truly want to prove that even an Infected life is worth something. It's almost as absurd as I am."
+        },
+        {
+          "language": "韩文",
+          "content": "전 돌멩이에 불과한 것을 귀하게 여기는 사람들을 비웃어 왔습니다. 하지만 여러분들과 마주하였을 땐, 웃음이 나오지 않더군요. 감염자의 목숨에도 가치가 있다는 걸 진심으로 증명하고자 할 줄이야. 제 우스꽝스럽고 터무니없는 모습을 보는 듯해서 반박조차 할 수가 없네요."
         }
       ]
     }

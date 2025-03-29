@@ -1,7 +1,12 @@
 {
   "name": "寒芒克洛丝",
   "charaKey": "char_1021_kroos2",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/5/51/%E7%AB%8B%E7%BB%98_%E5%AF%92%E8%8A%92%E5%85%8B%E6%B4%9B%E4%B8%9D_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/2/2f/%E7%AB%8B%E7%BB%98_%E5%AF%92%E8%8A%92%E5%85%8B%E6%B4%9B%E4%B8%9D_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/f/f9/%E7%AB%8B%E7%BB%98_%E5%AF%92%E8%8A%92%E5%85%8B%E6%B4%9B%E4%B8%9D_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/a/a3/%E7%AB%8B%E7%BB%98_%E5%AF%92%E8%8A%92%E5%85%8B%E6%B4%9B%E4%B8%9D_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -915,15 +920,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ハッピーニューイヤー！ふぅ、挨拶もしたことだし、戻って休むねぇ。ドクターも早めに休んで、休日はしっかりリラックスしないとダメなんだよぉ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy New Year! Mmh, that's my greeting in. I'm going back to rest now. You too as soon as you can, Doctor. You have to unwind on your days off~"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받아! 됐다, 말 다 했으니 이만 쉬러 갈게. 박사도 얼른 쉬어~ 휴일에는 푹 쉬어야 한다고."
         },
         {
           "language": "繁体中文",
@@ -958,12 +963,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "今年宴会上小炎熔烤的肉松蛋糕好像格外好吃呀，但焦糖布丁的甜度不如去年。说起来，三年前可露希尔做的灯光秀至今还是无法被超越呢。咦？我当然都记得啦。"
+          "content": "博士生日快乐哦。礼物已经放在你的口袋里了。很久没有做恶作剧了？好像是这样呢。毕竟和博士认识这么久了，我的小戏法博士基本都见过了嘛。难道说博士也会怀念过去的小游戏吗？那也可以哦~"
         },
         {
           "language": "日文",
@@ -976,6 +981,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "今年宴会上小炎熔烤的肉松蛋糕好像格外好吃呀，但焦糖布丁的甜度不如去年。说起来，三年前可露希尔做的灯光秀至今还是无法被超越呢。咦？我当然都记得啦。"
+        },
+        {
+          "language": "日文",
+          "content": "今年の記念パーティーでラヴァちゃんが焼いたミートフロスケーキすっごく美味しかったねぇ。キャラメルプリンの甘さは去年に比べていまいちだったけど～。あとやっぱり、三年前にクロージャちゃんがやったイルミネーションショーが一番だなぁ。う～ん？もちろん全部覚えてるよぉ。"
+        },
+        {
+          "language": "英文",
+          "content": "I'd say the meat roll Lava brought out for this year's dinner party was extra tasty! But the caramel pudding wasn't sweet as last year's. Come to mention, still nothing's beating that light show Closure put on three years ago. You bet, Doctor, I remember them all."
+        },
+        {
+          "language": "韩文",
+          "content": "올해 파티에서 라바가 만들었던 러우쑹 케이크가 엄청 맛있었어. 하지만 캐러멜 푸딩은 작년만큼 달지 않았던 것 같아. 그러고 보니, 3년 전 클로저가 했던 것보다 나은 라이트 쇼는 아직까지도 없었던 것 같네. 응? 당연히 기억하고 있지."
         },
         {
           "language": "繁体中文",

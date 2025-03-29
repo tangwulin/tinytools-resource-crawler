@@ -146,7 +146,7 @@
         },
         {
           "language": "韩文",
-          "content": "절 계속 쳐다보시는 걸 보니, 뭔가 꺼내기 어려운 말씀이라도 있으신 건가요…? 아, 알 것 같습니다. 팀원 중에 또 지각 한 사람이 있는 모양이군요. 제가 한마디 해 두겠습니다."
+          "content": "절 계속 쳐다보시는 걸 보니, 뭔가 꺼내기 어려운 말씀이라도 있으신 건가요……? 아, 알 것 같습니다. 팀원 중에 또 지각 한 사람이 있는 모양이군요. 제가 한마디 해 두겠습니다."
         },
         {
           "language": "繁体中文",
@@ -172,7 +172,7 @@
         },
         {
           "language": "韩文",
-          "content": "저도 감염자입니다만… 라바처럼 강력한 아츠의 소질이 생겨나진 않더군요."
+          "content": "저도 감염자입니다만…… 라바처럼 강력한 아츠의 소질이 생겨나진 않더군요."
         },
         {
           "language": "繁体中文",
@@ -224,7 +224,7 @@
         },
         {
           "language": "韩文",
-          "content": "비글은 솔직한 데다 듬직하고, 크루스는 감이 좋고, 라바는 똑똑하고, 히비스는 늘 기운이 넘칩니다. 저희 팀원 모두가 저는 너무 좋습니다…… 히비스가 억지로 먹여대는 지옥 같은 요리만 빼면 말이죠…"
+          "content": "비글은 솔직한 데다 듬직하고, 크루스는 감이 좋고, 라바는 똑똑하고, 히비스는 늘 기운이 넘칩니다. 저희 팀원 모두가 저는 너무 좋습니다…… 히비스가 억지로 먹여대는 지옥 같은 요리만 빼면 말이죠……"
         },
         {
           "language": "繁体中文",
@@ -250,7 +250,7 @@
         },
         {
           "language": "韩文",
-          "content": "…쉿, 박사님께선 지금 휴식 중이셔. 혹시 용무가 있는 거라면, 방해되면 안 되니까 밖에서 얘기할까?"
+          "content": "……쉿, 박사님께선 지금 휴식 중이셔. 혹시 용무가 있는 거라면, 방해되면 안 되니까 밖에서 얘기할까?"
         },
         {
           "language": "繁体中文",
@@ -814,15 +814,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "明けましておめでとうございます、ドクター。チームのみんなで食事に向かうつもりで、ドーベルマン教官も誘う予定なのですが、ドクターも一緒にどうですか？ちょうど戦闘についての質問がいくつか……ああ、すみません、お休みの日ですから、仕事の話をすべきではありませんでしたね。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy New Year, Doctor. Our team's going to eat dinner together, and we were just about to invite Instructor Dobermann. Would you like to come as well? I have some combat-related questions I'd like to ask, too... Oh, sorry, I know I shouldn't be mentioning work on a holiday."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받으세요, 박사님. 마침 팀원들과 파티를 하러 가는 중이었습니다. 지금 도베르만 선생님을 모셔 오려던 참인데, 박사님도 함께하시겠어요? 마침 훈련에 관해서 박사님께 묻고 싶은 게…… 아, 죄송합니다. 오늘은 기념일이었죠. 일에 대한 건 묻지 않겠습니다."
         },
         {
           "language": "繁体中文",
@@ -857,12 +857,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "按照既定目标，我已经完成了要做的所有训练，小队的其他人也在杜宾老师的训练下进步了很多，我们在战斗方面已经磨合得越来越好。博士，我会成为更好的队长的。"
+          "content": "博士生日快乐！我们小队给您准备了生日礼物。您见到克洛丝了吗？说好要一起的结果她又跑不见了，不管她跟您说什么都不要相信就好了，我们其实——啊克洛丝，你捂我嘴干什么！"
         },
         {
           "language": "日文",
@@ -875,6 +875,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "按照既定目标，我已经完成了要做的所有训练，小队的其他人也在杜宾老师的训练下进步了很多，我们在战斗方面已经磨合得越来越好。博士，我会成为更好的队长的。"
+        },
+        {
+          "language": "日文",
+          "content": "目標の通り、所定の訓練を全て終えました。チームのみんなもドーベルマン教官のご指導のもとで大いに成長し、戦闘での連携もどんどんうまくなっています。ドクター、私は絶対にもっと良い隊長になってみせますよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Looking at our set goals, I've already finished all my training, the other members of my team have made huge progress under Dobermann's instruction too, and we're adapting better and better on the combat side of things. Doctor, I'll be a better captain than I'm now, I promise."
+        },
+        {
+          "language": "韩文",
+          "content": "정해진 목표대로 제가 해야 하는 모든 훈련을 마쳤습니다. 저희 팀원들도 도베르만 선생님의 가르침 아래 많은 발전을 이뤄냈고요. 전장에서의 호흡도 나날이 좋아지고 있답니다. 앞으로 더 좋은 리더가 될 수 있도록 노력하겠습니다, 박사님!"
         },
         {
           "language": "繁体中文",

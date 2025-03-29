@@ -1,7 +1,11 @@
 {
   "name": "灵知",
   "charaKey": "char_206_gnosis",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/4/4b/%E7%AB%8B%E7%BB%98_%E7%81%B5%E7%9F%A5_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/0/09/%E7%AB%8B%E7%BB%98_%E7%81%B5%E7%9F%A5_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/9/9c/%E7%AB%8B%E7%BB%98_%E7%81%B5%E7%9F%A5_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -117,7 +121,7 @@
         },
         {
           "language": "韩文",
-          "content": "오리지늄에 감염된 후의 증상을 단순히 질병이라고 정의하고, 그것을 어떻게 ‘억제’하고 ‘치료’할 것인지 밖에 생각하지 않는 건, 자기가 얼마나 무지한지 설명하는 꼴밖에 안 돼. 너도 그런 사람들이랑 같다고는 하지 않겠지?"
+          "content": "오리지늄에 감염된 후의 증상을 단순히 질병이라고 정의하고, 그것을 어떻게 '억제'하고 '치료'할 것인지 밖에 생각하지 않는 건, 자기가 얼마나 무지한지 설명하는 꼴밖에 안 돼. 너도 그런 사람들이랑 같다고는 하지 않겠지?"
         },
         {
           "language": "繁体中文",
@@ -143,7 +147,7 @@
         },
         {
           "language": "韩文",
-          "content": "저기 있는 건… 샤이닝인가? 저 여자도 여기에 있었을 줄이야…… 음? 아니, 샤이닝은 우수한 학자로서 나와도 몇 번인가 협력했던 관계지만, 어느 날 갑자기 모습을 감추었지. 그래, 그게 전부다."
+          "content": "저기 있는 건…… 샤이닝인가? 저 여자도 여기에 있었을 줄이야…… 음? 아니, 샤이닝은 우수한 학자로서 나와도 몇 번인가 협력했던 관계지만, 어느 날 갑자기 모습을 감추었지. 그래, 그게 전부다."
         },
         {
           "language": "繁体中文",
@@ -915,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "イェラグにおける経験を鑑みると、今日は騒々しい一日になるだろう……私はまだすべき実験が残っているため、これで失礼する。その詫びとして、新たな研究成果を提供しよう。それと、本年もよろしく頼むと言っておく。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "My experiences of Kjerag inform me that today will be a raucous day... Well, Doctor, I still have experiments to perform, so if you'll excuse me. As compensation, I will provide you some novel research results. Oh, one more thing: Happy New Year."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "쉐라그에서 지냈던 경험으로 보자면, 오늘은 시끌벅적한 하루가 되겠군…… 박사, 진행해야 할 실험이 남아 있으니 난 먼저 실례하겠다. 대신 새로운 연구 결과를 너에게 넘기도록 하지. 그리고...... 새해 복 많이 받도록, 박사."
         },
         {
           "language": "繁体中文",
@@ -958,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "出去庆祝？我没兴趣。我已经走出实验室和你打了招呼，这个纪念日已经没有更多理由能让我为它停留了，除非你认为我能在这种嘈杂的环境下为你产出新的研究成果。"
+          "content": "我从外面大呼小叫的干员嘴里得知了今天是你的生日，这本书作为你的生日礼物，收下之后，请你让实验室外面的人都安静些吧......银灰也在此处？看来你在他的心目中的分量确实非同寻常。"
         },
         {
           "language": "日文",
@@ -976,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "出去庆祝？我没兴趣。我已经走出实验室和你打了招呼，这个纪念日已经没有更多理由能让我为它停留了，除非你认为我能在这种嘈杂的环境下为你产出新的研究成果。"
+        },
+        {
+          "language": "日文",
+          "content": "外に出て祝賀に参加する？興味ないな。私は既にラボから出て君に挨拶をした。この記念日という日が、私を留める理由はもはや存在しない。それとも君には、私がこのような騒々しい環境で新たな研究成果を生み出せるように見えているのか？"
+        },
+        {
+          "language": "英文",
+          "content": "Celebrate, out there? I have no interest. I've made my way out of the laboratory and given you my greetings, so there is no further reason this occasion should keep me, unless you think I can produce novel research results for you in conditions this clamorous."
+        },
+        {
+          "language": "韩文",
+          "content": "나와서 함께 파티를 즐기지 않겠냐고? 관심 없다. 게다가 이미 연구실에서 나와 너에게 인사를 하지 않았나. 기념일이라는 이유만으론 내 발을 묶어둘 수 없다. 아니면 넌 내가 이런 시끄러운 환경에서 새로운 연구 성과를 낼 수 있을 거라고 생각하는 건가?"
         },
         {
           "language": "繁体中文",

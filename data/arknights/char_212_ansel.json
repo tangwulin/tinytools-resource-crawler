@@ -43,7 +43,7 @@
         },
         {
           "language": "韩文",
-          "content": "박사님, 주사 맞을 시간이에요. 어? 괜찮으세요? 혹시… 첨단공포증이세요?"
+          "content": "박사님, 주사 맞을 시간이에요. 어? 괜찮으세요? 혹시…… 첨단공포증이세요?"
         },
         {
           "language": "繁体中文",
@@ -225,7 +225,7 @@
         },
         {
           "language": "韩文",
-          "content": "사실은 다들 참 열심히 하고 있어요… 다만 켈시 선생님 말씀에 따르면, 스튜어드 씨도 멜란사 씨도, 그다지 좋은 상황이 아니라고 해요… 최대한 모두를 안심시키는 게 제 일이에요. 박사님도 같이 힘내자고요!"
+          "content": "사실은 다들 참 열심히 하고 있어요…… 다만 켈시 선생님 말씀에 따르면, 스튜어드 씨도 멜란사 씨도, 그다지 좋은 상황이 아니라고 해요…… 최대한 모두를 안심시키는 게 제 일이에요. 박사님도 같이 힘내자고요!"
         },
         {
           "language": "繁体中文",
@@ -251,7 +251,7 @@
         },
         {
           "language": "韩文",
-          "content": "쯧! 아드나키엘 씨! 카디건 좀 얌전히 시켜줄 수 있을까요? 박사님 주무시잖아요…"
+          "content": "쯧! 아드나키엘 씨! 카디건 좀 얌전히 시켜줄 수 있을까요? 박사님 주무시잖아요……"
         },
         {
           "language": "繁体中文",
@@ -303,7 +303,7 @@
         },
         {
           "language": "韩文",
-          "content": "제가 폐를 안 끼친다면 좋겠습니다만…"
+          "content": "제가 폐를 안 끼친다면 좋겠습니다만……"
         },
         {
           "language": "繁体中文",
@@ -329,7 +329,7 @@
         },
         {
           "language": "韩文",
-          "content": "의료부 오퍼레이터인데도 이렇게 신경을 써주시다니, 정말… 너무 기쁘네요."
+          "content": "의료부 오퍼레이터인데도 이렇게 신경을 써주시다니, 정말…… 너무 기쁘네요."
         },
         {
           "language": "繁体中文",
@@ -615,7 +615,7 @@
         },
         {
           "language": "韩文",
-          "content": "후우… 약을 충분히 준비해두길 잘했네요. 다들, 안심해주세요."
+          "content": "후우…… 약을 충분히 준비해두길 잘했네요. 다들, 안심해주세요."
         },
         {
           "language": "繁体中文",
@@ -771,7 +771,7 @@
         },
         {
           "language": "韩文",
-          "content": "박사님, 저를 좋아해 주셔서, 정말… 기뻐요."
+          "content": "박사님, 저를 좋아해 주셔서, 정말…… 기뻐요."
         },
         {
           "language": "繁体中文",
@@ -815,15 +815,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "年明けは、医療部にとっては特別忙しい時期なんです。花火で怪我する人がいたり、お腹を壊す人がいたり……新年のお祝いを楽しむ気持ちは理解できますけど、安全には注意しないといけませんよね。ドクター、明けましておめでとうございます。今年はあなたが、医療部に通わずに済みますように。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "The Medical Department actually gets <i>busier</i> around New Year's. People hurt themselves setting off fireworks or gorging on food... I get wanting to indulge in the holiday spirit, but you need to keep yourselves safe too. You know how to take care of yourself, Doctor, don't you? Very well. With that, I wish you happy new year. May you spend the year without that kind of visit to Medical."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해가 되면 의료부는 오히려 바빠져요. 폭죽 때문에 다치는 분도 계시고, 음식 때문에 배탈이 나는 분도 계시고…… 축제를 즐기고 싶은 마음도 이해하지만, 모두가 안전을 제일로 여겨주셨으면 좋겠어요. 새해 복 많이 받으세요, 박사님. 올해 의료부에서 박사님을 치료해 드릴 일이 없기를 바랄게요."
         },
         {
           "language": "繁体中文",
@@ -858,12 +858,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "虽然最初来到罗德岛，是因为只有这里通过了我的简历，现在看来更像是一种缘分呢。A4小队的大家都在成长，我也不能落下。博士，体检报告显示，过去一年里，我的身体健康了很多哦。"
+          "content": "博士，晚上好。现在刚过零点，应该也算到您的生日了吧。祝您生日快乐！我提前准备了蛋糕，但还是建议您明早再吃哦。啊，这样的话，我会不会是今天第一个祝您生日快乐的人呢？"
         },
         {
           "language": "日文",
@@ -876,6 +876,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "虽然最初来到罗德岛，是因为只有这里通过了我的简历，现在看来更像是一种缘分呢。A4小队的大家都在成长，我也不能落下。博士，体检报告显示，过去一年里，我的身体健康了很多哦。"
+        },
+        {
+          "language": "日文",
+          "content": "私がロドスに来たのは、ここしか採用してくれなかったからですが、今になってみると、これも一種の縁ですよね。A4はみんな成長しているので、私も負けてはいられません。ドクター、健診の結果によると、この一年で私もずいぶんと健康になりましたよ。"
+        },
+        {
+          "language": "英文",
+          "content": "I only came to Rhodes Island at first because no other place would accept my resume. It seems more like a kind of destiny now. All of A4 are maturing, and I can't fall behind, Doctor. The good news is, test results show my health condition has gotten a lot better over the last year."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드에 오게 된 건 사실 제 이력서를 받아 준 곳이 이곳뿐이었기 때문이에요. 근데 지금 와서 생각해보면 이것도 인연이었네요. 예비 작전팀 A4의 모두는 지금도 꾸준히 성장하고 있고, 저도 뒤처질 수는 없죠. 박사님, 저 건강 검진 결과를 확인해봤는데요, 지난 일 년 동안 많이 건강해졌더라고요!"
         },
         {
           "language": "繁体中文",

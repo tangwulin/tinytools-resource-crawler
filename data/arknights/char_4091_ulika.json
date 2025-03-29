@@ -1,7 +1,10 @@
 {
   "name": "U-Official",
   "charaKey": "char_4091_ulika",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/7/74/%E7%AB%8B%E7%BB%98_U-Official_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/3/39/%E7%AB%8B%E7%BB%98_U-Official_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -691,15 +694,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "新春特別配信！舌で巡る大地、各国の美味しいグルメ――味のインスタントラーメン食レポ会だよ！一番バッターは～、このイェラグのラグー味――ど、同接数下がっちゃった！？冗談だよみんな、いなくならないでー！"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "New Year's Special: Exploring flavor across the lands! Instant noodles inspired by the delicacies of each country! First up is this pack of Kjerag red-braised–– Hey, why's my viewer count dropping?! Don't leave, guys! I was just kidding!"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 특집 방송으로 돌아왔어. 오늘의 주제는 두구 두구 두구, 혀끝으로 만나는 대지! 새해인 만큼 대지 곳곳의 대표 음식…… 맛의 라면 먹방을 해볼 거야! 가장 먼저 소개할 라면은 이 쉐라그식 라구 소스…… 잠깐, 시청자 수가 떨어지고 있잖아!? 농담이야 농담! 나가지 말아 줘!"
         }
       ]
     },
@@ -726,12 +729,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "在多索雷斯的时候，电视台也开年会，可我还是来了罗德岛才知道，原来年会也可以这么放松......嗯？是在对我说话？要我去唱首歌？好呀，不瞒你们说，我的音乐品味其实蛮怀旧的哦。"
+          "content": "祝你生~日~快~乐~！祝今天过生日的朋友们永远幸福！我要稍微提前一点下播啦，大家明天见！"
         },
         {
           "language": "日文",
@@ -744,6 +747,28 @@
         {
           "language": "韩文",
           "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在多索雷斯的时候，电视台也开年会，可我还是来了罗德岛才知道，原来年会也可以这么放松......嗯？是在对我说话？要我去唱首歌？好呀，不瞒你们说，我的音乐品味其实蛮怀旧的哦。"
+        },
+        {
+          "language": "日文",
+          "content": "ドッソレスにいたころ、テレビ局も年会をやってたけど、こんなに気軽なものもあるなんて、ロドスに来てから初めて知ったんですよ……ん？私に話してます？歌を歌ってほしんですか？いいですよ～、実はですね、私の音楽の趣味って結構懐メロ寄りなんです。"
+        },
+        {
+          "language": "英文",
+          "content": "Back in Dossoles, the TV station would throw a year end party, but I never knew these could be so chill until I came to Rhodes Island... Huh? Are you talking to me? You want me to sing? Sure, but let me get this out of the way first– my musical tastes are pretty old-fashioned."
+        },
+        {
+          "language": "韩文",
+          "content": "도솔레스에 있을 때, 방송국에서도 이렇게 파티를 열었었어요. 하지만 로도스 아일랜드처럼 여유로운 분위기는 아니었죠…… 네? 저한테 말씀하시는 건가요? 노래를 불러 달라고요? 좋아요~ 근데, 제 음악 취향이 좀 올드해서, 음 괜찮으시죠?"
         }
       ]
     }

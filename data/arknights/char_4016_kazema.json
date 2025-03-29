@@ -1,7 +1,11 @@
 {
   "name": "风丸",
   "charaKey": "char_4016_kazema",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/8/88/%E7%AB%8B%E7%BB%98_%E9%A3%8E%E4%B8%B8_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/b/b8/%E7%AB%8B%E7%BB%98_%E9%A3%8E%E4%B8%B8_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/f/fd/%E7%AB%8B%E7%BB%98_%E9%A3%8E%E4%B8%B8_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -117,7 +121,7 @@
         },
         {
           "language": "韩文",
-          "content": "밖에서 정보 수집을 할 때, 적절한 복장을 선택하면 여러 가지 번거로움을 줄일 수 있습니다. 예를 들면 지금 이런 옷은 제대로 코디하면, 사회 초년생 빅토리아 학생처럼 보이죠. 다른 코디는… 다음 기회에 보여드리겠습니다."
+          "content": "밖에서 정보 수집을 할 때, 적절한 복장을 선택하면 여러 가지 번거로움을 줄일 수 있습니다. 예를 들면 지금 이런 옷은 제대로 코디하면, 사회 초년생 빅토리아 학생처럼 보이죠. 다른 코디는…… 다음 기회에 보여드리겠습니다."
         },
         {
           "language": "繁体中文",
@@ -325,7 +329,7 @@
         },
         {
           "language": "韩文",
-          "content": "흠… 저도 아직 기술을 연마할 여지가 있군요."
+          "content": "흠…… 저도 아직 기술을 연마할 여지가 있군요."
         },
         {
           "language": "繁体中文",
@@ -915,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "新年あけまして誠におめでとうございます、ドクター。なんだか感慨深いですね、まさか時間を自由に使えるようになるなんて。昔だったらきっとどうしたらいいか分からなかったんでしょうけど、今は時間を使うべき目標がはっきり見えているんですよ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "In the New Year's passage, may I offer my sincere blessings to you, Doctor. Um, no, I was just pondering a little. My time's finally become my own. The old me wouldn't have had the faintest idea how to allocate it. Now, though, I know just what I'm putting my efforts towards."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받으시길 진심으로 기원합니다, 박사님. 앗, 그냥 조금 감회가 깊어서요. 저만의 시간이 생기다니, 예전이라면 어떻게 사용할지 전혀 감이 안 왔겠지만 지금의 전 제가 무얼 위해 노력해야 할지 잘 알고 있답니다."
         },
         {
           "language": "繁体中文",
@@ -958,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "从忍者变成白领，现在又是伪装了身份的情报探查人员，不知道我下一份工作会是什么呢。啊，博士，不是说我要离开罗德岛啦！我是在想，人这一生很多转变都是始料未及，我们都做好眼下的事吧。"
+          "content": "生日快乐，送给您，博士。把这纸花放在枕头底下，明天会变成一朵真正的花哦。就和第一次见面时一样，是虚是实，都在您的手中。"
         },
         {
           "language": "日文",
@@ -976,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "从忍者变成白领，现在又是伪装了身份的情报探查人员，不知道我下一份工作会是什么呢。啊，博士，不是说我要离开罗德岛啦！我是在想，人这一生很多转变都是始料未及，我们都做好眼下的事吧。"
+        },
+        {
+          "language": "日文",
+          "content": "忍者からサラリーマン、そして目下身分を偽って諜報員をしているっと。次の職業は一体何になるんでしょうね。ああ、ロドスを辞めると言ってるわけじゃないですよ！ただふと思ったんです。人生の転機というのは、準備する間もなく突然やってくるものなので、ちゃんと目の前のことと向き合うのは大事ですよね。"
+        },
+        {
+          "language": "英文",
+          "content": "First shinobi, then salarywoman, and now an intelligence reconnaissance officer in disguise, I wonder what my next job will turn out to be. Ah, Doctor, I don't mean I'm leaving Rhodes Island! I'm just thinking, with all the curveballs life will throw at us, we should all tackle the now as best as we can."
+        },
+        {
+          "language": "韩文",
+          "content": "닌자에서 회사원으로, 그리고 이젠 신분을 위장한 정보 첩보원까지, 다음 직업은 무엇일지 궁금합니다. 아, 박사님, 로도스 아일랜드를 떠나겠다는 건 아닙니다! 그저 이런 생각이 들었어요. 인생의 수많은 변화는 예상 밖의 일들이니, 눈앞의 일들에 집중하자고요."
         },
         {
           "language": "繁体中文",

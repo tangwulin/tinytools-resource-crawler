@@ -252,7 +252,7 @@
         },
         {
           "language": "韩文",
-          "content": "잠들… 었었나? 미, 미안하다… 요즘, 순찰 시간이 길어져서 말이야… 아냐, 괜찮다고 말해줘도… 마음 써줘서 고마워……"
+          "content": "잠들…… 었었나? 미, 미안하다…… 요즘, 순찰 시간이 길어져서 말이야…… 아냐, 괜찮다고 말해줘도…… 마음 써줘서 고마워……"
         },
         {
           "language": "繁体中文",
@@ -382,7 +382,7 @@
         },
         {
           "language": "韩文",
-          "content": "임명해줘서 고맙다…… 앞으로도, 내 힘을 적절한 곳에 써줘. 그렇지 않으면…"
+          "content": "임명해줘서 고맙다…… 앞으로도, 내 힘을 적절한 곳에 써줘. 그렇지 않으면……"
         },
         {
           "language": "繁体中文",
@@ -512,7 +512,7 @@
         },
         {
           "language": "韩文",
-          "content": "알겠다."
+          "content": "확인했다."
         },
         {
           "language": "繁体中文",
@@ -798,7 +798,7 @@
         },
         {
           "language": "韩文",
-          "content": "지금 당장… 퇴각한다…"
+          "content": "지금 당장…… 퇴각한다……"
         },
         {
           "language": "繁体中文",
@@ -876,7 +876,7 @@
         },
         {
           "language": "韩文",
-          "content": "저기… 뿔을 만지면… 어… 좀 곤란해…… 간지러워……"
+          "content": "저기…… 뿔을 만지면…… 어…… 좀 곤란해…… 간지러워……"
         },
         {
           "language": "繁体中文",
@@ -920,15 +920,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "新年？些か騒がしく感じるが、森にいた頃には、私たちにもこんなひとときがあったことを思い出すよ……みなで焚き火を囲って唄い、ツルで編んだミサンガを贈り合った……故郷の歌もまだ頭に残っている。ドクター、聴きたいか？"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "New Year's? It's noisy, but I remember days like this back in the forest. We used to sing around the campfire, give each other bracelets weaved from vines... Do you want to hear the songs of my homeland? I've never forgotten them."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해? 조금 시끄럽긴 하지만 전에 숲에 있을 때도 비슷한 날을 보내곤 했었다…… 모닥불 앞에 다 같이 둘러앉아 노래를 부르고, 덩굴로 팔찌를 엮어 서로에게 선물하곤 했지…… 박사도 그때 그 노래를 듣고 싶다고? 그래, 아직 기억하고 있어."
         },
         {
           "language": "繁体中文",
@@ -954,11 +954,37 @@
         },
         {
           "language": "韩文",
-          "content": "음… 박사인가."
+          "content": "음…… 박사인가."
         },
         {
           "language": "繁体中文",
           "content": "嗯？博士啊。"
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "想听我吹奏口琴？可以。博士现在的心情如何？......平静且悠闲......明白了，这首小调叫“绿叶”，请听吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
         }
       ]
     },
@@ -972,15 +998,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "今日はなんとも騒がしい祝いの日だな。私はどこか静かな場所に居ようと思うから、ドクターはメテオリーテたちとでも楽しんでくるといい。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Today will be noisy. I think I'll find a quiet place to hide. Have fun with Meteorite and the others."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "조금 시끄러운 휴일이군, 난 조용한 곳을 찾아봐야겠어. 박사는 메테오라이트 애들이랑 재미있게 보내."
         },
         {
           "language": "繁体中文",

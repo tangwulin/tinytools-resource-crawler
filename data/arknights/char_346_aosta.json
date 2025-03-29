@@ -1,7 +1,11 @@
 {
   "name": "奥斯塔",
   "charaKey": "char_346_aosta",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/5/51/%E7%AB%8B%E7%BB%98_%E5%A5%A5%E6%96%AF%E5%A1%94_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/d/df/%E7%AB%8B%E7%BB%98_%E5%A5%A5%E6%96%AF%E5%A1%94_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/a/aa/%E7%AB%8B%E7%BB%98_%E5%A5%A5%E6%96%AF%E5%A1%94_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -14,6 +18,10 @@
     {
       "language": "韩语",
       "base": "voice_kr/char_346_aosta"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_346_aosta"
     }
   ],
   "voiceList": [
@@ -31,7 +39,7 @@
         },
         {
           "language": "英文",
-          "content": "If you want me to be your assistant, is it okay if I do some craftwork here?"
+          "content": "I can be your assistant, but is it okay if I do some craft work here?"
         },
         {
           "language": "韩文",
@@ -57,7 +65,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctor, if you like excitement, you should probably hang out in Siracusa for a while. You won't enjoy it so much after that."
+          "content": "Doctor, if you like excitement, you should probably stay in Siracusa for a while. You won't enjoy it so much after that."
         },
         {
           "language": "韩文",
@@ -109,7 +117,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctor, are you interested in DIY? See, the three of us actually design and make our weapons and outfits ourselves. You could join us sometime, if you want."
+          "content": "Doctor, are you interested in DIY? See, the three of us actually design and make our own weapons and outfits. You could join us sometime, if you want."
         },
         {
           "language": "韩文",
@@ -135,7 +143,7 @@
         },
         {
           "language": "英文",
-          "content": "I came to realize one thing while I was cleaning up after Chiave's messes: If you want to be really strong, you aren't going to get there with just violence."
+          "content": "After cleaning up Chiave’s messes so many times, I’ve realized something: If you want real power, you’ll need to rely on more than just violence."
         },
         {
           "language": "韩文",
@@ -161,7 +169,7 @@
         },
         {
           "language": "英文",
-          "content": "In Siracusa, most people my age just want to join a family, but there are also a lot of people who want to live an honest life instead. Sometimes, I think those ones are the best of us all."
+          "content": "In Siracusa, most people my age just want to join a famiglia, but there are plenty more who would rather live an honest life instead. Sometimes, I think those are the strongest of us all."
         },
         {
           "language": "韩文",
@@ -187,7 +195,7 @@
         },
         {
           "language": "英文",
-          "content": "(Yawn) ...Sorry, Doctor, I didn't get much sleep last night. Rhodes Island is way too safe. It's taking some time to get used to."
+          "content": "(Yawn) …Oh, sorry, Doctor, I didn't get much sleep last night. Rhodes Island is way too safe. It's taking some time to get used to."
         },
         {
           "language": "韩文",
@@ -239,7 +247,7 @@
         },
         {
           "language": "英文",
-          "content": "To tell you the truth, I wanted to be a public servant when I was a kid. Up until my dad made me pick up a weapon for the first time, that is. I don't hate drifting around with the two of them, but I always felt like there was something I was missing, and I know what it is now. I wanted to become someone as strong-willed as you, Doctor."
+          "content": "To tell you the truth, I wanted to be a public servant when I was a kid. Up until my dad made me pick up a weapon for the first time, that is. I don't mind drifting around with the other two, but I always felt like I was missing something, and I know what it is now. I wanted to become as strong-willed as you are, Doctor."
         },
         {
           "language": "韩文",
@@ -265,7 +273,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctor... you're asleep? Taking it easy, aren't we?"
+          "content": "Doctor... you're asleep? You sure live a comfy life, heh? I'm pretty jealous."
         },
         {
           "language": "韩文",
@@ -317,7 +325,7 @@
         },
         {
           "language": "英文",
-          "content": "...Looks like it's just luck that the three of us only managed to survive this long."
+          "content": "Maybe we're still alive only because of a stroke of luck…"
         },
         {
           "language": "韩文",
@@ -369,7 +377,7 @@
         },
         {
           "language": "英文",
-          "content": "I think I might just be able to live the life I've always wanted at Rhodes Island... Doctor, do I have permission to open a DIY shop here?"
+          "content": "I think I might just be able to live the life I've always wanted at Rhodes Island... Doctor, could I apply to open a DIY shop here?"
         },
         {
           "language": "韩文",
@@ -395,7 +403,7 @@
         },
         {
           "language": "英文",
-          "content": "I hope this isn't going to be too much of a pain in the back."
+          "content": "I hope this isn't going to be too much trouble."
         },
         {
           "language": "韩文",
@@ -525,7 +533,7 @@
         },
         {
           "language": "英文",
-          "content": "Hmm?"
+          "content": "Yes?"
         },
         {
           "language": "韩文",
@@ -551,7 +559,7 @@
         },
         {
           "language": "英文",
-          "content": "Take all of them down?"
+          "content": "Take them all down?"
         },
         {
           "language": "韩文",
@@ -577,7 +585,7 @@
         },
         {
           "language": "英文",
-          "content": "I'll give it a try."
+          "content": "Let me give it a shot."
         },
         {
           "language": "韩文",
@@ -629,7 +637,7 @@
         },
         {
           "language": "英文",
-          "content": "Goodbye."
+          "content": "Farewell."
         },
         {
           "language": "韩文",
@@ -707,7 +715,7 @@
         },
         {
           "language": "英文",
-          "content": "Phew... phew... Doctor, do you enjoy challenging yourself so much?"
+          "content": "Doctor, do you enjoy challenging yourself so much?"
         },
         {
           "language": "韩文",
@@ -785,7 +793,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctor, you go on ahead. I'll clean up the mess here. It's what I'm good at."
+          "content": "Doctor, you go on ahead. I'll clean up the mess here. It's my speciality, after all."
         },
         {
           "language": "韩文",
@@ -811,7 +819,7 @@
         },
         {
           "language": "英文",
-          "content": "I'll just sorta walk around, then."
+          "content": "I'll just walk around, then."
         },
         {
           "language": "韩文",
@@ -863,7 +871,7 @@
         },
         {
           "language": "英文",
-          "content": "How do you do, Doctor."
+          "content": "How are things going, Doctor?"
         },
         {
           "language": "韩文",
@@ -911,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "これまでの年越しと言えば、三人でテーブルを囲み、適当に食べて過ごしていました。まさかこんなに盛大に祝う機会があるなんて、想像もしませんでしたね……ああ、キアーべのことなら安心してください。面倒事を起こさせないように見張っておきますから。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "New Year's used to be the three of us hiding in a small room, scraping together a table of assorted dishes to, at the very least, eat something together. And that's all. I never imagined having such a lavish New Year's celebration as this… Don't worry, Doctor, I'll keep an eye on Chiave and make sure he stays out of trouble."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "여태까지 새해라고 해봤자, 셋이 작은 방에 둘러앉아 적당히 먹는 것뿐이었습니다. 이런 성대한 새해 파티는 처음이에요…… 아아, 키아베는 걱정하지 마세요. 말썽을 일으키진 않는지 제가 잘 감시하고 있으니까요."
         },
         {
           "language": "繁体中文",
@@ -954,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "啊，博士，我接到了不少今晚道具的订单，你发现了吗，现在悬挂的装饰有不少是我做的......没什么，这种热闹的氛围，我并不讨厌。要我帮你也做一些吗？免费，而且保证你会满意。"
+          "content": "博士，生日快乐。我之前还没有给人送过礼物，也不知道博士会喜欢什么......博士有什么想要的东西吗？只要给我一个小时，我现在就可以去给你做一个。"
         },
         {
           "language": "日文",
@@ -972,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "啊，博士，我接到了不少今晚道具的订单，你发现了吗，现在悬挂的装饰有不少是我做的......没什么，这种热闹的氛围，我并不讨厌。要我帮你也做一些吗？免费，而且保证你会满意。"
+        },
+        {
+          "language": "日文",
+          "content": "ああ、ドクターは気づいたんですね。そうです、今艦内のあちこちにかけてある飾り物の一部は僕が作りました。実は今晩使う小道具の注文も結構入りまして……いえ、こういう賑やかな空気は、別に嫌いではありませんから。ドクターにも何か作りましょうか？代金は要りません。満足のいくものを繕いますよ。"
+        },
+        {
+          "language": "英文",
+          "content": "Oh, Doctor, I got a lot of orders for props tonight. Did you notice? A whole lot of the decorations hanging around are my creations… Ah, don't worry, I enjoy this festive atmosphere well enough. Would you like me to make you some too? Free of charge, and I'm sure you'll be pleased with the results."
+        },
+        {
+          "language": "韩文",
+          "content": "앗, 박사님, 오셨어요? 오늘 밤 행사용 소품 주문을 꽤 많이 받았어요. 보셨다고요? 저기 지금 걸려 있는 장식 중에도 제가 만든 게 꽤 된답니다…… 아니에요, 이런 활기찬 분위기 싫어하지 않아요. 박사님께도 몇 개 만들어 드릴까요? 물론 무료죠, 분명 좋아하실 거예요."
         },
         {
           "language": "繁体中文",

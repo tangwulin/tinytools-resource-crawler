@@ -1,7 +1,12 @@
 {
   "name": "煌",
   "charaKey": "char_017_huang",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/3/38/%E7%AB%8B%E7%BB%98_%E7%85%8C_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/4/40/%E7%AB%8B%E7%BB%98_%E7%85%8C_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/9/97/%E7%AB%8B%E7%BB%98_%E7%85%8C_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/e/e6/%E7%AB%8B%E7%BB%98_%E7%85%8C_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -139,7 +144,7 @@
         },
         {
           "language": "英文",
-          "content": "Amiya is one of the most talented fighters I've ever met. She keeps a clear head in any situation, and her Arts are enough to scare even me.  You know, Doctor, I can't help but wonder, how did she get so good at fighting, as young as she is? Honestly, I wish she was picking up joyful, happy experiences, not the combat kind."
+          "content": "Amiya is one of the most talented fighters I've ever met. She keeps a clear head in any situation, and her Arts are enough to scare even me. You know, Doctor, I can't help but wonder, how did she get so good at fighting, as young as she is? Honestly, I wish she was picking up joyful, happy experiences, not the combat kind."
         },
         {
           "language": "韩文",
@@ -287,7 +292,7 @@
       "text": [
         {
           "language": "中文",
-          "content": "罗德岛干员，煌，向你报道。拿着，这是可以直接调遣我的权限认可书，凯尔希医生已经签了名了。好了博士，就让其他小队看看我们的本事吧！"
+          "content": "罗德岛干员，煌，向你报到。拿着，这是可以直接调遣我的权限认可书，凯尔希医生已经签了名了。好了博士，就让其他小队看看我们的本事吧！"
         },
         {
           "language": "日文",
@@ -915,15 +920,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ちょっと通るよっ！――ってドクターじゃない、あけましておめでとう！今このドリンク三ケースを食堂に届けるのと、プロジェクターの運搬の手伝いと……そうだ、あとはいくつかのオフィスの飾り付けも頼まれてるから……片付いたらまた来るね！あっ、あれはアーミヤちゃん！とっ捕まえて身長を測らせなきゃ！"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "'Scuse me!—Oh, hey, Doctor, Happy New Year, one sec, I gotta get all three of these drink crates to the canteen, and then move the movie projector for 'em—ah—and a few offices need decorating... and then I'll come back for you! Hey, Amiya just passed by, I gotta drag her over to get her height measured!"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "좀 지나갈게! ……아, 박사였구나. 새해 복 많이 받아. 일단 이 음료수 세 상자 먼저 식당에 가져다주고, 영사기도 하나 옮겨 준 다음에, 앗, 그러고 보니 사무실 장식도 부탁받았는데…… 아무튼 정리되면 다시 올게! 어, 아미야다. 아미야도 데려다 키 한번 재 봐야 하는데!"
         },
         {
           "language": "繁体中文",
@@ -958,12 +963,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "虽然我没有那种夸张的源石技艺，但看这一年的任务总结，我还是参与了不少硬仗的嘛，也确实救到了很多感染者......担心自己的身体？担心什么，我的体能训练数据一直在上升欸。"
+          "content": "博士，生日快乐，这个大大大蛋糕是给你的！嗯，因为我自己没生日会可开嘛，所以把我想吃的蛋糕送给你了。你还有什么想要的礼物没有？有点难搞到的也没关系，我可以抱着你跑二十公里去买！"
         },
         {
           "language": "日文",
@@ -976,6 +981,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "虽然我没有那种夸张的源石技艺，但看这一年的任务总结，我还是参与了不少硬仗的嘛，也确实救到了很多感染者......担心自己的身体？担心什么，我的体能训练数据一直在上升欸。"
+        },
+        {
+          "language": "日文",
+          "content": "私はそんなにすごいアーツなんて使えないけど、ここ一年の任務を振り返ってみたら、結構キツい戦いには参加したし、感染者だってたくさん救ってきたんだね……自分の身体も心配しろ？何も心配いらないって。フィジカルトレーニングの数値だってどんどん上がってるんだよ！"
+        },
+        {
+          "language": "英文",
+          "content": "I don't have such crazy Arts, but reading this mission summary for the year, I've been in a bunch of tough battles, huh? Sure saved a ton of Infected too... You're worried for my health? Hey, what's to worry about? My stamina training figures are always on the rise."
+        },
+        {
+          "language": "韩文",
+          "content": "비록 대단한 오리지늄 아츠 같은 건 못 쓰지만, 한 해 임무 결산을 보니 그래도 꽤 많은 격전을 치렀었네. 감염자들도 많이 구했고…… 몸 걱정 좀 하라고? 뭘 걱정해, 내 신체 능력 지표는 계속 올라가고 있다고."
         },
         {
           "language": "繁体中文",

@@ -1,7 +1,12 @@
 {
   "name": "莱恩哈特",
   "charaKey": "char_373_lionhd",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/b/bf/%E7%AB%8B%E7%BB%98_%E8%8E%B1%E6%81%A9%E5%93%88%E7%89%B9_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/6/61/%E7%AB%8B%E7%BB%98_%E8%8E%B1%E6%81%A9%E5%93%88%E7%89%B9_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/f/f0/%E7%AB%8B%E7%BB%98_%E8%8E%B1%E6%81%A9%E5%93%88%E7%89%B9_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/6/6f/%E7%AB%8B%E7%BB%98_%E8%8E%B1%E6%81%A9%E5%93%88%E7%89%B9_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -61,7 +66,7 @@
         },
         {
           "language": "英文",
-          "content": "Was that Savage who just passed by in the corridor? She's really something, you know. Back when the Autonomous Prefecture was established, and later when it reached a cooperation agreement with Rim Billiton, her exploits were no less impressive than mine."
+          "content": "Was that Savage who just passed by in the hallway? Back when the autonomous county was established, and later when it reached a cooperation agreement with Rim Billiton, her exploits were no less impressive than mine, you know?"
         },
         {
           "language": "韩文",
@@ -87,7 +92,7 @@
         },
         {
           "language": "英文",
-          "content": "You know, some places have really problematic stereotypes about us Cautuses. Why do they call me timid when I'm just good at avoiding danger? As a matter of fact, only he who's delved deep into danger can be a master of avoiding it. Don't you agree?"
+          "content": "You know, some places have really problematic stereotypes about us Cautus. Why do they call me timid when I'm just good at avoiding danger? As a matter of fact, isn't it more accurate to say that only those who've delved deep into danger can become masters of avoiding it?"
         },
         {
           "language": "韩文",
@@ -139,7 +144,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctor, mate, Rhodes Island doesn't have a dress code, so there's no need for you to wear the same old rags all the time... Take a look over here. See what I'm wearing? I know a store's with some pretty tasteful stuff, so how about I help you pick out a new look?"
+          "content": "Doctor, my buddy, Rhodes Island doesn't have a mandatory dress code, so there's no need for you to wear the same old rags all the time. Look at what I'm wearing - this store's got some pretty tasteful stuff, so how about I help you pick out a new look?"
         },
         {
           "language": "韩文",
@@ -915,15 +920,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "また新しい一年だね。小さい頃はこの年が変わる日を迎えると、船の大人たちが俺たちの頭を撫でながら、「背は伸びたか？」なんて聞いてきたな。俺はあんまり好きじゃなかったけど……えっ？えっ、ええっ？ちょっとドクター、撫でるなって！"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "It's New Year's again. When I was a boy, this day meant one thing: the adults on the ship were coming to pat the heads of the children and ask 'Have you grown taller?' I didn't much care for… Hey! Stop it! Doctor, no patting my head!"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "또 새해가 밝았네. 어렸을 땐 해가 바뀌는 날이 오면 배에 있던 어른들이 '키는 좀 컸냐?' 막 이러면서 우리 머리를 쓰다듬고 그랬는데. 난 별로 좋아하지 않았지만…… 어? 어? 어어? 잠깐, 박사. 쓰다듬지 말라니까!"
         },
         {
           "language": "繁体中文",
@@ -958,12 +963,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "矿船上的前辈说“每艘船都藏着一个故事”，那么罗德岛不可告人——开玩笑啦，别把我当商业间谍啊！不过就算有什么秘密，我也愿意相信博士啦。在需要让我知道的时候，博士也会信任我，对吧！"
+          "content": "博士，生日快乐！看！我专门为你挑选的生日服装。相信我的眼光，穿上这身衣服，你一定会成为全罗德岛的焦点的！上衣太短？裤子太招摇？这是时尚啦！"
         },
         {
           "language": "日文",
@@ -976,6 +981,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "矿船上的前辈说“每艘船都藏着一个故事”，那么罗德岛不可告人——开玩笑啦，别把我当商业间谍啊！不过就算有什么秘密，我也愿意相信博士啦。在需要让我知道的时候，博士也会信任我，对吧！"
+        },
+        {
+          "language": "日文",
+          "content": "採掘船で一緒にいた先輩が「どの船にも秘められた物語がある」って言ってたんだけど、じゃあロドスにも――ハハッ、冗談だよ、俺はビジネススパイなんかじゃないからね！というか、たとえ本当に何かあるとしても、俺はドクターを信じてついてくよ。だって俺が知るべき時が来たら、ドクターも俺を信じて伝えてくれるでしょ？"
+        },
+        {
+          "language": "英文",
+          "content": "The old miners on the ship used to say, 'Every ship hides a story,' and so does Rhodes Island... Haha, just kidding, I'm not here for corporate espionage! But even if you have some secrets, I'm willing to trust you, Doctor. When the time comes for me to know, I'm sure you'll trust me too, right?"
+        },
+        {
+          "language": "韩文",
+          "content": "채굴선에서 함께 지내던 선배가 “어느 채굴선이든 숨겨진 이야기가 있다”라고 했었는데, 그렇다면 로도스 아일랜드에도…… 하하, 농담이야. 내가 무슨 산업 스파이도 아니고! 게다가 혹시라도 정말 무언가가 있다고 해도 난 박사를 믿고 따를 거야. 내가 정말 알아야 할 때가 오면, 박사도 날 믿고 말해 줄 거잖아, 그렇지?"
         },
         {
           "language": "繁体中文",

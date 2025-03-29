@@ -1,7 +1,11 @@
 {
   "name": "洋灰",
   "charaKey": "char_464_cement",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/8/8f/%E7%AB%8B%E7%BB%98_%E6%B4%8B%E7%81%B0_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/9/99/%E7%AB%8B%E7%BB%98_%E6%B4%8B%E7%81%B0_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/0/00/%E7%AB%8B%E7%BB%98_%E6%B4%8B%E7%81%B0_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -779,15 +783,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "毎年この日になると、実家に帰れない労働者たちが採掘場の空き地で野外映画を見るんだよ。スクリーンに映る人が楽しそうにしてるのを眺めてると、みんなもちょっとの間だけ悩みを忘れられるんだ。新しい一日が始まって、新しい一年もやってきたねん。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Every time, around this year, those of us workers that couldn't go back home would gather somewhere free in the quarry for an open-air screening. Seeing how happy the people up on that curtain were, we'd all forget our worries for a while. A whole new day, and a whole new year."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "매년 이맘때면 집에 돌아가지 못하는 노동자들이 광산의 공터에 모여 앉아 영화를 보곤 했었어. 스크린 속 사람들이 즐거워하는 모습을 보면, 다들 잠시나마 고민을 잊을 수 있었지. 새로운 하루, 새로운 한 해가 왔네."
         }
       ]
     },
@@ -814,12 +818,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "再小的一项工程，也可以召集很多工人。可我从没在别的地方同时发现这么多厉害的家伙，罗德岛在做的，到底是一份怎样的事业呢，博士？我很期待，毕竟我也是其中的一分子！"
+          "content": "生日快乐，博士！今天有空吗？工程队又接了一个新的矿场项目，下午开工剪彩，要是你能到场的话，大家一定很开心......结束后我请你吃饭怎么样？"
         },
         {
           "language": "日文",
@@ -832,6 +836,28 @@
         {
           "language": "韩文",
           "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "再小的一项工程，也可以召集很多工人。可我从没在别的地方同时发现这么多厉害的家伙，罗德岛在做的，到底是一份怎样的事业呢，博士？我很期待，毕竟我也是其中的一分子！"
+        },
+        {
+          "language": "日文",
+          "content": "どんなに小さな工事だって、人をたくさん集められるよ。でも、他のとこじゃ、こんなにすごい奴らが一堂に会してるの見たことない。ドクターちゃん、ロドスがやってる仕事って、一体どんなものなんだろう？あたし、めっちゃくちゃ期待してるんだよ。だって、あたしもその中の一員だしね！"
+        },
+        {
+          "language": "英文",
+          "content": "Even the smallest project can call for a lot of workers, but Rhodes Island is the place I've seen so many amazing people gathered in one place. What is it that Rhodes Island is trying to accomplish, Doctor? I'm in on it now, so I can't wait to see for myself!"
+        },
+        {
+          "language": "韩文",
+          "content": "아무리 작은 공사라도, 작업자라면 많이 끌어모을 수 있어. 하지만 이렇게 대단한 사람들이 한자리에 모이는 광경은 정말 처음 봐! 박사, 로도스 아일랜드는 대체 어떤 일을 하고 있는 거야? 사실 나, 엄청 기대돼! 나도 그중 한 명이니까!"
         }
       ]
     }

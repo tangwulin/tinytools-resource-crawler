@@ -1,7 +1,12 @@
 {
   "name": "浊心斯卡蒂",
   "charaKey": "char_1012_skadi2",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/2/26/%E7%AB%8B%E7%BB%98_%E6%B5%8A%E5%BF%83%E6%96%AF%E5%8D%A1%E8%92%82_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/b/b3/%E7%AB%8B%E7%BB%98_%E6%B5%8A%E5%BF%83%E6%96%AF%E5%8D%A1%E8%92%82_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/a/a8/%E7%AB%8B%E7%BB%98_%E6%B5%8A%E5%BF%83%E6%96%AF%E5%8D%A1%E8%92%82_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/7/78/%E7%AB%8B%E7%BB%98_%E6%B5%8A%E5%BF%83%E6%96%AF%E5%8D%A1%E8%92%82_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -26,6 +31,14 @@
     {
       "language": "日语(红女爵)",
       "base": "voice/char_1012_skadi2_iteration__2"
+    },
+    {
+      "language": "韩语(红女爵)",
+      "base": "voice_kr/char_1012_skadi2_iteration__2"
+    },
+    {
+      "language": "英语(红女爵)",
+      "base": "voice_en/char_1012_skadi2_iteration__2"
     }
   ],
   "voiceList": [
@@ -47,7 +60,7 @@
         },
         {
           "language": "韩文",
-          "content": "이런 내가 곁에 있으면 방해가 될까? 엉망진창인 과거가 되살아날까? 당신의… 곁에 있는 걸 허락해 주었으면 해. 때가 되면, 이런 곳에서 같이 도망치자. 어때?"
+          "content": "이런 내가 곁에 있으면 방해가 될까? 엉망진창인 과거가 되살아날까? 당신의…… 곁에 있는 걸 허락해 주었으면 해. 때가 되면, 이런 곳에서 같이 도망치자. 어때?"
         },
         {
           "language": "繁体中文",
@@ -56,6 +69,18 @@
         {
           "language": "中文(红女爵)",
           "content": "我能理解，一些想法用言语表达出来就会失去意义。没事的，只要那念想还在你脑海里回荡，只要你还需要我，我就在你身边，哪里也不会去。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "分かるわ、言葉にすればすっかり色褪せてしまう想いもあるわよね。大丈夫よ、その想いがあなたの中に響いている限り、そしてあなたが私を必要としている限り、私はずっとあなたの側にいる……どこへも行かないから。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "I understand. Some thoughts lose meaning when expressed with words. It's fine. So long as those thoughts echo in your mind, so long as you still need me, I will be here by your side, and nowhere else."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "난 이해할 수 있어. 말로 표현한 순간 색이 바래버리는 생각도 있는 법이니까. 괜찮아. 그 생각이 당신 마음속에서 울려 퍼지는 한, 그리고 당신이 나를 필요로 하는 한, 난 언제나 당신 곁에 있을 거야…… 아무데도 가지 않을게."
         }
       ]
     },
@@ -77,7 +102,7 @@
         },
         {
           "language": "韩文",
-          "content": "바닷물에서 떨어지면 우리 같은 건 살아남지 못할 줄 알았어? 아니야… 나와 내 혈족들은 곧 공기를 헤엄칠 수 있게 될 거야. 그리고 조만간, 아무것도 없는 곳까지 우리의 바다가 될 거야. 우리는… 진화하기만 하면…… 진화를 거듭하기만 하면 돼."
+          "content": "바닷물에서 떨어지면 우리 같은 건 살아남지 못할 줄 알았어? 아니야…… 나와 내 혈족들은 곧 공기를 헤엄칠 수 있게 될 거야. 그리고 조만간, 아무것도 없는 곳까지 우리의 바다가 될 거야. 우리는…… 진화하기만 하면…… 진화를 거듭하기만 하면 돼."
         },
         {
           "language": "繁体中文",
@@ -86,6 +111,18 @@
         {
           "language": "中文(红女爵)",
           "content": "不要在糖霜里翻滚了，你是妖精的榜样，庭院的守护者，我不会再帮你细细擦净鳞片，用丝绸裹着放在云朵上......当然，你可以做任何事。就当我是一厢情愿吧，我想，你会愿意听听我的建议。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "アイシングの上を転げ回るのはやめなさい。あなたは今や妖精の模範となる庭園のガーディアンなのよ。私はもう砂糖まみれになった鱗を一枚一枚綺麗に拭ったり、シルクでくるんで雲の上に寝かせてあげたりはしないから……だけど、もちろんあなたは何をしたって自由。これは私の独りよがりだと思ってくれて構わないけど、あなたなら、きっと聞き入れてくれるわよね。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "No more rolling around in the frosting. You're an example to the fairies, the guardian of the garden. I won't clean you scale by scale, or wrap you in silk and put you in the clouds anymore... Of course, you can do anything you like. This may be my own wishful thinking, but I imagine you'd be willing to hear out my suggestions."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "설탕 위에서 구르는 건 그만둬. 이제 당신은 요정들의 모범이자 정원의 수호자라고. 난 이제 더 이상 설탕투성이가 된 당신 비늘을 하나하나 꼼꼼히 닦고 비단으로 감싸 구름 위에서 재워주지 않을 거야…… 물론, 당신이라면 뭐든 해도 되지만. 이건 그저 나 혼자만의 바람이라고 생각해 줘. 하지만 당신이라면 분명 내 말을 들어주겠지?"
         }
       ]
     },
@@ -107,7 +144,7 @@
         },
         {
           "language": "韩文",
-          "content": "내 예전 동료들은 나를 죽이려고 했어. 그들은 모두, 자기 자신과 마주 보기를 거부했지. 그래도 나는 그들을 책망하지도, 상처 주지도 않을 거야. 설령 그런 식으로 나를 거부해도… 상처를 줘도 말이야. 그때 내가 한 일도 그들에게 상처를 줬겠지. 내 후회는 그들과 함께 죽어갔어."
+          "content": "내 예전 동료들은 나를 죽이려고 했어. 그들은 모두, 자기 자신과 마주 보기를 거부했지. 그래도 나는 그들을 책망하지도, 상처 주지도 않을 거야. 설령 그런 식으로 나를 거부해도…… 상처를 줘도 말이야. 그때 내가 한 일도 그들에게 상처를 줬겠지. 내 후회는 그들과 함께 죽어갔어."
         },
         {
           "language": "繁体中文",
@@ -116,6 +153,18 @@
         {
           "language": "中文(红女爵)",
           "content": "原野的浮土包容着生灵一切渴望，那些可叹的、可鄙的念想，壮丽而美味。那也是你的食粮。它们甜蜜吗？它们酸涩吗？你一定想好怎么和我分享了，对吗？"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "野原の浮島は、生きとし生けるものすべての渇望を受け入れているの。賞賛すべき願望や軽蔑すべき欲望は、どれもうんと壮大で味わい深くて、あなたも喜んで食べてくれるから。その味はとろけるように甘いのかしら？それとも苦くて酸っぱいの？それをどうやって私と分かち合うか……あなたのことだから、きっともう考えてあるのよね？"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "The soil on the plains contain all souls' desires. Those thoughts, regrettable yet magnificent, despicable yet delicious. They are your food to enjoy. Are they sweet? Are they Sour? You must've figured out how to share them with me, right?"
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "들판의 부드러운 흙은 살아있는 모든 존재의 갈망을 포용해. 찬사받을 만한 소망이나 경멸할 만한 욕망도 모두 아름답고 맛이 좋아. 당신도 맛있어할 것 같아. 어때, 달콤해? 아니면 씁쓸할까? 그것들을 어떻게 나와 나눌지…… 당신이라면 분명 이미 생각해두었겠지?"
         }
       ]
     },
@@ -137,7 +186,7 @@
         },
         {
           "language": "韩文",
-          "content": "이 상자? 이 상자에는 내 과거가 가득 차 있어…… 안에 남아 있는 조각들은 다 내 과거야. 산산조각이 난 조각이라도 지금의 내가 텅 비지 않았다는 걸… 내가 환상 따위가 아니라는 걸 증명해 주거든. 조금씩 변화를 거쳐서, 지금의 내가 있는 거니까."
+          "content": "이 상자? 이 상자에는 내 과거가 가득 차 있어…… 안에 남아 있는 조각들은 다 내 과거야. 산산조각이 난 조각이라도 지금의 내가 텅 비지 않았다는 걸…… 내가 환상 따위가 아니라는 걸 증명해 주거든. 조금씩 변화를 거쳐서, 지금의 내가 있는 거니까."
         },
         {
           "language": "繁体中文",
@@ -146,6 +195,18 @@
         {
           "language": "中文(红女爵)",
           "content": "歌唱没有那么困难，只要让声音从喉咙里出来就行，你的渴望会塑造声音的形象，而我将把它编进乐谱里。来试试吧，依你的想法就行，那一定会很有趣的。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "歌うのはそう難しいことじゃないわ。ただ喉を鳴らすだけでいいの。そうすればあなたの渇望が声を形作るから、それを私が楽譜に並べるだけのことよ。さあ、思うがままにやってみなさい。きっと面白い歌ができるわ。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "Singing's not so hard. You only need to let your voice out of your throat. Your desires will shape sound itself, and I will write it into a score. Come, have a try. Sing the way you want. It'll be fun."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "노래하는 건 그렇게 어렵지 않아. 그저 목에서 소리를 내보기만 하면 되는걸. 그러면 당신의 갈망이 목소리의 형상을 만들 거고, 나는 그걸 악보에 정렬하기만 하면 돼. 자 그럼 해볼까? 당신 생각에 목소리를 맡겨봐. 분명 재미있는 노래가 나올 거야."
         }
       ]
     },
@@ -167,7 +228,7 @@
         },
         {
           "language": "韩文",
-          "content": "박사, 예전의 당신은 이런 미래를 상상해 본 적 있어? 지금의 당신이 내게 증오만 느끼고 있다고 해도, 그런 당신의 증오는 아무렇지도 않아, 박사. 당신이 원한다면, 계속해서… 그렇게 미워하면 돼…… 아직 미워할 힘이 남아 있을 때 말이야."
+          "content": "박사, 예전의 당신은 이런 미래를 상상해 본 적 있어? 지금의 당신이 내게 증오만 느끼고 있다고 해도, 그런 당신의 증오는 아무렇지도 않아, 박사. 당신이 원한다면, 계속해서…… 그렇게 미워하면 돼…… 아직 미워할 힘이 남아 있을 때 말이야."
         },
         {
           "language": "繁体中文",
@@ -176,6 +237,18 @@
         {
           "language": "中文(红女爵)",
           "content": "从前的你最爱缠绕在我的手指上，像条巨龙一样吐息，发出稚嫩的叫声。究竟是从什么时候开始，你只是在我头顶盘旋，远远地看着我呢？我不希望要仰着头才能见到你，那样很累。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "昔のあなたは、暇さえあればいつも私の指に絡みついて、巨竜みたいに立派に息をつきながら、あどけない鳴き声を上げていたのに……一体いつから、私の頭の上をぐるぐる回って遠目に見下ろすだけになってしまったの？顔を上げないとあなたの姿が見えないなんて嫌よ、疲れちゃうもの。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "Once in the past, you loved to entwine yourself among my fingers. You breathed like a great dragon, but let out only faint squeaks. Just when did it all change...? Now you only hover above my head, looking at me from afar... I want to see you, without having to look up all the time. That's very tiring."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "예전의 당신은 내 손가락을 감으며 장난치는 걸 좋아했지. 마치 거대한 용처럼 숨을 내뱉으며 앳된 울음소리를 내곤 했는데…… 도대체 언제부터 그저 내 머리 위를 빙빙 돌며 멀리서 내려다보기만 하게 된 걸까? 고개를 들어야만 당신 모습을 볼 수 있다는 건…… 싫어. 그건 너무 힘들거든."
         }
       ]
     },
@@ -197,7 +270,7 @@
         },
         {
           "language": "韩文",
-          "content": "당신의 동료…… 켈시와 아미야는 당신을 마지막까지 믿어도 좋다고 했지만… 결국, 타인을 구할 수 있는 사람은 없어. 나는 내 동료를 구하지 못했고 당신도 그녀들을 구하지 못했지. 우리는 모든 걸 잃었는데, 나만 새로운 생명과 미래를 손에 넣었어. 그런 거, 당신에게는 불공평해."
+          "content": "당신의 동료…… 켈시와 아미야는 당신을 마지막까지 믿어도 좋다고 했지만…… 결국, 타인을 구할 수 있는 사람은 없어. 나는 내 동료를 구하지 못했고 당신도 그녀들을 구하지 못했지. 우리는 모든 걸 잃었는데, 나만 새로운 생명과 미래를 손에 넣었어. 그런 거, 당신에게는 불공평해."
         },
         {
           "language": "繁体中文",
@@ -206,6 +279,18 @@
         {
           "language": "中文(红女爵)",
           "content": "在冲动和渴望之中，我睁开了眼睛。你也是一样的，所以我愿意带着你一起，去释放渴望，去打碎桎梏。可你好像总是有些其他想法......批评？不会的，这就是你与众不同的地方，我很喜欢。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "衝動と渇望の中で私は目を開いた――あなたと同じようにね。だから私はあなたを付き従えながら、渇望を解き放って、束縛を打ち破ろうとしているの。だけどあなたはいつも別のことを考えてばかりみたいね……苦言？違うわ。そういう唯一無二なところが気に入ってるのよ。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "Amidst the sea of impulses and desires, I opened my eyes. You did, too. That's why I'm bringing you with me: to unleash our desires and break these shackles. But it looks like you have other ideas... I'm scolding you? Not at all. This is what makes you different, and I like it."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "나는 충동과 갈망 속에서 눈을 떴어. 그래, 당신처럼. 그래서 나는 당신을 데리고 같이 갈망을 해소하고 억압을 깨부수려고 했지. 그런데 당신은 늘 다른 생각을 마음속에 품고 있는 것 같네…… 나무라는 거냐고? 그럴 리가. 난 당신의 그런 유일무이한 점이 마음에 드는걸."
         }
       ]
     },
@@ -227,7 +312,7 @@
         },
         {
           "language": "韩文",
-          "content": "내가 전에 에기르에 있었을 때, 가족이 살해당했었어. 처음에는 바다에 숨은 괴물 짓인 줄 알았는데…… 설마 범인이 에기르인이었을 줄이야… 내 가족이나 노래는 조금도 무섭지 않아. 정말 무서운 건 인간이지."
+          "content": "내가 전에 에기르에 있었을 때, 가족이 살해당했었어. 처음에는 바다에 숨은 괴물 짓인 줄 알았는데…… 설마 범인이 에기르인이었을 줄이야…… 내 혈족과 나의 노래는 조금도 무섭지 않아. 정말 무서운 건 인간이지."
         },
         {
           "language": "繁体中文",
@@ -236,6 +321,18 @@
         {
           "language": "中文(红女爵)",
           "content": "妖精们吞下了梦，他们就成了梦的模样。瓷盘翻滚奔跑，人偶互相追逐，海花举起乐器，梦境成为现实。你觉得，我也变成一个小妖精的话......我们之间，会不会更近一些？"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "妖精たちは夢を呑み込んで、夢の姿を手に入れたの。パタパタ駆け回るお皿に、追いかけっこをするお人形、それから楽器を掲げる海の花……彼らの夢が現実になったということよ。私も妖精になれば……あなたとの距離を縮められるかしら？"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "The fairies swallowed dreams, and so were shaped like those dreams. Plates roll and tumble across the ground; puppets chase one another;  seaflowers raise their instruments... Dreams become reality itself. If I were to become a little fairy myself, do you think... the distance between us might lessen?"
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "요정들이 꿈을 삼키더니, 꿈의 모습으로 변했어. 이리저리 뛰어다니는 접시와 술래잡기하는 인형, 그리고 악기를 들고 있는 바다의 꽃…… 그들의 꿈은 현실이 됐어. 나도 요정이 된다면…… 당신과 더 가까워질 수 있을까?"
         }
       ]
     },
@@ -266,6 +363,18 @@
         {
           "language": "中文(红女爵)",
           "content": "我在巢穴里找到了一块鳞片，你又要开始蜕鳞了吗？我会唱着歌谣为你揭下丝袍，用温润的水冲刷污秽。你会拒绝我吗？我允诺你一切——偶尔，就这一次，也请你......听一听我的请求。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "巣穴に鱗が一枚落ちていたけど、あなたったらまた脱皮するの？それなら、私が歌声で慰めながらそのシルクドレスを脱がせてあげるわ。綺麗に脱げたら、暖かくて優しいお水で洗い清めてあげるから……まさか嫌なの？あなたにはすべてを許しているけど――たまには……いいえ、今回だけは、お願い……私の言うことを聞いて。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "I found a scale in the nest. Are you starting to shed again? I will sing to you lullabies, take off your gown, and rinse that filth with warm water. Will you... refuse me? I promise you everything... so please, just this once, listen to what I demand."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "둥지에서 비늘 조각을 찾았어. 또 탈피할 때가 된 거야? 그럼 내가 노래를 불러 줄게. 비단옷을 벗겨주고 따뜻한 물속에서 더러움을 씻어내 줄게. 설마 거절할 거야? 당신은 뭐든 해도 되지만, 가끔은…… 아니, 이번 한 번만큼은…… 내 말을 들어줘."
         }
       ]
     },
@@ -287,7 +396,7 @@
         },
         {
           "language": "韩文",
-          "content": "난 병에 걸린 거야? 아니면 꿈을 꾸고 있는 거야? 검은 하늘이 우리의 바다가 되는 꿈을 꿨는데, 다른 사람들과 함께 그 하늘을 향해 떠올라도, 몸이 바다에 잠기지 않았었어. 이상해, 이상하다고. 이게… 내 미래야? 그들의 얼굴은 전부 다 희미하고…… 그들, 그것들은…… 싫어, 싫어……"
+          "content": "난 병에 걸린 거야? 아니면 꿈을 꾸고 있는 거야? 검은 하늘이 우리의 바다가 되는 꿈을 꿨는데, 다른 사람들과 함께 그 하늘을 향해 떠올라도, 몸이 바다에 잠기지 않았었어. 이상해, 이상하다고. 이게…… 내 미래야? 그들의 얼굴은 전부 다 희미하고…… 그들, 그것들은…… 싫어, 싫어……"
         },
         {
           "language": "繁体中文",
@@ -296,6 +405,18 @@
         {
           "language": "中文(红女爵)",
           "content": "妖精们在窃窃私语，他们说，庭院的守护者在边土上徘徊，想要离开原野。那就去吧，想去哪里都可以，去追寻你的天性。带着你的梦，带走我的心。只有这样，我熟悉的那个你才会回到我的指尖。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "妖精たちがささやいていたわ。庭園のガーディアンが辺境をうろうろしながら、この野原を離れたがっていたって。好きにしなさい。自分の本質を追い求めて、どこへでも行くといいわ。あなたの夢を連れて、私の心を携えて……どうぞ行ってらっしゃい。そうしないと、私のよく知るあなたはもうこの指の隙間に戻ってこないでしょうから。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "The fairies are talking amongst themselves. They whisper: the guardian of the garden is lingering in the borderlands, trying to leave the plains. Then go. Go where you like and follow your nature. Bring your dream and my heart with you. Only then, will the you I well-acquainted return to my fingertips."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "요정들이 속삭이고 있어. 정원의 수호자가 변방을 배회하며 이 들판을 떠나고 싶어 한다고. 떠나도 좋아. 당신의 본질을 찾아 어디든 가도 괜찮아. 당신의 꿈과 내 마음을 품고…… 다녀와. 그래야만, 내가 아는 당신이 다시 내 손가락 위로 돌아와 앉을 것 같으니까."
         }
       ]
     },
@@ -326,6 +447,18 @@
         {
           "language": "中文(红女爵)",
           "content": "安眠吧，让我成为你美梦的余韵。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "安らかにおやすみなさい。私を甘美な夢の余韻にして。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "Sleep soundly. I will be the residual melody in your sweet dreams."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "편히 잠들기를. 내가 당신의 꿈속 여운이 되길."
         }
       ]
     },
@@ -356,6 +489,18 @@
         {
           "language": "中文(红女爵)",
           "content": "扬起鳞翼，尽情嘶吼吧。赤红原野没有禁忌，把欢乐与冲动播撒给妖精们，让他们歌唱，与他们欢闹。我在这里等待你的归来。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "鱗翼を広げて、思う存分叫ぶといいわ。深紅の野原に禁忌なんてないの。喜びと衝動を振りまいて、妖精たちを高らかに歌わせたら――心ゆくまで戯れて。私はここで、あなたの帰りを待ってるから。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "Spread your wings and squall to your heart's content. Everything is permitted in these red plains. Spread your joy and excitement to the fairies. Let them sing and frolic with them. I'll be waiting for you here."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "비늘 날개를 펼치고 마음껏 외쳐봐. 검붉은 들판에는 금기 따위 없으니까. 기쁨과 충동을 뿌리고, 요정들이 마음껏 노래하고 즐길 수 있게 해줘…… 나는 여기에서 당신이 돌아오기를 기다릴게."
         }
       ]
     },
@@ -386,6 +531,18 @@
         {
           "language": "中文(红女爵)",
           "content": "画面冰冷又无趣，为什么不品尝鲜活的回忆呢？"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "こんな冷たくてつまらない映像なんかより、新鮮な思い出を味わいたいとは思わないの？"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "This screen is cold and dull. Why don't we instead relish some fresh, living memories?"
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "이런 차갑고 지루한 영상보다는, 신선한 추억을 맛보고 싶지 않아?"
         }
       ]
     },
@@ -416,6 +573,18 @@
         {
           "language": "中文(红女爵)",
           "content": "这里没有事务和责任，自我满足就是最好的奖赏。是啊，我现在就很满足。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "ここじゃ仕事も責任もないから、自己満足が一番のご褒美になるの。ええ、私は今すごく満たされてるわ。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "There are no tasks or duties here. Our own satisfaction is the greatest reward. Indeed, I'm very satisfied now."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "여긴 할 일도, 책임도 없어. 자기만족이 최고의 상이지. 그래, 나는 지금 아주 만족하고 있어."
         }
       ]
     },
@@ -446,6 +615,18 @@
         {
           "language": "中文(红女爵)",
           "content": "斗争是最原始的冲动，抗拒是没有意义的。如果你害怕，我可以带领你前进。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "闘争を欲するのは何よりも原始的な衝動だから、抗ったって何の意味もないのよ。怖いのなら、私があなたを導いてあげるから。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "Fighting is the most primal of instincts, and there's no point in resisting it. If you're frightened, I can guide you forward."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "투쟁은 가장 원초적인 충동이야. 저항은 의미가 없지. 무섭다면 내가 당신을 이끌어줄게."
         }
       ]
     },
@@ -476,6 +657,18 @@
         {
           "language": "中文(红女爵)",
           "content": "我会顺着你的言语，随波逐流......"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "あなたの言葉に沿いながら、波のうねりに身を任せるわ……"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "I will follow your words, and drift along the currents…"
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "당신의 말에 따라, 파도의 너울거림에 몸을 맡길게……"
         }
       ]
     },
@@ -506,6 +699,18 @@
         {
           "language": "中文(红女爵)",
           "content": "你们脑中早就有了答案，为什么还要听从别人的指令？"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "答えなんてとっくに浮かんでいるのに、どうして指示を仰ぐの？"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "You already have the answer in your mind. Why follow the commands of others?"
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "당신들은 답을 알고 있잖아. 왜 남의 명령을 기다리는 거야?"
         }
       ]
     },
@@ -536,6 +741,18 @@
         {
           "language": "中文(红女爵)",
           "content": "看好影子，不要被抢走了。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "影を奪われないよう、しっかり見張っておきなさい。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "Watch your shadow. Don't let it be stolen."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "그림자 잘 지키고 있어. 빼앗기지 말고."
         }
       ]
     },
@@ -566,6 +783,18 @@
         {
           "language": "中文(红女爵)",
           "content": "听呀，那是宴会的铃声。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "ほら、宴の始まりを告げるベルが鳴ったわ。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "Listen. The sound of a banquet."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "어머, 연회의 시작을 알리는 종소리가 울렸어."
         }
       ]
     },
@@ -596,6 +825,18 @@
         {
           "language": "中文(红女爵)",
           "content": "花朵凋谢，花瓣晕红了大地。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "花は枯れ、散り花が大地を深紅に滲ませる。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "Flowers wither, and petals dye the land red."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "꽃은 지고, 흩어진 꽃잎은 대지를 붉게 물들이네."
         }
       ]
     },
@@ -626,6 +867,18 @@
         {
           "language": "中文(红女爵)",
           "content": "让直觉浸染我的名字吧。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "本能に私の名前を染め込んで。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "Let instinct stain my name."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "본능이 내 이름을 물들이게 해줘."
         }
       ]
     },
@@ -656,6 +909,18 @@
         {
           "language": "中文(红女爵)",
           "content": "不要将丝线送上刀尖。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "絹糸を刃先の前に差し出さないで。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "Don't send a thread into a knife's edge."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "비단실을 칼날에 가까이하지 마."
         }
       ]
     },
@@ -686,6 +951,18 @@
         {
           "language": "中文(红女爵)",
           "content": "让我拨动它。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "私が絹糸を弄んであげる。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "Let me stir it."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "내가 비단실을 튕겨 볼게."
         }
       ]
     },
@@ -716,6 +993,18 @@
         {
           "language": "中文(红女爵)",
           "content": "这歌从不停止，直到曲调被谱写......"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "メロディーが書き起こされるまで、この歌は止まらない……"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "This song will never stop, not until the melody is written…"
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "노래는 멈추지 않을 거야, 멜로디가 전부 쓰여질 때까지……"
         }
       ]
     },
@@ -746,6 +1035,18 @@
         {
           "language": "中文(红女爵)",
           "content": "生命的红丝绒垫起了这死钻。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "命の赤いベルベットが、この死の宝石の下に敷かれているの。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "The red velvet of life props up this dead diamond."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "생명의 붉은 벨벳이 이 죽음의 보석 아래 깔려 있네."
         }
       ]
     },
@@ -776,6 +1077,18 @@
         {
           "language": "中文(红女爵)",
           "content": "当你们离开，我将带走遗失的梦。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "あなたたちが消えたら、迷子になった夢はもらっていくわ。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "The moment you leave, I will take these lost dreams away."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "너희가 사라지면, 난 홀로 남겨진 이 꿈을 가져갈게."
         }
       ]
     },
@@ -806,6 +1119,18 @@
         {
           "language": "中文(红女爵)",
           "content": "正是你们的决心，染红了我的长裙。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "あなたたちの決意が、このドレスを赤く染め上げたの。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "It was your determination that dyed my dress red."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "너희의 결심이 내 드레스를 붉게 물들인 거야."
         }
       ]
     },
@@ -836,6 +1161,18 @@
         {
           "language": "中文(红女爵)",
           "content": "相信直觉，胜利就不远了，你运用得很好。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "直感を信じて従えば、すぐ勝利に手が届くわ。よくやったわね。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "When you trust your instincts, victory is never far off. You use them well."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "직감을 믿고 따르면, 승리에 금방 다다를 수 있어. 잘했어."
         }
       ]
     },
@@ -866,6 +1203,18 @@
         {
           "language": "中文(红女爵)",
           "content": "斗争并不复杂，你做得很不错，想要什么奖励都可以哦。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "争いは単純なものだけど、今のは上手だったわ。ご褒美はなんでも好きなものを言ってちょうだい。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "Fighting isn't complicated. You did well. You may have whatever reward you desire."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "싸움은 복잡한 게 아니야. 잘하고 있어. 어떤 보상을 원해? 내가 다 들어줄게."
         }
       ]
     },
@@ -896,6 +1245,18 @@
         {
           "language": "中文(红女爵)",
           "content": "你忽略了他们？看来他们并不重要。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "見逃したの？どうでもいい相手だったということかしら。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "You missed them? They must not be important."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "저들을 풀어주려고? 별로 중요한 상대는 아닌가 보네."
         }
       ]
     },
@@ -926,6 +1287,18 @@
         {
           "language": "中文(红女爵)",
           "content": "随我走吧，一起活下来。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "付いてきて、一緒に生き延びるの。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "Come with me. We will live on, together."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "나와 함께 가자. 같이 살아남는 거야."
         }
       ]
     },
@@ -956,6 +1329,18 @@
         {
           "language": "中文(红女爵)",
           "content": "让妖精们装修一下，我们过会儿再回来。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "飾り付けは妖精たちに任せておいて、あとでまた来ましょう。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "Let the fairies redecorate. We'll come back later."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "꾸미는 건 요정들에게 맡기고, 우리는 이따가 다시 오자."
         }
       ]
     },
@@ -986,6 +1371,18 @@
         {
           "language": "中文(红女爵)",
           "content": "哼哼......"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "ふふ……"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "Hehe…"
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "후후……"
         }
       ]
     },
@@ -1016,6 +1413,18 @@
         {
           "language": "中文(红女爵)",
           "content": "看着我的眼睛，说出你想到的第一个词。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "私の目を見つめて、最初に浮かんだ言葉を言ってみて。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "Look into my eyes, and tell me the first word that comes to mind."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "내 눈을 보고 가장 먼저 떠오른 단어를 말해 봐."
         }
       ]
     },
@@ -1046,6 +1455,18 @@
         {
           "language": "中文(红女爵)",
           "content": "明日方舟。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "アークナイツ。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "Arknights."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "명일방주."
         }
       ]
     },
@@ -1059,15 +1480,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "この日を覚えているわ……でも、時間なんてもう意味を持たないの。海に空、そして全ての命、どれも、もう変わることはないの……"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "I still remember this day... but time has no more significance at this point. The sea and sky, and all life, will never change anymore..."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "이날을…… 아직 기억하고 있어. 하지만 더 이상 시간에는 의미가 없어. 바다와 하늘, 그리고 모든 생명까지, 이젠 변하지 않을 테니까……"
         },
         {
           "language": "繁体中文",
@@ -1076,6 +1497,18 @@
         {
           "language": "中文(红女爵)",
           "content": "这是人世间用以庆祝历法更迭的节日，你也去玩吧，在烟火中游动一定很有意思。对了，记得留一株火花，我想把它栽在庭院里。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "今日は人間が暦の変わり目を祝う祭日だから、あなたも遊んできたらどう。花火の中を泳ぎ回るのはきっと楽しいわよ。そうだ、火花を一株取っておいてちょうだい。庭園に植えたいの。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "This is a holiday where humans celebrate their calendar cycle starting anew. You should go enjoy yourself. It must be very fun to swim among fireworks. Oh, and remember to save me a spark. I'll plant it in the garden."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "오늘은 사람들이 달력의 변화를 축하하는 명절이지? 당신도 놀다 와. 불꽃 속을 헤엄치듯 돌아다니는 것도 분명 재미있을 거야. 맞다, 내게 불꽃 하나 가져다줄래? 정원에 심어 두고 싶어."
         }
       ]
     },
@@ -1106,16 +1539,28 @@
         {
           "language": "中文(红女爵)",
           "content": "今天又想飞去哪里？"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "今日はどこに飛んでいくつもり？"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "Where are you flying off to today?"
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "오늘은 어디로 날아갈 생각이야?"
         }
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "博士，离开吧。这片废墟里什么都没有了。熟悉的一切都消失了，记忆还依然在刺痛你我......博士，你厌恶我的话语？可我们都失去了所有的家人......你愿意成为现在的我的家人吗？"
+          "content": "生命诞生的喜悦，我可以感受到......可是，我该如何将这份喜悦分享给您呢......博士，不要离我太远。我们可以一起，拥抱新的生命......"
         },
         {
           "language": "日文",
@@ -1135,7 +1580,61 @@
         },
         {
           "language": "中文(红女爵)",
+          "content": "一般的糕点满足不了你的渴望吧，或许我们能挑选些新点子。唔......糖霜银河？巧克力山？还是蜜饯森林？......你仍想要人类的糕点？......那好吧......"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": ""
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": ""
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，离开吧。这片废墟里什么都没有了。熟悉的一切都消失了，记忆还依然在刺痛你我......博士，你厌恶我的话语？可我们都失去了所有的家人......你愿意成为现在的我的家人吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、ここを離れましょう。この廃墟にはもうなんにもないの。慣れ親しんだものは何もかも消え去ってしまったのに、記憶だけがまだ私たちを苛むの……こんな言葉はもう聞きたくない？でもあなたも私も全ての家族を失ったわ……ドクター、今の私の家族になってくれる？"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, leave. There's nothing left in these ruins. Everything familiar has vanished. The memories still sting us... Doctor, do you hate what I say? But we've both lost our families, all of them... Would you become family with me, as I am now?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 여기를 떠나자. 이 폐허 속에는 이제 아무것도 남아 있지 않아. 익숙한 모든 것이 사라졌고, 기억은 여전히 우리를 아프게 할 뿐이야…… 박사, 그런 말은 더 이상 듣고 싶지 않다고? 하지만 우리는 둘 다 모든 가족을 잃었잖아…… 박사, 지금의 나와 가족이 되어 줄래?"
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        },
+        {
+          "language": "中文(红女爵)",
           "content": "你的鳞翼更厚实了，鳞片也很坚韧，不知道你蜕去这件衣袍后会变成什么样子。唉，如果时间能宽恕我的随性，新生的你就能早些回到我身边了。"
+        },
+        {
+          "language": "日文(红女爵)",
+          "content": "随分逞しい翼になって、鱗も硬くなってきたわね。そのコートを脱皮したら、あなたは一体どんな姿を見せてくれるのかしら。ああ……時間が私のわがままを許してくれるのなら、すぐに生まれ変わったあなたに会えるのにね。"
+        },
+        {
+          "language": "英文(红女爵)",
+          "content": "Your wings have gotten stronger, and your scales are tougher now. I wonder how you'll look once you shed that robe. If only I could bend time to my will, the new, reborn you would be back at my side so much sooner."
+        },
+        {
+          "language": "韩文(红女爵)",
+          "content": "당신의 지느러미는 두꺼워지고 비늘도 더 단단해졌네. 당신이 이 비단옷을 벗어던지면 과연 어떤 모습일까. 아아…… 시간이 내 고집을 허락해 준다면, 새로 태어난 당신을 더 빨리 볼 수 있을 텐데."
         }
       ]
     }

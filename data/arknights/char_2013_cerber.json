@@ -1,7 +1,12 @@
 {
   "name": "刻俄柏",
   "charaKey": "char_2013_cerber",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/3/3d/%E7%AB%8B%E7%BB%98_%E5%88%BB%E4%BF%84%E6%9F%8F_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/6/6d/%E7%AB%8B%E7%BB%98_%E5%88%BB%E4%BF%84%E6%9F%8F_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/f/f3/%E7%AB%8B%E7%BB%98_%E5%88%BB%E4%BF%84%E6%9F%8F_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/d/d4/%E7%AB%8B%E7%BB%98_%E5%88%BB%E4%BF%84%E6%9F%8F_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -915,15 +920,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "今日ってお祝いの日なの？おいらは休んでいいってこと？じゃ、今日はずっとここにいる！ヴァルカンお姉ちゃんがね、ケーちゃんの形したはちみつクッキーをたくさん焼いてくれたから、みんな持ってきたよ。ドクター、早く食べて！じゃないと、おいらがぜーんぶ食べちゃうよ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Today a holiday? Does that mean I don't need to do anything? Then I wanna stay here the whole day! Vulcan baked a lotta Kay-shaped honey biscuits, and I brought them with me. Hm! Doctor, eat up! Or I'll eat them all!"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "오늘 축제야? 그럼 일 안 해도 되는 거지? 그럼 난 오늘 하루 종일 여기 있을래! 벌컨 언니가 케오 모양의 벌꿀 쿠키를 잔뜩 구워 줬는데, 내가 전부 가져왔어. 박사도 빨리 먹어! 안 그럼 내가 전부 먹어 버릴 거니까."
         },
         {
           "language": "繁体中文",
@@ -958,12 +963,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "以前我经常一年四季都吃不饱，能安安稳稳睡一觉都要谢天谢地啦，现在天天都有温暖的被窝，我已经很满足了。嗯，如果我的房间里也能有博士这儿这么多零食就更好了。"
+          "content": "今天是博士的生日，这个就是博士的蛋糕，我是不能先吃的，我是不能先吃的！上面有很多水果，还有奶油，还有果酱，博士，你什么时候吹蜡烛呀？他们说吹完蜡烛就是吃蛋糕的时候了！"
         },
         {
           "language": "日文",
@@ -976,6 +981,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "以前我经常一年四季都吃不饱，能安安稳稳睡一觉都要谢天谢地啦，现在天天都有温暖的被窝，我已经很满足了。嗯，如果我的房间里也能有博士这儿这么多零食就更好了。"
+        },
+        {
+          "language": "日文",
+          "content": "前はいっつも腹ぺこで、ゆっくり寝れるだけでも幸せだったんだ。でも今は毎日あったかいお布団が待ってるから、おいらは大満足だよ！うーん、ドクターのとこみたいに、おいらの巣にもおやつがいっぱいあればもっと嬉しいな。"
+        },
+        {
+          "language": "英文",
+          "content": "I used to go hungry all year round, and I was really happy when I could just sleep safe and sound. Now I have a warm bed every day, so I'm happy. Oh, and it would be even nicer if my room could have all these snacks like yours does, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "예전엔 항상 배고팠어. 그래서 편히 잠잘 수만 있어도 행복했지. 근데 지금은 매일매일 따뜻한 둥지에서 잠들 수 있어서 엄청엄청 행복해. 으음, 내 방에도 박사 방처럼 간식을 잔뜩 쌓아둘 수 있으면 더 좋을 텐데."
         },
         {
           "language": "繁体中文",

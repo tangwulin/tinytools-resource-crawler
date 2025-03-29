@@ -1,7 +1,12 @@
 {
   "name": "史尔特尔",
   "charaKey": "char_350_surtr",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/0/0c/%E7%AB%8B%E7%BB%98_%E5%8F%B2%E5%B0%94%E7%89%B9%E5%B0%94_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/2/2e/%E7%AB%8B%E7%BB%98_%E5%8F%B2%E5%B0%94%E7%89%B9%E5%B0%94_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/a/af/%E7%AB%8B%E7%BB%98_%E5%8F%B2%E5%B0%94%E7%89%B9%E5%B0%94_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/6/69/%E7%AB%8B%E7%BB%98_%E5%8F%B2%E5%B0%94%E7%89%B9%E5%B0%94_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -911,15 +916,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "この日になると、いつもイライラする。また一年が過ぎて、失くした記憶もどんどん手の届かないものになっていく……ふん、もう考えるのはやめだ。ねえ、甲板を散歩するからちょっと付き合って。冷たい風に当たってみれば、頭も冷やせるかもしれない。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "TBU"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "하루하루가 자꾸 짜증이 나려 하네. 시간은 계속 흘러가고, 난 전의 기억들과 점점 멀어지고…… 쳇, 생각 그만할래. 저기, 나랑 갑판에서 같이 걷자. 찬 바람이라도 쐬면 기분이 가라앉을지도 모르니까."
         },
         {
           "language": "繁体中文",
@@ -954,12 +959,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "我暂时还没有办法找回过去的自己，但是找寻的过程也塑造了现在的自己。在罗德岛待过的这些日子，也是其中重要的一部分。博士，接下来我们还有很长一段时间要共处，尽管相信我的剑吧。"
+          "content": "生日快乐。作为失忆的人居然还记得自己的生日，说明这个日子一定发生过很重要的事吧......嗯，我记住你的生日了，这次绝不会忘的。"
         },
         {
           "language": "日文",
@@ -972,6 +977,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我暂时还没有办法找回过去的自己，但是找寻的过程也塑造了现在的自己。在罗德岛待过的这些日子，也是其中重要的一部分。博士，接下来我们还有很长一段时间要共处，尽管相信我的剑吧。"
+        },
+        {
+          "language": "日文",
+          "content": "今はまだ昔の自分を確実に取り戻す方法はないけど、それを探す過程は今の私を作り上げた。ロドスで過ごした日々も、その中の大事な一部だ。ドクター、これからも長い間一緒にいることになる。私の剣を頼っていいよ。"
+        },
+        {
+          "language": "英文",
+          "content": "TBU"
+        },
+        {
+          "language": "韩文",
+          "content": "아직까지는 과거의 날 되찾을 방법을 찾지 못했어. 하지만 찾는 과정에 지금의 내가 만들어졌지. 로도스 아일랜드에서 지낸 나날들도 중요한 부분이야. 박사, 앞으로 오랜 시간 함께 해야 하니, 내 검을 믿도록 해."
         },
         {
           "language": "繁体中文",

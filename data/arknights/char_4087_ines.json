@@ -1,7 +1,11 @@
 {
   "name": "伊内丝",
   "charaKey": "char_4087_ines",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/0/07/%E7%AB%8B%E7%BB%98_%E4%BC%8A%E5%86%85%E4%B8%9D_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/3/35/%E7%AB%8B%E7%BB%98_%E4%BC%8A%E5%86%85%E4%B8%9D_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/2/2c/%E7%AB%8B%E7%BB%98_%E4%BC%8A%E5%86%85%E4%B8%9D_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -779,15 +783,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "……新年のパーティ？決まった日に集まるなんて、敵に奇襲のチャンスを与えてるようなものじゃない。私は……いいわ、ヘドリーに私も行くって伝えて。Wがバカをしないように見張らないといけないから。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "...A New Year's gathering? Choosing a specific day to get together is basically begging the enemy to ambush you. I... Well, whatever. Tell Hoederer I'm going. I have to keep an eye on W, in case she decides to do something stupid again."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "……신년 파티? 특정한 날에 함께 모이는 건, 적에게 기습할 기회를 주는 거나 마찬가지야. 나는…… 아니다, 외드레르한테 나도 간다고 전해 줘. W가 또 무슨 바보짓을 하지 않도록 감시해야 하거든."
         }
       ]
     },
@@ -814,12 +818,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "你们竟然能把这么多形形色色的地雷绑在一起，还能勉勉强强地保持平衡，不让它们被引爆。在这一点上，我不得不由衷佩服。罗德岛远比我所知道的任何佣兵队伍更疯狂。"
+          "content": "对雇佣兵来说，年纪的增长可不是什么好事。伤病累积，价值下降。非要说有什么值得庆贺的话，我们该欢庆过去一年的胜利，是那些胜仗让我们活了下来。"
         },
         {
           "language": "日文",
@@ -832,6 +836,28 @@
         {
           "language": "韩文",
           "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你们竟然能把这么多形形色色的地雷绑在一起，还能勉勉强强地保持平衡，不让它们被引爆。在这一点上，我不得不由衷佩服。罗德岛远比我所知道的任何佣兵队伍更疯狂。"
+        },
+        {
+          "language": "日文",
+          "content": "あなたたちときたら、こんなバリエーション豊富な地雷を一緒くたにして、それでもなんとか爆発しないようにバランスを保ってられるなんてね。それに関しては、本当に敬意を抱かざるを得ないわ。ロドスは私の知るどの傭兵組織よりもイカレてるわね。"
+        },
+        {
+          "language": "英文",
+          "content": "You've tied so many different kinds of landmines together, and you can barely keep them from exploding. Now that's something I have to hand to you. Rhodes Island is a whole lot crazier than any band of mercs I've ever known."
+        },
+        {
+          "language": "韩文",
+          "content": "이렇게 형형색색 다양한 지뢰를 한 데 모아놓고도 폭발하지 않게 균형을 맞춰둘 수 있다니. 정말 경의를 표하지 않을 수가 없네. 역시 로도스 아일랜드는 내가 아는 그 어떤 용병 조직보다도 더 미친 집단이야."
         }
       ]
     }

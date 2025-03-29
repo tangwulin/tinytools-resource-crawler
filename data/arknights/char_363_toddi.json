@@ -1,7 +1,10 @@
 {
   "name": "熔泉",
   "charaKey": "char_363_toddi",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/1/14/%E7%AB%8B%E7%BB%98_%E7%86%94%E6%B3%89_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/b/b9/%E7%AB%8B%E7%BB%98_%E7%86%94%E6%B3%89_2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -10,6 +13,10 @@
     {
       "language": "中文-普通话",
       "base": "voice_cn/char_363_toddi"
+    },
+    {
+      "language": "韩语",
+      "base": "voice_kr/char_363_toddi"
     }
   ],
   "voiceList": [
@@ -27,7 +34,7 @@
         },
         {
           "language": "英文",
-          "content": "Just let 'em burn. You weren't gonna give those papers a second look anyway."
+          "content": "Let's just burn 'em. You weren't gonna give those papers a second look anyway."
         },
         {
           "language": "韩文",
@@ -53,7 +60,7 @@
         },
         {
           "language": "英文",
-          "content": "If you wanted me to lay defenses in here, I'd break up the floor for starters. Not that I mind, it's up to you to think about it."
+          "content": "If you wanted me to lay defenses in here, I'd break up the floor for starters. Not that I mind, it's for you to think about."
         },
         {
           "language": "韩文",
@@ -79,11 +86,11 @@
         },
         {
           "language": "英文",
-          "content": "You've got people from Royal Guard knocking about too? Heh—ain't that interesting."
+          "content": "Got twps from Royal Guard knocking about, have you? Heh, ain't that interesting."
         },
         {
           "language": "韩文",
-          "content": "여기에는 로열 가드 스쿨 출신이 더 있구나. 흠~ 좀 재밌을 것 같네."
+          "content": "여기에는 로열 가드 스쿨 출신도 있었구나. 흠~ 좀 재밌을 것 같네."
         },
         {
           "language": "繁体中文",
@@ -105,11 +112,11 @@
         },
         {
           "language": "英文",
-          "content": "Calibrate the sight? Nah, the stuff I ordered last should be here almost, I'll make the arrows first... Push off! Out my way!"
+          "content": "Calibrate the sight? Nah, materials I ordered last should be here almost, I'll make the arrows first... Oh, push off, out my way."
         },
         {
           "language": "韩文",
-          "content": "조준기 조정을 좀 할까…… 아니, 전에 부탁했던 재료도 슬슬 올 테니까 역시 먼저 화살을…… 방해되잖아, 저리 가."
+          "content": "조준기 조정을 좀 해둘까…… 아니다. 전에 부탁했던 재료도 슬슬 올 테니까 역시 먼저 화살을…… 방해되잖아, 저리 가."
         },
         {
           "language": "繁体中文",
@@ -131,11 +138,11 @@
         },
         {
           "language": "英文",
-          "content": "Most who leave Vouivre don't agree with the mercenary life in Sargon. Move to Victoria, end up doing something else instead. You know, like... yeah, factory-working, farming. Right. Having their own little touch of land."
+          "content": "Most who leave Vouivre don't agree with the mercenary life in Sargon. Move to Victoria, end up doing something else instead, they do. Like... factory-working, farming, you know. Having their own little touch of land."
         },
         {
           "language": "韩文",
-          "content": "와이번을 떠난 사람들 대부분은 사르곤에서 용병 생활하는 걸 안 좋게 생각해. 빅토리아로 가면 대체로 다른 일을 시작하지. 예를 들면…… 그렇지, 공장을 열거나 농사를 짓거나…… 맞아, 자기 땅을 갖는 거야……"
+          "content": "와이번을 떠난 사람들 대부분은 사르곤에서 용병 생활하는 걸 안 좋게 생각해. 빅토리아로 가면 대부분 일을 시작하지. 예를 들면…… 그렇지, 공장을 열거나 농사를 짓거나…… 맞아, 자기 땅을 갖는 거야……"
         },
         {
           "language": "繁体中文",
@@ -157,11 +164,11 @@
         },
         {
           "language": "英文",
-          "content": "You could probably tell, but I didn't used to be artillery. Recon, infiltration, CQC, mainly learned all that. I know I didn't like it, and the instructors wouldn't let me switch, so I dropped out, simple as. Where's the point in learning things you hate?"
+          "content": "You could probably tell, but I didn't used to be artillery. Mainly studied recon, infiltration, CQC, all that. Did not bloody take to it, and the instructors wouldn't let me switch courses, so I dropped out, simple as. What's the point in learning things you hate?"
         },
         {
           "language": "韩文",
-          "content": "너는 알지도 모르겠지만, 난 예전에는 포병이 아니었어. 정찰, 잠입, 근접 격투…… 주로 배운 건 이런 거였지. 내 취향도 아니고 교관은 전과시켜 주지도 않아서 싹 그만뒀어. 싫은 걸 공부해 봤자 의미 없잖아?"
+          "content": "이미 아는 걸 수도 있는데, 나 예전엔 포병이 아니었어. 정찰, 잠입, 근접 격투…… 주로 배운 건 이런 거였지. 근데 영 내 취향도 아니었고 교관이 병과를 바꿔주기도 않길래 그냥 때려쳤어. 싫은 걸 꾸역꾸역 공부해 봤자 딱히 의미 없잖아?"
         },
         {
           "language": "繁体中文",
@@ -187,7 +194,7 @@
         },
         {
           "language": "韩文",
-          "content": "너 진짜 어이없다. 이런 몰골로 공방에 들어갈 수 있을 리 없잖아?!"
+          "content": "너 진짜 어이없다. 이 꼬라지로 공방에 들어가겠다고?!"
         },
         {
           "language": "繁体中文",
@@ -213,7 +220,7 @@
         },
         {
           "language": "韩文",
-          "content": "이 무기는 말이지, 이동도시를 상대하기 위한 거야. 잡병을 상대로 쓰기는 아깝다니까. 가끔은 도시 한둘 정도로 실력 발휘하게 해 줘."
+          "content": "이 무기는 말이지, 이동도시를 상대하기 위한 거야. 잡병들 상대로 쓰기엔 아깝다니까. 가끔은 도시 한둘 정도로 실력 발휘 좀 하게 해 줘."
         },
         {
           "language": "繁体中文",
@@ -239,7 +246,7 @@
         },
         {
           "language": "韩文",
-          "content": "어깨 근처에 있는 이 결정, 머리색이랑 잘 어울리지 않아? 오프숄더 옷을 좋아하니 마침 잘됐지. 다만, 그 시라쿠사의 전달자처럼 퍼졌으면 더 좋았을 텐데. 아쉽네."
+          "content": "어깨 근처에 있는 이 결정, 머리색이랑 잘 어울리지 않아? 내가 원래 또 옷은 오프숄더로 입는 걸 좋아하거든. 마침 잘됐지 뭐야. 근데 그 시라쿠사 전달자처럼 퍼졌으면 더 좋았을 텐데. 아쉽네."
         },
         {
           "language": "繁体中文",
@@ -265,7 +272,7 @@
         },
         {
           "language": "韩文",
-          "content": "공방으로 돌아가서 재료나 정리할까. 이런 사람이랑 어울린다고 시간 낭비할 필요는 없으니."
+          "content": "공방으로 돌아가서 재료나 정리할까. 이런 사람이랑 어울린다고 시간 낭비할 필요는 없지."
         },
         {
           "language": "繁体中文",
@@ -287,11 +294,11 @@
         },
         {
           "language": "英文",
-          "content": "Arianrot, codename Toddifons. I don't like working for ordinary people. Here's hoping you can show me any signs you're not like them."
+          "content": "Arianrot, codename Toddifons. I don't like working for ordinary people, so I've got my fingers crossed you show me something unusual."
         },
         {
           "language": "韩文",
-          "content": "나는 아리안로트, 코드네임은 토디폰스. 나, 평범한 사람 밑에서 일하는 게 싫거든. 네가 그런 녀석들과 다르단 걸 제대로 보여 준다면 괜찮겠지만."
+          "content": "나는 아리안로트야. 코드네임은 토디폰스고. 나, 평범한 사람 밑에서 일하는 게 싫거든. 네가 그런 녀석들과 다르단 걸 제대로 보여 준다면 괜찮겠지만."
         },
         {
           "language": "繁体中文",
@@ -317,7 +324,7 @@
         },
         {
           "language": "韩文",
-          "content": "시시해. 이만 가볼게."
+          "content": "시시해. 나 간다."
         },
         {
           "language": "繁体中文",
@@ -339,11 +346,11 @@
         },
         {
           "language": "英文",
-          "content": "What goes on in those Logistics' minds, cleaning up my side projects... tch. Fine, I accept. Your feelings are loud and clear. See you."
+          "content": "What goes on in those Logistics' minds? Oh, look what Arianrot made, let's just grab it and... For me? Tch, fine. I accept. Your feelings are loud and clear. Thanks, see you."
         },
         {
           "language": "韩文",
-          "content": "지원부 녀석들 뭔 생각을 하는 거지, 왜 내가 틈틈이 만든 걸…… 쳇, 됐어. 받아 둘게. 네 마음은 알았다고 치고. 그럼 안녕."
+          "content": "지원부 녀석들 대체 뭔 생각을 하는 거지, 왜 내가 틈틈이 만든 걸…… 쳇, 됐어. 받아 둘게. 네 마음은 알았다고 치고. 그럼 가볼게."
         },
         {
           "language": "繁体中文",
@@ -365,7 +372,7 @@
         },
         {
           "language": "英文",
-          "content": "You have to have seen a Draco's flames before. Ever imagined how it'd be to rain them down on the enemy? I... can make that your reality!"
+          "content": "You've seen a Draco's flames before, I bet you anything. You ever imagined, the sight of them raining down on your enemy? <i>I</i> can make that your reality!"
         },
         {
           "language": "韩文",
@@ -447,7 +454,7 @@
         },
         {
           "language": "韩文",
-          "content": "너희는 먼저 가. 준비하고 싶은 게 좀 있어."
+          "content": "너희는 먼저 가. 난 준비하고 싶은 게 좀 있으니까."
         },
         {
           "language": "繁体中文",
@@ -473,7 +480,7 @@
         },
         {
           "language": "韩文",
-          "content": "시계 양호. 명령 대기 중."
+          "content": "시야 양호. 명령 대기 중."
         },
         {
           "language": "繁体中文",
@@ -521,7 +528,7 @@
         },
         {
           "language": "英文",
-          "content": "Yeah?"
+          "content": "Iawn?"
         },
         {
           "language": "韩文",
@@ -603,7 +610,7 @@
         },
         {
           "language": "韩文",
-          "content": "눈으로 확인은 안 해. 지도를 내놔."
+          "content": "눈으로 확인할 필요 없잖아. 지도를 달라고, 지도를."
         },
         {
           "language": "繁体中文",
@@ -651,7 +658,7 @@
         },
         {
           "language": "英文",
-          "content": "Nothing remains after it rains arrows!"
+          "content": "Nothing remains once the arrows rain!"
         },
         {
           "language": "韩文",
@@ -677,7 +684,7 @@
         },
         {
           "language": "英文",
-          "content": "Hah! Why would fire go out before burning everything up?"
+          "content": "Ha! Fire wouldn't go out while there's something left to burn!"
         },
         {
           "language": "韩文",
@@ -703,11 +710,11 @@
         },
         {
           "language": "英文",
-          "content": "Not that many people can make this thing shine—I guess you're one of them."
+          "content": "There's only so many who can make this thing shine—guess you're one of them."
         },
         {
           "language": "韩文",
-          "content": "이 무기의 힘을 제대로 끌어낼 수 있는 인간은 그렇게 많지 않아. 너는 그런 것 같지만."
+          "content": "이 무기의 힘을 제대로 끌어낼 수 있는 인간은 그렇게 많지 않아. 너는 그게 되는 것 같지만."
         },
         {
           "language": "繁体中文",
@@ -729,7 +736,7 @@
         },
         {
           "language": "英文",
-          "content": "Out without too much ash on me. Good."
+          "content": "Out without too much ash on me. Gwych."
         },
         {
           "language": "韩文",
@@ -759,7 +766,7 @@
         },
         {
           "language": "韩文",
-          "content": "그 녀석들보다 탄약이 더 소중해. 스스로 알아서 하라고."
+          "content": "저 녀석들보다 탄약이 더 소중해. 스스로 알아서 하라고."
         },
         {
           "language": "繁体中文",
@@ -807,11 +814,11 @@
         },
         {
           "language": "英文",
-          "content": "Like this titchy bit of space is enough? Let's break this wall down and I'll have the whole area behind, thanks."
+          "content": "Like this titchy bit of space is enough? Let's break this wall down and I'll have the whole area behind, Diolch."
         },
         {
           "language": "韩文",
-          "content": "이 정도 공간으로는 부족해. 여기 벽을 부수고 안쪽 공간도 다 줘."
+          "content": "이 정도 공간으로는 부족하다고. 여기 있는 벽 다 부수고 안쪽 공간도 다 줘."
         },
         {
           "language": "繁体中文",
@@ -837,7 +844,7 @@
         },
         {
           "language": "韩文",
-          "content": "손대기 전에 잘 생각해라."
+          "content": "손대기 전에 생각 잘해라."
         },
         {
           "language": "繁体中文",
@@ -859,11 +866,11 @@
         },
         {
           "language": "英文",
-          "content": "Go on if you need something. No point in waiting for me to switch my contacts."
+          "content": "Go on if you need something. Don't wait for me to change my contacts, I can hear you whatever color they are."
         },
         {
           "language": "韩文",
-          "content": "용건 있으면 말해, 컬러 렌즈 바꿀 때까지 안 기다려도 되니까."
+          "content": "용건 있으면 그냥 말해. 컬러 렌즈 갈아 끼는 거 옆에서 안 기다려도 되니까."
         },
         {
           "language": "繁体中文",
@@ -907,15 +914,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "新年には恒例行事のお祝いがあるって？ああ、知ってる。だからこうやって座って、酒を飲みながら雑誌を開いて、ついでにあんたがぐちぐち言ってるのを聴いてるじゃない。そりゃ楽しいよ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Yeah, New Year's, there's a party, the whole song and dance, I get it. And that's why I'm sitting right here, having a drink with my magazines, while you carry on moaning and whinging. Trust me, that's my happy times."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해에는 늘 축하 행사를 한다면서? 그래, 알아. 그러니까 이렇게 앉아서 술 마시면서 잡지도 보고, 겸사겸사 네가 쫑알대는 걸 옆에서 듣고 있잖아. 즐겁기야 하지, 당연히."
         },
         {
           "language": "繁体中文",
@@ -950,12 +957,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "我说过，矿石病只是次要的。要是不能做自己喜欢的事，活得再久又有什么意思呢？但是在罗德岛上，我总还能做点有趣的事。和你合作的感觉不赖，今后也不许让我失望。"
+          "content": "哦？今天是你的生日啊。要不要把这个攻城弩借给你，去甲板上放一个超大号烟花庆祝一下？太危险了？嘁，真没劲。算了，还是去商场给你挑件正经的礼物吧。快换好衣服，我们现在就出发。"
         },
         {
           "language": "日文",
@@ -968,6 +975,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我说过，矿石病只是次要的。要是不能做自己喜欢的事，活得再久又有什么意思呢？但是在罗德岛上，我总还能做点有趣的事。和你合作的感觉不赖，今后也不许让我失望。"
+        },
+        {
+          "language": "日文",
+          "content": "言ったよね、鉱石病（オリパシー）は二の次なの。自分の好きなこともできないなら、長生きしたって意味ないでしょ？まあでも、ロドスにいれば何かしら面白いことはできる。あんたと仕事するのは悪くないんだ、今後も失望させないでよ？"
+        },
+        {
+          "language": "英文",
+          "content": "Oripathy comes second, I've said that. If I'm not able to do what I like, that's not life no matter how long it drags out. And you know, being here, Rhodes Island, I always get a crack at something interesting. I half like it working with you lot. So don't you ever go letting me down."
+        },
+        {
+          "language": "韩文",
+          "content": "광석병 걸린 게 뭐 대수라고. 좋아하는 일을 하지 못한다면 오래 산들 무슨 의미가 있겠어. 로도스 아일랜드에선 항상 재미있는 일을 할 수 있고, 너랑 같이 일하는 것도 나쁘지 않아. 그러니 앞으로도 날 실망시키지 않았으면 좋겠어."
         },
         {
           "language": "繁体中文",

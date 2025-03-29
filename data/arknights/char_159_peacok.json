@@ -1,7 +1,11 @@
 {
   "name": "断罪者",
   "charaKey": "char_159_peacok",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/e/e2/%E7%AB%8B%E7%BB%98_%E6%96%AD%E7%BD%AA%E8%80%85_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/d/d9/%E7%AB%8B%E7%BB%98_%E6%96%AD%E7%BD%AA%E8%80%85_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/a/ad/%E7%AB%8B%E7%BB%98_%E6%96%AD%E7%BD%AA%E8%80%85_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -169,7 +173,7 @@
         },
         {
           "language": "韩文",
-          "content": "나한테서 흘러넘치는 명화처럼 초자연적인 오오라가 안 느껴진단 말이냐?! 네 이놈, 그 정도론 우리 구제자의 모임에 얼굴을 내밀 자격도 없느니라! 으으으으으… 단! 죄!"
+          "content": "나한테서 흘러넘치는 명화처럼 초자연적인 오오라가 안 느껴진단 말이냐?! 네 이놈, 그 정도론 우리 구제자의 모임에 얼굴을 내밀 자격도 없느니라! 으으으으으…… 단! 죄!"
         },
         {
           "language": "繁体中文",
@@ -191,7 +195,7 @@
         },
         {
           "language": "英文",
-          "content": "I'm actually someone infected with Oripathy, an incurable disease?! Curses... is this my destiny? Is this the fate of all who wield the Conviction Punch? Hey, why are you looking away?! I'm clearly telling you a sad story!"
+          "content": "I'm actually someone infected with Oripathy, an incurable disease?! Curses... is this my destiny? Is this the fate of all who wield the Conviction Punch? Hey, why are you all looking away! I'm clearly telling you a sad story!"
         },
         {
           "language": "韩文",
@@ -347,7 +351,7 @@
         },
         {
           "language": "英文",
-          "content": "Ahaha, a promotion! I can see the day when Conviction's hidden powers roar across the lands!"
+          "content": "Ahaha, a promotion! The day when Conviction's hidden powers are released is not far away!"
         },
         {
           "language": "韩文",
@@ -915,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あ！け！お！め！なのである！ロドスの者どもに最も芸術性に富んだ踊りというものを披露してやるのである。固唾を呑み目を凝らして見届けるがよい！貴様らは我が華麗なる拳法の洗礼を受け、新たな誕生を迎えるのである！"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy! New! Year! I bring Rhodes Island a dance most rich with the fragrance of Art. Enjoy with bated breath! All will receive a baptism by my gorgeous fistwork, and gain life anew!"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해! 복! 많이! 받거라! 이제 로도스 아일랜드를 위해 가장 예술적인 춤을 선사할 테니 숨을 죽이고 감상하도록! 다들 내 화려한 권법의 세례를 받고 새롭게 태어날 터이니!"
         },
         {
           "language": "繁体中文",
@@ -958,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "与不理解艺术的人相比，曲解艺术的人更让人觉得可恶！失望，太失望了！那只企鹅的音乐居然能获得如此多的崇拜者，居然还能获得第一！那场比赛的承办者是谁？断！罪！"
+          "content": "你办公室门口怎么堆满了包装精美的盒子！我已经将它们统统断罪了！快接下我的这份礼物，《狂弹要塞！罗德大兵集结·火爆更新版》！"
         },
         {
           "language": "日文",
@@ -976,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "与不理解艺术的人相比，曲解艺术的人更让人觉得可恶！失望，太失望了！那只企鹅的音乐居然能获得如此多的崇拜者，居然还能获得第一！那场比赛的承办者是谁？断！罪！"
+        },
+        {
+          "language": "日文",
+          "content": "芸術を解せぬ者よりも、芸術を曲解する者の方があんちくしょうなのだ！心の底から失望したのである！あのペンギンの音楽に魅せられ崇拝者に成り下がった者が山ほどおるばかりか、ランキング一位まで獲得してしまうとは何たることか！いったい誰が企画したコンテストなのだ？断！罪！！"
+        },
+        {
+          "language": "英文",
+          "content": "Even beside those who don't understand art, those who misrepresent art are the vilest! The despair, the drowning despair! To think that penguin's music should find so many worshippers—that it should earn Number 1! Who was the contractor for that showdown? I will! Con! Vict!"
+        },
+        {
+          "language": "韩文",
+          "content": "예술을 이해하지 못하는 사람보다 예술을 곡해하는 사람이 더 가증스럽다! 실망, 참으로 실망이구나! 펭귄의 음악에 그렇게 많은 팬덤이 있을 줄이야. 거기다 1등까지 하다니! 그 경기의 주관자는 누구냐? 단! 죄!"
         },
         {
           "language": "繁体中文",

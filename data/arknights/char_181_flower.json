@@ -226,7 +226,7 @@
         },
         {
           "language": "韩文",
-          "content": "요즘 온실에 자주 오네… 어머, 소매에 꽃가루 묻었다. 자, 털어줬어."
+          "content": "요즘 온실에 자주 오네…… 어머, 소매에 꽃가루 묻었다. 자, 털어줬어."
         },
         {
           "language": "繁体中文",
@@ -278,7 +278,7 @@
         },
         {
           "language": "韩文",
-          "content": "어라…… 박사? 라벤더 향이 너무 잘 들었나…"
+          "content": "어라…… 박사? 라벤더 향이 너무 잘 들었나……"
         },
         {
           "language": "繁体中文",
@@ -304,7 +304,7 @@
         },
         {
           "language": "韩文",
-          "content": "만나서 반가워, 박사. 난 퍼퓨머 '레나'라고 해. 어머, 퍼퓨머란 직업… 들어본 적 없어?"
+          "content": "만나서 반가워, 박사. 난 퍼퓨머 '레나'라고 해. 어머, 퍼퓨머란 직업…… 들어본 적 없어?"
         },
         {
           "language": "繁体中文",
@@ -356,7 +356,7 @@
         },
         {
           "language": "韩文",
-          "content": "승진했다고 일부러 알려주러 온 거야? 미안해 박사. 그건 그렇고… 옷깃 비뚤어졌다, 잠깐 실례~"
+          "content": "승진했다고 일부러 알려주러 온 거야? 미안해 박사. 그건 그렇고…… 옷깃 비뚤어졌다, 잠깐 실례~"
         },
         {
           "language": "繁体中文",
@@ -382,7 +382,7 @@
         },
         {
           "language": "韩文",
-          "content": "사실… 그렇게 야만스러운 방식으로 싸우는 건 잘 못 하는데… 그래도 뭐, 박사를 위해 열심히 할게."
+          "content": "사실…… 그렇게 야만스러운 방식으로 싸우는 건 잘 못 하는데…… 그래도 뭐, 박사를 위해 열심히 할게."
         },
         {
           "language": "繁体中文",
@@ -486,7 +486,7 @@
         },
         {
           "language": "韩文",
-          "content": "어떤 싸움이 될까나…"
+          "content": "어떤 싸움이 될까나……"
         },
         {
           "language": "繁体中文",
@@ -798,7 +798,7 @@
         },
         {
           "language": "韩文",
-          "content": "이번엔 아쉽게 됐지만… 이 정도로 포기하진 않을 거야."
+          "content": "이번엔 아쉽게 됐지만…… 이 정도로 포기하진 않을 거야."
         },
         {
           "language": "繁体中文",
@@ -920,15 +920,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あけましておめでとう、ドクターくん。新年の花たちはここにセットする感じでいいかな？この花は四日ほどでしおれちゃうと思うけど、私がいれば四季折々の花たちの香りと彩りで、ドクターくんの部屋を一年中コーディネートしてあげられるわ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy New Year, Doctor. I'll just put all the New Year's plants right here, if you're fine with that? They might only bloom for four days, but so long as I'm around, your office will be filled with color and fragrance no matter the season."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받아 박사. 새해맞이 꽃들은 이쯤에 놔두면 될까? 이 꽃은 나흘 정도면 지겠지만, 내가 있으면 계절마다 꽃향기랑 색깔로 박사 방을 일 년 내내 꾸며줄 수 있을 거야."
         },
         {
           "language": "繁体中文",
@@ -963,12 +963,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "离开家乡固然有许多遗憾，但是如今在罗德岛经营这一小片花园，为大家带来更多美妙的香气，也是可以收获幸福的工作。米诺斯有一句谚语：“当一朵花离开了枝头，它便是在拥抱整片大地。”"
+          "content": "博士，来得正好。我正要去找您呢。快坐下吧，我为您准备了特制的香薰和甜点。请好好放松一下。在今天这个日子里，这片温室的花朵只为您而开放。祝您生日快乐。"
         },
         {
           "language": "日文",
@@ -981,6 +981,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "离开家乡固然有许多遗憾，但是如今在罗德岛经营这一小片花园，为大家带来更多美妙的香气，也是可以收获幸福的工作。米诺斯有一句谚语：“当一朵花离开了枝头，它便是在拥抱整片大地。”"
+        },
+        {
+          "language": "日文",
+          "content": "故郷を離れて名残惜しい気持ちもあったけど、今こうやってロドスで小さな温室を持たせてもらって、みんなに色んな香りを楽しんでもらえるのは、幸せでやりがいのある仕事だと思うわ。ミノスには、「枝先を離れた花は、大地の懐に包まれる」ってことわざがあるの。"
+        },
+        {
+          "language": "英文",
+          "content": "I admit I have had a lot of regrets about leaving home. But now I run this little garden on Rhodes Island. This job has its own blessings, filling everyone's lives with wonderful fragrance. You know, Doctor, there's a saying in Minos: 'When a flower leaves its branch, it is embracing the whole land.'"
+        },
+        {
+          "language": "韩文",
+          "content": "고향을 떠나게 된 건 여전히 아쉬워. 하지만 로도스 아일랜드에서 이런 작은 온실을 가꾸며 많은 이들에게 아름다운 향기를 선사할 수 있는 것도 정말 행복한 일이라고 생각해. 있지, 미노스에는 이런 속담이 있어. “꽃이 가지를 떠날 때, 그 꽃은 온 대지를 품는다.”"
         },
         {
           "language": "繁体中文",

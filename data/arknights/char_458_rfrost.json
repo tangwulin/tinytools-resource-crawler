@@ -1,7 +1,10 @@
 {
   "name": "霜华",
   "charaKey": "char_458_rfrost",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/8/82/%E7%AB%8B%E7%BB%98_%E9%9C%9C%E5%8D%8E_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/d/d8/%E7%AB%8B%E7%BB%98_%E9%9C%9C%E5%8D%8E_2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "联动",
@@ -903,15 +906,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "シェフは必要？"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Need a cook?"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "셰프가 필요하신가요?"
         },
         {
           "language": "繁体中文",

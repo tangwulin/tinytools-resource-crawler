@@ -172,7 +172,7 @@
         },
         {
           "language": "韩文",
-          "content": "황야에서 알게 된 친구들도 점점 이곳으로 모이고 있네…… 이 쓸쓸한 마음도 나아지면 좋겠는데…… 나도…… 모두를 열심히 지킬게."
+          "content": "황야에서 알게 된 친구들도 점점 로도스 아일랜드로 모이고 있네…… 이젠 나도 그렇게 외롭진 않은 것 같아…… 나도…… 열심히 싸워 모두를 지킬게."
         },
         {
           "language": "繁体中文",
@@ -562,7 +562,7 @@
         },
         {
           "language": "韩文",
-          "content": "나라면 많은 적들을 붙잡아둘 수 있어……"
+          "content": "내가 여길 막고 있으면, 많은 적들을 붙잡아둘 수 있을 거야……"
         },
         {
           "language": "繁体中文",
@@ -588,7 +588,7 @@
         },
         {
           "language": "韩文",
-          "content": "적을 겁먹게 하는 거, 할 수 있을까……?"
+          "content": "적을 겁먹게 하는 거, 내가…… 할 수 있겠지……?"
         },
         {
           "language": "繁体中文",
@@ -918,15 +918,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あけましておめでとう、ドクター……私の願いは、その……もっとみんなと上手く話せるようになりたい。できるかな？それと、えっと、もっと友達を作りたいな。いいのかな？私に友達なんて……"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy New Year, Doctor... My wish is to get along better with everyone. Will I be able to do that? And make more friends as well... is that allowed? Having friends..."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받아, 박사…… 나, 소원이 있어. 그게…… 나중에 모두와 더 원활하게 얘기를 나누고 싶은데, 내가 할 수 있을까? 그리고, 그리고 하나 더…… 더 많은 친구를 사귀는 건데, 가능하겠지? 내가 친구를 사귀는 거……"
         },
         {
           "language": "繁体中文",
@@ -961,12 +961,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "我在战斗的时候，会觉得自己也是一个很、很有用的人......您一直都这么觉得？呜，谢谢博士......欸，不只是战斗的时候吗？我......嘉维尔和特米米也这么说过，真的吗？"
+          "content": "博士......我、这是我做的礼物！我头上的小伙伴换毛时掉落了很多软软的羽毛，我用它们做成了小挂饰......您、您要是喜欢就好了......！"
         },
         {
           "language": "日文",
@@ -979,6 +979,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我在战斗的时候，会觉得自己也是一个很、很有用的人......您一直都这么觉得？呜，谢谢博士......欸，不只是战斗的时候吗？我......嘉维尔和特米米也这么说过，真的吗？"
+        },
+        {
+          "language": "日文",
+          "content": "戦いの時は、私みたいな人でも、や、役に立ってるように感じる……ドクターはずっとそう思ってたの？うぅ、ありがとう……えっ、戦いの時だけじゃない？でも……ガヴィルさんとトミミさんもそう言ってたの？本当に？"
+        },
+        {
+          "language": "英文",
+          "content": "Fighting makes me feel useful... You've always thought so? T-Thanks, Doctor... And outside of battle as well? I... Gavial and Tomimi said so too? Am I... dreaming?"
+        },
+        {
+          "language": "韩文",
+          "content": "전투할 때면 나도 쓸, 쓸모 있는 사람이라는 생각이 들어…… 박사도 그렇게 생각한다고? 우웅, 고마워, 박사…… 뭐라고? 전투 중일 때만이 아니라 다른 때도? 그…… 가비알 씨랑 토미미 씨도 그렇게 말했다고? 정말?"
         },
         {
           "language": "繁体中文",

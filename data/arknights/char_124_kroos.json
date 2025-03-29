@@ -68,7 +68,7 @@
         },
         {
           "language": "韩文",
-          "content": "으응…? 슬슬 출발하자고? 이제 막 일어났는데… 그건 그렇고, 여기 박사 방이야? 왜 내가 여기에…?"
+          "content": "으응……? 슬슬 출발하자고? 이제 막 일어났는데…… 그건 그렇고, 여기 박사 방이야? 왜 내가 여기에……?"
         },
         {
           "language": "繁体中文",
@@ -120,7 +120,7 @@
         },
         {
           "language": "韩文",
-          "content": "맨날 덜렁대서 그런지 다치는 일이 많아. 그래도 히비스가 치료해 주니까 안 무서워~ 아, '치유의 요리'만 빼고… 그 요리는 정말 지옥 같은 맛이야…"
+          "content": "맨날 덜렁대서 그런지 다치는 일이 많아. 그래도 히비스가 치료해 주니까 안 무서워~ 아, '치유의 요리'만 빼고…… 그 요리는 정말 지옥 같은 맛이야……"
         },
         {
           "language": "繁体中文",
@@ -198,7 +198,7 @@
         },
         {
           "language": "韩文",
-          "content": "늘 즐거운 일을 찾고 있는 건… 병 때문에 생긴 괴로움을 덜고 싶어서일지도 몰라. 왜냐면 다른 사람들이 즐거워하는 얼굴을 보는 건 기쁜 일이잖아~"
+          "content": "늘 즐거운 일을 찾고 있는 건…… 병 때문에 생긴 괴로움을 덜고 싶어서일지도 몰라. 왜냐면 다른 사람들이 즐거워하는 얼굴을 보는 건 기쁜 일이잖아~"
         },
         {
           "language": "繁体中文",
@@ -250,7 +250,7 @@
         },
         {
           "language": "韩文",
-          "content": "나보다 박사가 더 잘 자고 있을 줄이야…"
+          "content": "나보다 박사가 더 잘 자고 있을 줄이야……"
         },
         {
           "language": "繁体中文",
@@ -354,7 +354,7 @@
         },
         {
           "language": "韩文",
-          "content": "어… 그러니까, 집합 장소가 어디였더라?"
+          "content": "어…… 그러니까, 집합 장소가 어디였더라?"
         },
         {
           "language": "繁体中文",
@@ -432,7 +432,7 @@
         },
         {
           "language": "韩文",
-          "content": "왜… 모두 사이좋게 지낼 수 없는 걸까?"
+          "content": "왜…… 모두 사이좋게 지낼 수 없는 걸까?"
         },
         {
           "language": "繁体中文",
@@ -640,7 +640,7 @@
         },
         {
           "language": "韩文",
-          "content": "후우~ 정말 힘들었어…"
+          "content": "후우~ 정말 힘들었어……"
         },
         {
           "language": "繁体中文",
@@ -718,7 +718,7 @@
         },
         {
           "language": "韩文",
-          "content": "미, 미안… 다음엔 더 열심히 할게!"
+          "content": "미, 미안…… 다음엔 더 열심히 할게!"
         },
         {
           "language": "繁体中文",
@@ -840,15 +840,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、あ～け～お～め～！もう眠いから、新年の挨拶とか先に言っとくねぇ～。前にあげた缶詰どうだった～？気に入ってくれたなら、まだいっぱいあるからねぇ～。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Doctor Happy New Year! I'm really sleepy already, so I'm just wishing you a good year ahead of time. How was that can I gave you, tasty? If you liked it, I could give you a few more."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "박사, 새~해~복~많이~받아~! 졸려서 미리 말해두는 거야~ 전에 줬던 통조림은 어땠어? 마음에 들면 몇 개 더 줄게~"
         },
         {
           "language": "繁体中文",
@@ -883,12 +883,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "像这样大家都聚在一起真的好开心呢~什么事都不用操心，只用关心会有什么节目，有什么好吃的~是不是灯光秀要开始了？走吧走吧~要是每一天都是这样就好了哦，博士~"
+          "content": "芬~你太坏了~！博士，放心跟我走~欸？您怎么突然蹲下？门上没有放水桶~噗，凳子是四条腿哦~蛋糕里也没有放辣椒酱~......嘿嘿~其实什么恶作剧都没有哦~是她们被耍啦~！"
         },
         {
           "language": "日文",
@@ -901,6 +901,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "像这样大家都聚在一起真的好开心呢~什么事都不用操心，只用关心会有什么节目，有什么好吃的~是不是灯光秀要开始了？走吧走吧~要是每一天都是这样就好了哦，博士~"
+        },
+        {
+          "language": "日文",
+          "content": "こうしてみんな一緒にいるとやっぱり楽しいねぇ～。なにも心配する必要ないし、面白いイベントとか、美味しいものだけに集中できるからねぇ。あ～、そろそろイルミネーションショーが始まるかなぁ～？いこいこぉ～毎日こうだったらいいのにねぇ、ドクター。"
+        },
+        {
+          "language": "英文",
+          "content": "It's so fun having everyone together like this. Not a care in the land except what's coming up next and what eats there are. How nice it'll be if every day was like this. Oh, the light show's starting? Let's get moving, Doctor."
+        },
+        {
+          "language": "韩文",
+          "content": "이렇게 다들 모여있으니 너무 좋아~ 아무것도 걱정할 필요 없이, 어떤 이벤트가 있는지, 어떤 맛있는 게 있는지만 신경 쓰면 되잖아. 앗! 라이트쇼가 시작되려나 본데? 어서 가자~ 매일매일이 이랬으면 좋겠어, 박사!"
         },
         {
           "language": "繁体中文",

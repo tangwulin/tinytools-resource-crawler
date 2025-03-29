@@ -1,0 +1,552 @@
+{
+  "name": "隐德来希",
+  "charaKey": "char_4010_etlchi",
+  "images": [
+    "https://media.prts.wiki/2/2d/%E7%AB%8B%E7%BB%98_%E9%9A%90%E5%BE%B7%E6%9D%A5%E5%B8%8C_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/6/61/%E7%AB%8B%E7%BB%98_%E9%9A%90%E5%BE%B7%E6%9D%A5%E5%B8%8C_2.png?image_process=format,webp/quality,Q_90"
+  ],
+  "voiceBase": [
+    {
+      "language": "日语",
+      "base": "voice/char_4010_etlchi"
+    },
+    {
+      "language": "中文-普通话",
+      "base": "voice_cn/char_4010_etlchi"
+    }
+  ],
+  "voiceList": [
+    {
+      "title": "任命助理",
+      "filename": "CN_001.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "只让我做材料整理不是什么高明的规划。别浪费人力，把那些表格扔过来，我给你重新安排......我已经坐在你的椅子上帮你解决困难了，你就安心休息一会儿，好吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈1",
+      "filename": "CN_002.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "“小石榴”可是相当精巧的法术造物。杀人也好，救人也好，它能让我少洒些血，做事干净漂亮些。不过，说到底它只是块鲜血结晶而已，你看得这么着迷，给你玩一会儿吧——怎么把手缩回去了？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈2",
+      "filename": "CN_003.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这些任务我都顺手办好了。不用谢，别让我觉得自己好像费了点劲才搞定这种小事。顺带一提，小兔子什么时候才能不借你的口来托我帮忙？放心啦，我不会再像以前那样吓唬她了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "交谈3",
+      "filename": "CN_004.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "那几位姐妹又拒绝了我的探望，她们还是那么看不惯我......我可从没说过，玫瑰河畔的航船都是相亲相爱的呀。既然我们都能触知彼此心脏泵出血液时的搏动，那信任就不需要情感来维持。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈1",
+      "filename": "CN_005.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "没有别人，刚才我在和菈玛莲聊天——或者说得准确些，和女妖们编织的咒言聊天，怀念一下我去各地游历领略过的河畔风光。谁不是这样呢？拿些珍贵的东西做信物，代替自己陪在珍视的人身边。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "晋升后交谈2",
+      "filename": "CN_006.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一些姐妹从来没有亲眼见过这艘船，有人想象，它是无数血管织成的一枚卵；有人以为，它是通信数据和电缆构建的幽灵。我为什么能清晰地知道她们的想象？是啊，为什么呢？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈1",
+      "filename": "CN_007.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不会告诉任何人的——讲讲看，刚刚进办公室那位，和之前进来那位，关系不太一般吧？再看看你自己愁眉苦脸的样子......我没在打听情报，我在关心你呀。你可不要随便沾惹感情纠葛哦。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈2",
+      "filename": "CN_008.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "退回别人的心意是最没礼貌的，你说是不是？有的人呀，看到自身出现了变化，就想和过去告别。但我总是记得我跟每个朋友最亲近的那一刻。那些记忆又不是假的，何必自顾自否认我们的友情呢？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖提升后交谈3",
+      "filename": "CN_009.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "是啊，我的审讯可是很温柔的，只要一个人流的血够多，我就能翻遍那颗小心脏，挖出我好奇的一切秘密。可惜，你和你的血都太珍贵了。努力活吧，到你重伤濒死的那天，我会来见你的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "闲置",
+      "filename": "CN_010.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "嗯......脉搏很稳定，只是睡得很香，不是死了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "干员报到",
+      "filename": "CN_011.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "代号，隐德来希。好久不见，这艘船上的战地指挥官——别为忘记我而愧疚，你不可能熟悉任何一艘航船。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "观看作战记录",
+      "filename": "CN_012.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "一台机器所记录的情形，真的比一个人心头涌现的记忆更接近事实吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升1",
+      "filename": "CN_013.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "作为感谢，我也该“提升”你，是不是？把你身体里的血净化一遍，看看你能不能变成纯粹的血魔——放心吧，你又不是混血萨卡兹，受不起这样的折磨。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精英化晋升2",
+      "filename": "CN_014.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这勋章，你想好了吗？我挑剔礼物，也挑剔赠礼人。有航船之间的誓言在先，我可不能为罗德岛做得太多——不过，如果朋友有私人委托，我不介意随时帮忙。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "编入队伍",
+      "filename": "CN_017.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我不介意一次护送这么多人。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "任命队长",
+      "filename": "CN_018.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "小心些，别让自己的血流干了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动出发",
+      "filename": "CN_019.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "每一滴血都会说话。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动开始",
+      "filename": "CN_020.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我喜欢地面干净些，就送你们一个不用流血的死法吧。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员1",
+      "filename": "CN_021.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你也有举棋不定的时候？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "选中干员2",
+      "filename": "CN_022.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你需要冷静的话，我可以让你的心脏跳得慢些。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署1",
+      "filename": "CN_023.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "这种时候，“小石榴”的光泽是最美的。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "部署2",
+      "filename": "CN_024.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "别误会，我不喜欢战场的气味。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中1",
+      "filename": "CN_025.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "从心脏中涌现。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中2",
+      "filename": "CN_026.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "从皮肉中抽离。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中3",
+      "filename": "CN_027.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "从生回溯至死。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "作战中4",
+      "filename": "CN_028.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "哎呀，别被自己的血呛到了，好吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "完成高难行动",
+      "filename": "CN_029.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "还不错，我会把这一刻收存在记忆里。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "3星结束行动",
+      "filename": "CN_030.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "感觉到血流加速了吗？觉得眼前的景象漂亮吗？要是你对这场战斗的结果满意，我就不算白跑一趟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "非3星结束行动",
+      "filename": "CN_031.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "但凡流了血的，就逃不掉。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行动失败",
+      "filename": "CN_032.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "走呀，别看这里的一片狼藉，别让自己留下伤痕。善后有我一个人就够了。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "进驻设施",
+      "filename": "CN_033.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "很眼熟。和我当时的猜测一样，没人能改变这艘船的机械结构。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "戳一下",
+      "filename": "CN_034.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "血液倒流的感觉舒服吗？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "信赖触摸",
+      "filename": "CN_036.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "我愿意给你一点祝福，比如，给你的笔尖施加一个与“小石榴”相同的美化法术，怎么样？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "标题",
+      "filename": "CN_037.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "明日方舟。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "新年祝福",
+      "filename": "CN_038.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "真难得，人人都有兴致庆祝一个节日，而不是在这一天为谁哀悼——也难得有一场宴会不害怕血魔入席。玫瑰河畔的姐妹们都做过不少败人兴致的事，谁叫宴会是最容易打探情报的地方呢？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "问候",
+      "filename": "CN_042.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "如果我也是一位被无数人惦记性命的指挥官，我会学着把脚步放轻些，博士。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "新生可向来是件鲜血淋漓的事，有些姐妹纪念仇敌被杀死的日子，也有姐妹将血液被净化、自己成为纯粹的血魔的那一天视作生日。你呢？来到这片大地上，你流过的血、受过的痛楚，你还记得多少？"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "告别很难，所以我们该努力让离别更少一些。这当然不是我的信念，但确实是当初玫瑰河畔支持特蕾西娅的原因，也是如今我给你们帮忙的理由。好了，开始念你的回顾报告吧，我喜欢听人追忆过去。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

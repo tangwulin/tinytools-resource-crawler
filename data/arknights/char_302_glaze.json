@@ -1,7 +1,11 @@
 {
   "name": "安比尔",
   "charaKey": "char_302_glaze",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/3/3e/%E7%AB%8B%E7%BB%98_%E5%AE%89%E6%AF%94%E5%B0%94_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/4/4e/%E7%AB%8B%E7%BB%98_%E5%AE%89%E6%AF%94%E5%B0%94_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/1/1e/%E7%AB%8B%E7%BB%98_%E5%AE%89%E6%AF%94%E5%B0%94_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -915,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "あれっ、あんたもサボりに来てんのー？ほい、ここ座れば。ブリッジに座ってさー、みんながデッキでせこせこやってんのを眺めてたら、なんか落ち着くんだよねー。てかなんで今日は誰もいないんだろ……あーっ！今日は新年のお休みだったの！？"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Huh? You're goofing off here too? Alright then, come take a seat. I feel kinda peaceful, sitting on the bridge, watching the busy people run all over the deck. But why is it so empty today? Kinda straaange... Wait a second! Today is New Year's?!"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "어? 너도 땡땡이치러 온 거야? 자, 여기 앉아. 함교에 앉아서, 모두가 바쁘게 움직이는 모습을 보고 있으면, 왠지 모르게 마음이 안정되곤 해. 근데 오늘은 아무도 없네…… 아? 아! 오늘 새해 휴일이라고?!"
         },
         {
           "language": "繁体中文",
@@ -958,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "你问我在罗德岛找到的“实际的东西”是什么？嗯，当然是每天在舰桥上看不同样子的日落，还有用这把铳做点好事的感觉。挺帅的对不对？嗯，骗你的。不要说这些麻烦事啦，我要去食堂抢布丁吃！"
+          "content": "生日快乐，这个送给你，“芝士满满黄油味乳酪干”。限定版哦，才不是我吃剩下的——好吧，最近买的东西有点多，没什么积蓄了......要不要下次一起去逛街？到时候再补你一份好了。"
         },
         {
           "language": "日文",
@@ -976,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "你问我在罗德岛找到的“实际的东西”是什么？嗯，当然是每天在舰桥上看不同样子的日落，还有用这把铳做点好事的感觉。挺帅的对不对？嗯，骗你的。不要说这些麻烦事啦，我要去食堂抢布丁吃！"
+        },
+        {
+          "language": "日文",
+          "content": "あたしがロドスで見つけた「確かなもの」は何かって？んーと、ブリッジから日ごとに違う夕焼けを眺める時とか、この銃でいいことした時の気分とかかなー。イケてるっしょ？なんて、冗談だけどさ。あーもうめんどい話はやめやめ、さっさと食堂行ってプリンゲットしないと！"
+        },
+        {
+          "language": "英文",
+          "content": "You want to know what I've found at Rhodes Island that's so 'practical'? Um, obviously, seeing a different sunset on the bridge every day, and the feeling of using this gun to do something good. Pretty cool, yeah? Just kidding. Alright, let's forget all this complicated stuff. I'm gonna nab some pudding from the canteen!"
+        },
+        {
+          "language": "韩文",
+          "content": "내가 로도스 아일랜드에서 발견한 '실질적인 게' 뭐냐고? 음, 함교에 앉아 날마다 다른 노을을 바라보는 거, 이 총으로 좋은 일을 했을 때의 기분이랄까. 어때, 멋있지? 믿었어? 당연히 농담이지. 이런 귀찮은 이야기는 그만하고, 빨리 식당에 푸딩 가지러 가자, 선착순이라고!"
         },
         {
           "language": "繁体中文",

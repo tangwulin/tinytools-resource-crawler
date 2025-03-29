@@ -44,7 +44,7 @@
         },
         {
           "language": "韩文",
-          "content": "임무 배정은 아직도 끝나지 않았나? 조금만 더 기다려 주지…"
+          "content": "임무 배정은 아직도 끝나지 않았나? 조금만 더 기다려 주지……"
         },
         {
           "language": "繁体中文",
@@ -96,7 +96,7 @@
         },
         {
           "language": "韩文",
-          "content": "예전엔 더 괜찮은 식사를 하곤 했었는데… 인드라나 다른 멤버들이랑 만나고 나서 부턴… 이거… 꼴이 말이 아니네."
+          "content": "예전엔 더 괜찮은 식사를 하곤 했었는데…… 인드라나 다른 멤버들이랑 만나고 나서 부턴…… 이거…… 꼴이 말이 아니네."
         },
         {
           "language": "繁体中文",
@@ -226,7 +226,7 @@
         },
         {
           "language": "韩文",
-          "content": "경계를 늦추지 마…! 충분히 주의하고 있다는 건 잘 알지만, 우리 몇 사람의 힘으로는 어떻게 해 볼 수 없는 일도 있기 마련이니."
+          "content": "경계를 늦추지 마……! 충분히 주의하고 있다는 건 잘 알지만, 우리 몇 사람의 힘으로는 어떻게 해 볼 수 없는 일도 있기 마련이니."
         },
         {
           "language": "繁体中文",
@@ -252,7 +252,7 @@
         },
         {
           "language": "韩文",
-          "content": "도망칠 곳 없는 어려운 문제를 마주하게 된다면… 내게도 생각이 있지. 그때는 박사, 네 녀석도 내…… 아니, 아무것도 아냐."
+          "content": "도망칠 곳 없는 어려운 문제를 마주하게 된다면…… 내게도 생각이 있지. 그때는 박사, 네 녀석도 내…… 아니, 아무것도 아냐."
         },
         {
           "language": "繁体中文",
@@ -356,7 +356,7 @@
         },
         {
           "language": "韩文",
-          "content": "승진? 호오…"
+          "content": "승진? 호오……"
         },
         {
           "language": "繁体中文",
@@ -920,15 +920,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "懐かしい鐘の音が聞こえてきそうだ……新しい一年では、陽の光がロンディニウムを覆う煙霧を切り裂いてくれることを願う。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "It's like I can hear an all-too-familiar chime again... I hope the new year's sun will be enough to tear through the hazy Londinium skies."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "익숙한 종소리가 들린 것 같았는데…… 새로운 한 해에는 찬란한 태양의 빛이 런디니움에 가라앉은 안개를 전부 쫓아내 줬으면 좋겠네."
         },
         {
           "language": "繁体中文",
@@ -963,12 +963,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "博士，作为领袖，你也会迷茫吗？当你做的选择，可能影响许多人的命运时，你会感觉到沉重的压力吗？我不会逃避责任，但是有许多问题，我要仔细考虑......博士，也许我需要你的指引。"
+          "content": "博士，生日快乐。过去和因陀罗他们，在街头喝得半醉之后大闹一场的庆生方式的确令人怀念，但是现在似乎不适合这么做呢......我这还有一些棒棒糖，你要来一根吗？"
         },
         {
           "language": "日文",
@@ -981,6 +981,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，作为领袖，你也会迷茫吗？当你做的选择，可能影响许多人的命运时，你会感觉到沉重的压力吗？我不会逃避责任，但是有许多问题，我要仔细考虑......博士，也许我需要你的指引。"
+        },
+        {
+          "language": "日文",
+          "content": "リーダーとして、貴様も迷うことはあるのか？貴様の選択が多くの者たちの運命を左右する時、背に重責を感じないか？私は自分が背負うべきものから逃げたりしない。だが、多くのことについて、熟思する必要がある……ドクター、貴様の指南が必要になるかもしれない。"
+        },
+        {
+          "language": "英文",
+          "content": "Doctor, as a leader, do you ever find yourself confused too? Do you feel the same heavy burden when your choices can impact the fates of so many? I'm not one to flee from my duty, but there is so much that requires careful consideration... I may want some guidance from you."
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 너도 리더로서 막막함을 느낄 때가 있어? 네 결정이 많은 사람들의 운명을 좌우할 때, 너도 그런 무거운 압박감을 느껴? 난 내 책임을 피하지 않을 거야. 하지만 지금은 고민해야 할 문제가 아직 너무 많아…… 박사, 난 네 도움이 필요한 걸지도 모르겠어."
         },
         {
           "language": "繁体中文",

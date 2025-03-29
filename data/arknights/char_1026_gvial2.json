@@ -1,7 +1,11 @@
 {
   "name": "百炼嘉维尔",
   "charaKey": "char_1026_gvial2",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/d/d8/%E7%AB%8B%E7%BB%98_%E7%99%BE%E7%82%BC%E5%98%89%E7%BB%B4%E5%B0%94_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/7/76/%E7%AB%8B%E7%BB%98_%E7%99%BE%E7%82%BC%E5%98%89%E7%BB%B4%E5%B0%94_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/4/4e/%E7%AB%8B%E7%BB%98_%E7%99%BE%E7%82%BC%E5%98%89%E7%BB%B4%E5%B0%94_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -915,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、あけましておめでとう。そうだ、ズゥママたちとアカフラ式の年越しパーティーをやるつもりなんだけど、お前も聞いてるよな？いつもお前らが主催してばっかだから、そろそろティアカウのお祭りも見せてやらねぇとな。もちろん来てくれるよな、ドクター？"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Happy New Year to you, Doctor. Oh yeah, you heard, right? Me and Zumama are gonna prep an Acahualla-style New Year's feast. We've done it your way, I think it's about time you saw how we Tiacauh do a festival. You're gonna come, right?"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "새해 복 많이 받아, 박사. 아, 너도 들었지? 나랑 주마마네 녀석들이랑 아카후알라식 송년 파티를 열기로 했어. 너희의 송년 파티를 보여 줬으니, 우리도 티아카우에서는 어떻게 축제를 여는지 보여 줘야겠지. 너도 올 거지?"
         },
         {
           "language": "繁体中文",
@@ -958,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "博士，我们之间就不用说什么肉麻的话了吧？我是罗德岛的医生兼战士，嘉维尔。哪里有矿石病人，哪里就有我。就这么简单，不是吗？"
+          "content": "博士，又到了你的生日啊，在罗德岛上，一年里除了新年，就数这个日子最热闹了，你真是有够受欢迎的。给你，我的礼物。还有，老规矩，今天我会看着你，不会让你有机会工作的。"
         },
         {
           "language": "日文",
@@ -976,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "博士，我们之间就不用说什么肉麻的话了吧？我是罗德岛的医生兼战士，嘉维尔。哪里有矿石病人，哪里就有我。就这么简单，不是吗？"
+        },
+        {
+          "language": "日文",
+          "content": "ドクター、アタシたちの仲だし、臭いセリフなんていらないよな？アタシはロドスの医者で戦士のガヴィル。鉱石病患者がいるところにアタシあり。な、簡単な話だろ？"
+        },
+        {
+          "language": "英文",
+          "content": "We don't need to exchange any sappy words here, do we, Doctor? I'm Gavial, the medic-slash-warrior of Rhodes Island. Where there's people with Oripathy, I'm there. It's that simple, isn't it?"
+        },
+        {
+          "language": "韩文",
+          "content": "박사, 우리 사이에 오글거리는 말을 할 필요는 없겠지? 난 로도스 아일랜드의 의사 겸 전사인 가비알. 광석병 환자가 있는 곳엔 내가 있다. 뭐, 간단하지?"
         },
         {
           "language": "繁体中文",

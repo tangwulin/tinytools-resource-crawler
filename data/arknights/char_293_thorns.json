@@ -1,7 +1,12 @@
 {
   "name": "棘刺",
   "charaKey": "char_293_thorns",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/e/e2/%E7%AB%8B%E7%BB%98_%E6%A3%98%E5%88%BA_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/4/41/%E7%AB%8B%E7%BB%98_%E6%A3%98%E5%88%BA_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/0/08/%E7%AB%8B%E7%BB%98_%E6%A3%98%E5%88%BA_skin1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/3/3a/%E7%AB%8B%E7%BB%98_%E6%A3%98%E5%88%BA_skin2.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -14,6 +19,10 @@
     {
       "language": "韩语",
       "base": "voice_kr/char_293_thorns"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_293_thorns"
     }
   ],
   "voiceList": [
@@ -31,7 +40,7 @@
         },
         {
           "language": "英文",
-          "content": "Before you start working, take some of this. Good. Now, for the duration of this drug, you won't be slacking off, right?"
+          "content": "Drink this, before you start working. Good. That medication will keep you up as long as it's in your system. I trust you'll stay focused, won't you?"
         },
         {
           "language": "韩文",
@@ -57,7 +66,7 @@
         },
         {
           "language": "英文",
-          "content": "Separation and analysis of the extract are almost complete, next step is purification. Actual effect needs further testing... Huh? Why are you staring at my hair, Doctor? My hair...&nbsp;is a total mess? Don't worry about it. Wouldn't be the first time my experiment has failed, or the second."
+          "content": "Separation and analysis of the extract almost complete; next step, purification; Further testing needed to determine actual effect... Hm? Why are you staring at my hair, Doctor...? It's frazzled? Don't worry about it. Wouldn't be the first time my experiment has failed, or the second."
         },
         {
           "language": "韩文",
@@ -83,7 +92,7 @@
         },
         {
           "language": "英文",
-          "content": "The drugs I carry on me? They're not fatal, but it'd be best not to touch them."
+          "content": "The concoctions I carry with me? They're not lethal, though I do advise against physical contact."
         },
         {
           "language": "韩文",
@@ -109,7 +118,7 @@
         },
         {
           "language": "英文",
-          "content": "Always keep your mind running. Giving up on thought is tantamount on handing your keys to your enemies. I've been taught this many times,&nbsp;and always think back to it."
+          "content": "Always keep your mind running. To cease thinking is to expose your weaknesses to your enemies. This I've been taught many times and committed to memory."
         },
         {
           "language": "韩文",
@@ -135,7 +144,7 @@
         },
         {
           "language": "英文",
-          "content": "My people originally had a completely different appearance. Our skin was as hard as a carapace, and our hair was as smooth as flowing water. However, the scorching sun and dry air have turned us into what we are today. You believed that? Sorry, I was just speaking gibberish just now."
+          "content": "My people once looked entirely different. Our skin was as hard as a carapace, and our hair flowed smoothly like water. However, the relentless sun and arid conditions have turned us into what we are now. You believed that? Sorry, I was just making things up."
         },
         {
           "language": "韩文",
@@ -161,7 +170,7 @@
         },
         {
           "language": "英文",
-          "content": "If you are not a follower of the Laterano religion, it is best not to go to Iberia. Their so-called 'purest faith' is rooted in that land, and the people there are so pious that even the Laterano people are ashamed of it. As for me? None of that concerns me in the slightest."
+          "content": "If you are not a follower of the Laterano religion, it is best not to go to Iberia. Their so-called 'purest faith' is rooted in that land. The people there are so pious, even the Laterans feel ashamed among them. As for me? None of that concerns me in the slightest."
         },
         {
           "language": "韩文",
@@ -187,7 +196,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctor, have you heard anything about the past history of the Iberian Correctional Army? If you've heard even anything remotely relevant, you should know that the inhabitants of that chunk of land are far crazier than their cold, plain gray buildings suggest."
+          "content": "Doctor, have you learned any of the history of the Iberian Penal Battalion? If you've heard even anything remotely relevant, you should know that the inhabitants of that land are far crazier than their cold, plain gray buildings suggest."
         },
         {
           "language": "韩文",
@@ -213,7 +222,7 @@
         },
         {
           "language": "英文",
-          "content": "The angle of attack, the vector of evasion, the posture of defense. Every action is calculated, and there are no wasteful movements. This is what they call the 'Destreza.' Don't you think this is similar to your commanding style, Doctor?"
+          "content": "The angle of attack, the path of evasion, and the posture of defense. Every action is calculated, and no effort is wasted. This is what they call 'La Destreza.' Don't you think this is similar to your command style, Doctor?"
         },
         {
           "language": "韩文",
@@ -239,7 +248,7 @@
         },
         {
           "language": "英文",
-          "content": "I need to unwind a bit more when I'm resting? Not thinking about anything and just bask in the sun or let my hair blow in the wind? ...Well, it might be nice to give it a try every now and then. Come up, over here. The breeze up here reminds me of my hometown..."
+          "content": "I need to unwind a bit more when I'm resting, you say...? Empty your thoughts and just enjoy the sun and the breeze… I suppose it is nice to give it a try every now and then. Come, Doc. The breeze up here reminds me of my hometown…"
         },
         {
           "language": "韩文",
@@ -291,7 +300,7 @@
         },
         {
           "language": "英文",
-          "content": "So you're the Doctor? I'll give a brief introduction then. Code name, Thorns. Starting today, I'll be taking my post— Huh? One trouser leg is rolled up? ...Don't worry about it, this happens a lot."
+          "content": "So you're the Doctor? I'll keep this brief then. Code name: Thorns. Starting today, I'll be assuming my post. Yes? My trouser leg is rolled up...? Pay it no mind; this happens a lot."
         },
         {
           "language": "韩文",
@@ -317,7 +326,7 @@
         },
         {
           "language": "英文",
-          "content": "Hmm... This information does have some merit."
+          "content": "Hmm... These recordings do seem useful."
         },
         {
           "language": "韩文",
@@ -343,7 +352,7 @@
         },
         {
           "language": "英文",
-          "content": "A promotion? You should decide on things like that. Can I go now?"
+          "content": "A promotion? I trust your judgment on matters like these. Now, can I be excused?"
         },
         {
           "language": "韩文",
@@ -369,7 +378,7 @@
         },
         {
           "language": "英文",
-          "content": "Quickly and efficiently seal the opponent's ability to act, and attain victory at the lowest cost — I think I fully understand your orders. In that case, I'll use this paralytic neurotoxin in tandem with my attacks. I take it that you have no issue with this?"
+          "content": "Neutralize the opponent's actions swiftly and efficiently, then secure victory at minimal cost... I think I fully understand your orders. In that case, I'll use this paralytic neurotoxin in tandem with my attacks. I take it that you have no issue with this?"
         },
         {
           "language": "韩文",
@@ -421,7 +430,7 @@
         },
         {
           "language": "英文",
-          "content": "Team leader? It'd be best not to have any expectations. I'm not very good at leading."
+          "content": "Captain? You shouldn't expect much. Leadership is not my forte."
         },
         {
           "language": "韩文",
@@ -525,7 +534,7 @@
         },
         {
           "language": "英文",
-          "content": "Give me your orders."
+          "content": "Awaiting orders."
         },
         {
           "language": "韩文",
@@ -577,7 +586,7 @@
         },
         {
           "language": "英文",
-          "content": "Let's just incapacitate them and move on."
+          "content": "Incapacitating them is enough, right?"
         },
         {
           "language": "韩文",
@@ -603,7 +612,7 @@
         },
         {
           "language": "英文",
-          "content": "Stop moving around. It'll spare all of us the effort."
+          "content": "Stand still. It'll spare all of us the effort."
         },
         {
           "language": "韩文",
@@ -681,7 +690,7 @@
         },
         {
           "language": "英文",
-          "content": "Watch carefully, this is the Destreza of Iberia!"
+          "content": "Don't blink, this is the Destreza of Iberia!"
         },
         {
           "language": "韩文",
@@ -707,7 +716,7 @@
         },
         {
           "language": "英文",
-          "content": "A pristine outcome. Was this also a part of your calculations?"
+          "content": "An excellent outcome. Was this also a part of your calculations?"
         },
         {
           "language": "韩文",
@@ -759,7 +768,7 @@
         },
         {
           "language": "英文",
-          "content": "There was an omission in your command, and my improper execution amplified this omission. We should both reflect upon this after we return."
+          "content": "There was an oversight in your command, exacerbated by my improper execution. We should both reflect upon this after we return."
         },
         {
           "language": "韩文",
@@ -863,7 +872,7 @@
         },
         {
           "language": "英文",
-          "content": "My hair? Gah... I just combed it, why's it messed up again?"
+          "content": "My hair? Oh... I just combed it, why's it all ruffled up again?"
         },
         {
           "language": "韩文",
@@ -911,15 +920,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "「古きに別れを告げ新しきを迎える」……？服なら間に合っている。この服は耐爆性も十分だし、着心地もいいから今のところ新調するつもりはない。だが、新しいものを取り入れるアイデア自体は悪くないな。例のエアロビクスに新たな振り付けを加えてもいいかもしれない。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "New things for the new year…? I suppose I have no need for any new clothes. My outfit here holds up against explosions pretty well and it's comfortable enough. But you do make a good point, though. It's about time to add some new moves to my exercise routine."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "옛것을 떠나보내고 새로운 것을 맞이한다……? 옷이라면 굳이 새 옷을 살 필요는 없을 것 같다. 내구성도 좋은 데다 매우 편해서 당분간은 바꿀 생각이 없거든. 하지만 생각 자체는 나쁘지 않은 것 같다. 건강 체조에 새로운 동작을 추가할 때가 된 모양이야."
         },
         {
           "language": "繁体中文",
@@ -941,7 +950,7 @@
         },
         {
           "language": "英文",
-          "content": "You seem tired. Should I help wake you up, Doctor?"
+          "content": "You seem tired. Would you like a pick-me-up, Doctor?"
         },
         {
           "language": "韩文",
@@ -950,6 +959,32 @@
         {
           "language": "繁体中文",
           "content": "你看起來似乎很疲倦，要不要我來幫你清醒一下，博士。"
+        }
+      ]
+    },
+    {
+      "title": "生日",
+      "filename": "CN_043.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "生日快乐，博士，正好我有礼物要给你。为了让你喜欢它，我用心地包装了一下，挺好看的吧？不过拆的时候最好戴上手套，以防万一。"
+        },
+        {
+          "language": "日文",
+          "content": ""
+        },
+        {
+          "language": "英文",
+          "content": ""
+        },
+        {
+          "language": "韩文",
+          "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
         }
       ]
     },
@@ -963,15 +998,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "ドクター、ロドスがイベリアに興味を持っていることは知っているが、俺の語るイベリアがその全てを体現しているとは限らない。使い手によって剣筋を変える至高の術（デストレッツァ）のようにな。だが、目で見て理解することは難しくとも、結局のところそれは至ってシンプルな一太刀に過ぎないのかもしれない。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Doctor, I know Rhodes Island has always been curious about Iberia, but no two Iberians can give the same recount, just as no two swordsmen will perform the same la Destreza. While the move may seem simple, one can only observe its form, and not learn its essence."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "로도스 아일랜드가 이베리아에 관심을 갖고 있다는 건 잘 알고 있어. 하지만 내가 전달하는 이베리아의 정보와 실제 모습은 다를 수도 있다. 데스트레자처럼 말이다. 검술의 사용 방식은 검사마다 달라도 그 정수는 아마 단순해 보이지만 깊은 이해 없이는 파악하기 어려운 동작일 수 있지."
         },
         {
           "language": "繁体中文",

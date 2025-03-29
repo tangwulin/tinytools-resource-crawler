@@ -1,7 +1,11 @@
 {
   "name": "鞭刃",
   "charaKey": "char_265_sophia",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/7/7a/%E7%AB%8B%E7%BB%98_%E9%9E%AD%E5%88%83_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/4/4a/%E7%AB%8B%E7%BB%98_%E9%9E%AD%E5%88%83_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/5/51/%E7%AB%8B%E7%BB%98_%E9%9E%AD%E5%88%83_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -14,6 +18,10 @@
     {
       "language": "韩语",
       "base": "voice_kr/char_265_sophia"
+    },
+    {
+      "language": "英语",
+      "base": "voice_en/char_265_sophia"
     }
   ],
   "voiceList": [
@@ -31,7 +39,7 @@
         },
         {
           "language": "英文",
-          "content": "You hear about burdenbeasts who don't even drag themselves to work until they're whipped. You're not like that, Doctor. You're smarter than a beast, aren't you?"
+          "content": "Some burdenbeasts won't drag themselves to work until they're whipped. But you're different, Doctor, you're way smarter than a beast, isn't that true?"
         },
         {
           "language": "韩文",
@@ -57,7 +65,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctor. Just to put any scary little misunderstandings to rest, let me say this now. Maria might call me her aunt, but that's only because I'm higher in the family. I'm not much older than her. I'm still young. I'm still not married. Clear?"
+          "content": "Doctor. Just to put any little misunderstandings to rest, let me say this now. Maria might call me her aunt, but that's only because I'm higher in the family. I'm still young. I'm not much older than her. And, I'm still not married. Clear?"
         },
         {
           "language": "韩文",
@@ -83,7 +91,7 @@
         },
         {
           "language": "英文",
-          "content": "A spat between me and Dobermann? Oh, don't worry, she's a top-of-the-top instructor, I know that. We've just had a bit of a... bit of a difference on how we like to train our people, that's all."
+          "content": "A spat between me and Dobermann...? Oh, don't worry, she's a top-of-the-top instructor, I know that. We've just had a bit of a… bit of a difference on how we like to train our people, that's all."
         },
         {
           "language": "韩文",
@@ -109,7 +117,7 @@
         },
         {
           "language": "英文",
-          "content": "There's plenty at Rhodes Island packing personality AND strength, hm? You could pick your fancy, turn them into competition knights and grab everyone in there by the eyes... Mm, well, or maybe let's not stir that pot."
+          "content": "There's plenty at Rhodes Island who pack personality AND strength. You could pick anyone, turn them into competition knights, and have every eye in the room on them... Well, maybe let's not stir that pot."
         },
         {
           "language": "韩文",
@@ -135,7 +143,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctor, can I borrow you? I just want you to help me carry some things. If you're asking, well... er, just... all sorts of random things I buy when the mood strikes me."
+          "content": "Doctor, can I borrow you? I just want you to help me carry some things. What things, you ask? Well... Hmm... all sorts of random things I buy when the mood strikes me."
         },
         {
           "language": "韩文",
@@ -161,7 +169,7 @@
         },
         {
           "language": "英文",
-          "content": "Oh, my injury...? I'm not setting foot on that stage ever again, and I've long since learned to get along with my right, so let's not worry yourself, okay. Or maybe you're just being polite, Doctor? Tiptoeing around saying I can't fight at operator standards?"
+          "content": "My injury...? Well, I'm not setting foot in that arena ever again, and I've long since learned to get along with my right hand. So let's not worry yourself, okay? Or maybe... you're just being polite, Doctor? Tiptoeing around saying I can't fight at operator standards, huh?"
         },
         {
           "language": "韩文",
@@ -187,7 +195,7 @@
         },
         {
           "language": "英文",
-          "content": "Honestly, Maria. She runs away to the Engineering Department any time she's free. You get used to it fast. *Sigh* I wonder where her education gave her those ideas... Well! Compared to forcing herself to arm up and do what she doesn't want to, I think things are fine this way."
+          "content": "My little Maria, she just runs away to the Engineering Department any time she's free. Such a headstrong girl she is, I never know what to say. Where did I go wrong that she ended up like this...? Well, whatever. Compared to forcing herself to arm up and do what she doesn't want to, life is better this way."
         },
         {
           "language": "韩文",
@@ -213,7 +221,7 @@
         },
         {
           "language": "英文",
-          "content": "Hm? Hello, Doctor. No, I've just been feeling a little empty. Margaret never wants fussing over, Maria's found what she's wanted to do here, and what about me...? Oh, god, what am I doing talking to you about this? Don't you worry about me, let me make that clear."
+          "content": "Hm…? Oh, Hello, Doctor. No, I've just been feeling a little empty. Margaret never needs my fussing, Maria's found what she wants to do here, but... what about me...? Oh, gosh, what am I saying? Don't you worry about me, Doctor. I'm fine."
         },
         {
           "language": "韩文",
@@ -239,7 +247,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctor, we don't get along half bad, but you don't just lie there and leave it all up to me, not in your wildest dreams. I hate danger plenty, but layabouts leave another bad taste in my mouth. Though, when your back's against the wall... *cough* Well, we can talk about it then!"
+          "content": "Doctor, we don't get along half bad, but you don't just lie there and leave it all up to me, not in your wildest dreams. I hate danger plenty, but layabouts leave a bad taste in my mouth. Though, when your back's against the wall... Well, we can talk about it then!"
         },
         {
           "language": "韩文",
@@ -265,7 +273,7 @@
         },
         {
           "language": "英文",
-          "content": "Someone's easygoing, aren't you? Well, I can let you rest for ten minutes or so."
+          "content": "Someone's easygoing, eh? Alright then, I'll let you nap for ten minutes."
         },
         {
           "language": "韩文",
@@ -291,7 +299,7 @@
         },
         {
           "language": "英文",
-          "content": "Ahh, this is Rhodes Island, is it? I'm Zofia the Whislash, then. As a former competition knight of Kazimierz, trust me when I say I'll whip your operators into shape."
+          "content": "Ahh, this is Rhodes Island, is it? I'm Whislash Zofia. As a former competition knight of Kazimierz, trust me when I say I'll whip your operators into shape."
         },
         {
           "language": "韩文",
@@ -317,7 +325,7 @@
         },
         {
           "language": "英文",
-          "content": "These are ways of fighting I've never even heard of before!"
+          "content": "I've never even heard of fighting like this before!"
         },
         {
           "language": "韩文",
@@ -343,7 +351,7 @@
         },
         {
           "language": "英文",
-          "content": "So this is a Rhodes Island promotion, then...? Why not. I don't pay much attention to my wages, but being compensated for my troubles isn't all that bad a feeling. Thank you."
+          "content": "So this is a Rhodes Island promotion, then...? Good. I don't pay much attention to my wages, but getting paid for my effort feels nice. Thank you."
         },
         {
           "language": "韩文",
@@ -369,7 +377,7 @@
         },
         {
           "language": "英文",
-          "content": "Hmm, thinking about it carefully, the pay's not bad, life is good enough here, and I get to see Maria and Margaret all the time. Staying here as an instructor sounds nice."
+          "content": "Hmm, thinking about it carefully, the pay here is not bad, life is good enough, and I get to see Maria and Margaret all the time. Staying here as an instructor sounds like a great choice."
         },
         {
           "language": "韩文",
@@ -395,7 +403,7 @@
         },
         {
           "language": "英文",
-          "content": "Let's take a look at how you all deploy."
+          "content": "Let's see who you've got on this one."
         },
         {
           "language": "韩文",
@@ -421,7 +429,7 @@
         },
         {
           "language": "英文",
-          "content": "Leave the team to me, then."
+          "content": "Alright, I'll lead the team."
         },
         {
           "language": "韩文",
@@ -447,7 +455,7 @@
         },
         {
           "language": "英文",
-          "content": "Turn up the heat! We're going out!"
+          "content": "Get ready, everyone! We're moving out!"
         },
         {
           "language": "韩文",
@@ -473,7 +481,7 @@
         },
         {
           "language": "英文",
-          "content": "You haven't forgotten what you need to do, right?"
+          "content": "You all know your job? Alright."
         },
         {
           "language": "韩文",
@@ -525,7 +533,7 @@
         },
         {
           "language": "英文",
-          "content": "Well-timed, Doctor."
+          "content": "About time, Doctor."
         },
         {
           "language": "韩文",
@@ -551,7 +559,7 @@
         },
         {
           "language": "英文",
-          "content": "Assess the battle first."
+          "content": "Assess the situation first."
         },
         {
           "language": "韩文",
@@ -577,7 +585,7 @@
         },
         {
           "language": "英文",
-          "content": "Zofia the Whislash, attacking!"
+          "content": "Whislash Zofia, attacking!"
         },
         {
           "language": "韩文",
@@ -603,7 +611,7 @@
         },
         {
           "language": "英文",
-          "content": "Don't underestimate me!"
+          "content": "Do not underestimate me!"
         },
         {
           "language": "韩文",
@@ -655,7 +663,7 @@
         },
         {
           "language": "英文",
-          "content": "Pushover!"
+          "content": "You won't be able to withstand the whip!"
         },
         {
           "language": "韩文",
@@ -707,7 +715,7 @@
         },
         {
           "language": "英文",
-          "content": "Really, I was going to have a word with you about taking such a dangerous mission, but seeing you tie things up so beautifully, I'll just let it slide..."
+          "content": "Honestly, I was going to have a word with you about taking such a dangerous mission, but since you tied things up so beautifully, I'll just let it slide…"
         },
         {
           "language": "韩文",
@@ -733,7 +741,7 @@
         },
         {
           "language": "英文",
-          "content": "A perfectionist, then... well, nothing wrong with that."
+          "content": "I can tell you're a perfectionist... Well, nothing wrong with that."
         },
         {
           "language": "韩文",
@@ -759,7 +767,7 @@
         },
         {
           "language": "英文",
-          "content": "We won, and that's enough, no? Don't obsess over it."
+          "content": "We won, and that's enough, no? Let's not obsess over it."
         },
         {
           "language": "韩文",
@@ -837,7 +845,7 @@
         },
         {
           "language": "英文",
-          "content": "Eek?!"
+          "content": "What?!"
         },
         {
           "language": "韩文",
@@ -863,7 +871,7 @@
         },
         {
           "language": "英文",
-          "content": "Doctor, focus on your work."
+          "content": "Doctor, you've got to focus on your work."
         },
         {
           "language": "韩文",
@@ -911,15 +919,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "マーガレットがカジミエーシュを離れてから、もうかなり長い間一緒に年越しなんてしてないわ。フフ、今日のパーティーはしっかり準備しないとね……あらドクター、ニアール家のホームパーティーに興味あるの？特別に招待してあげるわよ。"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "Since Margaret left Kazimierz, we haven't had a chance to spend New Year's together. So, I'll have to go all-out for today's banquet… Oh, Doctor, would you like to join the Nearl family feast? You're cordially invited."
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "마가렛이 카시미어를 떠난 뒤로, 이렇게 같이 새해를 맞이하는 건 정말 오랜만인걸, 후후. 오늘 파티는 정말 제대로 준비해야지…… 어머, 박사. 박사도 관심 있으면 우리 니어 가문 홈파티에 올래? 박사라면 특별히 초대해 줄 수도 있는데."
         },
         {
           "language": "繁体中文",
@@ -954,12 +962,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "在罗德岛见到了许多有趣的小家伙，他们训练时的眼神，和玛莉娅一模一样。我很期待他们成为独当一面的战士的样子，在那之前，我的教鞭是不会放松的。不要误会，这是我的职责，不是兴趣爱好。"
+          "content": "生日快乐博士。一点小礼物，喏，在这签个名吧。地方不算太大，但位置是我精心挑的，风景不错。可以建栋别墅，或者花圃什么的——嗯？干嘛这么看着我。朋友过生日的时候送一块地很奇怪吗？"
         },
         {
           "language": "日文",
@@ -972,6 +980,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "在罗德岛见到了许多有趣的小家伙，他们训练时的眼神，和玛莉娅一模一样。我很期待他们成为独当一面的战士的样子，在那之前，我的教鞭是不会放松的。不要误会，这是我的职责，不是兴趣爱好。"
+        },
+        {
+          "language": "日文",
+          "content": "ロドスでたくさん面白い子たちに出会ったわ。訓練の時の眼差しが、マリアにそっくりなの。彼らが一人前の戦士になるのが楽しみだから、それまでこの鞭を緩める気はないわよ。誤解しないでちょうだいね、これは私の責務で、趣味なんかじゃないから。"
+        },
+        {
+          "language": "英文",
+          "content": "I've met all sorts of fascinating little guys at Rhodes Island. The light in their eyes when they train is the same as I see in Maria's. I'm eager to see them transform into capable fighters. And until that day, I'll keep whipping them into shape. Oh, make no mistake, this is my duty, not a hobby."
+        },
+        {
+          "language": "韩文",
+          "content": "로도스 아일랜드에서 흥미로운 아이들을 여럿 보았어. 아이들이 훈련할 때의 눈빛은 마리아랑 정말 똑 닮았더라니까. 난 그 아이들이 훌륭한 전사로 성장하기를 기대하고 있어. 그때까지 내 교편은 절대 느슨해지지 않을 거야. 아, 오해하지 마, 이건 내 직무이지, 취미가 아니라고."
         },
         {
           "language": "繁体中文",

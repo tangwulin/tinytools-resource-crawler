@@ -1,7 +1,11 @@
 {
   "name": "石棉",
   "charaKey": "char_378_asbest",
-  "images": [],
+  "images": [
+    "https://media.prts.wiki/4/43/%E7%AB%8B%E7%BB%98_%E7%9F%B3%E6%A3%89_1.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/a/a5/%E7%AB%8B%E7%BB%98_%E7%9F%B3%E6%A3%89_2.png?image_process=format,webp/quality,Q_90",
+    "https://media.prts.wiki/0/0a/%E7%AB%8B%E7%BB%98_%E7%9F%B3%E6%A3%89_skin1.png?image_process=format,webp/quality,Q_90"
+  ],
   "voiceBase": [
     {
       "language": "日语",
@@ -321,7 +325,7 @@
         },
         {
           "language": "韩文",
-          "content": "뭐, 됐어. 호신술이라고 치자......"
+          "content": "뭐, 됐어. 호신술이라고 치자……"
         },
         {
           "language": "繁体中文",
@@ -911,15 +915,15 @@
         },
         {
           "language": "日文",
-          "content": ""
+          "content": "げっ、年越しだって忘れてたぜ。こんな時に帰ってくんじゃなかった、こう大勢でわちゃわちゃしてるとこが一番ウゼぇんだよな……チッ、前サルゴンで会ったあのアダクリス人たちだってここまでうるさくはなかったぞ。んだよ、引っ張んじゃねぇって！部屋に戻ってっから離しやがれ！"
         },
         {
           "language": "英文",
-          "content": ""
+          "content": "TBU"
         },
         {
           "language": "韩文",
-          "content": ""
+          "content": "망했다. 오늘이 새해라는 걸 잊고 있었네. 이럴 때 돌아오는 게 아니었는데. 이렇게 같이 모여있는 자리가 제일 싫어…… 쳇, 사르곤에서 만난 아다크리스 녀석들도 이렇게까지는 시끄럽지 않았는데. 계속 잡아서 뭐 하게? 이거 놔! 방에 돌아갈 거라고!"
         },
         {
           "language": "繁体中文",
@@ -954,12 +958,12 @@
       ]
     },
     {
-      "title": "周年庆典",
-      "filename": "CN_044.wav",
+      "title": "生日",
+      "filename": "CN_043.wav",
       "text": [
         {
           "language": "中文",
-          "content": "大意了，没想到除了新年罗德岛居然还有这么一个节日，我可真是会挑时间回来。打住！想和姑奶奶多说话可以，喝几杯不？要不就安静。"
+          "content": "拿着拿着，给你给你给你！居然还会专门让人送你礼物，什么人啊？好了，行，拿了就不要再多说话，麻利地出去。"
         },
         {
           "language": "日文",
@@ -972,6 +976,32 @@
         {
           "language": "韩文",
           "content": ""
+        },
+        {
+          "language": "繁体中文",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "周年庆典",
+      "filename": "CN_044.wav",
+      "text": [
+        {
+          "language": "中文",
+          "content": "大意了，没想到除了新年罗德岛居然还有这么一个节日，我可真是会挑时间回来。打住！想和姑奶奶多说话可以，喝几杯不？要不就安静。"
+        },
+        {
+          "language": "日文",
+          "content": "うっわしくったぁ、ロドスじゃ年越し以外にもこんなイベントがあるとは、毎度なんつータイミングで帰ってきてんだあたしゃ……たんま！話しかけたいなら何杯か付き合ってもらうぜ？飲まねぇなら静かにしてろ。"
+        },
+        {
+          "language": "英文",
+          "content": "TBU"
+        },
+        {
+          "language": "韩文",
+          "content": "방심했다. 로도스 아일랜드에 새해 말고도 이런 기념일이 있었다니, 나도 참 돌아올 시간 한번 잘 골랐네. 그만! 나랑 얘기하고 싶은 거면 술도 몇 잔 해야 할걸? 싫으면 그냥 조용히 있어."
         },
         {
           "language": "繁体中文",
