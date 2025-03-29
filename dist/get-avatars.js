@@ -3,6 +3,13 @@ import axios from 'axios';
 import * as fs from 'fs';
 import puppeteer from 'puppeteer';
 const avatars = {};
+const chunk = (arr, size) => {
+    const result = [];
+    for (let i = 0; i < arr.length; i += size) {
+        result.push(arr.slice(i, i + size));
+    }
+    return result;
+};
 const stopwatch = performance.now();
 avatar().then(() => {
     console.log(avatars);
@@ -32,6 +39,7 @@ async function avatar() {
             webUrl: 'https://wiki.biligame.com/umamusume/%E8%B5%9B%E9%A9%AC%E5%A8%98%E4%B8%80%E8%A7%88',
             blackList: [],
         }),
+        updateWutheringwaves({ blackList: [] })
     ]).then(() => {
         browser.close();
     });
@@ -212,4 +220,49 @@ const updateUmamusume = async (page, config) => {
     // @ts-ignore
     avatars['umamusume'] = { male: [], female };
     await page.close();
+};
+const updateWutheringwaves = async (config) => {
+    // await page.setViewport({width: 1080, height: 1024})
+    // console.log(config.webUrl)
+    // await page.goto(config.webUrl)
+    // await page.waitForSelector('#__nuxt > div > div > main > div > div > div > div.filtered-items.mt-4.grid.grid-cols-2.xl\\:grid-cols-6.gap-4 > a:nth-child(35)')
+    //
+    // const characterList= (await page.$$eval('#__nuxt > div > div > main > div > div > div > div.filtered-items.mt-4.grid.grid-cols-2.xl\\:grid-cols-6.gap-4 > a', (el) => {
+    //     return el.map(item => {
+    //         return {
+    //             url: item.querySelector('img:nth-child(3)')?.getAttribute('src') as string,
+    //             description: item.querySelector('div.grow.flex.justify-center.items-center.p-2 > div')?.innerHTML as string,
+    //             link: `https://ww.kuro.wiki${item.href}`,
+    //         }
+    //     })
+    // }))
+    //
+    // const chunks = chunk(characterList, 50)
+    let resp = await axios.get('https://static-cloudflare-ww.kuro.wiki/wiki.config.json');
+    const resVer = resp.data.resVer;
+    const storageURL = resp.data.storageURL;
+    resp = await axios.get(`${storageURL}data/${resVer}/zh-Hans/codex/roles/list.json`);
+    const characterIdList = resp.data
+        .data
+        .map(item => item.id);
+    const male = [];
+    const female = [];
+    for (const id of characterIdList) {
+        resp = await axios.get(`${storageURL}data/${resVer}/zh-Hans/codex/roles/${id}.json`);
+        const characterData = resp.data;
+        if (characterData.data.person.sex === '男') {
+            male.push({
+                description: characterData.data.title,
+                url: `${storageURL}kuro/Client/Content/Aki/UI/UIResources/${characterData.data.icon}`,
+            });
+        }
+        else {
+            female.push({
+                description: characterData.data.title,
+                url: `${storageURL}kuro/Client/Content/Aki/UI/UIResources/${characterData.data.icon}`
+            });
+        }
+    }
+    // @ts-ignore
+    avatars['wutheringwaves'] = { male, female };
 };
